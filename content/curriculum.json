@@ -1,0 +1,1018 @@
+[
+  {
+    "id": "credit-mastery",
+    "title": "Credit Mastery",
+    "short": "Credit",
+    "category": "CREDIT & CONFIDENCE",
+    "description": "Understand your credit. Build the habits that help you move forward.",
+    "total": 20,
+    "ready": true,
+    "lessons": [
+      {
+        "id": "credit-01",
+        "number": 1,
+        "title": "Understanding Canadian Credit Scores",
+        "tier": 0
+      },
+      {
+        "id": "credit-02",
+        "number": 2,
+        "title": "Equifax Canada Versus TransUnion Canada",
+        "tier": 0
+      },
+      {
+        "id": "credit-03",
+        "number": 3,
+        "title": "Reading Your Canadian Credit Report",
+        "tier": 0
+      },
+      {
+        "id": "credit-04",
+        "number": 4,
+        "title": "Correcting Errors on a Credit Report",
+        "tier": 0
+      },
+      {
+        "id": "credit-05",
+        "number": 5,
+        "title": "Building Credit From Zero",
+        "tier": 1
+      },
+      {
+        "id": "credit-06",
+        "number": 6,
+        "title": "Secured Credit Cards in Canada",
+        "tier": 1
+      },
+      {
+        "id": "credit-07",
+        "number": 7,
+        "title": "Credit Utilization",
+        "tier": 1
+      },
+      {
+        "id": "credit-08",
+        "number": 8,
+        "title": "Payment History",
+        "tier": 1
+      },
+      {
+        "id": "credit-09",
+        "number": 9,
+        "title": "Hard and Soft Credit Inquiries",
+        "tier": 2
+      },
+      {
+        "id": "credit-10",
+        "number": 10,
+        "title": "The 90-Day Credit Improvement Plan",
+        "tier": 2
+      },
+      {
+        "id": "credit-11",
+        "number": 11,
+        "title": "Rebuilding Credit After Collections",
+        "tier": 2
+      },
+      {
+        "id": "credit-12",
+        "number": 12,
+        "title": "Rebuilding Credit After Bankruptcy",
+        "tier": 3
+      },
+      {
+        "id": "credit-13",
+        "number": 13,
+        "title": "Rebuilding Credit After a Consumer Proposal",
+        "tier": 3
+      },
+      {
+        "id": "credit-14",
+        "number": 14,
+        "title": "Dealing With Canadian Collection Agencies",
+        "tier": 3
+      },
+      {
+        "id": "credit-15",
+        "number": 15,
+        "title": "Statutes of Limitation by Province",
+        "tier": 4
+      },
+      {
+        "id": "credit-16",
+        "number": 16,
+        "title": "Identity Theft and Credit Fraud",
+        "tier": 4
+      },
+      {
+        "id": "credit-17",
+        "number": 17,
+        "title": "Preparing for a Mortgage",
+        "tier": 4
+      },
+      {
+        "id": "credit-18",
+        "number": 18,
+        "title": "Preparing for an Auto Loan",
+        "tier": 5
+      },
+      {
+        "id": "credit-19",
+        "number": 19,
+        "title": "Credit Building for Newcomers",
+        "tier": 5
+      },
+      {
+        "id": "credit-20",
+        "number": 20,
+        "title": "Credit Building After Divorce",
+        "tier": 5
+      }
+    ],
+    "outcomes": [
+      "Understand your credit",
+      "Make your improvement plan",
+      "Protect your next big move"
+    ],
+    "segmentNames": [
+      "Understand your credit",
+      "Build a steady routine",
+      "Make your improvement plan",
+      "Rebuild with confidence",
+      "Protect your next big move",
+      "Credit for a changing life"
+    ],
+    "segmentDescriptions": [
+      "Explore understanding canadian credit scores, equifax canada versus transunion canada, reading your canadian credit report, correcting errors on a credit report.",
+      "Explore building credit from zero, secured credit cards in canada, credit utilization, payment history.",
+      "Explore hard and soft credit inquiries, the 90-day credit improvement plan, rebuilding credit after collections.",
+      "Explore rebuilding credit after bankruptcy, rebuilding credit after a consumer proposal, dealing with canadian collection agencies.",
+      "Explore statutes of limitation by province, identity theft and credit fraud, preparing for a mortgage.",
+      "Explore preparing for an auto loan, credit building for newcomers, credit building after divorce."
+    ]
+  },
+  {
+    "id": "money-budgeting",
+    "title": "Money & Budgeting",
+    "short": "Money",
+    "category": "EVERYDAY MONEY",
+    "description": "Give every dollar a job, and make room for the life you want.",
+    "total": 20,
+    "ready": true,
+    "lessons": [
+      {
+        "id": "money-01",
+        "number": 1,
+        "title": "Building a Canadian Household Budget",
+        "tier": 0
+      },
+      {
+        "id": "money-02",
+        "number": 2,
+        "title": "Managing Money Between Paydays",
+        "tier": 0
+      },
+      {
+        "id": "money-03",
+        "number": 3,
+        "title": "Emergency Funds",
+        "tier": 0
+      },
+      {
+        "id": "money-04",
+        "number": 4,
+        "title": "Canadian Bank Accounts and Fees",
+        "tier": 0
+      },
+      {
+        "id": "money-05",
+        "number": 5,
+        "title": "Credit Unions Versus Banks",
+        "tier": 1
+      },
+      {
+        "id": "money-06",
+        "number": 6,
+        "title": "Managing Overdraft",
+        "tier": 1
+      },
+      {
+        "id": "money-07",
+        "number": 7,
+        "title": "Understanding Interest and APR",
+        "tier": 1
+      },
+      {
+        "id": "money-08",
+        "number": 8,
+        "title": "Paying Down High-Interest Debt",
+        "tier": 1
+      },
+      {
+        "id": "money-09",
+        "number": 9,
+        "title": "Snowball Versus Avalanche Debt Repayment",
+        "tier": 2
+      },
+      {
+        "id": "money-10",
+        "number": 10,
+        "title": "Managing Variable Income",
+        "tier": 2
+      },
+      {
+        "id": "money-11",
+        "number": 11,
+        "title": "Managing Finances as a Couple",
+        "tier": 2
+      },
+      {
+        "id": "money-12",
+        "number": 12,
+        "title": "Financial Planning for Single Parents",
+        "tier": 3
+      },
+      {
+        "id": "money-13",
+        "number": 13,
+        "title": "Avoiding Predatory Financial Products",
+        "tier": 3
+      },
+      {
+        "id": "money-14",
+        "number": 14,
+        "title": "Financing Major Purchases",
+        "tier": 3
+      },
+      {
+        "id": "money-15",
+        "number": 15,
+        "title": "The 30-Day Financial Reset",
+        "tier": 4
+      },
+      {
+        "id": "money-16",
+        "number": 16,
+        "title": "Buying Versus Leasing",
+        "tier": 4
+      },
+      {
+        "id": "money-17",
+        "number": 17,
+        "title": "Saving for a Home",
+        "tier": 4
+      },
+      {
+        "id": "money-18",
+        "number": 18,
+        "title": "Managing Rental Costs",
+        "tier": 5
+      },
+      {
+        "id": "money-19",
+        "number": 19,
+        "title": "Insurance Basics",
+        "tier": 5
+      },
+      {
+        "id": "money-20",
+        "number": 20,
+        "title": "Financial Fraud and Scams",
+        "tier": 5
+      }
+    ],
+    "outcomes": ["Give your money a plan", "Find your financial rhythm", "Reset and look ahead"],
+    "segmentNames": [
+      "Give your money a plan",
+      "Borrow with clarity",
+      "Find your financial rhythm",
+      "Navigate major decisions",
+      "Reset and look ahead",
+      "Protect everyday finances"
+    ],
+    "segmentDescriptions": [
+      "Explore building a canadian household budget, managing money between paydays, emergency funds, canadian bank accounts and fees.",
+      "Explore credit unions versus banks, managing overdraft, understanding interest and apr, paying down high-interest debt.",
+      "Explore snowball versus avalanche debt repayment, managing variable income, managing finances as a couple.",
+      "Explore financial planning for single parents, avoiding predatory financial products, financing major purchases.",
+      "Explore the 30-day financial reset, buying versus leasing, saving for a home.",
+      "Explore managing rental costs, insurance basics, financial fraud and scams."
+    ]
+  },
+  {
+    "id": "benefits-support",
+    "title": "Benefits & Support",
+    "short": "Benefits",
+    "category": "CANADIAN SUPPORT",
+    "description": "Find the Canadian benefits and support worth knowing about.",
+    "total": 30,
+    "ready": true,
+    "lessons": [
+      {
+        "id": "benefits-01",
+        "number": 1,
+        "title": "Canada Child Benefit",
+        "tier": 0
+      },
+      {
+        "id": "benefits-02",
+        "number": 2,
+        "title": "GST/HST Credit",
+        "tier": 0
+      },
+      {
+        "id": "benefits-03",
+        "number": 3,
+        "title": "Canada Workers Benefit",
+        "tier": 0
+      },
+      {
+        "id": "benefits-04",
+        "number": 4,
+        "title": "Disability Tax Credit",
+        "tier": 0
+      },
+      {
+        "id": "benefits-05",
+        "number": 5,
+        "title": "Registered Disability Savings Plan",
+        "tier": 0
+      },
+      {
+        "id": "benefits-06",
+        "number": 6,
+        "title": "Old Age Security",
+        "tier": 1
+      },
+      {
+        "id": "benefits-07",
+        "number": 7,
+        "title": "Guaranteed Income Supplement",
+        "tier": 1
+      },
+      {
+        "id": "benefits-08",
+        "number": 8,
+        "title": "Canada Pension Plan",
+        "tier": 1
+      },
+      {
+        "id": "benefits-09",
+        "number": 9,
+        "title": "CPP Disability Benefits",
+        "tier": 1
+      },
+      {
+        "id": "benefits-10",
+        "number": 10,
+        "title": "Employment Insurance",
+        "tier": 1
+      },
+      {
+        "id": "benefits-11",
+        "number": 11,
+        "title": "Provincial Income Support",
+        "tier": 2
+      },
+      {
+        "id": "benefits-12",
+        "number": 12,
+        "title": "Provincial Disability Programs",
+        "tier": 2
+      },
+      {
+        "id": "benefits-13",
+        "number": 13,
+        "title": "Rent Assistance",
+        "tier": 2
+      },
+      {
+        "id": "benefits-14",
+        "number": 14,
+        "title": "Utility Assistance",
+        "tier": 2
+      },
+      {
+        "id": "benefits-15",
+        "number": 15,
+        "title": "Dental-Care Benefits",
+        "tier": 2
+      },
+      {
+        "id": "benefits-16",
+        "number": 16,
+        "title": "Prescription Assistance",
+        "tier": 3
+      },
+      {
+        "id": "benefits-17",
+        "number": 17,
+        "title": "Student Grants",
+        "tier": 3
+      },
+      {
+        "id": "benefits-18",
+        "number": 18,
+        "title": "Apprenticeship Funding",
+        "tier": 3
+      },
+      {
+        "id": "benefits-19",
+        "number": 19,
+        "title": "Indigenous Benefits and Programs",
+        "tier": 3
+      },
+      {
+        "id": "benefits-20",
+        "number": 20,
+        "title": "Newcomer Settlement Supports",
+        "tier": 3
+      },
+      {
+        "id": "benefits-21",
+        "number": 21,
+        "title": "Veteran Benefits",
+        "tier": 4
+      },
+      {
+        "id": "benefits-22",
+        "number": 22,
+        "title": "Senior Home-Renovation Programs",
+        "tier": 4
+      },
+      {
+        "id": "benefits-23",
+        "number": 23,
+        "title": "Energy-Efficiency Rebates",
+        "tier": 4
+      },
+      {
+        "id": "benefits-24",
+        "number": 24,
+        "title": "Training Grants",
+        "tier": 4
+      },
+      {
+        "id": "benefits-25",
+        "number": 25,
+        "title": "Small-Business Grants",
+        "tier": 4
+      },
+      {
+        "id": "benefits-26",
+        "number": 26,
+        "title": "Wage Subsidies",
+        "tier": 5
+      },
+      {
+        "id": "benefits-27",
+        "number": 27,
+        "title": "First-Time Home Buyer Programs",
+        "tier": 5
+      },
+      {
+        "id": "benefits-28",
+        "number": 28,
+        "title": "Tax Credits People Commonly Miss",
+        "tier": 5
+      },
+      {
+        "id": "benefits-29",
+        "number": 29,
+        "title": "Provincial Benefit Finders",
+        "tier": 5
+      },
+      {
+        "id": "benefits-30",
+        "number": 30,
+        "title": "How to Apply Without Getting Scammed",
+        "tier": 5
+      }
+    ],
+    "outcomes": ["Support for your family", "Support where you live", "Grants and rebates"],
+    "segmentNames": [
+      "Support for your family",
+      "Retirement and income support",
+      "Support where you live",
+      "Learning and community support",
+      "Grants and rebates",
+      "Find and apply safely"
+    ],
+    "segmentDescriptions": [
+      "Explore canada child benefit, gst/hst credit, canada workers benefit, disability tax credit, registered disability savings plan.",
+      "Explore old age security, guaranteed income supplement, canada pension plan, cpp disability benefits, employment insurance.",
+      "Explore provincial income support, provincial disability programs, rent assistance, utility assistance, dental-care benefits.",
+      "Explore prescription assistance, student grants, apprenticeship funding, indigenous benefits and programs, newcomer settlement supports.",
+      "Explore veteran benefits, senior home-renovation programs, energy-efficiency rebates, training grants, small-business grants.",
+      "Explore wage subsidies, first-time home buyer programs, tax credits people commonly miss, provincial benefit finders, how to apply without getting scammed."
+    ]
+  },
+  {
+    "id": "tax-wealth",
+    "title": "Tax & Wealth",
+    "short": "Wealth",
+    "category": "LONGER-TERM THINKING",
+    "description": "Make sense of taxes and build a clearer plan for tomorrow.",
+    "total": 20,
+    "ready": true,
+    "lessons": [
+      {
+        "id": "tax-01",
+        "number": 1,
+        "title": "Understanding a Canadian Paycheque",
+        "tier": 0
+      },
+      {
+        "id": "tax-02",
+        "number": 2,
+        "title": "Marginal Tax Rates",
+        "tier": 0
+      },
+      {
+        "id": "tax-03",
+        "number": 3,
+        "title": "Filing an Income-Tax Return",
+        "tier": 0
+      },
+      {
+        "id": "tax-04",
+        "number": 4,
+        "title": "Common Tax Deductions and Credits",
+        "tier": 0
+      },
+      {
+        "id": "tax-05",
+        "number": 5,
+        "title": "TFSA Basics",
+        "tier": 1
+      },
+      {
+        "id": "tax-06",
+        "number": 6,
+        "title": "RRSP Basics",
+        "tier": 1
+      },
+      {
+        "id": "tax-07",
+        "number": 7,
+        "title": "FHSA Basics",
+        "tier": 1
+      },
+      {
+        "id": "tax-08",
+        "number": 8,
+        "title": "RESP Basics",
+        "tier": 1
+      },
+      {
+        "id": "tax-09",
+        "number": 9,
+        "title": "RDSP Basics",
+        "tier": 2
+      },
+      {
+        "id": "tax-10",
+        "number": 10,
+        "title": "RRIF Basics",
+        "tier": 2
+      },
+      {
+        "id": "tax-11",
+        "number": 11,
+        "title": "Tax-Free Versus Tax-Deferred Growth",
+        "tier": 2
+      },
+      {
+        "id": "tax-12",
+        "number": 12,
+        "title": "Investment Fees",
+        "tier": 3
+      },
+      {
+        "id": "tax-13",
+        "number": 13,
+        "title": "ETFs and Mutual Funds",
+        "tier": 3
+      },
+      {
+        "id": "tax-14",
+        "number": 14,
+        "title": "Risk Tolerance",
+        "tier": 3
+      },
+      {
+        "id": "tax-15",
+        "number": 15,
+        "title": "Compound Growth",
+        "tier": 4
+      },
+      {
+        "id": "tax-16",
+        "number": 16,
+        "title": "Canadian Retirement Planning",
+        "tier": 4
+      },
+      {
+        "id": "tax-17",
+        "number": 17,
+        "title": "Estate and Beneficiary Basics",
+        "tier": 4
+      },
+      {
+        "id": "tax-18",
+        "number": 18,
+        "title": "Self-Employment Taxes",
+        "tier": 5
+      },
+      {
+        "id": "tax-19",
+        "number": 19,
+        "title": "GST/HST for Small Businesses",
+        "tier": 5
+      },
+      {
+        "id": "tax-20",
+        "number": 20,
+        "title": "Keeping CRA Records",
+        "tier": 5
+      }
+    ],
+    "outcomes": ["Understand your taxes", "Plan beyond the basics", "Grow and protect wealth"],
+    "segmentNames": [
+      "Understand your taxes",
+      "Choose your savings accounts",
+      "Plan beyond the basics",
+      "Invest with perspective",
+      "Grow and protect wealth",
+      "Tax for your business"
+    ],
+    "segmentDescriptions": [
+      "Explore understanding a canadian paycheque, marginal tax rates, filing an income-tax return, common tax deductions and credits.",
+      "Explore tfsa basics, rrsp basics, fhsa basics, resp basics.",
+      "Explore rdsp basics, rrif basics, tax-free versus tax-deferred growth.",
+      "Explore investment fees, etfs and mutual funds, risk tolerance.",
+      "Explore compound growth, canadian retirement planning, estate and beneficiary basics.",
+      "Explore self-employment taxes, gst/hst for small businesses, keeping cra records."
+    ]
+  },
+  {
+    "id": "income-business",
+    "title": "Income & Business",
+    "short": "Income",
+    "category": "NEW POSSIBILITIES",
+    "description": "Explore practical ways to earn and build something of your own.",
+    "total": 20,
+    "ready": true,
+    "lessons": [
+      {
+        "id": "income-01",
+        "number": 1,
+        "title": "Senior Companion Services",
+        "tier": 0
+      },
+      {
+        "id": "income-02",
+        "number": 2,
+        "title": "Online Tutoring",
+        "tier": 0
+      },
+      {
+        "id": "income-03",
+        "number": 3,
+        "title": "Reselling Products",
+        "tier": 0
+      },
+      {
+        "id": "income-04",
+        "number": 4,
+        "title": "Marketplace Flipping",
+        "tier": 0
+      },
+      {
+        "id": "income-05",
+        "number": 5,
+        "title": "Getting Your First Customer",
+        "tier": 1
+      },
+      {
+        "id": "income-06",
+        "number": 6,
+        "title": "Digital Products",
+        "tier": 1
+      },
+      {
+        "id": "income-07",
+        "number": 7,
+        "title": "Affiliate Marketing",
+        "tier": 1
+      },
+      {
+        "id": "income-08",
+        "number": 8,
+        "title": "Print on Demand",
+        "tier": 1
+      },
+      {
+        "id": "income-09",
+        "number": 9,
+        "title": "Ecommerce",
+        "tier": 2
+      },
+      {
+        "id": "income-10",
+        "number": 10,
+        "title": "AI-Assisted Businesses",
+        "tier": 2
+      },
+      {
+        "id": "income-11",
+        "number": 11,
+        "title": "Social-Media Management",
+        "tier": 2
+      },
+      {
+        "id": "income-12",
+        "number": 12,
+        "title": "Local Lead Generation",
+        "tier": 3
+      },
+      {
+        "id": "income-13",
+        "number": 13,
+        "title": "Starting a Small Corporation",
+        "tier": 3
+      },
+      {
+        "id": "income-14",
+        "number": 14,
+        "title": "Sole Proprietor Versus Corporation",
+        "tier": 3
+      },
+      {
+        "id": "income-15",
+        "number": 15,
+        "title": "Canadian Business Registration",
+        "tier": 4
+      },
+      {
+        "id": "income-16",
+        "number": 16,
+        "title": "Basic Bookkeeping",
+        "tier": 4
+      },
+      {
+        "id": "income-17",
+        "number": 17,
+        "title": "GST/HST",
+        "tier": 4
+      },
+      {
+        "id": "income-18",
+        "number": 18,
+        "title": "Pricing Services",
+        "tier": 5
+      },
+      {
+        "id": "income-19",
+        "number": 19,
+        "title": "Building Recurring Revenue",
+        "tier": 5
+      },
+      {
+        "id": "income-20",
+        "number": 20,
+        "title": "Moving From Side Hustle to Business",
+        "tier": 5
+      }
+    ],
+    "outcomes": [
+      "Explore your first income idea",
+      "Build an online income",
+      "Get the foundations right"
+    ],
+    "segmentNames": [
+      "Explore your first income idea",
+      "Find customers and digital opportunities",
+      "Build an online income",
+      "Set up your business",
+      "Get the foundations right",
+      "Build a lasting business"
+    ],
+    "segmentDescriptions": [
+      "Explore senior companion services, online tutoring, reselling products, marketplace flipping.",
+      "Explore getting your first customer, digital products, affiliate marketing, print on demand.",
+      "Explore ecommerce, ai-assisted businesses, social-media management.",
+      "Explore local lead generation, starting a small corporation, sole proprietor versus corporation.",
+      "Explore canadian business registration, basic bookkeeping, gst/hst.",
+      "Explore pricing services, building recurring revenue, moving from side hustle to business."
+    ]
+  },
+  {
+    "id": "health-fitness",
+    "title": "Health & Fitness",
+    "short": "Health",
+    "category": "EVERYDAY WELLBEING",
+    "description": "Build achievable routines for a healthier, more balanced life.",
+    "total": 30,
+    "ready": true,
+    "lessons": [
+      {
+        "id": "health-01",
+        "number": 1,
+        "title": "Beginner Fitness for Men",
+        "tier": 0
+      },
+      {
+        "id": "health-02",
+        "number": 2,
+        "title": "Beginner Fitness for Women",
+        "tier": 0
+      },
+      {
+        "id": "health-03",
+        "number": 3,
+        "title": "Home Workouts",
+        "tier": 0
+      },
+      {
+        "id": "health-04",
+        "number": 4,
+        "title": "Gym Fundamentals",
+        "tier": 0
+      },
+      {
+        "id": "health-05",
+        "number": 5,
+        "title": "Strength Training",
+        "tier": 0
+      },
+      {
+        "id": "health-06",
+        "number": 6,
+        "title": "Muscle Building",
+        "tier": 1
+      },
+      {
+        "id": "health-07",
+        "number": 7,
+        "title": "Fat-Loss Fundamentals",
+        "tier": 1
+      },
+      {
+        "id": "health-08",
+        "number": 8,
+        "title": "Low-Impact Fitness",
+        "tier": 1
+      },
+      {
+        "id": "health-09",
+        "number": 9,
+        "title": "Fitness Over 40",
+        "tier": 1
+      },
+      {
+        "id": "health-10",
+        "number": 10,
+        "title": "Fitness Over 50",
+        "tier": 1
+      },
+      {
+        "id": "health-11",
+        "number": 11,
+        "title": "Mobility",
+        "tier": 2
+      },
+      {
+        "id": "health-12",
+        "number": 12,
+        "title": "Flexibility",
+        "tier": 2
+      },
+      {
+        "id": "health-13",
+        "number": 13,
+        "title": "Core Strength",
+        "tier": 2
+      },
+      {
+        "id": "health-14",
+        "number": 14,
+        "title": "Resistance-Band Training",
+        "tier": 2
+      },
+      {
+        "id": "health-15",
+        "number": 15,
+        "title": "Bodyweight Training",
+        "tier": 2
+      },
+      {
+        "id": "health-16",
+        "number": 16,
+        "title": "HIIT",
+        "tier": 3
+      },
+      {
+        "id": "health-17",
+        "number": 17,
+        "title": "Walking Programs",
+        "tier": 3
+      },
+      {
+        "id": "health-18",
+        "number": 18,
+        "title": "Running Programs",
+        "tier": 3
+      },
+      {
+        "id": "health-19",
+        "number": 19,
+        "title": "Boxing Fitness",
+        "tier": 3
+      },
+      {
+        "id": "health-20",
+        "number": 20,
+        "title": "Kickboxing Fitness",
+        "tier": 3
+      },
+      {
+        "id": "health-21",
+        "number": 21,
+        "title": "Yoga",
+        "tier": 4
+      },
+      {
+        "id": "health-22",
+        "number": 22,
+        "title": "Pilates",
+        "tier": 4
+      },
+      {
+        "id": "health-23",
+        "number": 23,
+        "title": "Desk-Worker Mobility",
+        "tier": 4
+      },
+      {
+        "id": "health-24",
+        "number": 24,
+        "title": "Healthy Meal Planning",
+        "tier": 4
+      },
+      {
+        "id": "health-25",
+        "number": 25,
+        "title": "Protein and Nutrition Basics",
+        "tier": 4
+      },
+      {
+        "id": "health-26",
+        "number": 26,
+        "title": "Sleep and Recovery",
+        "tier": 5
+      },
+      {
+        "id": "health-27",
+        "number": 27,
+        "title": "Habit Building",
+        "tier": 5
+      },
+      {
+        "id": "health-28",
+        "number": 28,
+        "title": "Stress Management",
+        "tier": 5
+      },
+      {
+        "id": "health-29",
+        "number": 29,
+        "title": "Thirty-Day Challenges",
+        "tier": 5
+      },
+      {
+        "id": "health-30",
+        "number": 30,
+        "title": "Twelve-Week Transformations",
+        "tier": 5
+      }
+    ],
+    "outcomes": ["Start moving", "Move with confidence", "Support a healthier routine"],
+    "segmentNames": [
+      "Start moving",
+      "Build strength and consistency",
+      "Move with confidence",
+      "Find your training style",
+      "Support a healthier routine",
+      "Make the change last"
+    ],
+    "segmentDescriptions": [
+      "Explore beginner fitness for men, beginner fitness for women, home workouts, gym fundamentals, strength training.",
+      "Explore muscle building, fat-loss fundamentals, low-impact fitness, fitness over 40, fitness over 50.",
+      "Explore mobility, flexibility, core strength, resistance-band training, bodyweight training.",
+      "Explore hiit, walking programs, running programs, boxing fitness, kickboxing fitness.",
+      "Explore yoga, pilates, desk-worker mobility, healthy meal planning, protein and nutrition basics.",
+      "Explore sleep and recovery, habit building, stress management, thirty-day challenges, twelve-week transformations."
+    ]
+  }
+]

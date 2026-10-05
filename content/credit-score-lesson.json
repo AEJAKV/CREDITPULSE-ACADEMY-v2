@@ -1,0 +1,386 @@
+{
+  "title": "Understanding Canadian Credit Scores",
+  "summary": "A practical guide to what the number means, why it moves, and which credit habits are actually in your control.",
+  "subtitle": "Your credit score is a number. It is not your personality.",
+  "minutes": 35,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If credit scores came with facial expressions, some of us would probably prefer they mind their own business."
+        },
+        {
+          "type": "paragraph",
+          "text": "But here is the good news: your credit score is not a grade on how well you are doing at adulthood. It is a number built to help a lender answer one question:"
+        },
+        {
+          "type": "quote",
+          "text": "“Based on this person’s credit history, how risky might it be to lend them money?”"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Canada, credit scores usually run from 300 to 900, and a higher number generally suggests lower lending risk. The score is only one part of the decision, though. Lenders weigh it alongside other information and their own rules."
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: Credit score",
+          "url": "https://www.transunion.ca/credit-score"
+        },
+        {
+          "type": "score"
+        },
+        {
+          "type": "paragraph",
+          "text": "If your score moves 20 or 30 points, resist the urge to organize a small memorial service for the missing points. Scores move. Your job is to know why yours did."
+        },
+        {
+          "type": "paragraph",
+          "text": "For context, Equifax calls 660 to 724 good, 725 to 759 very good, and anything above 760 excellent. TransUnion points out that every lender sets its own bar for what counts as risky. A score is a signal, not a verdict."
+        },
+        {
+          "type": "source",
+          "text": "Equifax Canada",
+          "url": "https://www.consumer.equifax.ca/personal/education/credit-score/what-is-a-good-credit-score/"
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada",
+          "url": "https://www.transunion.ca/credit-score"
+        },
+        {
+          "type": "spotlight",
+          "text": "There is no single universal credit score. Different bureaus, different scoring models and different lenders can all produce different numbers from much the same credit history."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Your credit score is a number. It is not your personality.",
+              "text": "Your credit score is a number. It is not your personality."
+            },
+            {
+              "title": "Pay on time and keep balances manageable.",
+              "text": "Pay on time and keep balances manageable."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Learn what actually moves this number, and it stops surprising you before an application.",
+          "detail": "You will find out which of your habits the score is watching, and which ones it ignores completely.",
+          "extra": "Worth reaching Section 03, where the five priorities finally land in order."
+        }
+      ]
+    },
+    {
+      "id": "influences",
+      "title": "What can influence your score",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "You do not need to memorize a mysterious formula. Concentrate on the behaviours behind the number."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Payment history",
+              "text": "This is the big one. Paying on time builds a steady record, and missed payments can undo a lot of it."
+            },
+            {
+              "title": "Amounts owed",
+              "text": "High balances, especially on cards and lines of credit, can signal more risk to a lender."
+            },
+            {
+              "title": "Credit utilization",
+              "text": "This compares what you owe on revolving credit with what is available. A $1,000 balance on a $5,000 limit is 20%."
+            },
+            {
+              "title": "Length of credit history",
+              "text": "Older accounts you have handled well show a longer track record of managing credit."
+            },
+            {
+              "title": "New credit applications",
+              "text": "A hard inquiry can affect your score. Checking your own credit is a soft inquiry and does not."
+            },
+            {
+              "title": "Types of credit",
+              "text": "Handling a few different kinds of account can help, but never borrow just to add variety."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Minimum payment protects the deadline. Full payment attacks the debt. They solve two related but different problems."
+        },
+        {
+          "type": "utilization"
+        },
+        {
+          "type": "paragraph",
+          "text": "FCAC suggests keeping your use below 30% of the credit available to you. Do not treat 30% as a cliff edge, though. The formulas are more complicated than that, and different lenders and bureaus use different models. The principle underneath is easier to hold on to: lower balances suggest you lean on credit less."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your income, savings, education and job performance are not usually direct inputs, because none of them appear on your credit report at all. A lender can still ask about income and employment separately, and most of them will."
+        }
+      ]
+    },
+    {
+      "id": "myths",
+      "title": "Quick myth check",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Checking my own credit score hurts it.”",
+              "text": "Checking your own credit is generally a soft inquiry and does not damage your score."
+            },
+            {
+              "title": "“I need to carry a balance to build credit.”",
+              "text": "You do not need to pay interest to build payment history. Responsible use and on-time payments matter."
+            },
+            {
+              "title": "“Every lender sees the same score.”",
+              "text": "Different models and bureau data can produce different scores."
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "text": "Maya and the $3,400 Winter",
+          "detail": "PAID ON TIME · SCORE DROPPED ANYWAY",
+          "paragraphs": [
+            "Maya teaches preschool in Winnipeg. She has never missed a credit-card payment in her life, and she has a plan: replace her rusting hatchback in the spring without financing it until the next ice age.",
+            "Then January does what January does. Her car needs a $3,400 repair, and a Winnipeg winter will not accept “I’m protecting my credit utilization” as a transportation plan.",
+            "The repair goes on her only credit card, the one with a $5,000 limit. Her balance climbs to $3,700. That is 74% of the limit, and her statement date is four days away.",
+            "She pays on time, the way she always does. But the statement goes out before her paycheque lands, so the bureau sees $3,700 and her score slips. Her financing appointment is the following Tuesday.",
+            "Here is the part that saves her. She does not walk into that appointment and hope for the best. She moves it.",
+            "Maya pulls both of her credit reports, finds her statement date, and spends two paydays bringing the balance down. As the lower balances reach the bureaus, her utilization falls and her score starts to recover.",
+            "Maya was never irresponsible. The credit snapshot just caught her car wearing a very expensive winter coat.",
+            "The lesson: paying on time is only half the job. The balance that gets reported is the other half. Before anything that matters, check your reports, look at your utilization, and give the updates time to show up."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Maya kept her score and her spring car. The next three sections are how she did it.",
+          "detail": "You will get the five priorities in the order that actually matters, and a straight answer on what helps when a score needs rebuilding.",
+          "extra": "Keep going. This is the part you can act on tomorrow morning."
+        }
+      ]
+    },
+    {
+      "id": "priorities",
+      "title": "The priority order",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When you want to protect or improve your credit, use this order."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Protect payment history",
+              "text": "Pay at least the minimum by the due date, every time. Paying more than that, ideally the whole statement balance, clears the debt and the interest faster."
+            },
+            {
+              "title": "Keep revolving balances manageable",
+              "text": "A credit limit is a ceiling, not a personal challenge issued by the bank."
+            },
+            {
+              "title": "Apply only when an account solves a real need",
+              "text": "Every extra application can add an inquiry and a new account to your file."
+            },
+            {
+              "title": "Keep useful older accounts when manageable",
+              "text": "Closing one shrinks the credit available to you, and it can change how old your active accounts look."
+            },
+            {
+              "title": "Review both Canadian credit reports",
+              "text": "Look for errors, unfamiliar accounts or signs of identity misuse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rebuilding",
+      "title": "Credit rebuilding: what can help",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Pay on time",
+              "text": ""
+            },
+            {
+              "title": "Manage balances",
+              "text": ""
+            },
+            {
+              "title": "Build history",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no secret “credit repair button.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some banks offer secured credit cards for people building or rebuilding credit. You put down money as security, then use the card like any other one and make the payments as they come due."
+        },
+        {
+          "type": "paragraph",
+          "text": "Owning a card marketed as credit-building fixes nothing on its own. What gets reported is what counts: the payments you make, the balances you carry, and how you run the account."
+        },
+        {
+          "type": "source",
+          "text": "TD secured credit cards",
+          "url": "https://www.td.com/ca/en/personal-banking/products/credit-cards/secured-credit-card"
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick check",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Decide whether each event is likely to matter to a credit score, then open it to check your thinking."
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "A card reports $4,400 on a $5,000 limit.",
+              "detail": "Likely relevant",
+              "text": "That account is using almost all of the credit available to it."
+            },
+            {
+              "title": "You receive a pay raise.",
+              "detail": "Not a direct score factor",
+              "text": "Your income is not on your credit report, though a lender can still ask about it."
+            },
+            {
+              "title": "You check your own credit report.",
+              "detail": "Not harmful",
+              "text": "That is a soft inquiry, and soft inquiries leave your score alone."
+            },
+            {
+              "title": "You miss the minimum payment.",
+              "detail": "Likely relevant",
+              "text": "Payment history carries more weight than anything else on the file."
+            },
+            {
+              "title": "You apply for three cards in one week.",
+              "detail": "Likely relevant",
+              "text": "Each application can add an inquiry, and three new accounts is a lot of change at once."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Payment history first. Balances second. Applications with purpose.",
+          "detail": "Your score is a changing risk estimate, not your net worth, intelligence or the final boss of Canadian adulthood."
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Credit score check-in",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Credit bureau",
+              "text": "A company that collects and maintains consumer credit information. Canada’s two main bureaus are Equifax and TransUnion."
+            },
+            {
+              "title": "Credit report",
+              "text": "The detailed record of your credit accounts and how you have paid them."
+            },
+            {
+              "title": "Credit score",
+              "text": "A three-digit number that estimates lending risk, worked out from what is in your credit report."
+            },
+            {
+              "title": "Credit utilization",
+              "text": "How much revolving credit you are using compared with how much you have available."
+            },
+            {
+              "title": "Minimum payment",
+              "text": "The smallest required payment shown on a credit statement for that billing period."
+            },
+            {
+              "title": "Statement balance",
+              "text": "The amount you owe on the day your statement is issued."
+            },
+            {
+              "title": "Hard inquiry",
+              "text": "A credit check tied to applying for new credit, which may affect your score."
+            },
+            {
+              "title": "Soft inquiry",
+              "text": "A credit check, such as checking your own report, that does not affect your score."
+            },
+            {
+              "title": "Secured credit card",
+              "text": "A credit card backed by money you put down as security."
+            },
+            {
+              "title": "Revolving credit",
+              "text": "Credit you can borrow, repay and use again up to a set limit, such as a credit card or line of credit."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Do you need to carry a balance and pay interest to build credit?",
+    "choices": [
+      "Yes, paying interest improves your score.",
+      "No. Responsible use and on-time payments matter."
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Name one credit behaviour that is completely within your control.",
+      "You have a credit score of 620. What might that mean to a lender?",
+      "Your statement shows a $1,000 balance and a $50 minimum. You pay $30 by the due date. Did you meet the minimum? Explain.",
+      "You have a $5,000 limit and a reported balance of $1,500. What is your utilization?",
+      "True or false: checking your own credit report normally damages your score. Explain."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I have checked my answers, and I understand this course teaches, but does not give financial advice."
+  },
+  "sources": []
+}

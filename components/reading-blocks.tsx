@@ -1,4 +1,4 @@
-import { ArrowUpRight, Plus, Check, Sparkles } from 'lucide-react';
+import { ArrowRight, ArrowUpRight, Plus, Check, Sparkles } from 'lucide-react';
 import type { ReadingBlock } from '@/lib/types';
 import { ScoreExplorer, UtilizationCalculator, LessonArtworkCarousel } from './lesson-interactives';
 export function ReadingBlocks({
@@ -53,11 +53,14 @@ export function ReadingBlocks({
           case 'transition':
             return (
               <aside className="reading-transition" key={i}>
-                <span className="transition-line" />
                 <h3>{block.text}</h3>
-                <p>{block.detail}</p>
-                <p>{block.extra}</p>
-                <ArrowUpRight size={26} />
+                {block.detail && <p className="transition-detail">{block.detail}</p>}
+                {block.extra && (
+                  <p className="transition-extra">
+                    <ArrowRight size={17} aria-hidden="true" />
+                    {block.extra}
+                  </p>
+                )}
               </aside>
             );
           case 'artwork':

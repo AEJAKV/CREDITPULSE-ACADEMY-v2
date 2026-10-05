@@ -10,12 +10,13 @@ test('member curriculum, server tier gate, and verified admin approval', async (
   await page.getByRole('button', { name: 'Continue to my course' }).click();
   await page.waitForURL('**/dashboard');
   await expect(page.locator('.segment-panel')).toHaveCount(6);
-  await page.getByRole('button', { name: 'Gold: locked' }).click();
-  await expect(page.getByRole('link', { name: 'Preview Gold' })).toBeVisible();
+  await expect(page.locator('.tier-progress-cell')).toHaveCount(6);
+  await expect(page.locator('.tier-progress-cell.is-next')).toContainText('Gold');
+  await expect(page.locator('.tier-progress-cell.is-next')).toContainText('Up next');
   await page.goto('/course/credit-mastery/lesson/credit-01');
   await expect(page.getByText('Maya and the $3,400 Winter', { exact: true })).toBeVisible();
   await page.getByLabel('Enter a score', { exact: true }).fill('760');
-  await expect(page.locator('.tool-result').first()).toContainText('Excellent');
+  await expect(page.locator('.score-live-result').first()).toContainText('Excellent');
   await page.getByLabel('REPORTED BALANCE $', { exact: true }).fill('3500');
   await expect(page.locator('.utilization-result')).toContainText('70');
   await page

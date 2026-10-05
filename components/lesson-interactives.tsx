@@ -1,7 +1,15 @@
 'use client';
 import { useState, useTransition } from 'react';
 import { useRouter } from 'next/navigation';
-import { ChevronLeft, ChevronRight, Check, ArrowUpRight } from 'lucide-react';
+import {
+  ChevronLeft,
+  ChevronRight,
+  Check,
+  ArrowUpRight,
+  Calculator,
+  CircleGauge,
+  ShieldCheck,
+} from 'lucide-react';
 import { post } from '@/lib/client';
 const bands = [
   {
@@ -31,33 +39,26 @@ export function ScoreExplorer() {
   const index = score < 660 ? 0 : score < 725 ? 1 : score < 760 ? 2 : 3;
   const band = bands[index];
   return (
-    <div className="learning-tool score-tool">
-      <div className="tool-heading">
-        <span className="eyebrow">EXPLORE A CREDIT SCORE</span>
-        <span className="live-chip">
-          <i /> LIVE
-        </span>
-      </div>
-      <div className="score-stage">
-        <svg viewBox="0 0 300 175" aria-hidden="true">
-          <path d="M30 145a120 120 0 0 1 240 0" pathLength="100" className="score-track" />
-          <path
-            d="M30 145a120 120 0 0 1 240 0"
-            pathLength="100"
-            className="score-fill"
-            strokeDasharray={`${(score - 300) / 6} 100`}
-          />
-        </svg>
-        <div>
-          <span>YOUR SCORE</span>
+    <div className="score-frame">
+      <div className="score-explorer">
+        <div className="score-explorer-head">
+          <div>
+            <CircleGauge aria-hidden="true" />
+            <span>Explore a credit score</span>
+          </div>
+          <strong>LIVE</strong>
+        </div>
+        <div className="score-live-value" aria-live="polite">
+          <span>Your score</span>
           <strong>{score}</strong>
           <small>out of 900</small>
         </div>
-      </div>
-      <div className="score-controls">
-        <label htmlFor="explore-score">Enter a score</label>
+        <label className="score-number-label" htmlFor="explore-score">
+          Enter a score
+        </label>
         <input
           id="explore-score"
+          className="score-number-input"
           type="number"
           min="300"
           max="900"
@@ -65,35 +66,46 @@ export function ScoreExplorer() {
           onChange={(e) => setRaw(e.target.value)}
           onBlur={() => setRaw(String(score))}
         />
-        <input
-          type="range"
-          aria-label="Explore a credit score from 300 to 900"
-          min="300"
-          max="900"
-          value={score}
-          onChange={(e) => setRaw(e.target.value)}
-        />
-        <div className="range-extents">
-          <span>300</span>
-          <span>900</span>
-        </div>
-      </div>
-      <div className="score-bands" aria-label="General credit score bands">
-        {bands.map((b, i) => (
-          <div className={index === i ? 'active' : ''} key={b.title}>
-            <small>{b.range}</small>
-            <strong>{b.title}</strong>
+        <div className="score-range-wrap">
+          <input
+            className="score-range-input"
+            type="range"
+            aria-label="Explore a credit score from 300 to 900"
+            min="300"
+            max="900"
+            value={score}
+            onChange={(e) => setRaw(e.target.value)}
+          />
+          <div className="score-range-labels">
+            <span>300</span>
+            <span>900</span>
           </div>
-        ))}
+        </div>
+        <div className="score-band-grid" aria-label="General credit score bands">
+          {bands.map((b, i) => (
+            <div
+              className={index === i ? 'current' : ''}
+              aria-current={index === i ? 'true' : undefined}
+              key={b.title}
+            >
+              <i />
+              <span>{b.range}</span>
+              <small>{b.title}</small>
+            </div>
+          ))}
+        </div>
+        <div className="score-live-result" aria-live="polite">
+          <ShieldCheck aria-hidden="true" />
+          <div>
+            <span>{band.range}</span>
+            <strong>{band.title}</strong>
+            <p>{band.detail}</p>
+          </div>
+        </div>
+        <p className="score-disclaimer">
+          Educational guide only. Lenders use different models and consider other information.
+        </p>
       </div>
-      <div className="tool-result" aria-live="polite">
-        <span>{band.range}</span>
-        <strong>{band.title}</strong>
-        <p>{band.detail}</p>
-      </div>
-      <p className="tool-note">
-        Educational guide only. Lenders use different models and consider other information.
-      </p>
     </div>
   );
 }
@@ -110,22 +122,25 @@ export function UtilizationCalculator() {
         ? 'The balance is using a meaningful share of the available limit.'
         : 'A high reported balance may signal greater reliance on revolving credit.';
   return (
-    <div className="learning-tool utilization-tool" aria-labelledby="utilization-title">
-      <div className="tool-heading">
-        <div>
-          <div className="eyebrow">INTERACTIVE CALCULATOR</div>
-          <h3 id="utilization-title">Explore credit utilization</h3>
+    <div className="score-frame util-frame" role="group" aria-labelledby="utilization-title">
+      <div className="score-explorer util-calculator">
+        <div className="score-explorer-head">
+          <div>
+            <Calculator aria-hidden="true" />
+            <h3 id="utilization-title">Explore credit utilization</h3>
+          </div>
+          <strong>LIVE</strong>
         </div>
-        <span className="live-chip">
-          <i /> LIVE
-        </span>
-      </div>
-      <p>Change either amount to see the calculation update immediately.</p>
-      <div className="calculation-inputs">
-        <div>
-          <label htmlFor="reported-balance">REPORTED BALANCE $</label>
+        <p className="util-intro">
+          Change either amount to see the calculation update immediately.
+        </p>
+        <div className="util-field">
+          <label className="score-number-label" htmlFor="reported-balance">
+            REPORTED BALANCE $
+          </label>
           <input
             id="reported-balance"
+            className="score-number-input"
             type="number"
             min="0"
             max="100000000"
@@ -140,11 +155,16 @@ export function UtilizationCalculator() {
             }).format(Number(balance) || 0)}
           </small>
         </div>
-        <span aria-hidden="true">÷</span>
-        <div>
-          <label htmlFor="credit-limit">CREDIT LIMIT $</label>
+        <span className="util-divide" aria-hidden="true">
+          ÷
+        </span>
+        <div className="util-field">
+          <label className="score-number-label" htmlFor="credit-limit">
+            CREDIT LIMIT $
+          </label>
           <input
             id="credit-limit"
+            className="score-number-input"
             type="number"
             min="1"
             max="100000000"
@@ -159,28 +179,35 @@ export function UtilizationCalculator() {
             }).format(Number(limit) || 0)}
           </small>
         </div>
+        <div className="score-live-value utilization-result">
+          <span>Credit used</span>
+          <strong aria-live="polite">
+            {valid ? ratio : '—'}
+            <small>%</small>
+          </strong>
+        </div>
+        <div className="score-range-wrap util-track-wrap">
+          <div className="util-track" aria-hidden="true">
+            <i />
+            <span style={{ left: `${Math.min(ratio, 100)}%` }} />
+          </div>
+          <div className="score-range-labels util-track-labels">
+            <span>0%</span>
+            <span>30% guide</span>
+            <span>100%+</span>
+          </div>
+        </div>
+        <div className="score-live-result" aria-live="polite">
+          <ShieldCheck aria-hidden="true" />
+          <div>
+            <strong>{valid ? title : 'Enter a credit limit greater than zero.'}</strong>
+            {valid && <p>{detail}</p>}
+          </div>
+        </div>
+        <p className="score-disclaimer">
+          This is an educational ratio, not a credit-score prediction.
+        </p>
       </div>
-      <div className="utilization-result">
-        <span>CREDIT USED</span>
-        <strong aria-live="polite">
-          {valid ? ratio : '—'}
-          <small>%</small>
-        </strong>
-      </div>
-      <div className="ratio-track">
-        <span style={{ width: `${Math.min(ratio, 100)}%` }} />
-        <i style={{ left: '30%' }} />
-      </div>
-      <div className="range-extents">
-        <span>0%</span>
-        <span>30% guide</span>
-        <span>100%+</span>
-      </div>
-      <div className="tool-result" aria-live="polite">
-        <strong>{valid ? title : 'Enter a credit limit greater than zero.'}</strong>
-        {valid && <p>{detail}</p>}
-      </div>
-      <p className="tool-note">This is an educational ratio, not a credit-score prediction.</p>
     </div>
   );
 }

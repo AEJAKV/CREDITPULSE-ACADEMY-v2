@@ -9,13 +9,13 @@ import {
   Settings,
   Users,
   Check,
-  LockKeyhole,
   Menu,
   X,
   ShieldCheck,
   Inbox,
 } from 'lucide-react';
 import { Logo, TierBadge } from './ui';
+import { TierMedal } from './visuals';
 import { tiers, segmentNames, segmentLessons } from '@/lib/catalog';
 import { Logout } from './forms';
 import type { Course, Enrollment } from '@/lib/types';
@@ -117,7 +117,8 @@ export function Navigation({
           <nav aria-label="Course curriculum" className="course-nav">
             {tiers.map((tier, i) => {
               const lessons = segmentLessons(course, i),
-                locked = i > enrollment.tier;
+                locked = i > enrollment.tier,
+                done = lessons.filter((l) => enrollment.completed.includes(l.id)).length;
               return (
                 <details
                   key={tier}
@@ -127,13 +128,36 @@ export function Navigation({
                   }
                 >
                   <summary>
-                    <span className="tier-index">
-                      {locked ? <LockKeyhole size={13} /> : String(i + 1).padStart(2, '0')}
+                    <span className="tier-index-medal" aria-hidden="true">
+                      <TierMedal
+                        tier={i}
+                        size={26}
+                        dark
+                        state={
+                          done === lessons.length
+                            ? 'earned'
+                            : i === enrollment.tier
+                              ? 'current'
+                              : locked
+                                ? 'locked'
+                                : 'plain'
+                        }
+                      />
                     </span>
-                    <span>{tier}</span>
+                    <span>
+                      {tier}
+                      <span className="sr-only">
+                        {done === lessons.length
+                          ? ' (earned)'
+                          : i === enrollment.tier
+                            ? ' (current level)'
+                            : locked
+                              ? ' (locked)'
+                              : ''}
+                      </span>
+                    </span>
                     <small>
-                      {lessons.filter((l) => enrollment.completed.includes(l.id)).length}/
-                      {lessons.length}
+                      {done}/{lessons.length}
                     </small>
                   </summary>
                   <Link className="segment-link" href={`/course/${course.id}/segment/${i + 1}`}>

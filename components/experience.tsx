@@ -1,10 +1,9 @@
 'use client';
 import { useEffect, useState } from 'react';
 import { usePathname } from 'next/navigation';
-import Link from 'next/link';
-import { ArrowUpRight, LockKeyhole, Check, Maximize2, Minimize2, Type } from 'lucide-react';
+import { Maximize2, Minimize2, Type } from 'lucide-react';
 import { tiers, segmentLessons, segmentComplete } from '@/lib/catalog';
-import { TierGlyph } from './visuals';
+import { TierMedal, type MedalState } from './visuals';
 import type { Course, Enrollment } from '@/lib/types';
 export function ExperienceMotion() {
   const pathname = usePathname();
@@ -37,77 +36,79 @@ export function ExperienceMotion() {
   }, [pathname]);
   return null;
 }
-export function Journey({ course, enrollment }: { course: Course; enrollment: Enrollment }) {
-  const [selected, setSelected] = useState<number>(enrollment.tier);
-  const lessons = segmentLessons(course, selected);
-  const locked = selected > enrollment.tier;
+const COUNT_WORDS = ['No', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];
+export function TierProgress({ course, enrollment }: { course: Course; enrollment: Enrollment }) {
+  const current = enrollment.tier;
+  const rows = tiers.map((name, i) => {
+    const lessons = segmentLessons(course, i);
+    const done = lessons.filter((l) => enrollment.completed.includes(l.id)).length;
+    const state: MedalState | 'open' = segmentComplete(course, i, enrollment.completed)
+      ? 'earned'
+      : i === current
+        ? 'current'
+        : i < current
+          ? 'open'
+          : i === current + 1
+            ? 'next'
+            : 'locked';
+    return { name, i, state, done, total: lessons.length };
+  });
+  const left = rows[current].total - rows[current].done;
+  const percent = Math.round((enrollment.completed.length / course.total) * 100);
   return (
-    <section className="journey-studio" data-reveal>
-      <div className="section-heading">
+    <section className="tier-progress" data-reveal>
+      <div className="tier-progress-head">
         <div>
-          <div className="eyebrow">YOUR COURSE, UNFOLDING</div>
-          <h2>Every level opens a new perspective.</h2>
+          <div className="eyebrow">YOUR PROGRESS</div>
+          <h2>
+            {left === 0
+              ? `${tiers[current]} is complete.`
+              : `You’re on ${tiers[current]}. ${COUNT_WORDS[left] ?? left} ${left === 1 ? 'lesson' : 'lessons'} to go.`}
+          </h2>
         </div>
-        <span>{enrollment.tier + 1} / 6 levels open</span>
+        <p>
+          <strong>
+            {enrollment.completed.length} of {course.total}
+          </strong>{' '}
+          lessons · {percent}% of the course
+        </p>
       </div>
-      <ol className="journey-nodes" aria-label="Six-tier course journey">
-        {tiers.map((tier, i) => {
-          const done = segmentComplete(course, i, enrollment.completed);
-          return (
-            <li
-              key={tier}
-              className={`${i <= enrollment.tier ? 'unlocked' : 'locked'} ${selected === i ? 'selected' : ''} tier-${i}`}
+      <ol className="tier-progress-grid" aria-label="Six-tier course progress">
+        {rows.map(({ name, i, state, done, total }) => (
+          <li key={name} className={`tier-progress-cell is-${state}`}>
+            <span aria-hidden="true">
+              <TierMedal tier={i} state={state === 'open' ? 'plain' : state} size={56} />
+            </span>
+            <strong>{name}</strong>
+            <span className="tier-pill">
+              {state === 'earned' ? (
+                'Earned'
+              ) : state === 'next' ? (
+                'Up next'
+              ) : state === 'locked' ? (
+                'Locked'
+              ) : (
+                <>
+                  {state === 'current' ? 'Now' : 'Open'} · {done}
+                  <span className="pill-of"> of </span>
+                  <span className="pill-slash">/</span>
+                  {total}
+                </>
+              )}
+            </span>
+            <span
+              className="tier-bar"
+              role="progressbar"
+              aria-label={`${name} lessons complete`}
+              aria-valuenow={done}
+              aria-valuemin={0}
+              aria-valuemax={total}
             >
-              <button
-                aria-pressed={selected === i}
-                aria-label={`${tier}: ${done ? 'completed' : i <= enrollment.tier ? 'unlocked' : 'locked'}`}
-                onClick={() => setSelected(i)}
-              >
-                <span className="journey-medallion">
-                  <TierGlyph tier={i} size={35} />
-                  <span className="medallion-state">
-                    {done ? (
-                      <Check size={11} />
-                    ) : i > enrollment.tier ? (
-                      <LockKeyhole size={10} />
-                    ) : (
-                      <span />
-                    )}
-                  </span>
-                </span>
-                <strong>{tier}</strong>
-                <small>
-                  {done
-                    ? 'Earned'
-                    : i === enrollment.tier
-                      ? 'Learning now'
-                      : i === enrollment.tier + 1
-                        ? 'Up next'
-                        : i < enrollment.tier
-                          ? 'Open'
-                          : 'To discover'}
-                </small>
-              </button>
-            </li>
-          );
-        })}
+              <span style={{ width: `${total ? (done / total) * 100 : 0}%` }} />
+            </span>
+          </li>
+        ))}
       </ol>
-      <div className="journey-insight" key={selected} aria-live="polite">
-        <div>
-          <span className="caption">
-            SEGMENT {selected + 1} / {lessons.length} LESSONS
-          </span>
-          <h3>{course.segmentNames[selected]}</h3>
-          <p>{lessons.map((l) => l.title).join(' · ')}</p>
-        </div>
-        <Link
-          className={`button ${locked ? 'secondary' : 'primary'}`}
-          href={`/course/${course.id}/segment/${selected + 1}`}
-        >
-          {locked ? `Preview ${tiers[selected]}` : `Explore ${tiers[selected]}`}
-          <ArrowUpRight size={16} />
-        </Link>
-      </div>
     </section>
   );
 }

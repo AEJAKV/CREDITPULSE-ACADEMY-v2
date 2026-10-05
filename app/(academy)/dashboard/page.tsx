@@ -14,7 +14,7 @@ import {
 } from '@/lib/catalog';
 import { getContents, getSettings } from '@/lib/store';
 import { Ladder, Progress, SavingsPanel, TierBadge } from '@/components/ui';
-import { Journey } from '@/components/experience';
+import { TierProgress } from '@/components/experience';
 import { CourseArtwork, ProgressOrbit } from '@/components/visuals';
 export const metadata = { title: 'My learning' };
 export default async function Dashboard() {
@@ -156,7 +156,7 @@ export default async function Dashboard() {
           Explore the curriculum ↓
         </a>
       </div>
-      <Journey course={course} enrollment={enrollment} />
+      <TierProgress course={course} enrollment={enrollment} />
       <section id="curriculum" className="curriculum">
         <div className="section-heading">
           <div>

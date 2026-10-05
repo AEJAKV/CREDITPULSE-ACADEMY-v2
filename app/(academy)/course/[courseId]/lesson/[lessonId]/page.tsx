@@ -11,6 +11,11 @@ import { ReadingBlocks } from '@/components/reading-blocks';
 import { SourceCheckIn } from '@/components/lesson-interactives';
 import { ReaderTools } from '@/components/experience';
 import { TierGlyph } from '@/components/visuals';
+// Lesson id → background photo for the lesson hero (files live under public/images).
+const heroImages: Record<string, string> = {
+  'credit-01': '/images/credit-mastery/01-starter/credit-01/hero-image.webp',
+  'benefits-01': '/images/benefits-support/01-starter/benefits-01/hero-image.webp',
+};
 export async function generateMetadata({
   params,
 }: {
@@ -88,6 +93,13 @@ export default async function LessonPage({
         <ReaderTools sections={content.sections.map((s) => ({ id: s.id, title: s.title }))} />
         <article className="lesson-article">
           <header className="lesson-header premium-lesson-hero">
+            {heroImages[lesson.id] && (
+              <span
+                className="lesson-hero-image"
+                style={{ backgroundImage: `url(${heroImages[lesson.id]})` }}
+                aria-hidden="true"
+              />
+            )}
             <span className="lesson-hero-glyph">
               <TierGlyph tier={lesson.tier} size={110} />
             </span>

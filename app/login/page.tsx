@@ -6,6 +6,7 @@ import { LoginForm } from '@/components/forms';
 import { Logo } from '@/components/ui';
 import { tiers, getCourse } from '@/lib/catalog';
 import { TierGlyph } from '@/components/visuals';
+import { AmbientBackground } from '@/components/ambient-background';
 export const metadata = { title: 'Welcome back' };
 export default async function Login({
   searchParams,
@@ -57,6 +58,7 @@ export default async function Login({
           </div>
         </div>
         <small className="login-foot">Private learning for Credit Pulse members</small>
+        <AmbientBackground effects={['pulse']} placement="contained" />
       </section>
       <section className="login-form-area">
         <div className="login-form-container">
@@ -78,6 +80,7 @@ export default async function Login({
           </p>
         </div>
       </section>
+      <AmbientBackground />
     </main>
   );
 }

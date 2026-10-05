@@ -23,7 +23,8 @@ export type ReadingBlock = {
   extra?: string;
   url?: string;
   paragraphs?: string[];
-  items?: { title: string; text: string; detail?: string }[];
+  /** image: optional site-relative photo under /images, used by artwork slides. */
+  items?: { title: string; text: string; detail?: string; image?: string }[];
 };
 export type Tier = 0 | 1 | 2 | 3 | 4 | 5;
 export type Section = {
@@ -37,7 +38,13 @@ export type LessonContent = {
   title: string;
   summary: string;
   subtitle?: string;
-  checkIn?: { questions: string[]; rewardLabel: string; acknowledgment: string };
+  checkIn?: {
+    questions: string[];
+    /** Optional example answer per question, shown as the answer field's placeholder. */
+    samples?: string[];
+    rewardLabel: string;
+    acknowledgment: string;
+  };
   minutes: number;
   published: boolean;
   sections: Section[];

@@ -1,5 +1,5 @@
 'use client';
-import { useState, useTransition } from 'react';
+import { useState, useTransition, type CSSProperties } from 'react';
 import { useRouter } from 'next/navigation';
 import {
   ChevronLeft,
@@ -9,6 +9,7 @@ import {
   Calculator,
   CircleGauge,
   ShieldCheck,
+  Gift,
 } from 'lucide-react';
 import { post } from '@/lib/client';
 const bands = [
@@ -35,6 +36,8 @@ const bands = [
 ];
 export function ScoreExplorer() {
   const [raw, setRaw] = useState('650');
+  // The pulse on the slider handle is a "drag me" cue; it stops once the slider has been used.
+  const [dragged, setDragged] = useState(false);
   const score = Math.max(300, Math.min(900, Number(raw) || 300));
   const index = score < 660 ? 0 : score < 725 ? 1 : score < 760 ? 2 : 3;
   const band = bands[index];
@@ -67,15 +70,27 @@ export function ScoreExplorer() {
           onBlur={() => setRaw(String(score))}
         />
         <div className="score-range-wrap">
-          <input
-            className="score-range-input"
-            type="range"
-            aria-label="Explore a credit score from 300 to 900"
-            min="300"
-            max="900"
-            value={score}
-            onChange={(e) => setRaw(e.target.value)}
-          />
+          <div className="score-range-track">
+            <input
+              className="score-range-input"
+              type="range"
+              aria-label="Explore a credit score from 300 to 900"
+              min="300"
+              max="900"
+              value={score}
+              onChange={(e) => {
+                setRaw(e.target.value);
+                setDragged(true);
+              }}
+            />
+            {!dragged && (
+              <span
+                className="score-range-pulse"
+                style={{ '--score-position': (score - 300) / 600 } as CSSProperties}
+                aria-hidden="true"
+              />
+            )}
+          </div>
           <div className="score-range-labels">
             <span>300</span>
             <span>900</span>
@@ -211,12 +226,25 @@ export function UtilizationCalculator() {
     </div>
   );
 }
-export function LessonArtworkCarousel({ items }: { items: { title: string; text: string }[] }) {
+export function LessonArtworkCarousel({
+  items,
+}: {
+  items: { title: string; text: string; image?: string }[];
+}) {
   const [index, setIndex] = useState(0);
   const item = items[index];
   return (
     <div className="lesson-art-carousel" role="region" aria-label="Course image carousel">
       <div className="lesson-art-slide" key={index}>
+        {item.image && (
+          <img
+            className="lesson-art-photo"
+            src={item.image}
+            alt=""
+            loading="lazy"
+            decoding="async"
+          />
+        )}
         <svg viewBox="0 0 400 140" fill="none" aria-hidden="true">
           <path
             d="M0 80h75l16-15 15 29 15-14h53l13-51 22 98 25-93 20 46h146"
@@ -265,6 +293,7 @@ export function SourceCheckIn({
   courseId,
   lessonId,
   questions,
+  samples = [],
   rewardLabel,
   acknowledgment,
   name,
@@ -276,6 +305,7 @@ export function SourceCheckIn({
   courseId: string;
   lessonId: string;
   questions: string[];
+  samples?: string[];
   rewardLabel: string;
   acknowledgment: string;
   name: string;
@@ -288,79 +318,90 @@ export function SourceCheckIn({
     [error, setError] = useState(''),
     [pending, start] = useTransition();
   return (
-    <form
-      className="check-in source-check-in"
-      onSubmit={(e) => {
-        e.preventDefault();
-        const data = new FormData(e.currentTarget);
-        setError('');
-        start(async () => {
-          try {
-            await post('/api/member', {
-              action: 'complete',
-              courseId,
-              lessonId,
-              answers: questions.map((_, i) => data.get(`response-${i}`)),
-              acknowledged: data.get('acknowledged') === 'on',
-            });
-            router.push(next);
-            router.refresh();
-          } catch (err) {
-            setError((err as Error).message);
-          }
-        });
-      }}
-    >
-      <div className="reward-banner">
-        <Check size={21} />
-        <strong>{rewardLabel}</strong>
-      </div>
-      <small>Reward eligibility and payment are confirmed by Credit Pulse.</small>
-      <p>Answer each one in your own words below. Short answers are fine.</p>
-      <div className="form-grid">
-        <div>
-          <label htmlFor="checkin-name">Full name</label>
-          <input id="checkin-name" value={name} readOnly autoComplete="name" />
+    <div className="checkin-frame">
+      <form
+        className="check-in source-check-in"
+        onSubmit={(e) => {
+          e.preventDefault();
+          const data = new FormData(e.currentTarget);
+          setError('');
+          start(async () => {
+            try {
+              await post('/api/member', {
+                action: 'complete',
+                courseId,
+                lessonId,
+                answers: questions.map((_, i) => data.get(`response-${i}`)),
+                acknowledged: data.get('acknowledged') === 'on',
+              });
+              router.push(next);
+              router.refresh();
+            } catch (err) {
+              setError((err as Error).message);
+            }
+          });
+        }}
+      >
+        <div className="reward-banner">
+          <span className="reward-sheen" aria-hidden="true" />
+          <span className="reward-icon" aria-hidden="true">
+            <Gift size={22} />
+          </span>
+          <span className="reward-copy">
+            <span className="reward-kicker">YOUR REWARD</span>
+            <strong>{rewardLabel}</strong>
+          </span>
         </div>
-        <div>
-          <label htmlFor="checkin-email">Email address</label>
-          <input id="checkin-email" type="email" value={email} readOnly autoComplete="email" />
+        <small>Reward eligibility and payment are confirmed by Credit Pulse.</small>
+        <p>Answer each one in your own words below. Short answers are fine.</p>
+        <div className="form-grid">
+          <div>
+            <label htmlFor="checkin-name">Full name</label>
+            <input id="checkin-name" value={name} readOnly autoComplete="name" />
+          </div>
+          <div>
+            <label htmlFor="checkin-email">Email address</label>
+            <input id="checkin-email" type="email" value={email} readOnly autoComplete="email" />
+          </div>
         </div>
-      </div>
-      {questions.map((q, i) => (
-        <div className="written-question" key={q}>
-          <label htmlFor={`response-${i}`}>
-            <span>{i + 1}</span>
-            {q}
-          </label>
-          <textarea
-            id={`response-${i}`}
-            name={`response-${i}`}
-            defaultValue={saved[i] || ''}
-            rows={3}
-            maxLength={1200}
-            required
-          />
-        </div>
-      ))}
-      <label className="checkbox-label">
-        <input type="checkbox" name="acknowledged" required />
-        {acknowledgment}
-      </label>
-      {error && (
-        <p role="alert" className="error">
-          {error}
-        </p>
-      )}
-      <button className="button primary" disabled={pending}>
-        {pending
-          ? 'Saving your check-in…'
-          : completed
-            ? 'Save and continue'
-            : 'Complete Course 1.1'}
-        <ArrowUpRight size={18} />
-      </button>
-      <small>Never include your SIN, an account number, a password or anything else private.</small>
-    </form>
+        {questions.map((q, i) => (
+          <div className="written-question" key={q}>
+            <label htmlFor={`response-${i}`}>
+              <span>{i + 1}</span>
+              {q}
+            </label>
+            <textarea
+              id={`response-${i}`}
+              name={`response-${i}`}
+              defaultValue={saved[i] || ''}
+              placeholder={samples[i] ? `Example: ${samples[i]}` : undefined}
+              rows={3}
+              maxLength={1200}
+              required
+            />
+          </div>
+        ))}
+        <label className="checkbox-label">
+          <input type="checkbox" name="acknowledged" required />
+          {acknowledgment}
+        </label>
+        {error && (
+          <p role="alert" className="error">
+            {error}
+          </p>
+        )}
+        <button className="button primary" disabled={pending}>
+          {pending
+            ? 'Saving your check-in…'
+            : completed
+              ? 'Save and continue'
+              : 'Complete Course 1.1'}
+          <ArrowUpRight size={18} />
+        </button>
+        <small>
+          Never include your SIN, an account number, a password or anything else private.
+        </small>
+      </form>
+    </div>
   );
 }

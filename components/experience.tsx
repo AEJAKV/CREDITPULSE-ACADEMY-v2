@@ -4,6 +4,7 @@ import { usePathname } from 'next/navigation';
 import { Maximize2, Minimize2, Type } from 'lucide-react';
 import { tiers, segmentLessons, segmentComplete } from '@/lib/catalog';
 import { TierMedal, type MedalState } from './visuals';
+import { AmbientBackground } from './ambient-background';
 import type { Course, Enrollment } from '@/lib/types';
 export function ExperienceMotion() {
   const pathname = usePathname();
@@ -34,6 +35,17 @@ export function ExperienceMotion() {
       animations.forEach((animation) => animation.cancel());
     };
   }, [pathname]);
+  return null;
+}
+// Mounted in the academy layout rather than in each page: .page-content keeps a
+// transform from its entry animation, which would stop a fixed layer inside it
+// from staying fixed to the viewport.
+export function AcademyAmbient() {
+  const pathname = usePathname();
+  if (pathname === '/dashboard' || pathname === '/courses') return <AmbientBackground />;
+  // Lessons get a faint, motionless glow so nothing moves behind the reading text.
+  if (/^\/course\/[^/]+\/lesson\//.test(pathname))
+    return <AmbientBackground intensity="faint" still />;
   return null;
 }
 const COUNT_WORDS = ['No', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];

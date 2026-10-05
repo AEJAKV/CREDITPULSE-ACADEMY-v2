@@ -33,6 +33,10 @@ export function validateRichContent(content: LessonContent) {
       !content.checkIn.questions.every(
         (q) => typeof q === 'string' && q.trim().length > 0 && q.length <= 1000,
       ) ||
+      (content.checkIn.samples !== undefined &&
+        (!Array.isArray(content.checkIn.samples) ||
+          content.checkIn.samples.length > content.checkIn.questions.length ||
+          !content.checkIn.samples.every((s) => typeof s === 'string' && s.length <= 500))) ||
       typeof content.checkIn.rewardLabel !== 'string' ||
       typeof content.checkIn.acknowledgment !== 'string')
   )
@@ -68,7 +72,11 @@ export function validateRichContent(content: LessonContent) {
               item &&
               typeof item.title === 'string' &&
               typeof item.text === 'string' &&
-              (item.detail === undefined || typeof item.detail === 'string'),
+              (item.detail === undefined || typeof item.detail === 'string') &&
+              (item.image === undefined ||
+                (typeof item.image === 'string' &&
+                  /^\/images\/[\w\-./]+\.(webp|avif|jpe?g|png)$/.test(item.image) &&
+                  !item.image.includes('..'))),
           ))
       )
         return false;

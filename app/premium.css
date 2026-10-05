@@ -737,6 +737,7 @@ h3 {
   font-size: 10px;
 }
 .course-syllabus {
+  align-self: stretch;
   border-top: 1px solid #dce4d7;
   padding-top: 15px;
   font-size: 11px;
@@ -748,9 +749,16 @@ h3 {
   list-style: none;
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+.course-syllabus summary::-webkit-details-marker {
+  display: none;
 }
 .course-syllabus summary span {
+  flex-shrink: 0;
   font-size: 18px;
+  line-height: 1;
   transition: transform 0.2s;
 }
 .course-syllabus[open] summary span {
@@ -3432,5 +3440,530 @@ body[data-large-text='true'] .reader-glossary dd {
   .util-frame .utilization-result > span {
     display: block;
     margin-top: 6px;
+  }
+}
+
+/* Lesson hero photo: a faint, desaturated layer blended into the green panel and faded out
+   toward the text so the copy and controls stay dominant. */
+.lesson-hero-image {
+  position: absolute;
+  z-index: -1;
+  inset: 14% 0 0 14%;
+  pointer-events: none;
+  background-size: cover;
+  background-position: 50% 30%;
+  background-repeat: no-repeat;
+  filter: grayscale(1) contrast(1.05);
+  mix-blend-mode: screen;
+  opacity: 0.3;
+  -webkit-mask-image:
+    linear-gradient(90deg, transparent 0, #000 55%),
+    linear-gradient(180deg, transparent 0, #000 40%);
+  -webkit-mask-composite: source-in;
+  mask-image:
+    linear-gradient(90deg, transparent 0, #000 55%),
+    linear-gradient(180deg, transparent 0, #000 40%);
+  mask-composite: intersect;
+}
+@media (max-width: 760px) {
+  .lesson-hero-image {
+    inset: auto 0 0;
+    height: 62%;
+    background-position: 60% 20%;
+    opacity: 0.32;
+    -webkit-mask-image: linear-gradient(180deg, transparent 0, #000 70%);
+    -webkit-mask-composite: source-over;
+    mask-image: linear-gradient(180deg, transparent 0, #000 70%);
+    mask-composite: add;
+  }
+}
+@media print {
+  .lesson-hero-image {
+    display: none;
+  }
+}
+
+/* "Drag me" cue: two rings pulse out from the score slider handle until it is first used. */
+.score-frame .score-range-track {
+  position: relative;
+}
+.score-frame .score-range-pulse {
+  position: absolute;
+  top: 50%;
+  left: calc(15px + (100% - 30px) * var(--score-position, 0.5));
+  width: 30px;
+  height: 30px;
+  margin: -15px 0 0 -15px;
+  pointer-events: none;
+}
+.score-frame .score-range-pulse:before,
+.score-frame .score-range-pulse:after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: rgba(13, 57, 55, 0.22);
+  box-shadow: 0 0 0 1.5px rgba(13, 57, 55, 0.35);
+  opacity: 0;
+  animation: score-range-pulse 2s ease-out infinite;
+}
+.score-frame .score-range-pulse:after {
+  animation-delay: 1s;
+}
+@keyframes score-range-pulse {
+  0% {
+    transform: scale(1);
+    opacity: 0.9;
+  }
+  100% {
+    transform: scale(2.3);
+    opacity: 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .score-frame .score-range-pulse {
+    display: none;
+  }
+}
+/* Ambient background: slow brand-colour glow and a heartbeat trace.
+   Transform and opacity only, never interactive, out of flow so nothing shifts. */
+.ambient-bg {
+  --ambient-strength: 1;
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+  contain: strict;
+}
+/* body paints its own background (the root has one too), so it needs its own
+   stacking context for the z-index: -1 layer to sit above that background. */
+body {
+  isolation: isolate;
+}
+.ambient-bg.is-contained {
+  position: absolute;
+  border-radius: inherit;
+}
+.ambient-bg.is-faint {
+  --ambient-strength: 0.35;
+}
+.ambient-glow {
+  position: absolute;
+  inset: 0;
+  opacity: var(--ambient-strength);
+}
+.ambient-blob {
+  position: absolute;
+  border-radius: 50%;
+  will-change: transform;
+}
+.ambient-blob.blob-teal {
+  width: 52vmax;
+  height: 52vmax;
+  left: -14vmax;
+  bottom: -20vmax;
+  background: radial-gradient(closest-side, #092a2b08, transparent);
+  animation: ambient-drift-a 48s ease-in-out infinite;
+}
+.ambient-blob.blob-lime {
+  width: 44vmax;
+  height: 44vmax;
+  right: -12vmax;
+  top: 22%;
+  background: radial-gradient(closest-side, #c0f56d24, transparent);
+  animation: ambient-drift-b 36s ease-in-out infinite;
+}
+.ambient-blob.blob-pale {
+  width: 46vmax;
+  height: 46vmax;
+  left: 24%;
+  top: 34%;
+  background: radial-gradient(closest-side, #cfe9d966, transparent);
+  animation: ambient-drift-c 58s ease-in-out infinite;
+}
+.ambient-blob.blob-lime-soft {
+  width: 30vmax;
+  height: 30vmax;
+  left: 4%;
+  top: -10vmax;
+  background: radial-gradient(closest-side, #c0f56d12, transparent);
+  animation: ambient-drift-b 42s ease-in-out infinite reverse;
+}
+@keyframes ambient-drift-a {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  35% {
+    transform: translate3d(6vmax, -4vmax, 0) scale(1.08);
+  }
+  70% {
+    transform: translate3d(2vmax, 3vmax, 0) scale(0.96);
+  }
+}
+@keyframes ambient-drift-b {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  40% {
+    transform: translate3d(-5vmax, 5vmax, 0) scale(1.06);
+  }
+  75% {
+    transform: translate3d(3vmax, -3vmax, 0) scale(0.95);
+  }
+}
+@keyframes ambient-drift-c {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  30% {
+    transform: translate3d(-4vmax, -5vmax, 0) scale(0.94);
+  }
+  65% {
+    transform: translate3d(5vmax, 2vmax, 0) scale(1.07);
+  }
+}
+/* The trace is revealed by sliding a clipping window in while the line slides the
+   opposite way, so the line stays put and no paint-triggering property animates. */
+.ambient-pulse {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: var(--ambient-pulse-top, 80%);
+  bottom: var(--ambient-pulse-bottom, auto);
+  color: var(--ambient-pulse-color, #c0f56d);
+  opacity: calc(var(--ambient-pulse-opacity, 0.2) * var(--ambient-strength));
+}
+.ambient-pulse-reveal {
+  overflow: hidden;
+  will-change: transform, opacity;
+  animation: ambient-pulse-reveal 9s linear infinite;
+}
+.ambient-pulse-line {
+  will-change: transform;
+  animation: ambient-pulse-counter 9s linear infinite;
+}
+.ambient-pulse svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+@keyframes ambient-pulse-reveal {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  6% {
+    opacity: 1;
+  }
+  72% {
+    transform: translateX(0);
+  }
+  86% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 0;
+  }
+}
+@keyframes ambient-pulse-counter {
+  0% {
+    transform: translateX(100%);
+  }
+  72%,
+  100% {
+    transform: translateX(0);
+  }
+}
+.ambient-bg.is-still .ambient-blob,
+.ambient-bg.is-still .ambient-pulse-reveal,
+.ambient-bg.is-still .ambient-pulse-line {
+  animation: none;
+  will-change: auto;
+}
+/* Login: the two halves paint their own backgrounds, so the layer sits above
+   those and the page content is lifted over it. */
+.login-page {
+  position: relative;
+  isolation: isolate;
+}
+.login-page > .ambient-bg,
+.login-brand > .ambient-bg {
+  z-index: 0;
+}
+.login-brand > :not(.ambient-bg),
+.login-form-container {
+  position: relative;
+  z-index: 1;
+}
+/* The pale shape is tuned for the light half, so it stays over the form side. */
+.login-page > .ambient-bg .blob-pale {
+  left: 54%;
+  top: 38%;
+}
+/* The trace runs in the gap between the course card and the footer line. */
+.login-brand > .ambient-bg {
+  --ambient-pulse-top: auto;
+  --ambient-pulse-bottom: 80px;
+}
+/* Dashboard hero: the trace runs under the card content, clear of the copy. */
+.continue-panel > .ambient-bg {
+  --ambient-pulse-top: 60%;
+  --ambient-pulse-opacity: 0.16;
+}
+/* Focus mode reads on a completely plain page. */
+body[data-focus='true'] .ambient-bg {
+  display: none;
+}
+@media (max-width: 760px) {
+  .ambient-blob.blob-pale,
+  .ambient-blob.blob-lime-soft {
+    display: none;
+  }
+  .ambient-blob.blob-teal {
+    width: 36vmax;
+    height: 36vmax;
+    left: -14vmax;
+    bottom: -10vmax;
+  }
+  .ambient-blob.blob-lime {
+    width: 32vmax;
+    height: 32vmax;
+    right: -12vmax;
+  }
+  .login-brand > .ambient-bg {
+    --ambient-pulse-bottom: 6px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ambient-blob,
+  .ambient-pulse-reveal,
+  .ambient-pulse-line {
+    animation: none !important;
+    will-change: auto;
+  }
+}
+@media print {
+  .ambient-bg {
+    display: none;
+  }
+}
+/* Course check-in: the same travelling outline as the score explorer, sized from the
+   card's height because the form is much taller than it is wide. */
+.checkin-frame {
+  position: relative;
+  isolation: isolate;
+  margin: 40px 0;
+  padding: 2px;
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: 0 30px 80px rgba(19, 63, 57, 0.12);
+}
+.checkin-frame:before {
+  content: '';
+  position: absolute;
+  z-index: 0;
+  left: 50%;
+  top: 50%;
+  height: 120%;
+  min-width: 150%;
+  aspect-ratio: 1;
+  pointer-events: none;
+  background: conic-gradient(
+    from 0deg,
+    #16745d 0deg,
+    #6bdaa2 72deg,
+    rgba(255, 255, 255, 0.86) 128deg,
+    #8054c7 205deg,
+    #bb91ef 270deg,
+    rgba(255, 255, 255, 0.86) 320deg,
+    #16745d 360deg
+  );
+  transform: translate(-50%, -50%) rotate(0deg);
+  animation: score-frame-perimeter 12s linear infinite;
+}
+.checkin-frame > .check-in {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  border: 0;
+  box-shadow: none;
+}
+.source-check-in textarea::placeholder {
+  color: #6f8274;
+  opacity: 1;
+}
+/* Lesson hero and check-in actions use the solid green call-to-action. */
+.lesson-start.button.primary,
+.check-in .button.primary {
+  background: linear-gradient(100deg, #10b92a, #088717);
+  color: #fff;
+  border-color: #088717;
+  box-shadow: 0 6px 16px #0887172e;
+}
+.lesson-start.button.primary:hover,
+.check-in .button.primary:hover {
+  background: linear-gradient(100deg, #13c52e, #0a931b);
+  box-shadow: 0 10px 24px #0887173d;
+}
+@media (prefers-reduced-motion: reduce) {
+  .checkin-frame:before {
+    animation: none;
+  }
+}
+/* Check-in reward banner: frosted glass over a deep teal field with brand-colour light
+   behind it. Lifts on hover and a sheen crosses once; transform and opacity only. */
+.source-check-in .reward-banner {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  gap: 16px;
+  padding: 20px 22px;
+  border-radius: 18px;
+  border: 1px solid #ffffff38;
+  background: linear-gradient(135deg, #ffffff24, #ffffff0a 55%, #c0f56d14), #0b3435;
+  color: #f4f7e9;
+  font-size: 15px;
+  line-height: 1.45;
+  box-shadow:
+    inset 0 1px 0 #ffffff40,
+    0 14px 30px #092a2b33;
+  transition:
+    transform 0.25s cubic-bezier(0.2, 0.65, 0.3, 1),
+    box-shadow 0.25s ease;
+}
+.source-check-in .reward-banner:before,
+.source-check-in .reward-banner:after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  border-radius: 50%;
+  pointer-events: none;
+}
+.source-check-in .reward-banner:before {
+  width: 260px;
+  height: 260px;
+  right: -70px;
+  top: -150px;
+  background: radial-gradient(closest-side, #c0f56d73, transparent);
+}
+.source-check-in .reward-banner:after {
+  width: 300px;
+  height: 300px;
+  left: 18%;
+  bottom: -230px;
+  background: radial-gradient(closest-side, #5fd6a455, transparent);
+}
+.source-check-in .reward-banner:hover {
+  transform: translateY(-4px);
+  box-shadow:
+    inset 0 1px 0 #ffffff55,
+    0 24px 44px #092a2b47;
+}
+.reward-icon {
+  width: 46px;
+  height: 46px;
+  flex-shrink: 0;
+  display: grid;
+  place-items: center;
+  border-radius: 14px;
+  border: 1px solid #ffffff4d;
+  background: linear-gradient(140deg, #ffffff38, #ffffff12);
+  backdrop-filter: blur(14px) saturate(150%);
+  -webkit-backdrop-filter: blur(14px) saturate(150%);
+  box-shadow: inset 0 1px 0 #ffffff59;
+  color: #c0f56d;
+  transition: transform 0.25s cubic-bezier(0.2, 0.65, 0.3, 1);
+}
+.source-check-in .reward-banner:hover .reward-icon {
+  transform: scale(1.07) rotate(-5deg);
+}
+.reward-copy {
+  display: grid;
+  gap: 3px;
+  min-width: 0;
+}
+.reward-kicker {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  color: #c0f56d;
+}
+.reward-copy strong {
+  font-weight: 700;
+  color: #fff;
+}
+.reward-sheen {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 45%;
+  pointer-events: none;
+  background: linear-gradient(100deg, transparent, #ffffff2b, transparent);
+  transform: translateX(-120%);
+  opacity: 0;
+}
+.source-check-in .reward-banner:hover .reward-sheen {
+  transform: translateX(340%);
+  opacity: 1;
+  transition:
+    transform 0.9s ease,
+    opacity 0.2s;
+}
+@media (max-width: 760px) {
+  .source-check-in .reward-banner {
+    font-size: 14px;
+    padding: 17px 16px;
+    line-height: 1.45;
+    gap: 13px;
+  }
+  .reward-icon {
+    width: 42px;
+    height: 42px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .source-check-in .reward-banner:hover,
+  .source-check-in .reward-banner:hover .reward-icon {
+    transform: none;
+  }
+  .reward-sheen {
+    display: none;
+  }
+}
+/* Carousel photo: a duotone image on the right, behind the pulse line, fading out
+   toward the left so it stays light under the slide text. */
+.lesson-art-photo {
+  position: absolute;
+  inset: 0 0 0 34%;
+  width: 66%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 60% 30%;
+  pointer-events: none;
+  filter: grayscale(1) brightness(1.3) contrast(1.1);
+  mix-blend-mode: screen;
+  opacity: 0.62;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #0006 38%, #000 68%);
+  mask-image: linear-gradient(90deg, transparent 0, #0006 38%, #000 68%);
+}
+@media (max-width: 760px) {
+  .lesson-art-photo {
+    inset: auto 0 0 0;
+    width: 100%;
+    height: 58%;
+    opacity: 0.5;
+    -webkit-mask-image: linear-gradient(180deg, transparent 12%, #000 80%);
+    mask-image: linear-gradient(180deg, transparent 12%, #000 80%);
+  }
+}
+@media print {
+  .lesson-art-photo {
+    display: none;
   }
 }

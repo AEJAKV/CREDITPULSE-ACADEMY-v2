@@ -16,6 +16,7 @@ import { getContents, getSettings } from '@/lib/store';
 import { Ladder, Progress, SavingsPanel, TierBadge } from '@/components/ui';
 import { TierProgress } from '@/components/experience';
 import { CourseArtwork, ProgressOrbit } from '@/components/visuals';
+import { AmbientBackground } from '@/components/ambient-background';
 export const metadata = { title: 'My learning' };
 export default async function Dashboard() {
   const user = await requireAccount();
@@ -48,6 +49,7 @@ export default async function Dashboard() {
       </div>
       <div className="dashboard-feature-grid">
         <section className="continue-panel" data-reveal>
+          <AmbientBackground effects={['pulse']} placement="contained" />
           <div className="continue-art">
             <CourseArtwork
               index={Math.max(

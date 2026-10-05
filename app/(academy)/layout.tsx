@@ -5,12 +5,14 @@ import { requireAccount } from '@/lib/auth';
 import { getCourse } from '@/lib/catalog';
 import { demoMode } from '@/lib/store';
 import { Navigation } from '@/components/navigation';
+import { AcademyAmbient } from '@/components/experience';
 export default async function AcademyLayout({ children }: { children: React.ReactNode }) {
   const user = await requireAccount();
   const course = await courseView(user.state.activeCourse || '');
   const enrollment = course ? user.state.enrollments[course.id] : undefined;
   return (
     <div className="app-shell">
+      <AcademyAmbient />
       <Navigation name={user.name} course={course} enrollment={enrollment} />
       <div className="workspace">
         <header className="topbar">

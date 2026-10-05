@@ -61,11 +61,13 @@
           "items": [
             {
               "title": "Your credit score is a number. It is not your personality.",
-              "text": "Your credit score is a number. It is not your personality."
+              "text": "Your credit score is a number. It is not your personality.",
+              "image": "/images/benefits-support/01-starter/benefits-01/benefit01-image-1.webp"
             },
             {
               "title": "Pay on time and keep balances manageable.",
-              "text": "Pay on time and keep balances manageable."
+              "text": "Pay on time and keep balances manageable.",
+              "image": "/images/benefits-support/01-starter/benefits-01/benefit01-image-2.webp"
             }
           ]
         },
@@ -373,11 +375,18 @@
   },
   "checkIn": {
     "questions": [
-      "Name one credit behaviour that is completely within your control.",
-      "You have a credit score of 620. What might that mean to a lender?",
-      "Your statement shows a $1,000 balance and a $50 minimum. You pay $30 by the due date. Did you meet the minimum? Explain.",
-      "You have a $5,000 limit and a reported balance of $1,500. What is your utilization?",
-      "True or false: checking your own credit report normally damages your score. Explain."
+      "Name one credit habit you can control.",
+      "Your credit score is 620. What might a lender think?",
+      "Your minimum payment is $50. You pay $30 on time. Did you meet the minimum? Why or why not?",
+      "Your limit is $5,000 and your balance is $1,500. What is your utilization?",
+      "True or false: checking your own credit report hurts your score. Why?"
+    ],
+    "samples": [
+      "Paying my phone bill on time every month.",
+      "A score of 700 is in the good range, so a lender may see less risk.",
+      "If the minimum was $40 and I paid $40 on time, then yes, I met it.",
+      "A $500 balance on a $2,000 limit is 500 ÷ 2,000 = 25%.",
+      "Write True or False, then one sentence on why."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I have checked my answers, and I understand this course teaches, but does not give financial advice."

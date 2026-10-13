@@ -1,0 +1,408 @@
+{
+  "title": "Affiliate Marketing",
+  "summary": "You share a link → The link tracks the click → The seller pays you",
+  "subtitle": "Earn a commission by recommending things you honestly use.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Affiliate marketing is a fancy name for a simple deal: a company pays you a thank-you when someone buys through your special link. It is word of mouth with a tracking code attached. The catch is that it only works when people trust you, and Canadian law cares a great deal about how you explain that you are being paid."
+        },
+        {
+          "type": "heading",
+          "text": "What you’ll learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "How affiliate programs pay, and how to read the fine print",
+              "text": ""
+            },
+            {
+              "title": "How to choose offers that truly fit the people who follow you",
+              "text": ""
+            },
+            {
+              "title": "What you must disclose under Canadian advertising rules",
+              "text": ""
+            },
+            {
+              "title": "How your commissions and free products are taxed",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Start with the plain-language basics",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Every affiliate deal has three players. The seller owns the product, you recommend it, and the buyer decides whether to purchase. The seller gives you a unique link, and when a buyer clicks it, a small file called a cookie remembers that you sent them."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the buyer purchases within the seller’s cookie window, which might be a few days or a few months, you earn a commission. That is usually a percentage of the sale, although some programs pay a flat amount instead. Refunded sales often cancel the commission, and most programs pay only after you reach a minimum balance."
+        },
+        {
+          "type": "paragraph",
+          "text": "None of this requires a big audience, but it does require honesty. A friendly mention to a small group is still marketing once money is involved, so the same rules apply to a tiny blog and to a famous creator."
+        },
+        {
+          "type": "transition",
+          "text": "Learn to earn from trust without losing it.",
+          "detail": "You will learn how to choose offers your audience truly needs and how to say that you are paid, so your recommendations stay believable.",
+          "extra": "Section 04 includes a disclosure line that you can copy and adjust."
+        }
+      ]
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing offers and keeping trust",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Promote only products that you have used or carefully researched. The Competition Bureau says that reviews and testimonials must be based on real experience, and an honest “this was not for me” builds more trust than a glowing review of something you never tried."
+        },
+        {
+          "type": "heading",
+          "text": "Read the program terms before you join"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "What is the commission, and is it a percentage or a flat amount?",
+              "text": ""
+            },
+            {
+              "title": "How long is the cookie window, and when do you actually get paid?",
+              "text": ""
+            },
+            {
+              "title": "Do refunds cancel your commission, and are Canadian residents accepted?",
+              "text": ""
+            },
+            {
+              "title": "Does the program ask you to pay a fee just to join?",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The law reaches small creators too. The Competition Bureau says that the deceptive marketing rules apply to anyone who promotes a product, service, or business interest, and people who break them can face significant penalties. Having a small following does not make you exempt."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If the company pays me nothing upfront, I do not have to disclose anything.”",
+              "text": "A material connection includes commissions, free products, discounts, and free trips. Ad Standards also says a gifted item should be identified as gifted, otherwise people will assume that you bought it yourself and chose to praise it."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Beware of fake “boost” jobs. The Canadian Anti-Fraud Centre has warned about offers to earn money by boosting apps, videos, or products. Victims complete small tasks, then are pushed to deposit money that they can never withdraw. A real program never needs you to pay before you can earn."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Story: The Winter Tent",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The Winter Tent",
+          "detail": "STORY",
+          "extra": "",
+          "paragraphs": [
+            "Marcus Bell ran a small video channel about winter camping from his home in Thunder Bay. His goal was to save for a new tent, because the old one had leaked on the family’s last trip to Algonquin Park, and everyone had woken up damp and grumpy.",
+            "One morning an email arrived from a camping brand. The company offered Marcus a free stove and 12% on every stove sold through his link. He felt a rush of excitement, because the commission could cover the tent in a season.",
+            "Marcus tested the stove for a weekend. It worked well down to about minus ten, but at minus twenty it sputtered and went out twice. A friendly manager at the company read his rough notes and wrote back, “Could you keep it positive? We pay higher rates to people who do.”",
+            "This was the choice. He could post a glowing review and make more money, or he could tell the truth. Marcus thought about the viewers who would trust his words and then stand in the cold with a dead stove. He filmed the honest version. At the start of the video he said, “The company gave me this stove for free, and I earn a commission if you buy through my link. It is great for mild trips, but I would not rely on it below minus ten.”",
+            "The twist came a week later. Viewers loved the honesty. Many bought the stove for fall trips, so his clicks reached a record high, and a rival brand asked him to test its model too. He disclosed that deal the same way.",
+            "At tax time Marcus listed his commissions and also the fair value of the free stove on Form T2125, because both counted as income. His total commissions for the year came to $1,860. In March he bought the new tent. On the next trip to Algonquin, nobody woke up damp."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Honesty is not a cost. It is the thing you are really selling.",
+          "detail": "Clear disclosure and fair reviews keep you on the right side of the law and keep the audience that earns you commissions.",
+          "extra": "Section 04 shows where the disclosure belongs and what to track for the CRA."
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "Disclosure and money in four moves",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Say it up front.",
+              "text": "Place a plain statement at the start of the post or video, such as “I earn a commission if you buy through my links.” Use the same language as the content itself."
+            },
+            {
+              "title": "Repeat it every time.",
+              "text": "Add the statement to each post that contains a link, because one note on an About page will not reach the people reading a single post."
+            },
+            {
+              "title": "Keep records.",
+              "text": "Save every payout statement, and write down the value of each free product or trip that you receive."
+            },
+            {
+              "title": "Report everything.",
+              "text": "Commissions, referral codes, and free items all count as business income, and you report them on Form T2125."
+            }
+          ]
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "Good place for the disclosure",
+              "text": "",
+              "icon": "check",
+              "list": [
+                "Video: Spoken in the opening seconds and shown as on-screen text",
+                "Social post: In the first lines of the caption, where no tap is needed",
+                "Blog or email: At the top, before the first affiliate link"
+              ]
+            },
+            {
+              "title": "Weak place",
+              "text": "",
+              "icon": "alert",
+              "list": [
+                "Video: Only in the description box",
+                "Social post: Hidden behind “more” or buried in a pile of hashtags",
+                "Blog or email: Only on a separate page in the footer"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“One note on my About page covers every post.”",
+              "text": "People who read a single post never see your About page. Put a clear disclosure in each post, video, or email that contains a link."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "There is a rulebook just for this. Ad Standards publishes free Influencer Marketing Disclosure Guidelines that cover affiliate and refer-a-friend programs, and they sit alongside the Competition Bureau’s own guidance. Read them once before you post your first link."
+        },
+        {
+          "type": "heading",
+          "text": "Money notes, and what changes by province"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "GST/HST",
+              "text": "The CRA says online content is generally a taxable supply, so once your taxable sales pass $30,000 over four calendar quarters, you must register, collect, and send the tax. Below that limit, you do not have to register."
+            },
+            {
+              "title": "Pension plan",
+              "text": "Once your self-employment income passes $3,500 in a year, you owe Canada Pension Plan contributions, or Quebec Pension Plan contributions if you live in Quebec."
+            },
+            {
+              "title": "Quebec audiences",
+              "text": "Quebec’s Consumer Protection Act also covers false or misleading advertising, and French-language rules apply to marketing aimed at Quebecers, so check Quebec’s requirements before you promote there."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Add one honest “who this is not for” line to every recommendation. It makes your praise more believable, and it helps the wrong buyers skip a purchase they would have returned."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "You receive a free product and no commission. Do you need to disclose it?",
+              "detail": "Yes.",
+              "text": "A free product is a material connection."
+            },
+            {
+              "title": "Where should the disclosure appear in a video?",
+              "detail": "At the start, spoken and shown on screen.",
+              "text": ""
+            },
+            {
+              "title": "Where do you report affiliate commissions on your taxes?",
+              "detail": "On Form T2125, as business income.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Which is a material connection that must be disclosed? A. A commission, a free product, or a discount · B. A product you bought yourself · C. A product you have never heard of",
+              "detail": "A.",
+              "text": "Money, free items, discounts, and trips are all connections that your audience should know about."
+            },
+            {
+              "title": "What makes a disclosure effective? A. It appears only on your About page · B. It is clear, plain, and placed where people see it before they click · C. It is hidden among many hashtags",
+              "detail": "B.",
+              "text": "A disclosure works only if people can easily notice and understand it."
+            },
+            {
+              "title": "A program asks you to pay money before you can start earning. What should you do? A. Pay quickly to secure your spot · B. Treat it as a warning sign and look for a program with no joining fee · C. Send the link to your friends so that they pay too",
+              "detail": "B.",
+              "text": "Needing to pay before earning is a common scam pattern, so slow down and check."
+            },
+            {
+              "title": "Write one sentence that you could place above an affiliate link.",
+              "detail": "Sample response:",
+              "text": "I earn a small commission if you buy through this link, and I only recommend products that I have used."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Recommend only what you have honestly used, say that you are paid before you share the link, and report every dollar and every free item.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Affiliate link",
+              "text": "A special web address that tracks which buyers you sent to a seller."
+            },
+            {
+              "title": "Commission",
+              "text": "The share of a sale that the seller pays you."
+            },
+            {
+              "title": "Cookie window",
+              "text": "The time after a click during which a purchase still earns you a commission."
+            },
+            {
+              "title": "Material connection",
+              "text": "Any link to a seller, such as money, free items, or discounts, that could affect how people see your advice."
+            },
+            {
+              "title": "Disclosure",
+              "text": "A clear statement telling your audience about that connection."
+            },
+            {
+              "title": "Payout threshold",
+              "text": "The minimum balance that you must reach before the program pays you."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up: Module 3.3: Print on Demand.",
+          "detail": "You have learned to recommend other people’s products. Next, you will put your own designs on products without ever holding stock."
+        },
+        {
+          "type": "source",
+          "text": "Competition Bureau: Influencer marketing: businesses and influencers must be transparent when advertising on social media (news release, Dec. 19, 2019)",
+          "url": "https://www.canada.ca/en/competition-bureau/news/2019/12/influencer-marketing-businesses-and-influencers-must-be-transparent-when-advertising-on-social-media.html"
+        },
+        {
+          "type": "source",
+          "text": "Competition Bureau: Deceptive Marketing Practices Digest, Volume 4",
+          "url": "https://competition-bureau.canada.ca/en/deceptive-marketing-practices-digest-volume-4"
+        },
+        {
+          "type": "source",
+          "text": "Ad Standards: Influencer Marketing Disclosure Guidelines (2025 edition)",
+          "url": "https://adstandards.ca/wp-content/uploads/Ad-Standards-Influencer-Marketing-Disclosure-Guidelines-2025-10-08.pdf"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Social media influencers",
+          "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/platform-economy/social-media-influencers.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Understand your tax obligations",
+          "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/platform-economy/understanding-tax-obligations.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Which is a material connection that must be disclosed?",
+    "choices": [
+      "A commission, a free product, or a discount",
+      "A product you bought yourself",
+      "A product you have never heard of"
+    ],
+    "answer": 0
+  },
+  "checkIn": {
+    "questions": [
+      "Name one product you really use and could honestly recommend.",
+      "Does the program ask you to pay a fee to join?",
+      "Write your one-line disclosure.",
+      "Where will you keep track of payouts and free items?"
+    ],
+    "samples": [
+      "Pick something you would mention to a friend even without a commission.",
+      "Yes, no, or not sure. If yes, treat it as a warning sign and look again.",
+      "Keep it short and plain, such as “I earn a commission if you buy through my link.”",
+      "A spreadsheet, a notes app, or not sure yet."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

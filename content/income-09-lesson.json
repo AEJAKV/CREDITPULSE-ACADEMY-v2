@@ -1,0 +1,404 @@
+{
+  "title": "Ecommerce",
+  "summary": "Your shop → A clear checkout → Delivery",
+  "subtitle": "Open an online shop that customers, and the CRA, can trust.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An online store is a shop that never closes and never sleeps. That sounds wonderful until a customer emails at 3:07 a.m. about a parcel that is still “in transit.” This module shows you how to build a shop that runs smoothly, treats buyers fairly, and keeps you on the right side of Canadian rules."
+        },
+        {
+          "type": "heading",
+          "text": "What you’ll learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "How an online shop works, and the main ways to stock one",
+              "text": ""
+            },
+            {
+              "title": "Which costs beyond the product itself can eat your profit",
+              "text": ""
+            },
+            {
+              "title": "How to price honestly and design a clear checkout",
+              "text": ""
+            },
+            {
+              "title": "What privacy, email, and tax rules mean for a small Canadian shop",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Start with the plain-language basics",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ecommerce simply means selling goods online. You handle five things, which are the product, the store, the payment, the shipping, and the customer service. Every shop, from a tiny candle seller to a national chain, has to cover the same five jobs."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are three common ways to stock a shop. You can make the product yourself, you can buy goods wholesale and resell them, or you can use dropshipping, where a supplier ships directly to your customer. Print on demand, which you met in the last module, is one kind of dropshipping."
+        },
+        {
+          "type": "paragraph",
+          "text": "Each method trades control for convenience. Making things gives you the most control but takes the most time, while dropshipping needs the least upfront money but gives you the least say over speed and quality."
+        },
+        {
+          "type": "transition",
+          "text": "See the whole shop before you spend a dollar on it.",
+          "detail": "A one-page cost sketch shows whether your idea can still make money after fees, shipping, and returns.",
+          "extra": "The checkout checklist in Section 04 is a good place to start."
+        }
+      ]
+    },
+    {
+      "id": "costs",
+      "title": "The real costs, and the rules that come with them",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A product that costs $10 and sells for $25 does not earn you $15. Subtract the platform and payment fees, packaging, shipping you pay for, returns, advertising, and tax, and the profit shrinks fast. Write every cost down before you commit."
+        },
+        {
+          "type": "heading",
+          "text": "Privacy: protect your customers’ information"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you collect names, addresses, or email addresses, privacy law applies to you, no matter how small you are. The federal law, called PIPEDA, sets out ten fair information principles. In practice, collect only what you need, explain why you need it, get meaningful consent, keep it secure, and name one person who is responsible."
+        },
+        {
+          "type": "spotlight",
+          "text": "Privacy is good for business. The Privacy Commissioner reports that half of surveyed Canadians have chosen not to do business with a company because of its privacy practices. A short, plain privacy notice is cheap insurance."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My shop is too small for privacy law to apply to it.”",
+              "text": "PIPEDA covers commercial activity that involves personal information, regardless of company size. Alberta, British Columbia, and Quebec also have their own private-sector privacy laws."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Email: ask before you send"
+        },
+        {
+          "type": "paragraph",
+          "text": "Canada’s Anti-Spam Legislation, known as CASL, requires consent before you send marketing emails or texts. The sender must be able to prove that consent, every message must identify you, and each one needs a working unsubscribe link. The penalties can reach millions of dollars, so build good habits from the start."
+        },
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "A box that the visitor ticks, with clear wording about marketing emails",
+              "text": "Yes. Keep a record of when and how it happened."
+            },
+            {
+              "title": "A box that is already ticked",
+              "text": "No. Consent must be a clear, active choice."
+            },
+            {
+              "title": "Agreement to your terms of service that also signs people up for marketing",
+              "text": "No. Marketing consent must be separate."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Keep proof of consent. The business that sends the message has to prove it had permission. Save the date, the time, and the exact wording of every sign-up, so that you can show it if anyone ever questions your list."
+        },
+        {
+          "type": "spotlight",
+          "text": "Say “no” to false urgency. Honest delivery promises build repeat customers. If your supplier ships from abroad, tell buyers the real timeline instead of promising a two-day delivery that you cannot control."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Checkout fees are fine as long as they appear in my terms and conditions.”",
+              "text": "Under the Competition Act, mandatory fixed fees must be included in the price you advertise, except for government charges such as sales tax. Hiding them until the last step is the pattern that the Competition Bureau calls drip pricing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Story: Gary the Label Printer",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Gary the Label Printer",
+          "detail": "STORY",
+          "extra": "",
+          "paragraphs": [
+            "Chloe Tremblay sold hand-poured soy candles from a spare bedroom in Sherbrooke, Quebec. She packed every order beside a label printer that she had named Gary. Her goal was to hire a part-time helper before the holiday rush, because Gary, though loyal, could not fold boxes.",
+            "To grow her email list, Chloe ran a giveaway. The sign-up form had a small box that was already ticked, and it said she could send marketing emails. Within a month she had 2,000 addresses, and she could not wait to send a big holiday sale.",
+            "Then she read an article about Canada’s anti-spam law. Her stomach dropped. A ticked box was not real consent, and she had no way to prove anyone had agreed. She could picture the fines.",
+            "Now she faced a choice. She could send the sale anyway and hope for the best, because the list was big and the season was short. Or she could email everyone once, explain the mistake, and keep only the people who clicked to say yes. She chose to ask. She wrote a short, friendly message and changed the form to an unticked box.",
+            "The list shrank to about 800 people. Chloe felt sick for a day. Then came the twist. Those 800 opened her emails far more often than the old list ever had, and they bought. Her holiday sales beat the year before.",
+            "Chloe hired a student to help with packing in November. Gary the label printer finally had a coworker, though Gary still got all the credit. And every week she checked her own sign-up form, just to make sure that box stayed empty."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Asking permission is not a speed bump. It builds a list that buys.",
+          "detail": "A small, willing audience that you can prove you have permission to contact is worth more than a large list that puts you at risk.",
+          "extra": "Section 04 turns these rules into a checklist for your own shop."
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "Your checkout checklist",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Show the true price early.",
+              "text": "Include every mandatory fixed fee in the advertised price. Sales tax can be added at checkout."
+            },
+            {
+              "title": "Be honest about delivery.",
+              "text": "State a realistic delivery time, and add a day of cushion to the one your supplier gives you."
+            },
+            {
+              "title": "Make returns easy to find.",
+              "text": "Link your return policy from every product page and from the cart."
+            },
+            {
+              "title": "Keep your privacy notice simple.",
+              "text": "Explain what you collect, why you collect it, and how a customer can ask to see or delete it."
+            },
+            {
+              "title": "Ask before you email.",
+              "text": "Use an unticked box with clear wording, and include an unsubscribe link in every message."
+            },
+            {
+              "title": "Track and report.",
+              "text": "Log your sales and costs, and report the profit as business income on Form T2125."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Tax notes, and what changes by province"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "GST/HST",
+              "text": "You can skip registration while your taxable sales stay at $30,000 or less over four calendar quarters in a row and in any single quarter. After that, you must register and collect the tax."
+            },
+            {
+              "title": "Provincial taxes",
+              "text": "The federal GST is 5%, Ontario’s HST is 13%, and Quebec adds a 9.975% QST that Revenu Québec collects separately. Provincial sales taxes have their own rules, so the federal $30,000 limit does not cover them."
+            },
+            {
+              "title": "Your website on your return",
+              "text": "Form T2125 asks about income from websites, so keep track of what share of your income comes from your shop."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Before launch, buy your own product and time how long it takes to arrive. Then promise a delivery date that is one day later than the real one, so that you can delight people instead of apologizing."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Is a pre-ticked marketing box valid consent under CASL?",
+              "detail": "No.",
+              "text": "Consent must be a clear, active choice."
+            },
+            {
+              "title": "Can a mandatory $2 service fee first appear on the last checkout step?",
+              "detail": "Not if it is a fixed fee that every buyer must pay.",
+              "text": "It belongs in the advertised price."
+            },
+            {
+              "title": "Which federal privacy law applies to most small online shops?",
+              "detail": "PIPEDA, unless a provincial law applies instead.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Which sign-up form is the safest for email marketing? A. A pre-ticked box · B. An unticked box with clear wording about marketing emails · C. Marketing consent bundled into your terms of service",
+              "detail": "B.",
+              "text": "An active, separate choice is the kind of consent that you can prove."
+            },
+            {
+              "title": "Which of these may be added after the advertised price without being drip pricing? A. A mandatory service fee · B. A mandatory handling fee · C. Government sales tax",
+              "detail": "C.",
+              "text": "Government-imposed charges such as sales tax are the main exception."
+            },
+            {
+              "title": "Who must follow privacy law? A. Only large companies · B. Any business that collects personal information in the course of commercial activity · C. Only shops that sell outside Canada",
+              "detail": "B.",
+              "text": "Size does not matter. If you collect customer information, you have obligations."
+            },
+            {
+              "title": "In one sentence, describe how you will ask customers for email permission.",
+              "detail": "Sample response:",
+              "text": "I will use an unticked box that says “Yes, send me offers by email,” and put an unsubscribe link in every message."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Show the true price up front, ask before you email, and keep your customers’ information safe.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Ecommerce",
+              "text": "Buying and selling goods online."
+            },
+            {
+              "title": "Dropshipping",
+              "text": "A model where a supplier ships directly to your customer."
+            },
+            {
+              "title": "Payment processor",
+              "text": "The service that safely takes card payments for your shop."
+            },
+            {
+              "title": "CASL",
+              "text": "Canada’s Anti-Spam Legislation, which sets rules for marketing emails and texts."
+            },
+            {
+              "title": "PIPEDA",
+              "text": "The federal privacy law for businesses that collect personal information."
+            },
+            {
+              "title": "Drip pricing",
+              "text": "Advertising a price that leaves out mandatory fixed fees."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up: Module 3.5: AI-Assisted Businesses.",
+          "detail": "You now know how a shop is built and protected. Next, you will learn how to use AI tools to work faster without giving up your judgement."
+        },
+        {
+          "type": "source",
+          "text": "Office of the Privacy Commissioner of Canada: PIPEDA requirements in brief",
+          "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief/"
+        },
+        {
+          "type": "source",
+          "text": "Canada’s Anti-Spam Legislation (CASL), enforced by the CRTC: fightspam.gc.ca",
+          "url": "https://fightspam.gc.ca/eic/site/030.nsf/eng/home"
+        },
+        {
+          "type": "source",
+          "text": "Competition Bureau: Competition Bureau sues Canada’s Wonderland for allegedly advertising misleading prices online (May 2025)",
+          "url": "https://www.canada.ca/en/competition-bureau/news/2025/05/competition-bureau-sues-canadas-wonderland-for-allegedly-advertising-misleading-prices-online.html"
+        },
+        {
+          "type": "source",
+          "text": "Competition Bureau: Competition Bureau sues DoorDash for allegedly advertising misleading prices and discounts (June 2025)",
+          "url": "https://www.canada.ca/en/competition-bureau/news/2025/06/competition-bureau-sues-doordash-for-allegedly-advertising-misleading-prices-and-discounts.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: When to register for and start charging the GST/HST",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Understand your tax obligations",
+          "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/platform-economy/understanding-tax-obligations.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Which sign-up form is the safest for email marketing?",
+    "choices": [
+      "A pre-ticked box",
+      "An unticked box with clear wording about marketing emails",
+      "Marketing consent bundled into your terms of service"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "What would you sell, in a few words?",
+      "How would products reach your buyers?",
+      "Do you know every fee a buyer would pay at checkout?",
+      "How would you ask for email permission?"
+    ],
+    "samples": [
+      "Keep it simple. One product line is enough.",
+      "I ship them, a supplier ships them, or not sure.",
+      "Yes, no, or not sure. Think about shipping, handling, and taxes.",
+      "An unticked box, I will not email, or not sure yet."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

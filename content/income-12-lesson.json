@@ -1,0 +1,385 @@
+{
+  "title": "Local Lead Generation",
+  "summary": "Business Setup and Scaling · 2.2",
+  "subtitle": "Help neighbours reach the right local business with a clear, trusted request.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A yard service needs customers, and a neighbour needs a hedge trimmed. Your job can be to help them find each other, without making the neighbour complete a form that feels longer than the hedge."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Choose one local service and define a useful inquiry.",
+              "text": ""
+            },
+            {
+              "title": "Build a clear path from a public page to a named business.",
+              "text": ""
+            },
+            {
+              "title": "Handle contact details and permission with care.",
+              "text": ""
+            },
+            {
+              "title": "Report requests, appointments and sales as different results.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "introduction",
+      "title": "Start with a useful introduction",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A lead is a contact or request from someone who may need a service. It is not a promised sale. A qualified lead meets the rules you and your client agree on, such as location, service needed and permission to pass along the request."
+        },
+        {
+          "type": "paragraph",
+          "text": "This course covers a small service that brings clear local inquiries to one client business. You help that business receive and sort requests, rather than collecting contact lists to sell to several buyers. The owner keeps control of the business page, prices and customer promises. Start with a small trial so the owner can review the work before expanding it."
+        },
+        {
+          "type": "transition",
+          "text": "Start with a clear match",
+          "detail": "A written lead definition helps you spend time on requests your client can actually serve."
+        }
+      ]
+    },
+    {
+      "id": "path",
+      "title": "Build a path people can understand",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose one service, such as routine yard care, and one area the client can cover. Ask the owner which jobs they accept, when they have room and who will answer requests. A full calendar changes what your page should offer."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Publish an owner-approved business page with the actual service area and offer.",
+              "text": ""
+            },
+            {
+              "title": "Invite interested people to a short request form; referrers can share its public link.",
+              "text": ""
+            },
+            {
+              "title": "Explain who receives the request and why before asking for permission.",
+              "text": ""
+            },
+            {
+              "title": "Check the agreed lead rules, send eligible requests and record the handoff.",
+              "text": ""
+            },
+            {
+              "title": "Ask the client for outcome updates, then report what happened.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Make your role visible. Say that you manage inquiries for the named yard service. Do not invent a local business, address or review to make the page seem established."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Office of the Privacy Commissioner of Canada, or OPC, says consent information should clearly explain what is collected, who receives it and its purpose. For this pilot, identify the client by name beside the permission choice. Avoid a vague promise to share with selected partners."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A public email address gives me permission to send any offer.”",
+              "text": "CRTC guidance says public availability alone is not enough. Any reliance on published-address implied consent must meet its conditions, and the sender must be able to prove that basis."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "CRTC says commercial electronic messages generally need consent, sender identification and an unsubscribe method. An email asking for consent can itself be commercial; establish a lawful basis before sending it. Permission to fulfil a request does not automatically permit later marketing."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: Owen’s Saturday slot",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Owen’s Saturday slot",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Owen lived in Hamilton and wanted to test a lead service alongside his warehouse job. A local yard-care owner had spare Saturday slots but little time to sort messages. Owen offered a two-week pilot for routine garden cleanup within an agreed part of the city.",
+            "Their first public post brought several requests, and Owen pictured a tidy report. Then a neighbour asked which company would arrive. The page named the owner, but the form only said a local provider would contact them.",
+            "Owen stopped the handoff and showed the owner the gap. He could keep collecting requests under the vague wording or fix the form before continuing. He chose to name the yard service beside the sharing choice and had the owner approve the whole customer path.",
+            "He also added an area question and explained that the service would confirm timing and price. Two neighbours who had not clearly agreed to the earlier wording chose to submit a fresh request. Owen counted their first entries as replaced records, not extra leads.",
+            "The next surprise was that several suitable neighbours wanted weekday visits. The owner could handle some of those, but Saturday demand was weaker than expected. They adjusted the next public offer instead of blaming the people who answered.",
+            "The pilot gave them a usable request process and a clearer view of local demand. Owen’s report showed what the owner could serve and what needed changing. His Saturday slot idea had become a question they could test, rather than a promise he had to defend."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Trust makes the handoff easier",
+          "detail": "Clear names and expectations help people understand who will contact them about their request."
+        },
+        {
+          "type": "spotlight",
+          "text": "Review the whole path as a customer before launch. A clear post cannot repair a confusing form further down the page."
+        }
+      ]
+    },
+    {
+      "id": "pilot",
+      "title": "Run a request-sorting pilot",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This author-developed example tests the process for two weeks. The fictional fee is $240, with tax excluded, for one approved page, one form, daily sorting on weekdays and a closing report. Advertising spend is separate; this is a teaching example, not a market price."
+        },
+        {
+          "type": "heading",
+          "text": "Write the sorting rules first"
+        },
+        {
+          "type": "paragraph",
+          "text": "The agreement defines a qualified lead as one new household request for an accepted job, inside the agreed area, with usable contact details and permission for the named client to receive it. Repeat entries for the same job count once. Set a replacement or dispute process and the client’s response target, such as one business day."
+        },
+        {
+          "type": "spotlight",
+          "text": "Agree who owns each step. Your handoff time and the client’s reply time are separate measures; neither proves a booking happened."
+        },
+        {
+          "type": "heading",
+          "text": "Test the form and protect the records"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask for a name, one contact method, neighbourhood and short job description. Let the business request an exact address when needed. OPC principles call for limited collection, suitable protection and keeping information only as long as its purpose requires."
+        },
+        {
+          "type": "paragraph",
+          "text": "Restrict access to the people handling requests, use secure accounts and agree a deletion schedule with the client. Add a clear privacy contact. OPC explains that PIPEDA generally covers commercial personal information in Ontario; Alberta, British Columbia and Quebec have their own private-sector laws, and cross-border handling can bring PIPEDA into scope."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Every form entry is a billable lead.”",
+              "text": "Your agreed definition excludes repeats, unsuitable jobs and other entries that do not meet the rules."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Reconcile the pilot report"
+        },
+        {
+          "type": "paragraph",
+          "text": "In this separate fictional report, 20 entries include three duplicates, then two out-of-area requests and one unsupported job among the remaining entries. That leaves 14 qualified handoffs: 20 - 3 - 2 - 1 = 14. Six of those handoffs become appointments, so the appointment rate is 6 ÷ 14, about 43%; appointments are not completed sales."
+        },
+        {
+          "type": "spotlight",
+          "text": "Use a count and its stage together: 14 qualified handoffs, six appointments. Let the client confirm completed jobs separately."
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Keep a short reason code for each exclusion. You can explain the totals without copying customer messages into every report."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Does a qualified lead guarantee a sale?",
+              "detail": "No.",
+              "text": "It meets your agreed inquiry rules, but the customer may decide not to book."
+            },
+            {
+              "title": "Should two entries for the same household job count twice?",
+              "detail": "No, when your agreement excludes duplicates.",
+              "text": "Keep one eligible request and label the repeat."
+            },
+            {
+              "title": "Who should approve the service area and offer?",
+              "detail": "The client business owner.",
+              "text": "They know which jobs they can take and remain responsible for their promises."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "A client wants you to count all 12 entries, including four repeats for the same jobs. Your contract excludes duplicates. What should you report? A. Twelve qualified leads. · B. Eight unique requests, then check the other lead rules. · C. Four sales.",
+              "detail": "B.",
+              "text": "Remove repeats first; the eight remaining requests still need checks against the agreed criteria."
+            },
+            {
+              "title": "A homeowner asks for hedge trimming, but your client only offers lawn mowing. What should happen? A. Count a qualified handoff anyway. · B. Send the details to several other businesses. · C. Mark the job outside the agreed scope.",
+              "detail": "C.",
+              "text": "A genuine request can still be unsuitable for this client. Do not treat it as a qualified lead or quietly pass it elsewhere."
+            },
+            {
+              "title": "The owner wants a page that pretends your agency is a long-established yard service. What should you do? A. Use the client’s true identity and explain your inquiry role. · B. Invent reviews to support the story. · C. Hide who receives the requests.",
+              "detail": "A.",
+              "text": "A transparent page tells customers who provides the work and who manages inquiries."
+            },
+            {
+              "title": "Write one sentence describing a pilot you could test, including the service, area and the result you will measure.",
+              "detail": "Example:",
+              "text": "I will test garden-cleanup requests in one Hamilton neighbourhood and count qualified handoffs separately from appointments."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Build one clear request path, agree what counts and report each stage honestly. Useful introductions begin with a need the client can serve.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Complete this chapter"
+        },
+        {
+          "type": "paragraph",
+          "text": "Draft your one-paragraph pilot offer using your answers. Include the work covered and the client’s reply target, then read the request page aloud to someone who has not seen it. Revise any wording that leaves them unsure who will contact them."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Lead",
+              "text": "A contact or inquiry from a possible customer."
+            },
+            {
+              "title": "Qualified lead",
+              "text": "An inquiry that meets agreed rules."
+            },
+            {
+              "title": "Service area",
+              "text": "The places a business has agreed to serve."
+            },
+            {
+              "title": "Handoff",
+              "text": "Passing an eligible request to the named client."
+            },
+            {
+              "title": "Duplicate",
+              "text": "A repeat entry for the same request."
+            },
+            {
+              "title": "CASL",
+              "text": "Canada’s Anti-Spam Legislation, which includes rules for commercial electronic messages."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Module 2.3: Starting a Small Corporation. Learn what creates a corporation and how to organize its first business records."
+        },
+        {
+          "type": "source",
+          "text": "CRTC: Frequently asked questions about Canada’s Anti-Spam Legislation",
+          "url": "https://crtc.gc.ca/eng/com500/faq500.htm"
+        },
+        {
+          "type": "source",
+          "text": "CRTC: CASL guidance on implied consent",
+          "url": "https://crtc.gc.ca/eng/com500/guide.htm"
+        },
+        {
+          "type": "source",
+          "text": "OPC: Guidelines for obtaining meaningful consent",
+          "url": "https://www.priv.gc.ca/en/privacy-topics/business-privacy/collecting-personal-information/consent/gl_omc_201805/"
+        },
+        {
+          "type": "source",
+          "text": "OPC: Summary of privacy laws in Canada",
+          "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15/"
+        },
+        {
+          "type": "source",
+          "text": "OPC: PIPEDA fair information principles",
+          "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "A homeowner asks for hedge trimming, but your client only offers lawn mowing. What should happen?",
+    "choices": [
+      "Count a qualified handoff anyway.",
+      "Send the details to several other businesses.",
+      "Mark the job outside the agreed scope."
+    ],
+    "answer": 2
+  },
+  "checkIn": {
+    "questions": [
+      "Which service and area will you cover?",
+      "What will make a request qualify for handoff?",
+      "Which check will you do first?"
+    ],
+    "samples": [
+      "Name one service and a neighbourhood or boundary. Leave out customer addresses.",
+      "Write the accepted job, area and duplicate rule, plus how you will confirm sharing permission.",
+      "Choose one: confirm the lead rules with the owner, test the form with a volunteer, review the privacy and permission wording, or not sure. Add a date to your pilot notes."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

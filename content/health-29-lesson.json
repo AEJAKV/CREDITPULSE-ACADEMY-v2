@@ -1,0 +1,393 @@
+{
+  "title": "Thirty-Day Challenges",
+  "summary": "Advanced Fitness and Healthy Living · 1.14",
+  "subtitle": "Use one month to find a routine that fits your real life.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Some challenge calendars behave as though every household has a spare gym and a weather control room. Your month may include shift changes, school pickups and a sidewalk that has become a skating rink. A useful challenge makes room for those facts."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Choose one behaviour you can test for thirty days.",
+              "text": ""
+            },
+            {
+              "title": "Set planned chances, an easier option and review dates.",
+              "text": ""
+            },
+            {
+              "title": "Use missed chances as information without restarting.",
+              "text": ""
+            },
+            {
+              "title": "Make a clear decision about what happens after day thirty.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "month",
+      "title": "A month for learning",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A challenge is a short period when you try a clear action and learn how it fits your life. Here, thirty days is a boundary for the experiment, not a promise that a habit will become automatic. You can learn something useful even when the original plan needs changing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Choose an action you control, such as a short walk after lunch on selected days. Avoid goals tied to weight, appearance or a perfect streak. The question is whether the action is useful and workable, rather than whether you can force yourself through a demanding month."
+        },
+        {
+          "type": "paragraph",
+          "text": "These examples support learning, not personal medical care. Before increasing activity, use CSEP’s Get Active Questionnaire and follow its guidance about seeking advice. Choose an activity that fits your current ability and any advice you already have."
+        },
+        {
+          "type": "transition",
+          "text": "Make the month useful",
+          "detail": "A clear experiment gives you evidence about what fits your week, so your next choice can rest on experience rather than a challenge calendar."
+        }
+      ]
+    },
+    {
+      "id": "test",
+      "title": "Build a fair test",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start with one reason that matters to you. HealthLink BC supports small, specific goals and preparing for setbacks; write one action and one likely barrier before you begin."
+        },
+        {
+          "type": "paragraph",
+          "text": "A planned opportunity is a chosen chance to act. Name a cue you can notice, such as putting away your lunch container, and arrange what you need before that cue arrives."
+        },
+        {
+          "type": "spotlight",
+          "text": "Write the easier version before a busy day arrives. If your usual action is a twelve-minute walk, your easier option might be five minutes of gentle walking on a safe indoor route."
+        },
+        {
+          "type": "paragraph",
+          "text": "Record what happened using simple marks: regular version, easier version, missed or paused. Planned recovery days are not missed exercise days, because no session was scheduled on them."
+        },
+        {
+          "type": "spotlight",
+          "text": "Count both versions honestly. Three regular sessions and one easier session from six planned chances means four completed chances out of six, with two missed; it does not mean four full sessions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Review at the end of each seven-day block. Ask whether the cue was available and whether the action left enough room for recovery. If work demands keep removing your break, a conversation about coverage may matter more than another reminder; CCOHS identifies workload and shift patterns as possible sources of stress."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Missing a day means starting the thirty days again.”",
+              "text": "Keep the original end date and review the problem. Do not double a later session to pay back missed exercise."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A useful decision can be to keep the same amount, make it smaller or pause. Increase only one part at a time when it is suitable, and allow yourself to repeat a level. There is no required increase at any review."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: Victor’s route",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Victor’s route",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Victor, a transit dispatcher in Winnipeg, wanted a short walk between work and supper. He hoped to arrive home with some time away from a screen before helping his daughter with homework. The challenge sheet in the staff room showed thirty empty boxes, but none had room for a delayed shift.",
+            "After an evening spent answering a route disruption, he chose a thirty-day test with three planned walks in each seven-day block. He set twelve minutes as his regular version and five as the easier one. His cue was putting his lunch container back in his bag after work.",
+            "He completed two walks in the first block and missed one when relief arrived late. During the next block, freezing rain made the outdoor route unsafe. He nearly added a longer walk to the following day, then checked his written rule against making up missed exercise.",
+            "Victor kept the end date and asked the building attendant about an indoor route. He used a permitted corridor for an easy five-minute walk, recording it as the shorter version. At his review, he also moved the cue to arriving home so late relief would no longer control it.",
+            "An unexpected change came when his daughter asked to join him. She wanted a quiet place to rehearse a school talk, and the walk gave them time without the television. Victor kept the same length instead of turning their new routine into a bigger target.",
+            "By day thirty, he had completed nine of twelve planned chances: six regular and three easier walks. He chose to keep three weekly chances with the home cue. On the staff-room sheet, he wrote “review the route” beside the boxes, a reminder that a delay calls for a decision, not a punishment."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Keep what you learn",
+          "detail": "A changed cue or shorter option can preserve a useful routine when your schedule shifts, giving you a workable next step without erasing your effort."
+        },
+        {
+          "type": "spotlight",
+          "text": "An easier session and a missed session tell different stories. Keeping separate marks helps you see whether your backup worked or whether the opportunity itself needs changing."
+        }
+      ]
+    },
+    {
+      "id": "thirty-days",
+      "title": "Walk through all thirty days",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This adjustable example is an original Credit Pulse learning framework, not an official health programme or personal prescription. It tests an easy walking break at a pace where conversation feels comfortable. Choose a shorter amount or a suitable accessible movement with professional guidance if needed."
+        },
+        {
+          "type": "heading",
+          "text": "Example: twelve planned walking chances"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Days 1–7: Prepare on day 1. Walk on days 2, 4 and 6; review the cue on day 7.",
+              "text": ""
+            },
+            {
+              "title": "Days 8–14: Walk on days 9, 11 and 13. Review the route and easier option on day 14.",
+              "text": ""
+            },
+            {
+              "title": "Days 15–21: Walk on days 16, 18 and 20. On day 21, decide whether to repeat the amount or reduce it.",
+              "text": ""
+            },
+            {
+              "title": "Days 22–28: Walk on days 23, 25 and 27. Review actual completions against the twelve planned chances on day 28.",
+              "text": ""
+            },
+            {
+              "title": "Days 29–30: On day 29, compare what helped across the month. On day 30, choose to continue, change or stop and write your reason.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The blocks contain 7 + 7 + 7 + 7 + 2 = 30 days. Each regular session has five minutes of gentle walking, five comfortable minutes and two gentle minutes to finish: twelve minutes total. The easier version is five gentle minutes total, without a faster middle section."
+        },
+        {
+          "type": "spotlight",
+          "text": "There are twelve planned sessions, not thirty. All other days carry no walking assignment; ordinary movement, meals and recovery continue without earning or losing a mark."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep the same amount throughout this example. You may repeat it after day thirty. Rest, sleep, food and fluids support recovery, and an illness or injury may call for a pause."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop for pain, faintness, chest pressure or severe breathlessness. Seek urgent help for possible emergency symptoms; call 9-1-1. Do not treat the calendar as permission to push through symptoms."
+        },
+        {
+          "type": "spotlight",
+          "text": "Check current conditions before using an outdoor route. Ice, smoke, heat or darkness may require a safe indoor backup, different timing or a pause; choose suitable clothing and footwear."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A harder final week proves the challenge worked.”",
+              "text": "A month that helps you find a safe, repeatable action can be useful without any increase."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Put the regular and easier session lengths beside your tracking marks. This makes the amounts clear when you review the month."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Does this example schedule thirty walking sessions?",
+              "detail": "No.",
+              "text": "It schedules twelve sessions across thirty days."
+            },
+            {
+              "title": "What happens after a missed chance?",
+              "detail": "Keep the end date, note the barrier and return at a suitable planned chance.",
+              "text": ""
+            },
+            {
+              "title": "Must the walking amount rise each week?",
+              "detail": "No.",
+              "text": "Repeating or reducing the amount is allowed."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "You miss a planned walk because of an unexpected shift. What fits this framework? A. Restart at day 1. · B. Double the next walk. · C. Note the barrier and resume when suitable.",
+              "detail": "C.",
+              "text": "A missed chance offers information about your schedule; it does not create exercise debt."
+            },
+            {
+              "title": "Your regular session is twelve minutes, but you complete five gentle minutes. How do you record it? A. Easier completion. · B. Full regular session. · C. Failure.",
+              "detail": "A.",
+              "text": "The planned easier option counts as a completion while keeping the amount clear."
+            },
+            {
+              "title": "At day 21, the current amount still fits. What should happen next? A. Increase it automatically. · B. Repeat it if suitable. · C. Add two more behaviours.",
+              "detail": "B.",
+              "text": "Reviews allow you to keep a workable level without compulsory increases."
+            },
+            {
+              "title": "Write one day-thirty decision and the information you would use to make it.",
+              "detail": "Sample:",
+              "text": "Keep three weekly chances because nine of twelve happened and the home cue worked better than the work cue."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Thirty days gives your experiment an end date. Judge the plan by what you learned about its fit, and keep regular completions, easier completions and missed chances separate.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Write your own plan before you start. Use the questions below to make your first chance clear."
+        },
+        {
+          "type": "heading",
+          "text": "Chapter completion activity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Finish by writing your start date and review dates beside your plan. Add one sentence about the barrier you expect and the support you could ask for. Keep private health details out of these course fields."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Challenge",
+              "text": "A bounded experiment with a review at the end."
+            },
+            {
+              "title": "Behaviour",
+              "text": "An action you can choose and describe."
+            },
+            {
+              "title": "Cue",
+              "text": "A noticeable event that reminds you to act."
+            },
+            {
+              "title": "Planned opportunity",
+              "text": "A chosen chance to do your action."
+            },
+            {
+              "title": "Easier option",
+              "text": "A smaller or simpler version chosen in advance."
+            },
+            {
+              "title": "Review point",
+              "text": "A date to examine what worked and what needs changing."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Module 1.15: Twelve-Week Transformations extends the planning window. You will use reviews to build useful routines and skills while leaving room for recovery and setbacks."
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: Change a Habit by Setting Goals",
+          "url": "https://www.healthlinkbc.ca/healthwise/change-habit-setting-goals"
+        },
+        {
+          "type": "source",
+          "text": "CSEP: Get Active Questionnaire",
+          "url": "https://csep.ca/2021/01/20/pre-screening-for-physical-activity/"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: How to Exercise Safely",
+          "url": "https://www.healthlinkbc.ca/living-well/physical-activity/preventing-injuries/how-exercise-safely"
+        },
+        {
+          "type": "source",
+          "text": "Public Health Agency of Canada: Safe practices for physical activity",
+          "url": "https://www.canada.ca/en/public-health/services/being-active/play-safe.html"
+        },
+        {
+          "type": "source",
+          "text": "CCOHS: Workplace Stress – General",
+          "url": "https://www.ccohs.ca/oshanswers/psychosocial/stress.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "You miss a planned walk because of an unexpected shift. What fits this framework?",
+    "choices": [
+      "Restart at day 1.",
+      "Double the next walk.",
+      "Note the barrier and resume when suitable."
+    ],
+    "answer": 2
+  },
+  "checkIn": {
+    "questions": [
+      "What action will you test, and when?",
+      "What easier option will you use?",
+      "What decision will you consider on day thirty?"
+    ],
+    "samples": [
+      "Write one behaviour, its amount, a cue and your planned days.",
+      "Write a smaller amount or a safe backup that you can count separately.",
+      "Continue the same plan, change the plan, stop this experiment, or not sure. Choose a starting idea; change it after reviewing your notes."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

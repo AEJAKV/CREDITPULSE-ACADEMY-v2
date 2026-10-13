@@ -1,0 +1,397 @@
+{
+  "title": "Boxing Fitness",
+  "summary": "Advanced Fitness and Healthy Living · 1.4",
+  "subtitle": "Find an active break you can enjoy without entering a ring.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A fitness app may announce that it is time to “crush your workout” while you are still looking for your socks. Boxing fitness can start with a much quieter goal: move in a clear space, practise a simple rhythm, and finish with something you want to try again."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Understand non-contact boxing fitness and air practice.",
+              "text": ""
+            },
+            {
+              "title": "Choose a comfortable pace and simple movement.",
+              "text": ""
+            },
+            {
+              "title": "Adjust a short session to your space and needs.",
+              "text": ""
+            },
+            {
+              "title": "Write a plan and recognise when to stop.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-practice",
+      "title": "Begin with air practice",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Boxing fitness uses boxing-inspired movements as exercise. In this course, nobody hits another person, and there is no sparring. The aim is to practise movement and attention, not fighting or self-defence."
+        },
+        {
+          "type": "paragraph",
+          "text": "Moving your hands through empty air is called shadowboxing. Start with small, slow movements while standing still, and leave enough room to keep every movement clear of furniture and people."
+        },
+        {
+          "type": "paragraph",
+          "text": "Complete CSEP’s Get Active Questionnaire before starting. For any “Yes,” follow its companion reference document; this does not automatically rule out activity. This course teaches general fitness, not personal treatment."
+        },
+        {
+          "type": "transition",
+          "text": "Make room for movement",
+          "detail": "A simple air practice gives you a way to take an active break at your own pace, without needing a ring or expensive gear."
+        }
+      ]
+    },
+    {
+      "id": "rhythm",
+      "title": "Find a rhythm you control",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start with a comfortable standing position and relaxed shoulders. If standing is not suitable, ask a qualified exercise professional about supported seated practice or other adaptations. The professional can help you choose movements that fit your needs."
+        },
+        {
+          "type": "heading",
+          "text": "Keep the first movement small"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hold your hands comfortably near your upper chest, with wrists in a natural line. Move one hand a short distance forward into empty space, then bring it back slowly before changing hands. Keep a bend in your elbow throughout; do not snap the arm straight or lock the joint."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use gentle, controlled movement rather than force, and avoid strong twisting. If you want to learn fuller boxing technique, arrange instruction with a qualified boxing coach rather than copying a fast video."
+        },
+        {
+          "type": "spotlight",
+          "text": "Practise one movement at a time. Try alternating small forward hand movements, then pause with both hands resting. Add complexity only when the simpler version feels manageable."
+        },
+        {
+          "type": "heading",
+          "text": "Judge effort by your breathing"
+        },
+        {
+          "type": "paragraph",
+          "text": "How hard a session feels matters more than how fast the instructor moves. At moderate effort, you breathe harder but can still talk, though singing becomes difficult. Start at easy effort, and slow down or rest if speech becomes hard."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Boxing fitness only counts if you hit a bag.”",
+              "text": "Air practice is a valid starting option. Bag contact needs coached technique and suitable hand protection; buying gloves does not provide that instruction."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Ask a class leader whether the session stays non-contact, how beginners can slow down, and who checks technique. A class title alone cannot answer these questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "A video cannot see your movement or adjust a lesson for you. Choose a pace you can control, even if the screen moves ahead."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: Farah’s quiet round",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Farah’s quiet round",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Farah, 47, lived in Mississauga and worked at a busy shipping office. She wanted an evening activity she could enjoy before helping her father with errands. Her fitness app kept awarding badges for long sessions, so her short walks barely appeared on its cheerful dashboard.",
+            "One snowy Tuesday, a colleague invited her to a non-contact boxing fitness class. Farah liked the idea of learning something new, but worried she would be expected to use a bag on her first visit. She called the recreation centre and asked what beginners actually did.",
+            "The instructor explained that she could start with air movements and take breaks whenever she needed. Farah completed her readiness check privately and arrived early to discuss her starting level. The instructor showed her a small, controlled movement, then let her practise it slowly.",
+            "During the first round, the music grew faster and several classmates added steps. Farah tried to follow both changes and began losing the simple rhythm. She had a real choice: keep chasing the group or return to the movement she could control.",
+            "She chose to stand still, make smaller movements, and rest before the next round. Then came a surprise: the instructor used her slower version to show the class another option. Farah had expected a correction; instead, her choice became part of the lesson.",
+            "She finished that visit without using a bag and wrote down one cue she wanted to remember. On another evening she practised a short air sequence at home, leaving time for her father’s errands. The app still preferred longer workouts, but Farah now kept her own note: “A practice I chose to repeat.”"
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Choose the version that fits",
+          "detail": "Knowing how to simplify a movement helps you join a session while keeping control of your own effort and time."
+        },
+        {
+          "type": "spotlight",
+          "text": "Farah changed the movement before adding more effort. Record a useful cue, such as “small and slow,” instead of treating a badge or punch count as the main result."
+        }
+      ]
+    },
+    {
+      "id": "practice",
+      "title": "Build a short practice",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose a clear indoor area with secure footing, comfortable shoes, and room for both arms. Move pets and loose objects out of the space before starting. A living room already has enough obstacles without the robot vacuum joining the class."
+        },
+        {
+          "type": "heading",
+          "text": "Adjustable example: 12 minutes"
+        },
+        {
+          "type": "paragraph",
+          "text": "This learning example is not a personal prescription or an organisation-endorsed plan. Shorten it or seek adapted instruction to suit your needs. Start easy and keep the hand movements small."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Warm-up, 4 minutes: easy walking in place, gentle shoulder movement, and slow comfortable arm movement.",
+              "text": ""
+            },
+            {
+              "title": "Practice, 4 minutes: four rounds of 30 seconds of small alternating air movements, followed by 30 seconds of easy walking or rest. Each round lasts 1 minute.",
+              "text": ""
+            },
+            {
+              "title": "Cool-down, 4 minutes: slow walking, then allow your breathing to settle. Total: 4 + 4 + 4 = 12 minutes.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The practice block contains 2 minutes of air movements and 2 minutes of recovery. Recovery is planned time, so do not skip it to match someone else’s pace."
+        },
+        {
+          "type": "paragraph",
+          "text": "If moving your arms and feet together feels confusing, separate them: stand still for air practice and walk only during recovery. If arm movement hurts, stop and get appropriate advice rather than work through pain. A professional can help choose a suitable alternative."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop for chest pain or pressure, faintness, or severe or unusual breathlessness; call 911 for chest pain, fainting, or severe breathing trouble. Once a session feels manageable, repeat it before deciding whether to change anything. There is no deadline for increasing the challenge."
+        },
+        {
+          "type": "spotlight",
+          "text": "Change one variable at a time. For example, keep the same small movement and easy pace while adding one 1-minute practice-and-recovery round, only when suitable; the example would then total 13 minutes."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A harder round is always a better round.”",
+              "text": "A round you can control teaches you more about your starting point. You can shorten the session or repeat the same level."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Put your timer within easy view before starting. A simple repeating timer helps you follow the breaks without watching a video instructor or stopping to unlock your phone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Canadian weather can change where you practise. Check current local heat, smoke, and weather alerts if you plan an outdoor session, and choose indoor space with good air when conditions are unsafe. Avoid icy or slippery surfaces."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What is the first practice option in this course?",
+              "detail": "Simple, slow shadowboxing in empty air, with no person or object being hit.",
+              "text": ""
+            },
+            {
+              "title": "What should happen at the end of a small air movement?",
+              "detail": "Keep the elbow bent and bring the hand back under control.",
+              "text": ""
+            },
+            {
+              "title": "When would you seek a qualified boxing coach?",
+              "detail": "Before learning fuller striking technique or making bag contact.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "A video starts fast punches and steps, but you lose control of the movement. What is the best choice? A. Match its speed. · B. Pause and return to small, slow air movements. · C. Add force.",
+              "detail": "B.",
+              "text": "A slower movement gives you time to regain control; keeping up with a screen is not the goal."
+            },
+            {
+              "title": "You have new gloves and want to hit a bag. What comes next? A. Ask a qualified boxing coach for technique and equipment instruction. · B. Test your hardest punch. · C. Copy a short clip without feedback.",
+              "detail": "A.",
+              "text": "Gloves alone do not teach safe bag technique or confirm suitable hand protection."
+            },
+            {
+              "title": "Your 12-minute example feels manageable across several practices. What is a suitable option? A. Double the session immediately. · B. Remove all breaks. · C. Repeat it, or change one suitable variable.",
+              "detail": "C.",
+              "text": "Repeating a level is acceptable, and changing one variable helps you judge the effect."
+            },
+            {
+              "title": "Write one sentence describing your next practice and one way you could make it simpler.",
+              "detail": "Sample:",
+              "text": "I will try four short air-practice rounds after warming up, and stand still rather than add steps if coordination feels difficult."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Begin with controlled air practice and planned breaks. Choose a repeatable session you can adjust, and get coached instruction before bag contact.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Write a short practice plan in your own words. Name the movement and recovery you will use, with a place and a realistic time to try it."
+        },
+        {
+          "type": "heading",
+          "text": "Chapter completion activity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Finish your plan above and explain why it suits you. Add your name and email for your completion record. Keep private health details separate."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Non-contact",
+              "text": "Activity where participants do not hit one another."
+            },
+            {
+              "title": "Shadowboxing",
+              "text": "Practising boxing-inspired movements through empty air."
+            },
+            {
+              "title": "Round",
+              "text": "A timed block of practice."
+            },
+            {
+              "title": "Recovery",
+              "text": "A planned period of easier movement or rest."
+            },
+            {
+              "title": "Moderate effort",
+              "text": "An effort that raises breathing but still allows talking."
+            },
+            {
+              "title": "Adaptation",
+              "text": "A change to an activity so it better fits a person’s needs."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Module 1.5: Kickboxing Fitness adds simple lower-body movements to non-contact practice. Keep the same habit of choosing a manageable version and getting help with unfamiliar technique."
+        },
+        {
+          "type": "source",
+          "text": "CSEP: Get Active Questionnaire and companion reference document",
+          "url": "https://csep.ca/2021/01/20/pre-screening-for-physical-activity/"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: How to Exercise Safely",
+          "url": "https://www.healthlinkbc.ca/living-well/physical-activity/preventing-injuries/how-exercise-safely"
+        },
+        {
+          "type": "source",
+          "text": "Public Health Agency of Canada: Physical Activity Tips for Adults (18–64 years)",
+          "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/physical-activity-tips-adults-18-64-years.html"
+        },
+        {
+          "type": "source",
+          "text": "Boxing Canada: Instruction Beginners Reference Material (2024)",
+          "url": "https://boxingcanada.org/wp-content/uploads/2025/01/Instruction-Beginners-Reference-Manual-EN.pdf"
+        },
+        {
+          "type": "source",
+          "text": "Public Health Agency of Canada: Safe practices for physical activity",
+          "url": "https://www.canada.ca/en/public-health/services/being-active/play-safe.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "A video starts fast punches and steps, but you lose control of the movement. What is the best choice?",
+    "choices": [
+      "Match its speed.",
+      "Pause and return to small, slow air movements.",
+      "Add force."
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "What will you try first?",
+      "Where and when will you practise?",
+      "How will you make it easier?"
+    ],
+    "samples": [
+      "Small air movements, ask about adapted instruction, or not sure. Choose the next step you can arrange.",
+      "Example: clear living room, Saturday morning; 4-minute warm-up, four 1-minute rounds with breaks, 4-minute cool-down.",
+      "Write what you will shorten or change if the planned version is too much."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

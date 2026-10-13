@@ -1,0 +1,385 @@
+{
+  "title": "Print on Demand",
+  "summary": "You design → A printer makes it on order → It ships to your buyer",
+  "subtitle": "Sell custom products without owning a single box of stock.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Print on demand lets you put your design on a mug, a T-shirt, or a tote bag. A printing partner makes and ships each item only after someone buys it, so you never hold stock. You also never see the parcel, which means that every “where is my order?” email lands in your inbox instead of theirs."
+        },
+        {
+          "type": "heading",
+          "text": "What you’ll learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "How print on demand works and who does which job",
+              "text": ""
+            },
+            {
+              "title": "How to use designs that you truly have the right to sell",
+              "text": ""
+            },
+            {
+              "title": "How to work out your real profit after fees and shipping",
+              "text": ""
+            },
+            {
+              "title": "What customs, taxes, and honest pricing mean for Canadian buyers",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Start with the plain-language basics",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The process has five steps. You create a design, you connect it to an online shop, a customer orders and pays you, your printing partner makes and ships the item, and you pay the partner a base cost. The difference between what the customer paid and what you owe is your margin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your name is on the shop, so customers will look to you when something goes wrong. That includes late deliveries, blurry prints, and wrong sizes, even though a partner handled the work."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is a simple example. Suppose you sell a T-shirt for $30, and the printer charges $15 to make it. Payment fees take about $1, and shipping is charged separately to the buyer, so you keep about $14. Your real numbers will differ, which is why the margin check matters."
+        },
+        {
+          "type": "transition",
+          "text": "Know your real profit before you list a single design.",
+          "detail": "A quick margin check and a clear shipping promise protect you from selling a product that quietly costs you money.",
+          "extra": "Section 04 includes a checklist that you can run on every new design."
+        }
+      ]
+    },
+    {
+      "id": "designs",
+      "title": "Designs, quality, and where it ships from",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Only use art, fonts, and phrases that you have the right to use. That means your own original work, material that you have licensed, or work in the public domain. Characters, logos, sports teams, and song lyrics belong to other people, and a clever twist on a famous design does not make it yours."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A clever twist on a famous design makes it mine.”",
+              "text": "A design that is too close to someone else’s character, logo, or artwork can still lead to a takedown notice or a legal complaint, even when you drew every line yourself."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Order a sample first. Buy one of every product type before you sell it, so you can check the colour, the print quality, and the sizing with your own hands. Keep the receipt, because a sample is a business expense."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Print on demand is risk-free because I hold no stock.”",
+              "text": "You still carry risks, including refunds, bad prints, copyright complaints, and surprise border fees. You risk less money upfront, but you do not risk nothing."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Next, find out where your printer ships from. A printer in Canada delivers inside the country, so your buyers avoid border charges. A printer in the United States must send each parcel across the border, and imported goods can be charged GST, duties, and carrier fees. The rules depend on the value of the goods and the shipping method, so check with the Canada Border Services Agency before you promise “no extra fees.”"
+        },
+        {
+          "type": "spotlight",
+          "text": "Show the price a buyer will actually pay. Since June 23, 2022, the Competition Act has treated drip pricing as a harmful practice, meaning an advertised price that leaves out mandatory fixed fees. Only government charges, such as sales tax, can be added later. In 2024, Cineplex was ordered to pay $38.9 million over a $1.50 online booking fee, and the company appealed the decision."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Story: The Bird Shirts",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The Bird Shirts",
+          "detail": "STORY",
+          "extra": "",
+          "paragraphs": [
+            "Tomás Rivera drove a city bus in Kelowna, and on his breaks he drew birds. His goal was to replace his drawing tablet, which had a cracked corner and a pen that drifted. A new one cost about $600, and he did not want to use the grocery money.",
+            "A coworker admired his sketches and asked for a shirt. So Tomás opened a print on demand shop with twelve bird designs. He chose a printer in the United States because it was $3 cheaper per shirt.",
+            "The first orders arrived, and he was thrilled. Then the emails started. Buyers in Canada had been charged fees at the door, and they were not happy. Two asked for refunds, and one left a one-star review that read, “Nobody told me about the extra charges.”",
+            "Tomás faced a choice. He could keep the cheaper printer and hope people read the fine print, or he could switch Canadian orders to a Canadian printer that cost $3 more per shirt. He did the maths on his break. The extra cost was small next to refunds and angry reviews. So he switched, raised his prices a little, and put the full price and shipping time on every product page.",
+            "Sales rose, because “no border fees” became his best selling point. Then came a twist. A message arrived from a sports team’s lawyers. One of his bird designs looked too much like the team’s logo. He had never meant to copy it, but the resemblance was clear. He removed the design that day and drew a new bird from scratch.",
+            "By spring Tomás had paid for his new tablet, with a little left over. The old one sat in a drawer, cracked corner and all, as a reminder to check the details before he clicked publish."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "A clear price and an original design protect both your profit and your shop.",
+          "detail": "When buyers know the full cost and your art is truly yours, you spend your time selling instead of fixing problems.",
+          "extra": "Section 04 gives you a six-step checklist and a provincial sales tax guide."
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "Your launch checklist",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Run a margin check.",
+              "text": "Subtract the printer’s base cost, payment fees, and any shipping you pay from your selling price."
+            },
+            {
+              "title": "Check your rights.",
+              "text": "Confirm that you own or have licensed every image, font, and phrase on the product."
+            },
+            {
+              "title": "Order a sample.",
+              "text": "Inspect the print and the sizing before you offer anything to the public."
+            },
+            {
+              "title": "Choose where it ships from.",
+              "text": "Pick a Canadian printer for Canadian buyers when you can, and research border costs if you cannot."
+            },
+            {
+              "title": "Show the full picture.",
+              "text": "List the price, the shipping cost, the delivery time, and your return policy on every product page."
+            },
+            {
+              "title": "Track and report.",
+              "text": "Log each sale and expense, and report your profit on Form T2125 as business income."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sales tax by province, once you are registered"
+        },
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Alberta",
+              "text": "5% GST"
+            },
+            {
+              "title": "British Columbia",
+              "text": "5% GST plus 7% PST"
+            },
+            {
+              "title": "Saskatchewan",
+              "text": "5% GST plus 6% PST"
+            },
+            {
+              "title": "Manitoba",
+              "text": "5% GST plus 7% RST"
+            },
+            {
+              "title": "Ontario",
+              "text": "13% HST"
+            },
+            {
+              "title": "Quebec",
+              "text": "5% GST plus 9.975% QST"
+            },
+            {
+              "title": "Atlantic provinces",
+              "text": "HST of 14% in Nova Scotia and 15% elsewhere"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Rates change, so confirm them before you file. Provincial sales taxes follow their own registration rules, so do not assume that the federal $30,000 small supplier limit covers them. Federally, you can skip GST/HST registration while your taxable sales stay at $30,000 or less over four calendar quarters and in any single quarter."
+        },
+        {
+          "type": "spotlight",
+          "text": "Check the font licence. Many free fonts allow personal use only. Before you print words on products that you sell, confirm that the licence allows commercial use."
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Make a short “Print Check” list and use it on every design: rights, margin, sample, ship-from, and price page. Five minutes with a list is cheaper than one takedown notice."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "A printer in the United States ships to your Canadian buyer. Who might face border fees?",
+              "detail": "The buyer might, unless you plan for it and say so clearly.",
+              "text": ""
+            },
+            {
+              "title": "Can you sell a shirt that shows a famous cartoon character if you draw it yourself?",
+              "detail": "No.",
+              "text": "The character still belongs to someone else."
+            },
+            {
+              "title": "What is drip pricing?",
+              "detail": "Advertising a price, then adding mandatory fees later in the checkout.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Which design is safest to sell? A. A bird drawn in the style of a famous team’s logo · B. Your own original drawing · C. A song lyric you love",
+              "detail": "B.",
+              "text": "Original work, or work you have licensed, keeps you clear of copyright and trademark trouble."
+            },
+            {
+              "title": "Why order a sample before you sell? A. To check colour, quality, and sizing yourself · B. Because printers require it · C. So you can skip the margin check",
+              "detail": "A.",
+              "text": "A sample shows you what your customers will receive, before they do."
+            },
+            {
+              "title": "Your price page leaves out a mandatory $4 handling fee until the last checkout step. What is the problem? A. Nothing, since buyers always read the terms · B. It can be drip pricing, because the advertised price is not the price buyers can actually pay · C. It is only a problem for large companies",
+              "detail": "B.",
+              "text": "Mandatory fixed fees belong in the advertised price. Government taxes are the main exception."
+            },
+            {
+              "title": "In one sentence, describe your first design and who would buy it.",
+              "detail": "Sample response:",
+              "text": "A hand-drawn loon on a tote bag for cottage and canoe lovers."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Know your profit, use only designs that you have the right to sell, and show buyers the full price up front.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Print on demand",
+              "text": "A way of selling products that are printed and shipped only after an order."
+            },
+            {
+              "title": "Base cost",
+              "text": "The amount the printer charges to make one item."
+            },
+            {
+              "title": "Margin",
+              "text": "What is left from the selling price after costs and fees."
+            },
+            {
+              "title": "Mockup",
+              "text": "A picture that shows how your design will look on a product."
+            },
+            {
+              "title": "Drip pricing",
+              "text": "Advertising a price that leaves out mandatory fixed fees."
+            },
+            {
+              "title": "Takedown notice",
+              "text": "A formal request to remove a design that may copy someone else’s work."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up: Module 3.4: Ecommerce.",
+          "detail": "You have launched products without stock. Next, you will look at the whole online shop, including checkout, privacy, and email rules."
+        },
+        {
+          "type": "source",
+          "text": "Competition Bureau: Competition Bureau sues Canada’s Wonderland for allegedly advertising misleading prices online (May 5, 2025)",
+          "url": "https://www.canada.ca/en/competition-bureau/news/2025/05/competition-bureau-sues-canadas-wonderland-for-allegedly-advertising-misleading-prices-online.html"
+        },
+        {
+          "type": "source",
+          "text": "Competition Bureau: Competition Bureau sues DoorDash for allegedly advertising misleading prices and discounts (June 9, 2025)",
+          "url": "https://www.canada.ca/en/competition-bureau/news/2025/06/competition-bureau-sues-doordash-for-allegedly-advertising-misleading-prices-and-discounts.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: When to register for and start charging the GST/HST",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html"
+        },
+        {
+          "type": "source",
+          "text": "Canada Border Services Agency: Import commercial goods into Canada",
+          "url": "https://www.cbsa-asfc.gc.ca/import/menu-eng.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Which design is safest to sell?",
+    "choices": [
+      "A bird drawn in the style of a famous team’s logo",
+      "Your own original drawing",
+      "A song lyric you love"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "What would your first design be about?",
+      "Where would your first printer ship from?",
+      "Do you own or have a licence for every image, font, and phrase you plan to use?",
+      "Estimate your profit on one item."
+    ],
+    "samples": [
+      "A few words is fine.",
+      "Canada, the United States, or not sure.",
+      "Yes, all of them, some of them, or not sure. If you used a free font, check that it allows commercial use.",
+      "Selling price minus printer cost minus fees. A rough number is fine."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

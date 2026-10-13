@@ -1,0 +1,411 @@
+{
+  "title": "Social-Media Management",
+  "summary": "Business Setup and Scaling · 2.1",
+  "subtitle": "Help a local business show up clearly without living on your phone.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A shop owner can fix a bicycle and still struggle to finish a post before closing. Social-media management turns that unfinished task into a clear client service. Your phone can help you work, but it does not need to become your new supervisor."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Choose one client type and a channel its customers use.",
+              "text": ""
+            },
+            {
+              "title": "Set a small service scope with a clear approval process.",
+              "text": ""
+            },
+            {
+              "title": "Handle content, account access and replies with care.",
+              "text": ""
+            },
+            {
+              "title": "Report useful results and plan your next improvement.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "service",
+      "title": "Start with a service you can explain",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A social-media manager helps a business plan and create posts, get approval, publish them and handle agreed replies. The manager also reports what happened. A small agency can begin with one person serving one client well."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your client keeps control of the business account and its promises to customers. Your job is to make reliable information easier to find. Start with an independent bicycle repair shop and one channel, rather than offering every possible platform."
+        },
+        {
+          "type": "paragraph",
+          "text": "Agree on the work before making content. A useful first offer describes the number of posts, revision limits, reply hours and who approves each item. It also says what costs extra."
+        },
+        {
+          "type": "transition",
+          "text": "Start with one clear offer",
+          "detail": "A small, written scope helps you finish good work and protect your time, even when the client has another great idea."
+        }
+      ]
+    },
+    {
+      "id": "workflow",
+      "title": "Build a client workflow that holds up",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Begin with a short intake brief. Ask who the shop serves, which services it wants to explain and where customers already look for updates. In our example, the owner chooses its existing Facebook page because customers ask about repair hours there."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Collect approved hours, service details, booking links and the shop’s tone of voice.",
+              "text": ""
+            },
+            {
+              "title": "Agree on four posts over two weeks, one revision round and weekday reply checks.",
+              "text": ""
+            },
+            {
+              "title": "Name one approver and set an approval deadline. Silence means the post waits.",
+              "text": ""
+            },
+            {
+              "title": "Record topics you can answer and issues the owner must handle.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Keep one facts sheet with the owner’s confirmation date. A service menu from last spring may be a lovely piece of history and a poor source for today’s prices."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Canadian Centre for Cyber Security recommends individual access with suitable permissions instead of shared credentials. Use a platform role that gives only the access you need, enable two-factor authentication and leave account recovery under the owner’s control."
+        },
+        {
+          "type": "paragraph",
+          "text": "Check permission to use the logo, photographs, music and other content. Do not assume an image found online is free to reuse. The Privacy Commissioner says consent should explain the purpose of collecting, using or sharing personal information; ask clearly before featuring an identifiable customer."
+        },
+        {
+          "type": "spotlight",
+          "text": "Set reply boundaries in writing. Answer routine hours questions from approved wording; send refunds, repair safety concerns and complaints to the owner. Keep customer details out of public replies."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Managing social media means being available all day.”",
+              "text": "Reply hours are part of the agreement. A public response-time note helps customers know when to expect a reply, while urgent issues follow a separate escalation plan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep a dated record of approvals and published versions. When work ends, return agreed files and reports, then have the owner revoke your platform and scheduling-tool access."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: The Saturday repair post",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The Saturday repair post",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Danielle in Regina wanted her first management client to fit around her part-time job. An independent bicycle repair shop needed help before the busy riding season. She offered a two-week pilot and booked two evenings for the work.",
+            "Her first draft promoted Saturday tune-ups with same-day pickup. The owner had said Saturdays were busy, and Danielle had filled in the rest. When she sent the batch for approval, the owner flagged the promise: the mechanic could not guarantee that timing.",
+            "The post was due the next morning, and Danielle worried that waiting would make her look slow. She considered changing one word and publishing. Instead, she paused the item and asked what customers could actually book.",
+            "They replaced the promise with clear drop-off and booking steps. Danielle added the wording to her facts sheet and returned the batch for approval. She also removed a customer’s visible phone number from a work-order photo.",
+            "During the second week, the clearest post attracted fewer reactions than the bicycle photo. Yet three people asked how to arrange a repair, and the owner confirmed one booking from those conversations. Danielle reported those counts separately, without claiming every inquiry became a sale.",
+            "The owner liked the approval process but could only review posts on Thursdays. Danielle moved her draft deadline to Tuesday and proposed the next month’s scope. Her two evenings stayed on the calendar, and the Saturday promise stayed out of the posts."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Build trust through the process",
+          "detail": "A clear approval routine helps you catch mistakes early and gives the client a useful reason to keep working with you."
+        },
+        {
+          "type": "spotlight",
+          "text": "This fictional pilot shows what the process can teach. The missed promise and customer questions suggest improvements; neither predicts another client’s results."
+        }
+      ]
+    },
+    {
+      "id": "batch",
+      "title": "Walk through a two-week content batch",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This author-developed pilot is an example, not a required package. Prepare four items: booking instructions, a service explanation, a staff-approved workbench photo and a reminder about current hours. Give each item one purpose and a clear next step."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Create a batch sheet with draft text, visual, facts checked, approver, status and planned date.",
+              "text": ""
+            },
+            {
+              "title": "Review each image for customer details and content-use permission.",
+              "text": ""
+            },
+            {
+              "title": "Send the complete batch on Tuesday; ask for approval by Thursday.",
+              "text": ""
+            },
+            {
+              "title": "Revise the batch once, record approval and schedule only approved items.",
+              "text": ""
+            },
+            {
+              "title": "Check replies during the agreed weekday window and log issues sent to the owner.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Use an approval queue with simple statuses: Draft, Needs change, Approved and Published. A post marked Needs change cannot move straight to Published because its slot is approaching."
+        },
+        {
+          "type": "paragraph",
+          "text": "Make the batch easier to use. W3C’s image guidance supports text alternatives that convey an image’s meaning; describe the workbench action in alt text where the platform allows it. Its media guidance supports captions for video: review automatic captions, and put key booking details in the post text too."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use clear lettering with strong contrast against the background. Read the post on a phone before sending it for review. A booking link should still make sense without someone enlarging a tiny graphic."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A public post and a sales DM follow the same rules.”",
+              "text": "The CRTC says a Facebook wall post is outside CASL’s electronic-address rule, while direct platform messages can qualify. Commercial messages generally require consent, sender identification and an unsubscribe mechanism."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Competition Bureau says materially false or misleading promotions are against the law. Check claims about prices and timing, use genuine reviews with permission, and avoid fake followers, unapproved scraping or mass sales DMs."
+        },
+        {
+          "type": "spotlight",
+          "text": "Keep paid advertising separate. An owner-approved ad budget is not your management fee, and a pilot does not promise reach, bookings or sales."
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Build a monthly one-page report from your log: posts delivered, booking-link clicks, relevant inquiries, owner-confirmed bookings and issues resolved. State the period and data limits; follower growth alone does not explain customer action."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Who approves a post that changes the shop’s service promise?",
+              "detail": "The named client approver confirms it before publication.",
+              "text": ""
+            },
+            {
+              "title": "Does a growing follower count prove the shop gained sales?",
+              "detail": "No.",
+              "text": "Track relevant inquiries and owner-confirmed outcomes separately."
+            },
+            {
+              "title": "What should happen to your account access when the service ends?",
+              "detail": "The owner revokes your role and any connected tool permissions after the agreed handover.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Your post promises same-day repairs, but the owner has not approved it. What should you do? A. Publish to meet the schedule. · B. Hold it and confirm the wording. · C. Add a small disclaimer after publishing.",
+              "detail": "B.",
+              "text": "Publication waits for approval, especially when a post makes a service promise."
+            },
+            {
+              "title": "A customer posts a phone number beside a complaint. What is the best response? A. Repeat the number to show you noticed. · B. Promise a refund. · C. Follow the privacy and escalation plan without repeating personal details.",
+              "detail": "C.",
+              "text": "Protect customer details and send complaints beyond your authority to the owner."
+            },
+            {
+              "title": "The client offers its password. What is the better setup? A. Use your own authorised role with suitable permissions and two-factor authentication. · B. Keep the password in a shared draft. · C. Ask every helper to use the same login.",
+              "detail": "A.",
+              "text": "Individual role access supports control and a clean handover when your work ends."
+            },
+            {
+              "title": "Written: Describe two measures for a monthly bicycle-shop report and explain what each tells the owner.",
+              "detail": "Sample:",
+              "text": "Relevant repair inquiries show customer interest. Owner-confirmed bookings show a later action; neither proves that all interest turned into sales."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Sell a defined service with client approval built in. Keep access secure, reply within agreed limits and report actions that matter to the business.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use a real prospect or a fictional bicycle shop. Answer these questions before offering a pilot, so the client can see what you will deliver and what you still need to confirm."
+        },
+        {
+          "type": "heading",
+          "text": "Chapter completion activity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Write a four-post pilot scope and mark the owner’s approval point. Add one routine reply you could handle and one issue you would send to the owner. Review the knowledge check, then complete the chapter details below."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Scope",
+              "text": "The agreed work, limits and delivery dates."
+            },
+            {
+              "title": "Content batch",
+              "text": "Several posts prepared together for review."
+            },
+            {
+              "title": "Approval queue",
+              "text": "A record showing which drafts may be published."
+            },
+            {
+              "title": "Escalation",
+              "text": "Sending an issue to the person authorised to handle it."
+            },
+            {
+              "title": "Alt text",
+              "text": "A text alternative that explains an image’s meaning."
+            },
+            {
+              "title": "Metric",
+              "text": "A measure used to understand activity or results."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Module 2.2: Local Lead Generation explores how to collect and hand over useful customer inquiries with clear permission. Bring your customer question and pilot scope into that lesson."
+        },
+        {
+          "type": "source",
+          "text": "CRTC: Frequently Asked Questions about Canada’s Anti-Spam Legislation",
+          "url": "https://crtc.gc.ca/eng/com500/faq500.htm"
+        },
+        {
+          "type": "source",
+          "text": "Competition Bureau: False or misleading representations and deceptive marketing practices",
+          "url": "https://competition-bureau.canada.ca/en/deceptive-marketing-practices/types-deceptive-marketing-practices/false-or-misleading-representations"
+        },
+        {
+          "type": "source",
+          "text": "Privacy Commissioner: Guidelines for obtaining meaningful consent",
+          "url": "https://www.priv.gc.ca/en/privacy-topics/business-privacy/collecting-personal-information/consent/gl_omc_201805/"
+        },
+        {
+          "type": "source",
+          "text": "Canadian Centre for Cyber Security: Security considerations when using social media in your organization",
+          "url": "https://www.cyber.gc.ca/en/guidance/security-considerations-when-using-social-media-your-organization-itsm10066"
+        },
+        {
+          "type": "source",
+          "text": "W3C Web Accessibility Initiative: Images Tutorial",
+          "url": "https://www.w3.org/WAI/tutorials/images/"
+        },
+        {
+          "type": "source",
+          "text": "W3C Web Accessibility Initiative: Making Audio and Video Media Accessible",
+          "url": "https://www.w3.org/WAI/media/av/"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Your post promises same-day repairs, but the owner has not approved it. What should you do?",
+    "choices": [
+      "Publish to meet the schedule.",
+      "Hold it and confirm the wording.",
+      "Add a small disclaimer after publishing."
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Which customer question will your first post answer?",
+      "Who will approve your content batch?",
+      "What next step will you take, and when?"
+    ],
+    "samples": [
+      "Write one question, such as how to book a repair.",
+      "Choose the role you will confirm before work starts: owner, named staff approver, or not sure.",
+      "Name one step and a date, such as preparing a four-post scope by Friday."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

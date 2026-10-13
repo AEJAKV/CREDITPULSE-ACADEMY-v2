@@ -1,0 +1,389 @@
+{
+  "title": "Habit Building",
+  "summary": "Advanced Fitness and Healthy Living · 1.12",
+  "subtitle": "Make a useful action easier to return to when life gets busy.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A fitness app may announce a fresh start before you have found both socks. A useful routine needs a starting point that fits your day. Practise one small action without judging a missed chance."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Choose a cue you can notice in your day.",
+              "text": ""
+            },
+            {
+              "title": "Set a small action and an easier version.",
+              "text": ""
+            },
+            {
+              "title": "Remove a barrier and count planned chances fairly.",
+              "text": ""
+            },
+            {
+              "title": "Return after a missed chance without doubling the work.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "starting-point",
+      "title": "Give the action a starting point",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Reaching for your keys when you leave may take little thought. A familiar event can become linked with what you do next. That event is a cue, and a learned response to it is a habit."
+        },
+        {
+          "type": "paragraph",
+          "text": "A plan is a useful beginning, but it does not mean an action is already a habit. Repeating a small action around a steady cue gives you chances to learn the link."
+        },
+        {
+          "type": "paragraph",
+          "text": "This course teaches everyday planning, not treatment. For a new movement routine, use CSEP’s Get Active Questionnaire and follow its advice about further help. Choose an action that fits your abilities and any existing care advice."
+        },
+        {
+          "type": "transition",
+          "text": "Make starting easier",
+          "detail": "A clear cue and a small first step reduce the decisions you make when your day is already full."
+        }
+      ]
+    },
+    {
+      "id": "routine",
+      "title": "Build a routine you can repeat",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose one action with a benefit you care about. “Move more” leaves the next step open; “walk indoors for three comfortable minutes after lunch on workdays” tells you what to try. A short action can be a starting point without meeting all your activity needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Choose a cue that already happens on the days you plan to practise. Finishing lunch might be more reliable than a clock time when shifts move around. Check that the cue leaves you a safe chance to act; serving someone else lunch may not leave you free."
+        },
+        {
+          "type": "spotlight",
+          "text": "Test the cue before adding reminders. For two days, notice whether the event happens and whether you have room to act afterward. A cue you rarely encounter needs changing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Write an if/then line: “If I put my lunch dish in the sink on a workday, then I will walk the clear hallway for three minutes.” An easier version might be one comfortable minute. Decide in advance that either version counts as practice, and record which you used."
+        },
+        {
+          "type": "paragraph",
+          "text": "Set up the space so the first step is easy to find. Keep safe footwear where you will notice it, while leaving exits and walkways clear. If the barrier is lack of care coverage, equipment alone cannot solve it; a support arrangement may be needed."
+        },
+        {
+          "type": "spotlight",
+          "text": "Keep tracking small: mark full version, easier version, or missed. The record should help you choose your next step. It does not need a rating of your mood or a public streak."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“After 21 or 30 days, every action becomes automatic.”",
+              "text": "Habit research finds wide differences between people and actions. A calendar deadline cannot promise that a routine will happen without thought."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "When you miss a chance, return at the next planned cue. If misses keep happening, ask whether the cue, action size, or available support needs changing. A useful plan can be revised without erasing the practice you have already done."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: Theo’s tea tin",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Theo’s tea tin",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Theo worked as a home caregiver in Halifax and helped his father at home. He wanted a movement break before evening tasks. His walking shoes sat beside a tea tin, but he usually went from the kettle to the laundry.",
+            "One Thursday, he found an old note: “Walk at five.” That week, no two shifts had ended at five. His plan depended on a time his work could not protect, and the blank calendar squares made him want to quit.",
+            "He considered more alarms, then chose a different starting point. After putting his work bag beside the tea tin, he would walk indoors for three minutes once his father’s immediate needs were covered. His easier version was one minute, with four planned chances that week.",
+            "On Monday and Tuesday he used the full version. Wednesday’s late visit left him only enough room for the easier version. He marked each honestly rather than writing three identical ticks, and he left Thursday unmarked when an urgent household task took the whole evening.",
+            "On Friday, his father had moved the tea tin to a high shelf to clear the counter. Theo reached for his work bag and still remembered the walk. The useful cue had been setting down the bag, not seeing the tin, so he placed a small reminder beside the bag’s usual spot.",
+            "At his review, Theo counted three completed chances out of four planned, including one easier version. He kept the same amount for another week and asked his sister about covering one evening task. The tea tin returned to the counter, but his plan no longer depended on where someone stored the tea."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Keep a way back",
+          "detail": "An easier version and an honest review help you return to your routine after a crowded day without starting the whole plan over."
+        },
+        {
+          "type": "spotlight",
+          "text": "Theo changed a cue that did not fit his shifts. His plan worked, though it still needed thought."
+        }
+      ]
+    },
+    {
+      "id": "week",
+      "title": "Try one week and review",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use this adjustable example to test your setup, not to prove your fitness. Choose a comfortable indoor route or a familiar seated movement suited to you. Keep any movement within your abilities; these amounts are learning examples, not a personal medical prescription."
+        },
+        {
+          "type": "heading",
+          "text": "Adjustable one-week example"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Cue: put the lunch dish in the sink on Monday, Tuesday, Thursday, and Friday.",
+              "text": ""
+            },
+            {
+              "title": "Full version: one minute easing into a walk, two minutes at a comfortable pace, and one minute slowing down. Total: four minutes.",
+              "text": ""
+            },
+            {
+              "title": "Easier version: one minute of comfortable movement, starting and ending gently.",
+              "text": ""
+            },
+            {
+              "title": "Setup: clear the route before the week begins and put a four-box tracker near the cue.",
+              "text": ""
+            },
+            {
+              "title": "Review: take five minutes on Sunday to count chances and choose one change, if needed.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In this example, Monday and Thursday are full versions, Tuesday is an easier version, and Friday is missed. That is three completions out of four planned opportunities, with nine movement minutes in total: four plus one plus four. Wednesday and the weekend were not planned, so they are not missed chances."
+        },
+        {
+          "type": "spotlight",
+          "text": "Write the planned days before the week starts. Keep the original count visible if life changes, and note what changed. This makes the review useful without quietly removing difficult days."
+        },
+        {
+          "type": "paragraph",
+          "text": "For another week, repeat the same level if it still takes effort. If you choose to increase, change one thing, such as adding one comfortable minute to the full version while keeping the same days. There is no deadline to increase, and a shorter plan may suit you better."
+        },
+        {
+          "type": "spotlight",
+          "text": "Check the indoor backup before bad weather arrives. A building hallway must be clear and available for your use; a small room or seated option may be more practical."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Missing Friday means I should double Monday’s activity.”",
+              "text": "Return to the planned amount. Extra work is not a penalty you owe for a missed chance."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop for pain, faintness, chest symptoms, or extreme breathlessness; seek urgent help for possible heart-attack symptoms. Choose safe seasonal conditions. In winter, your plan can use the indoor route instead of an icy entrance."
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Put one review question beside your tracker: “What made starting hard?” Answer it before buying a new tool. A smaller action or better support may address the actual barrier."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Is a written plan proof that a habit is established?",
+              "detail": "No.",
+              "text": "A plan guides practice; a habit is a learned response to a cue."
+            },
+            {
+              "title": "Can a pre-planned easier version count as practice?",
+              "detail": "Yes.",
+              "text": "Record which version you used so the review stays honest."
+            },
+            {
+              "title": "You planned four chances and completed three. Do two unplanned rest days count as misses?",
+              "detail": "No.",
+              "text": "Report three out of four, and leave unplanned days out of the count."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Your shifts change, but you always put away your lunch dish. Which cue best fits? A. Exactly noon. · B. Putting away the dish when time is available. · C. Whenever you feel motivated.",
+              "detail": "B.",
+              "text": "An event in your routine can fit changing shifts better than a fixed clock time. It also needs a safe chance to act."
+            },
+            {
+              "title": "You planned five chances, used the full version twice and the easier version twice, and missed once. How do you report it? A. Four of five, naming both versions. · B. Two of five. · C. Five of five because you meant to act.",
+              "detail": "A.",
+              "text": "Both agreed versions count. Naming them shows what actually happened."
+            },
+            {
+              "title": "You still need a reminder after 30 days. What is a useful next step? A. Assume you failed. · B. Remove all reminders. · C. Review the cue and keep practising a manageable action.",
+              "detail": "C.",
+              "text": "A fixed number of days does not prove automaticity. Reminders can still help."
+            },
+            {
+              "title": "Write an if/then plan with an easier version and a return step after a miss.",
+              "detail": "Sample:",
+              "text": "If I finish lunch on Monday or Thursday, I will walk indoors for three comfortable minutes, or one minute on a busy day. After a miss, I will return at the next planned cue."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Link one small action to a reliable cue. Prepare an easier version, count planned chances honestly, and return at the next chance after a miss.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Write your one-week plan using these questions. Name the days before you begin, and keep private health details out."
+        },
+        {
+          "type": "heading",
+          "text": "Chapter completion activity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Write an if/then sentence and a review date. Add a return step after a missed chance. At review, you can keep the same amount."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Cue",
+              "text": "An event or setting that can prompt an action."
+            },
+            {
+              "title": "Habit",
+              "text": "A learned response linked to a familiar cue."
+            },
+            {
+              "title": "Automaticity",
+              "text": "Doing an action with little conscious thought."
+            },
+            {
+              "title": "Easier version",
+              "text": "A smaller action agreed on before a difficult day."
+            },
+            {
+              "title": "Planned opportunity",
+              "text": "A chance you chose in advance to practise."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Module 1.13: Stress Management explores ways to respond to pressure. You will also consider when to ask for support."
+        },
+        {
+          "type": "source",
+          "text": "Alberta Health Services: Change a Habit by Setting Goals",
+          "url": "https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=abk7429"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: Planning for a Change That Matters",
+          "url": "https://www.healthlinkbc.ca/healthwise/planning-change-matters"
+        },
+        {
+          "type": "source",
+          "text": "Lally and colleagues: How are habits formed? Original research, 2010",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674"
+        },
+        {
+          "type": "source",
+          "text": "CSEP: Get Active Questionnaire",
+          "url": "https://csep.ca/2021/01/20/pre-screening-for-physical-activity/"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: How to Exercise Safely",
+          "url": "https://www.healthlinkbc.ca/living-well/physical-activity/preventing-injuries/how-exercise-safely"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Your shifts change, but you always put away your lunch dish. Which cue best fits?",
+    "choices": [
+      "Exactly noon.",
+      "Putting away the dish when time is available.",
+      "Whenever you feel motivated."
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "What event will start your action?",
+      "What will you do, including an easier version?",
+      "What support will you prepare first?"
+    ],
+    "samples": [
+      "Name something you already do and the days you will practise.",
+      "Give a short action and a clear amount for each version.",
+      "Clear a space, arrange practical help, set a simple reminder, or not sure. Choose one, then add a detail if useful."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

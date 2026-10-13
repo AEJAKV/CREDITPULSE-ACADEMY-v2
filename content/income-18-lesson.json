@@ -1,0 +1,425 @@
+{
+  "title": "Pricing Services",
+  "summary": "Add up what it takes → Test a price → Fair to both",
+  "subtitle": "Charge a price that pays your costs, your time, and your future.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pricing a service is more difficult than pricing a product, because your main ingredient is your own time. Many new business owners guess at a number that feels polite, and then wonder why they are exhausted and still struggling to pay their bills. This module shows you how to build a price from real numbers, and how to quote it honestly under Canadian rules."
+        },
+        {
+          "type": "heading",
+          "text": "What you’ll learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "How to turn your income goal into an hourly rate that works",
+              "text": ""
+            },
+            {
+              "title": "Three common pricing methods, and when each one fits",
+              "text": ""
+            },
+            {
+              "title": "How to quote clearly, including sales tax and any fixed fees",
+              "text": ""
+            },
+            {
+              "title": "How to raise your prices without losing the clients you like",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Start with the plain-language basics",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A price has to cover three things at once. First, it covers your business costs, such as tools, software, insurance, and travel. Second, it covers your own pay, which is the reason that you started. Third, it covers the time that you cannot bill, including emails, quotes, and the cleanup after a job."
+        },
+        {
+          "type": "paragraph",
+          "text": "Beginners often copy a competitor’s price or reuse the hourly wage from their old job. Neither approach accounts for the expenses of running a business, your own taxes, or the unpaid hours around every paid hour."
+        },
+        {
+          "type": "paragraph",
+          "text": "A good price is also fair to the customer, which means that it is easy to understand, reflects the value of the work, and contains no unpleasant surprises when the final bill arrives."
+        },
+        {
+          "type": "transition",
+          "text": "Stop guessing, and build a price that you can defend.",
+          "detail": "A short calculation reveals the hourly rate that your business genuinely requires, so that you can quote with confidence instead of anxiety.",
+          "extra": "Section 02 walks through the calculation with a simple example."
+        }
+      ]
+    },
+    {
+      "id": "methods",
+      "title": "Three ways to set a price",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Method 1: Start from your hourly rate"
+        },
+        {
+          "type": "paragraph",
+          "text": "Begin with the pay that you want before tax, and add your yearly business costs. Then divide that total by the number of hours that you can realistically bill in a year. Most people can bill far fewer hours than they actually work, because marketing, administration, and travel also take up time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Suppose that you want $60,000 before tax, and your costs are $9,000. You need $69,000 in sales. If you can bill about 1,000 hours a year, your hourly rate is $69. If you could bill 1,500 hours instead, the same goal would need only $46 per hour, but that level is difficult for a one-person business to reach."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "Hourly rate",
+              "text": "",
+              "list": [
+                "How it works: Your rate multiplied by the hours that a job takes",
+                "Best for: Work where the time is hard to predict"
+              ]
+            },
+            {
+              "title": "Fixed price",
+              "text": "",
+              "list": [
+                "How it works: One price for a clearly described job",
+                "Best for: Work that you can scope in advance"
+              ]
+            },
+            {
+              "title": "Packages or value pricing",
+              "text": "",
+              "list": [
+                "How it works: A set price based on the result for the customer",
+                "Best for: Work where the result matters more than the hours"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Fixed prices reward your speed. When you quote a fixed price, you keep the benefit of becoming faster at the work. Describe the job in writing first, including what is not included, so that a small job does not quietly grow into a much larger one."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Being the cheapest is the safest way to win clients.”",
+              "text": "A very low price attracts customers who care only about price, and it leaves you no room for mistakes. Many buyers also interpret an unusually low price as a sign of weak quality."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Quote honestly, including fees and tax"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Competition Act prohibits materially misleading price claims. Since June 23, 2022, advertising a price that leaves out a mandatory fixed fee, which is called drip pricing, is treated as misleading. The only exception is a charge that the government imposes, such as sales tax."
+        },
+        {
+          "type": "spotlight",
+          "text": "A mandatory fee belongs in the quoted price. If every customer must pay a $15 call-out fee, include it in the price that you advertise. In 2024, Sirius XM agreed to pay a $3.3 million penalty because a mandatory fee raised its advertised monthly price by 10% to 20%."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are registered for GST/HST, add the tax on top of your fee and show it as a separate line. Tell the client when you quote, so that a $1,000 job does not become $1,130 at the last minute. A short written quote also protects you if a disagreement comes up."
+        },
+        {
+          "type": "spotlight",
+          "text": "Put it in writing. A written quote should list what the job includes, the total price, the tax, your payment terms, and how long the quote is valid."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Story: The Red Toolbox",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The Red Toolbox",
+          "detail": "STORY",
+          "extra": "",
+          "paragraphs": [
+            "Hamid Rahimi was a handyman in Regina, and he carried everything in a rusty red toolbox that his uncle had given him. His goal was to quit his evening warehouse shift, which meant earning enough from repairs alone to cover his rent.",
+            "He charged $25 an hour because that was what he had earned at the warehouse. Clients loved him, and his calendar filled up within weeks. Yet at the end of the month, the numbers looked wrong.",
+            "Hamid sat at his kitchen table and added things up. He subtracted fuel, tools, insurance, and the hours that he spent driving, quoting, and answering messages. After costs, he was earning about $9 an hour. He felt a flash of embarrassment, and then a bigger flash of clarity.",
+            "This was his choice. He could keep the low price and keep every client, and stay tired. Or he could work out a rate that would let him quit the warehouse, and risk losing some of them. He used the calculation from this module and arrived at $55 an hour, plus a $15 call-out fee that he now included in every quote. He emailed his clients with the new rates and a short, polite explanation.",
+            "He braced for the worst. Two of his eleven clients left. One of the others wrote back, “Finally. I was worried that you could not stay in business at that price.”",
+            "Within three months, Hamid worked fewer hours and earned more than before. He handed in his notice at the warehouse in the spring. The rusty red toolbox still rides in his truck, because he says it earned its place."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "A fair price is a kindness to your clients and to yourself.",
+          "detail": "When your price covers your real costs, you can do careful work, stay in business, and keep serving the people who genuinely value you.",
+          "extra": "Section 04 shows how to put your new price into practice."
+        }
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "Your pricing checklist",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Write down your income goal.",
+              "text": "Use the amount that you want before tax."
+            },
+            {
+              "title": "Add your yearly business costs.",
+              "text": "Include tools, software, insurance, phone, travel, and advertising."
+            },
+            {
+              "title": "Estimate your billable hours.",
+              "text": "Be realistic, because unpaid time is part of the job."
+            },
+            {
+              "title": "Divide to find your rate.",
+              "text": "Test it against what similar local businesses charge."
+            },
+            {
+              "title": "Quote in writing.",
+              "text": "Include every mandatory fee, show tax separately, and state how long the quote is valid."
+            },
+            {
+              "title": "Review every six months.",
+              "text": "Costs change, and your skills improve, so your price should move too."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sales tax on services, once you are registered"
+        },
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Alberta",
+              "text": "5% GST"
+            },
+            {
+              "title": "British Columbia",
+              "text": "5% GST (PST applies only to certain services)"
+            },
+            {
+              "title": "Saskatchewan",
+              "text": "5% GST (PST applies only to certain services)"
+            },
+            {
+              "title": "Manitoba",
+              "text": "5% GST (RST applies only to certain services)"
+            },
+            {
+              "title": "Ontario",
+              "text": "13% HST"
+            },
+            {
+              "title": "Quebec",
+              "text": "5% GST plus 9.975% QST"
+            },
+            {
+              "title": "Atlantic provinces",
+              "text": "HST of 14% in Nova Scotia and 15% elsewhere"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Rates and exemptions change, so confirm them before you file. If you are not registered yet, you do not charge the tax until your taxable sales pass $30,000 over four calendar quarters, or in any single quarter."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I should raise my price only when I lose my best clients.”",
+              "text": "A small, regular increase is easier on everyone involved. Give your clients notice, explain what has changed, and consider keeping a loyal client’s old rate for a few months as a thank-you."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: When you raise your price, send a short, warm message with the new rate, the start date, and a line of thanks. A fair price needs no apology."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What three things must a service price cover?",
+              "detail": "Your costs, your own pay, and the time you cannot bill.",
+              "text": ""
+            },
+            {
+              "title": "Where does a mandatory $15 call-out fee belong?",
+              "detail": "In the advertised price,",
+              "text": "since drip pricing is not allowed."
+            },
+            {
+              "title": "Can you add sales tax after the advertised price?",
+              "detail": "Yes,",
+              "text": "because government-imposed tax is the exception."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "You want $60,000 before tax and have $9,000 of costs. About how much must you bill? A. $60,000 · B. $69,000 · C. $51,000",
+              "detail": "B.",
+              "text": "Your sales must cover both your pay and your business costs."
+            },
+            {
+              "title": "Which price is the safest to advertise? A. A price that leaves out a mandatory fee · B. The total price including all mandatory fixed fees, before tax · C. A price that changes at checkout",
+              "detail": "B.",
+              "text": "Mandatory fixed fees belong in the price. Government tax is the main exception."
+            },
+            {
+              "title": "Why does a written quote help? A. It protects both you and the client by recording the scope and price · B. It lets you change the price later · C. It is required for every job",
+              "detail": "A.",
+              "text": "A written quote prevents misunderstandings about the work and the cost."
+            },
+            {
+              "title": "In one sentence, say what you will change about the way you quote prices.",
+              "detail": "Sample response:",
+              "text": "I will build my rate from my real costs and put every fee in the written quote."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Build your price from real numbers, include every mandatory fee, show tax separately, and put the quote in writing.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Billable hours",
+              "text": "The hours that you can actually charge a client for."
+            },
+            {
+              "title": "Overhead",
+              "text": "The ongoing costs of running your business."
+            },
+            {
+              "title": "Fixed price",
+              "text": "One agreed price for a clearly described job."
+            },
+            {
+              "title": "Value pricing",
+              "text": "A price that reflects the result for the customer, not the hours."
+            },
+            {
+              "title": "Drip pricing",
+              "text": "Advertising a price that leaves out mandatory fixed fees."
+            },
+            {
+              "title": "Quote",
+              "text": "A written price for a defined piece of work."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up: Module 2.9: Building Recurring Revenue.",
+          "detail": "You can now set a fair price. Next, you will learn how to turn one-time jobs into steady monthly income, honestly and within Canadian rules."
+        },
+        {
+          "type": "source",
+          "text": "Competition Bureau: Drip pricing (Guide to the 2022 amendments to the Competition Act)",
+          "url": "https://competition-bureau.canada.ca/en/guide-2022-amendments-competition-act"
+        },
+        {
+          "type": "source",
+          "text": "Competition Bureau: Sirius to pay $3.3 million penalty to settle concerns over subscription price advertising (news release, June 2024)",
+          "url": "https://www.canada.ca/en/competition-bureau/news/2024/06/sirius-to-pay-33-million-penalty-to-settle-concerns-over-subscription-price-advertising.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: When to register for and start charging the GST/HST",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "You want $60,000 before tax and have $9,000 of costs. About how much must you bill?",
+    "choices": [
+      "$60,000",
+      "$69,000",
+      "$51,000"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "How much do you want to earn in a year before tax?",
+      "How many hours could you realistically bill?",
+      "Do you have a mandatory fee that is not in your quote?",
+      "Which pricing method suits your work best?"
+    ],
+    "samples": [
+      "A rough figure is fine.",
+      "Under 800, 800 to 1,200, or not sure.",
+      "Yes, no, or not sure. Think about travel, set-up, or booking fees.",
+      "Hourly, fixed price, or not sure yet."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

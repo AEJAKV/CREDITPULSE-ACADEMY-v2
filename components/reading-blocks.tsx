@@ -225,7 +225,7 @@ export function ReadingBlocks({
             return (
               <ol className="priority-list" key={i}>
                 {items.map((item, j) => (
-                  <li key={item.title}>
+                  <li key={`${j}-${item.title}`}>
                     <span>{j + 1}</span>
                     <div>
                       <h3>{item.title}</h3>

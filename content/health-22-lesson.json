@@ -1,0 +1,410 @@
+{
+  "title": "Pilates",
+  "summary": "Advanced Fitness and Healthy Living · 1.7",
+  "subtitle": "Learn controlled movement and choose a practice that fits your day.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A Pilates booking page may list six class names before explaining any of them. Choosing a suitable class should not require a decoder ring."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Understand Pilates and the difference between mat and reformer work.",
+              "text": ""
+            },
+            {
+              "title": "Recognize useful movement cues and choose suitable instruction.",
+              "text": ""
+            },
+            {
+              "title": "Try an adjustable preparation session when you are ready.",
+              "text": ""
+            },
+            {
+              "title": "Write a small plan you can repeat or change.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "control",
+      "title": "Begin with control",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pilates is a method of exercise that uses controlled movements and attention to how the body moves. It can involve the whole body, with a strong focus on support through the middle. A slow movement can still take effort, so slow does not always mean easy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Muscles around your middle help support movement. This area is called your core. Core control means using that support without making your whole body stiff."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mat Pilates uses a floor mat, sometimes with small props. Reformer Pilates uses a moving platform, springs and straps. Learn its setup and movements with a trained instructor."
+        },
+        {
+          "type": "paragraph",
+          "text": "This course teaches movement preparation, not injury treatment. Before becoming more active, use the CSEP Get Active Questionnaire and its reference guidance to decide whether you need advice from a health care provider or qualified exercise professional."
+        },
+        {
+          "type": "transition",
+          "text": "Build a useful starting point",
+          "detail": "You can choose instruction with a clearer idea of what you need. Understanding control and class format helps you spend your time and money on a suitable first step."
+        }
+      ]
+    },
+    {
+      "id": "feel",
+      "title": "Learn what good control feels like",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Useful practice begins with a comfortable position. Neutral spine means keeping the natural curves of your spine. An instructor can help you find a position that suits the movement."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a first awareness practice, sit in a stable chair with both feet supported. Let your shoulders rest and keep your gaze level. Notice where you feel supported, without trying to hold a perfect pose for the whole day."
+        },
+        {
+          "type": "spotlight",
+          "text": "A cue should help you understand an action. If “engage your core” feels vague, ask the instructor to show the position and explain how much effort to use."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep breathing at your normal pace while moving. During coached Pilates, an instructor may link a breath to part of a movement. Do not force big or rapid breaths, or hold your breath to finish a repetition."
+        },
+        {
+          "type": "paragraph",
+          "text": "For gentle belly-muscle awareness, keep your seated position and draw your lower belly slightly inward without rounding your back. Use light effort for about three seconds while breathing normally, then release fully. Try three times with a relaxed pause between attempts; skip it if you cannot stay comfortable."
+        },
+        {
+          "type": "spotlight",
+          "text": "Your jaw and shoulders provide useful clues. If they tighten while you practise a small movement, pause and reduce the effort rather than trying to squeeze harder."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Every beginner Pilates class is gentle.”",
+              "text": "Class labels vary, and a class open to new learners may still be demanding. Ask about pace, floor work and available adaptations before booking."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask whether the teacher has Pilates training for the equipment being used and experience with new learners. Find out whether you can rest, use a chair or watch first."
+        },
+        {
+          "type": "paragraph",
+          "text": "These drills prepare you to learn Pilates. Authentic Pilates involves a taught sequence and specific technique, so this short control practice does not replace a coached lesson."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: Amira changes the booking",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Amira changes the booking",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Amira ran a small clothing repair shop in Montréal, where the sewing machine had a steadier schedule than she did. She wanted a weekly movement class she could keep during the busy autumn season. Closing the shop early meant losing an appointment, so choosing carefully mattered.",
+            "A nearby studio added a Pilates class at a useful time. Amira nearly booked its six-class package because the page said newcomers were welcome. The photo showed a reformer, but she had never used one and did not know what the session involved.",
+            "She called and asked about the pace and how the equipment was taught. The receptionist explained that the evening class moved quickly and suggested an introductory session first. That session was during shop hours, while a slower mat class ran on Sunday.",
+            "Amira could buy the convenient package and hope to keep up, or change her plan. She chose one Sunday mat lesson without a long commitment. At home, she tried a short seated preparation and wrote down a question about keeping her back comfortable.",
+            "During the lesson, the teacher asked everyone to make one movement smaller. Amira was surprised to see an experienced learner choose the same option she had chosen. She had expected the easier version to announce that she was new; instead, people adjusted their own practice.",
+            "Afterward, Amira booked another single lesson and kept Sunday morning clear in her calendar. She still had technique to learn, but now knew which class she could attend and what to ask. Back at the shop, she put the studio details beside her appointment book, with no decoder ring required."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Make the choice fit your life",
+          "detail": "A good first step leaves room to learn and ask questions. Choosing one suitable lesson can give you useful information before you commit to a longer plan."
+        },
+        {
+          "type": "spotlight",
+          "text": "Check travel time and cancellation terms before committing. Classes you cannot attend offer little value."
+        }
+      ]
+    },
+    {
+      "id": "mat",
+      "title": "Practise introductory mat control",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This adjustable example is not a personal prescription or a complete Pilates lesson. Choose mat work only if getting down, lying on your back and getting up feel comfortable. Otherwise, choose seated practice or arrange guidance."
+        },
+        {
+          "type": "heading",
+          "text": "Adjustable eight-minute example"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Minutes 0–2: Walk slowly indoors on a clear, level route. Choose seated preparation with guidance if standing is unsuitable.",
+              "text": ""
+            },
+            {
+              "title": "Minutes 2–3: Lie on your back on a mat, knees bent and feet flat, about hip-width apart. Support your head with a small pillow if needed; keep your neck comfortable and your back’s natural curves.",
+              "text": ""
+            },
+            {
+              "title": "Minutes 3–4: With arms beside you, notice normal breathing. Try light belly awareness from Section 02 twice, releasing fully between attempts.",
+              "text": ""
+            },
+            {
+              "title": "Minutes 4–6: Raise one arm toward the ceiling with a soft elbow. Slowly move it a short distance toward overhead, then return and lower it beside you. Alternate for up to three turns per arm; rest for the remaining time.",
+              "text": ""
+            },
+            {
+              "title": "Minutes 6–8: Rest, then get up using your usual safe method. Note an instructor question; allow longer if needed.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The blocks total eight minutes: 2 + 1 + 1 + 2 + 2. During arm movement, keep your shoulders supported and your ribs and pelvis quiet. Shorten the arc if your back arches, your chest stiffens or breathing becomes difficult."
+        },
+        {
+          "type": "spotlight",
+          "text": "This arm-control drill adapts Canadian physiotherapist instruction. It practises supporting your trunk while a limb moves, a skill used in Pilates; it does not replace coached Pilates technique."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Soreness proves a session worked.”",
+              "text": "Learning a cue and noticing when to pause are useful results."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For the seated option, use the same timing with feet supported. Replace mat setup with settling in the chair; practise belly awareness, then raise and lower one arm a small comfortable amount without leaning. Rest whenever needed."
+        },
+        {
+          "type": "spotlight",
+          "text": "Keep movement smooth and comfortable. Skip the arm drill if a smaller motion still feels uncomfortable, and ask for instruction before trying again."
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Keep your instructor question beside your mat or chair. Ask them to check that your ribs and pelvis stay steady."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop for pain, dizziness, chest pain, faintness or extreme breathlessness. Call 9-1-1 for possible heart attack symptoms; get advice about unexplained discomfort before restarting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use a dry indoor space clear of wet winter boots. Repeat this level without a deadline; when ready, discuss one extra repetition while keeping everything else the same. Avoid starter inversions, extreme positions and hot studios."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What is the main difference between mat and reformer Pilates?",
+              "detail": "Mat work uses a floor mat; reformer work uses a machine with a moving platform and adjustable springs.",
+              "text": "Both need suitable instruction."
+            },
+            {
+              "title": "Should you hold your breath to keep your middle firm?",
+              "detail": "No.",
+              "text": "Keep normal breathing and reduce effort or pause if you cannot."
+            },
+            {
+              "title": "Does “newcomers welcome” tell you how gentle a class is?",
+              "detail": "No.",
+              "text": "Ask about pace, equipment instruction and adaptations before choosing."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "You are new to a reformer. What should you do? A) Try springs yourself. · B) Arrange instruction on setup and movements. · C) Copy someone nearby.",
+              "detail": "B.",
+              "text": "Reformer setup and movement need instruction; changing springs alone is not a suitable introduction."
+            },
+            {
+              "title": "Your shoulders tense during gentle belly awareness. What should you do? A) Squeeze harder. · B) Hold your breath. · C) Pause and reduce effort.",
+              "detail": "C.",
+              "text": "Tension is a cue to reassess the effort. You should be able to breathe normally."
+            },
+            {
+              "title": "A quick class welcomes newcomers. Before buying a package, should you A) Ask about pace and adaptations, B) Assume it is gentle, or C) Assume faster is better?",
+              "detail": "A.",
+              "text": "Class descriptions do not tell the whole story, so check whether the teaching and pace suit you."
+            },
+            {
+              "title": "Write one adjustment to the eight-minute mat-control sequence and one question for a Pilates instructor.",
+              "detail": "Example:",
+              "text": "I could shorten the arm arc or choose the seated option. I would ask the teacher to check that my ribs and pelvis stay steady."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Choose a manageable position, keep breathing and ask for clear instruction. Your first plan can be small enough to repeat while you learn.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Write a plan that fits your readiness and schedule. You may choose to ask questions before trying movement."
+        },
+        {
+          "type": "heading",
+          "text": "Chapter completion activity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Write your plan in the fields below, including your instructor question. Check that you could shorten or postpone it. Add your name and email to complete this activity."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Pilates",
+              "text": "An exercise method using controlled movement and attention to technique."
+            },
+            {
+              "title": "Core",
+              "text": "Muscles around the middle of your body that help support movement."
+            },
+            {
+              "title": "Neutral spine",
+              "text": "A position that keeps the natural curves of the spine."
+            },
+            {
+              "title": "Mat Pilates",
+              "text": "Pilates practised on a floor mat, sometimes with props."
+            },
+            {
+              "title": "Reformer",
+              "text": "A Pilates machine with a moving platform, springs and straps."
+            },
+            {
+              "title": "Adaptation",
+              "text": "A change to a movement or setup to suit the learner."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Module 1.8, Desk-Worker Mobility, explores changing positions at work. Build a practical reset around your daily tasks."
+        },
+        {
+          "type": "source",
+          "text": "Body Works Sports Physiotherapy: Core Strengthening with Moving Arms",
+          "url": "https://body-works.ca/physio-video/core-strengthening-with-moving-arms/"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: Precautions for Flexibility Activities",
+          "url": "https://www.healthlinkbc.ca/living-well/physical-activity/preventing-injuries/precautions-flexibility-activities"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: How to Exercise Safely",
+          "url": "https://www.healthlinkbc.ca/living-well/physical-activity/preventing-injuries/how-exercise-safely"
+        },
+        {
+          "type": "source",
+          "text": "CSEP: Get Active Questionnaire",
+          "url": "https://csep.ca/2021/01/20/pre-screening-for-physical-activity/"
+        },
+        {
+          "type": "source",
+          "text": "Neurocore Physiotherapy & Pilates Centre: Pilates",
+          "url": "https://neurocore.ca/pilates-garuda/"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: Fitness, Increasing Core Stability",
+          "url": "https://www.healthlinkbc.ca/healthwise/fitness-increasing-core-stability"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "You are new to a reformer. What should you do?",
+    "choices": [
+      "Try springs yourself.",
+      "Arrange instruction on setup and movements.",
+      "Copy someone nearby."
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "What first step will you choose?",
+      "When and where could it fit?",
+      "What will you ask the instructor?"
+    ],
+    "samples": [
+      "Ask an instructor about a class, try seated preparation, review readiness guidance, or not sure. Choose a step you feel ready to take.",
+      "Write a day or time and a suitable place, including travel time if needed.",
+      "Write one question about pace, technique or available adaptations."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

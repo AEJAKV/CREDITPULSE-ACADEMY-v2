@@ -1,0 +1,401 @@
+{
+  "title": "Running Programs",
+  "summary": "Advanced Fitness and Healthy Living · 1.3",
+  "subtitle": "Build a running routine that leaves room for walking and real life.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A running app may send seventeen alerts before you reach the front door. Your first useful decision is simpler: choose a small session that fits today. Begin with walking and add brief, comfortable runs when ready."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Use walking breaks to manage running effort.",
+              "text": ""
+            },
+            {
+              "title": "Choose a route and a flexible starter session.",
+              "text": ""
+            },
+            {
+              "title": "Decide when to repeat, change or pause your plan.",
+              "text": ""
+            },
+            {
+              "title": "Write a running plan with a useful backup.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "walking",
+      "title": "Make room for walking",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Running asks your legs to handle repeated landings while your breathing becomes faster. A running program is a planned way to practise that activity over time. It can include walking breaks throughout, even after you gain experience."
+        },
+        {
+          "type": "paragraph",
+          "text": "Building the ability to keep moving for longer is called endurance. For this course, the starting goal is a manageable session, not a race time. A gentle jog can still feel demanding, so the speed that suits someone else may be too much for you."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is general adult learning, not a personal exercise prescription. Complete CSEP’s Get Active Questionnaire; a yes answer means follow its companion guidance, not an automatic ban. Keep screening answers private."
+        },
+        {
+          "type": "transition",
+          "text": "Give yourself a workable start",
+          "detail": "Planned walking breaks give you a clear way to adjust effort and practise running without chasing someone else’s pace."
+        }
+      ]
+    },
+    {
+      "id": "effort",
+      "title": "Choose effort before speed",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Begin from the activity you already manage comfortably. If steady walking is new, build that routine before adding runs. When you try running, choose a slow pace and brief bouts that let you remain in control of your breathing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use a sentence spoken aloud as a practical check during these starter sessions. If speaking comfortably becomes difficult, slow down or walk rather than trying to finish the run interval. The aim here is manageable effort; running can become vigorous even at a slow speed."
+        },
+        {
+          "type": "spotlight",
+          "text": "Walking breaks belong in the plan. Put them on the timer before starting, so taking one is a choice you expected rather than a decision made under pressure."
+        },
+        {
+          "type": "heading",
+          "text": "Build around your week"
+        },
+        {
+          "type": "paragraph",
+          "text": "Choose two possible session days with a day without running between them, such as Tuesday and Friday. This is a planning example, not a required schedule. Keep other activity comfortable enough that you are not arriving at each run already worn out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Note the run and walk times, how the session felt, and how you felt the following day. Compare with your own recent sessions instead of a public leaderboard. Your watch can measure a route; it cannot see the tiring shift you just worked."
+        },
+        {
+          "type": "spotlight",
+          "text": "Track minutes before distance. A familiar fifteen-minute route offers a clearer starting point than trying to cover the distance a friend posted online."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Walking means the running session failed.”",
+              "text": "A run/walk session is a complete session when walking is part of its design. You can keep this approach rather than making continuous running a required finish line."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Keep equipment simple"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wear comfortable shoes that fit securely and are not badly worn. Start on a familiar, level route with a clear surface rather than adding hills immediately. Changes in shoes, surface and training demands can affect your lower legs, so avoid introducing them all together."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: The corner bakery",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The corner bakery",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Marcus, 48, lived in Halifax and wanted to join his sister’s Saturday run/walk outings. Their route ended near the corner bakery, where they caught up before her weekend shift. He missed those conversations, but her running pace felt out of reach.",
+            "One evening, a running app suggested a five-kilometre challenge. Marcus signed up, then tried to run to the harbour without a walking break. He arrived tired, turned around early and wondered whether Saturday outings were the wrong goal.",
+            "His sister offered to meet him closer to home. Marcus still worried that she would spend every outing waiting, and his work rota left little time to practise. He had to choose between chasing the app’s challenge and building a session he could actually repeat.",
+            "He chose a short, level loop near his flat and wrote walking breaks into it. On two separate days, he walked first, tried brief gentle jogs and walked whenever the effort climbed. He noted which parts felt manageable and left running out of the days between.",
+            "Then a surprise arrived: his sister was returning from a busy month and wanted more walking herself. Their first Saturday outing became a shared run/walk session, with the timer guiding their breaks. Marcus no longer had to guess whether asking to walk would spoil the morning.",
+            "When heavy rain made their usual route unpleasant, they met at an indoor track and repeated the easier session. Several outings later, Marcus had a routine he was willing to return to, though he had no fixed date for running farther. They still stopped at the bakery, where the conversation mattered more than the challenge badge."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Keep the reason that brought you out",
+          "detail": "A flexible plan can protect the time you value, whether that means an outing with someone you love or a quiet break in your week."
+        },
+        {
+          "type": "spotlight",
+          "text": "Choose a goal you control. “Try my planned session twice when ready” is easier to act on than “Keep up with everyone on Saturday.”"
+        }
+      ]
+    },
+    {
+      "id": "session",
+      "title": "Try an adjustable starter session",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The example below is an editorial learning plan for someone who already walks comfortably and is ready to try short runs. It is not a medical prescription or an official organization’s training plan. Choose an easier version or get individual guidance if it does not suit you."
+        },
+        {
+          "type": "heading",
+          "text": "Example: 20 minutes including walking"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Walk gently for 5 minutes, gradually finding a comfortable rhythm.",
+              "text": ""
+            },
+            {
+              "title": "Repeat 4 times: jog gently for 30 seconds, then walk for 2 minutes. This middle part takes 10 minutes.",
+              "text": ""
+            },
+            {
+              "title": "Walk gently for 5 minutes to finish. Total: 20 minutes, including 2 minutes of jogging.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Use a timer and a small loop so you can end near your starting point. Keep the jogging relaxed; there is no sprint or all-out finish. If a run feels too demanding, walk that interval or end the session early."
+        },
+        {
+          "type": "spotlight",
+          "text": "An easier version counts. Make the full session a comfortable walk, or try just one short jog and walk the remaining time. You do not owe the timer four repeats."
+        },
+        {
+          "type": "paragraph",
+          "text": "Repeat this level until it feels manageable during and after several sessions. If ready, change one thing, such as trying 45-second jogs while keeping the two-minute walks and four repeats. That makes the session 21 minutes; keep the pace and number of session days unchanged."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Every runner must increase by ten per cent each week.”",
+              "text": "One percentage cannot judge your readiness. There is no deadline to advance; repeat, reduce or seek personal guidance as needed."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Check the next day before changing the plan. Unusual tiredness or discomfort is a reason to reconsider the next session, not a cue to add more running."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop for chest pain or pressure, faintness, or severe or unusual breathlessness. Call 911 for chest pain, fainting, or severe breathing trouble. Pain that changes movement also means stop and seek appropriate advice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Check current local heat and air-quality alerts, and inspect the route for ice. Switch to an indoor space with good air or postpone when conditions are unsafe. In short winter daylight, choose a well-lit route and clothing that helps others see you."
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Save your easier plan beside the usual one. A paper note can hold both without announcing that your fitness subscription expires at midnight."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What is the purpose of planned walking breaks?",
+              "detail": "They help manage effort within the session.",
+              "text": ""
+            },
+            {
+              "title": "How much jogging is in the 20-minute example?",
+              "detail": "Two minutes:",
+              "text": "four jogs of 30 seconds."
+            },
+            {
+              "title": "Must you advance to the next level each week?",
+              "detail": "No.",
+              "text": "Repeat or adjust a level according to readiness."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Jo’s gentle jog makes comfortable speech difficult. What fits this starter approach? A. Run faster to finish sooner. · B. Slow down or walk. · C. Ignore effort until the timer ends.",
+              "detail": "B.",
+              "text": "Effort guides the starter session; a timer does not override how you feel."
+            },
+            {
+              "title": "Sam wants longer runs, more session days and a hill route. What is the better next choice? A. Change all three together. · B. Follow a fixed percentage rule. · C. Consider one small change after manageable sessions.",
+              "detail": "C.",
+              "text": "Changing one thing makes the new demand easier to judge. There is no required date to progress."
+            },
+            {
+              "title": "Ice covers Pat’s usual route. What fits a flexible plan? A. Use a suitable indoor option or postpone. · B. Keep the route to protect an app streak. · C. Run faster to spend less time outside.",
+              "detail": "A.",
+              "text": "The route must suit current conditions. A streak is not a reason to use unsafe footing."
+            },
+            {
+              "title": "Write a brief run/walk session, including the total time and an easier option.",
+              "detail": "Sample:",
+              "text": "Walk 5 minutes, then repeat a 30-second jog and 2-minute walk four times, then walk 5 minutes. Total: 20 minutes. My easier option is comfortable walking throughout."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Start with a manageable run/walk plan. Walking breaks remain useful, and repeating an easier level is a valid decision.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Write your own starter plan below, with an easier option for a difficult day. If unsure about readiness, make getting suitable guidance your first action."
+        },
+        {
+          "type": "heading",
+          "text": "Chapter completion activity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Check that your plan’s times add up and write when you will use the easier version. Complete the details below."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep private screening answers and health details off this sheet. Discuss health questions with an appropriate professional."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Run/walk",
+              "text": "A session that alternates running and walking."
+            },
+            {
+              "title": "Interval",
+              "text": "A planned period of activity before changing pace."
+            },
+            {
+              "title": "Endurance",
+              "text": "The ability to keep doing an activity over time."
+            },
+            {
+              "title": "Recovery",
+              "text": "Time between harder efforts to rest or move gently."
+            },
+            {
+              "title": "Progression",
+              "text": "A gradual change in the demands of your activity."
+            },
+            {
+              "title": "Warm-up",
+              "text": "An easy start that prepares you for the session."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Module 1.4: Boxing Fitness. Explore a non-contact way to practise movement, with shadow work as the starting point."
+        },
+        {
+          "type": "source",
+          "text": "CSEP: Get Active Questionnaire",
+          "url": "https://csep.ca/2021/01/20/pre-screening-for-physical-activity/"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: Fitness, Getting and Staying Active",
+          "url": "https://www.healthlinkbc.ca/healthwise/fitness-getting-and-staying-active"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: Shin Splints",
+          "url": "https://www.healthlinkbc.ca/healthwise/shin-splints-0"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: How to Exercise Safely",
+          "url": "https://www.healthlinkbc.ca/living-well/physical-activity/preventing-injuries/how-exercise-safely"
+        },
+        {
+          "type": "source",
+          "text": "Health Canada: Wildfire Smoke, Protecting Your Physical and Mental Health",
+          "url": "https://www.canada.ca/en/services/health/healthy-living/environment/air-quality/wildfire-smoke/protecting-your-physical-mental-health.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Jo’s gentle jog makes comfortable speech difficult. What fits this starter approach?",
+    "choices": [
+      "Run faster to finish sooner.",
+      "Slow down or walk.",
+      "Ignore effort until the timer ends."
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "What will you try first?",
+      "How long will your session take?",
+      "What is your route and backup?"
+    ],
+    "samples": [
+      "Comfortable walking first, a brief run/walk session, individual guidance first, or not sure. Choose the next step you can use.",
+      "Write your walk and run minutes, total time, and one possible day.",
+      "Name a familiar route and what you will do if conditions change."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

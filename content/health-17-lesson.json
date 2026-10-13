@@ -1,0 +1,405 @@
+{
+  "title": "Walking Programs",
+  "summary": "Advanced Fitness and Healthy Living · 1.2",
+  "subtitle": "Build a walking habit that fits the week you actually have.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Walking fits into ordinary days, from reaching the bus to picking up groceries. A walking program gives some of those minutes a place in your week. Your fitness app may ask for a heroic daily streak, but it has never waited for a delayed bus."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Choose a walking amount that fits your starting point.",
+              "text": ""
+            },
+            {
+              "title": "Use time and effort to measure a walk.",
+              "text": ""
+            },
+            {
+              "title": "Build a repeatable habit with a weather backup.",
+              "text": ""
+            },
+            {
+              "title": "Write a plan you can adjust without starting over.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "Give your walks a purpose",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A walking program is a simple agreement about when, where and how long you will walk. It can begin with a short trip near home, rather than a long route across town. The useful starting amount is one you can manage and repeat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Walking is low impact, which means it avoids the repeated landing forces of running. It can still feel demanding when your pace rises or the route slopes uphill. Choose your effort by how the walk feels to you, rather than someone else’s speed."
+        },
+        {
+          "type": "paragraph",
+          "text": "This course offers learning examples, not a personal medical prescription. Complete CSEP’s Get Active Questionnaire before becoming more active; a Yes leads to its companion guidance, not an automatic ban. Keep your health answers private."
+        },
+        {
+          "type": "transition",
+          "text": "Make room for a walk",
+          "detail": "A clear starting point and a backup route can help you fit movement into an ordinary week, without needing a perfect schedule."
+        }
+      ]
+    },
+    {
+      "id": "measure",
+      "title": "Measure what helps you",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Notice your present routine for three days. Write down walks and roughly how long they last. Include busy days, because a Saturday plan may not fit Tuesday."
+        },
+        {
+          "type": "heading",
+          "text": "Choose minutes first"
+        },
+        {
+          "type": "paragraph",
+          "text": "Minutes help because you can choose a finish time before leaving. A ten-minute window might allow five minutes out and five back on a familiar route. Traffic lights or a slower return can change that timing, so allow room."
+        },
+        {
+          "type": "spotlight",
+          "text": "Mark a nearby turning point. A short loop or route with several exits lets you return early without being far from home."
+        },
+        {
+          "type": "paragraph",
+          "text": "Step counts can be interesting, but you do not need a tracker to begin. Device readings can differ, and the same distance can feel different on different days. Record what helps your decision."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A walk only matters when it reaches 10,000 steps.”",
+              "text": "There is no single step goal that fits every learner. Begin with your own manageable amount and review how it fits your life."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Notice your effort"
+        },
+        {
+          "type": "paragraph",
+          "text": "At a moderate walking pace, you move faster than a stroll while still being able to talk without feeling breathless. Slow down when speaking becomes difficult. A brisk pace for one person may be an easy pace for another."
+        },
+        {
+          "type": "spotlight",
+          "text": "Keep two notes after a walk: minutes completed and whether the effort felt manageable. Those notes can guide the next choice better than an unbroken streak."
+        },
+        {
+          "type": "paragraph",
+          "text": "For adults aged 18–64, Canadian guidelines include 150 weekly minutes of moderate-to-vigorous activity and strength work twice weekly. That is a broader goal, not your first-walk assignment. Walking can be one part of your routine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pick a route you can describe without consulting a screen every few steps. Check crossings and places to pause before adding distance. A map app may call a staircase a shortcut; your plan is allowed to disagree."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: The library loop",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The library loop",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Leanne lived in Winnipeg and worked changing shifts at a grocery store. She wanted a regular break outside before starting evening work, but her ambitious Sunday plans kept disappearing by Wednesday. Her calendar showed a daily walking reminder that had become part of the wallpaper.",
+            "One afternoon, a shift change left her with twenty free minutes before the bus. She walked a short loop past the neighbourhood library and came back with time to spare. She enjoyed having a destination that did not ask her to buy anything.",
+            "Leanne put a longer walk into every afternoon on her calendar. Then a late delivery kept her at work, and an early shift made the next afternoon awkward. She had to decide whether to keep chasing a fixed daily time or build around the shifts she actually had.",
+            "She chose three possible walking windows on her weekly roster, each with a short library loop as the first option. She wrote ten minutes beside each window and kept a pencil tally of walks she completed. If a window vanished, she could choose another instead of adding a double walk the next day.",
+            "The twist came when freezing rain made her usual pavement unsafe. Leanne checked the conditions and used a nearby indoor public walking space that she had already confirmed was open. The route had no library, but it still served her reason for walking.",
+            "After several weeks, she had a clearer view of which windows survived her shifts. She kept the short walks and sometimes chose a little longer when it felt manageable. The reminder on her calendar now named a real route and a backup, so she could finally see something useful in the wallpaper."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Keep the habit flexible",
+          "detail": "A backup and a movable time window help you keep a walking routine when work or weather changes the day."
+        },
+        {
+          "type": "spotlight",
+          "text": "Give each walk a job that matters to you, such as a work break or time with a friend. Use that purpose when choosing a realistic time window."
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "title": "Try an adjustable walking plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This session is an adjustable learning example, not an official programme or personal prescription. Choose a shorter easy walk if needed, or seek advice about a suitable start. There is no deadline for reaching the full example."
+        },
+        {
+          "type": "heading",
+          "text": "Example: a 15-minute walk"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Minutes 0–3: walk slowly on a flat, familiar route.",
+              "text": ""
+            },
+            {
+              "title": "Minutes 3–12: continue for nine minutes at a manageable pace, with easy conversation.",
+              "text": ""
+            },
+            {
+              "title": "Minutes 12–15: slow down for the final three minutes.",
+              "text": ""
+            },
+            {
+              "title": "Total: 3 + 9 + 3 = 15 minutes.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For a sample week, reserve three possible windows for that session. Completing all three would give 45 minutes of total walking, including the easy opening and finish. Record the walks you actually do; do not count the booked windows as completed activity."
+        },
+        {
+          "type": "spotlight",
+          "text": "Total walking time and moderate activity time can differ. An easy warm-up still belongs in your walk log, but it may not meet a moderate effort level."
+        },
+        {
+          "type": "paragraph",
+          "text": "After several manageable walks, review whether you want a change. You could add two minutes to the middle section, making the total 17 minutes, while keeping pace and frequency the same. Repeat your current amount whenever that suits you, and shorten it after a break if needed."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Progress means making every walk longer and faster.”",
+              "text": "Change one part at a time so you can notice its effect. Repeating a comfortable plan is a useful choice."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop for chest pain or pressure, faintness, or severe or unusual breathlessness; call 911 for chest pain, fainting, or severe breathing trouble. Stop for pain that changes your movement and seek appropriate advice. Do not walk through it."
+        },
+        {
+          "type": "spotlight",
+          "text": "Decide your weather backup before leaving. Check local heat, smoke and ice alerts; choose an indoor place with good air when outdoor conditions are unsafe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wear comfortable footwear and choose visible routes with safe crossings. Dress for the weather, and arrange an indoor alternative when needed. Canada’s weather forecast sometimes feels like a committee meeting, so check the latest local conditions before deciding."
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Write your plan beside an existing weekly task, such as checking your work roster. That gives you a regular moment to choose walking windows and review your backup."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Do you need a step tracker to start a walking program?",
+              "detail": "No.",
+              "text": "A clock and a short note can measure your walking minutes."
+            },
+            {
+              "title": "What changes if you add two minutes to the middle of the 15-minute example?",
+              "detail": "The total becomes 17 minutes.",
+              "text": "Keep the other parts steady while reviewing the change."
+            },
+            {
+              "title": "What should happen when pain changes your walking movement?",
+              "detail": "Stop and seek appropriate advice.",
+              "text": "Continuing is not a way to test the pain."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Sam has ten free minutes and no tracker. What is a useful start? A. Skip the walk. · B. Choose a manageable timed route. · C. Walk until an app gives a badge.",
+              "detail": "B.",
+              "text": "A manageable timed walk works without a tracker. The amount should fit Sam’s starting point."
+            },
+            {
+              "title": "A learner wants to change a comfortable plan. Which choice helps them judge the change? A. Add a little time only. · B. Add speed, hills and time together. · C. Double every session.",
+              "detail": "A.",
+              "text": "Changing one part makes its effect easier to notice. The learner can also repeat the current plan."
+            },
+            {
+              "title": "Freezing rain makes the usual route unsafe. What fits this course? A. Keep the streak outdoors. · B. Choose a safe indoor backup or reschedule. · C. Walk faster to finish sooner.",
+              "detail": "B.",
+              "text": "Safety guides the choice, even when the calendar says walk. A booked session can move."
+            },
+            {
+              "title": "Write one sentence describing your walking window, route, starting minutes and backup.",
+              "detail": "Sample:",
+              "text": "After Tuesday lunch, I will try ten easy minutes on the library loop, with the indoor track as my weather backup."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Choose a manageable walk, give it a real time window and record what happened. Adjust one part at a time when you are ready.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Write your first plan below, choosing a smaller amount when needed. Keep private screening answers and diagnoses off this course sheet."
+        },
+        {
+          "type": "heading",
+          "text": "Chapter completion activity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Complete your written plan and the Knowledge Check above. Add your name and email for your completion record."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Walking program",
+              "text": "A plan for when, where and how long you walk."
+            },
+            {
+              "title": "Low impact",
+              "text": "Movement without the repeated landing forces of running."
+            },
+            {
+              "title": "Moderate pace",
+              "text": "A walking effort above a stroll that still allows comfortable talking."
+            },
+            {
+              "title": "Warm-up",
+              "text": "An easy opening that gradually prepares you for the main activity."
+            },
+            {
+              "title": "Cool-down",
+              "text": "An easy finish that reduces your pace gradually."
+            },
+            {
+              "title": "Progression",
+              "text": "A planned change to an activity amount or difficulty."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Module 1.3: Running Programs explores a different way to plan movement. Carry forward your habit of choosing a manageable starting point and reviewing what you actually complete."
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: Walk your way to health",
+          "url": "https://www.healthlinkbc.ca/living-well/physical-activity/being-active/choosing-your-activity/walk-your-way-health"
+        },
+        {
+          "type": "source",
+          "text": "CSEP: Get Active Questionnaire",
+          "url": "https://csep.ca/2021/01/20/pre-screening-for-physical-activity/"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: How to Exercise Safely",
+          "url": "https://www.healthlinkbc.ca/living-well/physical-activity/preventing-injuries/how-exercise-safely"
+        },
+        {
+          "type": "source",
+          "text": "CSEP: Canadian 24-Hour Movement Guidelines, Adults 18–64",
+          "url": "https://csepguidelines.ca/guidelines/adults-18-64/"
+        },
+        {
+          "type": "source",
+          "text": "Government of Canada: Air Quality Health Index",
+          "url": "https://www.canada.ca/en/environment-climate-change/services/air-quality-health-index.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Sam has ten free minutes and no tracker. What is a useful start?",
+    "choices": [
+      "Skip the walk.",
+      "Choose a manageable timed route.",
+      "Walk until an app gives a badge."
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Where and when will you walk?",
+      "What will you record?",
+      "What is your backup and review day?"
+    ],
+    "samples": [
+      "Write a route, time window and manageable number of minutes.",
+      "Minutes and effort note, minutes only, or not sure. Choose what you will record after each walk.",
+      "Name an indoor option and a day to review what worked."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

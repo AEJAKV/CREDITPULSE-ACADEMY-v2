@@ -56,10 +56,10 @@ Raw verbatim backup. Old: gold-course-2-5 (/course/gold/getting-your-first-custo
 [paragraph] Build a list of 20 qualified prospects from your existing network, local organizations, referrals, public business directories or appropriate community groups. Record why each person may fit.
 
 [ordered]
-  - W — a
-  - P — e
-  - D — i
-  - W — r
+  - Warm introduction — Tell trusted contacts exactly whom you help and ask whether one suitable introduction comes to mind—not to “send anyone with money.”
+  - Permission-based outreach — Use the channel appropriately and follow Canada's Anti-Spam Legislation, since commercial emails and texts generally require consent, sender identification and a working unsubscribe mechanism.
+  - Discovery conversation — Ask what is happening now, what result matters, what has been tried, timing, decision process and budget comfort—listen before presenting the offer.
+  - Written next step — Summarize the problem, outcome, scope, price, timing, responsibilities and acceptance method, and give an expiry date only when it is genuine.
 
 [spotlight] A useful opening message is short: relevant observation, specific result, one reason you may help and a low-pressure question. Personalization means relevance—not inserting a first name into a novel.
 

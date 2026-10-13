@@ -1,0 +1,418 @@
+{
+  "title": "Moving From Side Hustle to Business",
+  "summary": "Side hustle → Steady growth → A real business",
+  "subtitle": "Make the jump from side income to a business you can stand behind.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A side hustle becomes a business the moment it earns steadily, serves real customers, and starts to need real structure. That moment can feel exciting and slightly terrifying, like being handed the keys to a bus. This module shows you the legal and tax steps in a sensible order, so that growing up does not mean growing scared."
+        },
+        {
+          "type": "heading",
+          "text": "What you’ll learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "The signs that your side hustle is ready to become a business",
+              "text": ""
+            },
+            {
+              "title": "How a sole proprietorship and a corporation differ in risk, tax, and paperwork",
+              "text": ""
+            },
+            {
+              "title": "How to register, and when a business number and other accounts are needed",
+              "text": ""
+            },
+            {
+              "title": "How to plan for CPP, tax instalments, and the step of leaving a paycheque",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Start with the plain-language basics",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "You are already a business in the eyes of the CRA, even if your income is small. Self-employed income is reported on Form T2125 and attached to your personal return, whether you earn $500 or $50,000. The difference between a hustle and a business is mostly how seriously you run it."
+        },
+        {
+          "type": "paragraph",
+          "text": "A good sign that you are ready to grow is repeat demand, which means that customers keep coming back or sending friends. Another sign is that the work is crowding out your sleep. A third sign is that you are turning down jobs that you would love to take."
+        },
+        {
+          "type": "paragraph",
+          "text": "Growing does not require quitting your day job tomorrow. Many successful owners spend a year or two building steady income on the side while they put the right structure in place."
+        },
+        {
+          "type": "transition",
+          "text": "Take each step in the right order, and the jump feels like a staircase instead of a cliff.",
+          "detail": "A clear sequence of small, legal, and financial decisions lets you grow with confidence, while keeping your savings and your sleep intact.",
+          "extra": "Section 02 compares the main business structures side by side."
+        }
+      ]
+    },
+    {
+      "id": "structure",
+      "title": "Choosing a structure",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The structure you pick decides who is responsible for the business’s debts, how its income is taxed, and how much paperwork you handle. The two most common choices for a beginner are a sole proprietorship and a corporation."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "Sole proprietorship",
+              "text": "",
+              "list": [
+                "Legal identity: You and the business are the same person",
+                "Responsibility for debts: Business debts and claims can reach your personal assets",
+                "Tax filing: Business income goes on your T1 return with Form T2125",
+                "Losses: You report the loss on your own return",
+                "Setup effort: Simple and inexpensive"
+              ]
+            },
+            {
+              "title": "Corporation",
+              "text": "",
+              "list": [
+                "Legal identity: A separate legal entity",
+                "Responsibility for debts: Shareholders are generally not responsible for its debts, though lenders may ask for a personal guarantee",
+                "Tax filing: The corporation files its own T2 return within six months of its year-end",
+                "Losses: Shareholders cannot claim the corporation’s losses",
+                "Setup effort: More paperwork, ongoing filings, and professional fees"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Neither structure is automatically better. A corporation can offer protection and tax planning options, and it also brings extra costs and rules. Talk to an accountant and a lawyer about your own numbers before you decide. This module explains the choices and does not tell you which to pick."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Incorporating means I never have to worry about debts or lawsuits.”",
+              "text": "A lender may ask you to personally guarantee a loan, and directors can be personally liable if the corporation fails to remit certain amounts it owes. Insurance and good contracts still matter."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Register and get your numbers"
+        },
+        {
+          "type": "paragraph",
+          "text": "Most businesses must register with the province or territory where they operate, although a sole proprietorship using the owner’s own name may not need to. In British Columbia, Manitoba, Nova Scotia, Ontario, and Saskatchewan, you receive a federal business number when you register provincially. In other places, you apply to the CRA for one."
+        },
+        {
+          "type": "paragraph",
+          "text": "A business number is a nine-digit identifier. It can be linked to program accounts, such as a GST/HST account, once you need them. Check which permits and licences your city, province, and industry require, because the BizPaL tool can list them for you."
+        },
+        {
+          "type": "spotlight",
+          "text": "Keep your business money separate. A separate bank account makes your records cleaner, your return simpler, and your story easier to tell if the CRA, a lender, or a landlord ever asks questions."
+        },
+        {
+          "type": "heading",
+          "text": "Plan for the taxes that come with growth"
+        },
+        {
+          "type": "paragraph",
+          "text": "As your profit rises, you may have to pay income tax by instalments during the year instead of in one lump at filing time. For 2026, the CRA says you must pay instalments if your net tax owing is more than $3,000, or $1,800 for Quebec, and it was also above that amount in 2025 or 2024. You may also need instalments for CPP on your own earnings."
+        },
+        {
+          "type": "spotlight",
+          "text": "Self-employed people pay both halves of CPP. Once your net self-employment income passes $3,500 in a year, you pay Canada Pension Plan contributions on it, covering both the employee and employer share. Quebec residents contribute to the Quebec Pension Plan instead."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Story: The Voltage Tester",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The Voltage Tester",
+          "detail": "STORY",
+          "extra": "",
+          "paragraphs": [
+            "Mehdi Karimi worked as an electrician in Surrey. In the evenings he installed electric-vehicle chargers for neighbours. His goal was to cut his day job to four days a week, so that he could spend the fifth day on his own customers. A yellow voltage tester hung from his belt.",
+            "By spring he had eleven repeat clients. Then a property manager asked if he had liability insurance and a business number. The company needed both before it could give him a bigger contract. Mehdi had neither.",
+            "That night he searched online and found a forum full of advice. A dozen people all said the same thing. “Incorporate right now.” Mehdi felt a rush of panic. His finger hovered over a button that offered to set up a company for a flat fee.",
+            "He stopped, and he made a different choice. He would not rush into a company because strangers told him to. Instead he booked an hour with an accountant and brought his numbers. The accountant asked how much profit he made. It was about $22,000 a year. For now, they agreed, a sole proprietorship with good insurance made more sense. They picked a date to review it, and they wrote down the profit level that would make him think again.",
+            "Mehdi registered his business name and got his business number. He bought liability insurance and opened a business bank account. The next week he sent the property manager his certificate and number.",
+            "The manager hired him, and not in spite of the questions. She liked how well he had answered them. By autumn Mehdi had moved to a four-day job. By the next review his profit had passed the level he had written down, and he went back to the accountant with a smile. The yellow voltage tester still hangs from his belt."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Slow is smooth, and smooth is fast.",
+          "detail": "A planned structure, the right paperwork, and an honest review date protect your income and make you look as professional as you are.",
+          "extra": "Section 04 gives you a step-by-step plan for your own transition."
+        }
+      ]
+    },
+    {
+      "id": "transition-plan",
+      "title": "Your transition plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Check your readiness.",
+              "text": "Look for repeat customers, steady income, and demand that exceeds your free time."
+            },
+            {
+              "title": "Choose a structure with advice.",
+              "text": "Compare the options with an accountant and a lawyer who can see your real numbers."
+            },
+            {
+              "title": "Register and get your numbers.",
+              "text": "Complete your provincial registration, get a business number, and add program accounts as you need them."
+            },
+            {
+              "title": "Protect the business.",
+              "text": "Open a business bank account, and ask an insurance broker about liability coverage for your type of work."
+            },
+            {
+              "title": "Plan for tax.",
+              "text": "Set money aside for income tax, CPP, and GST/HST, and check whether you must pay instalments."
+            },
+            {
+              "title": "Set a review date.",
+              "text": "Decide in advance what profit or risk would make you revisit your structure."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Notes by province, and for your taxes"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Registration",
+              "text": "Rules differ by province. Newfoundland and Labrador does not require provincial registration for sole proprietorships, while other provinces do in many cases."
+            },
+            {
+              "title": "Quebec",
+              "text": "Quebec uses the Quebec Pension Plan and has its own business registration with the Registraire des entreprises, so check its requirements."
+            },
+            {
+              "title": "GST/HST",
+              "text": "You must register once your taxable sales pass $30,000 over four calendar quarters, or in any single quarter."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I have to quit my job before I can call myself a business.”",
+              "text": "You can run a legitimate business on the side, with a business number, proper records, and registered accounts. Many people do exactly that for years."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Write down your review trigger today, such as a profit amount or a number of clients. It gives you a calm, planned reason to revisit your structure instead of a stressful one."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Where do you report self-employed income as a sole proprietor?",
+              "detail": "On your T1 return, using Form T2125.",
+              "text": ""
+            },
+            {
+              "title": "In a corporation, can shareholders claim the corporation’s losses?",
+              "detail": "No.",
+              "text": "The corporation’s losses stay with the corporation."
+            },
+            {
+              "title": "When must you pay income tax by instalments?",
+              "detail": "When your net tax owing is above the CRA’s threshold in the current year and in one of the two years before.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Who is responsible for a sole proprietorship’s debts? A. The business alone · B. You personally · C. The CRA",
+              "detail": "B.",
+              "text": "A sole proprietorship has no separate legal identity, so business debts can reach your personal assets."
+            },
+            {
+              "title": "Which form reports a sole proprietor’s business income? A. Form T2125 · B. Form T137 · C. Form T2",
+              "detail": "A.",
+              "text": "Form T2125 is attached to your personal T1 return. A T2 return is the corporation’s."
+            },
+            {
+              "title": "Why set a review date for your business structure? A. So you can change structure when your numbers change · B. Because the CRA requires it · C. So you never have to think about it again",
+              "detail": "A.",
+              "text": "Your best structure can change as your profit and risk change."
+            },
+            {
+              "title": "In one sentence, describe the first step you will take toward becoming a business.",
+              "detail": "Sample response:",
+              "text": "I will open a business bank account and book an hour with an accountant next month."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Grow in order: check readiness, choose a structure with advice, register, protect the business, plan for tax, and set a review date.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Corporation",
+              "text": "A business that is a separate legal entity from its owners."
+            },
+            {
+              "title": "Sole proprietorship",
+              "text": "An unincorporated business owned by one individual."
+            },
+            {
+              "title": "Program account",
+              "text": "A CRA account for a specific tax, such as GST/HST."
+            },
+            {
+              "title": "Business number",
+              "text": "A nine-digit number the CRA uses to identify your business."
+            },
+            {
+              "title": "Shareholder",
+              "text": "An owner of a corporation who holds shares in it."
+            },
+            {
+              "title": "Instalments",
+              "text": "Tax payments that you make during the year instead of all at filing time."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "You have finished this course.",
+          "detail": "Choose the one idea from Modules 2.6 to 2.10 that will help you most, and complete its Your Action page this week."
+        },
+        {
+          "type": "source",
+          "text": "CRA: Sole proprietorship",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/small-businesses-self-employed-income/setting-your-business/sole-proprietorship.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Corporation",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/small-businesses-self-employed-income/setting-your-business/corporation.html"
+        },
+        {
+          "type": "source",
+          "text": "Government of Canada: Registering a sole proprietorship or partnership",
+          "url": "https://www.canada.ca/en/services/business/start/register-with-gov/register-sole-prop-partner.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Required tax instalments for individuals",
+          "url": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/income-tax-instalments.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: When to register for and start charging the GST/HST",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Taxes and the platform economy",
+          "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/platform-economy.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Who is responsible for a sole proprietorship’s debts?",
+    "choices": [
+      "The business alone",
+      "You personally",
+      "The CRA"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "What makes your side hustle ready to grow?",
+      "Which structure are you thinking about?",
+      "Do you have a business bank account and liability insurance?",
+      "When will you book time with an accountant?"
+    ],
+    "samples": [
+      "Think about repeat customers or a waiting list.",
+      "Sole proprietorship, corporation, or not sure.",
+      "Both, one of them, or neither yet.",
+      "Choose a month and put it in your calendar."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

@@ -1,0 +1,437 @@
+{
+  "title": "AI-Assisted Businesses",
+  "summary": "You set the goal → AI drafts → You check, then publish",
+  "subtitle": "Use AI as your fast assistant, and keep yourself as the boss.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "AI tools can draft, summarize, design, and answer questions in seconds. They can also state something completely wrong with total confidence, like a coworker who never says “I’m not sure.” This module shows you how to use that speed without lending your name to its mistakes."
+        },
+        {
+          "type": "heading",
+          "text": "What you’ll learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Where AI helps a small business, and where it needs your supervision",
+              "text": ""
+            },
+            {
+              "title": "Who owns AI-made work, and why the answer is still unclear in Canada",
+              "text": ""
+            },
+            {
+              "title": "How to protect your customers’ private information",
+              "text": ""
+            },
+            {
+              "title": "How to make honest claims and spot “make money with AI” scams",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Start with the plain-language basics",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Generative AI is software that creates new text, images, or audio by following patterns learned from huge amounts of existing material. It does not understand your business the way you do, and it has no idea whether its answer is true. It simply produces what sounds likely."
+        },
+        {
+          "type": "paragraph",
+          "text": "An AI-assisted business is one where you do the thinking and the tool speeds up the routine work, such as first drafts, product descriptions, customer replies, images, and spreadsheet formulas. You stay accountable for everything that goes out under your name."
+        },
+        {
+          "type": "paragraph",
+          "text": "A simple rule keeps this safe and easy to remember: the AI drafts, you decide, and you check. Skipping any of those three steps is where businesses get into trouble."
+        },
+        {
+          "type": "transition",
+          "text": "Get hours back each week without handing over your judgement.",
+          "detail": "You will learn a simple draft, decide, and check routine that makes you faster while keeping your customers’ trust.",
+          "extra": "Section 04 walks you through that routine one step at a time."
+        }
+      ]
+    },
+    {
+      "id": "hand-over",
+      "title": "What to hand over, what to keep",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "Product descriptions",
+              "text": "",
+              "list": [
+                "What AI can do: Write a first draft",
+                "What you must do: Fix the facts, the tone, and any claims"
+              ]
+            },
+            {
+              "title": "Customer replies",
+              "text": "",
+              "list": [
+                "What AI can do: Suggest wording",
+                "What you must do: Read it before sending, and never let it promise anything you cannot deliver"
+              ]
+            },
+            {
+              "title": "Logos and images",
+              "text": "",
+              "list": [
+                "What AI can do: Offer many options quickly",
+                "What you must do: Check that nothing looks like a real brand’s artwork"
+              ]
+            },
+            {
+              "title": "Tax, money, or legal questions",
+              "text": "",
+              "list": [
+                "What AI can do: Help you prepare good questions",
+                "What you must do: Confirm every answer with the CRA or a qualified professional"
+              ]
+            },
+            {
+              "title": "Customer personal information",
+              "text": "",
+              "list": [
+                "What AI can do: Nothing",
+                "What you must do: Keep it out of tools that your business does not control"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Check every number, date, and source. AI tools can invent facts, links, and even laws that sound completely real. Treat every figure and citation as unverified until you have checked it yourself, especially anything about tax or legal rules."
+        },
+        {
+          "type": "heading",
+          "text": "Who owns AI-made work?"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Canada, the ownership of work made entirely by AI is unclear. A 2021 copyright registration listed a person and an AI painting app as co-authors, but the registry does not examine applications, and the courts have yet to settle the question, so check for updates. The United States requires human authorship. In practice, add real human work to anything that you plan to build your brand on."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If the AI wrote it, nobody can blame me for the mistakes.”",
+              "text": "The business that publishes the content is responsible for it. The Competition Act prohibits false or misleading claims in marketing, whether a person or a program wrote the words."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Privacy and honest claims"
+        },
+        {
+          "type": "paragraph",
+          "text": "Customer names, emails, and financial details are personal information, and PIPEDA still applies when you paste them into a tool. Canada’s privacy regulators have published joint principles for generative AI, and a good habit is to keep customer data out of any tool you do not control."
+        },
+        {
+          "type": "paragraph",
+          "text": "Be careful with labels such as “AI-powered” or “guaranteed results.” Exaggerating what AI does in your business is sometimes called AI washing, and it can break the same rules against misleading advertising that apply to any other claim."
+        },
+        {
+          "type": "spotlight",
+          "text": "Good practice: be open about chatbots. Nothing in this module says every business must label its AI help, but honesty is cheap. If a chatbot answers your customers, say that it is a chatbot, and make it easy to reach a real person."
+        },
+        {
+          "type": "spotlight",
+          "text": "Beware of “earn with AI” offers. The Canadian Anti-Fraud Centre warns about job offers that ask you to boost or complete online tasks, then push you to deposit money that you can never withdraw. Quebec’s consumer protection office adds a simple test: be wary of anyone who asks for money before you can work."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Story: Read It Twice",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Read It Twice",
+          "detail": "STORY",
+          "extra": "",
+          "paragraphs": [
+            "Karim Nasser ran a small cleaning company in Calgary, and he wanted to buy a second van. To do that, he needed ten more clients. His mother had given him a fridge magnet years ago that read, “Read it twice.” He had never paid it any attention.",
+            "Karim started using an AI tool to write quotes and answer customer messages. It was fast, and he loved it. Replies that once took an hour now took five minutes, and the clients seemed happy.",
+            "One busy Friday, a customer asked about a deep clean. The tool wrote a warm reply that promised same-day service and a full refund for any reason. Karim was tired, and the message sounded great. He pressed send without reading it.",
+            "On Monday the customer wrote back. She wanted her same-day service and she meant to hold him to it. Karim stared at the screen. He could say, “The AI wrote that, not me.” Or he could take responsibility.",
+            "He called her, apologized, and kept the promise that one time. It cost him a full day and several hundred dollars. Then he sat down and made a plan. Every AI draft would be checked for prices, dates, and promises before it went out. He wrote a short list of things the tool must never promise, and he pasted it into each prompt.",
+            "The twist surprised him. The customer posted a review that said, “He made a mistake and he fixed it. That is rare.” She sent three of her neighbours his way. By spring Karim had his ten new clients and his second van. On his monitor sat a sticky note with three words in his mother’s style: Read it twice."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Owning a mistake is a business skill, and a short checklist makes it easy.",
+          "detail": "A clear routine keeps your speed, protects your reputation, and turns an AI slip into a story that customers trust.",
+          "extra": "Section 04 gives you the checklist that Karim wished he had."
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "The draft, decide, check routine",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "State the job clearly.",
+              "text": "Tell the tool exactly what you want, who the reader is, and what it must never promise."
+            },
+            {
+              "title": "Let the AI draft.",
+              "text": "Treat the result as a rough first version and nothing more."
+            },
+            {
+              "title": "Check the facts and the promises.",
+              "text": "Verify every price, date, number, name, and guarantee against your own records."
+            },
+            {
+              "title": "Remove private information.",
+              "text": "Do not paste customers’ personal details into tools that your business does not control."
+            },
+            {
+              "title": "Keep a simple record.",
+              "text": "Save what you published, which tool helped, and who approved it."
+            },
+            {
+              "title": "Report your earnings.",
+              "text": "Income from any AI-assisted work is still business income, and you report it on Form T2125."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Notes by province, and for your taxes"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Privacy",
+              "text": "PIPEDA covers most businesses, but Alberta, British Columbia, and Quebec have their own private-sector privacy laws, so check the one that applies to you."
+            },
+            {
+              "title": "Quebec customers",
+              "text": "Quebec’s Consumer Protection Act also bans false or misleading statements, and French-language rules apply to marketing aimed at Quebecers."
+            },
+            {
+              "title": "GST/HST",
+              "text": "You can skip registration while your taxable sales stay at $30,000 or less over four calendar quarters in a row and in any single quarter, and you must register once you pass that limit."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Earning money with AI is just a hobby, so it is not taxed.”",
+              "text": "The CRA says to report all income from all sources, and the tool that helped you earn it does not change that."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Keep a “never promise” list beside your AI tool, covering refunds, deadlines, prices, results, and tax or legal advice. Paste it into every prompt, and then read the draft before it goes out."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Who is responsible for an AI-written reply that you send to a customer?",
+              "detail": "You are, because you published it.",
+              "text": ""
+            },
+            {
+              "title": "Is it safe to paste a customer’s full details into any free AI tool?",
+              "detail": "No.",
+              "text": "Keep personal information out of tools that you do not control."
+            },
+            {
+              "title": "Is it clear in Canada who owns artwork made entirely by AI?",
+              "detail": "No.",
+              "text": "The question is still unsettled."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What does the “check” step involve? A. Trusting the tool because it sounds confident · B. Verifying facts, numbers, and promises before anything is published · C. Asking the AI whether it was right",
+              "detail": "B.",
+              "text": "Only you can confirm what is true for your business."
+            },
+            {
+              "title": "Which information should stay out of a public AI tool? A. Your product descriptions · B. Customers’ names, emails, and financial details · C. A general question about marketing",
+              "detail": "B.",
+              "text": "Personal information stays protected under privacy law, even when a tool is convenient."
+            },
+            {
+              "title": "An offer says you can earn money by completing AI tasks, but first you must deposit funds. What should you do? A. Deposit a small amount to test it · B. Treat it as a likely scam and do not pay · C. Share it with friends",
+              "detail": "B.",
+              "text": "Being asked to pay before you can earn is a common fraud pattern."
+            },
+            {
+              "title": "Write one rule you will follow every time you use AI for work.",
+              "detail": "Sample response:",
+              "text": "I will read every draft twice and check each price, date, and promise before I send it."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "The AI drafts, you decide, and you check. Keep customer data private, and never promise what you have not verified.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Generative AI",
+              "text": "Software that creates new text, images, or audio from patterns in existing material."
+            },
+            {
+              "title": "Prompt",
+              "text": "The instructions that you give an AI tool."
+            },
+            {
+              "title": "Hallucination",
+              "text": "A confident answer from an AI tool that is simply wrong or invented."
+            },
+            {
+              "title": "AI washing",
+              "text": "Exaggerating the role or power of AI in a product or service."
+            },
+            {
+              "title": "Personal information",
+              "text": "Any information about an identifiable person, such as a name or an email address."
+            },
+            {
+              "title": "Human review",
+              "text": "A person checking AI output before it is used or published."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "You have finished Course 3.",
+          "detail": "Choose the one idea from Modules 3.1 to 3.5 that excites you most, and complete its Your Action page this week."
+        },
+        {
+          "type": "source",
+          "text": "CRA: Understand your tax obligations",
+          "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/platform-economy/understanding-tax-obligations.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: When to register for and start charging the GST/HST",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html"
+        },
+        {
+          "type": "source",
+          "text": "Office of the Privacy Commissioner of Canada: PIPEDA requirements in brief",
+          "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief/"
+        },
+        {
+          "type": "source",
+          "text": "Alberta OIPC: Canadian privacy regulators launch principles for the responsible development and use of generative AI (joint principles, Dec. 2023)",
+          "url": "https://oipc.ab.ca/canadian-privacy-regulators-launch-principles-for-the-responsible-development-and-use-of-generative-ai/"
+        },
+        {
+          "type": "source",
+          "text": "Office de la protection du consommateur du Québec: Work-from-home scams (Job Offers or Scams?)",
+          "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/illegal-practice/work-from-home/job-offers-or-scams/"
+        },
+        {
+          "type": "source",
+          "text": "Cassels: US Court Decides There is No Copyright in AI-Generated Works – What About Canada?",
+          "url": "https://cassels.com/insights/us-court-decides-there-is-no-copyright-in-ai-generated-works-what-about-canada/"
+        },
+        {
+          "type": "source",
+          "text": "BCF: Artificial Intelligence or Artificial Claims? AI washing",
+          "url": "https://www.bcf.ca/en/thought-leadership/case-studies/artificial-intelligence-or-artificial-claims-ai-washing-the-risk-your-company-may/"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "What does the “check” step involve?",
+    "choices": [
+      "Trusting the tool because it sounds confident",
+      "Verifying facts, numbers, and promises before anything is published",
+      "Asking the AI whether it was right"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Name one task in your business or idea that AI could speed up.",
+      "Who will check the AI’s work before it goes out?",
+      "Will you ever paste customer details into an AI tool?",
+      "Write one promise your business should never make."
+    ],
+    "samples": [
+      "Think about a job that you repeat often.",
+      "Me, someone else, or not sure yet.",
+      "Never, only in a tool my business controls, or not sure.",
+      "For example: a refund, a deadline, or a guaranteed result."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

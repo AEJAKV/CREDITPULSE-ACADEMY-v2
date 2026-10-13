@@ -1,0 +1,401 @@
+{
+  "title": "Digital Products",
+  "summary": "Make it once → Deliver it as a file → Get paid",
+  "subtitle": "Turn what you already know into something people can download.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A digital product is a file that you make once and can sell again and again, such as a budget template, a recipe collection, or a study guide. There are no boxes to pack, no postage to pay, and no garage full of leftover stock, so your only inventory problem is a folder named “Final_v7_REAL.pdf”."
+        },
+        {
+          "type": "heading",
+          "text": "What you’ll learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "How to recognize a digital product and choose a kind that sells well",
+              "text": ""
+            },
+            {
+              "title": "How to pick an idea that you can realistically finish in one weekend",
+              "text": ""
+            },
+            {
+              "title": "How to set a fair price and decide where to sell it",
+              "text": ""
+            },
+            {
+              "title": "What the CRA expects from you once the money starts arriving",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Start with the plain-language basics",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A digital product is anything a buyer receives as a file or an online login instead of a parcel in the mail. Common examples include a printable meal planner, a spreadsheet that tracks monthly bills, a short video course, a set of photo presets, and a template pack for small businesses."
+        },
+        {
+          "type": "paragraph",
+          "text": "The idea is simple, because you do the hard work once and each later sale costs almost nothing to deliver. That is the whole appeal of digital products, and it is also the reason the market is crowded, so a clear and useful idea matters far more than a fancy one."
+        },
+        {
+          "type": "paragraph",
+          "text": "Selling anything online is a business activity, even when the amounts are small, and we will explain what that means for your taxes shortly. First, let’s look at what makes a product worth creating."
+        },
+        {
+          "type": "transition",
+          "text": "By the end, you will have one product idea that you can realistically finish.",
+          "detail": "You will choose the idea, set a fair price, and learn what to tell the CRA, so your first sale feels like part of a plan instead of a surprise.",
+          "extra": "Jump ahead to Section 04 if you would rather see the tax steps first."
+        }
+      ]
+    },
+    {
+      "id": "what-sells",
+      "title": "What sells, and why",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "People pay for products that save them time, solve a small but annoying problem, or help them feel more organized. A topic like “everything about money” is far too broad, while “a one-page tracker for an uneven paycheque” is specific enough to sell."
+        },
+        {
+          "type": "heading",
+          "text": "Three quick tests for an idea"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Can you finish a working first version in a single weekend?",
+              "text": ""
+            },
+            {
+              "title": "Can you describe the product in one sentence that a stranger would understand?",
+              "text": ""
+            },
+            {
+              "title": "Do people already pay for something similar to it?",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If the answer to the third question is no, that is not always bad news. It usually means you would have to explain why people need the product before you could sell it, and that takes much longer."
+        },
+        {
+          "type": "spotlight",
+          "text": "Read the three-star reviews. Browse the best-selling templates on any marketplace and read the middling reviews, because they reveal what buyers wish the product included, and that gap is your opportunity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Start with a format that you already know how to make, since a clean PDF made well will always beat a complicated app made badly. Spreadsheets, printable pages, and short video lessons are all reasonable first choices for a beginner."
+        },
+        {
+          "type": "spotlight",
+          "text": "Price the problem, not the hours. A planner that saves someone a stressful evening is worth more than the time it took you to build. Check what similar products charge, then choose a price that you would feel comfortable paying yourself. As an example, a $15 template that saves an evening is a fair offer."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Small online sales do not count, so there is nothing to report.”",
+              "text": "The CRA says that residents must report all income, including money earned through digital platforms, and even small amounts count. Registering for GST/HST is a separate question that has its own limit of $30,000."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Story: The Hockey Fund",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The Hockey Fund",
+          "detail": "STORY",
+          "extra": "",
+          "paragraphs": [
+            "Priya Sandhu worked the front desk at a dental clinic in Saskatoon, and her goal was small and clear. She wanted an extra $400 each month to cover her daughter’s hockey fees, and she kept the cash in a jar labelled “Hockey Fund.” Her husband drove long-haul, so their money arrived on uneven dates. To cope, Priya had built a spreadsheet that planned the bills around his pay days. Friends kept asking to borrow it, and one finally said, “You should sell that.” Priya spent two weekends cleaning up the spreadsheet and adding a one-page guide. She listed it online for $14. In the first month she sold 31 copies, and the jar filled up fast.",
+            "Then she faced a choice. The sales were small and nobody was asking about them. She could ignore the money until tax time, as many beginners do, or she could start a simple log that very night. She sat at the kitchen table and opened a new tab named “Sales Log.” For every sale she wrote the date, the buyer’s province, and the fee. Then she set a second jar beside the first one, labelled “Tax Jar.”",
+            "Months later, a teachers’ group shared her template, and sales jumped. A jolt of worry hit her. Was she close to $30,000? She opened the log and had her answer in two minutes. Over the year she had sold about 1,100 copies, which came to $15,400. She was well under the line, so she marked a date to check again each quarter.",
+            "At tax time she copied her totals onto Form T2125 in a single evening. A friend who sold similar files, but kept no records, spent a whole weekend digging through old emails. The hockey fees were paid by October, and the Tax Jar was full too."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "A small habit now saves you a scramble later.",
+          "detail": "A simple sales log gives you calm at tax time and a quick answer about GST/HST whenever you need one.",
+          "extra": "Section 04 turns that habit into five steps that you can start tonight."
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "Your five-step launch",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Pick one problem and one format.",
+              "text": "Choose something small enough that you can finish a first version over a single weekend."
+            },
+            {
+              "title": "Build a first version and test it.",
+              "text": "Ask two real people to use it, then listen carefully to anything that confused them."
+            },
+            {
+              "title": "Set a price and choose where to sell.",
+              "text": "The table below compares the two most common options for beginners."
+            },
+            {
+              "title": "Open a sales log.",
+              "text": "For every sale, record the date, the buyer’s province, the price, and any fee that the platform kept."
+            },
+            {
+              "title": "Set money aside for tax.",
+              "text": "Choose a share that you can afford, such as 20% of each sale, and adjust it when you file your return."
+            }
+          ]
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "Marketplace",
+              "text": "",
+              "list": [
+                "Setup: Fast, because the platform handles checkout.",
+                "Cost: The platform keeps a fee from each sale.",
+                "Buyers: Built-in shoppers who are already searching."
+              ]
+            },
+            {
+              "title": "Your own page",
+              "text": "",
+              "list": [
+                "Setup: More work, since you build and connect the pieces.",
+                "Cost: Fewer fees, but you pay for your tools.",
+                "Buyers: You must bring your own audience."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Tax basics, and what changes by province"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Income tax",
+              "text": "Money from your sales counts as business income, which you report on Form T2125 and attach to your personal tax return."
+            },
+            {
+              "title": "Pension plan",
+              "text": "Once your self-employment income passes $3,500 in a year, you pay Canada Pension Plan contributions on it, covering both the employee and the employer share. Quebec residents contribute to the Quebec Pension Plan instead."
+            },
+            {
+              "title": "GST/HST",
+              "text": "You can skip registration while your taxable sales stay at $30,000 or less over four calendar quarters in a row and in any single quarter. If one quarter goes over, you must charge tax on the sale that pushed you over and register within 29 days."
+            },
+            {
+              "title": "Rates after you register",
+              "text": "The rate depends on where the buyer lives, so Alberta buyers pay 5% GST while Ontario buyers pay 13% HST, and Quebec’s separate QST is collected through Revenu Québec."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The CRA will contact me when it is time to register for GST/HST.”",
+              "text": "Tracking the limit is your responsibility, and if you cross it without registering, you can end up owing tax on sales where you never charged it."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Behind on reporting? You can fix it. The CRA says that if you left platform income off earlier returns, you can change those returns. Its Voluntary Disclosures Program may also reduce penalties when you come forward before the CRA contacts you, so it is better to correct a mistake early than to hope nobody notices."
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Keep a “Version 2” list starting on day one. Every time a buyer asks a question, write it down, because those questions point to your next product and give you the best words for your sales page."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "True or false: a digital product has to be a big online course.",
+              "detail": "False.",
+              "text": "A one-page template counts."
+            },
+            {
+              "title": "You sold $9,000 over the last four quarters, with no single quarter over $30,000. Must you register for GST/HST?",
+              "detail": "No.",
+              "text": "You are still a small supplier."
+            },
+            {
+              "title": "Which form reports your self-employment income?",
+              "detail": "Form T2125.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Which idea is most likely to sell? A. Everything about money · B. A one-page tracker for uneven paycheques · C. A 400-page guide with no clear reader",
+              "detail": "B.",
+              "text": "A small, clear problem with a named reader is the easiest kind to sell."
+            },
+            {
+              "title": "When must you start charging GST/HST? A. The day you make your first sale · B. When taxable sales pass $30,000 in one quarter or over four quarters · C. Only when a buyer asks for it",
+              "detail": "B.",
+              "text": "That is the small supplier rule. Going over in a single quarter means you charge on the sale that pushed you over."
+            },
+            {
+              "title": "Why keep a sales log from the first sale? A. It makes the product look professional · B. It speeds up tax time and shows how close you are to the GST/HST limit · C. The marketplace requires it",
+              "detail": "B.",
+              "text": "A log answers both questions quickly and cuts stress at filing time."
+            },
+            {
+              "title": "In one sentence, describe your product idea and who it helps.",
+              "detail": "Sample response:",
+              "text": "A one-page budget tracker for people whose paycheques arrive on uneven dates."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Finish one small product, record every sale from the first day, and check the $30,000 limit at the end of each quarter.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Digital product",
+              "text": "A file or online access that a buyer receives instead of a parcel."
+            },
+            {
+              "title": "Marketplace",
+              "text": "A site where many sellers list products and the site handles checkout."
+            },
+            {
+              "title": "Small supplier",
+              "text": "A business with $30,000 or less in taxable sales, which need not register for GST/HST."
+            },
+            {
+              "title": "GST/HST",
+              "text": "A sales tax that businesses charge and send to the CRA once they must register."
+            },
+            {
+              "title": "Form T2125",
+              "text": "The form that reports business income and expenses on your tax return."
+            },
+            {
+              "title": "Sales log",
+              "text": "A simple list of each sale, with its date, price, and fees."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up: Module 3.2: Affiliate Marketing.",
+          "detail": "You have made your own product. Next, you will learn to earn by recommending other people’s products, honestly and within Canadian rules."
+        },
+        {
+          "type": "source",
+          "text": "CRA: When to register for and start charging the GST/HST",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Taxes and the platform economy: Understand your tax obligations",
+          "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/platform-economy/understanding-tax-obligations.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Which idea is most likely to sell?",
+    "choices": [
+      "Everything about money",
+      "A one-page tracker for uneven paycheques",
+      "A 400-page guide with no clear reader"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "What small problem could you solve with a file?",
+      "How long would a first version take you?",
+      "Where would you sell it first?",
+      "Do you already keep a record of money you earn on the side?"
+    ],
+    "samples": [
+      "A few words is fine. Think about what friends ask you for help with.",
+      "A weekend, a few weeks, or not sure.",
+      "A marketplace, my own page, or not sure yet.",
+      "Yes, no, or not sure. A notes app counts."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

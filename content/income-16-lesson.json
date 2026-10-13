@@ -1,0 +1,419 @@
+{
+  "title": "Basic Bookkeeping",
+  "summary": "Collect every receipt → Log it in one place → Keep it six years",
+  "subtitle": "Keep simple records now, and tax time stops being a scramble.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Bookkeeping is the quiet habit of recording the money that comes into your business and the money that goes out of it. It sounds dull, and honestly it is, but it is also the habit that separates a calm tax season from a frantic weekend with a shoebox. This module introduces a small system that takes about twenty minutes every week."
+        },
+        {
+          "type": "heading",
+          "text": "What you’ll learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "What bookkeeping is, and what records the CRA expects you to keep",
+              "text": ""
+            },
+            {
+              "title": "How to set up a simple system with a bank account, a log, and a folder",
+              "text": ""
+            },
+            {
+              "title": "How long to keep your records, and where they must be stored",
+              "text": ""
+            },
+            {
+              "title": "How good records protect you if the CRA ever asks a question",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Start with the plain-language basics",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Bookkeeping means recording every sale and every business expense at the time it happens, rather than reconstructing them months later. Your records include all of your accounting and financial documents, such as invoices, receipts, bank statements, and mileage notes, and the CRA says that these documents must be kept organized."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can think of the system as three connected pieces. A separate bank account keeps your business money apart from your personal spending. A simple log, such as a spreadsheet, lists each sale and each cost, and a folder on paper or on your computer holds the proof behind every line."
+        },
+        {
+          "type": "paragraph",
+          "text": "You do not need accounting software on the first day, because what you really need is the habit. A spreadsheet that you update every week will always be more useful than an expensive program that you only open twice a year."
+        },
+        {
+          "type": "transition",
+          "text": "Spend twenty minutes a week and skip the tax-season panic.",
+          "detail": "A small, steady routine turns a messy pile of papers into numbers that you can trust, and it shows you how your business is genuinely performing.",
+          "extra": "The weekly routine in Section 04 fits on a single sticky note."
+        }
+      ]
+    },
+    {
+      "id": "record",
+      "title": "What to record, and what to keep",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "Money in",
+              "text": "",
+              "list": [
+                "Examples: Invoices you send, payment receipts, e-transfer notices",
+                "Why it matters: Shows your income for Form T2125"
+              ]
+            },
+            {
+              "title": "Money out",
+              "text": "",
+              "list": [
+                "Examples: Receipts for supplies, software, phone, advertising",
+                "Why it matters: Supports every expense you claim"
+              ]
+            },
+            {
+              "title": "Bank and card statements",
+              "text": "",
+              "list": [
+                "Examples: Monthly statements from your business account",
+                "Why it matters: Fills gaps when a receipt is lost"
+              ]
+            },
+            {
+              "title": "Vehicle notes",
+              "text": "",
+              "list": [
+                "Examples: Date, trip purpose, and kilometres driven",
+                "Why it matters: Separates business driving from personal driving"
+              ]
+            },
+            {
+              "title": "GST/HST records",
+              "text": "",
+              "list": [
+                "Examples: Tax charged on sales, tax paid on purchases",
+                "Why it matters: Needed once you are registered"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The six-year rule. The CRA says you must keep your records and supporting documents for six years from the end of the last tax year they relate to. For an individual, the tax year is the calendar year. If you file late, the six years count from the date you file."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your records must be kept at your place of business or your residence in Canada. Records that are stored only outside the country, even when you can open them from here, are not considered to be kept in Canada. Electronic records are perfectly acceptable, as long as you keep a backup copy."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A photo of a receipt on my phone is not good enough.”",
+              "text": "The CRA accepts electronic records, and its guidance covers converting paper into electronic files and backing those files up. Keep each photo clear and readable, store it safely, and make a second copy somewhere else."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Never destroy records early without asking. You need written permission from the CRA before you destroy records sooner than the required period. The request is made on Form T137 or in writing, and destroying records without permission can lead to prosecution."
+        },
+        {
+          "type": "heading",
+          "text": "Receipts that support a tax credit"
+        },
+        {
+          "type": "paragraph",
+          "text": "Once you are registered for GST/HST, the information on a receipt determines whether you can claim the tax back. Under $100, the receipt needs the supplier’s name, the date, and the total amount. From $100 to $499.99, it must also show the tax amount and the supplier’s registration number, and at $500 or more it needs your name, a description of the purchase, and the payment terms."
+        },
+        {
+          "type": "spotlight",
+          "text": "Ask for the proper receipt on the spot. A card slip on its own often lacks the supplier’s registration number. Asking for a complete receipt at the counter takes about ten seconds, while chasing a supplier for one months later can take several weeks."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Story: The Shoebox",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The Shoebox",
+          "detail": "STORY",
+          "extra": "",
+          "paragraphs": [
+            "Amara Okafor ran a mobile dog-grooming van in Halifax, and she kept her receipts in an old boot box. Her goal was clear. She wanted to replace the van’s failing water pump before winter, because a van that cannot heat water cannot wash dogs.",
+            "Business was good that year, and Amara earned about $41,000. The box was getting heavier every month, but she told herself that she would sort it out in March.",
+            "In March, a letter arrived from the CRA. It asked her to show support for several expenses she had claimed on her return. Amara opened the boot box and her heart sank. Half the receipts had faded to blank white paper.",
+            "She faced a choice. She could guess at the missing amounts and hope that nobody checked. Or she could spend a miserable weekend rebuilding the year from her bank statements, and claim only what she could prove. That meant dropping about $800 of costs that she knew were real but could not support.",
+            "She chose the weekend. She sorted her statements by month, matched every charge she could, and wrote a short note where she could not find proof. It was dull and it hurt a bit. She mailed her package on a Monday.",
+            "The twist came three weeks later. The CRA accepted every item that she had documented. Her $800 loss stung, but the review ended, and she kept her peace of mind. That summer she opened a business account and started a Sunday habit, twenty minutes with a spreadsheet and a cup of tea. The new water pump went in by October. The boot box now holds spare grooming scissors."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Proof beats memory, and a small habit makes proof easy.",
+          "detail": "A weekly routine keeps your documentation in order, so that a question from the CRA becomes a short task instead of a crisis.",
+          "extra": "Section 04 gives you that routine in five short steps."
+        }
+      ]
+    },
+    {
+      "id": "routine",
+      "title": "Your weekly money routine",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Open a separate business account.",
+              "text": "Run every sale and every business cost through it. This is good practice, not a legal rule, and it makes everything easier."
+            },
+            {
+              "title": "Pick a regular time.",
+              "text": "Choose the same twenty minutes each week, such as Sunday morning."
+            },
+            {
+              "title": "Update your log.",
+              "text": "For each sale or cost, record the date, the amount, who it was with, and what it was for."
+            },
+            {
+              "title": "File the proof.",
+              "text": "Save the receipt or invoice in a folder that is named by month, and photograph paper receipts the same day."
+            },
+            {
+              "title": "Back it up.",
+              "text": "Keep a second copy of your electronic files, and store it somewhere safe."
+            },
+            {
+              "title": "Review once a month.",
+              "text": "Compare your log to your bank statement and fix any gap while the details are fresh."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Notes by province, and for your taxes"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Income tax",
+              "text": "Business income and expenses go on Form T2125, which you attach to your personal return. Your records are what back up every number."
+            },
+            {
+              "title": "Quebec",
+              "text": "Revenu Québec runs QST and has its own rules, so check its guidance on records as well as the CRA’s."
+            },
+            {
+              "title": "Meals",
+              "text": "Business meals are generally only partly deductible, so keep the receipt and write down who you met and why."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If I lose a receipt, the expense is gone for good.”",
+              "text": "A bank or card statement can often fill the gap, and many suppliers will send you a copy if you ask. A missing receipt is a problem to fix early, and it is not automatically a reason to give up the claim."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Photograph every receipt before you leave the shop. Thermal paper fades surprisingly quickly, and a clear photo taken the same day will outlast the original receipt."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "How long must you keep your business records?",
+              "detail": "Six years from the end of the last tax year they relate to.",
+              "text": ""
+            },
+            {
+              "title": "Can you keep electronic copies instead of paper?",
+              "detail": "Yes,",
+              "text": "if they are clear, readable, and backed up."
+            },
+            {
+              "title": "Do you need CRA permission to destroy records early?",
+              "detail": "Yes.",
+              "text": "Ask in writing, for example with Form T137."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Which habit helps most at tax time? A. Sorting everything in March · B. A short weekly update to a simple log · C. Guessing amounts that seem fair",
+              "detail": "B.",
+              "text": "Small, steady updates keep your numbers accurate and the proof close at hand."
+            },
+            {
+              "title": "A receipt for a $250 purchase should show which of these? A. Only the total · B. The supplier’s name, date, total, tax amount, and registration number · C. Nothing, because it is a small amount",
+              "detail": "B.",
+              "text": "From $100 to $499.99, the CRA expects the tax amount and the supplier’s registration number as well."
+            },
+            {
+              "title": "Where must you keep your records? A. Anywhere in the world · B. At your business or home in Canada · C. Only on paper",
+              "detail": "B.",
+              "text": "Records kept only outside Canada, even if you can open them here, are not considered kept in Canada."
+            },
+            {
+              "title": "Write one weekly habit you will start for your business records.",
+              "detail": "Sample response:",
+              "text": "Every Sunday I will update my sales log and photograph the week’s receipts."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Keep your business money separate, update a simple log every week, and store proof of everything for six years.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Bookkeeping",
+              "text": "Recording each sale and cost as it happens."
+            },
+            {
+              "title": "Record",
+              "text": "Any invoice, receipt, statement, or note that supports your numbers."
+            },
+            {
+              "title": "Form T2125",
+              "text": "The form that reports business income and expenses on your personal return."
+            },
+            {
+              "title": "Supporting document",
+              "text": "Proof behind a number, such as a receipt or a bank statement."
+            },
+            {
+              "title": "Business account",
+              "text": "A bank account used only for business money."
+            },
+            {
+              "title": "Backup",
+              "text": "A second copy of your files, kept in a safe place."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up: Module 2.7: GST/HST.",
+          "detail": "You can now keep proof of every dollar. Next, you will learn how sales tax works, when you must register, and how to get back the tax you pay on business costs."
+        },
+        {
+          "type": "source",
+          "text": "CRA: Keeping records",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Where to keep your records, for how long and how to request the permission to destroy them early",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records/where-keep-your-records-long-request-permission-destroy-them-early.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Input tax credits",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/calculate-prepare-report/input-tax-credit.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Documentary Requirements for Claiming Input Tax Credits",
+          "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-4/documentary-requirements-claiming-input-tax-credits.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Self-employed Business, Professional, Commission, Farming, and Fishing Income (guide T4002)",
+          "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Which habit helps most at tax time?",
+    "choices": [
+      "Sorting everything in March",
+      "A short weekly update to a simple log",
+      "Guessing amounts that seem fair"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Do you have a bank account used only for your business?",
+      "Where will you keep your log?",
+      "Which twenty minutes each week will you set aside?",
+      "Where are your receipts right now?"
+    ],
+    "samples": [
+      "Yes, no, or not sure. A separate account makes everything simpler.",
+      "A spreadsheet, accounting software, or not sure yet.",
+      "For example: Sunday morning.",
+      "Organized, in a pile or box, or mostly lost. Be honest. Nobody is grading this."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

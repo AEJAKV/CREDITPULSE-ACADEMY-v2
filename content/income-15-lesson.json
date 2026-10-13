@@ -1,0 +1,390 @@
+{
+  "title": "Canadian Business Registration",
+  "summary": "Business Setup and Scaling · 2.5",
+  "subtitle": "Know which forms belong to your business before you start filing.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "You have chosen a business idea, but three websites each offer a registration button. Which one actually gets you ready to work? Government portals can make a small business feel as though it needs its own filing cabinet before it has its first customer."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Separate business name registration from incorporation and tax accounts.",
+              "text": ""
+            },
+            {
+              "title": "Find the provincial rules that apply to your chosen name.",
+              "text": ""
+            },
+            {
+              "title": "Check local permits without treating one receipt as complete approval.",
+              "text": ""
+            },
+            {
+              "title": "Build a record of completed steps and unanswered questions.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "map",
+      "title": "Start with a map of your business",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Registration has several layers. A registry records a business name or creates a corporation; the Canada Revenue Agency handles tax program accounts, while other authorities handle licences and permits. Completing one layer does not automatically complete the others."
+        },
+        {
+          "type": "paragraph",
+          "text": "Start by writing down your business structure, where you will operate, the name you will use, and the work you will do. A home organization service has different questions from a restaurant or construction business. Use those facts to choose the right official pages before paying a fee."
+        },
+        {
+          "type": "transition",
+          "text": "Make the forms make sense",
+          "detail": "A clear registration map helps you spend time on the steps your business actually needs."
+        }
+      ]
+    },
+    {
+      "id": "layers",
+      "title": "Understand the separate layers",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The registry layer"
+        },
+        {
+          "type": "paragraph",
+          "text": "A sole proprietor may need to register an operating name with a provincial or territorial registry. Incorporation is a different filing that creates a corporation. The Canadian Intellectual Property Office also distinguishes a trade name from a trademark: registering an operating name does not register a trademark."
+        },
+        {
+          "type": "spotlight",
+          "text": "Before ordering signs, search the relevant business registry and check for similar trademarks. A name search is useful homework, but it is not a promise that your chosen name has no legal conflicts."
+        },
+        {
+          "type": "heading",
+          "text": "The CRA layer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The CRA uses a nine-digit business number, or BN, to identify a business. GST/HST and payroll are separate program accounts linked to that number. The CRA says some provincial registrations provide a BN, but having one does not mean every tax account is open."
+        },
+        {
+          "type": "paragraph",
+          "text": "Check which accounts your activities require, rather than requesting every option. If you plan to hire, check payroll requirements before paying an employee. Income reporting can still apply when an unincorporated business does not need a BN; registration is not the test for whether earnings count."
+        },
+        {
+          "type": "spotlight",
+          "text": "Label each number when saving it. A provincial registry number and a CRA BN serve different purposes, even when they arrive during the same setup process."
+        },
+        {
+          "type": "heading",
+          "text": "The permission layer"
+        },
+        {
+          "type": "paragraph",
+          "text": "BizPaL is a government permit and licence finder. Search using your location and activities, then confirm the results with the issuing authorities. Its results help you investigate requirements; the search itself grants no permission to operate."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My business name receipt is a Canada-wide business licence.”",
+              "text": "Name registration, tax accounts, local permissions and any sector authorization answer different questions. Check each layer that fits your work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: Sandra’s missing folder",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Sandra’s missing folder",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Sandra in London, Ontario, wanted to launch a home organization service while keeping her part-time job. She had labelled her sample storage bins and set aside money for printing. Her launch folder contained a logo and a flyer, but no registration plan.",
+            "A neighbour asked whether she would invoice as Sandra or as Clear Space Home Organizing. Sandra opened a business portal and nearly chose incorporation because it sounded like the most complete option. Then a second page mentioned a business number, and she wondered whether both buttons did the same thing.",
+            "She paused the printing order and wrote down the business she intended to run: one owner, an Ontario operating name, and organizing work at clients’ homes. She kept her sole proprietor choice and checked the Ontario name requirement. She also created separate notes for CRA accounts and local permissions.",
+            "After filing the name registration, she saved the receipt with a clear label instead of writing ‘all done’ across the folder. Her permit search prompted questions about running the office from home. She contacted the city with her actual activities and kept the reply alongside the search results.",
+            "Before the flyers went to print, a prospective customer asked if Sandra could also remove renovation waste. She had not planned that service, so she declined it while checking what adding it would change. Her launch stayed smaller than the flyer draft, but its scope was clear. The first bin she labelled for her own office was ‘Registration records’."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Keep your next step visible",
+          "detail": "Separate records help you answer a new business question without starting your research from scratch."
+        },
+        {
+          "type": "spotlight",
+          "text": "Sandra’s outcome is a teaching example, not a promised approval timeline. Her useful habit was keeping evidence beside each completed step and leaving open questions visible."
+        }
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Build a registration evidence file",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Try this author-developed walkthrough for Sandra’s service. Use four labelled sections in a folder, and mark each item ‘confirmed’, ‘to file’ or ‘needs an answer’. These are planning labels, not official application statuses."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Business facts: record the structure, Ontario location, operating name and home organizing scope. Note whether you will sell goods or hire employees.",
+              "text": ""
+            },
+            {
+              "title": "Registry: Ontario’s Business Names Act requires an individual using a name other than their own to register it. Use the Ontario Business Registry process; save the submitted details and receipt.",
+              "text": ""
+            },
+            {
+              "title": "CRA: check existing BN records before requesting a number. Review the accounts needed for your activities, and save confirmation for each account actually opened.",
+              "text": ""
+            },
+            {
+              "title": "Permissions: run a BizPaL search for your location and work. Ask the municipality about your home office and service activities; save answers and any required approvals separately.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The own-name rules vary. B.C. says a sole proprietorship operating under a personal name does not need name approval or registry registration. Québec generally requires registration when a sole proprietor’s name does not include their first and last names; tobacco retailers and tanning salons have exceptions requiring registration regardless."
+        },
+        {
+          "type": "paragraph",
+          "text": "CRA’s small supplier test generally uses worldwide taxable sales before expenses, including associated persons, against $30,000 in one calendar quarter or four consecutive calendar quarters. It tests sales, not profit. Special rules apply to activities such as taxi services; check the current CRA page for your situation and effective dates."
+        },
+        {
+          "type": "spotlight",
+          "text": "Check separate provincial sales tax requirements where they apply. Adding product sales to a service can create questions your original plan did not cover."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Federal incorporation removes provincial registration checks.”",
+              "text": "Corporations Canada says federal corporations must register where they conduct business. Each jurisdiction has its own requirements."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Add a review reminder whenever your location, name or work changes. Keep official confirmations together and protect portal access; a folder called ‘Receipts somewhere’ is not a filing system anyone deserves."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Does registering a trade name turn a sole proprietorship into a corporation?",
+              "detail": "No.",
+              "text": "Incorporation is a separate process."
+            },
+            {
+              "title": "Does a BizPaL result approve your permit application?",
+              "detail": "No.",
+              "text": "Confirm requirements and apply with the issuing authority."
+            },
+            {
+              "title": "Is the usual GST/HST small supplier test based on profit after expenses?",
+              "detail": "No.",
+              "text": "It uses taxable sales before expenses, with rules about what to include."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Sandra receives a name registration receipt. What should she do next? A. Assume all permissions are complete. · B. Check remaining tax and permit layers. · C. Call her business a corporation.",
+              "detail": "B.",
+              "text": "The receipt records the name filing; remaining requirements need separate checks."
+            },
+            {
+              "title": "A B.C. sole proprietor works under her personal name. What is the sound approach? A. Use Ontario’s rule. · B. Assume there are no tax obligations. · C. Check B.C.’s own-name exception and other applicable layers.",
+              "detail": "C.",
+              "text": "B.C.’s registry exception does not answer every tax or permit question."
+            },
+            {
+              "title": "A business already has a CRA BN and now needs a payroll account. What should it check? A. How to add the required account to its existing BN. · B. How to buy another operating name. · C. Whether its logo includes nine digits.",
+              "detail": "A.",
+              "text": "CRA program accounts connect to the business’s existing BN."
+            },
+            {
+              "title": "Write one unresolved registration question for a proposed business, and name the authority you would ask.",
+              "detail": "Example:",
+              "text": "Does my home office need permission for customer visits? Ask the municipality about the actual activity."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Match the filing to the question. A name record, CRA account and permission to carry out an activity each need their own evidence.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use your own proposed business or practise with Sandra’s service. Give enough detail to choose an official next step, without writing sensitive identifiers on this course sheet."
+        },
+        {
+          "type": "heading",
+          "text": "Chapter completion activity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Create your four-section evidence file and add one official source to it. Mark the first unresolved question and use your chosen date to check it. Complete the name and email fields with your activity so you are ready for the next available chapter."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Trade name",
+              "text": "The operating name a business uses publicly."
+            },
+            {
+              "title": "Incorporation",
+              "text": "The process that creates a corporation."
+            },
+            {
+              "title": "Business number",
+              "text": "CRA’s nine-digit business identifier."
+            },
+            {
+              "title": "Program account",
+              "text": "An account for a particular tax program."
+            },
+            {
+              "title": "Permit",
+              "text": "Authorization for a specific activity or use."
+            },
+            {
+              "title": "Trademark",
+              "text": "A sign that distinguishes goods or services from others."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Keep your registration plan and return to the course menu for the next available module. Update the plan when your business activities change."
+        },
+        {
+          "type": "source",
+          "text": "Ontario: Registering your business name (Business Names Act)",
+          "url": "https://www.ontario.ca/page/registering-your-business-name"
+        },
+        {
+          "type": "source",
+          "text": "B.C.: Business name approval",
+          "url": "https://www2.gov.bc.ca/gov/content/employment-business/business/managing-a-business/permits-licences/businesses-incorporated-companies/approval-business-name"
+        },
+        {
+          "type": "source",
+          "text": "Québec: Enterprise registration",
+          "url": "https://www.quebec.ca/en/businesses-and-self-employed-workers/start-entreprise/register-constitute-enterprise/learn-about-registration/about-registration"
+        },
+        {
+          "type": "source",
+          "text": "CRA: When you need a BN",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/business-number-program-account/need-bn.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: GST/HST registration (When to register for and start charging the GST/HST)",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html"
+        },
+        {
+          "type": "source",
+          "text": "BizPaL: Permit and licence finder",
+          "url": "https://bizpal-perle.ca/"
+        },
+        {
+          "type": "source",
+          "text": "CIPO: Trade names and trademarks",
+          "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/corporate-information/canadian-ip-voices-podcast-case-studies-and-blog/difference-between-trade-name-trademark-and-domain-name"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Sandra receives a name registration receipt. What should she do next?",
+    "choices": [
+      "Assume all permissions are complete.",
+      "Check remaining tax and permit layers.",
+      "Call her business a corporation."
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Where will you operate, and what work will you offer?",
+      "Which registration layer will you check first?",
+      "Which official page or office will you check, and by what date?"
+    ],
+    "samples": [
+      "Write a province or territory, municipality and short service description. Leave out your street address.",
+      "Business name or incorporation, CRA program accounts, local or sector permissions, or not sure. Choose the area where you still need a clear answer.",
+      "Name one page or authority and set a realistic date. Write the question you need answered."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

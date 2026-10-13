@@ -1,0 +1,397 @@
+{
+  "title": "Desk-Worker Mobility",
+  "summary": "Advanced Fitness and Healthy Living · 1.8",
+  "subtitle": "Build comfortable movement into your workday.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The calendar happily books back-to-back meetings, as though shoulders came with a mute button. A workable movement plan starts with noticing where your day leaves room to change position."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Understand mobility and why position changes matter.",
+              "text": ""
+            },
+            {
+              "title": "Check whether your workspace fits your tasks.",
+              "text": ""
+            },
+            {
+              "title": "Try an adjustable workday reset when ready.",
+              "text": ""
+            },
+            {
+              "title": "Write a movement plan that fits your work schedule.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "room",
+      "title": "Make room for movement",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mobility means being able to move your joints through a range you can comfortably control. At a desk, that could mean turning toward a nearby colleague or moving your ankles while seated. It does not mean reaching a dramatic stretch or proving how flexible you are."
+        },
+        {
+          "type": "paragraph",
+          "text": "CCOHS explains that no single working posture suits someone for a long time, so changing position matters. Ergonomics means fitting work and equipment to the person doing the task."
+        },
+        {
+          "type": "paragraph",
+          "text": "This lesson offers general learning examples, not treatment for an injury. If movement brings pain, numbness or dizziness, stop; ask a health professional about new, ongoing or worsening symptoms before choosing movements that might aggravate them."
+        },
+        {
+          "type": "transition",
+          "text": "A workday with options",
+          "detail": "You can identify one practical change that gives you more choice about how you sit, move or organize a task. Small planning decisions can make that choice easier to use."
+        }
+      ]
+    },
+    {
+      "id": "fit",
+      "title": "Fit the work to you",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start with the task you do most often. After an adjustment, try that task and notice whether you can do it without reaching or leaning awkwardly."
+        },
+        {
+          "type": "heading",
+          "text": "Check the chair and desk"
+        },
+        {
+          "type": "paragraph",
+          "text": "Use the chair controls to find support for your lower back and enough room for your legs. Your feet should have support from the floor or a suitable footrest. If raising the chair helps you reach a high desk but leaves your feet hanging, that is a reason to review the whole setup."
+        },
+        {
+          "type": "spotlight",
+          "text": "At a shared desk, take time to learn the controls before starting work. A setting that suits the previous user may not suit you, and a label such as ergonomic does not remove the need to adjust it."
+        },
+        {
+          "type": "heading",
+          "text": "Bring the task closer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep items used often within easy reach, with room to change position. Clear bags from the space under the desk. If the layout keeps forcing a long reach, ask for help changing the layout rather than trying to stretch away the problem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Place your main screen where you can read it without constantly turning or craning your head. About an arm’s length is a starting point, with adjustments for your vision and task. Larger text may help you read without leaning forward; people using reading lenses may need a lower screen."
+        },
+        {
+          "type": "spotlight",
+          "text": "A laptop joins the screen and keyboard together. If it is your regular workstation, discuss suitable separate equipment with your workplace rather than assuming one laptop angle can meet both needs."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A standing desk means you should stand all day.”",
+              "text": "Long periods of standing can also cause discomfort. A sit/stand desk provides another position choice, and still needs to fit you in both positions."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Note one issue before shopping for equipment. A workplace ergonomics contact or supervisor may help you test an adjustment."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: The payroll deadline",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The payroll deadline",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Nadia, a payroll clerk in Calgary, wanted to finish Friday’s pay run without taking another stack of corrections home. She had a careful checklist and a calendar full of short calls. By Wednesday afternoon, her shoulders felt tight after hours of checking entries on two screens.",
+            "She first blamed the busiest week of the month. Then a teammate borrowed her desk and asked why the payroll screen was far off to the left. Nadia had moved it there months ago to leave space for a paper tray, and had stopped noticing how often she turned toward it.",
+            "She worried that rearranging the desk would waste time before the deadline. Buying a standing desk also seemed easier than explaining the problem to her supervisor. Instead, she asked for ten minutes to review the setup and how the team handled movement between checks.",
+            "They moved the main screen in front of her and found a nearby shelf for the tray. Her supervisor helped plan task changes away from the workstation during the day. Nadia also placed a small note beside her checklist to pause at a completed batch, rather than waiting until every record was done.",
+            "On Thursday, she discovered that the paper tray contained forms another team had stopped using. The tray could leave altogether, giving her more space than the rearrangement alone. Nobody needed an expensive desk to solve that part of the problem.",
+            "Friday still brought a late correction, and Nadia did not feel comfortable every minute. She finished the pay run at work and wrote down the setup changes worth keeping. Her checklist now included a place to change tasks, so the calendar no longer made every decision about her day."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Keep the useful change",
+          "detail": "A clear description of one workspace problem can help you ask for practical support. Testing that change gives you a better basis for your next decision."
+        },
+        {
+          "type": "spotlight",
+          "text": "Movement opportunities depend partly on how work is organized. If calls, deadlines or coverage make them difficult, discuss the task schedule with the person who can help change it."
+        }
+      ]
+    },
+    {
+      "id": "reset",
+      "title": "Build an adjustable reset",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose a natural pause, such as finishing a document, and check that you have clear space. The following two-minute reset is an original learning example, not a rehabilitation program or a required workplace break. Use only comfortable movements and breathe normally."
+        },
+        {
+          "type": "heading",
+          "text": "Example: a two-minute workday reset"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "First 30 seconds: release the keyboard and mouse, rest your hands, and let your shoulders settle.",
+              "text": ""
+            },
+            {
+              "title": "Next 30 seconds: make a few small, slow shoulder rolls, then rest for the remaining time.",
+              "text": ""
+            },
+            {
+              "title": "Next 30 seconds: while seated with support, gently lift and lower your heels a few times, then rest.",
+              "text": ""
+            },
+            {
+              "title": "Final 30 seconds: change to another comfortable position, or walk slowly in a clear area if suitable.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Four blocks of 30 seconds total 120 seconds, or two minutes. You can replace any block with quiet rest or stop the reset early. There is no target number of movements, and no need to fill every second with activity."
+        },
+        {
+          "type": "spotlight",
+          "text": "CCOHS recommends 5–10 minutes away from the workstation for each hour spent there, ideally with walking or another change of position. This short reset is an extra option; it does not replace that broader guidance."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a seated option, keep the final block as a small supported position change. If standing is suitable, use a stable surface for balance as needed, never a rolling chair. Avoid bouncing or forcing a stretch, and stop any movement that causes pain or severe discomfort."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A stretch only counts if you push farther each day.”",
+              "text": "Comfortable movement does not require a daily range goal. You can repeat the same gentle option or leave it out when it does not suit you."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A movement plan needs a safe location. During icy Canadian weather, choose a clear indoor route rather than making an outdoor walk the only option, and check for wet floors near entrances."
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Write your cue beside a task you already finish, such as saving a report. If you keep missing it, change the cue or discuss a better work pause instead of adding a louder reminder."
+        },
+        {
+          "type": "paragraph",
+          "text": "When ready to adjust the plan, change one thing, such as the cue, before changing the movements. Keep the version that fits your day, and repeat it without a deadline to progress. Ongoing discomfort calls for advice about the task and your symptoms, not a harder reset."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Does mobility require reaching your farthest possible stretch?",
+              "detail": "No.",
+              "text": "Use movement you can comfortably control."
+            },
+            {
+              "title": "What should you review if chair height leaves your feet hanging?",
+              "detail": "Review the chair, desk and foot support together.",
+              "text": ""
+            },
+            {
+              "title": "Does the two-minute example replace CCOHS workstation-break guidance?",
+              "detail": "No.",
+              "text": "It is a separate, optional short reset."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Sam reads tiny spreadsheet text by leaning toward the screen. What is a useful first step? A. Try larger text and review the screen position. · B. Hold the same lean all day. · C. Add stronger neck stretches.",
+              "detail": "A.",
+              "text": "Readable text and a suitable screen position address the task that causes the lean."
+            },
+            {
+              "title": "Jules feels tired feet after standing at a new desk all morning. What fits this lesson? A. Stand longer to meet a daily target. · B. Review the setup and change to another suitable position. · C. Remove all seated work.",
+              "detail": "B.",
+              "text": "The desk offers position choices. It needs to suit Jules when seated and standing."
+            },
+            {
+              "title": "A reset movement causes pain. What should Lee do? A. Finish the timed block. · B. Move faster. · C. Stop the movement and seek advice about ongoing symptoms.",
+              "detail": "C.",
+              "text": "The timer does not override pain. Symptoms that continue need suitable professional advice."
+            },
+            {
+              "title": "Write one task cue and one practical change you could use in your own workday.",
+              "detail": "Sample:",
+              "text": "After saving a report, I will check whether the tray beside my keyboard can move to a shelf. I will ask my supervisor before moving shared supplies."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Give yourself a choice of comfortable positions, check equipment fit, and plan time away from the workstation. A short reset can support that plan.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Write a small plan using the questions below. If you are unsure whether a movement suits you, make getting advice your first step."
+        },
+        {
+          "type": "heading",
+          "text": "Complete this chapter"
+        },
+        {
+          "type": "paragraph",
+          "text": "Write your plan in your own words using your answers below, then add your name and email. Keep the plan about work habits; it does not need private health details."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Mobility",
+              "text": "Movement through a joint range you can control comfortably."
+            },
+            {
+              "title": "Ergonomics",
+              "text": "Fitting work and equipment to the person doing a task."
+            },
+            {
+              "title": "Workstation",
+              "text": "The equipment and space used to do your work."
+            },
+            {
+              "title": "Position change",
+              "text": "Moving from one supported working position to another."
+            },
+            {
+              "title": "Cue",
+              "text": "A planned reminder linked to an event or task."
+            },
+            {
+              "title": "Reset",
+              "text": "A short pause with optional comfortable movement."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Module 1.9: Healthy Meal Planning. Next, practise planning meals that fit your time, food preferences and budget."
+        },
+        {
+          "type": "source",
+          "text": "CCOHS: Stretching at the Workstation",
+          "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html"
+        },
+        {
+          "type": "source",
+          "text": "CCOHS: Working in a Sitting Position, Basic Requirements",
+          "url": "https://www.ccohs.ca/oshanswers/ergonomics/sitting/sitting_basic.html"
+        },
+        {
+          "type": "source",
+          "text": "CCOHS: How to Adjust Office Chairs",
+          "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/chair_adjusting.html"
+        },
+        {
+          "type": "source",
+          "text": "CCOHS: Positioning the Monitor",
+          "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/monitor_positioning.html"
+        },
+        {
+          "type": "source",
+          "text": "CCOHS: Sit/Stand Desk",
+          "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/sit_stand_desk.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Sam reads tiny spreadsheet text by leaning toward the screen. What is a useful first step?",
+    "choices": [
+      "Try larger text and review the screen position.",
+      "Hold the same lean all day.",
+      "Add stronger neck stretches."
+    ],
+    "answer": 0
+  },
+  "checkIn": {
+    "questions": [
+      "Which work task needs a setup check?",
+      "Which cue could remind you to pause?",
+      "What will you change or ask about first?"
+    ],
+    "samples": [
+      "Name one task and the item you will review, such as the screen used for reports.",
+      "Finishing a document, between suitable calls, an agreed task change, or not sure. Choose a real point in your workday.",
+      "Write one adjustment or support request, and when you will review it."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

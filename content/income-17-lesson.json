@@ -1,0 +1,411 @@
+{
+  "title": "GST/HST",
+  "summary": "You sell → You collect the tax → You send it in → Done",
+  "subtitle": "Collect it, track it, send it in, and claim back what you spent.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "GST/HST is a sales tax that you collect from your customers on behalf of the government. It is not your money, and it is not an additional cost to your business, as long as you handle it properly. This module explains when you must register, how to claim back the tax that you pay on business purchases, and when you can file."
+        },
+        {
+          "type": "heading",
+          "text": "What you’ll learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "When a small business must register, and when registering early is smart",
+              "text": ""
+            },
+            {
+              "title": "How input tax credits give you back the tax you pay on business costs",
+              "text": ""
+            },
+            {
+              "title": "How often you file, and the special dates for sole proprietors",
+              "text": ""
+            },
+            {
+              "title": "How the Quick Method can simplify your return",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Start with the plain-language basics",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When you register for GST/HST, the CRA gives you a registration number and expects you to charge tax on most of your sales. You hold that tax for a short period and then send it in with a return. The rate is 5% GST in some provinces, and a higher combined HST in others."
+        },
+        {
+          "type": "paragraph",
+          "text": "You are a small supplier if your taxable sales are $30,000 or less over four calendar quarters in a row, and in any single quarter. Small suppliers do not have to register. You can still register voluntarily, and many people do, because registering lets you claim back the tax that you pay on your own business costs."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you go over the limit in a single quarter, you must charge the tax on the sale that pushed you over, and you must register within 29 days of that sale. If your total across four quarters goes over the limit instead, you stop being a small supplier at the end of the month after the quarter in which you passed it."
+        },
+        {
+          "type": "transition",
+          "text": "Know exactly when to register, and get back every dollar of tax you are owed.",
+          "detail": "Understanding the $30,000 limit and input tax credits keeps you out of trouble and puts money back in your pocket.",
+          "extra": "Section 02 shows how a simple example works from sale to return."
+        }
+      ]
+    },
+    {
+      "id": "money",
+      "title": "How the money moves",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Imagine that you charge a client $2,000 for a service in a province with 5% GST. You add $100 of tax, so the client pays $2,100 in total. Later you buy $300 of supplies and pay $15 of GST on that purchase, so you send the CRA the difference, which is $85."
+        },
+        {
+          "type": "paragraph",
+          "text": "That $15 you got back is called an input tax credit, or ITC. It recovers the GST/HST that you pay on purchases and expenses, and you claim it on your return. It only applies to the part of a purchase that you use in your business, so a laptop that is half personal is only half claimable."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Charged on sales",
+              "text": "Example: $100. What it is called: Tax collected."
+            },
+            {
+              "title": "Paid on purchases",
+              "text": "Example: $15. What it is called: Input tax credit."
+            },
+            {
+              "title": "You send in",
+              "text": "Example: $85. What it is called: Net tax."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "You cannot claim personal purchases. The CRA does not allow input tax credits for things that you buy for your personal use or enjoyment. Keep personal and business purchases separate, and keep the proper receipt for each claim."
+        },
+        {
+          "type": "spotlight",
+          "text": "You have four years to claim. For most registrants, an input tax credit must be claimed by the due date of the return for the last reporting period that ends within four years after the period when you could first claim it. Do not wait that long, because old receipts are the ones that go missing."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Charging GST/HST means I lose money to the government.”",
+              "text": "The tax belongs to the government from the moment that you collect it. Your customer pays it, and you simply pass it along after subtracting the credits you earned on your own purchases."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "A simpler way: the Quick Method"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Quick Method lets you skip tracking most input tax credits. You still charge your customers the full tax, but you send in a fixed percentage of your tax-included sales instead of calculating the difference. You also receive a 1% credit on your first $30,000 of eligible sales each year."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can use it if your taxable sales, including those of associated businesses, were $400,000 or less. Some professions cannot use it, including accountants, bookkeepers, and lawyers. You can still claim credits on capital purchases such as computers and vehicles."
+        },
+        {
+          "type": "spotlight",
+          "text": "Check the Quick Method rate for your province. In Ontario, for example, the CRA’s guide gives 8.8% for service businesses on sales taxed at 13% HST. Your rate depends on your province and your type of business, so look it up in the CRA guide RC4058 before you elect."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Story: The Lens Cap",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The Lens Cap",
+          "detail": "STORY",
+          "extra": "",
+          "paragraphs": [
+            "Teo Marchetti was a freelance photographer in Ottawa, and he owned one lens cap that he lost every week. His goal was to buy a second camera lens for $2,600 so that he could shoot weddings, which paid much more than portraits.",
+            "He was not registered for GST/HST, because his sales were nowhere near $30,000 in any quarter. Then a hotel offered him a corporate job worth $24,000, all to be paid in one quarter. He did the sum and felt both thrilled and queasy. He was about to cross the line.",
+            "Teo faced a choice. He could stay quiet and charge the hotel no tax, hoping that nobody noticed. Or he could read the rule and do it properly. He found the CRA page that afternoon. It said that when one quarter goes over $30,000, you charge the tax on the sale that pushed you over and register within 29 days. So he added 13% HST to the quote and registered the same week.",
+            "He worried that the hotel would complain. Instead, the manager shrugged and said that the hotel claimed the tax back anyway. The twist went further. Because Teo was now registered, he could claim the $338 of HST that he had paid on the new lens, plus HST on his laptop and editing software.",
+            "At his first filing, Teo sent in the difference and kept a tidy record of every receipt. The new lens paid for part of itself. He still lost the lens cap every week, but his tax file was the one thing in his camera bag that never went missing."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Registering on time is a protection, not a punishment.",
+          "detail": "A clear rule and a good record turn a scary moment into a routine one, and the credits can pay for part of your business costs.",
+          "extra": "Section 04 lists your filing dates and the steps to follow."
+        }
+      ]
+    },
+    {
+      "id": "filing",
+      "title": "Filing, dates, and steps",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Track your sales by quarter.",
+              "text": "Add up your taxable sales at the end of every calendar quarter and compare the total to $30,000."
+            },
+            {
+              "title": "Register when required, or earlier if it helps.",
+              "text": "Registering voluntarily lets you claim credits on business purchases."
+            },
+            {
+              "title": "Charge the right rate.",
+              "text": "Show the tax on every invoice, with your registration number."
+            },
+            {
+              "title": "Keep each receipt.",
+              "text": "The detail on the receipt controls your credit claim."
+            },
+            {
+              "title": "File and pay on time.",
+              "text": "The dates depend on your reporting period, as shown below."
+            }
+          ]
+        },
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Monthly or quarterly",
+              "text": "One month after the end of the reporting period"
+            },
+            {
+              "title": "Annual, most businesses",
+              "text": "Three months after your fiscal year-end"
+            },
+            {
+              "title": "Sole proprietor, December 31 year-end, with business income",
+              "text": "Pay by April 30 and file by June 15"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Notes by province, and for your taxes"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Instalments",
+              "text": "An annual filer whose net tax for the previous fiscal year was $3,000 or more may have to pay quarterly instalments."
+            },
+            {
+              "title": "Quebec",
+              "text": "Quebec registrants deal with Revenu Québec for GST and QST, so confirm the details with them."
+            },
+            {
+              "title": "Rates",
+              "text": "The rate is 5% GST in Alberta and 13% HST in Ontario. Other provinces differ, so confirm the rate for the buyer’s location before you file."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If I am a sole proprietor, my GST/HST is always due on June 15.”",
+              "text": "That special date applies only if you are an individual with business income and a December 31 year-end. The payment is still due April 30, so do not wait until June to pay."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Put the tax into a separate savings account the day each payment arrives. It is not your money, and a separate account keeps you from spending it by accident."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What is the small supplier limit?",
+              "detail": "$30,000 over four calendar quarters in a row, and in any single quarter.",
+              "text": ""
+            },
+            {
+              "title": "What is an input tax credit?",
+              "detail": "A recovery of the GST/HST you paid on business purchases.",
+              "text": ""
+            },
+            {
+              "title": "A sole proprietor with a December 31 year-end and business income files when?",
+              "detail": "By June 15, with payment due April 30.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Your sales go over $30,000 in a single quarter. What must you do? A. Nothing until the end of the year · B. Charge the tax on the sale that pushed you over, and register within 29 days · C. Wait for the CRA to contact you",
+              "detail": "B.",
+              "text": "That is the rule for a single quarter. Waiting for the CRA is never the plan."
+            },
+            {
+              "title": "Which purchase can you claim an input tax credit on? A. A personal gift · B. Supplies used in your business · C. A family holiday",
+              "detail": "B.",
+              "text": "Credits apply only to the business part of your purchases and expenses."
+            },
+            {
+              "title": "Who can use the Quick Method? A. Any business with $400,000 or less in taxable sales, except certain professions · B. Only large companies · C. Only people who owe tax",
+              "detail": "A.",
+              "text": "Eligibility depends on your sales and your type of business."
+            },
+            {
+              "title": "In one sentence, say when you expect to register for GST/HST and why.",
+              "detail": "Sample response:",
+              "text": "I will register when I get close to $30,000, or earlier if I buy equipment that I can claim credits on."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Track your sales every quarter, register on time, claim credits with proper receipts, and set the tax aside as you collect it.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "GST/HST",
+              "text": "A sales tax that registered businesses charge and send to the CRA."
+            },
+            {
+              "title": "Small supplier",
+              "text": "A business with $30,000 or less in taxable sales over four quarters."
+            },
+            {
+              "title": "Input tax credit",
+              "text": "A claim for the GST/HST that you paid on business purchases."
+            },
+            {
+              "title": "Net tax",
+              "text": "The tax you collected, minus your input tax credits."
+            },
+            {
+              "title": "Quick Method",
+              "text": "A simpler way to calculate the tax that you send in."
+            },
+            {
+              "title": "Reporting period",
+              "text": "The span of time covered by one GST/HST return."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up: Module 2.8: Pricing Services.",
+          "detail": "You now understand sales tax. Next, you will learn how to set a price that covers your costs, your time, and a fair profit."
+        },
+        {
+          "type": "source",
+          "text": "CRA: When to register for and start charging the GST/HST",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Input tax credits",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/calculate-prepare-report/input-tax-credit.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: RC4058, Quick Method of Accounting for GST/HST",
+          "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4058/quick-method-accounting-gst-hst.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Reporting requirements and deadlines",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/file-gst-hst-return/reporting-requirements-deadlines.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Report instalment payments on your GST/HST return",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/pay-instalment/report-instalment.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "Your sales go over $30,000 in a single quarter. What must you do?",
+    "choices": [
+      "Nothing until the end of the year",
+      "Charge the tax on the sale that pushed you over, and register within 29 days",
+      "Wait for the CRA to contact you"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "About how much did you sell in the last four quarters?",
+      "Are you close to the $30,000 limit?",
+      "Would registering early help you claim credits on business purchases?",
+      "Where will you keep the tax you collect?"
+    ],
+    "samples": [
+      "A rough number is fine.",
+      "Yes, no, or not sure.",
+      "Yes, no, or not sure. Think about big purchases like computers or equipment.",
+      "A separate account, in my main account, or not sure yet."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

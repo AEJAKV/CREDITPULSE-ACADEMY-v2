@@ -1,0 +1,406 @@
+{
+  "title": "Healthy Meal Planning",
+  "summary": "Advanced Fitness and Healthy Living · 1.9",
+  "subtitle": "Make room for meals that fit your week, your kitchen and your budget.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The daily question “What is for dinner?” has impressive staying power. A meal-planning app may offer seventeen colour-coded tabs, but dinner still needs somewhere to happen. A small plan starts with the food and time you have."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Use Canada’s food guide without measuring every bite.",
+              "text": ""
+            },
+            {
+              "title": "Match meals and a shopping list to your real week.",
+              "text": ""
+            },
+            {
+              "title": "Use affordable ingredients across several meals.",
+              "text": ""
+            },
+            {
+              "title": "Handle leftovers safely and build a backup meal.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feeds",
+      "title": "A plan that feeds you",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Meal planning means choosing some meals before hunger and a busy evening make the decision for you. It can cover two dinners, a few work lunches or a whole week. The useful size is the one you can manage."
+        },
+        {
+          "type": "paragraph",
+          "text": "Canada’s food guide suggests half vegetables and fruit, one-quarter whole grains and one-quarter protein foods, choosing plant proteins more often. These are proportions, not fixed serving amounts. They can guide a bowl or shared dish too."
+        },
+        {
+          "type": "paragraph",
+          "text": "This course offers general learning examples, not a personal nutrition prescription. Food allergies, swallowing needs and medically advised eating plans require suitable changes. A registered dietitian can help you adapt meals to your circumstances and available foods."
+        },
+        {
+          "type": "transition",
+          "text": "Make dinner easier",
+          "detail": "A short, flexible plan gives you a starting point on busy days and helps you use the food you bring home."
+        }
+      ]
+    },
+    {
+      "id": "real-life",
+      "title": "Plan around real life",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Look at your week and mark when you can cook. Include meals someone else provides. Consider breakfast, lunch and snacks, even if you only write down dinners at first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Check your fridge and cupboards before choosing recipes. An open bag of carrots might fit two dinners, while a favourite sauce can make a familiar meal easier to enjoy. Check whether you have the pot, storage space and cooking method a recipe needs."
+        },
+        {
+          "type": "spotlight",
+          "text": "Match the meal to the kitchen. If you have a microwave but no stove, choose suitable ready-cooked grains, canned beans and vegetables prepared as directed on their package. Follow cooking instructions for frozen vegetables; they are not all ready to eat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Choose meals you enjoy, including foods from your own traditions. A bean stew or vegetable curry can be a starting point. Change the vegetables or grain as needed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Write shopping items beside each meal, then cross out what you already have. Compare shelf prices and package sizes for the amount you can use. A larger bag is only helpful when you can afford it, carry it and store the extra."
+        },
+        {
+          "type": "spotlight",
+          "text": "Give every fresh item a job. If you buy cabbage for a rice bowl, plan a cabbage slaw for the next dinner. Repeating one ingredient can reduce waste without making every meal taste the same."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Healthy meal planning requires fresh food and cooking everything from scratch.”",
+              "text": "Frozen vegetables and canned foods can fit a healthy eating pattern. Choose options that work with your money, time and storage."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Leave an easy meal available for schedule changes, such as whole grain toast with canned beans and carrots. Prepared food or a shared meal can also fit your week. Adjust the next meal as needed."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: The Thursday lunch",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The Thursday lunch",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Elise, an Ottawa teacher, wanted a lunch she could eat before her afternoon class. Her lunch break often disappeared into photocopier problems and last-minute questions. She was tired of buying ingredients on Sunday and finding them unused on Friday.",
+            "One Monday, a leaking container soaked her lesson notes, and the staff-room microwave had an out-of-order sign. Her ambitious soup plan suddenly needed both a better container and a working appliance. She bought lunch and went home with a clear problem to solve.",
+            "Elise checked her week and found a Thursday evening meeting, a small fridge shelf and no reliable way to heat lunch at school. She considered five new recipes, then closed the recipe tabs. She chose two dinners she knew how to make and one cold lunch using some of the same ingredients.",
+            "On Tuesday she made chickpea rice bowls with cabbage and carrots. She refrigerated the extra promptly, labelled the container and planned to eat it at home the next day. For Thursday, she bought whole grain wraps and used separately stored vegetables with canned chickpeas opened that morning.",
+            "Wednesday brought news that the staff fridge would be unplugged during repairs. Elise changed Thursday’s plan again: she packed her wrap in an insulated lunch bag with ice packs to keep it cold. She put a reminder by her keys so the bag would not stay on the counter.",
+            "Thursday’s lunch was ordinary, which was exactly what she needed. She ate it without waiting for the microwave and used the remaining cabbage at dinner. The next weekend, she kept the same small plan and bought a container that sealed properly. Her lesson notes stayed dry, and the photocopier remained the machine with problems."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Keep a useful fallback",
+          "detail": "Planning for your actual storage and schedule can help a simple meal survive a change of plans."
+        },
+        {
+          "type": "spotlight",
+          "text": "A cold lunch still needs safe storage. Arrange a fridge or an insulated bag with ice packs for perishable foods. If you cannot keep a meal safely cold, choose a suitable shelf-stable option instead."
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "title": "Build your small meal plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This adjustable three-day dinner example for one adult assumes a stove, fridge and basic utensils. Change amounts for your appetite and household, and swap foods for allergies or preferences. Shopping quantities are starting amounts, not prescribed portions."
+        },
+        {
+          "type": "heading",
+          "text": "Example: Tuesday to Thursday"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Tuesday: chickpea and vegetable rice bowls. Cook brown rice using package directions; heat chickpeas with cabbage, carrots and frozen peas. Set aside Wednesday’s portion before eating.",
+              "text": ""
+            },
+            {
+              "title": "Wednesday: reheat the reserved bowl and add fresh cabbage slaw with lemon and oil. Use the safely stored portion within the leftovers window below.",
+              "text": ""
+            },
+            {
+              "title": "Thursday: whole grain pasta with canned tomatoes, lentils and frozen vegetables. Cook only the amount you need, or label and promptly store any extra.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Matching shopping list"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Produce: one small cabbage, three carrots and one lemon.",
+              "text": ""
+            },
+            {
+              "title": "Frozen: one bag of mixed vegetables or peas, used in both cooked meals.",
+              "text": ""
+            },
+            {
+              "title": "Cupboard: one can each of chickpeas, lentils and tomatoes; small packages of brown rice and whole grain pasta.",
+              "text": ""
+            },
+            {
+              "title": "Check at home: cooking oil, water and your preferred seasonings. Buy only what is missing.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Set aside about ten minutes to check supplies and write your list. Allow cooking time shown on the rice or pasta package, plus time to wash and cut vegetables; your kitchen may take longer. For breakfast and lunch, add your usual foods to the list, such as oats, fruit and yogurt, in amounts you will use."
+        },
+        {
+          "type": "spotlight",
+          "text": "Winter shopping can favour longer-lasting cabbage and frozen vegetables. Swap the example vegetables for local seasonal options when those fit your budget. You do not need a particular imported ingredient to complete this plan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refrigerate leftovers promptly in shallow containers; let very hot food stop steaming first. Keep the fridge at 4°C or colder. Eat refrigerated leftovers within two to three days, or freeze them for later; date each container."
+        },
+        {
+          "type": "spotlight",
+          "text": "Reheat leftovers to 74°C, checked with a digital food thermometer. Stir food during microwave reheating so heat spreads evenly. Reheat only what you will eat and discard uneaten reheated food."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A good smell proves leftovers are safe.”",
+              "text": "Smell cannot confirm safety. Discard cooked food left at room temperature for more than two hours; do not taste it to check."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Put a ‘use first’ note beside the next meal. If plans change, check the labelled date before deciding what to use or freeze. With no freezer space, make smaller batches."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Do food guide fractions tell everyone an exact serving amount?",
+              "detail": "No.",
+              "text": "They describe proportions; amounts vary."
+            },
+            {
+              "title": "What should you check before adding ingredients to your list?",
+              "detail": "Check what you have and what your kitchen can store and prepare.",
+              "text": ""
+            },
+            {
+              "title": "How long should refrigerated leftovers be kept before eating or freezing?",
+              "detail": "Eat them within two to three days, or freeze them for later.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "You have carrots at home and a busy evening ahead. Which plan fits? A. Buy ingredients for a long new recipe. · B. Use the carrots in a familiar quick meal. · C. Skip planning until the shop closes.",
+              "detail": "B.",
+              "text": "A familiar meal can use food you own and fit the time available. The recipe needs to match the evening."
+            },
+            {
+              "title": "Your plan requires a large frozen batch, but your freezer is full. What helps? A. Make smaller batches. · B. Keep every meal in the fridge all week. · C. Leave containers on the counter.",
+              "detail": "A.",
+              "text": "Smaller batches fit your storage. A weekly calendar does not extend safe storage time."
+            },
+            {
+              "title": "Cooked rice sat on the counter for four hours. What should you do? A. Taste a spoonful. · B. Reheat it and assume it is safe. · C. Discard it.",
+              "detail": "C.",
+              "text": "Four hours exceeds the two-hour limit. Discard the rice."
+            },
+            {
+              "title": "Describe one dinner and the shopping items you would need after checking your supplies.",
+              "detail": "Sample:",
+              "text": "Lentil pasta with tomatoes and vegetables. I have pasta and oil, so I will buy canned lentils, canned tomatoes and frozen vegetables. Your foods can differ."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Choose meals that fit your week, connect them to a realistic shopping list and give leftovers a safe storage plan.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Write your own small plan using the questions below. Choose a step you are ready to try; you can revise it after seeing how the week goes."
+        },
+        {
+          "type": "heading",
+          "text": "Chapter completion: My small meal plan"
+        },
+        {
+          "type": "paragraph",
+          "text": "Review the plan you wrote and circle your first step. Add your name and email to complete your chapter activity."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Meal plan",
+              "text": "Meals chosen ahead for part of your week."
+            },
+            {
+              "title": "Proportion",
+              "text": "The share of a meal made up by a food group."
+            },
+            {
+              "title": "Whole grain",
+              "text": "Grain food containing all parts of the grain."
+            },
+            {
+              "title": "Plant protein",
+              "text": "Protein food from plants, such as beans or lentils."
+            },
+            {
+              "title": "Leftovers",
+              "text": "Prepared food saved for another meal."
+            },
+            {
+              "title": "Shelf-stable",
+              "text": "Food safely stored without refrigeration until opened, following its label."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Module 1.10: Protein and Nutrition Basics. You will build on your meal plan by learning about protein foods and reading nutrition labels."
+        },
+        {
+          "type": "source",
+          "text": "Health Canada: Make healthy meals with Canada’s food guide plate",
+          "url": "https://www.canada.ca/en/health-canada/services/food-guide/eating-support/cooking/make-healthy-meals-plate.html"
+        },
+        {
+          "type": "source",
+          "text": "Health Canada: Plan what you eat",
+          "url": "https://www.canada.ca/en/health-canada/services/food-guide/explore/healthy-eating-recommendations/cook-more-often/plan-what-you-eat.html"
+        },
+        {
+          "type": "source",
+          "text": "Health Canada: Meal planning from start to finish in 4 steps",
+          "url": "https://www.canada.ca/en/health-canada/services/food-guide/eating-support/kitchen/cooking-skills/meal-planning-start-finish-4-steps.html"
+        },
+        {
+          "type": "source",
+          "text": "Health Canada: Food safety tips for leftovers",
+          "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/food-safety-tips-leftovers.html"
+        },
+        {
+          "type": "source",
+          "text": "Health Canada: Safe school lunches",
+          "url": "https://www.canada.ca/en/health-canada/services/seasonal-food-safety/safe-school-lunches.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "You have carrots at home and a busy evening ahead. Which plan fits?",
+    "choices": [
+      "Buy ingredients for a long new recipe.",
+      "Use the carrots in a familiar quick meal.",
+      "Skip planning until the shop closes."
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Which meal will you plan first?",
+      "What will you eat, and what must you buy?",
+      "How will you handle a change of plans?"
+    ],
+    "samples": [
+      "Dinner, work or school lunch, breakfast, or not sure. Choose one starting point.",
+      "Name one meal, foods already available and missing items.",
+      "Write a backup meal and a safe storage choice."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

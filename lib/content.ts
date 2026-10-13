@@ -93,6 +93,21 @@ import income02Lesson from '@/content/income-02-lesson.json';
 import income03Lesson from '@/content/income-03-lesson.json';
 import income04Lesson from '@/content/income-04-lesson.json';
 import income05Lesson from '@/content/income-05-lesson.json';
+import income06Lesson from '@/content/income-06-lesson.json';
+import income07Lesson from '@/content/income-07-lesson.json';
+import income08Lesson from '@/content/income-08-lesson.json';
+import income09Lesson from '@/content/income-09-lesson.json';
+import income10Lesson from '@/content/income-10-lesson.json';
+import income11Lesson from '@/content/income-11-lesson.json';
+import income12Lesson from '@/content/income-12-lesson.json';
+import income13Lesson from '@/content/income-13-lesson.json';
+import income14Lesson from '@/content/income-14-lesson.json';
+import income15Lesson from '@/content/income-15-lesson.json';
+import income16Lesson from '@/content/income-16-lesson.json';
+import income17Lesson from '@/content/income-17-lesson.json';
+import income18Lesson from '@/content/income-18-lesson.json';
+import income19Lesson from '@/content/income-19-lesson.json';
+import income20Lesson from '@/content/income-20-lesson.json';
 import health01Lesson from '@/content/health-01-lesson.json';
 import health02Lesson from '@/content/health-02-lesson.json';
 import health03Lesson from '@/content/health-03-lesson.json';
@@ -108,6 +123,20 @@ import health12Lesson from '@/content/health-12-lesson.json';
 import health13Lesson from '@/content/health-13-lesson.json';
 import health14Lesson from '@/content/health-14-lesson.json';
 import health15Lesson from '@/content/health-15-lesson.json';
+import health16Lesson from '@/content/health-16-lesson.json';
+import health17Lesson from '@/content/health-17-lesson.json';
+import health18Lesson from '@/content/health-18-lesson.json';
+import health19Lesson from '@/content/health-19-lesson.json';
+import health21Lesson from '@/content/health-21-lesson.json';
+import health22Lesson from '@/content/health-22-lesson.json';
+import health23Lesson from '@/content/health-23-lesson.json';
+import health24Lesson from '@/content/health-24-lesson.json';
+import health25Lesson from '@/content/health-25-lesson.json';
+import health26Lesson from '@/content/health-26-lesson.json';
+import health27Lesson from '@/content/health-27-lesson.json';
+import health28Lesson from '@/content/health-28-lesson.json';
+import health29Lesson from '@/content/health-29-lesson.json';
+import health30Lesson from '@/content/health-30-lesson.json';
 import type { Lesson, LessonContent } from './types';
 // Source lesson wording transcribed from the authenticated live course on 2026-10-02.
 export const creditScoreContent = sourceLesson as LessonContent;
@@ -208,6 +237,21 @@ export const seededContent: Record<string, LessonContent> = {
   'income-03': income03Lesson as LessonContent,
   'income-04': income04Lesson as LessonContent,
   'income-05': income05Lesson as LessonContent,
+  'income-06': income06Lesson as LessonContent,
+  'income-07': income07Lesson as LessonContent,
+  'income-08': income08Lesson as LessonContent,
+  'income-09': income09Lesson as LessonContent,
+  'income-10': income10Lesson as LessonContent,
+  'income-11': income11Lesson as LessonContent,
+  'income-12': income12Lesson as LessonContent,
+  'income-13': income13Lesson as LessonContent,
+  'income-14': income14Lesson as LessonContent,
+  'income-15': income15Lesson as LessonContent,
+  'income-16': income16Lesson as LessonContent,
+  'income-17': income17Lesson as LessonContent,
+  'income-18': income18Lesson as LessonContent,
+  'income-19': income19Lesson as LessonContent,
+  'income-20': income20Lesson as LessonContent,
   'health-01': health01Lesson as LessonContent,
   'health-02': health02Lesson as LessonContent,
   'health-03': health03Lesson as LessonContent,
@@ -223,6 +267,20 @@ export const seededContent: Record<string, LessonContent> = {
   'health-13': health13Lesson as LessonContent,
   'health-14': health14Lesson as LessonContent,
   'health-15': health15Lesson as LessonContent,
+  'health-16': health16Lesson as LessonContent,
+  'health-17': health17Lesson as LessonContent,
+  'health-18': health18Lesson as LessonContent,
+  'health-19': health19Lesson as LessonContent,
+  'health-21': health21Lesson as LessonContent,
+  'health-22': health22Lesson as LessonContent,
+  'health-23': health23Lesson as LessonContent,
+  'health-24': health24Lesson as LessonContent,
+  'health-25': health25Lesson as LessonContent,
+  'health-26': health26Lesson as LessonContent,
+  'health-27': health27Lesson as LessonContent,
+  'health-28': health28Lesson as LessonContent,
+  'health-29': health29Lesson as LessonContent,
+  'health-30': health30Lesson as LessonContent,
 };
 export function placeholderContent(lesson: Lesson, demo = false): LessonContent {
   return {

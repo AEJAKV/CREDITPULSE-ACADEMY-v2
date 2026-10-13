@@ -1,0 +1,402 @@
+{
+  "title": "Sole Proprietor Versus Corporation",
+  "summary": "Business Setup and Scaling · 2.4",
+  "subtitle": "Choose a structure that fits your work and the money you need at home.",
+  "minutes": 30,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choosing a business structure can feel like choosing a filing cabinet before you know what belongs inside it. Start with the work you will do, the risks it brings, and the cash you need to live on."
+        },
+        {
+          "type": "heading",
+          "text": "What you will learn"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Compare the two structures using the same service business.",
+              "text": ""
+            },
+            {
+              "title": "Separate ownership from responsibility for business risks.",
+              "text": ""
+            },
+            {
+              "title": "Prepare cash questions for an accountant without guessing tax savings.",
+              "text": ""
+            },
+            {
+              "title": "Write a decision brief with a clear reason and a review point.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ownership",
+      "title": "Who owns the business and its money?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "CRA explains that a sole proprietor is one owner, without separate legal status, who bears business risk and reports net business income on a personal T1 return. Personal assets can be exposed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Corporations Canada describes a corporation as a separate legal person. Shareholders own shares; corporate money belongs to the corporation. One person can still run the daily work, but must respect that separation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Neither choice is a prize for reaching a certain sales number. This lesson helps you compare your facts before choosing; it does not replace a review of your own legal and tax situation."
+        },
+        {
+          "type": "transition",
+          "text": "Give your choice a reason",
+          "detail": "You can explain why a structure fits your current work, instead of choosing it because its name sounds impressive."
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "title": "Compare the same business twice",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Imagine a home-organizing service with one owner. Keep its jobs, prices, and client needs the same while comparing structures. Otherwise, you may accidentally compare a tiny service with a much larger company."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Ownership and control: will you work alone, or invite another owner? If considering shares, discuss who can make which decisions.",
+              "text": ""
+            },
+            {
+              "title": "Risk: could a job damage property, expose private records, or involve disputed instructions? List the actual work before asking about protection.",
+              "text": ""
+            },
+            {
+              "title": "Administration: price the bookkeeping, tax preparation, registry obligations, and your own time for each option.",
+              "text": ""
+            },
+            {
+              "title": "Cash: how much must reach your household, and how much could stay available for business plans?",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A business name does not settle risk. A clear contract should say what you will handle, what needs client approval, and what falls outside the service."
+        },
+        {
+          "type": "paragraph",
+          "text": "CRA says corporations file T2 income tax returns. Corporations Canada also describes corporate records and the federal annual registry return, which is separate from tax filing. These ongoing tasks belong in the comparison, even during a quiet year."
+        },
+        {
+          "type": "paragraph",
+          "text": "For an incorporated owner, wages and dividends have different tax treatment. CRA distinguishes employee payments from shareholder benefits and dividends; company payment of personal expenses can create taxable benefits. Plan how you will be paid before moving money."
+        },
+        {
+          "type": "spotlight",
+          "text": "A lower corporate tax rate alone cannot show your total result. Ask an accountant to compare corporate tax, your personal tax, payment choices, and ongoing costs using the same income assumptions."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Sole proprietors have no paperwork.”",
+              "text": "A simpler structure still needs useful records. Keep invoices and expenses organized, and check the tax accounts, registrations, and permits your work requires."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Some regulated professions have special ownership or structure rules. If that describes your work, check your professional regulator and jurisdiction before narrowing the choice."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: Luc’s two folders",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Luc’s two folders",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Luc, a man in Moncton, wanted his home-organizing service to help pay household bills. He made two folders, one for each structure, hoping a tidy desk would produce a tidy answer.",
+            "A client asked him to clear a packed storage room and carry away unwanted items. While reviewing the request, Luc noticed a box marked family documents beside the donation pile. The risk was suddenly about a real task, not a business title.",
+            "He paused the booking and asked which items the client would approve for removal. He also called an insurance adviser about his proposed work. A friend suggested incorporation would make the whole concern disappear, but Luc wanted to know which risks would remain.",
+            "Luc wrote down his service scope and household cash needs. He requested each structure’s annual cost and an accountant’s comparison. He chose to remain a sole proprietor for now, subject to those checks, and declined disposal work until his contract and coverage were reviewed.",
+            "Then a property manager offered regular visits across several units. Luc could have treated it as the answer to his income hopes, but the wider scope changed his planning. He asked for the proposed contract instead of promising a start date.",
+            "The offer remained under review, and no future income was assured. Luc set a date to revisit incorporation before accepting wider work. His two folders now held evidence and questions, which was far more useful than matching labels."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Make the next decision easier",
+          "detail": "A written reason and review point help you respond when a new contract changes your risks or cash needs."
+        },
+        {
+          "type": "spotlight",
+          "text": "Luc’s choice is one fictional outcome. Another owner with different contracts, partners, or retained cash could reasonably choose incorporation from the start."
+        }
+      ]
+    },
+    {
+      "id": "brief",
+      "title": "Build a one-page decision brief",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use this author-developed exercise to prepare a useful conversation. It is a decision brief, not a filing checklist. Put both structures on the same page and record what supports each choice."
+        },
+        {
+          "type": "heading",
+          "text": "First, write the working facts"
+        },
+        {
+          "type": "paragraph",
+          "text": "For Luc’s fictional narrow service, write: one owner; sorting with the client present; no disposal without approval; no heavy moving. Then list the proposed wider contract separately. Do not let possible future work quietly become an assumed commitment."
+        },
+        {
+          "type": "spotlight",
+          "text": "Ask an insurance adviser about your exact tasks and exclusions under either structure. Ask a lawyer which contract terms and responsibilities need attention."
+        },
+        {
+          "type": "heading",
+          "text": "Next, test the cash available"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fictional monthly planning example, with sales tax excluded: $5,000 collected from clients minus $1,500 in operating payments leaves $3,500 before income tax, owner payments, and any extra structure costs. If Luc needs $2,800 for his household, only $700 remains before those other items."
+        },
+        {
+          "type": "paragraph",
+          "text": "That $700 is not confirmed money for growth or a tax-saving result. Ask the accountant how much can safely reach the household under each option and what remains after all tax and ongoing costs. Use a slower month too; unpaid invoices do not fund groceries."
+        },
+        {
+          "type": "spotlight",
+          "text": "Compare the same service scope and household cash need. Leaving money in a corporation may support future plans, but it does not make that money a personal spending account."
+        },
+        {
+          "type": "heading",
+          "text": "Finish with a reason and a trigger"
+        },
+        {
+          "type": "paragraph",
+          "text": "Write your current preferred structure, the strongest reason, and one fact still needing review. Add a trigger, such as a second owner or a wider contract, that would send you back to the comparison."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Incorporation removes all personal liability.”",
+              "text": "CRA warns that personal guarantees and certain director obligations can still create personal exposure."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Bring your scope, cash estimate, and actual contract questions to the adviser. A question such as “What changes if I accept this job?” is easier to answer than “Which structure is best?”"
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Does corporate money belong directly to its shareholder?",
+              "detail": "No.",
+              "text": "Keep business ownership and company money distinct."
+            },
+            {
+              "title": "In the example, is the remaining $700 already available for business growth?",
+              "detail": "No.",
+              "text": "Tax and extra structure costs still need review."
+            },
+            {
+              "title": "What should change when the proposed work becomes wider?",
+              "detail": "Review the scope, protection, cash estimate, and structure decision before accepting.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "An organizer expects $3,500 before tax and needs $2,800 at home. What should guide the structure comparison? A. A tax rate alone. · B. Household cash after tax and structure costs. · C. The shortest business name.",
+              "detail": "B.",
+              "text": "Money needed at home matters; the example’s $700 is still before tax and extra costs."
+            },
+            {
+              "title": "A new client requests heavy moving outside the planned service. What is the sound next step? A. Review scope, coverage, and responsibilities. · B. Assume incorporation covers it. · C. Accept before reading the contract.",
+              "detail": "A.",
+              "text": "A changed task requires a fresh review before a promise to the client."
+            },
+            {
+              "title": "An owner incorporates an existing service. What should they expect? A. Every account transfers automatically. · B. Only the invoice logo changes. · C. Review the new business number, accounts, contracts, and assets.",
+              "detail": "C.",
+              "text": "CRA explains that a structure change can require new accounts. Get advice on tax effects and transferring contracts, assets, and banking arrangements."
+            },
+            {
+              "title": "Written response: Give one reason for your current preferred structure and one fact that would make you review it.",
+              "detail": "Example:",
+              "text": "I am comparing a sole proprietorship for my narrow service; I will review it before signing a contract covering several properties."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Choose from your actual work, cash needs, and ongoing obligations. Write down what could change the decision, and review that fact before taking on new work.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use your current work, not a hoped-for best year. If you have not started, describe the service you plan to offer and mark uncertain facts for checking."
+        },
+        {
+          "type": "heading",
+          "text": "Chapter completion activity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Complete your one-page decision brief. Include the structure you are considering, your reason, and one unanswered question with a next step and review date. Use it to request a focused legal, insurance, or accounting conversation. Add your name and email to submit this chapter activity and continue to the next chapter."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Sole proprietor",
+              "text": "One individual who owns an unincorporated business."
+            },
+            {
+              "title": "Corporation",
+              "text": "A separate legal person with its own money and obligations."
+            },
+            {
+              "title": "Shareholder",
+              "text": "Someone who holds ownership shares in a corporation."
+            },
+            {
+              "title": "Personal guarantee",
+              "text": "A personal promise to repay a specified business debt."
+            },
+            {
+              "title": "Dividend",
+              "text": "A payment to a shareholder based on share ownership."
+            },
+            {
+              "title": "Decision brief",
+              "text": "Your written facts, proposed choice, reason, and review point."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up",
+          "detail": "Module 2.5: Canadian Business Registration. Turn your chosen structure into a map of registry steps, CRA accounts, and permits. CRA’s GST/HST registration rules apply to both structures; check the thresholds and exceptions rather than using incorporation as the test."
+        },
+        {
+          "type": "source",
+          "text": "CRA: Sole proprietorship",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/small-businesses-self-employed-income/setting-your-business/sole-proprietorship.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Corporation",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/small-businesses-self-employed-income/setting-your-business/corporation.html"
+        },
+        {
+          "type": "source",
+          "text": "Corporations Canada: Glossary for the Canada Business Corporations Act",
+          "url": "https://ised-isde.canada.ca/site/corporations-canada/en/glossary-canada-business-corporations-act"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Shareholder benefits",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/calculating-deductions/determining-tax-treatment/shareholder.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: When to register for and start charging the GST/HST",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html"
+        },
+        {
+          "type": "source",
+          "text": "CRA: Change of legal status",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-legal-status.html"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "An organizer expects $3,500 before tax and needs $2,800 at home. What should guide the structure comparison?",
+    "choices": [
+      "A tax rate alone.",
+      "Household cash after tax and structure costs.",
+      "The shortest business name."
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Which structure will you compare first with an adviser?",
+      "What specific task or contract risk needs checking?",
+      "What monthly household cash need will you bring to the comparison?"
+    ],
+    "samples": [
+      "Sole proprietorship, corporation, or not sure. Choose a starting point for discussion, not a final commitment.",
+      "For example, carrying client property or removing items after approval.",
+      "Write an estimate and note whether it includes money set aside for personal tax."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

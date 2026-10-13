@@ -1,0 +1,591 @@
+{
+  "title": "Financing Major Purchases",
+  "summary": "Compare financing routes and translate every offer into total dollars. Test the payment against a difficult month, and decide whether to buy, negotiate, choose less, or wait.",
+  "subtitle": "Enter the Total-Cost Showroom. The Payment Is Only One Part of the Price.",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A monthly payment is a talented magician: it can make five years of price disappear behind one friendly number."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unlike a magician, however, it sends statements. When a seller asks, ‘What payment are you comfortable with?’, your better opening question is, ‘What is the total cost, and what do I own at the end?’"
+        },
+        {
+          "type": "paragraph",
+          "text": "This workshop is for vehicles, appliances, furniture, equipment and other major purchases. A home purchase needs its own mortgage, legal and professional process; use this starter lesson for the decision habits, not as a substitute for that advice."
+        },
+        {
+          "type": "heading",
+          "text": "SHOWROOM RULE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Never negotiate only the payment."
+        },
+        {
+          "type": "paragraph",
+          "text": "First settle the purchase price and required charges. Then compare financing, trade-in value and optional products as separate decisions."
+        },
+        {
+          "type": "spotlight",
+          "text": "The payment answers ‘how much this period?’ Total cost answers ‘how much of my future income leaves altogether?’"
+        },
+        {
+          "type": "heading",
+          "text": "The Seven-Part Total-Cost Card"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "1",
+              "text": ""
+            },
+            {
+              "title": "2",
+              "text": ""
+            },
+            {
+              "title": "3",
+              "text": ""
+            },
+            {
+              "title": "4",
+              "text": ""
+            },
+            {
+              "title": "5",
+              "text": ""
+            },
+            {
+              "title": "6",
+              "text": ""
+            },
+            {
+              "title": "7",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If the monthly payment fits, I can afford the purchase.”",
+              "text": "A payment can fit only because the term is longer, the down payment is larger or a final buyout remains. Affordability also includes total financing cost, ongoing ownership costs, emergency savings and room for a bad month."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "The route you pick decides what you own, long before the first payment clears.",
+          "detail": "Comparing cash, loan, lease, and buy-now-pay-later on the same footing is what keeps one friendly number from deciding everything.",
+          "extra": "Six financing routes are lined up next, side by side."
+        }
+      ]
+    },
+    {
+      "id": "routes",
+      "title": "Choose the Route Before Comparing the Scenery",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The same purchase can create sharply different obligations depending on how it is financed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Start with the ownership outcome you need, the time you expect to keep the item and the amount of flexibility your budget can carry. Then compare written offers on the same price and time frame."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "LAYER 1 — CASH OR SAVE-FIRST",
+              "text": "No interest and no future payment, but do not empty the emergency fund or delay an essential replacement past the point of safety. Ask whether a cash rebate changes the comparison."
+            },
+            {
+              "title": "LAYER 2 — FIXED LOAN",
+              "text": "A set amount is repaid on a schedule. Compare APR, term, payment count, total cost, security or lien, late-payment terms and prepayment conditions."
+            },
+            {
+              "title": "LAYER 3 — LINE OF CREDIT",
+              "text": "Flexible borrowing, often with a variable rate. A low minimum may cover mainly interest, so create a fixed payoff date and principal payment of your own."
+            },
+            {
+              "title": "LAYER 4 — LEASE",
+              "text": "You pay to use an item for a term and may return or buy it later. Compare total lease payments, kilometre or wear limits, insurance, end charges and buyout; ownership is not automatic."
+            },
+            {
+              "title": "LAYER 5 — BUY NOW, PAY LATER",
+              "text": "Instalments may be interest-free, but missed-payment fees, lost promotions, overlapping plans and automatic-debit timing can create trouble. Read the full schedule."
+            },
+            {
+              "title": "LAYER 6 — RENT-TO-OWN",
+              "text": "Regular payments may look small while total cost is much higher than retail. Confirm the payment count, ownership conditions, fees, return rules and total needed to own the item."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Car financing options",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/financing-options.html"
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Lines of credit",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/loans/loans-lines-credit.html"
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Buy now, pay later plans",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/loans/buy-now-pay-later.html"
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Rent-to-own retail plans",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/loans/rent-to-own.html"
+        },
+        {
+          "type": "heading",
+          "text": "The Same-Frame Comparison"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Use the same negotiated price.",
+              "text": "Do not compare a discounted cash price with a financed price that quietly includes extras."
+            },
+            {
+              "title": "Use the same time horizon.",
+              "text": "A three-year lease and seven-year loan do not end in the same place; record what happens next."
+            },
+            {
+              "title": "Use total out-of-pocket cost.",
+              "text": "Add upfront, scheduled, operating and end-of-term amounts, then subtract any realistic resale value only if the method is consistent."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Zero-percent financing is always the cheapest choice.”",
+              "text": "A 0% offer can be valuable, but compare the financed price, eligibility, fees, term, lost cash rebate and required products. Zero interest does not automatically mean the lowest total out-of-pocket cost."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Two offers are comparable only when they begin with the same price and end with the same ownership result."
+        }
+      ]
+    },
+    {
+      "id": "offers",
+      "title": "Put the Offers Under the Total-Cost Lights",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use the lender’s disclosure and payment schedule for a real decision. The fictional examples below use monthly payments rounded to the nearest cent; an actual lender’s calculation, compounding method and final payment may differ slightly."
+        },
+        {
+          "type": "heading",
+          "text": "COMMON STARTING POINT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Price after required taxes and fees: $32,000"
+        },
+        {
+          "type": "paragraph",
+          "text": "Down payment: $4,000 | Amount financed: $28,000"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "OFFER A · SHORTER TERM",
+              "text": "$547.72 / month — 6.49% APR | 60 monthly payments — Scheduled payments: about $32,863.20 — Financing cost: about $4,863.20"
+            },
+            {
+              "title": "OFFER B · LOWER PAYMENT, LONGER TERM",
+              "text": "$429.33 / month — 7.49% APR | 84 monthly payments — Scheduled payments: about $36,063.72 — Financing cost: about $8,063.72"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Offer B frees about $118.39 each month, but it lasts two years longer and costs about $3,200.52 more in financing. That does not make Offer A automatically affordable; it shows the trade-off clearly enough to test against Noah’s budget."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Shopping around for auto-financing",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html"
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Financial risks when buying a car",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html"
+        },
+        {
+          "type": "heading",
+          "text": "Three Costs That Like to Hide in the Payment"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "ROLLED-IN ADD-ONS",
+              "text": "$2,400 CAN BECOME BORROWED PRINCIPAL — A warranty, protection product or accessory may attract interest too. Decide whether it is optional, useful, duplicated and fairly priced."
+            },
+            {
+              "title": "NEGATIVE EQUITY",
+              "text": "OLD DEBT CAN ENTER THE NEW LOAN — Trade value below the current loan payout creates a gap. Rolling it forward increases the new principal and may deepen the period when the asset is worth less than the debt."
+            },
+            {
+              "title": "OWNERSHIP COST",
+              "text": "THE PAYMENT IS NOT THE OPERATING BUDGET — Get insurance quotes and estimate maintenance, repairs, fuel or energy, registration, parking, delivery and storage."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The longest term is safest because the payment is lowest.”",
+              "text": "A longer term may create cash-flow room, but it usually keeps the debt longer and can increase total interest and negative-equity risk. The safer term is the shortest one that remains manageable after essentials and savings."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A longer term rents relief from today’s budget by sending more of the purchase into tomorrow’s budget."
+        },
+        {
+          "type": "story",
+          "text": "Meet Noah",
+          "detail": "THE TOTAL-COST SHOWROOM",
+          "extra": "",
+          "paragraphs": [
+            "Noah Chen is a community support worker in Moncton. His hatchback needs a repair, and he wants a reliable replacement before winter. At a dealership, the salesperson asks what monthly payment feels comfortable. Noah almost says $450, then remembers the showroom rule and asks for the cash price, amount financed, full payment count and total cost. The payment has lost its solo act.",
+            "Noah’s current loan payout is $16,000, but the written trade-in offer is $12,000. That $4,000 gap is negative equity. The proposed deal rolls it into the new loan, where yesterday’s car would ride invisibly in tomorrow’s payment. Noah asks for the purchase price, trade value, payout and new financing on separate lines.",
+            "The $429 payment looks calmer than $548. Then Noah multiplies by 84, adds the $4,000 old-loan gap and prices insurance. The lower payment would leave him owing on two cars’ history while his emergency cushion shrinks. The offer is still friendly; the arithmetic has just asked it to show identification.",
+            "Noah checks dealer registration, gets the old-loan payout directly from his lender, asks for a second trade quote and writes the insurance premium into his budget. A reduced-pay month would force the proposed loan onto his line of credit. That is not a financing plan; it is a debt relay race. He chooses pause and asks a mechanic for a second repair opinion.",
+            "The second mechanic says Noah’s car can be safely repaired for $1,250 in this fictional story. He repairs it, keeps the emergency fund intact, adds $350 a month to a replacement-car fund and pays extra on the old loan where his agreement permits. Six months later, the payout and trade gap are smaller and his down payment is larger. He did not lose the vehicle deal; he bought a stronger starting position."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Noah's pause turned a hidden $4,000 gap into a plan he could finish on his own terms.",
+          "detail": "Running your own purchase through the same four gates is what stops negative equity from riding along quietly.",
+          "extra": "Four gates stand between you and a signature next."
+        }
+      ]
+    },
+    {
+      "id": "gates",
+      "title": "Run Four Gates Before You Sign",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "LAYER 1 — PURCHASE GATE",
+              "text": "Is the item needed now? Record the exact model or work, negotiated cash price, mandatory taxes and fees, delivery date, condition, inspection and written promises."
+            },
+            {
+              "title": "LAYER 2 — FINANCING GATE",
+              "text": "Compare at least two written offers: amount financed, APR or rate, term, payment schedule, total financing cost, security, variable-rate risk and prepayment terms."
+            },
+            {
+              "title": "LAYER 3 — OWNERSHIP GATE",
+              "text": "Add insurance, maintenance, repair, registration, fuel or energy, storage and end-of-term charges. Identify what you own, return or may buy out."
+            },
+            {
+              "title": "LAYER 4 — STRESS-TEST GATE",
+              "text": "Re-run the budget with a repair, reduced-pay month or rate increase where applicable. If the payment requires perfect weather for several years, it is not a sturdy plan."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "KEEP THE FOUR NEGOTIATIONS SEPARATE"
+        },
+        {
+          "type": "paragraph",
+          "text": "1) purchase price · 2) trade-in and old-loan payout · 3) financing terms · 4) optional add-ons"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask for a complete, itemized agreement and take time to compare it with the written quote."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Dealer financing is automatically the best option because the dealer has access to every lender.”",
+              "text": "Dealer-arranged financing may be competitive, but a dealer may not present every available option and may be compensated by a lender. Compare a bank or credit-union quote, the dealer’s written offer and any manufacturer promotion by total cost and terms."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "OMVIC: Buying a vehicle in Ontario",
+          "url": "https://www.omvic.ca/buying/"
+        },
+        {
+          "type": "spotlight",
+          "text": "The person selling the item may arrange the credit, but your comparison decides whether the credit earns the sale."
+        }
+      ]
+    },
+    {
+      "id": "province",
+      "title": "Province and Territory Lens: The Contract Lives Where You Buy",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dealer licensing, advertised-price rules, liens, contract rights and complaint routes are provincial or territorial."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alberta’s AMVIC and Ontario’s OMVIC have all-in advertised-pricing rules with stated tax, licensing or financing exceptions. In British Columbia, the VSA says purchases and financing have no cooling-off period, while a vehicle lease generally has a one-clear-day period unless waived. Do not transfer those rules to another province."
+        },
+        {
+          "type": "paragraph",
+          "text": "In New Brunswick, start with FCNB’s vehicle guide. In Prince Edward Island, check Highway Safety dealer licensing and Financial and Consumer Services. In Newfoundland and Labrador, use Consumer Affairs and approved-dealer guidance. Everywhere: verify the dealer, search for liens where appropriate, put promises in the signed agreement, keep copies, and use the official consumer office for the current rule."
+        },
+        {
+          "type": "source",
+          "text": "Office of Consumer Affairs: Consumer Affairs offices",
+          "url": "https://ised-isde.canada.ca/site/office-consumer-affairs/en/federal-provincial-and-territorial-consumer-affairs-offices"
+        },
+        {
+          "type": "source",
+          "text": "FCAC: How you’re protected when buying a car",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/how-are-you-protected.html"
+        },
+        {
+          "type": "source",
+          "text": "AMVIC: All-in advertised pricing",
+          "url": "https://www.amvic.org/consumer/your-rights/all-inpricingisthelaw/"
+        },
+        {
+          "type": "source",
+          "text": "Vehicle Sales Authority of BC: Vehicle returns",
+          "url": "https://vsabc.ca/consumers/get-information-about-vehicle-purchasing/consumer-protection-facts/vehicle-returns/"
+        },
+        {
+          "type": "heading",
+          "text": "Leave With a Decision Record, Not Only a Set of Keys"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I can sign today and use a cooling-off period if I change my mind.”",
+              "text": "There is no universal cooling-off period for major purchases or vehicle financing in Canada. Rights depend on the province, product, sales method and facts. Verify cancellation terms before signing and place any conditions in writing."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A signature is not a bookmark. Treat it as the point when the written terms may become your real obligations."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Read the Offer, Not the Mood",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What is the amount financed in the example?",
+              "detail": "$28,000: the $32,000 price after required taxes and fees minus the $4,000 down payment.",
+              "text": ""
+            },
+            {
+              "title": "About how much are Offer A’s 60 scheduled payments in total?",
+              "detail": "About $32,863.20: $547.72 × 60, subject to lender rounding in a real schedule.",
+              "text": ""
+            },
+            {
+              "title": "About how much of Offer A is financing cost above principal?",
+              "detail": "About $4,863.20 above the $28,000 principal in this rounded training example.",
+              "text": ""
+            },
+            {
+              "title": "Which offer has the lower payment, and what does it trade away?",
+              "detail": "Offer B lowers the monthly payment but adds 24 months and about $3,200.52 in financing cost compared with Offer A.",
+              "text": ""
+            },
+            {
+              "title": "If payout is $16,000 and trade value is $12,000, what must be resolved?",
+              "detail": "$4,000 of negative equity. Resolve how it will be paid; rolling it in increases new principal and financing cost.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Total-Cost Purchase File",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose one real planned purchase or a fictional practice offer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Remove account numbers, SINs, passwords, PINs and ID details. Do not apply, pay a deposit or sign merely to complete this exercise."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "heading",
+          "text": "Total-Cost Showroom Closing Checklist"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "The price is separated from the payment.",
+              "text": "Cash price, taxes, mandatory fees, deposit, down payment and amount financed are itemized."
+            },
+            {
+              "title": "At least two offers use the same frame.",
+              "text": "APR or rate, term, payment count, total financing cost and final ownership status can be compared."
+            },
+            {
+              "title": "Old debt and extras are visible.",
+              "text": "Negative equity and optional add-ons are not hiding inside the new principal."
+            },
+            {
+              "title": "The ownership years fit the budget.",
+              "text": "Insurance, maintenance, repair, operating and end-of-term costs are included."
+            },
+            {
+              "title": "The contract survives a bad month.",
+              "text": "The exit, prepayment, missed-payment and complaint routes are understood before signing."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Never let one comfortable payment speak for the whole purchase.",
+          "detail": "Compare the same price and ownership outcome, calculate total dollars, expose negative equity and add-ons, include the years of operating cost, verify the contract rules where you live, and choose the option that remains workable when life is less than perfectly scheduled."
+        },
+        {
+          "type": "spotlight",
+          "text": "The best financing offer may be a shorter loan, a smaller purchase, a stronger down payment, or a polite ‘not yet.’"
+        },
+        {
+          "type": "paragraph",
+          "text": "SOURCE REVIEW DATE: 11 August 2026. Recheck rates, disclosures, advertised-price rules, dealer licensing, lien searches, cancellation and complaint routes before publication or use."
+        },
+        {
+          "type": "paragraph",
+          "text": "NEXT MISSION: Course 2.15, The 30-Day Financial Reset"
+        },
+        {
+          "type": "paragraph",
+          "text": "Turn the strongest Money Foundations habits into one month of practical action."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Cash price",
+              "text": "The price of the item before borrowing costs, shown with the required taxes and fees that apply."
+            },
+            {
+              "title": "Amount financed",
+              "text": "The principal borrowed after the down payment, including any debt or add-ons rolled into the agreement."
+            },
+            {
+              "title": "APR",
+              "text": "Annual percentage rate, a yearly measure used to compare borrowing cost when applicable."
+            },
+            {
+              "title": "Term",
+              "text": "The scheduled length of the loan, lease or payment agreement."
+            },
+            {
+              "title": "Total financing cost",
+              "text": "The borrowing cost above principal, including applicable interest and disclosed finance charges."
+            },
+            {
+              "title": "Negative equity",
+              "text": "The amount by which debt secured by an asset exceeds the asset’s current value."
+            },
+            {
+              "title": "Trade-in",
+              "text": "An asset transferred to a seller as part of the purchase; value and any loan payout should be shown separately."
+            },
+            {
+              "title": "Lien",
+              "text": "A registered claim against property that may give a creditor rights until the secured debt is resolved."
+            },
+            {
+              "title": "Lease",
+              "text": "An agreement to use an item for a term. Ownership normally does not transfer automatically."
+            },
+            {
+              "title": "Buyout or residual value",
+              "text": "The stated amount used to purchase an item at the end of some leases or similar agreements."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “If the monthly payment fits, I can afford the purchase.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "PURPOSE AND TIMING — What are you buying, why is it needed, when is it needed, and what lower-cost, repair, used, rental or delay option could meet the same need?",
+      "PURCHASE PRICE — Record the negotiated cash price, required taxes and fees, delivery or setup, down payment, deposit conditions and amount financed.",
+      "OFFER A — Record provider, APR or rate, fixed/variable, term, payment amount/frequency/count, total scheduled payments, financing cost, security and prepayment terms.",
+      "OFFER B — Record the same facts. Use the same purchase price and ownership outcome, then state the total-dollar and time difference.",
+      "TRADE-IN AND ADD-ONS — Record asset value, loan payout, positive or negative equity, every add-on, whether it is optional, and its financed total cost.",
+      "OWNERSHIP AND EXIT — Estimate monthly and annual operating costs. What do you own, return, buy out or still owe at the end? What happens after cancellation, prepayment or a missed payment?",
+      "STRESS TEST — Re-run the plan for a reduced-pay month, a repair or a variable-rate increase. Which essential bill or saving contribution would be squeezed?",
+      "DECISION RECORD — Choose buy, negotiate, choose less, repair/rent, or delay. Name the evidence, one next action, who owns it and the review date."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+  },
+  "sources": []
+}

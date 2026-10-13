@@ -1,0 +1,323 @@
+{
+  "title": "Registered Disability Savings Plan",
+  "summary": "Qualify → Open → Match → Invest → Withdraw",
+  "subtitle": "Build long-term support without asking one deposit to perform a miracle",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Long-term saving is rarely dramatic. Most days it is one sensible deposit wearing ordinary shoes, which is fortunate, because money in a cape usually comes with suspicious fees."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Registered Disability Savings Plan helps a person approved for the Disability Tax Credit save for long-term financial security. Private contributions can grow tax-deferred, and eligible plans may receive the Canada Disability Savings Grant and the Canada Disability Savings Bond. The beneficiary owns the plan’s future benefit, and the holder manages the plan under the rules."
+        },
+        {
+          "type": "spotlight",
+          "text": "The lifetime private-contribution limit is $200,000 for one beneficiary across all of their RDSPs. Grants, bonds and investment earnings don't use up that room."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Tell the beneficiary, holder and contributor roles apart.",
+              "text": ""
+            },
+            {
+              "title": "Explain grants, bonds and carry-forward room.",
+              "text": ""
+            },
+            {
+              "title": "Know the important age checkpoints.",
+              "text": ""
+            },
+            {
+              "title": "Spot how a withdrawal can trigger repayment.",
+              "text": ""
+            },
+            {
+              "title": "Fill in a simple long-term support plan.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“An RDSP is available to anyone who identifies as having a disability.”",
+              "text": "The beneficiary normally must be approved for the Disability Tax Credit and meet the plan’s age, residency and identification rules. The RDSP does not run its own informal audition."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Learn who does what in an RDSP and how government money gets added, and you can build support that lasts for decades.",
+          "detail": "Knowing the difference between the grant, the bond and your own contributions helps you put each dollar where it earns the most.",
+          "extra": "Next, four clear roles so everyone knows their job."
+        }
+      ]
+    },
+    {
+      "id": "roles",
+      "title": "Give Every Role a Clear Name",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "BENEFICIARY",
+              "text": "The person approved for the DTC whose long-term savings are being built. Payments from the plan are for this person."
+            },
+            {
+              "title": "HOLDER",
+              "text": "The person or organization that opens and manages the plan. Depending on age and legal ability to make contracts, this may be the adult beneficiary or another qualifying holder."
+            },
+            {
+              "title": "CONTRIBUTOR",
+              "text": "The holder, or another person or organization that adds money with the holder’s written permission. Contributions aren't tax-deductible, and they become property held for the beneficiary."
+            },
+            {
+              "title": "ISSUER",
+              "text": "The financial organization that offers the RDSP. Products, investments and fees can differ, but the federal plan rules are the same."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Contributions can continue until the end of the year the beneficiary turns 59, as long as eligibility rules are met and the $200,000 lifetime limit hasn't been reached."
+        },
+        {
+          "type": "spotlight",
+          "text": "There is no yearly limit on private contributions. Putting in a large amount without checking your grant plan can use up lifetime room without earning the best match."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Every dollar contributed receives the same government match.”",
+              "text": "Grant rates can be 300%, 200% or 100%, depending on family income, contribution level and available entitlement. Once the best tier is filled, extra dollars may earn a smaller grant or none."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "boosters",
+      "title": "Separate the Grant From the Bond",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Canada Disability Savings Grant matches eligible contributions. The usual maximum grant is $3,500 in one year and $70,000 over the beneficiary’s lifetime. The Canada Disability Savings Bond supports beneficiaries with low and modest incomes. No private contribution is required, and it pays up to $1,000 a year and $20,000 over a lifetime."
+        },
+        {
+          "type": "spotlight",
+          "text": "Grant and bond payments stop after 31 December of the year the beneficiary turns 49. Opening and reviewing the plan early keeps more years open for government support."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unused grant and bond amounts from up to the previous ten eligible years may be carried forward. Carry-forward uses the oldest amounts first and has yearly caps. Ask the issuer for the official Statement of Entitlement before you choose a contribution."
+        },
+        {
+          "type": "spotlight",
+          "text": "A bond can be deposited without a contribution. A household waiting for the perfect amount to save should still look into opening an eligible plan."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If ten years of unused entitlement exist, the government pays all of it immediately.”",
+              "text": "Carry-forward is limited by eligibility, age, past income information and yearly grant or bond caps. It is a queue, not a wheelbarrow arriving at the branch."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "An RDSP is a long-term system. Protect your DTC records, use grant and bond years before age 49, contribute with a plan, and understand the withdrawal repayment rules."
+        }
+      ]
+    },
+    {
+      "id": "withdrawals",
+      "title": "The Ten-Year Look-Back Deserves Respect",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "RDSP payments generally contain private contributions, grants, bonds and earnings. Your private contributions are not taxable when withdrawn. Grants, bonds and earnings generally are. The issuer works out and reports the portions."
+        },
+        {
+          "type": "paragraph",
+          "text": "A withdrawal can require you to repay grants and bonds paid in the previous ten years. Under the proportional rule, $3 of assistance may have to be repaid for each $1 withdrawn, up to the assistance holdback amount. Ask the issuer for a written estimate before you approve a withdrawal."
+        },
+        {
+          "type": "spotlight",
+          "text": "Lifetime Disability Assistance Payments must begin by the end of the year the beneficiary turns 60. One-time Disability Assistance Payments may also be possible, under plan terms and federal limits."
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "How do the beneficiary, holder and contributor roles differ?",
+              "detail": "The beneficiary receives the plan’s future benefit, the holder opens and manages it, and an authorized contributor adds private money.",
+              "text": ""
+            },
+            {
+              "title": "Which government amount needs a contribution, and which may not?",
+              "detail": "The Canada Disability Savings Grant matches eligible contributions. The Canada Disability Savings Bond may be paid without a contribution.",
+              "text": ""
+            },
+            {
+              "title": "What happens at the end of the year the beneficiary turns 49?",
+              "detail": "Grant and bond payments stop after 31 December of that year.",
+              "text": ""
+            },
+            {
+              "title": "What is the lifetime private-contribution limit?",
+              "detail": "$200,000 for one beneficiary across all of their RDSPs.",
+              "text": ""
+            },
+            {
+              "title": "Why ask for a Statement of Entitlement before contributing?",
+              "detail": "It shows the current and carried-forward grant and bond amounts available, so you can time your contributions well.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Noah and the Contribution That Tried to Sprint",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Noah",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Noah Chen was 31 and had just opened his first RDSP. His goal was a plan that could support him for decades. His Aunt Mei wanted to help, and she did not wait. She sold her old car, and that same afternoon she showed up with a $20,000 cheque in her purse and one wish: put it all in this Friday.",
+            "Her heart was in exactly the right place. Her calculator had skipped warm-up. Noah knew just enough to worry. One big deposit would use up lifetime contribution room, and the grant only matches part of what goes in.",
+            "The adviser at the issuer said the cheque could go in as soon as Friday. Aunt Mei was already smiling. \"Why wait?\" she said. \"Money in the plan is money working.\"",
+            "Noah felt the pull. Saying no to his aunt, who had just sold her car for him, felt rude. But he remembered one rule from his notes: ask for the Statement of Entitlement first. He took a breath and asked her to hold the cheque for one week. She went quiet for a moment, then nodded.",
+            "The statement showed two things they had not expected. Noah had unused grant amounts from earlier eligible years that could be carried forward, but only up to yearly caps. And he qualified for the bond, which needed no contribution at all. A $20,000 deposit would have filled the best matching tiers and then kept going, using up lifetime room on dollars that earned little or no match.",
+            "They planned a smaller first deposit, sized to the match available that year, with more to follow while carry-forward lasted. The bond arrived with no contribution. Aunt Mei kept the rest of her car money in her own account and put the later dates on her calendar.",
+            "Noah wrote down one more thing: a withdrawal in the next ten years could mean repaying grants and bonds. Then he put the statement in a folder. Aunt Mei took the cheque home and, to her credit, only sighed twice."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A helpful family contribution should start with permission, clear roles and the beneficiary’s long-term needs. More money today is not automatically better than a plan that runs over several years."
+        },
+        {
+          "type": "transition",
+          "text": "Noah's aunt wanted to deposit $20,000 on Friday. One week and one statement changed the plan.",
+          "detail": "Asking for the Statement of Entitlement first showed him where a deposit would earn a match and where it would not.",
+          "extra": "Last stop: your own long-term support blueprint."
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Long-Term Support Blueprint",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Short answers, plain language. Please don't enter your SIN, banking details or plan account numbers. This is preparation, not investment or tax advice."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Before you choose an investment, compare fees, access, risk and time horizon. “Registered” describes the account’s tax rules. It does not make every investment inside it a good one."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "RDSP",
+              "text": "Registered Disability Savings Plan."
+            },
+            {
+              "title": "Beneficiary",
+              "text": "The person the plan is set up for and paid to."
+            },
+            {
+              "title": "Holder",
+              "text": "The person or organization that manages the plan."
+            },
+            {
+              "title": "CDSG",
+              "text": "Canada Disability Savings Grant. It matches eligible contributions."
+            },
+            {
+              "title": "CDSB",
+              "text": "Canada Disability Savings Bond. It may need no contribution."
+            },
+            {
+              "title": "Carry-forward",
+              "text": "Using unused grant or bond amounts from earlier years."
+            },
+            {
+              "title": "Assistance holdback",
+              "text": "Recent grants and bonds you may have to repay after a withdrawal."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “An RDSP is available to anyone who identifies as having a disability.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Is the person the plan is for approved for the Disability Tax Credit? (Yes / No / Not sure)",
+      "How old is the beneficiary?",
+      "Does an RDSP already exist for this person? (Yes / No / Not sure)",
+      "Who would open the plan, and who might add money to it?",
+      "Roughly how much could you or your family add each year?",
+      "Have you asked the issuer for a Statement of Entitlement? (Yes / No / Not sure)",
+      "What's one thing you'll do before you add money or take any out?"
+    ],
+    "samples": [
+      "",
+      "A rough age is fine.",
+      "",
+      "For example: \"My parent opens it, my aunt adds money.\"",
+      "An estimate is fine. \"Nothing right now\" is a fine answer too.",
+      "",
+      "One sentence is enough."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information, not an eligibility or investment determination."
+  },
+  "sources": []
+}

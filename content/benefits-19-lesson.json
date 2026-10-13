@@ -1,0 +1,337 @@
+{
+  "title": "Indigenous Benefits and Programs",
+  "summary": "Identify → Route → Confirm → Apply → Follow up",
+  "subtitle": "Find the right door without pretending there is only one Indigenous experience",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Searching for one universal “Indigenous benefit” is a little like asking for one weather forecast for all of Canada: confident, convenient and almost certainly missing several jackets."
+        },
+        {
+          "type": "paragraph",
+          "text": "First Nations, Inuit and Métis are distinct Peoples with different rights, governments, organizations and program routes. A service may be federal, provincial or territorial, community-administered, distinctions-based or available to the general public. Eligibility can depend on registration or recognition, Nation or community connection, residence, age, income, health need and the program’s own rules."
+        },
+        {
+          "type": "spotlight",
+          "text": "Start with identity and service need, not a benefit name. The best route may be a First Nation office, Inuit organization, Métis government, friendship centre, provincial program or Indigenous Services Canada."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Distinguish First Nations, Inuit and Métis program routes.",
+              "text": ""
+            },
+            {
+              "title": "Identify the level and administrator of a service.",
+              "text": ""
+            },
+            {
+              "title": "Screen health, child, education, income and tax supports.",
+              "text": ""
+            },
+            {
+              "title": "Protect personal and community information.",
+              "text": ""
+            },
+            {
+              "title": "Complete a Nation, Status and Service Route Card.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“All Indigenous people qualify for the same federal benefits.”",
+              "text": "Programs are distinctions-based and rule-specific. Identity alone does not create identical eligibility, and a generic search result cannot make that decision."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "ISC: Benefits and services",
+          "url": "https://www.canada.ca/en/indigenous-services-canada.html"
+        }
+      ]
+    },
+    {
+      "id": "doors",
+      "title": "One Need May Have More Than One Administrator",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The same word—health, education, income—can point to several different doors depending on who delivers the program."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "HEALTH",
+              "text": "NIHB provides eligible First Nations and Inuit clients with specified health benefits not otherwise covered, including pharmacy, dental, vision, mental-health counselling, medical supplies and equipment, and medical transportation."
+            },
+            {
+              "title": "CHILDREN AND YOUTH",
+              "text": "Jordan's Principle helps First Nations children living in Canada access needed products, services and supports without jurisdictional delay. Requests can be individual or group-based."
+            },
+            {
+              "title": "EDUCATION",
+              "text": "Post-secondary support may flow through a First Nation, designated organization, Inuit organization or Métis Nation body. Application dates, priorities and available funding vary."
+            },
+            {
+              "title": "INCOME AND DAILY LIVING",
+              "text": "On-reserve income assistance and assisted-living services are commonly delivered through First Nations or other administrators. Provincial and territorial programs may apply elsewhere."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "NIHB eligibility is not the same as provincial health-card eligibility. Ask the provider which program is billed first and whether prior approval or predetermination is required."
+        },
+        {
+          "type": "spotlight",
+          "text": "Jordan’s Principle centres the needs of First Nations children. A request can cover health, social or educational support when the current system does not provide what the child needs."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A program listed online must be applied for directly through Ottawa.”",
+              "text": "Many federal dollars are administered by First Nations, tribal councils, Inuit or Métis organizations and local service providers. The local administrator may be the real front door."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "ISC: Non-Insured Health Benefits",
+          "url": "https://www.canada.ca/en/indigenous-services-canada/services/first-nations-inuit-health/non-insured-health-benefits.html"
+        }
+      ]
+    },
+    {
+      "id": "verify",
+      "title": "Ask Five Questions at Every Door",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ask these before relying on any program, not after a claim is denied."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "W",
+              "text": "h"
+            },
+            {
+              "title": "W",
+              "text": "h"
+            },
+            {
+              "title": "W",
+              "text": "h"
+            },
+            {
+              "title": "W",
+              "text": "h"
+            },
+            {
+              "title": "W",
+              "text": "h"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Post-secondary support is not an automatic cheque. Funding may be limited, locally prioritized and administered under community or organizational policy, so apply early and request the written rules."
+        },
+        {
+          "type": "spotlight",
+          "text": "A status card can support access to some services, but it does not prove eligibility for every program or create one tax rule for every purchase and every type of income."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Indigenous people do not pay tax.”",
+              "text": "Section 87 of the Indian Act is specific. It can exempt certain property, including income, situated on a reserve for a person registered or entitled to be registered under the Act. Connecting factors and transaction rules matter; many amounts remain taxable."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Key takeaway: There is no single Indigenous-benefits lane. Identify the person, Nation or distinctions-based route, the specific need and the actual administrator; then confirm the written eligibility, coverage and review process before relying on support."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Talia Finds the Administrator",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Talia",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Talia Cardinal, a First Nations student in Saskatoon, found a page describing federal post-secondary support and assumed an online federal application would appear. It did not. The website had supplied a program name and then wandered off like it had another meeting.",
+            "The conflict was timing. Her tuition deposit was due, her dental estimate also needed attention and neither request belonged in the same file. A campus adviser helped her separate the routes.",
+            "Talia contacted her First Nation’s education office for its funding policy and deadline. For dental care, she asked the clinic to verify NIHB eligibility, coverage and predetermination before treatment. She recorded both administrators and kept only the documents each requested.",
+            "The conclusion was not one giant benefit package. It was two accurate routes, two follow-up dates and no assumption that one office knew the other file existed."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "When two needs involve different administrators, create two records. Combining them can hide deadlines, consents and missing documents."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "One program name is not one application. Route each need to its actual administrator and keep separate records."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Why should First Nations, Inuit and Métis routes not be combined?",
+              "detail": "They are distinct Peoples with different rights, governments, organizations and program routes, so eligibility and administration differ by route.",
+              "text": ""
+            },
+            {
+              "title": "What does NIHB generally supplement?",
+              "detail": "Specified health benefits not otherwise covered for eligible First Nations and Inuit clients, such as pharmacy, dental, vision, mental-health counselling, medical supplies and transportation.",
+              "text": ""
+            },
+            {
+              "title": "What problem is Jordan's Principle designed to prevent?",
+              "detail": "Jurisdictional delay in getting First Nations children the products, services and supports they need.",
+              "text": ""
+            },
+            {
+              "title": "Why should a post-secondary applicant contact the local administrator early?",
+              "detail": "Funding may be limited, locally prioritized and administered under community or organizational policy with its own deadlines.",
+              "text": ""
+            },
+            {
+              "title": "Why is “Indigenous people do not pay tax” an unsafe statement?",
+              "detail": "Section 87 exemptions are specific to certain property situated on a reserve for a registered or entitled person; connecting factors and transaction rules matter, and many amounts remain taxable.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Complete Your Nation, Status and Service Route Card",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use general descriptions. Do not write registration numbers, health numbers, banking details, passwords, medical records or identity-document copies on this worksheet."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "For a denied or incomplete request, ask for the reason in writing, the missing evidence, the review or appeal route and the deadline. “No” is a decision to understand, not a filing cabinet to fear."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Distinctions-based",
+              "text": "Designed separately with or for First Nations, Inuit or Métis."
+            },
+            {
+              "title": "Administrator",
+              "text": "Organization that receives, decides or delivers a program request."
+            },
+            {
+              "title": "NIHB",
+              "text": "Non-Insured Health Benefits program for eligible First Nations and Inuit clients."
+            },
+            {
+              "title": "Jordan's Principle",
+              "text": "Child-first approach to needed supports for First Nations children."
+            },
+            {
+              "title": "Prior approval",
+              "text": "Permission required before a product or service is provided."
+            },
+            {
+              "title": "Predetermination",
+              "text": "Advance review of whether and how much a proposed service may be covered."
+            },
+            {
+              "title": "Section 87",
+              "text": "Indian Act tax exemption applying in specified circumstances."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “All Indigenous people qualify for the same federal benefits.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "The person, distinctions-based or community route I am checking is:",
+      "The immediate need and deadline are:",
+      "The likely federal, provincial/territorial, community or public program is:",
+      "The administrator and verified contact channel are:",
+      "The written eligibility and coverage rules are:",
+      "The documents, consent and privacy questions are:",
+      "The application, prior-approval or referral step is:",
+      "The reference, follow-up, correction or review date is:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

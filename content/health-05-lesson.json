@@ -1,0 +1,593 @@
+{
+  "title": "Strength Training",
+  "summary": "Purpose → Families → Dose → Progression",
+  "subtitle": "Build a program that makes everyday tasks feel lighter",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This course provides general education, not personal medical care. Complete CSEP's Get Active Questionnaire before a major increase in activity and follow its directions. Seek qualified advice for relevant medical conditions, recent surgery, pregnancy or postpartum recovery, injury, unexplained symptoms, or medicines that affect exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
+        },
+        {
+          "type": "paragraph",
+          "text": "You will build a program in layers: purpose, movements, dose, technique, recovery, and progression. Strength training can be simple. The weights do not need dramatic lighting or names such as Thunder Block 9000."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "What strength means beyond lifting the heaviest load.",
+              "text": ""
+            },
+            {
+              "title": "How to choose exercises that cover the major muscle groups.",
+              "text": ""
+            },
+            {
+              "title": "How sets, repetitions, resistance, rest, and effort work together.",
+              "text": ""
+            },
+            {
+              "title": "How to record and progress a routine safely.",
+              "text": ""
+            },
+            {
+              "title": "When to adjust, stop, or seek qualified help.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "Define the Job",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Strength is the ability to produce force. In daily life, it helps with rising from a chair, carrying bags, climbing stairs, lifting at work, transferring, pushing a door, and keeping balance when something shifts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your goal should describe a useful change. “Carry groceries from the car without stopping” gives you more direction than “get strong.” A sport, job, disability, age, health condition, or caregiving role may change which tasks matter most."
+        },
+        {
+          "type": "paragraph",
+          "text": "Canadian movement guidance recommends muscle-strengthening activities using the major muscle groups at least twice a week for adults. That is a weekly direction, not an order to train every muscle as hard as possible on day one."
+        },
+        {
+          "type": "spotlight",
+          "text": "Connect one exercise to one real activity. Chair rises support standing; rows support pulling; carries support moving objects. Purpose makes progress easier to recognize."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Strength only means lifting a very heavy weight once.”",
+              "text": "Strength appears in many forms, including controlling body weight, carrying a load, repeating a task, and producing force safely. The pickle jar does not ask for your one-repetition maximum."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Write your strength purpose"
+        },
+        {
+          "type": "paragraph",
+          "text": "Complete this sentence: “I want strength training to make ___ easier.” Keep the answer visible when choosing exercises."
+        }
+      ]
+    },
+    {
+      "id": "families",
+      "title": "Cover the Body With Movement Families",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A balanced beginner plan does not require an exercise for every visible muscle. Start with movement families that cover the major muscle groups."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "SQUAT OR RISE",
+              "text": "Chair rise, supported squat, goblet squat, or leg press."
+            },
+            {
+              "title": "HINGE",
+              "text": "Wall-tap hinge, hip bridge, cable pull-through, or a carefully learned deadlift variation."
+            },
+            {
+              "title": "PUSH",
+              "text": "Wall push-up, counter push-up, machine chest press, or overhead press when suitable."
+            },
+            {
+              "title": "PULL",
+              "text": "Resistance-band row, seated row, pulldown, or another controlled pulling exercise."
+            },
+            {
+              "title": "STEP OR SINGLE-LEG TASK",
+              "text": "Supported step-up, split-stance rise, or another option suited to balance and joints."
+            },
+            {
+              "title": "CARRY OR BRACE",
+              "text": "Balanced carry, supported anti-rotation hold, bird dog, or another trunk-control exercise."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Choose versions that fit your equipment, mobility, balance, and experience. A physiotherapist or qualified exercise professional can help when pain, disability, injury, or a health condition changes the movement choice."
+        },
+        {
+          "type": "spotlight",
+          "text": "One suitable movement from each family creates a whole-body base. More exercises are not automatically more complete."
+        }
+      ]
+    },
+    {
+      "id": "dials",
+      "title": "Learn the Five Training Dials",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Every strength exercise has adjustable dials. Understanding them prevents random changes."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "RESISTANCE",
+              "text": "The force you work against. It may come from body weight, bands, machines, free weights, or gravity."
+            },
+            {
+              "title": "REPETITIONS",
+              "text": "Completed movements. A set is a group of repetitions before rest."
+            },
+            {
+              "title": "RANGE",
+              "text": "The distance through which you move comfortably and with control."
+            },
+            {
+              "title": "TEMPO",
+              "text": "How quickly you lift, pause, and lower."
+            },
+            {
+              "title": "REST",
+              "text": "The time between sets or exercises. More demanding work may require more rest."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Short rest always makes strength training better.”",
+              "text": "Short rest can increase fatigue, but fatigue is not the same as strength. Rest long enough to regain breathing, focus, and control for the next set."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dose",
+      "title": "Find a Useful Starting Dose",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Warm up with at least five minutes of easy activity and comfortable movement. Practise each exercise with no load or a light load first."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a new movement, begin with one controlled set. Choose a resistance that lets you complete several smooth repetitions while breathing normally. End the set before technique changes or you need to strain for one more repetition. Exact numbers depend on the person, exercise, goal, and professional guidance."
+        },
+        {
+          "type": "heading",
+          "text": "Use a simple effort description"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Easy: many controlled repetitions remain.",
+              "text": ""
+            },
+            {
+              "title": "Steady: the muscles are working, and form is still dependable.",
+              "text": ""
+            },
+            {
+              "title": "Too much: breathing, speed, range, pain, or control changes noticeably.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Most beginner work can live in the steady range. A set does not need to reach failure to provide a training challenge."
+        },
+        {
+          "type": "spotlight",
+          "text": "Finish while you could still perform another good repetition. This creates room to learn technique and recover."
+        },
+        {
+          "type": "heading",
+          "text": "Technique has four anchors"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Set up the support, seat, feet, handles, and load before starting.",
+              "text": ""
+            },
+            {
+              "title": "Move through a comfortable, controlled range.",
+              "text": ""
+            },
+            {
+              "title": "Breathe throughout the effort rather than holding your breath.",
+              "text": ""
+            },
+            {
+              "title": "Stop when the planned form changes.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Sharp pain, chest symptoms, faintness, severe or unusual shortness of breath, or sudden neurological symptoms require stopping. Persistent or worsening joint, muscle, or nerve symptoms need qualified assessment."
+        }
+      ]
+    },
+    {
+      "id": "base",
+      "title": "Build a Two-Day Base",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Two non-consecutive full-body sessions can help a beginner work toward Canadian strength recommendations. Leave at least one easier day between sessions for the same muscle groups when starting."
+        },
+        {
+          "type": "paragraph",
+          "text": "A first session might include one exercise from each movement family, performed for one controlled set. Repeat the same plan for several sessions. Add a second set to selected exercises only when setup, form, and recovery remain steady."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep cardio, balance, mobility, sleep, and daily movement in the week. Strength is one part of the full-day picture. It has an important desk, not the entire office."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Priya Stops Changing the Plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Priya",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Priya, 52, lived in Surrey and wanted stairs and garden work to feel easier. She attended different online strength classes every week. Each class was energetic, but she could not tell whether anything was improving because the movements kept changing.",
+            "She built a six-exercise plan: chair squat, hip bridge, counter push-up, band row, supported step-up, and a balanced carry. She completed one set twice a week and labelled each exercise easy, steady, or too much.",
+            "The supported step-up felt too much, so Priya lowered the step and used the railing. The counter push-up felt easy after three sessions, so she used a slightly lower surface. She did not change the other movements.",
+            "After six weeks, Priya used less hand support for chair squats and carried two garden containers more comfortably. She had not performed a surprise exercise called the rotating bear tornado. Somehow, strength still occurred."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "What Priya did well"
+        },
+        {
+          "type": "paragraph",
+          "text": "She tied training to useful tasks, repeated a balanced plan, adjusted one difficult movement, and progressed one easy movement. Her log showed what changed and why."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The program must change constantly to keep the muscles guessing.”",
+              "text": "Muscles do not need suspense. Repeating movements long enough to improve skill and gradually increase challenge is useful training."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "progression",
+      "title": "Use a One-Change Progression Rule",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Progress after the current exercise feels controlled across more than one session and recovery is reasonable. Choose one change:"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Add a small number of repetitions.",
+              "text": ""
+            },
+            {
+              "title": "Add a little resistance.",
+              "text": ""
+            },
+            {
+              "title": "Add one set to selected movements.",
+              "text": ""
+            },
+            {
+              "title": "Use a slightly larger comfortable range.",
+              "text": ""
+            },
+            {
+              "title": "Move to a harder version.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep the other dials stable. Watch the next sessions. If pain rises, technique changes, sleep worsens, or daily tasks become harder, reduce the dose and reassess."
+        },
+        {
+          "type": "spotlight",
+          "text": "If form is steady but the load feels easy, add resistance. If control is the issue, keep the load and practise. Let the evidence choose the dial."
+        }
+      ]
+    },
+    {
+      "id": "log",
+      "title": "Read the Training Log",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A useful log is small enough to maintain. Record the exercise and version, sets and repetitions, resistance or machine setting, and one effort or comfort note."
+        },
+        {
+          "type": "paragraph",
+          "text": "Look for patterns every two weeks. Are several movements becoming easier? Is one joint repeatedly uncomfortable? Are you completing the sessions and recovering? A single unusually good or difficult day is information, not a verdict."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If the number on the scale does not change, strength training is not working.”",
+              "text": "Strength progress can appear as better control, more resistance, easier tasks, improved balance, or more completed work. Body weight is not a strength score."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "When to hold or step back"
+        },
+        {
+          "type": "paragraph",
+          "text": "Repeat or reduce the current dose when:"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Technique becomes less controlled.",
+              "text": ""
+            },
+            {
+              "title": "Soreness interferes with ordinary responsibilities.",
+              "text": ""
+            },
+            {
+              "title": "Pain, illness, poor sleep, or stress changes capacity.",
+              "text": ""
+            },
+            {
+              "title": "You are returning after a break.",
+              "text": ""
+            },
+            {
+              "title": "Equipment or the exercise setup is unfamiliar.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "After illness, travel, or a longer break, use easier versions or less work. The first week back is a reintroduction, not debt collection."
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "title": "Access Across Canada",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Strength training can happen at home, municipal recreation centres, private gyms, YMCAs, campuses, community halls, friendship or wellness centres, and rehabilitation settings. Ask about accessible equipment, introductory orientations, adapted classes, older-adult programs, women-only times, fee assistance, and staff credentials. Availability varies by community."
+        },
+        {
+          "type": "paragraph",
+          "text": "CSEP professionals can provide exercise guidance within their scope. Physiotherapists assess and treat movement problems and injuries. Professional regulation, referral rules, and public or private coverage differ by province and territory."
+        },
+        {
+          "type": "heading",
+          "text": "Equipment check"
+        },
+        {
+          "type": "paragraph",
+          "text": "Inspect bands, benches, anchors, pins, collars, cables, and handles. Follow manufacturer instructions and facility rules. Stop using damaged equipment and report it. Adjustable does not mean indestructible. Neither does “commercial grade,” despite the confidence of the sticker."
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Strength training works when the exercises cover the body, the starting dose allows control, and progression follows evidence. Repeat the plan, record a few useful details, and change one training dial at a time."
+        },
+        {
+          "type": "spotlight",
+          "text": "Put the exercise order in the same place every session. Familiar order reduces setup mistakes and lets you compare sessions. Your brain can save its improvisation for dinner."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Test What Stuck",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What makes a strength goal useful?",
+              "detail": "It connects training to a specific task, ability, or outcome that matters to the learner.",
+              "text": ""
+            },
+            {
+              "title": "Name the six movement families.",
+              "detail": "Squat or rise, hinge, push, pull, step or single-leg task, and carry or brace.",
+              "text": ""
+            },
+            {
+              "title": "What are the five training dials?",
+              "detail": "Resistance, repetitions or sets, range, tempo, and rest.",
+              "text": ""
+            },
+            {
+              "title": "Why should a beginner avoid training every set to failure?",
+              "detail": "Stopping before form breaks supports technique, recovery, and repeatable training.",
+              "text": ""
+            },
+            {
+              "title": "What does “steady” effort mean in this course?",
+              "detail": "Muscles are working while breathing, comfort, range, and control remain dependable.",
+              "text": ""
+            },
+            {
+              "title": "When is an exercise ready to progress?",
+              "detail": "After it feels controlled across more than one session and recovery is reasonable.",
+              "text": ""
+            },
+            {
+              "title": "Why change only one training dial at a time?",
+              "detail": "It makes the response easier to judge and prevents a sudden jump in total demand.",
+              "text": ""
+            },
+            {
+              "title": "Name two progress signals that are not body weight.",
+              "detail": "Examples include better control, more resistance, more repetitions, less support, easier stairs, or improved carrying.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Build Your Strength Blueprint",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete the relevant safety screen. Choose one exercise from each movement family. Perform one easy practice set of each, then record the version, effort, and any setup adjustment needed before your first full session."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Skip any medical details or symptoms in this form. Just the plan."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Effort",
+              "text": "How demanding an exercise feels during a set."
+            },
+            {
+              "title": "Failure",
+              "text": "The point at which another repetition cannot be completed with the intended technique."
+            },
+            {
+              "title": "Major muscle groups",
+              "text": "The larger muscle regions of the legs, hips, back, chest, shoulders, arms, and trunk."
+            },
+            {
+              "title": "Repetition",
+              "text": "One completed exercise movement."
+            },
+            {
+              "title": "Resistance",
+              "text": "The force that muscles work against."
+            },
+            {
+              "title": "Set",
+              "text": "A group of repetitions performed before rest."
+            },
+            {
+              "title": "Tempo",
+              "text": "The speed of the lifting, pausing, and lowering phases."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Strength only means lifting a very heavy weight once.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My useful strength goal is:",
+      "My six movement-family exercises are:",
+      "My two possible training days are:",
+      "My starting number of sets is:",
+      "My effort label after each exercise will be:",
+      "The first movement likely to progress is:",
+      "The signal that means reduce or stop is:",
+      "The person or service I can ask for help is:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information, not personal medical care."
+  },
+  "sources": []
+}

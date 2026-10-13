@@ -1,0 +1,435 @@
+{
+  "title": "Fitness Over 50",
+  "summary": "Reserve → Strength → Balance → Recovery",
+  "subtitle": "Build the physical reserve that keeps choices open",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This course provides general education, not personal medical care or rehabilitation. Complete CSEP's Get Active Questionnaire before a major increase in activity and follow its directions. Seek qualified advice for a health condition, recent injury or surgery, osteoporosis or fracture history, repeated falls, unexplained pain, or medicines that affect exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, sudden weakness or numbness, a serious fall, or a new inability to bear weight."
+        },
+        {
+          "type": "paragraph",
+          "text": "You will build five reserves: leg strength, upper-body strength, aerobic capacity, balance, and movement confidence. A reserve is capacity available before an ordinary task becomes your entire afternoon."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Why fitness after 50 should build capacity rather than enforce caution.",
+              "text": ""
+            },
+            {
+              "title": "How strength, aerobic activity, balance, and mobility support independence.",
+              "text": ""
+            },
+            {
+              "title": "How to use power practice appropriately for everyday reactions.",
+              "text": ""
+            },
+            {
+              "title": "How bone health, falls, pain, and medicines can change exercise choices.",
+              "text": ""
+            },
+            {
+              "title": "How to create a practical week and measure meaningful progress.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reserve",
+      "title": "Build Reserve for Ordinary Life",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Physical reserve is the gap between what your body can do and what daily life asks it to do. When capacity rises, stairs, carrying, travel, recreation, household tasks, and unexpected effort may take a smaller share of that reserve."
+        },
+        {
+          "type": "paragraph",
+          "text": "Choose tasks that matter: rising from a low chair, carrying bags, walking on uneven ground, getting down to the floor and back up, playing with family, or completing a favourite activity. Disability or health conditions may change the task, but the goal remains useful capacity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fitness can improve after 50. The starting point and progression may need adjustment, yet age does not make the body incapable of adaptation."
+        },
+        {
+          "type": "spotlight",
+          "text": "If stairs already use all available effort, improving leg strength or aerobic capacity creates breathing room. Reserve is what remains after the task."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“After 50, exercise should focus only on gentle movement.”",
+              "text": "Gentle activity has value, but many adults also benefit from appropriately challenging strength, aerobic, and balance work."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Name the choice you want to protect"
+        },
+        {
+          "type": "paragraph",
+          "text": "Finish this sentence: “I want enough physical reserve to keep ___ in my life.”"
+        }
+      ]
+    },
+    {
+      "id": "strength",
+      "title": "Make Strength the Anchor",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Strength supports chair rises, stairs, carrying, balance recovery, bone-loading activity, and recreational tasks. Train the major muscle groups at least twice a week as recommended in Canadian movement guidance, building from your current ability."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use a squat or chair rise, hinge, push, pull, step or single-leg task, and carry or brace. Exercises can be seated, supported, standing, machine-based, band-based, or free-weight movements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Start with controlled repetitions and a resistance that feels challenging without changing technique. Progress gradually through resistance, repetitions, range, or selected sets. A qualified professional can adapt training for arthritis, osteoporosis, neurological conditions, joint replacement, disability, or injury."
+        },
+        {
+          "type": "spotlight",
+          "text": "If standing from a low chair is difficult, train a suitable chair-rise version. Useful strength begins where daily life makes a request."
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "title": "Add Safe Speed When Appropriate",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Power is the ability to produce force quickly. It helps when rising promptly, catching balance, climbing a step, or moving an object. Power naturally differs between people and can be trained at many ages."
+        },
+        {
+          "type": "paragraph",
+          "text": "First learn the movement slowly. When technique, health, and balance allow, practise the lifting phase with comfortable intent to move briskly, then return with control. A chair rise might become a controlled quick stand and slow sit. Resistance should remain manageable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Power training is not suitable in every situation without supervision. Bone fragility, cardiovascular concerns, pain, balance limitations, and unfamiliar movements may require professional guidance."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Power training always means jumping or explosive weights.”",
+              "text": "Appropriate power practice can use a brisk chair rise, step, throw, push, or machine movement adapted to the learner."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aerobic",
+      "title": "Keep the Engine Working",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Aerobic activity supports heart health, stamina, walking tolerance, mood, sleep, and participation. Walking, cycling, swimming, water exercise, dancing, rowing, and seated aerobic activity are options."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use the talk test. Moderate effort allows sentences but not comfortable singing. Vigorous effort allows only a few words. Conditions and medicines can alter heart rate and symptoms, so use professional guidance where relevant."
+        },
+        {
+          "type": "paragraph",
+          "text": "Begin with manageable bouts and accumulate time. Build duration before adding much harder work. Include easier days. A longer walk is useful progress, but so is completing the same route with less effort or recovering sooner."
+        },
+        {
+          "type": "spotlight",
+          "text": "Match some aerobic activity to the duration, terrain, and rests involved in a valued trip or event. The museum bench should be an option, not mission control."
+        }
+      ]
+    },
+    {
+      "id": "balance",
+      "title": "Challenge Balance Before Balance Is Challenged",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Balance depends on strength, sensation, vision, attention, the inner ear, and practice. Canadian guidance for adults 65 and older includes activities that challenge balance, and beginning earlier can build useful skill."
+        },
+        {
+          "type": "paragraph",
+          "text": "Practise beside a stable support. Options include weight shifts, supported marching, narrow-stance holds, heel-to-toe positions, step patterns, or suitable tai chi. Change one factor at a time, such as foot position, support, head movement, or surface."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not practise unsupported balance work when you feel dizzy, unwell, unusually weak, or unsafe. Repeated falls, sudden balance changes, new numbness, or vision changes require assessment."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Holding still on one foot is the only balance exercise.”",
+              "text": "Balance also involves stepping, turning, changing speed, reaching, and reacting while using suitable support."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Raj Trains for the Station Stairs",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Raj",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Raj, 58, lived in Mississauga and commuted into Toronto twice a week. He could complete his workday, but the station stairs with a laptop bag left him tired. He decided he needed “more cardio” and walked hard every day. His calves complained, his schedule objected, and his strength remained unchanged.",
+            "Raj built an Independence Reserve plan. Twice a week, he practised chair squats, a hip hinge, counter push-ups, band rows, supported step-ups, and a carry. On two other days, he walked at a steady talk-test pace. He added short balance practice beside the kitchen counter.",
+            "He measured controlled step-ups, walking time, and how the station stairs felt. After three weeks, he added one repetition to the step-ups. Later, he increased the carry load slightly. He kept one full rest day after his longest commute.",
+            "After twelve weeks, Raj climbed the station stairs with a steadier pace and carried his bag without switching hands. The train remained late on occasion. Fitness has limits."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "What Raj did well"
+        },
+        {
+          "type": "paragraph",
+          "text": "He trained several reserves, used task-specific exercises, progressed gradually, and kept recovery in the week. He measured the task that mattered."
+        },
+        {
+          "type": "spotlight",
+          "text": "Record resistance or repetitions, then connect them to stairs, carrying, walking, or another valued task."
+        }
+      ]
+    },
+    {
+      "id": "bones",
+      "title": "Support Bone Health Without Guessing",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Bones respond to suitable loading. Weight-bearing aerobic activity and resistance training can support bone health. Balance and strength training can also reduce fall risk factors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exercise choice changes when osteoporosis, vertebral fracture, other fracture history, pain, or high fall risk is present. Osteoporosis Canada recommends individualized exercise and safe movement guidance. Some people should avoid or modify forceful bending, twisting, impact, or poorly controlled lifting."
+        },
+        {
+          "type": "paragraph",
+          "text": "This lesson is humour-free. A fracture history or new severe back pain requires qualified assessment, not a generic workout copied from the internet."
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "Review Health, Recovery, and Confidence",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Health status can change over time. Review new diagnoses, symptoms, falls, medicines, vision, hearing, sleep, and pain with qualified professionals. A medication may affect balance, blood pressure, alertness, or heart-rate response."
+        },
+        {
+          "type": "paragraph",
+          "text": "Confidence grows through successful practice. Use stable equipment, adequate lighting, clear floors, suitable footwear, and support when needed. Confidence is not pretending risk does not exist. It is knowing how the session has been made manageable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Repeat the routine until recovery is stable. Then change one feature: time, resistance, repetitions, range, pace, or support. After illness, travel, or a flare, return with less work."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“More recovery means becoming less fit.”",
+              "text": "Recovery allows adaptation and helps the next session use good quality. The dose should challenge capacity without repeatedly disrupting daily function."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Write an easier version of every main exercise. It gives you a safe landing after illness, travel, or an unusually demanding week."
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "title": "Access Across Canada",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Programs may be available through municipal recreation centres, YMCAs, community halls, pools, seniors' centres, campuses, friendship or wellness centres, rehabilitation settings, and virtual services. Ask about age-friendly orientations, adapted equipment, falls-prevention programs, fee assistance, accessible change rooms, and instructor credentials. Availability varies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Physiotherapists can assess movement problems and rehabilitation needs. CSEP professionals can provide exercise guidance within their scope. Public coverage, referrals, and regulation vary by province and territory."
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fitness over 50 can create reserve for work, recreation, daily tasks, and independence. Anchor the week with strength, add aerobic and balance work, consider bone health, and progress from successful practice."
+        },
+        {
+          "type": "spotlight",
+          "text": "Practise carrying the kind of object daily life actually provides, using a safe load and route. Groceries rarely arrive shaped like matching dumbbells. Their branding department has missed an opportunity."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Test What Stuck",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What does physical reserve mean?",
+              "detail": "The capacity available beyond the demand of an ordinary task.",
+              "text": ""
+            },
+            {
+              "title": "Name the five reserves used in this course.",
+              "detail": "Leg strength, upper-body strength, aerobic capacity, balance, and movement confidence.",
+              "text": ""
+            },
+            {
+              "title": "Why is strength an anchor after 50?",
+              "detail": "It supports rising, stairs, carrying, balance reactions, bone-loading activity, and recreation.",
+              "text": ""
+            },
+            {
+              "title": "What is power, and how can it be practised without jumping?",
+              "detail": "Power is producing force quickly; a suitable brisk chair rise or adapted push can train it.",
+              "text": ""
+            },
+            {
+              "title": "What does the talk test suggest at moderate effort?",
+              "detail": "You can speak in sentences but would not comfortably sing.",
+              "text": ""
+            },
+            {
+              "title": "What made Raj's plan more complete than daily hard walking?",
+              "detail": "It combined strength, aerobic work, balance, task practice, progression, and recovery.",
+              "text": ""
+            },
+            {
+              "title": "Why might osteoporosis change exercise selection?",
+              "detail": "Bone fragility or fracture history may require changes to impact, bending, twisting, loading, or supervision.",
+              "text": ""
+            },
+            {
+              "title": "What is the purpose of an easier return version?",
+              "detail": "It supports a gradual return after illness, travel, a flare, or a demanding week.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Build Your Independence Reserve",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete the relevant safety screen. Choose one valued task and identify the strength, aerobic, or balance quality that supports it. Complete one short practice session and record both the exercise result and the daily-life signal."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Skip any medical details or symptoms in this form. Just the plan."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Bone-loading activity",
+              "text": "Movement that places suitable force through bones and muscles."
+            },
+            {
+              "title": "Movement confidence",
+              "text": "Trust built through safe, successful practice of physical tasks."
+            },
+            {
+              "title": "Physical reserve",
+              "text": "Capacity available beyond what a daily task requires."
+            },
+            {
+              "title": "Power",
+              "text": "The ability to produce force quickly."
+            },
+            {
+              "title": "Weight-bearing activity",
+              "text": "Activity performed while supporting body weight through the feet or other limbs."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “After 50, exercise should focus only on gentle movement.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "The choice or activity I want to protect is:",
+      "My useful leg-strength task is:",
+      "My useful upper-body task is:",
+      "My starting aerobic activity is:",
+      "My supported balance exercise is:",
+      "My life-based progress signal is:",
+      "My easier return version is:",
+      "A health change I should report is:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information, not personal medical care."
+  },
+  "sources": []
+}

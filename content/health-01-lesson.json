@@ -1,0 +1,562 @@
+{
+  "title": "Beginner Fitness for Men",
+  "summary": "Baseline → Circuit → Cardio → Progress",
+  "subtitle": "Build a routine that works before you try to make it impressive",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This is general education, not personal medical care. Complete CSEP's Get Active Questionnaire before a major change in activity. If it tells you to seek advice, or you have a medical condition, recent surgery, injury, unexplained symptoms, or medicines that affect exercise, speak with a qualified health professional first. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
+        },
+        {
+          "type": "paragraph",
+          "text": "You'll build a small routine through seven decisions. Each section adds one layer: safety, movement, strength, cardio, recovery, progression, then your own plan. No dramatic \"new life starts Monday\" speech required. Monday has heard enough promises."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Start at a level your body can actually repeat.",
+              "text": ""
+            },
+            {
+              "title": "See how cardio, strength, mobility, balance, sleep and less sitting fit together.",
+              "text": ""
+            },
+            {
+              "title": "Perform a simple full-body routine at home or in a gym.",
+              "text": ""
+            },
+            {
+              "title": "Judge effort without a watch, app or laboratory.",
+              "text": ""
+            },
+            {
+              "title": "Progress without turning every workout into a test of character.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baseline",
+      "title": "Begin With an Honest Baseline",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A beginner isn't a type of body. It's a stage of practice. You might be strong at work, active with your kids, or familiar with one sport and still be a beginner at planned exercise. That's normal."
+        },
+        {
+          "type": "paragraph",
+          "text": "For seven days, just notice what already happens. Count walks, active travel, lifting at work, recreation and planned exercise. Notice the long sitting periods too. Don't grade the week. You're collecting clues, not a report card."
+        },
+        {
+          "type": "paragraph",
+          "text": "Canada's movement guidance treats the full day as a system. Over time, adults should work toward at least 150 minutes of moderate-to-vigorous activity a week, muscle-strengthening work at least twice weekly, several hours of light activity, less sedentary time, and consistent sleep. Those are destinations, not the price of admission."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If I cannot do a full hour, the workout does not count.”",
+              "text": "Short periods of movement still count. A ten-minute walk is not a failed sixty-minute walk. It is ten minutes of walking."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Choose a first session that leaves you able to do ordinary life tomorrow. A plan earns points for being repeated, not for making stairs feel like a personal dispute."
+        },
+        {
+          "type": "heading",
+          "text": "Your baseline note"
+        },
+        {
+          "type": "paragraph",
+          "text": "Write three facts: what movement you do now, what usually stops you, and one time window you control. Use facts, not insults. \"I sit through lunch\" is useful. \"I am lazy\" is not a plan."
+        }
+      ]
+    },
+    {
+      "id": "jobs",
+      "title": "Know the Four Jobs of a Beginner Plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fitness can sound like a warehouse of equipment and abbreviations. The beginner version really only has four jobs."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "MOVE YOUR HEART AND LUNGS",
+              "text": "Brisk walking, cycling, swimming, skating, dancing or an active game can do this. At a moderate effort, you breathe harder but can still talk. Singing would be ambitious."
+            },
+            {
+              "title": "MAKE YOUR MUSCLES WORK",
+              "text": "Push, pull, squat, hinge, carry and brace patterns cover most daily demands. Resistance can come from body weight, a band, dumbbells, machines, groceries or a backpack packed with sensible objects. Leave the bowling ball out of it."
+            },
+            {
+              "title": "KEEP USEFUL MOVEMENT AVAILABLE",
+              "text": "Gentle mobility lets joints move through a comfortable range. Balance practice helps you stay steady. Neither one needs its own cinematic training montage."
+            },
+            {
+              "title": "RECOVER",
+              "text": "Sleep, food, easier days and time between hard sessions let the body adapt. Training provides the request. Recovery processes the paperwork."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "During moderate cardio, you can speak in sentences but not sing comfortably. During vigorous activity, only a few words come easily. Beginners can build plenty of fitness at moderate effort."
+        },
+        {
+          "type": "heading",
+          "text": "Pick one from each shelf"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Heart and lungs: a brisk walk, bike, pool, dance, or another accessible activity.",
+              "text": ""
+            },
+            {
+              "title": "Strength: the six-move routine coming up next.",
+              "text": ""
+            },
+            {
+              "title": "Mobility or balance: five minutes after a walk, or supported balance practice.",
+              "text": ""
+            },
+            {
+              "title": "Recovery: a regular sleep window and at least one easier day between strength sessions.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "movement",
+      "title": "Learn the Movement Before Loading It",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Good form isn't one perfect shape for every body. It means the movement is controlled, comfortable and suited to your own range. Start with a version you can actually own."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use a wall, chair, railing or countertop for support. Wear footwear that suits the surface. Clear pets, cords, ice, loose rugs and optimistic laundry piles from the area."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Real strength training starts with heavy weights.”",
+              "text": "Muscles respond to challenge. A controlled chair squat or counter push-up can be a real challenge when it matches your current ability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "circuit",
+      "title": "Your Six-Move Starter Circuit",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Warm up with a few minutes of easy walking or marching and comfortable joint movement. Then perform one set of each exercise below. Start with reps you could repeat with good control. Rest when needed, and stop while your form still looks the way it started."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "SIT TO STAND",
+              "text": "Sit near the front of a stable chair with your feet planted where you can press the floor. Lean forward slightly, stand, then lower with control. Use your hands if needed. To progress, use less hand support or a slightly lower seat."
+            },
+            {
+              "title": "COUNTER PUSH-UP",
+              "text": "Hands on a stable counter or wall. Keep your body long, bend your elbows, bring your chest toward the support, then press away. A higher surface is easier. The kitchen counter finally has a second job."
+            },
+            {
+              "title": "SUPPORTED HIP HINGE",
+              "text": "Stand close to a wall with your back toward it. Soften your knees and send your hips backward until they touch the wall, then stand tall. Keep it comfortable. This teaches you to use your hips when lifting."
+            },
+            {
+              "title": "BAND ROW OR TOWEL PULL",
+              "text": "With a properly anchored resistance band, pull your elbows back and pause. No band? Hold a towel at chest height and pull it apart firmly for several seconds. Never anchor a band to anything that might move or break."
+            },
+            {
+              "title": "SUPPORTED STEP OR MARCH",
+              "text": "Hold a stable support and step onto a low, secure step, or march in place. Keep the pace controlled and switch sides. A staircase is equipment, but only when the area is clear and the railing is available."
+            },
+            {
+              "title": "CARRY OR BRACE",
+              "text": "Carry two light, balanced objects for a short distance with a tall posture, or stand and gently tighten your middle while breathing normally. Don't hold your breath or chase strain."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "End a set when speed, comfort or control changes noticeably. The last good repetition teaches more than three crooked bonus repetitions."
+        },
+        {
+          "type": "heading",
+          "text": "Quick form scan"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Can I breathe normally?",
+              "text": ""
+            },
+            {
+              "title": "Is the movement controlled?",
+              "text": ""
+            },
+            {
+              "title": "Is discomfort mild and muscular, rather than sharp, sudden, or in a joint?",
+              "text": ""
+            },
+            {
+              "title": "Could I do the next repetition with the same quality?",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Sharp pain, chest symptoms, faintness or sudden neurological symptoms are stop signs. Ordinary muscle effort and mild next-day stiffness can happen, but worsening or persistent pain deserves professional assessment."
+        }
+      ]
+    },
+    {
+      "id": "cardio",
+      "title": "Add Cardio Without Declaring War on Your Lungs",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Begin with an activity you can access and tolerate: walk outdoors, use a hallway, pedal a bike, swim, or choose seated movement. Start at an easy pace, then add moderate periods."
+        },
+        {
+          "type": "paragraph",
+          "text": "A simple first session might be five easy minutes, five to ten moderate minutes, then a few easy minutes. Adjust the duration to your starting point. If five moderate minutes is too much, use one-minute moderate portions with easier movement between them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Progress one feature at a time. Add a little time before adding speed or hills. Keep the route familiar while your body learns. Your watch may celebrate elevation gain. Your knees did not sign the card."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Cardio is the only exercise that matters for heart health and weight.”",
+              "text": "Aerobic activity matters, but strength, daily movement, sleep, food, health conditions and recovery also affect health. One tool doesn't become the whole toolbox just because it makes you sweat."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "On a low-motivation day, begin with ten comfortable minutes. You may stop after ten. Keeping the appointment protects the habit. Continuing is optional."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Marcus and the Heroic First Tuesday",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Marcus",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Marcus, 38, worked at a desk in Mississauga and played occasional pickup basketball. He decided his comeback needed urgency. On Tuesday he ran hard, did five rounds of exercises from a video, and finished with burpees because the video host appeared personally offended by rest.",
+            "By Thursday, Marcus was too sore to play with his son. He didn't need more toughness. He needed a smaller dose.",
+            "He restarted with two twenty-minute strength sessions and three short walks a week: counter push-up, chair squat, band row, hip hinge, march, and carry. He wrote down only the session and how it felt: easy, steady, or too much.",
+            "After three weeks, \"steady\" sessions felt easier. Marcus added two repetitions to a few movements and five minutes to one walk. He missed one Friday, moved the session to Saturday, and carried on. Eight weeks later, he had more energy for basketball and no longer treated one missed day as a cancelled season."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "What Marcus did well"
+        },
+        {
+          "type": "paragraph",
+          "text": "He kept the goal, changed the dose, tracked useful information, and progressed only after the routine became repeatable. Competence wasn't pretending the first plan worked. It was adjusting quickly."
+        }
+      ]
+    },
+    {
+      "id": "progress",
+      "title": "Progress Without Ego Lifting",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Progress means asking the body to do slightly more once the present version feels controlled. \"More\" can mean one or two repetitions, a small amount of resistance, a longer walk, a slightly harder variation, or one additional session. Not all five at once."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use this rule: repeat the same plan until it feels steady on at least two occasions, then change one variable. Watch how you recover. If pain rises, form breaks, sleep worsens, or ordinary tasks become harder, reduce the dose."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Soreness proves a workout worked.”",
+              "text": "Soreness can follow unfamiliar activity, but it isn't a score. Progress can happen without severe soreness. The goal is adaptation, not walking like a folding chair."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Common beginner traps"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Training every session as hard as possible.",
+              "text": ""
+            },
+            {
+              "title": "Copying the weight or pace of someone with a different history.",
+              "text": ""
+            },
+            {
+              "title": "Skipping leg, pulling, mobility, or recovery work.",
+              "text": ""
+            },
+            {
+              "title": "Holding your breath through strength exercises.",
+              "text": ""
+            },
+            {
+              "title": "Treating a missed week as evidence that the plan is over.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "When life interrupts"
+        },
+        {
+          "type": "paragraph",
+          "text": "Use a floor, target and stretch version."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "FLOOR",
+              "text": "Ten minutes of easy movement. The floor keeps a busy week from becoming nothing."
+            },
+            {
+              "title": "TARGET",
+              "text": "Your normal session: the plan you'd do on an ordinary day."
+            },
+            {
+              "title": "STRETCH",
+              "text": "Optional extra time when energy and recovery are good."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Track sessions completed, minutes walked, or one exercise that feels easier. Pick one signal. A dashboard with seventeen numbers is how a walk becomes quarterly reporting."
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "title": "Access Across Canada",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Public recreation options differ by province, territory, municipality and community. Search your municipal recreation page for introductory classes, walking tracks, pools, adapted programs and fee assistance. In smaller or remote communities, home routines, school or community gyms, friendship centres, trails and virtual programs may be more practical. Check local schedules, accessibility, supervision, weather, wildfire smoke, heat, ice and daylight before you go."
+        },
+        {
+          "type": "paragraph",
+          "text": "For professional help, check the person's credential and scope. A CSEP Certified Personal Trainer or Clinical Exercise Physiologist can support exercise planning within their scope. A physiotherapist can assess pain, injury and movement limitations. Provincial and territorial rules, coverage and referral requirements vary."
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your first program should be safe, balanced and repeatable. Start below your maximum, practise the movements, use the talk test, and change one variable at a time. Consistency is built by returning, including after an ordinary messy week."
+        },
+        {
+          "type": "spotlight",
+          "text": "Attach movement to something that already happens. Walk after lunch, perform the circuit before a shower, or do balance practice while the kettle works. The existing event becomes the reminder. The kettle is remarkably punctual for an unpaid coach."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Test What Stuck",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "True or false: you must reach 150 weekly minutes before activity benefits your health.",
+              "detail": "False. The guideline is a target to work toward. Any movement is a useful start, and gradual increases matter.",
+              "text": ""
+            },
+            {
+              "title": "What does the talk test suggest about moderate-intensity activity?",
+              "detail": "You breathe harder but can still speak in sentences; singing is difficult.",
+              "text": ""
+            },
+            {
+              "title": "Name the four jobs of a balanced beginner plan.",
+              "detail": "Cardio, strength, mobility or balance, and recovery. Daily light movement and less sitting support the full-day approach.",
+              "text": ""
+            },
+            {
+              "title": "When should you progress an exercise?",
+              "detail": "After the current version feels controlled and recovery is reasonable, ideally across more than one session.",
+              "text": ""
+            },
+            {
+              "title": "Which is the better first progression: adding time, speed, hills and another day all together, or changing one feature?",
+              "detail": "Change one feature. It makes your response easier to judge.",
+              "text": ""
+            },
+            {
+              "title": "What should you do if the same sharp pain returns during an exercise?",
+              "detail": "Stop that movement. Do not push through sharp or worsening pain. Seek qualified assessment when needed.",
+              "text": ""
+            },
+            {
+              "title": "Why can a ten-minute floor session help consistency?",
+              "detail": "It keeps the appointment small enough to begin during a difficult week.",
+              "text": ""
+            },
+            {
+              "title": "Name one suitable progress signal.",
+              "detail": "Examples include sessions completed, walking minutes, a movement done with better control, or a usual route feeling easier.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Build Your Seven-Day Starter Plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose a week you can actually live. A sample week is two non-consecutive strength days, two or three easy-to-moderate cardio days, brief mobility or balance practice, and lighter movement on the other days. Shape it around work, caregiving, health, culture, weather and access."
+        },
+        {
+          "type": "paragraph",
+          "text": "Book two short sessions in the next seven days, and complete the safety screen first. After each session, record whether it happened, how it felt, and one adjustment for next time."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Complete CSEP's Get Active Questionnaire before starting, and skip any medical details or symptoms in this form. Just the plan."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Aerobic activity",
+              "text": "Continuous movement that raises breathing and heart rate, such as brisk walking or cycling."
+            },
+            {
+              "title": "Balance",
+              "text": "The ability to stay steady while still or moving."
+            },
+            {
+              "title": "Intensity",
+              "text": "How hard an activity feels or how much it changes breathing and heart rate."
+            },
+            {
+              "title": "Mobility",
+              "text": "Comfortable, controlled movement available at a joint."
+            },
+            {
+              "title": "Progression",
+              "text": "A planned, gradual increase in challenge."
+            },
+            {
+              "title": "Recovery",
+              "text": "Time and habits that allow the body to respond to training."
+            },
+            {
+              "title": "Resistance training",
+              "text": "Activity in which muscles work against a load, including body weight, bands, machines or weights."
+            },
+            {
+              "title": "Sedentary behaviour",
+              "text": "Waking activity done sitting, reclining, or lying with very low energy use."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “If I cannot do a full hour, the workout does not count.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My two possible strength days are:",
+      "My easiest cardio option is:",
+      "My ten-minute floor session is:",
+      "My support, location, or equipment is:",
+      "The sign that I should reduce the dose is:",
+      "The one signal I will track for two weeks is:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information, not personal medical care."
+  },
+  "sources": []
+}

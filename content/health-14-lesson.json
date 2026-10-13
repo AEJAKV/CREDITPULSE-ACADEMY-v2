@@ -1,0 +1,435 @@
+{
+  "title": "Resistance-Band Training",
+  "summary": "Choose → Inspect → Anchor → Progress",
+  "subtitle": "Turn a simple band into a safe, adjustable, full-body training tool",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This course provides general education, not diagnosis, treatment, or rehabilitation. Complete CSEP's Get Active Questionnaire before a major increase in activity and follow its directions. Seek qualified advice for a recent injury or surgery, joint instability, unexplained pain, weakness or numbness, a health condition that affects exercise, or uncertainty about safe setup. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, sudden neurological symptoms, or a serious fall."
+        },
+        {
+          "type": "paragraph",
+          "text": "Every exercise passes four checks: band condition, anchor, body position, and resistance path. A band is wonderfully portable. Unfortunately, so is a bad setup."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "How loop bands, tube bands, and flat bands differ.",
+              "text": ""
+            },
+            {
+              "title": "How to inspect and anchor a band safely.",
+              "text": ""
+            },
+            {
+              "title": "How band tension changes through a movement.",
+              "text": ""
+            },
+            {
+              "title": "How to build and progress a balanced full-body session.",
+              "text": ""
+            },
+            {
+              "title": "How to adapt training at home, while travelling, or in a seated position.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "choose",
+      "title": "Choose the Band for the Job",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Flat therapy-style bands are easy to grip or tie and often suit gentle resistance. Tube bands may have handles and can work well for rows, presses, and arm exercises. Small loop bands commonly fit around the thighs or lower legs. Long closed-loop bands can assist or resist larger movements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Colour does not provide one universal resistance scale. One company's red band may differ from another company's red band. Read the maker's label and test the band rather than trusting colour alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Choose resistance that lets you control the full intended path. The last repetitions may feel challenging, but position and breathing should remain steady."
+        },
+        {
+          "type": "spotlight",
+          "text": "Band type, length, thickness, and stretch all affect resistance."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The same colour always means the same resistance.”",
+              "text": "Colour systems vary by manufacturer and product line. Treat the label and your controlled effort as the useful information."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Select one training purpose"
+        },
+        {
+          "type": "paragraph",
+          "text": "Finish this sentence: “I will use a resistance band to practise ___.”"
+        }
+      ]
+    },
+    {
+      "id": "inspect",
+      "title": "Inspect Before You Stretch",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Before each session, look and feel along the entire band. Check for cracks, cuts, thinning, sticky areas, fraying, damaged handles, weak seams, or a distorted anchor. Follow the manufacturer's care and replacement instructions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep bands away from sharp edges, rough surfaces, direct heat, and anything that can cut or pinch them. Remove jewellery or objects that may damage the material. Do not repair a damaged exercise band with tape and optimism."
+        },
+        {
+          "type": "paragraph",
+          "text": "Store bands clean, dry, and away from extreme temperatures and direct sunlight when the manufacturer recommends it. Retire questionable equipment."
+        },
+        {
+          "type": "spotlight",
+          "text": "Ten seconds spent checking the band protects the rest of the session."
+        }
+      ]
+    },
+    {
+      "id": "anchor",
+      "title": "Build an Anchor You Can Trust",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use an anchor designed for the band and follow its instructions. A door anchor must suit the door and direction of pull. Close and secure the door, position the anchor as directed, and keep other people from opening it."
+        },
+        {
+          "type": "paragraph",
+          "text": "For foot anchoring, place enough band under a stable foot and use footwear when appropriate. For a fixed post, confirm that the structure is solid, smooth, and permitted for exercise. Never attach a band to furniture, rails, handles, or fixtures that may move, break, or damage the band."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stand out of the band's recoil path. Keep the band away from the face unless the exercise, equipment, and coaching specifically support that setup."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Any heavy object can anchor a resistance band.”",
+              "text": "Weight alone does not guarantee stability. The object, attachment point, surface, direction of pull, and band condition all matter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "path",
+      "title": "Understand the Resistance Path",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A band usually provides more resistance as it stretches. That means an exercise may feel easier at one point and harder at another. Body position and distance from the anchor also change the challenge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Begin with slight tension only when the exercise requires it. Move through a range you can control without snapping, bouncing, twisting, or letting the band pull you back. Return slowly. The return is part of the repetition, not the band's private taxi service."
+        },
+        {
+          "type": "paragraph",
+          "text": "Align the pull with the intended movement. For a row, the band should support a controlled pull toward the trunk. For a press, position the anchor so the band does not rub the arms or pull the body off balance."
+        },
+        {
+          "type": "spotlight",
+          "text": "A smooth return maintains muscle work and reduces sudden recoil."
+        }
+      ]
+    },
+    {
+      "id": "patterns",
+      "title": "Cover the Main Movement Patterns",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A simple full-body session can include a knee-dominant movement, a hip-dominant movement, a push, a pull, and a carry or trunk-control exercise. Not every movement needs a band. The tool should improve the setup, not force itself into every scene."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples include a band-supported chair squat, hip hinge or pull-through with a suitable anchor, standing or seated row, chest press with a safe setup, overhead press when appropriate, and a standing anti-rotation press."
+        },
+        {
+          "type": "paragraph",
+          "text": "Start with a few exercises. Perform controlled repetitions, rest as needed, and stop before form breaks down. Adults are encouraged to include muscle-strengthening activity as part of an active week, but the exact plan should fit the person."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Bands are only for rehabilitation or beginners.”",
+              "text": "Bands can provide light or substantial resistance. Their usefulness depends on exercise choice, setup, range, tension, and the learner's needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Leila Packs a Workout That Fits",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Leila",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Leila, 52, travelled between Winnipeg and northern Manitoba for work. Hotel fitness rooms were unpredictable. One had two treadmills and a decorative plant that appeared to be the senior trainer.",
+            "She carried a tube band with handles, a small loop band, and the manufacturer's door anchor. Before each session, she inspected them and checked the door setup. Her routine used a chair squat, seated row, standing press, supported hip movement, and anti-rotation press.",
+            "Leila recorded the band, anchor position, distance, and repetitions. When a movement became comfortable, she first added a repetition. Later, she stepped slightly farther from the anchor or used the next suitable band. She changed only one feature at a time.",
+            "After seven weeks, Leila had completed twelve short sessions across three work trips. She returned home stronger and without needing to negotiate with the plant."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "What Leila did well"
+        },
+        {
+          "type": "paragraph",
+          "text": "She used manufacturer-approved equipment, repeated a balanced routine, recorded setup details, and progressed gradually."
+        },
+        {
+          "type": "spotlight",
+          "text": "Note the band, anchor height, distance, stance, and repetitions so the session can be repeated."
+        }
+      ]
+    },
+    {
+      "id": "progressband",
+      "title": "Progress Without Turning the Band Into a Slingshot",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Progress by adding a controlled repetition, using a slightly stronger band, increasing stretch modestly, changing stance, increasing range, slowing the return, or adding a set. Select one change."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not combine bands unless the manufacturer permits it and the attachment is designed for that use. Do not stretch a band beyond its stated limit. More distance can sharply increase resistance and place greater force on the anchor."
+        },
+        {
+          "type": "paragraph",
+          "text": "A harder band is not always the best progression. Better control, a fuller suitable range, or a more stable stance may be enough."
+        }
+      ]
+    },
+    {
+      "id": "adapt",
+      "title": "Adapt the Workout and Read the Response",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Seated rows, presses, arm work, and some trunk exercises may suit learners who prefer or need seated options. Wall support, a stable chair, a shorter range, or a lighter band can reduce balance demands. Adapted exercise guidance can help match the setup to disability, pain, arthritis, or recovery needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop for sharp or worsening pain, numbness, weakness, dizziness, unusual shortness of breath, joint instability, or loss of balance. Stop immediately if the band, handle, or anchor shifts or shows damage. Seek assessment when symptoms persist or affect daily function."
+        },
+        {
+          "type": "paragraph",
+          "text": "This section is humour-free because equipment failure, falls, and significant symptoms require direct decisions."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A band workout is automatically safer than weights.”",
+              "text": "Bands remove some barriers, but poor anchoring, damaged equipment, excessive tension, loss of balance, and unsuitable exercise choices still create risk."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Stop when stance, anchor, range, breathing, or band path no longer stays controlled."
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "title": "Access Across Canada",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Resistance-band instruction may be available through CSEP-qualified exercise professionals, physiotherapists, kinesiologists, recreation centres, community health programs, Indigenous health organizations, campuses, arthritis programs, and adapted exercise services. Coverage, referrals, professional regulation, eligibility, equipment rules, and wait times vary by province and territory."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask a qualified professional to check the anchor, band path, and body position when learning an unfamiliar exercise. Bring the actual band and instructions when possible."
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Resistance bands work best when the equipment, anchor, resistance path, and body position are controlled. Inspect first, use a balanced routine, record the setup, and progress one feature at a time."
+        },
+        {
+          "type": "spotlight",
+          "text": "Place a small piece of removable tape on the floor to mark your usual stance. It saves time and prevents every workout from becoming a fresh geometry exam."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Test What Stuck",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Why is band colour unreliable across products?",
+              "detail": "Manufacturers and product lines use different colour systems and materials.",
+              "text": ""
+            },
+            {
+              "title": "Name three signs that a band should be retired.",
+              "detail": "Cracks, cuts, thinning, sticky areas, fraying, damaged handles, weak seams, or distortion.",
+              "text": ""
+            },
+            {
+              "title": "What makes an anchor suitable?",
+              "detail": "It is designed or approved for the band, structurally stable, correctly positioned, and secure in the direction of pull.",
+              "text": ""
+            },
+            {
+              "title": "How does band resistance usually change as the band stretches?",
+              "detail": "Resistance usually increases as the band stretches.",
+              "text": ""
+            },
+            {
+              "title": "Name four movement patterns for a full-body session.",
+              "detail": "Knee-dominant, hip-dominant, push, pull, and carry or trunk-control patterns.",
+              "text": ""
+            },
+            {
+              "title": "What setup details did Leila record?",
+              "detail": "Band, anchor position, distance, stance, and repetitions.",
+              "text": ""
+            },
+            {
+              "title": "Give three safe ways to progress.",
+              "detail": "Add a repetition, use a suitable stronger band, increase stretch modestly, slow the return, add a set, or improve range and control.",
+              "text": ""
+            },
+            {
+              "title": "Why is a band workout not automatically safe?",
+              "detail": "Damaged bands, weak anchors, recoil, excessive tension, poor balance, and unsuitable movements can still cause harm.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Build Your Band Setup Card",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete the relevant safety screen. Inspect one band, identify its manufacturer guidance, and practise one lower-body movement, one push, and one pull with a secure setup. Record the band and anchor details."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Skip any medical details or symptoms in this form. Just the plan."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Anchor",
+              "text": "The secure point or device that holds a band during an exercise."
+            },
+            {
+              "title": "Loop band",
+              "text": "A continuous circle of elastic resistance material."
+            },
+            {
+              "title": "Recoil path",
+              "text": "The direction a stretched band may travel if released or broken."
+            },
+            {
+              "title": "Resistance path",
+              "text": "The direction and changing force created by the band during movement."
+            },
+            {
+              "title": "Tube band",
+              "text": "Elastic tubing, sometimes fitted with handles or attachments."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “The same colour always means the same resistance.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My band type and maker are:",
+      "My inspection date is:",
+      "My approved anchor is:",
+      "My lower-body exercise is:",
+      "My push exercise is:",
+      "My pull exercise is:",
+      "My first progression will be:",
+      "A sign that means stop is:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information, not personal medical care."
+  },
+  "sources": []
+}

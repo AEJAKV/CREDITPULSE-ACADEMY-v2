@@ -1,0 +1,482 @@
+{
+  "title": "Snowball Versus Avalanche Debt Repayment",
+  "summary": "Run the same debts through both strategies, price the trade-off and choose the route most likely to finish.",
+  "subtitle": "Two Strategies Enter the Tournament. The Trophy Is an Organized Monthly Transfer, Which Marketing Rejected.",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Snowball and avalanche are repayment orders, not different loans."
+        },
+        {
+          "type": "paragraph",
+          "text": "Both begin by keeping required payments current on every debt. The difference is where the planned extra money goes: snowball targets the smallest balance, while avalanche targets the highest interest rate."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this Repayment Tournament, you will run the same debts through both strategies. Compare interest, timing and visible wins, then pick the route least likely to fail in your household. A mathematically elegant plan that gets abandoned is mostly elegant stationery."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Paying back your debt",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/debt/paying-debt.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "Both strategies keep required payments going on every debt and put the extra on one target. The tournament changes the target order, not the payment floor."
+        },
+        {
+          "type": "heading",
+          "text": "Meet the Two Contenders"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "LAYER 1 — SNOWBALL — SMALLEST BALANCE FIRST",
+              "text": "List debts from the smallest balance to the largest. Pay the required amount on every account and send the extra to the smallest. When it is paid off, roll its old payment into the next target. The early win can boost your motivation."
+            },
+            {
+              "title": "LAYER 2 — AVALANCHE — HIGHEST RATE FIRST",
+              "text": "List debts from the highest interest rate to the lowest. Pay the required amount on every account and send the extra to the highest rate. Roll the paid-off payment forward. This method usually cuts interest and can shorten repayment."
+            },
+            {
+              "title": "LAYER 3 — ENTRY RULE",
+              "text": "Deal with urgent past-due, essential, secured, collection or legal risks before you run the tournament. Course 2.8’s triage order still applies."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Avalanche is the correct strategy for everyone because mathematics has spoken.”",
+              "text": "Avalanche usually costs the least interest when followed as modelled. But a plan also has to survive real habits, uneven months and low motivation. Choose with the cost difference and failure risk in plain view, not by slogan."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Run your own debts through both routes, and the cheaper one still has to survive real life.",
+          "detail": "Two strategies are about to run the same numbers, and the real winner is whichever one you finish to the end.",
+          "extra": "Devon's four-debt bracket kicks off the tournament next."
+        }
+      ]
+    },
+    {
+      "id": "bracket",
+      "title": "The Tournament Bracket: One Debt List, Two Routes",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "RETAIL CARD",
+              "text": "$900 at 29.99% — Model payment: $35 — Smallest balance and highest rate"
+            },
+            {
+              "title": "FAMILY LOAN",
+              "text": "$1,500 at 0% — Agreed payment: $50 — Second-smallest balance and lowest rate"
+            },
+            {
+              "title": "CREDIT CARD",
+              "text": "$3,400 at 24.99% — Model payment: $105 — Second-highest rate"
+            },
+            {
+              "title": "LINE OF CREDIT",
+              "text": "$8,000 at 11.50% — Model payment: $120 — Largest balance"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Model Rules: Make the Comparison Fair"
+        },
+        {
+          "type": "paragraph",
+          "text": "The training model uses a fixed $560 monthly debt budget: $310 of modelled required payments plus $250 extra. Interest is added monthly at the yearly rate ÷ 12. Payments land at month-end, rates and model payments stay fixed, and final payments are capped. There are no new charges, fees, missed payments or penalties. Real statements and agreements will differ."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Snowball order",
+              "text": "$900 retail card → $1,500 family loan → $3,400 credit card → $8,000 line of credit"
+            },
+            {
+              "title": "Avalanche order",
+              "text": "29.99% retail card → 24.99% credit card → 11.50% line of credit → 0% family loan"
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Snowball and avalanche always choose different first debts.”",
+              "text": "Not necessarily. Devon’s $900 retail card is both the smallest balance and the highest rate, so both strategies target it first and clear it in model month four."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "When one debt is both smallest and highest-rate, the first round is a tie. The real strategy difference begins with the next target."
+        },
+        {
+          "type": "story",
+          "text": "Meet Devon",
+          "detail": "DEVON ENTERS THE REPAYMENT TOURNAMENT",
+          "extra": "",
+          "paragraphs": [
+            "Devon lives in Charlottetown and has four debts plus $250 a month beyond required payments. The goal is to finish them all, and this time to see it through. A past plan said only “pay more,” then disappeared after six weeks like a houseplant left with an optimist. Devon wants a written order, a roll-forward rule and a scoreboard.",
+            "The first round is easy. Both strategies go after the $900 retail card first, because it is the smallest balance and the highest rate. Then the plan forks. Snowball points to the 0% family loan. Avalanche points to the 24.99% credit card.",
+            "One route offers a faster second celebration. The other stops the more expensive interest meter. Devon remembers why the last plan died: progress felt invisible. The family loan is current and its $50 payment continues either way, so urgency can’t break the tie. The choice has to be honest about habits.",
+            "Devon runs the numbers on both routes. Snowball costs about $293 more in interest and finishes one month later. In return, the second debt clears five months earlier. That turns a vague feeling into a price tag: interest savings on one side, the risk of quitting a slow-looking plan on the other.",
+            "Devon chooses snowball and writes down the $293 as a motivation premium. The retail card clears in model month four and the family loan in month eight. Its old $50 payment rolls forward automatically. Devon will review after the second win, and any switch to avalanche must be calculated and written down, not improvised between coffee and a notification. This plan, unlike the houseplant, comes with a watering schedule."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Devon priced the trade-off in dollars before picking a side, and the number was $293.",
+          "detail": "Naming the exact cost of choosing motivation over interest savings is what turns a guess into a decision.",
+          "extra": "The full scoreboard for both routes is up next."
+        }
+      ]
+    },
+    {
+      "id": "results",
+      "title": "Tournament Results: What Each Strategy Wins",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "These rounded results hold only under the stated training assumptions. They show the trade-off. They don’t predict your exact statements."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "SNOWBALL SCOREBOARD",
+              "text": "Retail card clears in month 4; family loan in month 8; credit card in month 16; line of credit in month 30. — Modelled interest: about $2,490 — Modelled finish: 30 months"
+            },
+            {
+              "title": "AVALANCHE SCOREBOARD",
+              "text": "Retail card clears in month 4; credit card in month 13; line of credit and family loan in month 29. — Modelled interest: about $2,197 — Modelled finish: 29 months"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "THE TRADE-OFF"
+        },
+        {
+          "type": "paragraph",
+          "text": "Avalanche saves about $293 in modelled interest and finishes about one month earlier."
+        },
+        {
+          "type": "paragraph",
+          "text": "Snowball delivers the second cleared balance in month 8, five months before avalanche’s second win in month 13."
+        },
+        {
+          "type": "heading",
+          "text": "Read the Scoreboard Without Declaring a Universal Champion"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Avalanche wins the cost category.",
+              "text": "The model pays off the higher-rate debt sooner, which lowers total interest."
+            },
+            {
+              "title": "Snowball wins the early-win category.",
+              "text": "The 0% family loan is paid off earlier, so you have fewer open balances sooner."
+            },
+            {
+              "title": "Completion wins the real household category.",
+              "text": "The plan you pick needs automatic payments, progress signals and a rule for tough months."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Snowball always gets a person debt-free faster because balances disappear sooner.”",
+              "text": "Snowball may pay off accounts earlier, but it can cost more and may finish later. In Devon’s model it finishes one month later. Don’t confuse an early visible win with the final debt-free date."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Think of snowball’s extra cost as a motivation premium. Name that premium in dollars before you decide whether the earlier wins are worth it."
+        }
+      ]
+    },
+    {
+      "id": "choose",
+      "title": "Choose by Failure Risk",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "CHOOSE AVALANCHE WHEN",
+              "text": "Interest savings matter most, and you can track progress without closing accounts. Your household is likely to follow a highest-rate order every month."
+            },
+            {
+              "title": "CHOOSE SNOWBALL WHEN",
+              "text": "Early payoffs clearly help you stick with the plan, and you understand the extra projected cost. Smaller wins keep the plan from being dropped."
+            },
+            {
+              "title": "USE A DOCUMENTED SWITCH WHEN",
+              "text": "The original strategy isn’t surviving real life, or a rate, balance, status or household condition has changed. Recalculate first. Don’t switch because a different statement looked dramatic that morning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "roll-forward",
+      "title": "Install the Roll-Forward Rule",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The Roll-Forward Engine"
+        },
+        {
+          "type": "paragraph",
+          "text": "When a target clears, keep the total monthly debt budget at $560 in the model."
+        },
+        {
+          "type": "paragraph",
+          "text": "The paid-off debt’s old payment joins the $250 extra and moves to the next target. If the freed payment quietly drifts back into spending, the tournament hasn’t rolled forward. It has wandered into the concession stand."
+        },
+        {
+          "type": "spotlight",
+          "text": "The strategy sets the order, and roll-forward speeds things up. Write down the next target before the current balance reaches zero."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Switching strategies means the repayment plan failed.”",
+              "text": "A planned switch based on fresh numbers can make a plan stronger. Switching again and again without notes weakens focus. Record the reason, new order, projected trade-off and review date."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Province Lens: The Methods Do Not Change at the Border"
+        },
+        {
+          "type": "paragraph",
+          "text": "Snowball and avalanche are household repayment strategies, not legal rights. The basic methods are the same in Alberta, British Columbia, New Brunswick, Ontario, Prince Edward Island, and Newfoundland and Labrador. Contracts, collection rules and formal debt remedies may differ, so check those separately."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Which Route or Rule?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Smallest balance is also highest rate.",
+              "detail": "Both methods begin with the same target.",
+              "text": ""
+            },
+            {
+              "title": "Lowest projected interest is the priority.",
+              "detail": "Test avalanche.",
+              "text": ""
+            },
+            {
+              "title": "Early payoffs keep you from quitting.",
+              "detail": "Price and test snowball.",
+              "text": ""
+            },
+            {
+              "title": "Target clears.",
+              "detail": "Roll its old payment into the next target.",
+              "text": ""
+            },
+            {
+              "title": "Plan is repeatedly ignored.",
+              "detail": "Find the failure risk and recalculate before switching.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Before You Run Your Own Repayment Tournament"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A repayment forecast guarantees the exact interest and payoff month.”",
+              "text": "A forecast is a planning model. Variable rates, daily interest, changing minimums, fees, new purchases and payment dates can all change the result. Compare the plan with your real statements every month."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Use identical assumptions for both routes: the same balances, rates, required payments, extra amount, timing and new-charge rule. Otherwise you are comparing two different games."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Paying off your credit card",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/pay-off-credit-card.html"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Repayment Tournament Card",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use shortened creditor names and current statements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not record full account numbers, passwords, card details, PINs, security answers or government ID numbers in course notes."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "heading",
+          "text": "Repayment Tournament Closing Checklist"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "The entry list is current.",
+              "text": "Balances, rates, required payments, dates and account status come from current records."
+            },
+            {
+              "title": "Both routes use identical assumptions.",
+              "text": "Payment budget, timing, rate treatment and new-charge rule stay the same."
+            },
+            {
+              "title": "The trade-off is priced.",
+              "text": "Interest difference, payoff date and timing of visible wins are written down."
+            },
+            {
+              "title": "Failure risk is addressed.",
+              "text": "The plan includes automatic payments, progress signals and a tough-month rule."
+            },
+            {
+              "title": "Roll-forward is scheduled.",
+              "text": "The old payment and next target are named before the current target is paid off."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Snowball goes for early wins. Avalanche goes for the lowest interest.",
+          "detail": "Keep every required payment current, compare both routes under identical assumptions, choose by failure risk and roll each paid-off payment into the next target."
+        },
+        {
+          "type": "spotlight",
+          "text": "Don’t pick the strategy that wins an argument online. Pick the one whose trade-off you understand, whose payments are protected and whose roll-forward rule reaches the final balance."
+        },
+        {
+          "type": "paragraph",
+          "text": "SOURCE REVIEW DATE: 11 August 2026. Recheck rates, balances, agreements and official guidance before publication or use."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Debt snowball",
+              "text": "A plan that sends extra money to the smallest balance while you keep making required payments on the other debts."
+            },
+            {
+              "title": "Debt avalanche",
+              "text": "A plan that sends extra money to the highest interest rate while you keep making required payments on the other debts."
+            },
+            {
+              "title": "Target debt",
+              "text": "The one balance that gets the planned extra payment."
+            },
+            {
+              "title": "Required payment",
+              "text": "The minimum, scheduled or agreed amount you must pay under the account or plan."
+            },
+            {
+              "title": "Roll forward",
+              "text": "Moving a paid-off debt’s old payment to the next target while keeping the total debt budget the same."
+            },
+            {
+              "title": "Interest efficiency",
+              "text": "Paying down higher-rate debt sooner to cut the projected cost of borrowing."
+            },
+            {
+              "title": "Visible win",
+              "text": "A clear sign of progress, such as paying off one balance."
+            },
+            {
+              "title": "Failure risk",
+              "text": "The chance that a repayment plan gets dropped, keeps changing or becomes unaffordable."
+            },
+            {
+              "title": "Motivation premium",
+              "text": "The extra projected cost you accept for earlier wins when snowball costs more than avalanche."
+            },
+            {
+              "title": "Repayment forecast",
+              "text": "A planning estimate based on stated assumptions, not a promise of exact statement results."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Avalanche is the correct strategy for everyone because mathematics has spoken.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "ENTRY LIST — Record each balance, current annual rate, required payment, due date and status. Are all urgent risks under control?",
+      "PAYMENT BUDGET — Add required payments and the reliable extra amount. What total monthly debt budget will remain fixed?",
+      "SNOWBALL BRACKET — Order debts from smallest to largest balance. Record the first target and projected first two wins.",
+      "AVALANCHE BRACKET — Order debts from highest to lowest rate. Record the first target and projected first two wins.",
+      "COST GAP — Using identical assumptions, record each route’s projected interest and finish date. What is the difference?",
+      "FAILURE-RISK CHECK — Which risk is larger: paying extra interest or abandoning a slow-looking plan? Give evidence from past behaviour.",
+      "ROLL-FORWARD RULE — When the first target clears, what exact former payment moves to which next target and on what date?",
+      "VERDICT — Choose snowball, avalanche or a documented staged switch. State the trade-off, automation step, success measure and review date."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+  },
+  "sources": []
+}

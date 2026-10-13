@@ -1,0 +1,321 @@
+{
+  "title": "Student Grants",
+  "summary": "Estimate → Apply → Verify → Budget → Renew",
+  "subtitle": "Build the school-year funding stack before accepting the loan balance",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tuition is one number. School somehow adds books, transit, groceries and a laptop charger that disappears precisely during midterms."
+        },
+        {
+          "type": "paragraph",
+          "text": "Canada Student Grants are non-repayable student aid assessed through the province or territory of permanent residence. One application commonly assesses both grants and loans, including federal and provincial support. The award depends on financial need, study load, program and school eligibility, family income and circumstances such as dependants or disability."
+        },
+        {
+          "type": "spotlight",
+          "text": "For the 2026–27 school year, the Canada Student Grant for Full-Time Students provides up to $4,200 annually, or $525 for each month of study. “Up to” depends on assessed need and income."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Identify the correct jurisdictional application.",
+              "text": ""
+            },
+            {
+              "title": "Separate grants, loans, scholarships and bursaries.",
+              "text": ""
+            },
+            {
+              "title": "Capture dependant and disability supports.",
+              "text": ""
+            },
+            {
+              "title": "Track enrolment and reassessment duties.",
+              "text": ""
+            },
+            {
+              "title": "Complete a School-Year Funding Stack and Gap Plan.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I apply to the federal government separately for each Canada Student Grant.”",
+              "text": "Most students submit one provincial or territorial student-aid application and are assessed for relevant federal and local aid. The grants prefer a coordinated entrance."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: Student grants and loans",
+          "url": "https://www.canada.ca/en/services/benefits/education/student-aid.html"
+        }
+      ]
+    },
+    {
+      "id": "stack",
+      "title": "Give Every Dollar the Correct Label",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Four kinds of money can land in the same account. Only one of them expects to be repaid on its own terms."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "GRANT",
+              "text": "Normally does not require repayment when eligibility and enrolment conditions are met. An overaward or changed status can still create repayment."
+            },
+            {
+              "title": "LOAN",
+              "text": "Borrowed student aid that must be repaid. Federal Canada Student Loans are interest-free, but repayment duties and provincial portions must still be managed."
+            },
+            {
+              "title": "SCHOLARSHIP OR BURSARY",
+              "text": "School, community, employer or private funding with its own merit, need, reporting and renewal rules."
+            },
+            {
+              "title": "WORK AND SAVINGS",
+              "text": "Employment, RESP withdrawals, family contributions and savings may affect the budget and sometimes the assessment. Declare what the application requests."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "For 2026–27, the part-time student grant is up to $2,520 annually and cannot exceed assessed need. Part-time status uses student-aid definitions, not simply the learner’s opinion of a busy Tuesday."
+        },
+        {
+          "type": "spotlight",
+          "text": "Northwest Territories, Nunavut and Quebec operate their own student-aid systems rather than Canada Student Grants and Loans. Apply through the correct jurisdiction."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A grant can never be converted into money owing.”",
+              "text": "A withdrawal, course-load change, unconfirmed enrolment or reassessment can turn part of an award into a loan or overpayment. Non-repayable assumes the file remains accurate."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: Apply through your province",
+          "url": "https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans.html"
+        }
+      ]
+    },
+    {
+      "id": "circumstances",
+      "title": "One Application Can Contain Several Grant Questions",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Students with dependants, disabilities or part-time study may qualify for additional support. Use the application section and required documentation rather than assuming the standard grant automatically includes every circumstance."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "PER-DEPENDANT SUPPORT",
+              "text": "Eligible full-time students may receive up to $2,240 per dependant annually, in addition to the full-time grant."
+            },
+            {
+              "title": "STUDENTS WITH DISABILITIES",
+              "text": "The Canada Student Grant for Students with Disabilities is $2,800 annually. A separate services-and-equipment grant may reimburse approved education-related costs up to its program limit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "After assessment, compare total approved aid with the real study-period budget. Funding may arrive in instalments after enrolment confirmation. A grant amount should not be spent twice because both the provincial portal and NSLSC display it in different places."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The assessment amount is guaranteed until graduation.”",
+              "text": "Aid is reassessed by school year and can change with income, program, course load, family status or policy. Reapply and update the file every year."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Key takeaway: Apply early through the correct province or territory, disclose every relevant circumstance, separate grants from loans and compare the confirmed award with the full school-year budget before borrowing more."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Mina and the Grant That Appeared Twice",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Mina",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Mina Tran began nursing school in Winnipeg. Her provincial assessment showed a federal grant and loan; NSLSC displayed the funding too. Mina briefly believed the grant had duplicated itself out of academic enthusiasm.",
+            "The conflict emerged in her budget. The two screens described the same award, while tuition would be sent directly to the school before the remaining funds reached her. Her eight-month living budget had treated every displayed number as fresh money.",
+            "Mina matched the award notice, school account and bank deposit. She added the disability grant documentation her application required, listed the laptop support separately and created monthly amounts for rent, food, transit and placements.",
+            "Her funding did not shrink; her double-counting did. Mina finished with one grant, one loan and one budget that knew the difference."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Reconcile aid in three places: the assessment notice, the school account and the bank deposit. Timing and tuition deductions can make one award look like several unrelated transactions."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "One award can appear on two screens without doubling in value. Reconcile the notice, school account and deposit before budgeting a single dollar twice."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Why is one student-aid application often enough?",
+              "detail": "Most students submit one provincial or territorial student-aid application and are assessed for relevant federal and local aid within it.",
+              "text": ""
+            },
+            {
+              "title": "How does a grant differ from a loan?",
+              "detail": "A grant normally does not require repayment when eligibility and enrolment conditions are met; a loan is borrowed aid that must be repaid.",
+              "text": ""
+            },
+            {
+              "title": "Which jurisdictions use their own systems instead of Canada Student Grants and Loans?",
+              "detail": "Northwest Territories, Nunavut and Quebec operate their own student-aid systems.",
+              "text": ""
+            },
+            {
+              "title": "What changes can trigger reassessment or overpayment?",
+              "detail": "A withdrawal, course-load change, unconfirmed enrolment or reassessment can turn part of an award into a loan or overpayment.",
+              "text": ""
+            },
+            {
+              "title": "Why should portal totals be reconciled with the actual deposit and award notice?",
+              "detail": "Timing and tuition deductions can make one award look like several unrelated transactions across the provincial portal, NSLSC and bank deposit.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Complete Your School-Year Funding Stack and Gap Plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use rounded figures and document labels. Do not record student numbers, banking details or login credentials here."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Full-time student aid generally has a lifetime limit of 340 weeks, with different limits for doctoral students and students with disabilities. Track usage, not only today’s award."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Assessed need",
+              "text": "Recognized costs minus expected resources under aid rules."
+            },
+            {
+              "title": "Grant",
+              "text": "Student aid normally not repaid when conditions remain met."
+            },
+            {
+              "title": "Student loan",
+              "text": "Borrowed aid requiring repayment."
+            },
+            {
+              "title": "Study period",
+              "text": "Dates used to calculate costs and aid."
+            },
+            {
+              "title": "Enrolment confirmation",
+              "text": "School verification allowing funds or interest-free status."
+            },
+            {
+              "title": "Overaward",
+              "text": "Aid above revised eligibility and potentially repayable."
+            },
+            {
+              "title": "NSLSC",
+              "text": "National Student Loans Service Centre."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “I apply to the federal government separately for each Canada Student Grant.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My permanent-residence jurisdiction and application deadline are:",
+      "My school, program, dates and full- or part-time status are:",
+      "My federal and provincial grants total:",
+      "My dependant, disability, services or equipment applications are:",
+      "My loans, scholarships, bursaries, work and savings total:",
+      "My tuition, books, housing, food, transit and other costs total:",
+      "My confirmed funding gap and safe response are:",
+      "My enrolment, course-load, reassessment and next-year dates are:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

@@ -1,0 +1,431 @@
+{
+  "title": "Mobility",
+  "summary": "Define → Active → Strengthen → Retest",
+  "subtitle": "Build usable movement for daily tasks, exercise, and long-term function",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This course provides general education, not diagnosis, treatment, or rehabilitation. Complete CSEP's Get Active Questionnaire before a major increase in activity and follow its directions. Seek qualified advice for a recent injury or surgery, repeated falls, joint instability, unexplained pain, numbness or weakness, or a health condition that changes movement. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, sudden neurological symptoms, a serious fall, or a new inability to bear weight."
+        },
+        {
+          "type": "paragraph",
+          "text": "You will connect one useful task to four ingredients: available range, control, strength, and confidence. Mobility is movement you can use, not a contest to see whose hip can produce the most surprising geometry."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "How mobility differs from flexibility.",
+              "text": ""
+            },
+            {
+              "title": "How joints, muscles, nerves, control, and strength affect movement.",
+              "text": ""
+            },
+            {
+              "title": "How to choose a focused mobility exercise for a real task.",
+              "text": ""
+            },
+            {
+              "title": "How to place mobility work before, during, or after other activity.",
+              "text": ""
+            },
+            {
+              "title": "When limited movement or pain needs professional assessment.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "define",
+      "title": "Define Mobility by What It Lets You Do",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mobility is the ability to move a joint or body region through a usable range with control. It supports reaching, turning, squatting, walking, dressing, driving, working, and exercise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Flexibility is one part of mobility. A muscle may allow a large range, yet the body may lack strength or control there. Another person may have enough range for every important task without appearing especially flexible."
+        },
+        {
+          "type": "paragraph",
+          "text": "Start with a function. “Reach the top shelf without leaning” is more useful than “improve shoulder mobility.” “Walk downstairs comfortably” is more useful than “fix my ankles.” The task reveals which movement matters."
+        },
+        {
+          "type": "spotlight",
+          "text": "Record how the real movement feels before choosing an exercise. Mobility drills should serve the task, not collect in a folder like coupons you never use."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“More range of motion is always better.”",
+              "text": "Useful range depends on the person and task. Extra range without control or stability can be unnecessary or unhelpful."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Choose one movement problem"
+        },
+        {
+          "type": "paragraph",
+          "text": "Finish this sentence: “I want enough controlled movement to ___ more comfortably.”"
+        }
+      ]
+    },
+    {
+      "id": "link",
+      "title": "Find the Likely Movement Link",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A task usually involves several body regions. A squat may use the ankles, knees, hips, and trunk. Reaching overhead may involve the shoulder, shoulder blade, upper back, and rib cage. Turning to reverse a vehicle uses the neck, upper back, trunk, vision, and seat position."
+        },
+        {
+          "type": "paragraph",
+          "text": "Observe where the movement first changes. Does the heel lift? Does the back arch? Does one side move differently? Does the task feel blocked, weak, unsteady, or painful? Observation suggests where to begin, but it does not diagnose the cause."
+        },
+        {
+          "type": "paragraph",
+          "text": "Change the setup and retest. Raise the chair, reduce depth, move closer to the shelf, or use support. If the task improves, you have found a useful modification while capacity develops."
+        },
+        {
+          "type": "spotlight",
+          "text": "The first heel lift, shoulder shrug, twist, or loss of balance may reveal where the task exceeds current capacity."
+        }
+      ]
+    },
+    {
+      "id": "active",
+      "title": "Use Active Movement Before Forcing Range",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Active mobility uses your own muscles to move and control a joint. Examples include ankle rocks, controlled knee lifts, shoulder circles, upper-back rotations, and a slow sit-to-stand through a comfortable range."
+        },
+        {
+          "type": "paragraph",
+          "text": "Begin with a small, smooth range. Breathe normally. Repeat several controlled movements and notice whether the range becomes easier. A mild sense of effort or stretch may be acceptable. Sharp pain, catching, giving way, or neurological symptoms are not training targets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Active movement helps reveal whether the range is available under control. It also prepares the body for related activity. The exercise should look more like practice than a negotiation with a stubborn hinge."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Mobility work must feel intense to create change.”",
+              "text": "Gentle, repeated, task-related movement can improve comfort, coordination, and usable range without strong discomfort."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "edge",
+      "title": "Add Control at the Edge",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The edge of a usable range is the point where control begins to change. Instead of forcing farther, pause within a comfortable position and practise maintaining alignment and breathing."
+        },
+        {
+          "type": "paragraph",
+          "text": "For an ankle, this might be a supported forward knee movement while the heel stays down. For a shoulder, it might be lifting the arm only as high as the ribs and shoulder blade remain controlled. For the hip, it might be a slow step or supported split stance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use a support when balance is part of the challenge. Reduce the range if speed, breathing, or position changes. Control turns available motion into reliable mobility."
+        },
+        {
+          "type": "spotlight",
+          "text": "A smaller range you can control is more useful than a larger range borrowed from momentum."
+        }
+      ]
+    },
+    {
+      "id": "strengthen",
+      "title": "Strengthen the New Range",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mobility often improves when strength improves. If you can reach a position but cannot produce or absorb force there, the body may avoid it during real tasks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pair a mobility drill with a related strength movement. An ankle rock can pair with a supported calf raise or step. A controlled overhead reach can pair with a suitable press or pull. A hip movement can pair with a chair rise, bridge, hinge, or step."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use a manageable resistance and range. Progress one feature at a time. The goal is not to perform a mobility ritual and then forget the range exists. Give the body a job there."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Tightness always means a muscle needs stretching.”",
+              "text": "A tight feeling can relate to fatigue, weakness, unfamiliar activity, pain sensitivity, joint limits, nerve irritation, or protective tension. The correct response depends on the cause."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Noor Solves the Floor Problem",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Noor",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Noor, 38, lived in Edmonton and wanted to sit on the floor with her children and stand up without using the coffee table. She downloaded a long hip-mobility routine and completed it occasionally. The routine contained several positions with names that sounded like international airports. Her floor transfer did not change.",
+            "She tested the task. Lowering felt controlled, but rising required momentum and both hands. Her ankle and hip ranges were adequate for a higher surface, while leg strength and confidence were the larger limits.",
+            "Noor practised a supported half-kneeling transition beside a sturdy chair. She used a cushion to reduce the depth, added chair rises and supported split squats twice a week, and finished with gentle ankle and hip movements.",
+            "Every two weeks, she retested the floor transfer. She gradually used a lower cushion and less hand support. After eight weeks, she stood using one hand and a controlled step. Her hips had not become circus performers. They had become useful."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "What Noor did well"
+        },
+        {
+          "type": "paragraph",
+          "text": "She tested the real task, identified control and strength needs, used support, and progressed the task itself. She stopped assuming that more stretching was the only answer."
+        },
+        {
+          "type": "spotlight",
+          "text": "A mobility plan earns its place when reaching, turning, squatting, stepping, or another chosen movement improves."
+        }
+      ]
+    },
+    {
+      "id": "place",
+      "title": "Place Mobility Where It Helps",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Before exercise, use controlled movements that resemble the upcoming activity. Begin easy and gradually increase range or pace. Between long periods of sitting, brief movement breaks can restore comfort and variety."
+        },
+        {
+          "type": "paragraph",
+          "text": "After activity, use gentle movement if it feels helpful. Longer stretching can be separate when flexibility is the actual goal. Mobility does not require a thirty-minute ceremony before every walk."
+        },
+        {
+          "type": "paragraph",
+          "text": "A focused routine may use two or three movements for the chosen task. Practise often enough to learn them, then retest. If nothing changes, reassess the exercise, dose, or original assumption."
+        }
+      ]
+    },
+    {
+      "id": "response",
+      "title": "Read the Response and Change One Feature",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Repeat the same small routine until it feels familiar. Then add a little range, control time, resistance, repetitions, or task difficulty. Change one feature and observe the response later that day and the next morning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop and seek assessment for sudden loss of movement, a locked joint after injury, marked swelling, new inability to bear weight, progressive weakness, numbness, or pain that is severe or worsening. This paragraph is humour-free because these signs require clear care decisions."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A joint must move symmetrically on both sides.”",
+              "text": "Some differences are normal because of structure, history, handedness, sport, work, or surgery. The important questions are function, control, symptoms, and relevant professional guidance."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Two focused movements practised regularly can outperform twelve random drills visited once during a burst of optimism."
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "title": "Access Across Canada",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mobility support may be available through physiotherapy, occupational therapy, community health centres, rehabilitation programs, recreation centres, Indigenous health organizations, campuses, and adapted exercise services. Coverage, referrals, regulation, eligibility, and wait times vary by province and territory."
+        },
+        {
+          "type": "paragraph",
+          "text": "CSEP professionals can provide exercise guidance within their scope. Physiotherapists assess and treat movement problems. Occupational therapists help people adapt tasks and environments for daily function."
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mobility is usable, controlled movement. Start with a meaningful task, identify the likely movement link, practise active range, strengthen it, and retest the task before adding more drills."
+        },
+        {
+          "type": "spotlight",
+          "text": "Film one ordinary repetition from a safe angle if privacy and setup allow. Ten seconds can reveal a heel lift or shoulder shrug that your internal camera crew declined to report."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Test What Stuck",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "How does mobility differ from flexibility?",
+              "detail": "Mobility is usable movement with control; flexibility describes available range or tissue tolerance.",
+              "text": ""
+            },
+            {
+              "title": "What four ingredients make up the Movement Problem Solver?",
+              "detail": "Available range, control, strength, and confidence.",
+              "text": ""
+            },
+            {
+              "title": "Why should a learner test the real task first?",
+              "detail": "It identifies the meaningful problem and provides a result to compare later.",
+              "text": ""
+            },
+            {
+              "title": "What is active mobility?",
+              "detail": "Moving a joint through a range using your own muscles and control.",
+              "text": ""
+            },
+            {
+              "title": "Why can a smaller controlled range be useful?",
+              "detail": "It allows dependable position, balance, and breathing while capacity develops.",
+              "text": ""
+            },
+            {
+              "title": "What limited Noor's floor transfer most?",
+              "detail": "Leg strength, task control, and confidence were larger limits than hip range.",
+              "text": ""
+            },
+            {
+              "title": "Why pair mobility with strength?",
+              "detail": "Strength helps produce and absorb force in the newly available range.",
+              "text": ""
+            },
+            {
+              "title": "Name two signs that require assessment.",
+              "detail": "Sudden movement loss, marked swelling, inability to bear weight, worsening pain, weakness, or numbness.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Build Your Movement Problem Solver",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete the relevant safety screen. Choose one task and observe one controlled repetition. Select one active-mobility exercise and one related strength exercise. Practise them twice, then retest the same task."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Skip any medical details or symptoms in this form. Just the plan."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Active mobility",
+              "text": "Controlled movement produced by the person's own muscles."
+            },
+            {
+              "title": "Compensation",
+              "text": "A change elsewhere in the body used to complete a movement."
+            },
+            {
+              "title": "Mobility",
+              "text": "The ability to move through a usable range with control."
+            },
+            {
+              "title": "Range of motion",
+              "text": "The amount of movement available at a joint or body region."
+            },
+            {
+              "title": "Task modification",
+              "text": "A change to setup, support, height, load, or position that makes a task manageable."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “More range of motion is always better.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "The task I want to improve is:",
+      "The first movement change I notice is:",
+      "A setup modification that helps is:",
+      "My focused active-mobility exercise is:",
+      "My related strength exercise is:",
+      "The support I will use is:",
+      "My task retest date is:",
+      "A sign that means seek assessment is:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information, not personal medical care."
+  },
+  "sources": []
+}

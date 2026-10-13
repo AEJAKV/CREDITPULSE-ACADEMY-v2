@@ -1,0 +1,536 @@
+{
+  "title": "Beginner Fitness for Women",
+  "summary": "Map → Circuit → Cardio → Progress",
+  "subtitle": "Build movement around your life, not an imaginary empty calendar",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This course is general education, not personal medical care. Complete CSEP’s Get Active Questionnaire before a major change in activity. Use CSEP’s pregnancy or postpartum questionnaire when relevant. Seek qualified advice for a medical condition, recent surgery or birth, injury, pelvic heaviness or leakage, unexplained symptoms, or medicines that affect exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead of squeezing life around a rigid workout calendar, you will map four things: energy, time, access, and support. Then you will build three session sizes. This course assumes women are not one body type, one age, or one life stage. Revolutionary, we know."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "How to start with current capacity rather than an old standard or online comparison.",
+              "text": ""
+            },
+            {
+              "title": "How strength, cardio, balance, mobility, recovery, and less sitting work together.",
+              "text": ""
+            },
+            {
+              "title": "How to make a full-body routine easier or harder without changing its purpose.",
+              "text": ""
+            },
+            {
+              "title": "How pregnancy, postpartum recovery, menopause, bone health, disability, and pelvic-floor concerns can change the plan when relevant.",
+              "text": ""
+            },
+            {
+              "title": "How to keep moving through busy weeks without using guilt as equipment.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "map",
+      "title": "Map the Life the Routine Must Fit",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For one ordinary week, note when you have usable energy, not merely open time. Ten free minutes after a long shift may feel different from ten minutes before lunch. Care work, paid work, symptoms, sleep, transit, culture, safety, and privacy all shape access."
+        },
+        {
+          "type": "heading",
+          "text": "Mark three kinds of windows"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Green: enough energy for a normal session.",
+              "text": ""
+            },
+            {
+              "title": "Amber: enough for a smaller or gentler option.",
+              "text": ""
+            },
+            {
+              "title": "Red: recovery, symptoms, or safety make rest or professional advice the right call.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This is not permission to wait for perfect conditions. It is a way to match the dose to the day."
+        },
+        {
+          "type": "spotlight",
+          "text": "List what makes movement harder. Cost? Child care? Gym discomfort? Winter darkness? Pain? A head covering or privacy need? Solve one friction point before buying equipment."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A good plan looks the same every week.”",
+              "text": "A useful plan has a stable purpose and flexible delivery. The Tuesday workout can become a walk, a shorter circuit, or Thursday’s appointment without the fitness police arriving."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Your first map"
+        },
+        {
+          "type": "paragraph",
+          "text": "Write one green window, two amber windows, and the most common friction point. Then name one low-cost place where you can move safely: home, a workplace stairwell, a mall, a community centre, a park, or another local option."
+        }
+      ]
+    },
+    {
+      "id": "foundation",
+      "title": "Build a Whole-Day Foundation",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Canadian guidance asks adults to think beyond workouts. Over time, work toward at least 150 minutes of moderate-to-vigorous activity per week, muscle-strengthening work at least twice weekly, several hours of light activity, less sedentary time, and consistent sleep. Older adults also benefit from activities that challenge balance."
+        },
+        {
+          "type": "paragraph",
+          "text": "The target is not a beginner’s first assignment. Begin where you are and add gradually. A walk to transit, active housework, wheelchair propulsion, a dance break, or carrying groceries may contribute to daily movement. Planned exercise then fills gaps."
+        },
+        {
+          "type": "heading",
+          "text": "Use the talk test"
+        },
+        {
+          "type": "paragraph",
+          "text": "At moderate effort, breathing is quicker but you can speak in sentences. Singing is difficult. At vigorous effort, only a few words come easily. Beginners can improve without spending every session at vigorous intensity."
+        },
+        {
+          "type": "spotlight",
+          "text": "Put two to five minutes of light movement between long sitting periods when possible. Stand, roll, walk, stretch comfortably, or take the long route to the printer. The printer will still be emotionally unavailable."
+        }
+      ]
+    },
+    {
+      "id": "strength",
+      "title": "Strength Belongs in the Plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Strength training supports daily tasks, muscle, bones, balance, and independence. It is not reserved for athletes, younger adults, or people who know what every cable attachment does."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use movements that cover the body: sit or squat, hinge, push, pull, step, carry, and brace. Resistance may come from body weight, bands, dumbbells, machines, or household items. Start with one controlled set. Add more only after the movements feel steady."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Strength training will automatically make women bulky.”",
+              "text": "Large changes in muscle size require time, progressive training, food, recovery, and individual biology. Beginner resistance work mainly builds skill and strength. A dumbbell cannot reorganize your body by Thursday."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "circuit",
+      "title": "The Shape-Shifting Starter Circuit",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Warm up with a few minutes of easy movement and comfortable joint motion. Do one set of each exercise. Choose the version that allows control and normal breathing. Stop before form breaks."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "SIT, SQUAT, OR RISE",
+              "text": "Rise from a stable chair and sit with control. Use your hands or a higher seat to make it easier. Use less support or hold a light load close to your body to make it harder."
+            },
+            {
+              "title": "WALL OR COUNTER PUSH",
+              "text": "Place your hands on a stable surface. Keep your body long, lower toward it, then press away. A wall is gentler; a lower counter is harder."
+            },
+            {
+              "title": "HINGE",
+              "text": "With soft knees, send your hips backward toward a wall and return to standing. Keep the range comfortable. This pattern prepares you to lift objects using the hips and legs."
+            },
+            {
+              "title": "PULL",
+              "text": "Use a resistance band secured to a proper anchor, or a gym row machine. Draw the elbows back without shrugging. If neither is available, pull outward on a towel for a short, firm hold. Inspect bands and anchors before use."
+            },
+            {
+              "title": "STEP OR SUPPORTED MARCH",
+              "text": "Hold a stable railing or counter. Step onto a low secure step or march slowly. Make it smaller, slower, or seated when needed."
+            },
+            {
+              "title": "CARRY OR ANTI-ROTATION HOLD",
+              "text": "Carry two light balanced objects for a short distance, or hold one light object at your centre while keeping your trunk steady. Breathe. Your core has responsibilities beyond surviving planks on social media."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Every movement needs an easier version and a harder version. Knowing both lets you adapt to sleep, symptoms, confidence, and available equipment without abandoning the session."
+        },
+        {
+          "type": "heading",
+          "text": "Comfort rules"
+        },
+        {
+          "type": "paragraph",
+          "text": "Muscle effort is expected. Sharp pain, joint pain that grows, pelvic heaviness, new leakage, bulging, dizziness, or symptoms that feel wrong are reasons to stop and reassess. A pelvic health physiotherapist or another qualified clinician can help when pelvic-floor symptoms affect movement."
+        }
+      ]
+    },
+    {
+      "id": "cardio",
+      "title": "Cardio That Respects Energy and Joints",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose rhythmic movement you can access: walking, cycling, swimming, dancing, wheeling, low-impact classes, or active recreation. Begin easily. Add short moderate portions using the talk test."
+        },
+        {
+          "type": "heading",
+          "text": "Try a small, medium, and full version"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "SMALL",
+              "text": "Five to ten minutes of easy movement."
+            },
+            {
+              "title": "MEDIUM",
+              "text": "A short warm-up, ten to twenty minutes at an easy-to-moderate effort, then ease down."
+            },
+            {
+              "title": "FULL",
+              "text": "The medium version with a little more time once recovery is good."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "These are adjustable examples, not medical prescriptions. Your starting point may be shorter or longer."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Nadia Builds Three Doors Into One Routine",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Nadia",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Nadia, 44, lived in Halifax and managed a busy dental office. She cared for her mother twice a week and had begun noticing that poor sleep made hard workouts feel worse. She kept downloading thirty-day plans. By day six, each plan had become an archived historical document.",
+            "Nadia stopped planning for her best week. She built three doors into the same routine. The green-door session was a thirty-minute circuit and walk. The amber-door session was one circuit set and ten minutes of walking. The red-door choice was rest, gentle movement, or a health appointment when symptoms called for it.",
+            "She booked green sessions on Saturday morning and Wednesday after work. Tuesday and Friday were amber opportunities, not obligations. She asked her sister to join the Saturday walk, which solved both accountability and catch-up time.",
+            "After a month, Nadia had exercised in three different session sizes. She did not “make up” missed workouts. She simply used the next door. The chair squat became smoother, her regular walk felt easier, and the course calendar stopped behaving like a courtroom exhibit."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "What Nadia did well"
+        },
+        {
+          "type": "paragraph",
+          "text": "She designed for variable energy, used support, kept the movements consistent, and changed session size instead of cancelling the habit. Her plan became more flexible and more dependable at the same time."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If hormones, age, or a busy season affect performance, the routine is failing.”",
+              "text": "Capacity can vary. Adjusting effort, exercise choice, or recovery is skilled training. Persistent or concerning changes deserve clinical attention, not self-blame."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stages",
+      "title": "Life Stages May Change the Route",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Women share the same basic movement principles, but relevant health needs differ. Not every woman menstruates, becomes pregnant, gives birth, or experiences menopause. Use only the section that fits you."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "PREGNANCY AND POSTPARTUM",
+              "text": "For healthy pregnancies receiving prenatal care, Canadian guidance encourages physical activity, but screening and individual advice matter. Use the CSEP Get Active Questionnaire for Pregnancy. After birth, return gradually. Birth complications, surgery, pain, bleeding concerns, pelvic heaviness, leakage, abdominal symptoms, or other warning signs need qualified assessment. Use the postpartum questionnaire and advice from your care team."
+            },
+            {
+              "title": "PERIMENOPAUSE, MENOPAUSE, AND BONES",
+              "text": "Resistance and weight-bearing activities can support muscle, bone, balance, and function. Symptoms such as hot flashes, sleep disruption, joint discomfort, or fatigue may change timing and dose. Build gradually and discuss osteoporosis, fractures, or major symptoms with a qualified professional."
+            },
+            {
+              "title": "DISABILITY, CHRONIC CONDITIONS, AND PAIN",
+              "text": "Use adapted equipment, seated or supported options, extra recovery, or condition-specific guidance as needed. Access needs do not make the work less valid. A physiotherapist, occupational therapist, CSEP professional, or relevant clinical team can help define safe options within their scope."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "progress",
+      "title": "Progress Without Chasing Punishment",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Repeat the same routine until you can judge it. When an exercise feels controlled on more than one occasion and recovery is reasonable, change one feature: a few more repetitions, a small load increase, a harder version, a little more cardio time, or another session."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Sweat and soreness measure workout quality.”",
+              "text": "Sweat reflects heat regulation as well as effort. Soreness often follows unfamiliar activity. Neither proves that a session was effective. Your laundry basket is already tracking sweat; your program needs better evidence."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Better progress signals"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "A movement feels steadier or uses less support.",
+              "text": ""
+            },
+            {
+              "title": "A usual route feels easier at the same pace.",
+              "text": ""
+            },
+            {
+              "title": "You recover well enough for normal responsibilities.",
+              "text": ""
+            },
+            {
+              "title": "You complete more planned sessions across a month.",
+              "text": ""
+            },
+            {
+              "title": "Daily tasks such as stairs, carrying, or floor transfers feel more manageable.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Record one functional change every two weeks. Online comparison removes the context; your own note keeps it."
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "title": "Access Across Canada",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Programs, fees, and facilities differ by province, territory, municipality, and community. Municipal recreation departments may offer beginner, women-only, adapted, prenatal, postpartum, older-adult, aquatic, or low-cost programs. Friendship centres, settlement organizations, campus facilities, neighbourhood groups, and community health centres may also offer options."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask practical questions before registering: Is the facility accessible? Is child care available? Is the instructor qualified for this class? Is a women-only or private setting available? What is the cancellation policy? Are fee subsidies offered? In rural, northern, or remote communities, home programs, virtual instruction, community halls, trails, and local health services may be more realistic. Account for ice, heat, wildfire smoke, wildlife, daylight, and cellular coverage."
+        },
+        {
+          "type": "spotlight",
+          "text": "Match the professional to the need. Exercise programming, injury treatment, nutrition therapy, and pelvic health are different scopes. A confident biography is not a regulatory college."
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "A beginner plan can be strong and flexible. Build around your actual energy, access, health, and responsibilities. Train the whole body, add cardio gradually, protect recovery, and keep easier versions ready. Adaptation is part of the plan."
+        },
+        {
+          "type": "spotlight",
+          "text": "Prepare the smallest version first. Put shoes near the door, save one short routine, or place a band beside a stable anchor point. Reducing the first two minutes of decision-making often matters more than finding a more inspirational quote."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Test What Stuck",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What four factors make up the Life-Fit Movement Map?",
+              "detail": "Energy, time, access, and support.",
+              "text": ""
+            },
+            {
+              "title": "What can you do during moderate-intensity activity according to the talk test?",
+              "detail": "Speak in sentences, while singing would be difficult.",
+              "text": ""
+            },
+            {
+              "title": "True or false: A flexible session size means the plan lacks consistency.",
+              "detail": "False. The movements and purpose can stay consistent while the dose changes.",
+              "text": ""
+            },
+            {
+              "title": "Name four movement patterns in the starter circuit.",
+              "detail": "Any four of sit or squat, hinge, push, pull, step or march, carry, and brace.",
+              "text": ""
+            },
+            {
+              "title": "Give one reason to use an easier exercise version.",
+              "detail": "Examples: learning control, responding to fatigue or symptoms, working around pain or disability, or matching available equipment.",
+              "text": ""
+            },
+            {
+              "title": "What is the safest response to new pelvic heaviness or leakage during exercise?",
+              "detail": "Stop and reassess. Seek a pelvic health physiotherapist or other qualified clinician when appropriate rather than pushing through.",
+              "text": ""
+            },
+            {
+              "title": "When should one part of a routine progress?",
+              "detail": "After the current version feels controlled on more than one occasion and recovery is reasonable. Change one feature at a time.",
+              "text": ""
+            },
+            {
+              "title": "Name one useful functional progress signal.",
+              "detail": "Examples include steadier movement, less support, easier stairs, improved carrying, better recovery, or more completed sessions.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Build Your Three-Size Weekly Plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose movements that remain recognizable in every version. Complete the relevant CSEP safety questionnaire, then schedule one small and one medium session in the next seven days. Afterward, note the session size, effort, symptoms, and one thing that made starting easier."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Skip any medical details or symptoms in this form. Just the plan."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Adaptation",
+              "text": "The body’s response to a repeated, appropriate training challenge."
+            },
+            {
+              "title": "Aerobic activity",
+              "text": "Rhythmic movement that raises breathing and heart rate."
+            },
+            {
+              "title": "Intensity",
+              "text": "How hard an activity feels or how much it changes breathing and heart rate."
+            },
+            {
+              "title": "Pelvic floor",
+              "text": "Muscles and connective tissues that support pelvic organs and contribute to bladder, bowel, and sexual function."
+            },
+            {
+              "title": "Progression",
+              "text": "A gradual, planned increase in training challenge."
+            },
+            {
+              "title": "Resistance training",
+              "text": "Muscle work against body weight, bands, machines, weights, or another load."
+            },
+            {
+              "title": "Weight-bearing activity",
+              "text": "Movement done while supporting body weight through the feet or limbs, such as walking or many resistance exercises."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “A good plan looks the same every week.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My small session is:",
+      "My medium session is:",
+      "My full session is:",
+      "My two likely green windows are:",
+      "My easiest amber option is:",
+      "My main friction point is:",
+      "One person, place, or service that can help is:",
+      "One symptom or recovery sign that means “reduce or stop” is:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information, not personal medical care."
+  },
+  "sources": []
+}

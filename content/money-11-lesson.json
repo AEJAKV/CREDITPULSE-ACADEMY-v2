@@ -1,0 +1,498 @@
+{
+  "title": "Managing Finances as a Couple",
+  "summary": "Build shared visibility, clear roles, personal freedom and a plan for the tough month.",
+  "subtitle": "Love May Be Blind. The Hydro Bill Arrives Wearing Reading Glasses.",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Managing money as a couple doesn’t mean two people think, earn or spend the same way."
+        },
+        {
+          "type": "paragraph",
+          "text": "It takes a shared view of the decisions that touch the household, and a clear owner for each action. It also needs enough personal freedom that the system feels like teamwork, not supervision."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this Household Money Summit, you will compare fully joint, fully separate and hybrid setups, and choose a way to split shared costs. You will map debts and account roles, protect savings and privacy, and write emergency and conflict rules. The summit is a decision meeting, not a trial where someone presents Exhibit A: one mysterious takeout charge."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Managing your money as a couple",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/living-as-couple.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "A shared financial picture doesn’t mean every account has to be joint. Both partners need to understand household commitments, risks, goals and who owns the next action."
+        },
+        {
+          "type": "heading",
+          "text": "The Three Summit Rounds"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "LAYER 1 — REVEAL THE SHARED PICTURE",
+              "text": "Bring income, shared expenses, personal debts that affect what you can give, savings, due dates and known changes into one respectful conversation. Use current records, not guesses from memory."
+            },
+            {
+              "title": "LAYER 2 — DESIGN THE MONEY STRUCTURE",
+              "text": "Choose how shared costs get paid, which accounts stay personal or go joint, what borrowing roles mean and how savings stay safe."
+            },
+            {
+              "title": "LAYER 3 — INSTALL THE RELATIONSHIP RULES",
+              "text": "Agree on personal freedom, purchase limits, no-surprise rules, conflict pauses, emergency access and the one-income plan. Every decision gets an owner and a review date."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Couples who trust each other should combine every dollar and every account.”",
+              "text": "Trust doesn’t need one account structure. Fully joint, separate and hybrid systems can all work when access, responsibilities, risks and review rules are understood and freely agreed."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "One tidy-looking 50/50 split can quietly cost one partner three quarters of their income.",
+          "detail": "Writing both incomes next to the shared costs is what turns a guess about fairness into an actual plan.",
+          "extra": "Round One builds the shared picture next, income and all."
+        }
+      ]
+    },
+    {
+      "id": "round-one",
+      "title": "Round One: Build the Shared Picture Without Keeping Score",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The couple lists $9,000 of monthly take-home income and $5,400 of shared household costs and goals."
+        },
+        {
+          "type": "paragraph",
+          "text": "A debt in one person’s name is not automatically a joint credit agreement. Local family law and other agreements may still affect who owes what. Required payments still matter because they limit what each person can reliably put in."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "HOUSING AND UTILITIES",
+              "text": "$2,650 — Shared essential — Joint bills account"
+            },
+            {
+              "title": "GROCERIES AND TRANSPORT",
+              "text": "$1,300 — Shared variable essential — Agreed spending limits"
+            },
+            {
+              "title": "INSURANCE AND HOUSEHOLD",
+              "text": "$450 — Shared protection — Renewal dates recorded"
+            },
+            {
+              "title": "EMERGENCY FUND",
+              "text": "$500 — Shared resilience — Automatic transfer"
+            },
+            {
+              "title": "HOME GOAL",
+              "text": "$500 — Shared future goal — Review quarterly"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "SHARED MONTHLY TOTAL"
+        },
+        {
+          "type": "paragraph",
+          "text": "$5,400."
+        },
+        {
+          "type": "paragraph",
+          "text": "The method has to cover this total, leave room for personal bills and still work in a low-income or one-income stretch."
+        },
+        {
+          "type": "heading",
+          "text": "Three Ways to Share $5,400"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "50/50",
+              "text": "$2,700 each — Simple, but it uses 50% of Noor’s income and 75% of Gabriel’s income."
+            },
+            {
+              "title": "PROPORTIONAL",
+              "text": "Noor $3,240 · Gabriel $2,160 — Income is split 60/40, so the shared costs are too."
+            },
+            {
+              "title": "ASSIGNED COSTS",
+              "text": "Named bills by capacity — This can work, but the couple still needs one full calendar and a rule for checking the numbers."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A 50/50 split is automatically the fairest arrangement.”",
+              "text": "Equal dollars are one option, not a rule of fairness for everyone. Income, unpaid caregiving, disability, changing earnings, existing obligations and access to benefits can all affect what contribution works. Define fairness together and test the numbers."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Fairness can mean equal dollars, equal percentages, shared duties or another written method. The method is stronger when both partners can explain why it will last."
+        },
+        {
+          "type": "story",
+          "text": "Meet Noor and Gabriel",
+          "detail": "NOOR AND GABRIEL CALL THEIR FIRST MONEY SUMMIT",
+          "extra": "",
+          "paragraphs": [
+            "Noor and Gabriel live in Ottawa. They want to move from renting to a home of their own. Noor brings home $5,400 a month and Gabriel brings home $3,600. They share an apartment but not a money system. Gabriel pays several bills, Noor sends transfers when asked, and both believe the other person has the master list. The master list, after a careful search, appears to be folklore.",
+            "At their first money summit, Gabriel suggests $2,700 each, because the math is tidy. Noor sees that $2,700 would take three quarters of Gabriel’s take-home pay, before the credit-card payment. Gabriel hears blame, but Noor meant a warning.",
+            "This is the moment that usually ends the meeting. Instead, they pause and write both percentages beside the dollar amounts. The disagreement becomes a design question instead of a character review.",
+            "Then Gabriel does the hard part and shares a $4,200 credit-card balance with a $140 required payment. Noor puts a $9,000 student loan with a $180 payment on the table. Neither signed the other’s credit agreement, but both payments change the savings timeline. The home goal now needs an honest calendar, not motivational wallpaper.",
+            "Noor and Gabriel pick personal accounts plus a joint bills-and-goals account. They split costs 60/40, like their income: $3,240 and $2,160. Each person’s debt payment stays visible at the summit but is paid from a personal account. A joint car loan waits until both have read the contract and tested the full payment against the one-income plan.",
+            "Noor owns the joint-account setup and balance alert. Gabriel owns the shared bill calendar and debt update. Both approve joint borrowing before any application, and either person may call a pause. Their one-income floor temporarily stops the $500 home contribution and reviews other adjustable costs before any borrowing. The meeting ends in 28 minutes, leaving two minutes for reasonable takeout research. The master list is no longer folklore. It has an owner."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Noor and Gabriel turned a tense arithmetic disagreement into a 28-minute plan with named owners.",
+          "detail": "Choosing joint, separate or hybrid accounts next is what makes a shared decision easy to run day to day.",
+          "extra": "Round Two picks the account structure that holds their plan together."
+        }
+      ]
+    },
+    {
+      "id": "round-two",
+      "title": "Round Two: Choose the Account Structure, Then Read the Agreements",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "FULLY JOINT",
+              "text": "Income and spending flow through shared accounts. Strengths: One view and simple household tracking. Risks: Both people share access. Joint transactions and overdraft debt can affect both. Personal freedom needs a clear rule."
+            },
+            {
+              "title": "FULLY SEPARATE",
+              "text": "Each person keeps individual accounts and pays an agreed share. Strengths: Personal freedom and clear control of your own money. Risks: More transfers, easier missed handoffs and a household picture that can end up incomplete."
+            },
+            {
+              "title": "HYBRID",
+              "text": "Personal accounts stay, while a joint account pays shared bills and goals. Strengths: Shared visibility plus personal freedom. Risks: It still needs payment dates, balance alerts, a say over purchases and a rule for shortages."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Joint accounts",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/banking/bank-accounts/joint-bank-account.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "A joint deposit account shares access and responsibility for transactions. If it has overdraft protection, all account holders may have to repay the debt. Read the agreement before you fund the account."
+        }
+      ]
+    },
+    {
+      "id": "signatures",
+      "title": "The Signature Gate: Identify the Role Before Signing",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Joint borrower or co-signer.",
+              "text": "Signs the credit agreement and owes the whole unpaid balance equally, not just one planned share."
+            },
+            {
+              "title": "Primary credit-card holder.",
+              "text": "Owns the account and owes the balance, including purchases made by authorized users."
+            },
+            {
+              "title": "Additional cardholder or authorized user.",
+              "text": "May use the primary holder’s account but is not the borrower under the FCAC model. These purchases don’t build credit history for the user."
+            },
+            {
+              "title": "Guarantor.",
+              "text": "May not have account access but can still owe the balance under the agreement."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Co-signing means I only pay if the lender forgets to call the main borrower.”",
+              "text": "A co-signer is a joint borrower and is equally responsible for the unpaid balance. Read the full agreement, confirm your disclosure rights and decide whether you can afford the whole obligation before you sign."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Disclosure to joint borrowers",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/rights-responsibilities/rights-credit-loans/rights-joint-borrower-disclosure.html"
+        }
+      ]
+    },
+    {
+      "id": "round-three",
+      "title": "Round Three: Protect Autonomy, Safety and the Difficult Month",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "AUTONOMY",
+              "text": "Agree on money each person may use without permission or explanation. Equal freedom doesn’t need equal income, but it does need free consent and a clear shared-cost plan."
+            },
+            {
+              "title": "NO-SURPRISE RULE",
+              "text": "No hidden credit applications, secret debts, big surprise purchases or changes to shared accounts that hurt the other partner."
+            },
+            {
+              "title": "CONFLICT PAUSE",
+              "text": "When the talk turns personal or unsafe, stop. Write down what is still undecided, choose what must be protected right away and pick it back up at a set time or with qualified support."
+            },
+            {
+              "title": "ONE-INCOME PLAN",
+              "text": "Name the shared essentials you must cover, which savings or flexible items pause, who calls billers, how personal minimums stay safe and when you review the plan."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Financial privacy and financial secrecy are the same thing.”",
+              "text": "Privacy protects personal dignity, passwords and agreed freedom. Secrecy hides information that changes shared risk or commitments. Keep passwords and PINs private while sharing debts, applications and decisions that affect the household."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Healthy teamwork needs free consent and access to your own money records. Controlling money, forcing signatures, blocking access or creating debt in another person’s name may be economic abuse, not a budgeting disagreement."
+        },
+        {
+          "type": "source",
+          "text": "Women and Gender Equality Canada: Economic abuse",
+          "url": "https://www.canada.ca/en/women-gender-equality/gender-based-violence/economic-abuse.html"
+        },
+        {
+          "type": "heading",
+          "text": "Province and Territory Lens"
+        },
+        {
+          "type": "paragraph",
+          "text": "Laws on marriage, common-law status, property, support and separation differ across Canada, including in Alberta, British Columbia, New Brunswick, Ontario, Prince Edward Island, and Newfoundland and Labrador. Check local law. Don’t assume the same account name gives the same ownership. Each partner should get their own legal advice before signing a domestic contract or relying on one."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Summit Decision or Warning?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "One partner wants shared bills and personal autonomy.",
+              "detail": "Test a hybrid structure.",
+              "text": ""
+            },
+            {
+              "title": "$9,000 income split 60/40 funds $5,400.",
+              "detail": "Contributions are $3,240 and $2,160.",
+              "text": ""
+            },
+            {
+              "title": "A partner is asked to co-sign.",
+              "detail": "Check whether you can afford the full balance, and read the agreement.",
+              "text": ""
+            },
+            {
+              "title": "An authorized user makes purchases.",
+              "detail": "The primary cardholder is still responsible for the account.",
+              "text": ""
+            },
+            {
+              "title": "One income stops.",
+              "detail": "Use the essential floor, pause rules, contact owners and review date.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Before You Hold Your Household Money Summit"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A good money meeting should solve every financial disagreement in one sitting.”",
+              "text": "A productive meeting brings out the facts, makes the decisions that are ready and assigns the next steps. Complex credit, legal, tax or safety issues may need documents, separate advice or another meeting."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The summit rule is simple: no money ambushes. Bring big decisions to the meeting before an application, signature or purchase puts the household on the hook."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Joint credit cards",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/joint-credit-card.html"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Household Money Summit Record",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete this together only when it is safe to do so. Use shortened institution and creditor names."
+        },
+        {
+          "type": "paragraph",
+          "text": "Don’t record account numbers, passwords, PINs, security answers, card details or government ID numbers in course notes."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "heading",
+          "text": "Household Money Summit Closing Checklist"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "The full picture is current.",
+              "text": "Income, shared costs, major personal obligations, savings and dates come from records."
+            },
+            {
+              "title": "Fairness is defined.",
+              "text": "The contribution method is calculated and both partners can explain why it is workable."
+            },
+            {
+              "title": "Roles match the agreements.",
+              "text": "Account access and credit liability don’t rest on casual labels or guesses."
+            },
+            {
+              "title": "Autonomy and safety are protected.",
+              "text": "No-surprise, privacy, pause and consent rules are written."
+            },
+            {
+              "title": "The difficult-month plan exists.",
+              "text": "The one-income floor, pause order, contacts, owners and review date are named."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "A strong couple money system pairs shared visibility with clear roles and freedoms both partners agreed to.",
+          "detail": "Work out the contribution method, read every account and credit agreement, protect consent and safety, plan for one income and end each summit with owners and dates."
+        },
+        {
+          "type": "spotlight",
+          "text": "Perfect agreement on every dollar is not the goal. The goal is a repeatable way to bring shared risks into the open, make decisions safely and know exactly what happens next."
+        },
+        {
+          "type": "paragraph",
+          "text": "SOURCE REVIEW DATE: 11 August 2026. Recheck account agreements and current federal, provincial or territorial guidance before publication or use."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Household Money Summit",
+              "text": "A planned money meeting for a couple that reviews facts, makes decisions and assigns next steps."
+            },
+            {
+              "title": "Account structure",
+              "text": "The setup a couple picks for holding money and paying shared costs: fully joint, separate or hybrid."
+            },
+            {
+              "title": "Proportional contribution",
+              "text": "Each person’s share of shared costs, based on their share of household income or another agreed measure."
+            },
+            {
+              "title": "Joint account holder",
+              "text": "A co-owner of an account who may be on the hook for transactions and any overdraft debt."
+            },
+            {
+              "title": "Joint borrower",
+              "text": "A person who signs a credit agreement with another borrower and owes the unpaid balance just as much as they do."
+            },
+            {
+              "title": "Authorized user",
+              "text": "A person allowed to use someone else’s credit card without being the borrower."
+            },
+            {
+              "title": "No-surprise rule",
+              "text": "A promise to talk about big applications, debts, account changes and purchases before they affect the household."
+            },
+            {
+              "title": "One-income floor",
+              "text": "The scaled-down household plan used when one regular income is temporarily gone."
+            },
+            {
+              "title": "Economic abuse",
+              "text": "Using money or resources to control, use or hurt another person, or to limit their freedom with money."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Couples who trust each other should combine every dollar and every account.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "FULL PICTURE — Record take-home income, shared costs, savings, due dates and personal obligations that affect contribution capacity. What is missing?",
+      "SHARED-COST METHOD — Test 50/50, proportional and assigned-cost options. Which method is sustainable, and why does each person consider it fair?",
+      "ACCOUNT STRUCTURE — Choose fully joint, separate or hybrid. Who may deposit, withdraw, transfer, approve purchases and respond to shortages?",
+      "DEBT AND SIGNATURE MAP — For each shared or proposed credit product, identify the borrower, co-borrower, primary holder, authorized user or guarantor and the full liability.",
+      "SAVINGS AND AUTONOMY — Set shared savings contributions, personal spending autonomy and the purchase amount or decision type that requires discussion first.",
+      "EMERGENCY AND ONE-INCOME PLAN — Record the essential floor, pause order, account access, contact owners and first review date.",
+      "CONFLICT AND SAFETY RULES — Write the no-surprise rule, pause phrase, restart time and the outside help to use for legal, tax, credit or safety concerns.",
+      "30-MINUTE SUMMIT — Schedule: 5 minutes for balances/dates; 10 for changes, problems and decisions; 10 for goals and next actions; final 5 for each person to repeat what they own before the next meeting."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+  },
+  "sources": []
+}

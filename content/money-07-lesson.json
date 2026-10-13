@@ -182,19 +182,16 @@
           "type": "cards",
           "items": [
             {
-              "title": "INTEREST RATE",
-              "text": "Use it to understand how interest is calculated on the outstanding balance. Confirm whether the rate is fixed or variable and how often interest compounds or is charged.",
-              "detail": "LAYER 1"
+              "title": "LAYER 1 — INTEREST RATE",
+              "text": "Use it to understand how interest is calculated on the outstanding balance. Confirm whether the rate is fixed or variable and how often interest compounds or is charged."
             },
             {
-              "title": "APR",
-              "text": "Use the disclosed annualized cost-of-borrowing measure for a fair comparison. Under federal rules, some required borrowing charges may be included and some may be excluded, so read the fee list too.",
-              "detail": "LAYER 2"
+              "title": "LAYER 2 — APR",
+              "text": "Use the disclosed annualized cost-of-borrowing measure for a fair comparison. Under federal rules, some required borrowing charges may be included and some may be excluded, so read the fee list too."
             },
             {
-              "title": "TOTAL REPAYMENT",
-              "text": "Use the disclosed total or verified payment schedule to see the dollars paid over the stated timeline. Confirm the assumptions, including term, payment frequency and any final payment.",
-              "detail": "LAYER 3"
+              "title": "LAYER 3 — TOTAL REPAYMENT",
+              "text": "Use the disclosed total or verified payment schedule to see the dollars paid over the stated timeline. Confirm the assumptions, including term, payment frequency and any final payment."
             }
           ]
         },

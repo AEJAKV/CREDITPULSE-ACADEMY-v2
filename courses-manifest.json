@@ -9,8 +9,7 @@
     "newLessonsWithNoOldCourse": 30,
     "coursesWithImageFolder": 19,
     "dropped": 10,
-    "done": 27,
-    "pending": 83
+    "done": 110
   },
   "courses": [
     {
@@ -642,9 +641,10 @@
         "tier": "02-silver",
         "lessonId": "money-08"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.8",
-      "formButton": "Complete Course 2.8"
+      "formButton": "Complete Course 2.8",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim spot-check). See extracted/paying-down-high-interest-debt.md. Sections 8/8, 4 images."
     },
     {
       "oldId": "course-2-9",
@@ -664,9 +664,10 @@
         "tier": "03-gold",
         "lessonId": "money-09"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.9",
-      "formButton": "Complete Course 2.9"
+      "formButton": "Complete Course 2.9",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim spot-check). See extracted/snowball-versus-avalanche-debt-repayment.md. Sections 8/8, 0 images. Old project has no image files for this course; no hero or artwork wired."
     },
     {
       "oldId": "course-2-10",
@@ -684,9 +685,10 @@
         "tier": "03-gold",
         "lessonId": "money-10"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.10",
-      "formButton": "Complete Course 2.10"
+      "formButton": "Complete Course 2.10",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim spot-check). See extracted/managing-variable-income.md. Sections 8/8, 0 images. Old project has no image files for this course; no hero or artwork wired."
     },
     {
       "oldId": "course-2-11",
@@ -704,9 +706,10 @@
         "tier": "03-gold",
         "lessonId": "money-11"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.11",
-      "formButton": "Complete Course 2.11"
+      "formButton": "Complete Course 2.11",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim spot-check). See extracted/managing-finances-as-a-couple.md. Sections 8/8, 0 images. Old project has no image files for this course; no hero or artwork wired."
     },
     {
       "oldId": "course-2-12",
@@ -724,9 +727,10 @@
         "tier": "04-platinum",
         "lessonId": "money-12"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.12",
-      "formButton": "Complete Course 2.12"
+      "formButton": "Complete Course 2.12",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim spot-check). See extracted/financial-planning-for-single-parents.md. Sections 8/8, 0 images. Old project has no image files for this course; no hero or artwork wired."
     },
     {
       "oldId": "course-2-13",
@@ -744,9 +748,10 @@
         "tier": "04-platinum",
         "lessonId": "money-13"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.13",
-      "formButton": "Complete Course 2.13"
+      "formButton": "Complete Course 2.13",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check against old source, lesson renders at /course/money-budgeting/lesson/money-13). See extracted/avoiding-predatory-financial-products.md. Sections 8/8, 0 images. Old project has no image files for this course; no hero or artwork wired."
     },
     {
       "oldId": "course-2-14",
@@ -764,9 +769,10 @@
         "tier": "04-platinum",
         "lessonId": "money-14"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.14",
-      "formButton": "Complete Course 2.14"
+      "formButton": "Complete Course 2.14",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check against old source, lesson renders at /course/money-budgeting/lesson/money-14). See extracted/financing-major-purchases.md. Sections 8/8, 0 images. Old project has no image files for this course; no hero or artwork wired."
     },
     {
       "oldId": "course-2-15",
@@ -784,9 +790,10 @@
         "tier": "05-diamond",
         "lessonId": "money-15"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.15",
-      "formButton": "Complete Course 2.15"
+      "formButton": "Complete Course 2.15",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check against old source, lesson renders at /course/money-budgeting/lesson/money-15). See extracted/the-30-day-financial-reset.md. Sections 7/7, 0 images. Old project has no image files for this course; no hero or artwork wired. Old DayCarousel referenced missing /starter images/course-2-15 files; week cards are text-only."
     },
     {
       "oldId": "silver-course-2-1",
@@ -804,9 +811,10 @@
         "tier": "05-diamond",
         "lessonId": "money-16"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.16",
-      "formButton": "Complete Course 2.16"
+      "formButton": "Complete Course 2.16",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check against old source, lesson renders at /course/money-budgeting/lesson/money-16). See extracted/buying-versus-leasing.md. Sections 7/7, 0 images. Old project has no image files for this course; no hero or artwork wired."
     },
     {
       "oldId": "silver-course-2-2",
@@ -824,9 +832,10 @@
         "tier": "05-diamond",
         "lessonId": "money-17"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.17",
-      "formButton": "Complete Course 2.17"
+      "formButton": "Complete Course 2.17",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check against old source, lesson renders at /course/money-budgeting/lesson/money-17). See extracted/saving-for-a-home.md. Sections 7/7, 0 images. Old project has no image files for this course; no hero or artwork wired."
     },
     {
       "oldId": "silver-course-2-3",
@@ -844,9 +853,10 @@
         "tier": "06-elite",
         "lessonId": "money-18"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.18",
-      "formButton": "Complete Course 2.18"
+      "formButton": "Complete Course 2.18",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim check). See extracted/managing-rental-costs.md. Sections 7/7. Old project has no image files for this course; none wired."
     },
     {
       "oldId": "silver-course-2-4",
@@ -864,9 +874,10 @@
         "tier": "06-elite",
         "lessonId": "money-19"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.19",
-      "formButton": "Complete Course 2.19"
+      "formButton": "Complete Course 2.19",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim check). See extracted/insurance-basics.md. Sections 7/7. Old project has no image files for this course; none wired."
     },
     {
       "oldId": "silver-course-2-5",
@@ -884,9 +895,10 @@
         "tier": "06-elite",
         "lessonId": "money-20"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "2.20",
-      "formButton": "Complete Course 2.20"
+      "formButton": "Complete Course 2.20",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim check). See extracted/financial-fraud-and-scams.md. Sections 7/7. Old project has no image files for this course; none wired."
     },
     {
       "oldId": "gold-course-1-1",
@@ -904,9 +916,10 @@
         "tier": "01-starter",
         "lessonId": "benefits-01"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.1",
-      "formButton": "Complete Course 3.1"
+      "formButton": "Complete Course 3.1",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim check). See extracted/canada-child-benefit.md. Sections 7/7. Old project has no image files for this course; none wired. benefits-01 hero-image / benefit01-image-1 / benefit01-image-2 already existed in the new project; image-1 and image-2 are not referenced because their role is unknown."
     },
     {
       "oldId": "gold-course-1-2",
@@ -924,9 +937,10 @@
         "tier": "01-starter",
         "lessonId": "benefits-02"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.2",
-      "formButton": "Complete Course 3.2"
+      "formButton": "Complete Course 3.2",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim check). See extracted/gst-hst-credit.md. Sections 7/7. Old project has no image files for this course; none wired."
     },
     {
       "oldId": "gold-course-1-3",
@@ -944,9 +958,10 @@
         "tier": "01-starter",
         "lessonId": "benefits-03"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.3",
-      "formButton": "Complete Course 3.3"
+      "formButton": "Complete Course 3.3",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/canada-workers-benefit.md. Old project has no image files for this course; none wired."
     },
     {
       "oldId": "gold-course-1-4",
@@ -964,9 +979,10 @@
         "tier": "01-starter",
         "lessonId": "benefits-04"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.4",
-      "formButton": "Complete Course 3.4"
+      "formButton": "Complete Course 3.4",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/disability-tax-credit.md. Old project has no image files for this course; none wired."
     },
     {
       "oldId": "gold-course-1-5",
@@ -984,9 +1000,10 @@
         "tier": "01-starter",
         "lessonId": "benefits-05"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.5",
-      "formButton": "Complete Course 3.5"
+      "formButton": "Complete Course 3.5",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/registered-disability-savings-plan.md. Old project has no image files for this course; none wired."
     },
     {
       "oldId": "gold-course-1-6",
@@ -1004,9 +1021,10 @@
         "tier": "02-silver",
         "lessonId": "benefits-06"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.6",
-      "formButton": "Complete Course 3.6"
+      "formButton": "Complete Course 3.6",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/old-age-security.md. Old project has no image files for this course; none wired."
     },
     {
       "oldId": "gold-course-1-7",
@@ -1024,9 +1042,10 @@
         "tier": "02-silver",
         "lessonId": "benefits-07"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.7",
-      "formButton": "Complete Course 3.7"
+      "formButton": "Complete Course 3.7",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/guaranteed-income-supplement.md. Old project has no image files for this course; none wired. Old page has no motivator banners (0 Motivator elements) and no story-conclusion block; none invented, per the verbatim rule."
     },
     {
       "oldId": "gold-course-1-8",
@@ -1044,9 +1063,10 @@
         "tier": "02-silver",
         "lessonId": "benefits-08"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.8",
-      "formButton": "Complete Course 3.8"
+      "formButton": "Complete Course 3.8",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/canada-pension-plan.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-9",
@@ -1064,9 +1084,10 @@
         "tier": "02-silver",
         "lessonId": "benefits-09"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.9",
-      "formButton": "Complete Course 3.9"
+      "formButton": "Complete Course 3.9",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/cpp-disability-benefits.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-10",
@@ -1084,9 +1105,10 @@
         "tier": "02-silver",
         "lessonId": "benefits-10"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.10",
-      "formButton": "Complete Course 3.10"
+      "formButton": "Complete Course 3.10",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/employment-insurance.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-11",
@@ -1104,9 +1126,10 @@
         "tier": "03-gold",
         "lessonId": "benefits-11"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.11",
-      "formButton": "Complete Course 3.11"
+      "formButton": "Complete Course 3.11",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/provincial-income-support.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-12",
@@ -1124,9 +1147,10 @@
         "tier": "03-gold",
         "lessonId": "benefits-12"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.12",
-      "formButton": "Complete Course 3.12"
+      "formButton": "Complete Course 3.12",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/provincial-disability-programs.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-13",
@@ -1144,9 +1168,10 @@
         "tier": "03-gold",
         "lessonId": "benefits-13"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.13",
-      "formButton": "Complete Course 3.13"
+      "formButton": "Complete Course 3.13",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/rent-assistance.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-14",
@@ -1164,9 +1189,10 @@
         "tier": "03-gold",
         "lessonId": "benefits-14"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.14",
-      "formButton": "Complete Course 3.14"
+      "formButton": "Complete Course 3.14",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/utility-assistance.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-15",
@@ -1184,9 +1210,10 @@
         "tier": "03-gold",
         "lessonId": "benefits-15"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.15",
-      "formButton": "Complete Course 3.15"
+      "formButton": "Complete Course 3.15",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/dental-care-benefits.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-16",
@@ -1204,9 +1231,10 @@
         "tier": "04-platinum",
         "lessonId": "benefits-16"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.16",
-      "formButton": "Complete Course 3.16"
+      "formButton": "Complete Course 3.16",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/prescription-assistance.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-17",
@@ -1224,9 +1252,10 @@
         "tier": "04-platinum",
         "lessonId": "benefits-17"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.17",
-      "formButton": "Complete Course 3.17"
+      "formButton": "Complete Course 3.17",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/student-grants.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-18",
@@ -1244,9 +1273,10 @@
         "tier": "04-platinum",
         "lessonId": "benefits-18"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.18",
-      "formButton": "Complete Course 3.18"
+      "formButton": "Complete Course 3.18",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/apprenticeship-funding.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-19",
@@ -1264,9 +1294,10 @@
         "tier": "04-platinum",
         "lessonId": "benefits-19"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.19",
-      "formButton": "Complete Course 3.19"
+      "formButton": "Complete Course 3.19",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/indigenous-benefits-and-programs.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-1-20",
@@ -1284,9 +1315,10 @@
         "tier": "04-platinum",
         "lessonId": "benefits-20"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.20",
-      "formButton": "Complete Course 3.20"
+      "formButton": "Complete Course 3.20",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/newcomer-settlement-supports.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "platinum-course-1-1",
@@ -1304,9 +1336,10 @@
         "tier": "05-diamond",
         "lessonId": "benefits-21"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.21",
-      "formButton": "Complete Course 3.21"
+      "formButton": "Complete Course 3.21",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/veteran-benefits.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; old story had no kicker/heading, so the story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-1-2",
@@ -1324,9 +1357,10 @@
         "tier": "05-diamond",
         "lessonId": "benefits-22"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.22",
-      "formButton": "Complete Course 3.22"
+      "formButton": "Complete Course 3.22",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/senior-home-renovation-programs.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; old story had no kicker/heading, so the story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-1-3",
@@ -1344,9 +1378,10 @@
         "tier": "05-diamond",
         "lessonId": "benefits-23"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.23",
-      "formButton": "Complete Course 3.23"
+      "formButton": "Complete Course 3.23",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/energy-efficiency-rebates.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-1-4",
@@ -1364,9 +1399,10 @@
         "tier": "05-diamond",
         "lessonId": "benefits-24"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.24",
-      "formButton": "Complete Course 3.24"
+      "formButton": "Complete Course 3.24",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/training-grants.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-1-5",
@@ -1384,9 +1420,10 @@
         "tier": "05-diamond",
         "lessonId": "benefits-25"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.25",
-      "formButton": "Complete Course 3.25"
+      "formButton": "Complete Course 3.25",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/small-business-grants.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-1-6",
@@ -1404,9 +1441,10 @@
         "tier": "06-elite",
         "lessonId": "benefits-26"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.26",
-      "formButton": "Complete Course 3.26"
+      "formButton": "Complete Course 3.26",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/wage-subsidies.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-1-7",
@@ -1424,9 +1462,10 @@
         "tier": "06-elite",
         "lessonId": "benefits-27"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.27",
-      "formButton": "Complete Course 3.27"
+      "formButton": "Complete Course 3.27",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/first-time-home-buyer-programs.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-1-8",
@@ -1444,9 +1483,10 @@
         "tier": "06-elite",
         "lessonId": "benefits-28"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.28",
-      "formButton": "Complete Course 3.28"
+      "formButton": "Complete Course 3.28",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/tax-credits-people-commonly-miss.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-1-9",
@@ -1464,9 +1504,10 @@
         "tier": "06-elite",
         "lessonId": "benefits-29"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.29",
-      "formButton": "Complete Course 3.29"
+      "formButton": "Complete Course 3.29",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/provincial-benefit-finders.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-1-10",
@@ -1484,9 +1525,10 @@
         "tier": "06-elite",
         "lessonId": "benefits-30"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "3.30",
-      "formButton": "Complete Course 3.30"
+      "formButton": "Complete Course 3.30",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/how-to-apply-without-getting-scammed.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-1",
@@ -1504,9 +1546,10 @@
         "tier": "01-starter",
         "lessonId": "tax-01"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.1",
-      "formButton": "Complete Course 4.1"
+      "formButton": "Complete Course 4.1",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/understanding-a-canadian-paycheque.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-2",
@@ -1524,9 +1567,10 @@
         "tier": "01-starter",
         "lessonId": "tax-02"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.2",
-      "formButton": "Complete Course 4.2"
+      "formButton": "Complete Course 4.2",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/marginal-tax-rates.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-3",
@@ -1544,9 +1588,10 @@
         "tier": "01-starter",
         "lessonId": "tax-03"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.3",
-      "formButton": "Complete Course 4.3"
+      "formButton": "Complete Course 4.3",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/filing-an-income-tax-return.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-4",
@@ -1564,9 +1609,10 @@
         "tier": "01-starter",
         "lessonId": "tax-04"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.4",
-      "formButton": "Complete Course 4.4"
+      "formButton": "Complete Course 4.4",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/common-tax-deductions-and-credits.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-5",
@@ -1584,9 +1630,10 @@
         "tier": "02-silver",
         "lessonId": "tax-05"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.5",
-      "formButton": "Complete Course 4.5"
+      "formButton": "Complete Course 4.5",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/tfsa-basics.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-6",
@@ -1604,9 +1651,10 @@
         "tier": "02-silver",
         "lessonId": "tax-06"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.6",
-      "formButton": "Complete Course 4.6"
+      "formButton": "Complete Course 4.6",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/rrsp-basics.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-7",
@@ -1624,9 +1672,10 @@
         "tier": "02-silver",
         "lessonId": "tax-07"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.7",
-      "formButton": "Complete Course 4.7"
+      "formButton": "Complete Course 4.7",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/fhsa-basics.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-8",
@@ -1644,9 +1693,10 @@
         "tier": "02-silver",
         "lessonId": "tax-08"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.8",
-      "formButton": "Complete Course 4.8"
+      "formButton": "Complete Course 4.8",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/resp-basics.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-9",
@@ -1664,9 +1714,10 @@
         "tier": "03-gold",
         "lessonId": "tax-09"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.9",
-      "formButton": "Complete Course 4.9"
+      "formButton": "Complete Course 4.9",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/rdsp-basics.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-10",
@@ -1684,9 +1735,10 @@
         "tier": "03-gold",
         "lessonId": "tax-10"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.10",
-      "formButton": "Complete Course 4.10"
+      "formButton": "Complete Course 4.10",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/rrif-basics.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-11",
@@ -1704,9 +1756,10 @@
         "tier": "03-gold",
         "lessonId": "tax-11"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.11",
-      "formButton": "Complete Course 4.11"
+      "formButton": "Complete Course 4.11",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/tax-free-versus-tax-deferred-growth.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-12",
@@ -1724,9 +1777,10 @@
         "tier": "04-platinum",
         "lessonId": "tax-12"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.12",
-      "formButton": "Complete Course 4.12"
+      "formButton": "Complete Course 4.12",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/investment-fees.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-13",
@@ -1744,9 +1798,10 @@
         "tier": "04-platinum",
         "lessonId": "tax-13"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.13",
-      "formButton": "Complete Course 4.13"
+      "formButton": "Complete Course 4.13",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/etfs-and-mutual-funds.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-14",
@@ -1764,9 +1819,10 @@
         "tier": "04-platinum",
         "lessonId": "tax-14"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.14",
-      "formButton": "Complete Course 4.14"
+      "formButton": "Complete Course 4.14",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/risk-tolerance.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "platinum-course-2-15",
@@ -1784,9 +1840,10 @@
         "tier": "05-diamond",
         "lessonId": "tax-15"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.15",
-      "formButton": "Complete Course 4.15"
+      "formButton": "Complete Course 4.15",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/compound-growth.md. Old project has no image files and no motivator banners for this course; none wired or invented. Platinum template: spotlight titles kept as headings; story heading uses the side-nav label."
     },
     {
       "oldId": "diamond-course-1-1",
@@ -1804,9 +1861,10 @@
         "tier": "05-diamond",
         "lessonId": "tax-16"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.16",
-      "formButton": "Complete Course 4.16"
+      "formButton": "Complete Course 4.16",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/canadian-retirement-planning.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-1-2",
@@ -1824,9 +1882,10 @@
         "tier": "05-diamond",
         "lessonId": "tax-17"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.17",
-      "formButton": "Complete Course 4.17"
+      "formButton": "Complete Course 4.17",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/estate-and-beneficiary-basics.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-1-3",
@@ -1844,9 +1903,10 @@
         "tier": "06-elite",
         "lessonId": "tax-18"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.18",
-      "formButton": "Complete Course 4.18"
+      "formButton": "Complete Course 4.18",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/self-employment-taxes.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-1-4",
@@ -1864,9 +1924,10 @@
         "tier": "06-elite",
         "lessonId": "tax-19"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.19",
-      "formButton": "Complete Course 4.19"
+      "formButton": "Complete Course 4.19",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/gst-hst-for-small-businesses.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-1-5",
@@ -1884,9 +1945,10 @@
         "tier": "06-elite",
         "lessonId": "tax-20"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "4.20",
-      "formButton": "Complete Course 4.20"
+      "formButton": "Complete Course 4.20",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/keeping-cra-records.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-2-1",
@@ -1904,9 +1966,10 @@
         "tier": "01-starter",
         "lessonId": "income-01"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "5.1",
-      "formButton": "Complete Course 5.1"
+      "formButton": "Complete Course 5.1",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/senior-companion-services.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-2-2",
@@ -1924,9 +1987,10 @@
         "tier": "01-starter",
         "lessonId": "income-02"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "5.2",
-      "formButton": "Complete Course 5.2"
+      "formButton": "Complete Course 5.2",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/online-tutoring.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-2-3",
@@ -1944,9 +2008,10 @@
         "tier": "01-starter",
         "lessonId": "income-03"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "5.3",
-      "formButton": "Complete Course 5.3"
+      "formButton": "Complete Course 5.3",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/reselling-products.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-2-4",
@@ -1964,9 +2029,10 @@
         "tier": "01-starter",
         "lessonId": "income-04"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "5.4",
-      "formButton": "Complete Course 5.4"
+      "formButton": "Complete Course 5.4",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/marketplace-flipping.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "gold-course-2-5",
@@ -1984,9 +2050,10 @@
         "tier": "02-silver",
         "lessonId": "income-05"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "5.5",
-      "formButton": "Complete Course 5.5"
+      "formButton": "Complete Course 5.5",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/getting-your-first-customer.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-1",
@@ -2004,9 +2071,10 @@
         "tier": "01-starter",
         "lessonId": "health-01"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.1",
-      "formButton": "Complete Course 6.1"
+      "formButton": "Complete Course 6.1",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/beginner-fitness-for-men.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-2",
@@ -2024,9 +2092,10 @@
         "tier": "01-starter",
         "lessonId": "health-02"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.2",
-      "formButton": "Complete Course 6.2"
+      "formButton": "Complete Course 6.2",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/beginner-fitness-for-women.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-3",
@@ -2044,9 +2113,10 @@
         "tier": "01-starter",
         "lessonId": "health-03"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.3",
-      "formButton": "Complete Course 6.3"
+      "formButton": "Complete Course 6.3",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/home-workouts.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-4",
@@ -2064,9 +2134,10 @@
         "tier": "01-starter",
         "lessonId": "health-04"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.4",
-      "formButton": "Complete Course 6.4"
+      "formButton": "Complete Course 6.4",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/gym-fundamentals.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-5",
@@ -2084,9 +2155,10 @@
         "tier": "01-starter",
         "lessonId": "health-05"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.5",
-      "formButton": "Complete Course 6.5"
+      "formButton": "Complete Course 6.5",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/strength-training.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-6",
@@ -2104,9 +2176,10 @@
         "tier": "02-silver",
         "lessonId": "health-06"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.6",
-      "formButton": "Complete Course 6.6"
+      "formButton": "Complete Course 6.6",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/muscle-building.md. Old project has no image files and no motivator banners for this course; none wired or invented. Old course has no glossary section; none added."
     },
     {
       "oldId": "diamond-course-2-7",
@@ -2124,9 +2197,10 @@
         "tier": "02-silver",
         "lessonId": "health-07"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.7",
-      "formButton": "Complete Course 6.7"
+      "formButton": "Complete Course 6.7",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/fat-loss-fundamentals.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-8",
@@ -2144,9 +2218,10 @@
         "tier": "02-silver",
         "lessonId": "health-08"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.8",
-      "formButton": "Complete Course 6.8"
+      "formButton": "Complete Course 6.8",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/low-impact-fitness.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-9",
@@ -2164,9 +2239,10 @@
         "tier": "02-silver",
         "lessonId": "health-09"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.9",
-      "formButton": "Complete Course 6.9"
+      "formButton": "Complete Course 6.9",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/fitness-over-40.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-10",
@@ -2184,9 +2260,10 @@
         "tier": "02-silver",
         "lessonId": "health-10"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.10",
-      "formButton": "Complete Course 6.10"
+      "formButton": "Complete Course 6.10",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/fitness-over-50.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-11",
@@ -2204,9 +2281,10 @@
         "tier": "03-gold",
         "lessonId": "health-11"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.11",
-      "formButton": "Complete Course 6.11"
+      "formButton": "Complete Course 6.11",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/mobility.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-12",
@@ -2224,9 +2302,10 @@
         "tier": "03-gold",
         "lessonId": "health-12"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.12",
-      "formButton": "Complete Course 6.12"
+      "formButton": "Complete Course 6.12",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/flexibility.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-13",
@@ -2244,9 +2323,10 @@
         "tier": "03-gold",
         "lessonId": "health-13"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.13",
-      "formButton": "Complete Course 6.13"
+      "formButton": "Complete Course 6.13",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/core-strength.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-14",
@@ -2264,9 +2344,10 @@
         "tier": "03-gold",
         "lessonId": "health-14"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.14",
-      "formButton": "Complete Course 6.14"
+      "formButton": "Complete Course 6.14",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/resistance-band-training.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "diamond-course-2-15",
@@ -2284,9 +2365,10 @@
         "tier": "03-gold",
         "lessonId": "health-15"
       },
-      "status": "pending",
+      "status": "done",
       "courseNumber": "6.15",
-      "formButton": "Complete Course 6.15"
+      "formButton": "Complete Course 6.15",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, verbatim check). See extracted/bodyweight-training.md. Old project has no image files and no motivator banners for this course; none wired or invented."
     },
     {
       "oldId": "silver-course-3-5",

@@ -97,13 +97,11 @@
           "type": "cards",
           "items": [
             {
-              "title": "Bank counsel — The case for scale",
-              "detail": "OPENING ARGUMENT 01",
+              "title": "OPENING ARGUMENT 01 — Bank counsel — The case for scale",
               "text": "Often offers broad national or international access, plus big ATM and digital networks. It also offers a wide range of personal, business and investment services. Canadian banks are usually owned by shareholders. Federally regulated banks follow federal consumer rules that FCAC supervises. Key points: Broad access, Digital network, Service range. Judge’s question: Does the broader access and service range justify the total cost for the way you bank?"
             },
             {
-              "title": "Credit-union counsel — The case for membership",
-              "detail": "OPENING ARGUMENT 02",
+              "title": "OPENING ARGUMENT 02 — Credit-union counsel — The case for membership",
               "text": "A credit union is a co-operative financial institution owned by its members. Members may get voting rights, and the institution may focus on a community, region or membership group. Some credit unions are regulated provincially. Federal credit unions operate under federal rules. Key points: Member-owned, Community focus, Voting rights. Judge’s question: Do membership and local service improve the specific product and access you need?"
             }
           ]
@@ -303,19 +301,16 @@
           "type": "cards",
           "items": [
             {
-              "title": "BANK OR FEDERAL CREDIT UNION",
-              "text": "At a CDIC member institution, eligible deposits are automatically protected up to $100,000 in each insured category. Coverage includes principal and interest. Confirm membership, product eligibility and ownership category.",
-              "detail": "LAYER 1"
+              "title": "LAYER 1 — BANK OR FEDERAL CREDIT UNION",
+              "text": "At a CDIC member institution, eligible deposits are automatically protected up to $100,000 in each insured category. Coverage includes principal and interest. Confirm membership, product eligibility and ownership category."
             },
             {
-              "title": "PROVINCIAL CREDIT UNION",
-              "text": "The provincial insurer or guarantor and its coverage rules apply. Amounts, eligible deposits and categories can differ by province. A credit-union brand may also operate under a federal structure instead.",
-              "detail": "LAYER 2"
+              "title": "LAYER 2 — PROVINCIAL CREDIT UNION",
+              "text": "The provincial insurer or guarantor and its coverage rules apply. Amounts, eligible deposits and categories can differ by province. A credit-union brand may also operate under a federal structure instead."
             },
             {
-              "title": "PRODUCT",
-              "text": "Chequing, savings and eligible term deposits may qualify. Mutual funds, stocks, bonds, exchange-traded funds and cryptocurrency are not CDIC-insured deposits just because you bought them at a member institution.",
-              "detail": "LAYER 3"
+              "title": "LAYER 3 — PRODUCT",
+              "text": "Chequing, savings and eligible term deposits may qualify. Mutual funds, stocks, bonds, exchange-traded funds and cryptocurrency are not CDIC-insured deposits just because you bought them at a member institution."
             }
           ]
         },

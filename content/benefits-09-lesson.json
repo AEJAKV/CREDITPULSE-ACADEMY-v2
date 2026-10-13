@@ -1,0 +1,303 @@
+{
+  "title": "CPP Disability Benefits",
+  "summary": "Screen → Document → Apply → Decide → Report",
+  "subtitle": "Build a work-capacity record that connects the medical and employment evidence",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A medical chart can explain a condition beautifully and still forget to mention why Tuesday's four-hour shift became impossible."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Canada Pension Plan disability benefit is a taxable monthly payment for eligible contributors over 18 and under 65 whose disability is both severe and prolonged under CPP law. Severe means regularly incapable of any substantially gainful occupation, not only a former job. Prolonged means long-term and indefinite, or likely to result in death."
+        },
+        {
+          "type": "spotlight",
+          "text": "In 2026, substantially gainful work is tied to annual earnings of $20,971.45 before tax. Earnings are evidence, but Service Canada assesses the full pattern of capacity, regularity and work activity."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Separate diagnosis from CPP's work-capacity test.",
+              "text": ""
+            },
+            {
+              "title": "Check the contribution requirement.",
+              "text": ""
+            },
+            {
+              "title": "Organize medical, functional and employment evidence.",
+              "text": ""
+            },
+            {
+              "title": "Understand work-reporting and reconsideration duties.",
+              "text": ""
+            },
+            {
+              "title": "Complete a CPP Disability Evidence and Application Map.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Being unable to return to my old occupation automatically meets the CPP disability test.”",
+              "text": "The test asks whether the person can regularly perform any substantially gainful occupation, considering the overall evidence. CPP does not stop its job search at the old staff directory."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Service Canada: CPP disability",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html"
+        }
+      ]
+    },
+    {
+      "id": "gates",
+      "title": "Medical Severity and Contributions Are Separate Gates",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The first gate is medical and vocational: the condition must regularly stop the person from doing any substantially gainful work, and it must be long-term and indefinite or likely to result in death. Age, education, language, work history, treatment, limitations and real-world attempts can help explain capacity."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second gate is CPP contributions. A claimant generally needs valid contributions in four of the six years before becoming disabled, or at least 25 years of contributions including three of the last six. Late-applicant rules may help when contributory eligibility ended before the application."
+        },
+        {
+          "type": "spotlight",
+          "text": "Review the CPP Statement of Contributions early. Medical evidence cannot replace missing contribution eligibility, and a contribution record cannot replace the severe-and-prolonged test."
+        },
+        {
+          "type": "spotlight",
+          "text": "People who contributed to the Quebec Pension Plan may need the QPP disability route. Living in Quebec today does not by itself show which plan received the relevant contributions."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A DTC approval automatically means CPP disability approval.”",
+              "text": "The programs use different legal tests. DTC focuses on functional restrictions for tax-credit purposes; CPP disability focuses on regular capacity for substantially gainful work plus CPP contributions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "title": "Connect Condition, Function and Work",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "MEDICAL EVIDENCE",
+              "text": "Diagnosis, history, objective findings where relevant, treatment, response, prognosis and expected duration."
+            },
+            {
+              "title": "FUNCTIONAL EVIDENCE",
+              "text": "What can be done reliably, for how long and how often, including recovery time, supervision, accommodation or assistance."
+            },
+            {
+              "title": "WORK EVIDENCE",
+              "text": "Job demands, attendance, reduced hours, modified duties, failed returns, accommodations and why work stopped."
+            },
+            {
+              "title": "TRANSFERABLE CAPACITY",
+              "text": "Education, language, skills and whether other substantially gainful work can be performed regularly, not only once on a good day."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Send the claimant application promptly; do not wait for the completed medical report. Service Canada still needs both parts before deciding, but the application-received date can affect retroactivity."
+        },
+        {
+          "type": "spotlight",
+          "text": "If approved, payment generally begins four months after the disability is found severe and prolonged. Retroactive payments may cover up to 11 months before the application-received date."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“More pages of medical records always make a stronger application.”",
+              "text": "Relevant, consistent evidence is stronger than volume. A 300-page chart with no explanation of work capacity may be a very heavy mystery novel."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "CPP disability requires contribution eligibility and evidence that the condition regularly prevents any substantially gainful work for a prolonged period."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Samira and the File With No Bridge",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Samira",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Samira Haddad, a warehouse supervisor in Edmonton, had specialist reports confirming a chronic neurological condition. Her application named the diagnosis and attached every report, but barely mentioned missed shifts, unsafe pace or the two days she needed to recover from a short trial return.",
+            "The conflict was not missing medicine; it was missing connection. Her former job was physically demanding, but CPP also needed evidence about regular capacity for other substantially gainful work.",
+            "Samira created a work chronology with hours, absences, accommodations, failed attempts and recovery time. Her physician added treatment, prognosis and functional restrictions. Samira checked her contribution record and submitted the claimant portion promptly.",
+            "Service Canada made the decision, but the application could finally explain how the condition affected reliable work instead of asking a diagnosis to carry the entire file."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A failed work attempt can be relevant when duties, hours, accommodations, symptoms, recovery and the reason it ended are recorded accurately. It is not automatic proof either way."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What do 'severe' and 'prolonged' mean under CPP disability?",
+              "detail": "Severe means regularly incapable of any substantially gainful occupation. Prolonged means long-term and indefinite, or likely to result in death.",
+              "text": ""
+            },
+            {
+              "title": "What are the two main contribution routes?",
+              "detail": "Generally, valid contributions in four of the previous six years, or at least 25 years of contributions including three of the previous six.",
+              "text": ""
+            },
+            {
+              "title": "Why is DTC approval not automatic CPP disability approval?",
+              "detail": "The programs use different legal tests. CPP disability also requires contribution eligibility and focuses on regular capacity for substantially gainful work.",
+              "text": ""
+            },
+            {
+              "title": "Which three evidence streams should connect?",
+              "detail": "Medical, functional and employment evidence.",
+              "text": ""
+            },
+            {
+              "title": "Why submit the claimant application without waiting for the medical report?",
+              "detail": "Service Canada needs both parts to decide, but the application-received date can affect retroactivity.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Complete Your CPP Disability Evidence and Application Map",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use brief evidence labels, not full medical records or identifiers. Keep protected documents in a secure file outside this workbook."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "In 2026, contact Service Canada once gross work earnings reach $7,400. Earnings below that amount should not affect benefits; earnings above it may require a capacity review."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "CPP disability",
+              "text": "Taxable monthly disability benefit for eligible CPP contributors."
+            },
+            {
+              "title": "Severe",
+              "text": "Regularly incapable of any substantially gainful occupation."
+            },
+            {
+              "title": "Prolonged",
+              "text": "Long-term and indefinite, or likely to result in death."
+            },
+            {
+              "title": "Substantially gainful",
+              "text": "Work at or above the program's annual earnings measure."
+            },
+            {
+              "title": "Late applicant",
+              "text": "Potential route when disability began while contributions still met the rule."
+            },
+            {
+              "title": "Retroactive payment",
+              "text": "Approved payment covering an eligible past period."
+            },
+            {
+              "title": "Reconsideration",
+              "text": "Formal request within 90 days to review a CPP decision."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Being unable to return to my old occupation automatically meets the CPP disability test.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My age and CPP or QPP contribution screen shows:",
+      "The date regular substantially gainful work became unsustainable is:",
+      "My conditions, treatment, response and prognosis evidence includes:",
+      "My reliable functional limits, frequency and recovery time are:",
+      "My job demands, accommodations and work attempts show:",
+      "My claimant application, medical report and submission confirmations are:",
+      "My gross work earnings and $7,400 reporting checkpoint are:",
+      "My decision date, 90-day reconsideration deadline or next review step is:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

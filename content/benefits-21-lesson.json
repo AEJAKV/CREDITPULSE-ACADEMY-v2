@@ -1,0 +1,537 @@
+{
+  "title": "Veteran Benefits",
+  "summary": "QUALIFY → MAP → ANCHOR → APPLY → REVIEW",
+  "subtitle": "You can serve twenty-three years and still not know the form number",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Somewhere in Canada tonight, a former combat engineer has two bad knees, hearing loss from the ranges, and a firm belief that none of it counts because he never deployed anywhere more exciting than Meaford in March."
+        },
+        {
+          "type": "paragraph",
+          "text": "He is wrong, and it is costing him money."
+        },
+        {
+          "type": "heading",
+          "text": "What this course does"
+        },
+        {
+          "type": "paragraph",
+          "text": "VAC publishes every program and every rule. The hard part is finding the right door after a long week. This module gives you the map: what may fit, what to apply for first and who can help for free."
+        }
+      ]
+    },
+    {
+      "id": "eligibility",
+      "title": "Who VAC actually counts as a Veteran",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE SHORT ANSWER"
+        },
+        {
+          "type": "paragraph",
+          "text": "For most VAC programs: someone who completed basic training and was honourably released. That is the whole test."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "No deployment required",
+              "text": "You do not have to have served overseas."
+            },
+            {
+              "title": "No combat required",
+              "text": "A training injury in Wainwright can be service-related."
+            },
+            {
+              "title": "Reserve service counts",
+              "text": "Class A, B and C, Primary Reserve, Rangers and COATS all matter."
+            },
+            {
+              "title": "Families have rights too",
+              "text": "Partners, survivors, orphans and caregivers may qualify in their own right."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no minimum-drama threshold. VAC is not grading how impressive the story sounds. The useful question is simpler: is the condition connected to service?"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I never deployed, so I do not qualify.”",
+              "text": "Service-related does not mean combat-related. Hearing loss from the ranges, a back injury from a load or a knee that went during PT may count. Reserve service counts too."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "CREDIT PULSE SPOTLIGHT: THE DOOR-OPENER"
+        },
+        {
+          "type": "spotlight",
+          "text": "An approved disability benefit, PSC or a Disability Pension, is more than a payment. It can unlock the Treatment Benefits Program and the health care card for that condition: hearing aids, physiotherapy and prescriptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Plain English: sequence beats speed. Apply for the key first, or alongside the programs it may unlock."
+        },
+        {
+          "type": "source",
+          "text": "VAC: Disability benefits",
+          "url": "https://veterans.gc.ca/en/financial-programs-and-services/disability-benefits"
+        },
+        {
+          "type": "source",
+          "text": "My VAC Account",
+          "url": "https://veterans.gc.ca/en/contact-us/my-vac-account"
+        }
+      ]
+    },
+    {
+      "id": "rooms",
+      "title": "The six rooms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Most VAC support fits into one of these six rooms. Start with the need, then learn the program name."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "Recognition",
+              "text": "",
+              "list": [
+                "PSC: today’s main tax-free disability benefit",
+                "Disability Pension: generally the older system",
+                "APSC: for a permanent barrier to rebuilding civilian life",
+                "Critical Injury Benefit: for a sudden, severe service injury"
+              ],
+              "detail": "For an illness or injury connected to service."
+            },
+            {
+              "title": "Income",
+              "text": "",
+              "list": [
+                "Rehabilitation: medical, emotional and job support",
+                "IRB: taxable monthly income while taking part in rehab",
+                "CF Income Support: a low-income floor while job-searching",
+                "War Veterans Allowance: income support that also carries treatment benefits"
+              ],
+              "detail": "For money coming in while you rebuild."
+            },
+            {
+              "title": "Health",
+              "text": "",
+              "list": [
+                "Prescriptions, dental, vision and daily-living aids",
+                "A VAC health care card after qualifying",
+                "Many providers bill Medavie Blue Cross directly",
+                "Some mental-health treatment starts as soon as you apply"
+              ],
+              "detail": "For treatment and health-related costs."
+            },
+            {
+              "title": "Home",
+              "text": "",
+              "list": [
+                "VIP may fund snow removal and yard work",
+                "It may also fund housekeeping, meals and personal care",
+                "Apply for VIP with the disability application when needed",
+                "The Caregiver Recognition Benefit is paid to the caregiver"
+              ],
+              "detail": "For the everyday work that helps you stay at home."
+            },
+            {
+              "title": "Career",
+              "text": "",
+              "list": [
+                "ETB may fund degrees, apprenticeships and short courses",
+                "ETB is taxable, an April surprise worth avoiding",
+                "Release-date deadlines apply",
+                "Career Transition Services provides a coach at no cost"
+              ],
+              "detail": "For school, training and the move into civilian work."
+            },
+            {
+              "title": "Emergency",
+              "text": "",
+              "list": [
+                "Food, shelter and clothing",
+                "Urgent uninsured medical or dental needs",
+                "No other VAC benefit is required",
+                "Veterans, spouses, survivors and orphans may qualify"
+              ],
+              "detail": "For an urgent problem affecting health or safety."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "ONE LINE WORTH REMEMBERING"
+        },
+        {
+          "type": "spotlight",
+          "text": "For certain mental-health conditions, treatment coverage can begin as soon as you apply for a disability benefit. You do not have to wait for the decision. VAC Assistance Service: 1-800-268-7708, 24/7."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“It has been twenty years. That ship has sailed.”",
+              "text": "Disability benefits have no general application deadline. Other programs do. ETB has a hard deadline, and funeral and burial assistance closes one year after death. Check each program."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regimes",
+      "title": "Two systems, one common confusion",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Your neighbour may receive a monthly cheque while you were offered a lump sum. That does not mean one file is wrong. You may be under different programs."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Usually applies to",
+              "text": "Disability Pension: Wartime service and applications before 1 April 2006 — Pain and Suffering Compensation: Applications from 1 April 2019 onward"
+            },
+            {
+              "title": "Payment choice",
+              "text": "Disability Pension: Monthly for life — Pain and Suffering Compensation: Monthly for life or a lump sum"
+            },
+            {
+              "title": "Taxable?",
+              "text": "Disability Pension: No — Pain and Suffering Compensation: No"
+            },
+            {
+              "title": "May unlock",
+              "text": "Disability Pension: Treatment benefits for the approved condition — Pain and Suffering Compensation: Treatment benefits for the approved condition"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "WHAT THIS DOES TO THE REST OF YOUR MONEY"
+        },
+        {
+          "type": "spotlight",
+          "text": "VAC decides whether you qualify. It does not choose what works best with your debts, taxes or income-tested benefits. That is your second calculation."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Lump sum",
+              "text": "Can clear expensive debt in one move, but the money can also be spent early."
+            },
+            {
+              "title": "Monthly",
+              "text": "Creates income you cannot spend in advance, but offers less money upfront."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Bottom line: neither choice is automatically “responsible.” They solve different problems."
+        }
+      ]
+    },
+    {
+      "id": "application",
+      "title": "Your first application, step by step",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Six steps. The order is the point."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Start online",
+              "text": "Open My VAC Account, then run the ten-minute Benefits Navigator. Collect every result before deciding what fits."
+            },
+            {
+              "title": "Document the condition",
+              "text": "See your medical provider before applying. The file needs the condition as it is today. The file is not impressed by what you meant."
+            },
+            {
+              "title": "Bring in free help",
+              "text": "Call a Legion or War Amps Service Officer, VAC, a CAF Transition Centre or Service Canada. They know which document tends to wander off."
+            },
+            {
+              "title": "Apply side by side",
+              "text": "Where allowed, submit related applications together. If home help is needed, ask about filing VIP with the disability application."
+            },
+            {
+              "title": "Check the service record",
+              "text": "VAC normally requests your service health records. You should confirm whether a CF98 or DND 663 incident form exists."
+            },
+            {
+              "title": "Use the decision letter",
+              "text": "If approved, check what it unlocks. If denied or deferred, the evidence list shows the gap and becomes your roadmap."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I was denied once, so that is the end of it.”",
+              "text": "The decision letter tells you what evidence VAC used. That can guide a departmental review, VRAB appeal, new application or reassessment if the condition worsens."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Your starter file"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Service number and dates",
+              "text": ""
+            },
+            {
+              "title": "Release documents",
+              "text": ""
+            },
+            {
+              "title": "CF98 or DND 663 incident reports",
+              "text": ""
+            },
+            {
+              "title": "Current civilian medical records",
+              "text": ""
+            },
+            {
+              "title": "Statements from people who served with you",
+              "text": ""
+            },
+            {
+              "title": "Direct-deposit details and scans",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "FREE HELP: REALLY FREE"
+        },
+        {
+          "type": "spotlight",
+          "text": "Legion and War Amps Service Officers can build the application with you, even if you are not a member. VAC, CAF Transition Centre and Service Canada staff can also help. None of this costs a dollar."
+        },
+        {
+          "type": "source",
+          "text": "VAC: Application help",
+          "url": "https://veterans.gc.ca/en/contact-us/get-help-your-application"
+        },
+        {
+          "type": "source",
+          "text": "VAC: Reviews and appeals",
+          "url": "https://veterans.gc.ca/en/financial-programs-and-services/compensation-illness-or-injury/reviews-and-appeals"
+        }
+      ]
+    },
+    {
+      "id": "pitfalls",
+      "title": "Three ways this goes wrong, named so you can spot them",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "The Modest File.",
+              "text": "Describing your worst day as “not that bad.” Understatement is a fine personal quality and a terrible filing strategy. Describe the bad days accurately, including what you can no longer do."
+            },
+            {
+              "title": "The Shoebox Archive.",
+              "text": "Every document exists. None of them are anywhere. This turns a two-hour task into a three-week task and is entirely solved by one afternoon with a scanner."
+            },
+            {
+              "title": "The Sequential Applicant.",
+              "text": "One form, wait, decision, next form, wait. Where parallel applications are allowed, using them can move your start date months earlier."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Dennis, the garage, and twelve years he thought did not count",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Dennis",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Dennis is sixty-one, lives outside Sudbury, and spent twelve years as a Reserve combat engineer: weekends, summer taskings, two Class B stints he mostly remembers for the food. Tinnitus he blames on demolition training, two knees he blames on everything else. He never applied, because a guy at the arena told him the process was a nightmare. The guy at the arena had never applied either.",
+            "His daughter sat him down with the Benefits Navigator on a Tuesday. Twenty minutes later he learned two things that had never occurred to him in thirty years: Reserve service counts, and he did not need a deployment to have a service-related injury. Finding his service number took longer than the questionnaire. It was on the back of a photograph, in a box, in the garage, behind the snowblower.",
+            "He did the rest in the right order. Hearing test and a doctor’s visit first, so the file had something current in it. Then the Legion Service Officer in town, free of charge, who told him to submit the Veterans Independence Program application at the same time, because he has a long driveway, front stairs and a Sudbury winter arriving on schedule.",
+            "The decision came back approved for the tinnitus and deferred on the knees pending a specialist report. The tinnitus entitlement got him the health care card, which covered hearing aids he had been putting off for three years, and the letter told him exactly which report the knee claim was missing. What nearly stopped all of it was not the paperwork or the wait times. It was a man deciding on his own, without asking anyone, that his twelve years did not count."
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Completed basic training and released honourably? Do not screen yourself out. Find the anchor entitlement, apply side by side where possible and have a free Service Officer check the file.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your action this week",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Set up or log into My VAC Account, even if you apply for nothing today.",
+              "text": ""
+            },
+            {
+              "title": "Run the Benefits Navigator and write down every program it returns. Collect, do not filter.",
+              "text": ""
+            },
+            {
+              "title": "Book one call with a Legion or War Amps Service Officer, or VAC at 1-866-522-2122. Bring the list and ask one question: which of these do I apply for first, and which can go in at the same time?",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Worksheet: your entitlement map"
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "PSC",
+              "text": "Pain and Suffering Compensation. The current tax-free disability benefit, monthly for life or lump sum."
+            },
+            {
+              "title": "APSC",
+              "text": "Additional Pain and Suffering Compensation. Monthly payment for a permanent barrier to re-establishment."
+            },
+            {
+              "title": "IRB",
+              "text": "Income Replacement Benefit. Taxable monthly support tied to VAC rehabilitation."
+            },
+            {
+              "title": "VIP",
+              "text": "Veterans Independence Program. Tax-free annual funding for home and health support services."
+            },
+            {
+              "title": "POC",
+              "text": "Programs of Choice. The categories that organize treatment benefit coverage."
+            },
+            {
+              "title": "ETB",
+              "text": "Education and Training Benefit. Taxable education funding with deadlines tied to your release date."
+            },
+            {
+              "title": "VEF",
+              "text": "Veterans Emergency Fund. Tax-free emergency help. No other VAC benefit required."
+            },
+            {
+              "title": "CF98 / DND 663",
+              "text": "the incident forms completed at the time of a service injury."
+            },
+            {
+              "title": "VRAB",
+              "text": "Veterans Review and Appeal Board. Independent body hearing reviews and appeals of disability decisions."
+            },
+            {
+              "title": "Service Officer",
+              "text": "a trained Legion or War Amps advocate who prepares your application with you at no cost."
+            }
+          ]
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "WHERE TO GET HELP",
+              "text": "",
+              "list": [
+                "Veterans Affairs Canada: 1-866-522-2122",
+                "VAC Assistance Service: 1-800-268-7708, 24 hours a day, free and confidential, open to Veterans, former RCMP members, families and caregivers whether or not you are a VAC client.",
+                "Legion or War Amps Service Officer: free application assistance, no membership required.",
+                "Last Post Fund: 1-800-465-7113, for funeral and burial assistance."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This module contains no dollar amounts on purpose. VAC rates change on different schedules, some quarterly. Current figures are published on the VAC rates page at veterans.gc.ca. Check them the day you need them."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are in crisis and need to speak with someone now, call or text 988, Canada's Suicide Crisis Helpline, 24 hours a day in English and French."
+        },
+        {
+          "type": "source",
+          "text": "VAC: Current rates",
+          "url": "https://veterans.gc.ca/en/about-vac/reports-policies-and-legislation/rates"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “I never deployed, so I do not qualify.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Which rooms am I in? (injury / income / health coverage / staying at home / education / emergency)",
+      "What is my anchor, the one approval that unlocks the most for me?",
+      "What can go in at the same time, rather than after?",
+      "What one document is missing from my file, and who is helping me get it?"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

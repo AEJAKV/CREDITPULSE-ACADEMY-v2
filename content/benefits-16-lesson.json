@@ -1,0 +1,338 @@
+{
+  "title": "Prescription Assistance",
+  "summary": "Identify → Enrol → Authorize → Price → Renew",
+  "subtitle": "Follow the drug from prescription to formulary to final pharmacy cost",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A prescription can fit on one screen. Its coverage journey may require a formulary, deductible, special authorization and three people saying, “Let me check that.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Public prescription coverage is delivered mainly through provincial, territorial and federal programs, with private plans layered on top. National pharmacare agreements currently cover listed contraception and diabetes products in participating jurisdictions. Other medicines remain governed by local drug plans, formularies and clinical authorization rules."
+        },
+        {
+          "type": "spotlight",
+          "text": "National pharmacare is not yet one universal list for every medication in every province. It applies to listed products in jurisdictions with agreements; local public drug plans remain essential."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Identify the correct public and private payer.",
+              "text": ""
+            },
+            {
+              "title": "Read formulary and generic rules.",
+              "text": ""
+            },
+            {
+              "title": "Separate deductible, co-pay and annual maximum.",
+              "text": ""
+            },
+            {
+              "title": "Prepare a special-authorization question.",
+              "text": ""
+            },
+            {
+              "title": "Complete a Prescription Coverage and Cost File.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A provincial health card automatically pays for every outpatient prescription.”",
+              "text": "Hospital and physician coverage does not equal universal retail-drug coverage. Eligibility, plan enrolment and formulary rules still matter."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Health Canada: National pharmacare coverage",
+          "url": "https://www.canada.ca/en/health-canada/services/canada-pharmacare-plan.html"
+        }
+      ]
+    },
+    {
+      "id": "payers",
+      "title": "Ask Who Pays Before Asking How Much",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Map the payer before pricing the medicine—a claim sent to the wrong door rarely comes back on time."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "PUBLIC PLAN",
+              "text": "Check provincial or territorial programs for seniors, children, social-assistance recipients, high drug costs, specific diseases or income-based coverage."
+            },
+            {
+              "title": "FEDERAL PROGRAM",
+              "text": "Eligible First Nations and Inuit clients, veterans, military members, federal public servants, refugees and others may have a federal route with its own rules."
+            },
+            {
+              "title": "PRIVATE PLAN",
+              "text": "Employer, union, retiree, student or individual coverage may pay first or coordinate with public programs."
+            },
+            {
+              "title": "PATIENT ASSISTANCE",
+              "text": "Manufacturer or charitable programs may help in limited circumstances, but verify privacy terms, duration and what happens when temporary funding ends."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Ontario’s Trillium Drug Program supports households with high eligible prescription costs relative to income. Ontario Drug Benefit coverage still follows the formulary and Exceptional Access rules."
+        },
+        {
+          "type": "spotlight",
+          "text": "Alberta Non-Group Coverage is optional supplementary coverage for eligible residents under 65 and charges a monthly premium. Alberta seniors have a separate premium-free program."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If one province covers a drug, every province must cover it.”",
+              "text": "Public formularies, therapeutic criteria and special-authorization systems differ. Medication names cross borders more easily than reimbursement rules."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Ontario: Prescription drug coverage",
+          "url": "https://www.ontario.ca/page/get-help-high-prescription-drug-costs"
+        }
+      ]
+    },
+    {
+      "id": "cost",
+      "title": "Covered Can Still Have Four Price Layers",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Read the receipt like a formulary, not a mood."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "F",
+              "text": "o"
+            },
+            {
+              "title": "D",
+              "text": "e"
+            },
+            {
+              "title": "C",
+              "text": "o"
+            },
+            {
+              "title": "M",
+              "text": "a"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "B.C. Fair PharmaCare uses family income to set deductible and family maximum. Registering and consenting to income verification is necessary for coverage matched to income."
+        },
+        {
+          "type": "spotlight",
+          "text": "Special Authority or Exceptional Access is normally submitted by the prescriber and assessed against clinical criteria. Approval can still leave a deductible or co-payment."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Special authorization means the medicine will be free.”",
+              "text": "It can make the drug eligible for plan payment; deductibles, co-payments, price rules and coordination may remain. Authorization opens the door—it does not pay the parking."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Key takeaway: Prescription assistance is a payer-and-product match. Verify the exact drug, plan, formulary status, authorization, deductible and pharmacy cost before assuming coverage or stopping treatment."
+        },
+        {
+          "type": "source",
+          "text": "B.C.: Fair PharmaCare plan",
+          "url": "https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/who-we-cover/fair-pharmacare-plan"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Dev and the Approval That Still Had a Deductible",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Dev",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Dev Sharma in Surrey received Special Authority approval for a new medication and arrived at the pharmacy expecting a zero-dollar receipt. The receipt, having received no such instructions, produced a substantial balance.",
+            "The conflict was Fair PharmaCare’s structure. Approval made the drug eligible, but Dev’s family deductible had not been met. His income information also needed updating so the deductible reflected the correct year.",
+            "Dev registered for income-based Fair PharmaCare, confirmed the authorization period and asked the pharmacist to explain the eligible drug cost, dispensing fee and family maximum. His prescriber discussed clinically appropriate alternatives without changing treatment casually.",
+            "The medicine did not become magically free. The cost became traceable—and Dev gained a plan for the deductible, renewal and next refill instead of a surprise at every counter visit."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A sudden high price can result from expired authorization, a deductible reset, changed income data, a different product or coordination failure. Ask which element changed before abandoning the prescription."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Approval and payment are separate steps. Confirm the deductible, income data and family maximum before expecting a zero balance."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Why is a health card not proof of retail-prescription coverage?",
+              "detail": "Hospital and physician coverage does not equal universal retail-drug coverage; eligibility, plan enrolment and formulary rules still matter.",
+              "text": ""
+            },
+            {
+              "title": "Which four payer routes should be checked?",
+              "detail": "Public plan, federal program, private plan and patient assistance.",
+              "text": ""
+            },
+            {
+              "title": "What details must match a formulary listing?",
+              "detail": "The exact drug, strength, form and eligible indication—a similar name is not always the same listing.",
+              "text": ""
+            },
+            {
+              "title": "What does special authorization accomplish?",
+              "detail": "It can make a restricted drug eligible for plan payment; deductibles, co-payments, price rules and coordination may still remain.",
+              "text": ""
+            },
+            {
+              "title": "How do deductible and co-payment differ?",
+              "detail": "A deductible is paid before the plan begins sharing eligible costs; a co-payment or coinsurance is the flat fee or percentage paid after coverage begins.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Complete Your Prescription Coverage and Cost File",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use medication and document labels only. Do not record health numbers, prescription numbers or clinical login information here."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Ask the pharmacist for the cost before dispensing and whether a lower-cost interchangeable product is covered. Never skip, split, substitute or stop a prescribed medicine solely because of cost without speaking with a pharmacist or prescriber about safe options."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Formulary",
+              "text": "Official list of drugs and coverage conditions."
+            },
+            {
+              "title": "Deductible",
+              "text": "Eligible cost paid before plan sharing begins."
+            },
+            {
+              "title": "Co-payment",
+              "text": "Flat or percentage member share of a covered claim."
+            },
+            {
+              "title": "Special authorization",
+              "text": "Clinical approval required before a restricted drug is covered."
+            },
+            {
+              "title": "Generic substitution",
+              "text": "Use of an interchangeable lower-cost version under plan rules."
+            },
+            {
+              "title": "Family maximum",
+              "text": "Annual eligible cost threshold after which plan payment increases."
+            },
+            {
+              "title": "Coordination of benefits",
+              "text": "Order and method by which multiple plans share a claim."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “A provincial health card automatically pays for every outpatient prescription.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My province or territory and public drug program are:",
+      "My private, federal or secondary coverage is:",
+      "The exact drug, strength, form and quantity are:",
+      "Its formulary status, generic or biosimilar rule is:",
+      "The special-authorization request, prescriber and deadline are:",
+      "My deductible, co-payment, dispensing fee and estimated cost are:",
+      "My pharmacy comparison or patient-assistance question is:",
+      "My refill, renewal, reassessment and coverage-change dates are:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

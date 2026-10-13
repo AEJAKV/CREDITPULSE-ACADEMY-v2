@@ -1,0 +1,533 @@
+{
+  "title": "Gym Fundamentals",
+  "summary": "Facility → Orientation → Cardio → Route",
+  "subtitle": "Walk in with a plan, use the room safely, and leave before confusion takes over",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This course provides general education, not personal medical care. Complete CSEP’s Get Active Questionnaire before a major increase in activity and follow its directions. Speak with a qualified health professional about relevant medical conditions, recent surgery, pregnancy or postpartum recovery, injury, unexplained symptoms, or medicines that affect exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
+        },
+        {
+          "type": "paragraph",
+          "text": "This course follows one gym visit from front desk to exit. You will learn what to ask, how to set up common equipment, what a simple session looks like, and how to leave without accidentally joining a competitive kettlebell league."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "How to compare facilities and understand basic membership terms.",
+              "text": ""
+            },
+            {
+              "title": "How to request an orientation and identify qualified help.",
+              "text": ""
+            },
+            {
+              "title": "How to adjust cardio and resistance machines.",
+              "text": ""
+            },
+            {
+              "title": "How to share equipment and follow gym etiquette.",
+              "text": ""
+            },
+            {
+              "title": "How to complete and repeat a simple first session.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "facility",
+      "title": "Choose the Gym You Will Actually Use",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The best facility is not automatically the largest or newest. It fits your location, schedule, budget, accessibility needs, comfort, and training goals."
+        },
+        {
+          "type": "paragraph",
+          "text": "Visit during the hours you expect to attend. Notice crowding, lighting, cleanliness, noise, ventilation, change-room access, water stations, transit, parking, and snow or ice management. Ask whether equipment and entrances are accessible. If privacy, culture, or gender-specific space matters, ask how and when it is provided."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the membership agreement before signing. Check the full price, initiation or key fees, contract length, renewal, cancellation method, freezes, guest access, class charges, and whether the advertised rate requires a longer commitment. Keep a copy. A free towel is charming, but it is not a cancellation policy."
+        },
+        {
+          "type": "spotlight",
+          "text": "Travel to the gym at your likely workout time. A twelve-minute map estimate can become a forty-minute February opinion."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The most expensive gym produces the best results.”",
+              "text": "Results depend more on suitable training, repetition, recovery, and attendance. Marble counters have limited effect on a chair squat."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Your facility filter"
+        },
+        {
+          "type": "paragraph",
+          "text": "Write your top three needs and one deal-breaker. Use them during a tour. A pool is not a benefit if you dislike swimming and the bus stops running before your workout ends."
+        }
+      ]
+    },
+    {
+      "id": "orientation",
+      "title": "Use the Orientation",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ask whether a staff orientation is included. A useful orientation covers emergency exits, first aid or automated external defibrillator location, cleaning stations, machine adjustments, change rooms, accessibility, and who can answer exercise questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Show staff your intended starting plan and ask them to demonstrate unfamiliar equipment. Do not guess how a pin, stop, safety arm, or treadmill emergency clip works. Machines are friendlier once introduced."
+        },
+        {
+          "type": "paragraph",
+          "text": "Staff roles differ. Front-desk employees, group instructors, personal trainers, physiotherapists, and CSEP professionals may have different education and scopes. Ask for the person’s credential, what it qualifies them to do, and whether the service costs extra."
+        },
+        {
+          "type": "spotlight",
+          "text": "For each machine, record the seat position, handle setting, and one form cue. Three useful notes beat a phone full of equipment photos with no explanation."
+        }
+      ]
+    },
+    {
+      "id": "etiquette",
+      "title": "Learn the Traffic Pattern",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Spend the first visit observing. Find cardio equipment, selectorized machines, free weights, stretching areas, lockers, cleaning supplies, and water. Notice which areas are crowded and where people move with weights."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep walkways clear. Do not stand directly behind someone lifting, cross under a cable, or step into another person’s range. Put bags in lockers or designated spaces."
+        },
+        {
+          "type": "heading",
+          "text": "Gym etiquette is mostly predictable courtesy"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Wipe equipment according to facility rules.",
+              "text": ""
+            },
+            {
+              "title": "Return weights and attachments to their proper place.",
+              "text": ""
+            },
+            {
+              "title": "Share during busy periods and follow posted time limits.",
+              "text": ""
+            },
+            {
+              "title": "Ask before working in with someone.",
+              "text": ""
+            },
+            {
+              "title": "Keep calls and filming away from other people.",
+              "text": ""
+            },
+            {
+              "title": "Use headphones at a level that still allows awareness.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Everyone is watching the beginner.”",
+              "text": "Most people are tracking their own sets, music, and survival on the stair machine. Good etiquette attracts less attention than trying to look experienced."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cardio",
+      "title": "Set Up Cardio Equipment",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Begin with a machine that feels stable and understandable. A treadmill, stationary bike, recumbent bike, elliptical, rower, or upper-body ergometer can provide cardio, but each has a different setup and skill demand."
+        },
+        {
+          "type": "heading",
+          "text": "Before pressing start"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stand beside the machine while you adjust it when possible. Check pedals, straps, seat position, handles, and clearances. Learn the start, stop, and resistance controls. On a treadmill, understand the emergency stop feature and begin at a slow speed before increasing it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Warm up for at least five minutes with easy activity. Current federal safety guidance recommends warming up before physical activity. Let breathing rise gradually."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use the talk test. At moderate effort, you can speak in sentences but singing is difficult. Beginners do not need to chase the highest resistance level, incline, or glowing animation of a mountain."
+        },
+        {
+          "type": "spotlight",
+          "text": "Adjust speed, incline, or resistance, not all three at once. One change makes your effort easier to judge and easier to reverse."
+        },
+        {
+          "type": "heading",
+          "text": "Getting off safely"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reduce the effort, allow the machine to slow or stop, and step off carefully. Some people feel briefly unsteady after treadmills or ellipticals. Hold the rail while orienting yourself, without continuing if dizziness or concerning symptoms occur."
+        }
+      ]
+    },
+    {
+      "id": "resistance",
+      "title": "Set Up Resistance Machines",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Selectorized machines guide a load along a fixed path. They can help beginners learn resistance training, but the machine still needs to fit the user."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the diagram. Adjust the seat or pad so the machine’s pivot is reasonably aligned with the joint being trained, according to the equipment instructions. Choose a light starting load. Insert the pin fully. Move through a comfortable range with control and breathe throughout the repetition."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not let plates crash together. End the set when posture, range, comfort, or speed changes noticeably. Record the machine name, setting, and load only after the setup feels correct."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Machines are completely safe because they control the path.”",
+              "text": "Machines reduce some demands but do not remove poor setup, excessive load, damaged equipment, or medical concerns. Guided does not mean self-driving."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Jordan’s Twenty-Five-Minute First Visit",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Jordan",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Jordan, 47, joined a community recreation centre in Edmonton after years away from structured exercise. He expected the first workout to prove he belonged. Instead, the trainer leading his included orientation asked him to make the first visit a rehearsal.",
+            "Jordan found the lockers, exits, cleaning stations, cardio area, and five resistance machines. He wrote the seat settings in his phone. His session was five easy minutes on a recumbent bike, one light set each on a leg press, chest press, seated row, leg curl, and cable-free core machine, then five minutes of easy walking.",
+            "He skipped the crowded free-weight area because it was not part of that day’s plan. He wiped each machine, returned one wandering attachment, and left while he still felt steady. The entire visit took twenty-five minutes.",
+            "On his third visit, Jordan knew the route and needed less time for setup. After two weeks, he added a few repetitions to two machines. He did not become a gym person through a dramatic transformation. He became someone who knew where the row machine was and returned on Thursday."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "What Jordan did well"
+        },
+        {
+          "type": "paragraph",
+          "text": "He used orientation, rehearsed the space, recorded settings, kept the first dose small, and repeated it before progressing. Confidence followed familiarity."
+        },
+        {
+          "type": "spotlight",
+          "text": "A short visit that teaches entry, setup, and flow reduces friction for every later session. Learning the room is legitimate work."
+        }
+      ]
+    },
+    {
+      "id": "freeweights",
+      "title": "Free Weights and Cables Need Extra Room",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dumbbells, barbells, kettlebells, and cable stations offer flexible resistance. They also require more control, space awareness, and equipment knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Start with exercises and loads you can manage without breath-holding or loss of control. Learn rack safety arms, collars, bench adjustments, and cable attachments before use. Do not stand where another person could drop or swing a weight. Never step over a loaded bar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask qualified staff for help with unfamiliar lifts. A spotter must understand the exercise and agree to help. Random proximity does not create a spotting contract."
+        },
+        {
+          "type": "heading",
+          "text": "If equipment is busy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wait at a safe distance, ask how many sets remain, or use a planned alternative. Do not redesign the whole session out of irritation. A machine being occupied is scheduling, not betrayal."
+        }
+      ]
+    },
+    {
+      "id": "route",
+      "title": "Use a First-Session Route",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A beginner session can be simple:"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "CHECK IN",
+              "text": "Check in and store belongings."
+            },
+            {
+              "title": "WARM UP",
+              "text": "Warm up with at least five minutes of easy activity."
+            },
+            {
+              "title": "ONE CONTROLLED SET",
+              "text": "Complete one controlled set on four to six familiar resistance machines or exercises."
+            },
+            {
+              "title": "ADD CARDIO",
+              "text": "Add a short easy-to-moderate cardio period if appropriate."
+            },
+            {
+              "title": "EASE DOWN",
+              "text": "Ease down, clean equipment, record useful settings, and leave."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Rest as needed. The session length and exercises should match your starting point, screening result, ability, and professional guidance. Two non-consecutive full-body strength sessions can help adults work toward Canadian movement recommendations."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A workout only counts if you leave exhausted.”",
+              "text": "A suitable session creates a manageable challenge and allows recovery. Exhaustion is an experience, not a receipt."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Progress one feature"
+        },
+        {
+          "type": "paragraph",
+          "text": "After the route feels controlled on more than one visit, add a few repetitions, a small amount of resistance, a little cardio time, or another suitable exercise. Avoid changing everything in one week."
+        },
+        {
+          "type": "spotlight",
+          "text": "Record the exercise and setting, what you completed, and one note about effort or comfort. Your future self needs clues, not a memoir."
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "title": "Access Across Canada",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Municipal recreation centres, university or college facilities, YMCAs, private gyms, community health centres, and Indigenous friendship or wellness centres may offer different prices, hours, programs, and accessibility. Ask about introductory tours, adapted equipment, older-adult sessions, women-only times, quiet hours, fee assistance, and virtual orientation."
+        },
+        {
+          "type": "paragraph",
+          "text": "In rural, northern, or remote communities, a school gym, community hall, workplace facility, or small recreation centre may be the local option. Confirm staffing, emergency procedures, weather closures, transport, and cellular access. Facility rules and professional regulation vary by province and territory."
+        },
+        {
+          "type": "heading",
+          "text": "Membership and consumer check"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the written agreement and retain receipts and cancellation records. Provincial and territorial consumer-protection rules differ. Search your government’s consumer affairs page if fees, renewals, or cancellation terms are unclear. Do not rely on a verbal promise when the contract says something else."
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gym confidence comes from knowing the route. Compare the facility carefully, use the orientation, learn one equipment setup at a time, follow shared-space etiquette, and repeat a modest session before progressing."
+        },
+        {
+          "type": "spotlight",
+          "text": "Take one discreet photo of a machine’s name label only if facility rules allow it, then write the setting beside it. Avoid including other members. The goal is memory support, not an accidental documentary series."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Test What Stuck",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Name four factors that can matter more than a gym’s size.",
+              "detail": "Examples include location, schedule, cost, accessibility, comfort, transport, staffing, and suitable equipment.",
+              "text": ""
+            },
+            {
+              "title": "What should a useful orientation cover?",
+              "detail": "Exits, emergency equipment, cleaning stations, facility layout, machine adjustments, accessibility, and where to get qualified help.",
+              "text": ""
+            },
+            {
+              "title": "Why should you change only one cardio control at a time?",
+              "detail": "It makes the change in effort easier to judge and reverse.",
+              "text": ""
+            },
+            {
+              "title": "What must you check before using a resistance machine?",
+              "detail": "Read the instructions; inspect the equipment; adjust the seat, pads, and handles; choose a light load; and insert the pin fully.",
+              "text": ""
+            },
+            {
+              "title": "True or false: Machine-guided movement removes all risk.",
+              "detail": "False. Setup, load, equipment condition, technique, and health factors still matter.",
+              "text": ""
+            },
+            {
+              "title": "What does “working in” mean at a gym?",
+              "detail": "Alternating sets on the same equipment with another member, after asking and agreeing on settings or loads.",
+              "text": ""
+            },
+            {
+              "title": "When is a beginner ready to progress the first-session route?",
+              "detail": "After the route feels controlled on more than one visit and recovery is reasonable.",
+              "text": ""
+            },
+            {
+              "title": "What belongs in a three-line training log?",
+              "detail": "Exercise and setting, work completed, and one effort or comfort note.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Plan Your Calm First Visit",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete the relevant safety screen. Book or request a facility orientation. During your first visit, locate the emergency features, practise one cardio setup, learn four resistance-machine settings, and record what you need for the next visit."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Skip any medical details or symptoms in this form. Just the plan."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Cable station",
+              "text": "Equipment that uses cables, pulleys, handles, and a weight stack or plates."
+            },
+            {
+              "title": "Collar",
+              "text": "A device used to help secure weight plates on a bar."
+            },
+            {
+              "title": "Free weight",
+              "text": "A dumbbell, barbell, kettlebell, or other load not fixed to one machine path."
+            },
+            {
+              "title": "Selectorized machine",
+              "text": "A resistance machine whose load is commonly chosen with a pin in a weight stack."
+            },
+            {
+              "title": "Set",
+              "text": "A group of repetitions performed before resting."
+            },
+            {
+              "title": "Spotter",
+              "text": "A person who knowingly assists with safety during a suitable lift."
+            },
+            {
+              "title": "Working in",
+              "text": "Sharing equipment by alternating sets."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “The most expensive gym produces the best results.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My three facility needs are:",
+      "My deal-breaker is:",
+      "The orientation will show me:",
+      "My cardio machine and starting setup are:",
+      "My four to six resistance exercises are:",
+      "My planned alternative when equipment is busy is:",
+      "The three items in my log will be:",
+      "My next visit is booked for:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information, not personal medical care."
+  },
+  "sources": []
+}

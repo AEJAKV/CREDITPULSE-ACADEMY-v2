@@ -1,0 +1,311 @@
+{
+  "title": "Canada Workers Benefit",
+  "summary": "Screen → Calculate → Advance → Reconcile → Act",
+  "subtitle": "Run the numbers before your refund develops an alter ego",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A paycheque can disappear with the confidence of a magician who has rent, groceries and a phone bill helping backstage."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Canada Workers Benefit, or CWB, is a refundable federal tax credit for workers and families with low income. It has a basic amount and a possible disability supplement. The CRA works out your amount from your yearly tax return. It is not a fixed bonus attached to every job."
+        },
+        {
+          "type": "spotlight",
+          "text": "For the 2025 tax year, the published maximum basic CWB is $1,633 for a single person and $2,813 for a family. Income limits and calculations differ in Alberta, Quebec and Nunavut, and a maximum is never a personal quote."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Tell working income apart from adjusted net income.",
+              "text": ""
+            },
+            {
+              "title": "Check the main eligibility rules without promising yourself a result.",
+              "text": ""
+            },
+            {
+              "title": "Explain the basic amount, the disability supplement and advance payments.",
+              "text": ""
+            },
+            {
+              "title": "Match an RC210 statement to your yearly claim.",
+              "text": ""
+            },
+            {
+              "title": "Fill in a simple CWB and ACWB review sheet.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If I worked during the year, I automatically receive the maximum CWB.”",
+              "text": "Work is only the opening scene. Age, residency, student or confinement rules, your family situation and your income all matter. The maximum is the ceiling, not the welcome mat."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Learn which four numbers the CRA uses, and you can predict your Workers Benefit within a range before you file.",
+          "detail": "Knowing the gap between your gross pay and your adjusted income keeps you from planning around a number the CRA never uses.",
+          "extra": "Next, the four numbers that shape your benefit."
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Do Not Ask One Number to Do Four Jobs",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "WORKING INCOME",
+              "text": "Pay from a job and eligible self-employment counts toward the CWB. It is not just the money left after payday."
+            },
+            {
+              "title": "ADJUSTED NET INCOME",
+              "text": "The CRA uses your adjusted net income if you are single. If you have a spouse or common-law partner, it uses adjusted family net income instead."
+            },
+            {
+              "title": "BASIC CWB",
+              "text": "The benefit grows from zero as you start earning, reaches a maximum, then shrinks once your adjusted income passes a set limit."
+            },
+            {
+              "title": "DISABILITY SUPPLEMENT",
+              "text": "You may get an extra amount if you're approved for the Disability Tax Credit and meet the income rules."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "For 2025, the maximum disability supplement is $843. You need Disability Tax Credit approval, and income limits depend on where you live and your family situation."
+        },
+        {
+          "type": "spotlight",
+          "text": "The basic CWB starts shrinking once adjusted net income passes $26,855 for a single person, or adjusted family net income passes $30,639 for a family, under the standard 2025 rules. Provincial exceptions apply."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My gross pay tells me exactly what my CWB will be.”",
+              "text": "Your return separates working income from adjusted income, then applies family status, limits, reductions and provincial rules. Tax software can do the math, but you should still know the ingredients."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "advance",
+      "title": "Early Money Is Still Part of the Same Benefit",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If CRA records show you qualify, the Advanced Canada Workers Benefit, or ACWB, can pay up to half of your estimated CWB during the year. There is no separate application. The estimate uses tax information you already filed, and the final yearly CWB is settled on your next return."
+        },
+        {
+          "type": "spotlight",
+          "text": "The 2026 ACWB payment dates are 12 January, 10 July and 9 October. Dates can shift, so confirm the current schedule before you plan your cash flow around them."
+        },
+        {
+          "type": "paragraph",
+          "text": "The CRA sends an RC210 statement that shows your advance amounts, including any disability portion. Keep it with your tax records and report it on Schedule 6. An advance is part of the year’s benefit arriving before the final calculation."
+        },
+        {
+          "type": "spotlight",
+          "text": "Alberta, Quebec and Nunavut use adjusted CWB maximums and income limits. Pick the right provincial or territorial Schedule 6."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“ACWB payments are extra money on top of the final CWB.”",
+              "text": "They are advances against your estimated yearly benefit. Your return matches what arrived early against the final calculation, so save the RC210 and don't count the same dollars twice."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "The CWB is settled through your yearly tax return. The ACWB is early delivery of part of an estimated benefit. It is not an extra benefit, and it must be matched against your final claim."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Maya and the Refund That Arrived Early",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Maya",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Maya Singh was a line cook in Halifax, and her hours rose and fell with the seasons. Her goal that summer was clear. Her sublet ended in April, and she needed $1,800 for first and last month's rent on a place of her own. She kept the money in a yellow envelope marked RENT in her kitchen drawer.",
+            "By July the envelope held $1,550, and she was counting on her spring refund for the last $250. Then a deposit of about $270 landed in her bank account from the CRA. Nobody had told her to expect it.",
+            "Maya decided it was a bonus. A used fridge was listed for $260, and her new place would need one. She figured she could buy it now and still count on the same money in her spring refund.",
+            "A letter arrived that week. It was a statement called an RC210, and it said the deposit was an advance on her Canada Workers Benefit, paid early from an estimate. She read it twice. If the deposit was an advance, her refund would count it. She could not spend the same dollars twice.",
+            "The fridge seller wanted an answer by Friday. Maya had two choices. She could buy it now and hope her refund covered everything. Or she could put the advance in the envelope and wait to see what her return said. She picked the envelope. She wrote RC210 on a sticky note and stuck it to the flap.",
+            "In March she filed. Her extra shifts had raised her income, and Schedule 6 showed her final benefit was smaller than the early estimate. The advance had already paid most of it, so her refund added only a little. If she had spent the money and counted it again, her rent plan would have come up short.",
+            "Instead, the envelope held $1,820. Maya signed the lease in April and bought a used fridge the same week, paid for with tips. The money was real. The double-counting was the illusion."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A changing work schedule does not make planning impossible. Keep your pay records, update a rounded income estimate and set aside part of any unexpected advance until the yearly calculation is clear."
+        },
+        {
+          "type": "transition",
+          "text": "Maya almost spent the same money twice, and one statement in her mailbox stopped her.",
+          "detail": "Saving her RC210 and holding the advance back kept her rent plan intact when her income changed.",
+          "extra": "Then test yourself with a five-question quick check."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What are the two parts of the CWB?",
+              "detail": "A basic amount and a disability supplement.",
+              "text": ""
+            },
+            {
+              "title": "Why can gross pay and adjusted net income tell different stories?",
+              "detail": "Gross pay is only part of the formula. Working income, adjusted income, family status, income limits and provincial rules can all differ.",
+              "text": ""
+            },
+            {
+              "title": "What is the ACWB, and do you apply for it separately?",
+              "detail": "The ACWB pays up to half of your estimated CWB early, when CRA records show you qualify. There is no separate application.",
+              "text": ""
+            },
+            {
+              "title": "Why should you save your RC210?",
+              "detail": "It lists the advance amounts you received, including any disability portion. You report them on Schedule 6.",
+              "text": ""
+            },
+            {
+              "title": "Which places have special CWB rules?",
+              "detail": "Alberta, Quebec and Nunavut.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your CWB and ACWB Review Sheet",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Short answers, plain language. Use rounded figures, and please don't enter your SIN, banking details or tax account numbers. This is preparation, not tax or legal advice."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Treat online estimates as planning ranges. A change in income, marital status or DTC status, or a reassessment, can move the final number."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "CWB",
+              "text": "Canada Workers Benefit. A refundable credit for workers with low income."
+            },
+            {
+              "title": "Refundable credit",
+              "text": "A credit that can pay you money even when you owe no income tax."
+            },
+            {
+              "title": "Working income",
+              "text": "Pay from a job and eligible self-employment income, used in the calculation."
+            },
+            {
+              "title": "ANI / AFNI",
+              "text": "Adjusted net income, or adjusted family net income if you have a partner."
+            },
+            {
+              "title": "ACWB",
+              "text": "Advance Canada Workers Benefit. An automatic early payment of part of your estimated CWB."
+            },
+            {
+              "title": "RC210",
+              "text": "The CRA statement that lists the ACWB payments you received."
+            },
+            {
+              "title": "Schedule 6",
+              "text": "The tax-return form used to work out your CWB and match it to your advances."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “If I worked during the year, I automatically receive the maximum CWB.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Which province or territory do you live in, and do you file alone or with a spouse or partner?",
+      "Roughly, how much did you earn from work last year?",
+      "Are you approved for the Disability Tax Credit? (Yes / No / Not sure)",
+      "Did you get ACWB deposits from the CRA this year? (Yes / No / Not sure)",
+      "Do you have your RC210 statement? (Yes / No / Not sure)",
+      "Did your income, marital status or address change this year?",
+      "What's one thing you'll check or fix before you file your return?"
+    ],
+    "samples": [
+      "One line is fine, e.g. \"Nova Scotia, filing alone.\"",
+      "An estimate is fine. Round to the nearest thousand if that's easier.",
+      "",
+      "",
+      "",
+      "Write \"no changes\" if nothing's different.",
+      "One sentence is enough."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information, not an eligibility or payment determination."
+  },
+  "sources": []
+}

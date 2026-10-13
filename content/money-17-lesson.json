@@ -1,0 +1,328 @@
+{
+  "title": "Saving for a Home",
+  "summary": "Price → Four Funds → Savings Route → Timeline → Ready",
+  "subtitle": "Build the entire purchase fund before the listing photos start making decisions",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Reaching the minimum down payment feels like the summit. Then closing costs, moving expenses and the emergency reserve arrive carrying clipboards."
+        },
+        {
+          "type": "paragraph",
+          "text": "This masterclass builds a complete home-purchase cash target instead of treating the down payment as the whole trip. You will calculate four separate funds, compare savings routes and document the source of money. You will also choose a timeline that still leaves the household stable after possession. Mortgage qualification, tax eligibility and provincial purchase costs require separate verification. This workbook organizes the preparation."
+        },
+        {
+          "type": "spotlight",
+          "text": "For homes priced from more than $500,000 to less than $1.5 million, the current federal minimum is 5% of the first $500,000 plus 10% of the portion above $500,000. At $1.5 million or more, the minimum is 20%."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Calculate the current federal minimum down payment for an illustrative price.",
+              "text": ""
+            },
+            {
+              "title": "Separate down payment, closing, move-in and emergency-reserve funds.",
+              "text": ""
+            },
+            {
+              "title": "Describe where FHSA, HBP, TFSA and accessible savings may fit, subject to rules.",
+              "text": ""
+            },
+            {
+              "title": "Create a monthly savings gap and test it against the household budget.",
+              "text": ""
+            },
+            {
+              "title": "Complete a Home Purchase Cash Target and Savings Timeline Workbook.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Once I save the down payment, I am financially ready to buy.”",
+              "text": "A buyer also needs closing costs, moving and first-repair money, plus a reserve that survives the purchase. Qualification and affordability are separate tests."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "The down payment is the summit everyone photographs. Closing, move-in and the reserve are the rest of the mountain.",
+          "detail": "Giving every dollar its own labelled fund is what stops a correct down-payment number from becoming an incomplete one.",
+          "extra": "Four funds to build start now, before a single showing gets booked."
+        }
+      ]
+    },
+    {
+      "id": "funds",
+      "title": "Give Every Dollar a Camp",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "spotlight",
+          "text": "FCAC suggests planning about 1.5% to 4% of the purchase price for upfront or closing costs. On $550,000, that is an illustrative $8,250 to $22,000 before moving and reserves."
+        },
+        {
+          "type": "heading",
+          "text": "Choose the supply route carefully"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "01",
+              "text": "FHSA: Current CRA rules provide $8,000 of participation room in the first year an eligible person opens an FHSA, with a $40,000 lifetime contribution or transfer limit. Contributions are generally deductible; qualifying withdrawals may be tax-free."
+            },
+            {
+              "title": "02",
+              "text": "Home Buyers’ Plan: An eligible person may currently withdraw up to $60,000 from RRSPs under the HBP. The amount generally follows a repayment schedule of up to 15 years, or missed required repayments may be included in income."
+            },
+            {
+              "title": "03",
+              "text": "TFSA: Available room may support flexible tax-free saving and withdrawals. Confirm personal contribution room and remember that replacement room normally returns in a later year."
+            },
+            {
+              "title": "04",
+              "text": "Accessible savings or GICs: For a shorter or known purchase date, compare access, maturity dates, penalties, rates and deposit protection. Avoid making the closing fund depend on a last-minute market recovery."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "CRA permits an eligible HBP withdrawal and a qualifying FHSA withdrawal for the same home when all conditions for each program are met."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“FHSA and HBP money is automatically tax-free for every first-home purchase.”",
+              "text": "Eligibility, contribution or transfer limits, qualifying-home rules, withdrawal timing and HBP repayment obligations all matter. Verify the current CRA requirements before moving money."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "CRA: First Home Savings Account",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Sophie and Marcus Meet the Second Mountain",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Sophie and Marcus",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Sophie Tremblay and Marcus Reed had saved $30,000 toward a $550,000 home near Ottawa. They opened the savings app, admired the round number and booked three showings. In their minds, the down payment flag was already planted at the summit. The remaining costs were apparently expected to hike up on their own.",
+            "The conflict appeared when their mortgage professional asked about closing cash, the source of two large deposits and what would remain after possession. Their minimum down-payment calculation was correct, but they had not set aside legal and inspection costs, property-tax adjustments, moving expenses or a repair reserve. One deposit was a family gift without completed documentation; another had travelled through several accounts and now looked more mysterious than it deserved.",
+            "Sophie and Marcus built a four-part target. They kept the $30,000 down payment separate, used the FCAC percentage range to create a closing-cost band, priced the move and set a household reserve that would remain untouched after closing. They checked their FHSA room and qualifying-withdrawal requirements, reviewed Marcus’s possible HBP use and repayment impact, and confirmed every step with the institutions and current CRA guidance.",
+            "The complete target was larger than $30,000, so they changed the route instead of borrowing the gap on credit cards. They lowered the target price, extended the timeline by ten months and automated transfers on each payday. The family gift was documented before entering the purchase fund. Account statements were kept in a simple evidence folder, not sent on a six-account sightseeing tour the week before approval.",
+            "When they returned to the market, they had the down payment, a documented closing fund, move-in cash and a reserve. They still needed lender approval, an inspection and a property-specific legal review. Their eventual purchase was less dramatic than the first open house and far more durable: the furnace had an age, the budget had walls and the first repair did not immediately become high-interest debt."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Sophie and Marcus did not solve a larger target with last-minute debt. They adjusted price and time, documented the funds and kept a reserve beyond possession day."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The four-part target exposed the missing costs. A longer timeline and lower price protected the purchase from consuming every available dollar."
+        },
+        {
+          "type": "transition",
+          "text": "Sophie and Marcus found the real gap before a lender did, and chose a slower price over a faster credit card.",
+          "detail": "Turning a target into a monthly transfer is what carried their fund the rest of the way without new debt.",
+          "extra": "Turn your own target into a route next, one payday at a time."
+        }
+      ]
+    },
+    {
+      "id": "route",
+      "title": "Turn the Target Into a Route",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Set the complete target",
+              "text": "Add the down payment, a researched closing-cost estimate, move-in needs and the reserve that must remain."
+            },
+            {
+              "title": "Subtract dedicated savings",
+              "text": "Count money that is available and documented. Treat gifts, tax refunds or bonuses as assumptions until confirmed and permitted."
+            },
+            {
+              "title": "Calculate the gap",
+              "text": "Divide the remaining amount by the months to the target date, then translate the monthly figure into payday transfers."
+            },
+            {
+              "title": "Stress-test the household",
+              "text": "Protect rent, debt payments, insurance, food and emergency needs. If the saving rate is fragile, change the price, target or date before using high-interest debt."
+            },
+            {
+              "title": "Prepare the evidence",
+              "text": "Keep statements, FHSA or RRSP records, gift documents and explanations for large deposits. Ask the lender what proof is required and how recent it must be."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A down payment below 20% typically requires mortgage loan insurance. The insurance protects the lender, not the borrower, and its premium can increase the mortgage cost."
+        },
+        {
+          "type": "spotlight",
+          "text": "Provincial and municipal land-transfer taxes, registration charges, rebates and programs can materially change closing cash. Verify the property location and current rules before making an offer."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If a lender approves the price, the home is affordable for my household.”",
+              "text": "Approval tests lender criteria using documented information. Household affordability also includes repairs, utilities, property taxes, insurance, goals and the cash buffer that remains after closing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What is the current minimum down payment on an illustrative $550,000 home?",
+              "detail": "$30,000: 5% of the first $500,000 plus 10% of the remaining $50,000.",
+              "text": ""
+            },
+            {
+              "title": "Using FCAC’s range, what closing-cost band should be explored for $550,000?",
+              "detail": "Approximately $8,250 to $22,000, before moving expenses and reserves.",
+              "text": ""
+            },
+            {
+              "title": "Who does mortgage loan insurance primarily protect?",
+              "detail": "The lender, not the borrower.",
+              "text": ""
+            },
+            {
+              "title": "How do an FHSA and the HBP differ at a high level?",
+              "detail": "An FHSA uses eligible contributions and qualifying withdrawals; the HBP permits eligible RRSP withdrawals that generally must be repaid over time.",
+              "text": ""
+            },
+            {
+              "title": "Why should an emergency reserve remain after possession?",
+              "detail": "Repairs, income changes and other emergencies continue after the keys arrive; preserving cash reduces the need for high-interest debt.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Home Purchase Cash Target",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use estimates until a property, province and lender are known. Do not record full account numbers, SINs, passwords or private tax identifiers in this workbook."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "A ready home fund has four labelled jobs: purchase price, closing, move-in and resilience. The keys should not receive every dollar you own."
+        },
+        {
+          "type": "takeaway",
+          "text": "Save for the home purchase—not only the down payment.",
+          "detail": "Build four separate funds, document where the money came from and choose a price and timeline that leave the household resilient after possession."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Down payment",
+              "text": "Money applied directly to the purchase price; the mortgage finances the remaining eligible amount."
+            },
+            {
+              "title": "Closing costs",
+              "text": "One-time purchase costs such as legal fees, inspection, adjustments, title insurance and applicable transfer charges."
+            },
+            {
+              "title": "Mortgage loan insurance",
+              "text": "Coverage that protects the lender when an insured mortgage borrower defaults."
+            },
+            {
+              "title": "FHSA",
+              "text": "A registered plan for eligible first-time home buyers, subject to contribution, transfer and withdrawal rules."
+            },
+            {
+              "title": "Home Buyers’ Plan",
+              "text": "A program allowing eligible withdrawals from RRSPs for a qualifying home. It is generally followed by required repayments."
+            },
+            {
+              "title": "Qualifying withdrawal",
+              "text": "A withdrawal meeting the applicable program’s eligibility, home, timing and documentation conditions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Once I save the down payment, I am financially ready to buy.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My target location, price range and desired purchase month are:",
+      "My minimum down-payment calculation and preferred down-payment target are:",
+      "My researched closing-cost range and property-specific costs to confirm are:",
+      "My move-in, setup and essential first-repair fund is:",
+      "The emergency reserve that will remain after closing is:",
+      "My verified FHSA, HBP, TFSA and accessible-savings options and conditions are:",
+      "My total target, dedicated savings, remaining gap and payday transfer are:",
+      "My documentation checklist, review dates and price-or-timeline adjustment trigger are:"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information and current program and lender rules must be verified."
+  },
+  "sources": []
+}

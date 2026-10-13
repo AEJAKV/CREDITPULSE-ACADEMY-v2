@@ -1,0 +1,327 @@
+{
+  "title": "Canada Pension Plan",
+  "summary": "Read → Estimate → Compare → Apply → Review",
+  "subtitle": "Decode what decades of contributions may become each month",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "CPP does not reward the person who remembers every pay stub since 1984. It does, however, appreciate a clean contribution record, so the old filing cabinet may finally enjoy a supporting role."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Canada Pension Plan retirement pension is a taxable monthly benefit based mainly on valid CPP contributions, pensionable earnings and the age payments begin. A person generally needs to be at least 60 and have at least one valid contribution. Quebec workers normally contribute to the Quebec Pension Plan instead."
+        },
+        {
+          "type": "spotlight",
+          "text": "The 2026 maximum new CPP retirement pension at age 65 is $1,507.65 monthly, while the April 2026 average for new beneficiaries was $877.01. Most people do not receive the maximum."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Read a CPP Statement of Contributions.",
+              "text": ""
+            },
+            {
+              "title": "Identify the factors affecting the estimate.",
+              "text": ""
+            },
+            {
+              "title": "Compare starting from age 60 to 70.",
+              "text": ""
+            },
+            {
+              "title": "Recognize child-rearing and post-retirement provisions.",
+              "text": ""
+            },
+            {
+              "title": "Complete a CPP Start-Date Decision File.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Everyone receives the advertised maximum CPP at 65.”",
+              "text": "The maximum assumes a strong contribution history at the required earnings levels. Your record and start age determine your amount; the headline maximum is not a retirement participation trophy."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Service Canada: CPP retirement pension",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit.html"
+        }
+      ]
+    },
+    {
+      "id": "record",
+      "title": "Four Inputs Build the Estimate",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "CONTRIBUTION HISTORY",
+              "text": "The Statement of Contributions records pensionable earnings and CPP contributions. Investigate missing or incorrect years before treating an estimate as final."
+            },
+            {
+              "title": "EARNINGS PATTERN",
+              "text": "CPP considers how much and how long a person contributed. The base calculation can exclude some low-earning periods; the enhanced component uses its own rules."
+            },
+            {
+              "title": "PROTECTIVE PROVISIONS",
+              "text": "Child-rearing, disability and general low-earnings provisions may protect the calculation when their conditions are met."
+            },
+            {
+              "title": "START AGE",
+              "text": "The pension is permanently adjusted according to the month it begins before or after age 65."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The base CPP calculation may exclude as many as eight years of lowest earnings. The enhanced calculation generally uses the best 40 years. Service Canada applies the exact rules."
+        },
+        {
+          "type": "spotlight",
+          "text": "Child-rearing provisions may remove low or zero-earning months from the base calculation or add enhanced pension credits when the claimant was the primary caregiver of a child under seven and the criteria are met."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A zero-earning year always lowers CPP by the same amount.”",
+              "text": "General, child-rearing and disability provisions can change how low-earning periods are treated. The calendar contains years; the formula contains exceptions."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Service Canada: CPP amount",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/amount.html"
+        }
+      ]
+    },
+    {
+      "id": "ages",
+      "title": "Early, Standard or Delayed Is a Decision, Not a Ranking",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Starting before 65 reduces CPP by 0.6% for each month early, to a maximum 36% reduction at 60. Delaying after 65 increases CPP by 0.7% per month, to a maximum 42% increase at 70. Waiting beyond 70 adds no further increase."
+        },
+        {
+          "type": "spotlight",
+          "text": "Start-age percentages are permanent adjustments. Compare household cash flow, health, work plans, taxes, savings and survivor needs, not only a mathematical break-even age."
+        },
+        {
+          "type": "paragraph",
+          "text": "CPP is not automatic. Apply in advance through My Service Canada Account or by the applicable paper route. An application decision should account for other taxable income and income-tested benefits such as GIS."
+        },
+        {
+          "type": "spotlight",
+          "text": "CPP is taxable. Tax is not automatically withheld unless requested, so include it in the household tax plan before the first deposit starts looking entirely spendable."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Starting CPP at 60 is always a mistake, or always the smart move.”",
+              "text": "Neither age wins for everyone. Longevity, cash need, employment, investments, taxes and benefit interactions can point to different rational choices."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Verify the contribution record, claim every applicable protective provision, then compare start dates within the whole retirement-income plan."
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "title": "Retirement Can Still Have a Paycheque",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A person can work while receiving CPP. From age 60 to 65, a working recipient generally continues contributing. From 65 to 70, an employee can elect to stop with CRA Form CPT30; otherwise eligible contributions continue. CPP contributions end at 70."
+        },
+        {
+          "type": "paragraph",
+          "text": "Those contributions create a separate Post-Retirement Benefit, or PRB, paid for life and generally added automatically the following year. Each year of qualifying work can create another PRB. In 2026, the maximum new PRB at age 65 is $54.69 monthly; the actual amount follows earnings, contributions and age."
+        },
+        {
+          "type": "spotlight",
+          "text": "Pension sharing with a current spouse differs from permanent credit splitting after separation or divorce, and both differ from CRA pension-income splitting. Similar words, separate forms, no group project."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Priya and the Maximum That Wasn’t Hers",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Priya",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Priya Nair in Mississauga saw the 2026 maximum CPP amount and placed it into her retirement budget. The number looked official, confident and dressed for the occasion. Her own MSCA estimate was much lower.",
+            "Priya had immigrated to Canada at 38, taken several lower-earning caregiving years and planned to start at 61. The maximum assumed a contribution history and start age she did not have.",
+            "She reviewed the record, corrected one missing employment year and documented child-rearing periods for Service Canada to assess. Then she compared ages 61, 65 and 70 using her actual estimate, taxes and household savings.",
+            "Priya’s plan became smaller on paper and stronger in real life. She replaced a national maximum with a personal decision and gave the headline number permission to retire from her budget."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The best CPP comparison uses the same verified contribution record at several start dates. Do not compare your age-60 estimate with someone else’s age-70 maximum."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What two basic conditions establish CPP retirement eligibility?",
+              "detail": "A person generally must be at least 60 and have made at least one valid CPP contribution.",
+              "text": ""
+            },
+            {
+              "title": "Why do most recipients receive less than the maximum?",
+              "detail": "The maximum assumes a strong contribution history at required earnings levels; each person’s record and start age determine the amount.",
+              "text": ""
+            },
+            {
+              "title": "How does starting at 60 change the age-65 amount?",
+              "detail": "It reduces CPP by 0.6% per month early, producing the maximum 36% reduction at age 60.",
+              "text": ""
+            },
+            {
+              "title": "What can child-rearing provisions protect?",
+              "detail": "They may remove eligible low or zero-earning months from the base calculation or add enhanced pension credits.",
+              "text": ""
+            },
+            {
+              "title": "Why should taxes and GIS be considered before choosing a start date?",
+              "detail": "CPP is taxable income and can affect household cash flow and income-tested benefits such as GIS.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Complete Your CPP Start-Date Decision File",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use rounded figures and non-sensitive labels. Verify personal estimates and contribution records through official Service Canada channels."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "A missing earnings year can follow a person for decades. Review the Statement of Contributions early enough to locate T4 slips, notices of assessment or employer records."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "CPP",
+              "text": "Taxable Canada Pension Plan retirement pension."
+            },
+            {
+              "title": "Statement of Contributions",
+              "text": "Service Canada record of CPP earnings and contributions."
+            },
+            {
+              "title": "General drop-out",
+              "text": "Exclusion of qualifying low-earning periods from part of the calculation."
+            },
+            {
+              "title": "Child-rearing provision",
+              "text": "Protection for eligible periods caring for a child under seven."
+            },
+            {
+              "title": "PRB",
+              "text": "Post-Retirement Benefit created by qualifying contributions after CPP begins."
+            },
+            {
+              "title": "Credit split",
+              "text": "Permanent division of CPP credits after relationship breakdown."
+            },
+            {
+              "title": "CPT30",
+              "text": "CRA form used by eligible workers aged 65 to 69 to stop CPP contributions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Everyone receives the advertised maximum CPP at 65.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My earliest, standard and latest possible start dates are:",
+      "My Statement of Contributions date and errors to investigate are:",
+      "My age-65 monthly estimate and source date are:",
+      "My estimated age-60 reduction and age-70 increase are:",
+      "My child-rearing, disability or low-earnings provision questions are:",
+      "My work-after-CPP plan and PRB or CPT30 question are:",
+      "My tax, GIS, OAS and household cash-flow effects are:",
+      "My application date, chosen start date and annual review are:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

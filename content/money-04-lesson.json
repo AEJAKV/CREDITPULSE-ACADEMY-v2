@@ -39,19 +39,16 @@
           "type": "cards",
           "items": [
             {
-              "title": "CHEQUING ACCOUNT",
-              "text": "Day-to-day deposits, debit purchases, bill payments, transfers and cash access. It usually offers lower transaction fees than a savings account.",
-              "detail": "ACCOUNT JOB"
+              "title": "ACCOUNT JOB — CHEQUING ACCOUNT",
+              "text": "Day-to-day deposits, debit purchases, bill payments, transfers and cash access. It usually offers lower transaction fees than a savings account."
             },
             {
-              "title": "SAVINGS ACCOUNT",
-              "text": "Money set aside for goals or reserves, often earning interest. Check transfer and withdrawal fees before using it like a chequing account.",
-              "detail": "ACCOUNT JOB"
+              "title": "ACCOUNT JOB — SAVINGS ACCOUNT",
+              "text": "Money set aside for goals or reserves, often earning interest. Check transfer and withdrawal fees before using it like a chequing account."
             },
             {
-              "title": "PURPOSE-BASED ACCOUNT",
-              "text": "A separate chequing or savings location assigned to bills, daily spending or a goal. The name is your system; the product rules still decide the fees.",
-              "detail": "ACCOUNT JOB"
+              "title": "ACCOUNT JOB — PURPOSE-BASED ACCOUNT",
+              "text": "A separate chequing or savings location assigned to bills, daily spending or a goal. The name is your system; the product rules still decide the fees."
             }
           ]
         },

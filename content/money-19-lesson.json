@@ -1,0 +1,336 @@
+{
+  "title": "Insurance Basics",
+  "summary": "Risk → Policy → Gap → Claim → Review",
+  "subtitle": "Translate the policy before asking it to protect the household",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Insurance is a contract for sharing financial risk, written in a dialect that occasionally appears to charge by the syllable."
+        },
+        {
+          "type": "paragraph",
+          "text": "This workshop will not choose a product, insurer or coverage amount for you. It will help you find the losses your household could not easily absorb. It will also help you decode policy terms, compare quotes on equal coverage and get ready for a claim or complaint. The policy sets the real terms, not the advertisement or a friendly summary."
+        },
+        {
+          "type": "spotlight",
+          "text": "Insurance does not stop the emergency from happening. It sets which covered losses get paid, up to what limit, after the deductible, and it depends on the exclusions, conditions and evidence you provide."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Explain six essential policy terms.",
+              "text": ""
+            },
+            {
+              "title": "Map major household risks to existing or possible coverage.",
+              "text": ""
+            },
+            {
+              "title": "Compare premium savings with the risk retained through a deductible.",
+              "text": ""
+            },
+            {
+              "title": "Prepare a calm first-24-hours claim checklist.",
+              "text": ""
+            },
+            {
+              "title": "Complete a Household Coverage-Gap Map for discussion with a licensed professional.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Insurance covers anything bad that happens.”",
+              "text": "A policy covers defined events, property, people and amounts, subject to exclusions, deductibles, limits and conditions. Maintenance, wear and some hazards may be excluded or need an endorsement."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Two quotes that look $18 apart can be protecting two completely different households.",
+          "detail": "Reading the same six terms into every quote is what turns a confusing price gap into an honest comparison.",
+          "extra": "Decode the six terms next, before a single quote gets compared."
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "Six Terms That Control the Outcome",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "spotlight",
+          "text": "Compare quotes using the same property, limits, deductibles, endorsements and assumptions. A lower premium can mean a real saving, a bigger share of the risk falling on you, less coverage, or some mix of all three. Ask for the differences in writing."
+        },
+        {
+          "type": "heading",
+          "text": "Decode the contract"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "01",
+              "text": "Premium: the amount charged for coverage."
+            },
+            {
+              "title": "02",
+              "text": "Deductible: the amount you pay toward a covered claim before the insurer pays the rest."
+            },
+            {
+              "title": "03",
+              "text": "Coverage limit: the most the insurer will pay under that coverage."
+            },
+            {
+              "title": "04",
+              "text": "Exclusion: a loss, cause, person, property or situation the policy does not cover."
+            },
+            {
+              "title": "05",
+              "text": "Endorsement: a written change to the policy."
+            },
+            {
+              "title": "06",
+              "text": "Settlement basis: replacement cost and actual cash value can lead to different payouts."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Example: Policy A costs $1,560 a year with a $500 deductible. Policy B costs $1,320 with a $1,500 deductible. B saves $240 a year, but it hands the household $1,000 more in upfront claim cost."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The cheapest premium is the cheapest policy overall.”",
+              "text": "Price is only one layer. Compare limits, deductibles, exclusions, endorsements, settlement basis, service and how much of the loss lands back on your household."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: How insurance works",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/insurance.html"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Nina and the Quote That Won by $18",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Nina",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Nina Patel moved from a rented Ottawa apartment to a small townhouse. Her old tenant policy had been easy to ignore, which is a sentence insurance policies hear shortly before becoming important. She collected two home-policy quotations. One was $18 cheaper each month, so the decision appeared complete.",
+            "The conflict began when Nina’s brother asked whether both quotes covered the same things. They did not. The cheaper quote carried a higher deductible, a lower limit for certain valuables and no sewer-backup endorsement. One quote used replacement cost for listed property; the other summary was less clear. Nina was not sure which differences mattered, and the premium numbers were doing an excellent job of distracting everyone.",
+            "Nina made a room-by-room inventory with photos, model numbers and receipts. She listed the risks she could not easily cover on her own, including liability, a major contents loss and a place to stay if she had to leave home. She asked each licensed agent the same written questions about limits, deductibles, exclusions, water damage, settlement basis, endorsements and claims service: ‘Show me how each contract responds to these risks.’",
+            "The answers showed that one policy’s lower price partly came from leaving more risk with Nina. She picked the contract whose written terms fit her needs, kept the deductible amount in her emergency fund and stored the policy, inventory and claims number away from the home.",
+            "Months later, a burst supply line damaged flooring and belongings. Nina shut off the water safely, protected the area, photographed the loss and contacted the insurer promptly. She kept receipts and did not discard damaged items before receiving instructions. The claim required patience and proof, but not reconstructing her household from memory. The conclusion: compare the risk transfer, not the loudest price."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "An inventory helps with coverage planning and with a claim. Keep a copy of the photos, receipts, serial numbers and the policy somewhere you can reach even if your home or device is not."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nina turned two different quotes into one fair comparison. She made her choice on purpose, set money aside for the deductible and got her evidence ready before a loss ever happened."
+        },
+        {
+          "type": "transition",
+          "text": "A burst pipe found Nina ready, because she built her evidence file months before she needed it.",
+          "detail": "Turning a loss into a calm checklist instead of a scramble is what let Nina's claim move on proof instead of memory.",
+          "extra": "Build your own coverage-gap map next, before anything goes wrong."
+        }
+      ]
+    },
+    {
+      "id": "map",
+      "title": "Build the Household Coverage-Gap Map",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Protect people first",
+              "text": "Call emergency services when needed, and prevent further damage only when it is safe to do so."
+            },
+            {
+              "title": "Notify promptly",
+              "text": "Check the policy’s steps and deadline, then contact the insurer or your representative as soon as you can."
+            },
+            {
+              "title": "Document carefully",
+              "text": "Photograph the damage, list the items, keep receipts and write down your conversations. Ask before repairing or throwing anything out, except for urgent safety steps."
+            },
+            {
+              "title": "Escalate in order",
+              "text": "Use the insurer’s own complaint process and ask for its final decision. If the matter is still unresolved, it may go to the right ombudservice or provincial regulator."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Water damage is not one single coverage. Flood, sewer backup, overland water, a burst pipe and ordinary wear can each be treated differently. Read the definitions and exclusions, and ask whether an endorsement is available."
+        },
+        {
+          "type": "spotlight",
+          "text": "Agents and brokers must be licensed where they operate. Regulators can confirm a licence and explain the complaint routes, but they will not rewrite the policy after a loss."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If a claim is denied, there is nothing I can do.”",
+              "text": "Ask for the decision and the policy reason in writing, supply any missing evidence, use the insurer’s complaint process, then turn to the right ombudservice, regulator or legal advice if you still disagree."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "How is a premium different from coverage?",
+              "detail": "The premium is the price you pay; coverage is the protection the policy's terms, limits and conditions actually give you.",
+              "text": ""
+            },
+            {
+              "title": "What trade-off can accompany a higher deductible?",
+              "detail": "A lower premium may shift more of the upfront claim cost onto the household.",
+              "text": ""
+            },
+            {
+              "title": "How does an exclusion differ from an endorsement?",
+              "detail": "An exclusion removes coverage for something specific; an endorsement is a written change to the policy.",
+              "text": ""
+            },
+            {
+              "title": "Why compare two quotes on like-for-like terms?",
+              "detail": "Different terms can mean the two prices are not really buying the same protection.",
+              "text": ""
+            },
+            {
+              "title": "What should happen first after a loss, and what evidence should be preserved?",
+              "detail": "Protect people first, prevent further damage only when it is safe, notify the insurer promptly and keep photos, lists, receipts, damaged items and records of every call.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Household Coverage-Gap Map",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use this page to prepare questions, not to make a personal coverage decision. Record where policies are kept and general contacts, but leave out passwords, full ID numbers or sensitive medical details."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Review coverage after a move, a renovation or a major purchase. Review it again after a new driver, business use, a relationship change or an income change. A policy can remain active while becoming outdated with remarkable professionalism."
+        },
+        {
+          "type": "takeaway",
+          "text": "Compare the risk transfer, not the loudest price.",
+          "detail": "Read the policy terms, compare quotes on equal coverage, fund the deductible and prepare evidence and claim steps before the household needs them."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Premium",
+              "text": "The amount charged for insurance coverage."
+            },
+            {
+              "title": "Deductible",
+              "text": "The amount you pay toward an eligible claim before the insurer pays the rest."
+            },
+            {
+              "title": "Coverage limit",
+              "text": "The most the insurer will pay under a particular coverage."
+            },
+            {
+              "title": "Exclusion",
+              "text": "A loss, cause, person, property or situation the policy does not cover."
+            },
+            {
+              "title": "Endorsement",
+              "text": "A written change to the policy."
+            },
+            {
+              "title": "Actual cash value",
+              "text": "A settlement that generally reflects value after depreciation, based on the policy wording."
+            },
+            {
+              "title": "Replacement cost",
+              "text": "A settlement basis that pays to replace covered property, based on the policy's rules and limits."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Insurance covers anything bad that happens.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "The people, property, income and liabilities my household could not comfortably replace are:",
+      "The policies and workplace or card benefits I already have are:",
+      "For each policy, the premium, deductible, key limits and settlement basis are:",
+      "The exclusions, conditions and endorsements I need explained in writing are:",
+      "My deductible reserve and the gap between that reserve and my retained risk are:",
+      "My inventory, receipts, beneficiaries and securely stored documents need these updates:",
+      "My first-24-hours claim contacts, steps and complaint path are:",
+      "The questions I will ask a licensed professional and my annual review date are:"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this workbook prepares questions and does not recommend individualized coverage."
+  },
+  "sources": []
+}

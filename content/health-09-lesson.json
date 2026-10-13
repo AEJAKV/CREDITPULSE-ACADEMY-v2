@@ -1,0 +1,456 @@
+{
+  "title": "Fitness Over 40",
+  "summary": "Capacity → Strength → Aerobic → Recovery",
+  "subtitle": "Train for the life you have now and the capacity you want next",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This course provides general education, not personal medical care. Complete CSEP's Get Active Questionnaire before a major increase in activity and follow its directions. Seek qualified advice for a health condition, recent injury or surgery, pregnancy or postpartum recovery, unexplained symptoms, repeated falls, or medicines that affect exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
+        },
+        {
+          "type": "paragraph",
+          "text": "You will review four areas: current capacity, training demand, life load, and recovery. Being over 40 does not cancel hard work. It simply makes poor planning less willing to remain anonymous."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "What can change after 40 and what should not be blamed on age.",
+              "text": ""
+            },
+            {
+              "title": "How to combine aerobic, strength, mobility, and balance training.",
+              "text": ""
+            },
+            {
+              "title": "How work, caregiving, sleep, and stress affect the training dose.",
+              "text": ""
+            },
+            {
+              "title": "How to warm up, recover, and progress without constant restarting.",
+              "text": ""
+            },
+            {
+              "title": "Which symptoms require adjustment or professional assessment.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "capacity",
+      "title": "Start With Capacity, Not a Stereotype",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Age alone does not define fitness. Two people who are 45 can differ greatly because of training history, health, sleep, work, injury, disability, stress, and daily movement. Begin with what you can do now."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notice walking tolerance, stair comfort, carrying ability, balance, mobility, and recovery after effort. Choose one or two outcomes that matter in daily life. A goal such as “hike with my family for an hour” gives clearer direction than “reverse ageing.” The calendar has not offered refunds anyway."
+        },
+        {
+          "type": "paragraph",
+          "text": "Physical capacity can improve after 40. Progress may require a more deliberate dose and more respect for recovery, but strength, aerobic fitness, balance, mobility, and skill remain trainable."
+        },
+        {
+          "type": "spotlight",
+          "text": "Record one useful task now, such as a walking route, chair rises, or a controlled carry. Future progress should answer your life, not somebody else's highlight reel."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Declining fitness after 40 is unavoidable.”",
+              "text": "Inactivity, illness, stress, and lost practice can reduce capacity, but regular training can improve many fitness qualities throughout adulthood."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Choose your capacity goal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Finish this sentence: “In twelve weeks, I want ___ to feel easier, steadier, or more comfortable.”"
+        }
+      ]
+    },
+    {
+      "id": "week",
+      "title": "Build the Four-Part Week",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A complete week includes more than one kind of exercise. Canadian movement guidance encourages adults to accumulate moderate-to-vigorous aerobic activity, strengthen the major muscle groups at least twice a week, limit sedentary time, and protect sleep."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "AEROBIC WORK",
+              "text": "Challenges the heart and lungs. Walking, cycling, swimming, dancing, sport, rowing, and other rhythmic activity can fit."
+            },
+            {
+              "title": "STRENGTH WORK",
+              "text": "Helps preserve or build force for lifting, carrying, climbing, work, recreation, and joint support."
+            },
+            {
+              "title": "MOBILITY WORK",
+              "text": "Maintains usable movement."
+            },
+            {
+              "title": "BALANCE WORK",
+              "text": "Helps control position and respond to changes in surface or direction."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Start below the full guideline if needed. Several short sessions count. The best weekly plan is not the one with the most coloured boxes. It is the one that still exists on Thursday."
+        },
+        {
+          "type": "spotlight",
+          "text": "Label it strength, aerobic, recovery, mobility, or mixed. A clear purpose prevents every workout from becoming a rushed sampler platter."
+        }
+      ]
+    },
+    {
+      "id": "strength",
+      "title": "Strength Train for Useful Force",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use movements that cover the major muscle groups: a squat or chair rise, hinge, push, pull, step or single-leg task, and carry or brace. Choose body-weight, bands, machines, free weights, or another suitable form of resistance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Begin with a load and range that allow controlled repetitions and normal breathing. Stop before technique changes sharply. Repeat the plan long enough to improve skill, then add a small amount of resistance, repetitions, range, or selected sets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Muscle and strength can improve after 40. Training does not need to become fragile. It needs to become specific, progressive, and recoverable."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Everyone over 40 should use only light weights.”",
+              "text": "A suitable resistance depends on experience, health, technique, and goals. Challenging resistance can be appropriate when introduced progressively and performed with control."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aerobic",
+      "title": "Keep Aerobic Work Broad",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use the talk test to guide aerobic effort. At moderate effort, you can speak in sentences but would not comfortably sing. Vigorous effort makes conversation shorter. Medicines and health conditions can change heart rate and symptoms, so use professional advice when needed."
+        },
+        {
+          "type": "paragraph",
+          "text": "A practical week can combine easier steady activity with one somewhat harder session after a base is established. For example, a learner may use comfortable walks on two days and short brisk intervals on another. Harder work is optional, not a character test."
+        },
+        {
+          "type": "paragraph",
+          "text": "Increase duration before adding many intense intervals. Build gradually after illness or a long break. Aerobic progress may appear as a longer route, quicker recovery, easier stairs, or the same route at a lower effort."
+        },
+        {
+          "type": "spotlight",
+          "text": "Not every session should prove something. Easier aerobic work builds volume and supports recovery without turning the week into a committee hearing."
+        }
+      ]
+    },
+    {
+      "id": "warmup",
+      "title": "Warm Up for the Task Ahead",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A warm-up prepares the movements, muscles, and effort level you will use. Begin with several minutes of easy activity. Practise the main movement patterns with a comfortable range and lighter resistance. Increase gradually toward the planned session."
+        },
+        {
+          "type": "paragraph",
+          "text": "A useful warm-up changes with the workout. A brisk walk may need only a short easy start. A demanding strength session may need more movement practice and several lighter sets. Endless stretching is not a mandatory entrance exam."
+        },
+        {
+          "type": "paragraph",
+          "text": "After training, return gradually toward resting effort. Hydrate according to conditions, eat normally, and note the response later that day. Persistent or worsening pain, unusual fatigue, or repeated loss of performance deserves adjustment or assessment."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Soreness proves the workout was effective.”",
+              "text": "Soreness often reflects unfamiliar work. Progress is better judged through performance, comfort, consistency, and recovery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Elena Stops Training Against Her Schedule",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Elena",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Elena, 46, lived in Calgary and managed a busy office while helping an older parent. She tried to follow a six-day online program designed for someone whose main responsibility appeared to be owning matching water bottles.",
+            "When Elena missed two workouts, she tried to squeeze both into the weekend. Her back felt stiff, sleep worsened, and Monday arrived with the enthusiasm of a parking ticket.",
+            "She completed a Midlife Capacity Audit. Her strength was reasonable, but aerobic work had become irregular and her recovery was poor after late sessions. She changed to two full-body strength sessions, two twenty-minute walks, and one optional longer activity. On caregiving weeks, she kept one strength session and short walks as her minimum plan.",
+            "After ten weeks, Elena carried groceries and climbed office stairs more comfortably. She added resistance to her row and chair squat. Most importantly, a difficult week no longer erased the whole routine."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "What Elena did well"
+        },
+        {
+          "type": "paragraph",
+          "text": "She matched training to current capacity and life load, protected a minimum plan, and measured useful tasks. She stopped treating missed workouts as exercise debt."
+        },
+        {
+          "type": "spotlight",
+          "text": "Work, caregiving, poor sleep, illness, and training all require recovery. When life load rises, preserve the habit and reduce the dose."
+        }
+      ]
+    },
+    {
+      "id": "recovery",
+      "title": "Treat Recovery as Information",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Recovery is the ability to return ready for the next useful effort. Sleep, nutrition, health, training history, stress, alcohol, and the session dose can affect it. Age is one factor, not the full explanation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Record one recovery clue: sleep quality, energy, soreness, mood, resting symptoms, or performance in the warm-up. Look for patterns across several sessions. One tired day is ordinary. A repeated decline is a reason to adjust."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use non-consecutive days for demanding work on the same muscle groups when needed. An easier week can follow a period of unusually high training or life stress. Recovery is part of the plan, not a note from the principal."
+        }
+      ]
+    },
+    {
+      "id": "progress",
+      "title": "Progress Without the Boom-and-Bust Cycle",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Repeat a manageable week until it feels stable. Then change one feature: time, frequency, resistance, repetitions, range, pace, or balance demand. Observe the next week before changing another."
+        },
+        {
+          "type": "paragraph",
+          "text": "After illness, travel, pain, or a longer break, restart with less work. You have not lost the right to train. You are collecting current information."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A missed week means starting from zero.”",
+              "text": "Some capacity may dip, but previous skill and training experience still matter. Return gradually from your current level."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Define the smallest week you can maintain during busy periods. Once that floor is dependable, add challenge."
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "title": "Access Across Canada",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Options include municipal recreation centres, YMCAs, community halls, pools, walking groups, campuses, friendship or wellness centres, home programs, and private facilities. Ask about orientations, adapted equipment, women-only times, beginner sessions, fee assistance, and staff credentials. Availability varies."
+        },
+        {
+          "type": "paragraph",
+          "text": "CSEP professionals can provide exercise guidance within their scope. Physiotherapists can assess injury and movement problems. Public coverage, referral rules, and professional regulation differ by province and territory."
+        },
+        {
+          "type": "heading",
+          "text": "Health changes around midlife"
+        },
+        {
+          "type": "paragraph",
+          "text": "Menopause, perimenopause, changing health conditions, and new medicines can affect sleep, symptoms, bone health, energy, temperature regulation, or training response. These concerns deserve individualized healthcare, not assumptions that every change is “just age.” This section is humour-free because unexplained symptoms require respectful assessment."
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fitness over 40 improves when training matches current capacity, covers the major fitness qualities, and respects the total demands of life. Build a repeatable base, watch recovery, and progress one feature at a time."
+        },
+        {
+          "type": "spotlight",
+          "text": "Schedule the session by its real duration, including setup and cleanup. A “thirty-minute workout” that requires twenty minutes of equipment archaeology is a different appointment."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Test What Stuck",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Why is age alone a poor description of fitness?",
+              "detail": "Training history, health, work, sleep, stress, injury, and daily movement also shape capacity.",
+              "text": ""
+            },
+            {
+              "title": "What four areas make up the Midlife Capacity Audit?",
+              "detail": "Current capacity, training demand, life load, and recovery.",
+              "text": ""
+            },
+            {
+              "title": "What four fitness qualities belong in a complete week?",
+              "detail": "Aerobic fitness, strength, mobility, and balance.",
+              "text": ""
+            },
+            {
+              "title": "Why are only light weights not a universal rule after 40?",
+              "detail": "Appropriate resistance depends on goals, ability, health, technique, and gradual progression.",
+              "text": ""
+            },
+            {
+              "title": "What does the talk test suggest at moderate effort?",
+              "detail": "You can speak in sentences but would not comfortably sing.",
+              "text": ""
+            },
+            {
+              "title": "What made Elena's revised plan more sustainable?",
+              "detail": "It matched her schedule, included a minimum week, and stopped the weekend catch-up cycle.",
+              "text": ""
+            },
+            {
+              "title": "Name two recovery clues.",
+              "detail": "Sleep, energy, soreness, mood, symptoms, or warm-up performance.",
+              "text": ""
+            },
+            {
+              "title": "Why should progression change one feature at a time?",
+              "detail": "It keeps the total increase manageable and makes the response easier to interpret.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Build Your Midlife Capacity Audit",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete the relevant safety screen. Audit strength, aerobic capacity, life load, and recovery. Schedule one strength session and one aerobic session for the coming week, plus a smaller backup version of each."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Skip any medical details or symptoms in this form. Just the plan."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Aerobic capacity",
+              "text": "The ability to sustain activity using the heart, lungs, and working muscles."
+            },
+            {
+              "title": "Baseline",
+              "text": "A starting measurement used for later comparison."
+            },
+            {
+              "title": "Life load",
+              "text": "The combined recovery demand from work, caregiving, stress, health, and daily responsibilities."
+            },
+            {
+              "title": "Minimum week",
+              "text": "The smallest useful training plan maintained during a busy period."
+            },
+            {
+              "title": "Training dose",
+              "text": "The combined demand created by activity type, time, intensity, and frequency."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Declining fitness after 40 is unavoidable.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My twelve-week capacity goal is:",
+      "My current strength signal is:",
+      "My current aerobic signal is:",
+      "My two realistic training days are:",
+      "My minimum week during high life load is:",
+      "One recovery clue I will record is:",
+      "The first feature I may progress is:",
+      "A symptom that means stop or seek help is:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information, not personal medical care."
+  },
+  "sources": []
+}

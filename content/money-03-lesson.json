@@ -102,18 +102,15 @@
           "type": "cards",
           "items": [
             {
-              "title": "Transmission failure",
-              "detail": "EMERGENCY",
+              "title": "EMERGENCY — Transmission failure",
               "text": "Sudden and necessary — Ask before deciding: Is the vehicle required for work or essential travel?"
             },
             {
-              "title": "Urgent dental treatment",
-              "detail": "EMERGENCY",
+              "title": "EMERGENCY — Urgent dental treatment",
               "text": "Necessary and cannot wait — Ask before deciding: What portion is not covered by insurance?"
             },
             {
-              "title": "Temporary loss of income",
-              "detail": "EMERGENCY",
+              "title": "EMERGENCY — Temporary loss of income",
               "text": "Threatens essentials — Ask before deciding: Which essential costs must the fund carry first?"
             }
           ]
@@ -130,18 +127,15 @@
           "type": "cards",
           "items": [
             {
-              "title": "December gifts",
-              "detail": "SINKING FUND",
+              "title": "SINKING FUND — December gifts",
               "text": "Expected yearly — Ask before deciding: How much can be set aside monthly?"
             },
             {
-              "title": "Winter tires",
-              "detail": "SINKING FUND",
+              "title": "SINKING FUND — Winter tires",
               "text": "Seasonal and predictable — Ask before deciding: What is the replacement date and target?"
             },
             {
-              "title": "Annual professional fee",
-              "detail": "SINKING FUND",
+              "title": "SINKING FUND — Annual professional fee",
               "text": "Known renewal — Ask before deciding: How many months remain before it is due?"
             }
           ]
@@ -202,19 +196,16 @@
           "type": "cards",
           "items": [
             {
-              "title": "STARTER SHIELD",
-              "text": "Choose a first target you can reach and repeat. $500 may be a useful example, but your amount should reflect your risks and capacity.",
-              "detail": "LAYER 1"
+              "title": "LAYER 1 — STARTER SHIELD",
+              "text": "Choose a first target you can reach and repeat. $500 may be a useful example, but your amount should reflect your risks and capacity."
             },
             {
-              "title": "ONE MONTH OF ESSENTIALS",
-              "text": "Add only the costs needed to keep essentials running. Include housing, food, transportation, insurance, medication and minimum payments.",
-              "detail": "LAYER 2"
+              "title": "LAYER 2 — ONE MONTH OF ESSENTIALS",
+              "text": "Add only the costs needed to keep essentials running. Include housing, food, transportation, insurance, medication and minimum payments."
             },
             {
-              "title": "THREE TO SIX MONTHS OF RESILIENCE",
-              "text": "Extend the target based on income stability, household size, health, insurance, dependants and other real risks.",
-              "detail": "LAYER 3"
+              "title": "LAYER 3 — THREE TO SIX MONTHS OF RESILIENCE",
+              "text": "Extend the target based on income stability, household size, health, insurance, dependants and other real risks."
             }
           ]
         },

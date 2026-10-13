@@ -1,0 +1,333 @@
+{
+  "title": "Marketplace Flipping",
+  "summary": "Search → Inspect → Price → Exchange → Record",
+  "subtitle": "Turn local finds into verified value—without letting urgency, mystery links or a suspiciously silent blender run the meeting",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A marketplace bargain can be a profitable flip. It can also be a lamp that flickers, a bicycle with an adventurous serial number or an e-transfer screenshot displaying the confidence of a theatre major. The inspection comes before the celebration."
+        },
+        {
+          "type": "paragraph",
+          "text": "Marketplace flipping means buying an underpriced used item, improving or presenting it accurately and reselling it locally. The edge comes from product knowledge and disciplined buying—not pressuring strangers. Every deal needs four forms of proof: the item is legitimate, its condition is tested, the resale margin survives all costs and the payment is real."
+        },
+        {
+          "type": "spotlight",
+          "text": "Specialize before scaling. Knowing one category’s normal wear, parts, serial locations and resale range is stronger protection than being generally optimistic about everything with a plug."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Research a local category and sold range.",
+              "text": ""
+            },
+            {
+              "title": "Inspect legitimacy, safety and condition.",
+              "text": ""
+            },
+            {
+              "title": "Set a maximum buy price before negotiating.",
+              "text": ""
+            },
+            {
+              "title": "Complete a safe meeting and verified payment.",
+              "text": ""
+            },
+            {
+              "title": "Build a Local Flip Safety Card.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Fast replies win the best marketplace deals.”",
+              "text": "Fast replies may win attention. Profitable deals still require inspection, identity and payment checks. Urgency is not a substitute for evidence."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "CAFC: Merchandise scams",
+          "url": "https://antifraudcentre-centreantifraude.ca/scams-fraudes/merchandise-eng.htm"
+        }
+      ]
+    },
+    {
+      "id": "inspect",
+      "title": "Make the Item Prove Its Story",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An item earns a purchase by passing inspection, not by telling a good story."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "RESEARCH THE RANGE",
+              "text": "Compare local sold evidence or realistic completed prices for the exact model and condition. Account for season, missing parts and the distance a buyer must travel."
+            },
+            {
+              "title": "ASK BEFORE TRAVELLING",
+              "text": "Request current photos, model number, known defects, repair history, included accessories and why it is being sold. A clear answer saves kilometres and awkward driveway archaeology."
+            },
+            {
+              "title": "INSPECT IN PERSON",
+              "text": "Use a category checklist. Power on electronics, test controls, check odours and water damage, examine frames and fasteners, and confirm that promised parts are present."
+            },
+            {
+              "title": "VERIFY LEGITIMACY",
+              "text": "Check receipts or reasonable ownership evidence for higher-risk goods. Record serial numbers where lawful, search recalls and walk away from removed identifiers, counterfeit signs or inconsistent explanations."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Search Health Canada’s recall database using the brand and model. A repaired-looking product still needs its recall status checked."
+        },
+        {
+          "type": "spotlight",
+          "text": "For bicycles, electronics and other theft targets, a missing or altered serial number is a stop sign—not an invitation to improve your negotiating voice."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A cosmetic clean-up can make any item ready to resell.”",
+              "text": "Cleaning improves presentation; it does not repair electrical faults, remove a recall or prove ownership. Disclose remaining defects accurately."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Health Canada: Buying second-hand products",
+          "url": "https://www.canada.ca/en/health-canada/services/general-consumer-products-safety/buying-second-hand-products.html"
+        }
+      ]
+    },
+    {
+      "id": "exchange",
+      "title": "Set the Deal Rules Before the Parking Lot",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Set a maximum buy price by subtracting cleaning, parts, travel, selling costs, risk allowance and target profit from a conservative resale price. Take the number to the meeting."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "N",
+              "text": "e"
+            },
+            {
+              "title": "M",
+              "text": "e"
+            },
+            {
+              "title": "V",
+              "text": "e"
+            },
+            {
+              "title": "R",
+              "text": "e"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A fake e-transfer message may lead to a phishing page that requests banking credentials. Open your bank independently and verify the deposit there."
+        },
+        {
+          "type": "spotlight",
+          "text": "Overpayment is a warning sign. A buyer who sends “too much” and requests a refund may be trying to turn a fake payment into your real money."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Cash is always the safest local payment method.”",
+              "text": "Every method has risks. Cash can be counterfeit and carrying it affects personal safety. Follow platform and bank guidance, meet safely and verify the chosen payment independently."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Key takeaway: A flip is profitable only when the item is legitimate, safe and tested, the maximum buy price protects the margin, and payment is verified independently. A deal you safely decline can be excellent business."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Mateo Checks the Account, Not the Applause",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Mateo",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Mateo Alvarez cleaned and tested a used camera lens in Calgary, then listed it with clear photos of one small scratch. A buyer offered full price within four minutes. Mateo briefly felt like the Warren Buffett of optical equipment.",
+            "At the public meeting, the buyer displayed an e-transfer confirmation and said Mateo needed to click an email link to “upgrade” his account. The message also asked for a one-time code. The lens was real; the payment was performing community theatre.",
+            "Mateo opened his banking app independently. No deposit appeared. He refused the link, ended the meeting and reported the account through the platform. Two days later, another buyer tested the lens, paid using the agreed method and waited while Mateo verified receipt in his account.",
+            "The second sale earned a smaller burst of excitement and a real profit. Mateo recorded the purchase cost, cleaning supplies, sale amount and date—proof that quiet verification beats dramatic screenshots."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Never share a security code sent by your bank. It is designed to authorize access or a transaction, not to help a buyer release money."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The applause for a fast sale was not proof of payment. Only the bank account itself was."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Why should a maximum buy price be set before the meeting?",
+              "detail": "Because in-person negotiation pressure can make a buyer overpay; a number set in advance protects the margin.",
+              "text": ""
+            },
+            {
+              "title": "What should an item inspection confirm?",
+              "detail": "That the item's function, parts, condition and accessories match what was described, using a category checklist.",
+              "text": ""
+            },
+            {
+              "title": "How should an e-transfer be verified?",
+              "detail": "By checking the deposit inside your own banking app or account—not an email, text, screenshot, QR code or the buyer's phone display.",
+              "text": ""
+            },
+            {
+              "title": "Which payment behaviours should end a deal?",
+              "detail": "A request to pay an upgrade fee, refund an overpayment, share a one-time security code or open a courier/payment link from a stranger.",
+              "text": ""
+            },
+            {
+              "title": "What must a truthful resale listing disclose?",
+              "detail": "Current condition, known defects and all mandatory charges, without misleading prices or false scarcity.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Complete Your Local Flip Safety Card",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete this card before arranging the meeting. Do not write banking passwords, one-time codes, a stranger’s identity documents or a private home address on it."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Use a written walk-away rule: no serial where expected, no safe test, changed meeting place, pressure, overpayment or a request for credentials means the deal stops."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Marketplace flip",
+              "text": "Used item bought to improve, present and resell for profit."
+            },
+            {
+              "title": "Maximum buy price",
+              "text": "Highest purchase price that preserves costs and target profit."
+            },
+            {
+              "title": "Comparable",
+              "text": "Similar item used to estimate a realistic selling range."
+            },
+            {
+              "title": "Serial number",
+              "text": "Unique identifier placed on many manufactured products."
+            },
+            {
+              "title": "Phishing",
+              "text": "Message or site designed to steal credentials or financial information."
+            },
+            {
+              "title": "Overpayment scam",
+              "text": "Fake or reversible excess payment followed by a request for a real refund."
+            },
+            {
+              "title": "Walk-away rule",
+              "text": "Prewritten condition that ends a proposed deal."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Fast replies win the best marketplace deals.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My product niche and reliable local resale range are:",
+      "My pre-visit questions and exact-model evidence are:",
+      "My condition, function, parts and defect inspection steps are:",
+      "My ownership, serial, authenticity and recall checks are:",
+      "My conservative resale price, costs, target profit and maximum buy price are:",
+      "My daylight meeting, check-in and exit plan are:",
+      "My payment-verification method and automatic scam stop signs are:",
+      "My truthful listing, records, tax review and 30-day performance check are:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

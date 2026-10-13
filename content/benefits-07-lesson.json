@@ -1,0 +1,312 @@
+{
+  "title": "Guaranteed Income Supplement",
+  "summary": "Qualify → Report → Estimate → Renew → Correct",
+  "subtitle": "Keep the income-tested benefit from becoming a July mystery",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "July is a lovely month for patios and a surprisingly ambitious month for government recalculations. If a Guaranteed Income Supplement changes, the tax return is usually somewhere in the plot."
+        },
+        {
+          "type": "paragraph",
+          "text": "GIS is a monthly, tax-free benefit for eligible low-income people aged 65 or older who receive the Old Age Security pension and live in Canada. It is recalculated using income and marital status, usually from the previous year’s tax return, and is paid with OAS as one deposit."
+        },
+        {
+          "type": "spotlight",
+          "text": "For July to September 2026, a single, widowed or divorced recipient with annual income below $22,800 may receive up to $1,123.17 monthly. The maximum is not a personal quote and changes quarterly."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Screen the core GIS eligibility conditions.",
+              "text": ""
+            },
+            {
+              "title": "Identify which household income threshold applies.",
+              "text": ""
+            },
+            {
+              "title": "Explain the July annual review.",
+              "text": ""
+            },
+            {
+              "title": "Respond when retirement income drops.",
+              "text": ""
+            },
+            {
+              "title": "Complete a GIS July Renewal and Income Change File.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“GIS is simply a larger version of OAS.”",
+              "text": "OAS is a taxable residence-based pension. GIS is a tax-free, income-tested supplement for eligible OAS recipients living in Canada. They share a deposit, not a personality."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Service Canada: GIS overview",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement.html"
+        }
+      ]
+    },
+    {
+      "id": "household",
+      "title": "One Threshold Does Not Fit Every Household",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Core eligibility generally requires the person to be at least 65, receive OAS, live in Canada, not be under a sponsorship agreement and have income below the threshold for their situation. A spouse or common-law partner’s income and benefit status shape the calculation."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "SINGLE, WIDOWED OR DIVORCED",
+              "text": "Annual income below $22,800; maximum monthly GIS of $1,123.17."
+            },
+            {
+              "title": "PARTNER RECEIVES FULL OAS",
+              "text": "Combined annual income below $30,096; maximum monthly GIS shown for the recipient is $676.09."
+            },
+            {
+              "title": "PARTNER RECEIVES THE ALLOWANCE",
+              "text": "Combined annual income below $42,144; published maximum monthly GIS is $676.09."
+            },
+            {
+              "title": "PARTNER RECEIVES NEITHER",
+              "text": "Combined annual income below $54,624; maximum monthly GIS is $1,123.17."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "OAS itself is excluded from the income thresholds shown in the GIS rate tables. CPP, workplace pensions, RRSP withdrawals and investment income can affect the calculation."
+        },
+        {
+          "type": "spotlight",
+          "text": "The earnings exemption generally protects the first $5,000 of employment or self-employment income and 50% of earnings between $5,000 and $15,000."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If two seniors receive the same OAS, they should receive the same GIS.”",
+              "text": "GIS depends on income, marital status and the partner’s benefit situation. Matching OAS deposits do not turn two households into matching tax returns."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Service Canada: GIS amounts",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments.html"
+        }
+      ]
+    },
+    {
+      "id": "renew",
+      "title": "File Before July Comes Looking for Answers",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Service Canada reviews GIS each July using the prior year’s federal tax return. When the required return is filed on time, eligible recipients are generally renewed automatically. The July letter may renew, change, stop or resume the benefit, or request more income information."
+        },
+        {
+          "type": "spotlight",
+          "text": "Both partners should file annual returns on time. A zero-income return still supplies the family information needed for income-tested benefits; blank income and missing information are not the same thing."
+        },
+        {
+          "type": "paragraph",
+          "text": "If income dropped because a person retired or a pension stopped or fell, Service Canada may estimate current-year income instead of relying only on the previous year’s higher amount. Contact Service Canada and provide the requested Statement of Income."
+        },
+        {
+          "type": "spotlight",
+          "text": "GIS payments may stop after an absence from Canada longer than six months unless the person qualifies for continued payment. Notify Service Canada before leaving and after returning to reduce overpayment risk."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Once GIS starts, it renews forever without further action.”",
+              "text": "Eligibility is reviewed annually. Late returns, changing income, marital status, residence or missing information can change or interrupt payment. GIS is renewable, not immortal."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "File every year, read the July letter, report marital or residence changes and contact Service Canada when current retirement income drops."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Bernard and the Pension That Retired Twice",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Bernard",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Bernard LeBlanc in Bathurst stopped working in February. His workplace pension also fell later that spring, but his July GIS letter still reflected last year’s higher income. Bernard concluded that retirement had somehow retired twice while his bills remained impressively employed.",
+            "The conflict came from timing: the July review used the previous year’s tax return. His current income was lower, but Service Canada could not build a new estimate from a strongly worded glance at the letter.",
+            "He gathered the pension statement, final pay information and his spouse’s income details, contacted Service Canada, submitted the requested Statement of Income and kept the confirmation.",
+            "The file was reassessed. Bernard’s victory was identifying the income-year mismatch and supplying evidence before another payment cycle passed."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "When a July amount looks wrong, compare the tax year used, marital status, partner category and income sources before requesting a reassessment."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What five core conditions belong in a GIS screen?",
+              "detail": "The person is generally at least 65, receives OAS, lives in Canada, is not under a sponsorship agreement and has income below the threshold for the household situation.",
+              "text": ""
+            },
+            {
+              "title": "Why can two OAS recipients receive different GIS amounts?",
+              "detail": "GIS depends on income, marital status and the partner’s benefit situation.",
+              "text": ""
+            },
+            {
+              "title": "What generally happens each July?",
+              "detail": "Service Canada reviews GIS using the prior year’s federal tax return and may renew, change, stop or resume the benefit, or request information.",
+              "text": ""
+            },
+            {
+              "title": "How can qualifying work income receive special treatment?",
+              "detail": "The earnings exemption generally protects the first $5,000 and 50% of earnings between $5,000 and $15,000.",
+              "text": ""
+            },
+            {
+              "title": "What should a recipient do after a major retirement-income drop?",
+              "detail": "Contact Service Canada and provide the requested Statement of Income so current-year income may be estimated.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Complete Your GIS July Renewal and Income Change File",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use rounded figures and non-sensitive labels. Do not record SINs, banking details or full pension account numbers here."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "GIS is added to OAS as one payment. Use the decision letter, not the bank-deposit total alone, to identify how much belongs to each benefit."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "GIS",
+              "text": "Tax-free Guaranteed Income Supplement for eligible OAS recipients."
+            },
+            {
+              "title": "Income-tested",
+              "text": "Amount changes according to defined income rules."
+            },
+            {
+              "title": "Combined income",
+              "text": "Relevant income of both spouses or common-law partners."
+            },
+            {
+              "title": "Earnings exemption",
+              "text": "Special treatment for qualifying employment or self-employment income."
+            },
+            {
+              "title": "Annual review",
+              "text": "July reassessment using prior-year information."
+            },
+            {
+              "title": "Statement of Income",
+              "text": "Information Service Canada may request to estimate current income."
+            },
+            {
+              "title": "Overpayment",
+              "text": "Benefits received above revised entitlement and potentially repayable."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “GIS is simply a larger version of OAS.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My OAS, age, residence and sponsorship eligibility checks are:",
+      "My marital status and partner’s OAS or Allowance category are:",
+      "The current threshold and maximum for my household are:",
+      "My prior-year income sources used for the July review are:",
+      "My qualifying work income and earnings-exemption question are:",
+      "My current-year retirement-income change and supporting records are:",
+      "My tax-filing, July-letter and travel or residence checkpoints are:",
+      "My Service Canada contact, submission proof and follow-up date are:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

@@ -1,0 +1,333 @@
+{
+  "title": "Senior Companion Services",
+  "summary": "Define → Screen → Price → Safeguard → Review",
+  "subtitle": "Build a warm, reliable service without accidentally becoming a nurse, banker or emergency department",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A good companion can make an afternoon brighter. A vague service agreement can make the same afternoon include three pharmacies, a ladder and somebody’s online-banking password. We are choosing the first version."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senior companion services are non-medical supports such as conversation, walks, errands, appointment accompaniment, light meal preparation and social activities. The opportunity is built on trust, but trust needs clear boundaries. The provider must define what is included, confirm local business requirements, plan for safety and refuse tasks that require regulated health, personal-care, legal or financial authority."
+        },
+        {
+          "type": "spotlight",
+          "text": "Sell a defined visit, not “anything you need.” A written scope protects the client, family and provider from mismatched expectations."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Define companion work and firm exclusions.",
+              "text": ""
+            },
+            {
+              "title": "Screen clients, homes and travel conditions.",
+              "text": ""
+            },
+            {
+              "title": "Price time, travel and administration.",
+              "text": ""
+            },
+            {
+              "title": "Build privacy, payment and emergency safeguards.",
+              "text": ""
+            },
+            {
+              "title": "Complete a Safe Service Launch Plan.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Being kind is the only qualification needed.”",
+              "text": "Kindness is essential, but reliability, boundaries, screening, communication, safety planning and appropriate insurance keep kindness from being assigned a snow shovel at midnight."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: Starting a business",
+          "url": "https://www.canada.ca/en/services/business/start.html"
+        }
+      ]
+    },
+    {
+      "id": "scope",
+      "title": "Write the Scope Before Setting the Rate",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Draw the line between a kind gesture and a regulated task before the first visit, not during it."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "USUALLY WITHIN SCOPE",
+              "text": "Conversation, reading, games, walks, friendly check-ins, simple meal support, errands and accompaniment when the agreement allows them."
+            },
+            {
+              "title": "REQUIRES A SEPARATE DECISION",
+              "text": "Driving, use of the provider’s vehicle, handling keys, pet care, lifting, bathing, medication reminders, food preparation and entering an empty home all create extra risk or training needs."
+            },
+            {
+              "title": "OUTSIDE A BASIC COMPANION SCOPE",
+              "text": "Medication administration, wound care, transfers beyond safe ability, legal advice, banking, signing documents, controlling passwords or acting under a power of attorney."
+            },
+            {
+              "title": "EMERGENCY LINE",
+              "text": "A companion observes and calls the agreed contact or emergency service. They do not diagnose, promise clinical monitoring or improvise a treatment plan."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A vulnerable sector check is different from an ordinary criminal record check. The police service determines the process, and an organization may need to identify a qualifying position of trust."
+        },
+        {
+          "type": "spotlight",
+          "text": "If driving is offered, verify licence class, vehicle condition, commercial-use coverage, passenger limits and who pays mileage. Personal auto insurance may not cover every business use."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A companion can handle a client’s bank card if the family gives permission.”",
+              "text": "Financial access creates serious exploitation and misunderstanding risks. Use receipts, pre-approved small purchases and payment methods that do not expose a PIN, password or broad authority."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "RCMP: Criminal record checks",
+          "url": "https://www.rcmp-grc.gc.ca/en/criminal-record-checks"
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "title": "Charge for the Whole Job, Not Only the Conversation",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A visit rate must cover preparation, travel, parking, communication, recordkeeping, supplies, insurance, cancellations and unpaid gaps between clients. Start with a minimum visit length and a service area."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "I",
+              "text": "n"
+            },
+            {
+              "title": "A",
+              "text": "g"
+            },
+            {
+              "title": "V",
+              "text": "i"
+            },
+            {
+              "title": "B",
+              "text": "u"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Self-employed income is reported even when clients pay by cash or e-transfer. Keep invoices, receipts, mileage records and a separate record of business activity."
+        },
+        {
+          "type": "spotlight",
+          "text": "The general GST/HST small-supplier threshold is based on more than $30,000 of worldwide taxable supplies in one calendar quarter or across four consecutive quarters. Service tax treatment still needs confirmation."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If the client pays cash, it is casual help rather than business income.”",
+              "text": "Payment method does not rename income. A toonie jar is charming; it is not an accounting exemption."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Key takeaway: A companion business succeeds by being specific: define non-medical tasks, screen the environment, price the full visit, protect money and personal information, and use a written emergency and escalation plan."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Nadia Declines the Debit Card",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Nadia",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Nadia Singh launched a companionship service in Mississauga. Her first client, Mr. Chen, wanted weekly walks and grocery trips. His daughter asked Nadia to keep his debit card “for convenience.” Convenience had arrived wearing a tiny financial-risk hat.",
+            "The conflict was practical: groceries needed paying for, but Nadia did not want access to Mr. Chen’s PIN or account. Her agreement also did not cover medication administration, although an unlabelled pill organizer sat beside the shopping list.",
+            "Nadia proposed a safer routine: the family placed a fixed grocery amount on a store card, Nadia returned every receipt and the daughter handled medication with the pharmacy. Nadia kept an emergency contact card and documented the visit without recording medical speculation.",
+            "Mr. Chen got his groceries and conversation. Nadia kept the client relationship—and did not become an accidental bank branch with sensible shoes."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Use the least-authority payment method that works: client checkout, store card, prepaid amount or family reimbursement with receipts. Never store a client’s PIN or online-banking credentials."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Convenience is not a payment plan. Choose the least-authority payment method that still gets groceries paid for."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Why should a companion service use written exclusions?",
+              "detail": "Written exclusions define what is included and what requires a separate decision or falls outside scope, protecting the client, family and provider from mismatched expectations.",
+              "text": ""
+            },
+            {
+              "title": "When might a vulnerable sector check be relevant?",
+              "detail": "When the role is a qualifying position of trust; the police service determines the process, which differs from an ordinary criminal record check.",
+              "text": ""
+            },
+            {
+              "title": "Why should banking and passwords remain outside the service?",
+              "detail": "Financial access creates serious exploitation and misunderstanding risks; safer options include receipts, pre-approved purchases and payment methods that do not expose a PIN or password.",
+              "text": ""
+            },
+            {
+              "title": "Which costs belong in the visit price besides face-to-face time?",
+              "detail": "Preparation, travel, parking, communication, recordkeeping, supplies, insurance, cancellations and unpaid gaps between clients.",
+              "text": ""
+            },
+            {
+              "title": "What should a companion do during a medical emergency?",
+              "detail": "Observe and call the agreed contact or emergency service—not diagnose, promise clinical monitoring or improvise a treatment plan.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Complete Your Safe Service Launch Plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use service descriptions only. Do not record client health numbers, banking details, passwords, access codes or full medical histories on this worksheet."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Working alone in a private home needs a check-in plan. Share the visit window with a designated contact and create an overdue or emergency response—without broadcasting the client’s private details."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Companion service",
+              "text": "Non-medical social and practical support."
+            },
+            {
+              "title": "Scope of service",
+              "text": "Written list of included and excluded tasks."
+            },
+            {
+              "title": "Vulnerable sector check",
+              "text": "Special police-record screening for qualifying positions of trust."
+            },
+            {
+              "title": "Incident record",
+              "text": "Factual note about an unexpected or safety-related event."
+            },
+            {
+              "title": "Working alone plan",
+              "text": "Check-in and response process for a worker without nearby help."
+            },
+            {
+              "title": "Minimum visit",
+              "text": "Shortest billable appointment offered."
+            },
+            {
+              "title": "Self-employment income",
+              "text": "Business income earned by a person working for themselves."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Being kind is the only qualification needed.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My ideal client and clearly defined companion service are:",
+      "The tasks I include and the tasks I refuse or refer are:",
+      "My registration, permit, screening and insurance checks are:",
+      "My service area, minimum visit, rate, travel and cancellation terms are:",
+      "My client intake, home, pet, mobility and working-alone checks are:",
+      "My payment, receipt, key and privacy safeguards are:",
+      "My emergency contacts, call order and incident record are:",
+      "My first three referral sources and follow-up date are:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

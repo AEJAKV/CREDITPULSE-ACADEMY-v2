@@ -30,6 +30,7 @@ const heroImages: Record<string, string> = {
   'money-05': '/images/money-budgeting/02-silver/money-05/hero-image.webp',
   'money-06': '/images/money-budgeting/02-silver/money-06/hero-image.webp',
   'money-07': '/images/money-budgeting/02-silver/money-07/hero-image.webp',
+  'money-08': '/images/money-budgeting/02-silver/money-08/hero-image.webp',
   'benefits-01': '/images/benefits-support/01-starter/benefits-01/hero-image.webp',
 };
 export async function generateMetadata({

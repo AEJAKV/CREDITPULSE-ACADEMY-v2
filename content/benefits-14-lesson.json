@@ -1,0 +1,316 @@
+{
+  "title": "Utility Assistance",
+  "summary": "Read → Call → Protect → Fund → Prevent",
+  "subtitle": "Act before an overdue bill becomes a dark and expensive surprise",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Utility bills contain enough line items to make a toaster feel overqualified. When money is tight, the essential skill is knowing which number needs action first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Utility assistance can include ongoing bill credits, emergency grants, social-assistance supplements, payment arrangements, arrears management and energy-efficiency services. These supports vary by province, regulator, provider and fuel. A disconnection notice is a deadline, not a program application—and both must be handled."
+        },
+        {
+          "type": "spotlight",
+          "text": "Contact the utility or retailer as soon as payment trouble begins. A payment arrangement made before disconnection can avoid reconnection fees, deposits and several uncomfortable hours discussing candles."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Read the account, provider and deadline correctly.",
+              "text": ""
+            },
+            {
+              "title": "Separate ongoing credits from emergency grants.",
+              "text": ""
+            },
+            {
+              "title": "Request a workable payment arrangement.",
+              "text": ""
+            },
+            {
+              "title": "Document disconnection protections and referrals.",
+              "text": ""
+            },
+            {
+              "title": "Complete a Utility Arrears Rescue and Prevention File.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A winter disconnection ban erases the unpaid balance.”",
+              "text": "Protection may delay a disconnection under specific rules; it does not erase arrears. When protection ends, the balance may still be waiting with excellent posture."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Ontario Energy Board: Bill assistance",
+          "url": "https://www.oeb.ca/"
+        }
+      ]
+    },
+    {
+      "id": "triage",
+      "title": "Read Five Details Before Making the First Call",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Triage the bill before the bill triages the budget."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "ACCOUNT HOLDER & SERVICE ADDRESS",
+              "text": "Confirm whose name is on the account and whether the bill covers the correct meter and location."
+            },
+            {
+              "title": "RETAILER, DISTRIBUTOR & REGULATOR",
+              "text": "The company selling energy, the company delivering it and the regulator may have different responsibilities."
+            },
+            {
+              "title": "CURRENT CHARGES & ARREARS",
+              "text": "Separate new usage, fixed fees, interest, deposits, prior balance and any disputed amount."
+            },
+            {
+              "title": "NOTICE DEADLINE",
+              "text": "Record the issue date, minimum action, disconnection date and contact channel. Call before the deadline."
+            },
+            {
+              "title": "HEALTH & SAFETY RISK",
+              "text": "Identify medical equipment, extreme temperature, children, disability or other urgent risks and ask which formal protections or emergency routes apply."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Ontario’s OESP provides an ongoing monthly electricity-bill credit for eligible households. LEAP is separate emergency help for qualified electricity or natural-gas customers in arrears."
+        },
+        {
+          "type": "spotlight",
+          "text": "Ontario LEAP emergency grants can reach $650 for electricity, $780 for electrically heated homes and $650 for natural gas, limited by the arrears actually owed and available funding."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“One application covers electricity, natural gas, water and heating fuel everywhere.”",
+              "text": "Programs commonly differ by utility, provider and jurisdiction. Ask about each bill separately; propane has never agreed to share paperwork with municipal water."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Ontario Energy Board: LEAP",
+          "url": "https://www.oeb.ca/"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "Arrange, Assist, Dispute and Reduce",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "First request a payment arrangement that fits actual cash flow. Confirm the down payment, instalments, due dates, interest, current-bill requirement and what happens after one missed payment. Obtain a reference number or written terms."
+        },
+        {
+          "type": "spotlight",
+          "text": "Alberta’s Utilities Consumer Advocate can explain options and help with retailer disputes or arrangements, but it does not itself provide financial assistance. Financial help may come through Alberta Supports or local agencies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Second, apply for every suitable assistance route. Third, dispute billing errors separately so an unresolved complaint does not silently become arrears. Finally, reduce future volatility with equal billing, usage alerts, conservation support and verified energy-efficiency programs."
+        },
+        {
+          "type": "spotlight",
+          "text": "B.C. may provide a crisis supplement for essential-utility arrears, disconnection or reconnection to eligible assistance applicants or recipients. This is a local social-assistance rule, not a universal Canadian grant."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Energy-efficiency programs are the right response to a disconnection tomorrow.”",
+              "text": "Efficiency can lower future use; it rarely replaces an urgent arrears arrangement. Install the draft seal after making the crisis call—not instead of it."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Utility crises need parallel action: contact the provider, protect the deadline, apply for local assistance, dispute errors and build a realistic plan for current and future bills."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Jo and the Arrangement with Imaginary Money",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Jo",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Jo Pelletier in Ottawa received a disconnection notice and promised the utility a large payment on Friday. Friday’s budget contained rent, groceries and exactly none of the heroic dollars Jo had promised. The arrangement was optimistic enough to have its own soundtrack.",
+            "The conflict was not willingness; it was arithmetic. Jo also qualified to explore OESP for future credits and LEAP for the current arrears, but neither application cancelled the notice deadline by telepathy.",
+            "Jo called before the deadline, replaced the impossible promise with a smaller documented plan and contacted the local LEAP intake agency. Jo applied for OESP separately and set usage alerts for the next billing cycle.",
+            "The account did not become effortless. It became managed: one realistic arrangement, two different assistance routes and no imaginary payday required."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A good payment plan protects both the arrears instalment and the new monthly bill. If it covers only the old balance, the account can fall behind while technically following the plan."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Which five details belong in the first bill review?",
+              "detail": "Account holder and service address, retailer/distributor/regulator, current charges and arrears, the notice deadline, and any health and safety risk.",
+              "text": ""
+            },
+            {
+              "title": "How do an ongoing bill credit and an emergency grant differ?",
+              "detail": "An ongoing credit like OESP reduces future monthly bills for eligible households, while an emergency grant like LEAP is separate one-time help for customers already in arrears.",
+              "text": ""
+            },
+            {
+              "title": "What terms should be confirmed in a payment arrangement?",
+              "detail": "The down payment, instalments, due dates, interest, whether current bills must also be paid, and what happens after one missed payment, with a reference number or written terms.",
+              "text": ""
+            },
+            {
+              "title": "Why must billing disputes and arrears action proceed together?",
+              "detail": "An unresolved dispute does not pause the deadline; disputing errors separately keeps a genuine billing mistake from silently becoming arrears.",
+              "text": ""
+            },
+            {
+              "title": "What can energy-efficiency help—and what can it not solve immediately?",
+              "detail": "It can lower future usage and volatility, but it rarely replaces an urgent arrears arrangement needed before a disconnection deadline.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Complete Your Utility Arrears Rescue and Prevention File",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Do not enter full account, banking or identity numbers. Store the bill, notice and application evidence securely."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Call script: “I want to prevent disconnection. I can pay $___ on ___ and $___ each ___. What arrangement, assistance referral and confirmation can you provide?”"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Arrears",
+              "text": "Past-due utility charges."
+            },
+            {
+              "title": "Disconnection notice",
+              "text": "Formal warning that service may stop."
+            },
+            {
+              "title": "Payment arrangement",
+              "text": "Agreed schedule for arrears and current bills."
+            },
+            {
+              "title": "OESP",
+              "text": "Ontario's ongoing electricity-bill credit program."
+            },
+            {
+              "title": "LEAP",
+              "text": "Ontario emergency utility assistance for eligible arrears."
+            },
+            {
+              "title": "Distributor",
+              "text": "Company delivering electricity or gas infrastructure service."
+            },
+            {
+              "title": "Equal billing",
+              "text": "Plan spreading estimated annual costs across regular payments."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “A winter disconnection ban erases the unpaid balance.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My utility, provider, service address and account holder are:",
+      "My current charges, arrears and disputed amount are:",
+      "My notice deadline, disconnection status and safety risks are:",
+      "My provider call, payment proposal and confirmation are:",
+      "My ongoing-credit, emergency-grant and social-assistance routes are:",
+      "My regulator, advocate or complaint contact is:",
+      "My equal-billing, usage-alert and efficiency options are:",
+      "My next instalment, current-bill and follow-up dates are:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

@@ -1,0 +1,116 @@
+# Risk Tolerance
+
+Raw verbatim backup. Old: platinum-course-2-14 (/course/platinum/risk-tolerance) -> new: tax-wealth / 04-platinum / tax-14
+
+- Subtitle: Ask someone about their risk tolerance and you’ll get one answer to what’s actually two separate questions.
+- Duration (old): 20 minutes; stored as minutes: 45
+- Deck / summary: CAPACITY → COMFORT → TIME HORIZON → THE RIGHT FIT
+- Source files: lib/platinum-course-2-14-data.js, components/RiskToleranceCourse.jsx
+
+## Image mapping (old -> new)
+- (none: old project has no image files for this course)
+
+## Start here
+
+[paragraph] Ask someone about their “risk tolerance,” and you’ll usually get one answer to what’s actually two separate questions.
+
+[paragraph] How much risk can you afford to take? And how much risk can you actually stomach, emotionally, without doing something you’ll regret?
+
+[paragraph] Those aren’t the same thing. A lot of bad investment decisions come from confusing the two — someone who can technically afford more risk, panicking and selling at the worst possible moment because they never could emotionally handle it in the first place.
+
+## Risk capacity: the math question
+
+[paragraph] This is about your actual situation. How many years until you need this money? Do you have a stable income? An emergency fund? Other assets to fall back on?
+
+[paragraph] Someone in their thirties, saving for a retirement decades away, has high risk capacity — time to recover from a downturn. Someone about to retire next year, relying on that money for living expenses, has low risk capacity, regardless of how they feel about risk emotionally.
+
+## Risk comfort: the emotional question
+
+[paragraph] This is about how you actually react when your investments drop. Some people can watch a portfolio fall 20% and feel nothing more than mild curiosity. Others lose sleep over a 5% dip.
+
+[paragraph] Neither reaction is wrong. But it’s honest, useful information — and it matters just as much as the math.
+
+[myths]
+  - “Risk tolerance is just about how brave or cautious a person is.” — It’s really two separate things: what your situation can handle (capacity) and what you can handle emotionally (comfort). Someone with high capacity but low comfort needs a different plan than someone high on both — and pretending they’re the same person leads to bad advice.
+
+## Why the mismatch is the actual danger
+
+[paragraph] The real risk in investing usually isn’t the market falling. It’s an investor panicking during a fall and selling at the bottom — locking in a loss that would have recovered if they’d simply stayed put.
+
+[paragraph] That panic almost always comes from a mismatch: a portfolio built for someone’s risk capacity, without enough attention paid to their risk comfort. On paper, the portfolio was correct. In practice, it was more than the person could emotionally sit through.
+
+[paragraph] A portfolio you can’t stick with during a downturn is, in a very real sense, the wrong portfolio for you — even if the math behind it was sound.
+
+[heading] CREDIT PULSE SPOTLIGHT: THE PORTFOLIO THAT’S RIGHT ON PAPER CAN STILL BE WRONG FOR YOU
+
+[spotlight] Two investors, same age, same income, same time horizon — identical risk capacity by every measure a calculator would use. One of them can watch a 30% market drop and feel nothing more than mild inconvenience. The other checks their account daily during a downturn, can’t sleep, and eventually sells everything at the worst possible moment, just to make the anxiety stop. The math said they should hold the same portfolio. Their actual behaviour proved otherwise. A slightly more conservative portfolio — one the second investor could genuinely stick with through a bad year — will very often outperform an aggressive one they abandon in a panic. The best portfolio isn’t the one with the highest theoretical return. It’s the one you’ll actually still be holding five years from now.
+
+## Time horizon: the factor that changes everything
+
+[paragraph] How long until you need this money is one of the biggest inputs into how much risk you can reasonably take on.
+
+[chips]
+  - Money you need within a year or two. Very little room for risk. A market drop with no time to recover before you need the cash is a real problem, not a theoretical one.
+  - Money you need in five to ten years. Some room for risk, balanced against the shrinking runway to recover from a bad stretch.
+  - Money you won’t touch for decades, like early retirement savings. The most room for risk. Time to ride out multiple downturns, and historically the strongest case for holding more stocks.
+
+[paragraph] This is exactly why a TFSA earmarked for next year’s vacation should usually sit somewhere very different than an RRSP you won’t touch for thirty years — same account types covered elsewhere in this course, completely different risk answer depending on the goal attached.
+
+[myths]
+  - “Younger investors should always take on maximum risk since they have time to recover.” — Time horizon matters enormously, but it isn’t the only factor. A young investor with genuinely low risk comfort, who’ll panic-sell during every downturn, may do better long-term with a somewhat more conservative portfolio they can actually stick with, than an aggressive one they keep abandoning.
+
+## Understanding your own risk profile
+
+[chips]
+  - I’ve thought about my risk capacity and my risk comfort as two separate questions.
+  - I know roughly when I’ll need each pool of money I’m investing — my time horizon for each goal.
+  - I’ve honestly considered how I actually reacted the last time an investment I held dropped in value.
+  - I understand that a portfolio I can’t emotionally stick with is the wrong portfolio, even if the math looks right.
+  - I haven’t assumed my age alone determines the right amount of risk for me.
+
+## Two portfolios, one bad year
+
+[story] Two portfolios, one bad year
+  detail: DEDICATED STORY
+  ¶ Amara and Josh, siblings, both in their late twenties, both investing for retirement decades away. A financial planning tool suggested the same aggressive, mostly-stock portfolio for both of them — the math looked identical.
+  ¶ The market had a genuinely rough year. Amara barely noticed — she checked her account twice, shrugged, and kept contributing exactly as before. Josh checked daily, felt physically unwell some mornings, and came within a hair of selling everything, convinced it was the responsible thing to do.
+  ¶ He didn’t sell, in the end — mostly because a call with an advisor talked him through it in the moment. But the advisor’s actual advice afterward wasn’t to tell Josh he’d been wrong to feel that way. It was to rebuild his portfolio slightly more conservatively — enough that the next rough year wouldn’t put him one bad week away from a costly, panicked decision.
+  ¶ Amara kept her original aggressive portfolio. Josh’s became somewhat more balanced. Both were doing the right thing for themselves — not because the math changed, but because the plan finally matched the person holding it.
+
+[heading] CREDIT PULSE SPOTLIGHT: HOW OFTEN YOU LOOK CHANGES HOW MUCH IT HURTS
+
+[spotlight] Josh’s daily checking was not just a symptom of his discomfort, it was actively making it worse. Checking a portfolio every day means seeing roughly as many down days as up days, and because a loss tends to feel worse than an equivalent gain feels good, frequent checking manufactures more pain than the underlying risk actually justifies. Checking monthly or quarterly instead does not change what the portfolio is doing, only how often the swings are visible, and it measurably reduces how volatile the same investment feels to hold. It costs nothing, requires no change to the portfolio itself, and for someone who recognizes a bit of Josh in themselves, it is often the single easiest adjustment available before touching the actual mix of investments.
+
+[takeaway] Risk tolerance is really two questions: what your situation can afford, and what you can emotionally handle. A portfolio that’s mathematically correct but emotionally unbearable often leads to the exact panic-selling it was supposed to protect against. Time horizon matters enormously — but so does an honest look at how you’ve actually behaved the last time your investments dropped.
+
+## Your action this week
+
+[ordered]
+  - For each investment goal you have, write down your actual time horizon — when will you genuinely need this money?
+  - Think honestly about how you reacted the last time an investment dropped, or imagine how you’d feel watching a portfolio fall 20% in a month.
+  - If your current portfolio’s risk level came from a generic questionnaire, consider whether it actually matches your emotional comfort, not just your time horizon.
+
+[heading] Worksheet: your risk profile
+
+[paragraph] Answer guidance: if question two reveals a pattern of panic during past drops, that’s genuinely useful information — not a character flaw to hide from an advisor, but a fact your portfolio should be built around. If question three shows a mismatch, that’s worth a conversation with an advisor before the next downturn happens, not during one.
+
+[checkin] 
+
+## Glossary
+
+[glossary]
+  - Risk capacity — How much investment risk your actual financial situation can withstand.
+  - Risk comfort (or tolerance) — How much investment risk you can handle emotionally without making impulsive decisions.
+  - Time horizon — How long until you’ll actually need a given pool of invested money.
+  - Panic-selling — Selling investments during a downturn out of fear, often locking in losses that would otherwise have recovered.
+
+[paragraph] Educational only, not investment advice.
+
+## Check-in
+
+1. My time horizon for each major investment goal:
+2. Honestly, how have I reacted to past investment drops?
+3. Does my current portfolio’s risk level match both my capacity and my comfort?
+
+Reward: Complete this activity and get $5 plus 20 Credit Pulse points
+Acknowledgment: I understand this is educational information.

@@ -1,0 +1,338 @@
+{
+  "title": "Dental-Care Benefits",
+  "summary": "Qualify → Enrol → Estimate → Authorize → Renew",
+  "subtitle": "Confirm coverage and price before the chair begins reclining",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A dental chair is no place to discover that “covered” and “free” are distant cousins who only exchange holiday cards."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Canadian Dental Care Plan, or CDCP, helps eligible Canadian residents who lack access to private dental coverage and have adjusted family net income below $90,000. It pays participating oral-health providers according to CDCP rules and established fees. A member may still owe a co-payment, a fee difference or the full cost of an uncovered service."
+        },
+        {
+          "type": "spotlight",
+          "text": "All four eligibility requirements matter: no access to private dental insurance, required Canadian tax returns filed, adjusted family net income below $90,000 and Canadian residence."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Screen CDCP eligibility without self-approving.",
+              "text": ""
+            },
+            {
+              "title": "Confirm the coverage period and provider participation.",
+              "text": ""
+            },
+            {
+              "title": "Separate co-payment from additional fees.",
+              "text": ""
+            },
+            {
+              "title": "Identify services needing preauthorization.",
+              "text": ""
+            },
+            {
+              "title": "Complete a Dental Coverage and Cost Confirmation Sheet.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Declining available workplace dental insurance makes me eligible for CDCP.”",
+              "text": "Access to private coverage can make a person ineligible even when they choose not to enrol or pay the premium. The plan checks access, not enthusiasm."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: CDCP eligibility",
+          "url": "https://www.canada.ca/en/services/benefits/dental/dental-care-plan/eligibility.html"
+        }
+      ]
+    },
+    {
+      "id": "coverage",
+      "title": "Coverage Has Dates, Percentages and Rules",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "After approval, the member receives a coverage start date and information from Service Canada and Sun Life. Do not book treatment before coverage begins. CDCP does not reimburse members who pay the full bill themselves; the provider submits eligible claims directly."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "AFNI BELOW $70,000",
+              "text": "CDCP covers 100% of eligible services at CDCP established fees; additional provider charges can still remain."
+            },
+            {
+              "title": "AFNI $70,000 TO $79,999",
+              "text": "CDCP covers 60% of established fees and the member co-payment is 40%, plus possible additional charges."
+            },
+            {
+              "title": "AFNI $80,000 TO $89,999",
+              "text": "CDCP covers 40% of established fees and the member co-payment is 60%, plus possible additional charges."
+            },
+            {
+              "title": "AFNI $90,000 OR MORE",
+              "text": "The income requirement is not met for that benefit period."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A provider’s usual fee may be higher than the CDCP established fee. Ask whether the office will charge the difference—often called balance billing—before treatment."
+        },
+        {
+          "type": "spotlight",
+          "text": "CDCP can coordinate with certain provincial, territorial and federal dental programs. Coordination rules vary, so show every coverage letter to the provider."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A 0% co-payment means the appointment must cost the member nothing.”",
+              "text": "Zero per cent applies to eligible CDCP services at established fees. Uncovered services and provider fees above the CDCP amount can still create a bill."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: CDCP coverage",
+          "url": "https://www.canada.ca/en/services/benefits/dental/dental-care-plan/coverage.html"
+        }
+      ]
+    },
+    {
+      "id": "estimate",
+      "title": "Ask Four Questions Before Saying Yes",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Estimate before the chair reclines, not after."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "I",
+              "text": "s"
+            },
+            {
+              "title": "I",
+              "text": "s"
+            },
+            {
+              "title": "W",
+              "text": "h"
+            },
+            {
+              "title": "W",
+              "text": "h"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Preauthorization is a coverage review, not permission for treatment and not a promise that every future charge will be paid. The provider submits it with supporting documents."
+        },
+        {
+          "type": "spotlight",
+          "text": "Frequency limits matter. A service can appear in the benefits guide and still be unavailable because the allowed interval or quantity has already been used."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If a dentist recommends a service, CDCP must cover it.”",
+              "text": "Clinical recommendation and benefit coverage answer different questions. The provider decides care with the patient; the plan applies coverage criteria."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Key takeaway: CDCP membership is not a blank cheque. Confirm the coverage date, service code, preauthorization, established fee, co-payment and provider difference before treatment begins."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Renée and the Crown With Two Prices",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Renée",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Renée Gagnon in Moncton had CDCP coverage and needed a crown. The clinic said the service was “covered,” a word Renée’s budget interpreted as “please leave your wallet in the car.”",
+            "The conflict appeared in the estimate. The crown required preauthorization, Renée had a 40% co-payment and the clinic’s fee exceeded the CDCP established amount. Covered did not mean fully paid.",
+            "The provider submitted the request, then gave Renée a written breakdown: plan payment, co-payment, fee difference and an alternative treatment discussion. Renée waited for the coverage decision before choosing with her dentist.",
+            "The crown did not become inexpensive by vocabulary. It became understandable, which is the useful first step between a treatment plan and a payment plan."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Never rely on a verbal percentage alone. Ask for the procedure codes and member estimate so the provider and patient are discussing the same service, tooth and fee."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Covered is a coverage category, not a price. Confirm the codes, preauthorization and fee breakdown in writing before agreeing to treatment."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What four requirements form the CDCP eligibility screen?",
+              "detail": "No access to private dental insurance, required Canadian tax returns filed, adjusted family net income below $90,000 and Canadian residence.",
+              "text": ""
+            },
+            {
+              "title": "Why can a member with a 0% co-payment still owe money?",
+              "detail": "Zero per cent applies to eligible CDCP services at established fees; uncovered services and provider fees above the CDCP amount can still create a bill.",
+              "text": ""
+            },
+            {
+              "title": "Who submits an eligible CDCP claim?",
+              "detail": "The participating provider submits eligible claims directly; CDCP does not reimburse members who pay the full bill themselves.",
+              "text": ""
+            },
+            {
+              "title": "What does preauthorization decide—and not decide?",
+              "detail": "It is a coverage review completed before specified treatment; it is not permission for treatment and not a promise that every future charge will be paid.",
+              "text": ""
+            },
+            {
+              "title": "Why should all provincial or federal dental coverage be disclosed?",
+              "detail": "CDCP can coordinate with certain provincial, territorial and federal dental programs, and coordination rules vary, so every coverage letter should reach the provider.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: Canadian Dental Care Plan",
+          "url": "https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Complete Your Dental Coverage and Cost Confirmation Sheet",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Do not record member identifiers, health numbers or full clinical records. Keep the official letters and estimates securely."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "CDCP coverage must be renewed annually. Missing the renewal window can create a coverage gap, and services received during the gap are not reimbursed later."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "CDCP",
+              "text": "Canadian Dental Care Plan."
+            },
+            {
+              "title": "AFNI",
+              "text": "Adjusted family net income."
+            },
+            {
+              "title": "Established fee",
+              "text": "Amount CDCP uses to calculate payment."
+            },
+            {
+              "title": "Co-payment",
+              "text": "Member percentage of the CDCP established fee."
+            },
+            {
+              "title": "Balance billing",
+              "text": "Provider charge above the plan's established fee."
+            },
+            {
+              "title": "Preauthorization",
+              "text": "Coverage review completed before specified treatment."
+            },
+            {
+              "title": "Frequency limit",
+              "text": "Maximum number or interval for covered services."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Declining available workplace dental insurance makes me eligible for CDCP.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My eligibility, tax-return and private-coverage checks are:",
+      "My CDCP coverage start, end and renewal dates are:",
+      "My oral-health provider participates and bills CDCP by:",
+      "The service, code, frequency limit and coverage rule are:",
+      "The preauthorization status and confirmation date are:",
+      "The CDCP fee, plan payment, co-payment and fee difference are:",
+      "My provincial, territorial or federal coordination question is:",
+      "My treatment decision, payment plan and next review are:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

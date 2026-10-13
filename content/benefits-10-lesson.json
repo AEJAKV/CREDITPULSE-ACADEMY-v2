@@ -1,0 +1,312 @@
+{
+  "title": "Employment Insurance",
+  "summary": "Choose → Apply → Prove → Report → Return",
+  "subtitle": "Turn a sudden work interruption into an organized claim",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Losing a job already rearranges the week. EI then asks for dates, hours and passwords precisely when the brain has decided to store only the lyrics to a 2009 commercial."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment Insurance provides temporary income support during certain interruptions of earnings. Regular benefits are for people who lose insurable employment through no fault of their own and remain ready, willing and capable of working while actively seeking suitable work. Separate EI benefits cover sickness, maternity, parental and caregiving situations."
+        },
+        {
+          "type": "spotlight",
+          "text": "Apply as soon as work stops, even if the Record of Employment has not arrived. Waiting more than four weeks after the last day worked may cause a loss of benefits."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Choose the correct EI benefit route.",
+              "text": ""
+            },
+            {
+              "title": "Screen regular-benefit eligibility and regional hours.",
+              "text": ""
+            },
+            {
+              "title": "Build an application and job-search record.",
+              "text": ""
+            },
+            {
+              "title": "Report work and earnings correctly.",
+              "text": ""
+            },
+            {
+              "title": "Complete an EI Claim Launch and Weekly Reporting Log.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“EI is automatic because premiums appeared on my paycheque.”",
+              "text": "Premiums fund insurance; they do not decide a claim. The claimant must apply and meet the rules for the specific benefit. Receipts are not tiny approval letters."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Service Canada: Employment Insurance",
+          "url": "https://www.canada.ca/en/services/benefits/ei.html"
+        }
+      ]
+    },
+    {
+      "id": "screen",
+      "title": "Start With the Reason Work Stopped",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "INTERRUPTION",
+              "text": "For regular EI, the claimant generally needs insurable employment and at least seven consecutive days without work and pay."
+            },
+            {
+              "title": "SEPARATION",
+              "text": "Job loss through no fault of the claimant is the usual route. Quitting, misconduct, labour disputes, school or travel can require closer review."
+            },
+            {
+              "title": "REGIONAL HOURS",
+              "text": "The normal requirement ranges from 420 to 700 insurable hours, based on the unemployment rate in the claimant's EI economic region."
+            },
+            {
+              "title": "ONGOING AVAILABILITY",
+              "text": "Regular EI requires readiness, willingness and capability to work plus a documented search for suitable employment."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The qualifying period is usually the shorter of the previous 52 weeks or the period since an earlier claim began."
+        },
+        {
+          "type": "spotlight",
+          "text": "The EI region is based on the claimant's residence and can differ from the work location. Use the official postal-code lookup for the claim's start date."
+        },
+        {
+          "type": "spotlight",
+          "text": "Regular EI requires availability and a documented search for suitable employment. Sickness EI uses a different test: the person would otherwise be available if not for the medical condition."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Every job loss qualifies for regular EI as long as enough hours were worked.”",
+              "text": "The reason employment ended, the interruption of earnings, availability and job search also matter. Hours are one gate, not the entire airport."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Service Canada: EI eligibility",
+          "url": "https://www.canada.ca/en/services/benefits/ei/ei-regular-benefit/eligibility.html"
+        }
+      ]
+    },
+    {
+      "id": "maintain",
+      "title": "The Application Opens the File; Reports Keep It Moving",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Apply online with employment dates, employer information, reasons for separation, banking information and required identity details. Employers may send Records of Employment electronically or provide paper copies. Report every employer; Service Canada decides which earnings and hours count."
+        },
+        {
+          "type": "spotlight",
+          "text": "The basic 2026 rate is generally 55% of average insurable weekly earnings, up to $729 per week. Regular benefits may last 14 to 45 weeks depending on regional unemployment and accumulated hours."
+        },
+        {
+          "type": "paragraph",
+          "text": "After applying, complete biweekly reports accurately and on time. Declare work, hours, gross earnings, availability, training, travel and other money requested. Keep a job-search log with employers, dates, methods, positions and outcomes."
+        },
+        {
+          "type": "spotlight",
+          "text": "Working while on a regular claim generally reduces EI by 50 cents for each dollar earned until earnings reach 90% of the weekly amount used to establish the claim; earnings above that threshold are deducted dollar for dollar."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Part-time earnings can be omitted because EI will find them later.”",
+              "text": "All work and earnings must be reported for the week earned. Letting data matching discover them is an expensive administrative hobby."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Key takeaway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Apply immediately, use the correct EI route and document every week. Eligibility continues after approval, so report availability, work, earnings and changes accurately."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Dylan and the Record That Was Still Commuting",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Dylan",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Dylan Fraser was laid off from a manufacturing job in Windsor. His employer said the ROE would arrive soon, so Dylan waited. Two weeks passed; the record appeared to be commuting from another province by canoe.",
+            "The conflict was the delay. EI instructions said to apply immediately without waiting for the ROE. Dylan also picked up one short landscaping shift and assumed the small earnings were too polite to mention.",
+            "He submitted the application, listed the missing ROE, recorded his regional hours requirement and began a job-search log. On his report, he declared the landscaping hours and gross earnings for the week worked, then saved the confirmation.",
+            "Service Canada determined the claim. Dylan could not control the ROE's travel speed, but he controlled the application date, weekly evidence and honest reporting."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A late or incorrect ROE is a follow-up issue, not a reason to postpone the application. Record when you contacted the employer and tell Service Canada what is missing."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What conditions belong in a regular-EI screen?",
+              "detail": "Insurable employment, the reason work stopped, an interruption of earnings, enough regional hours, availability and an active job search.",
+              "text": ""
+            },
+            {
+              "title": "Why can two workers need different numbers of hours?",
+              "detail": "The requirement depends on the unemployment rate in each claimant's EI economic region and the claim start date.",
+              "text": ""
+            },
+            {
+              "title": "Should a claimant wait for the ROE before applying?",
+              "detail": "No. Apply as soon as work stops and follow up on a missing or incorrect ROE separately.",
+              "text": ""
+            },
+            {
+              "title": "What belongs in a biweekly report?",
+              "detail": "Work, hours, gross earnings, availability, training, travel and other money requested for the relevant weeks.",
+              "text": ""
+            },
+            {
+              "title": "How does working while on claim generally affect EI?",
+              "detail": "EI is generally reduced by 50 cents per dollar earned until earnings reach 90% of the weekly amount used to establish the claim, then dollar for dollar above that threshold.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Complete Your EI Claim Launch and Weekly Reporting Log",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Keep claim codes, SINs and banking information out of this workbook. Store official credentials and documents securely."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "For initial EI claims beginning from March 30, 2025 through October 10, 2026, the usual one-week waiting period is temporarily waived. Report facts for the week they occurred, even if pay arrives later."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "EI",
+              "text": "Employment Insurance temporary income support."
+            },
+            {
+              "title": "Insurable employment",
+              "text": "Work covered by EI premiums and program rules."
+            },
+            {
+              "title": "ROE",
+              "text": "Record of Employment describing work and interruption details."
+            },
+            {
+              "title": "Qualifying period",
+              "text": "Period used to count insurable hours."
+            },
+            {
+              "title": "EI economic region",
+              "text": "Regional labour-market area determining hours and weeks."
+            },
+            {
+              "title": "Waiting period",
+              "text": "Usually an unpaid first week, temporarily waived for specified claims."
+            },
+            {
+              "title": "Biweekly report",
+              "text": "Claimant declaration required to maintain payment."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “EI is automatic because premiums appeared on my paycheque.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My last day worked, interruption-of-earnings date and application date are:",
+      "My correct benefit route and reason work stopped are:",
+      "My EI region, qualifying period, hours required and hours recorded are:",
+      "My employers and ROE status are:",
+      "My estimated weekly rate and possible weeks are:",
+      "My weekly availability and job-search record shows:",
+      "My work, hours, gross earnings, training or travel to report are:",
+      "My biweekly report, correspondence and follow-up deadlines are:"
+    ],
+    "samples": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

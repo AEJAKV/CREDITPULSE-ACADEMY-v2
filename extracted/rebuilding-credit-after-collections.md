@@ -1,0 +1,181 @@
+# Rebuilding Credit After Collections
+
+Raw verbatim backup. Old: silver-course-1-1 (/course/silver/rebuilding-credit-after-collections) -> new: credit-mastery / 03-gold / credit-11
+
+- Subtitle: Build a recovery file before you build another credit application
+- Duration (old): see data file; stored as minutes: 45
+- Deck / summary: Verify → Document → Resolve → Rebuild
+
+## Masterclass brief
+
+[paragraph] A collection notice has roughly the bedside manner of a parking ticket and the persistence of a smoke alarm asking for a new battery.
+
+[paragraph] The useful response is not panic, shame or a midnight credit-card application. It is a file.
+
+[paragraph] This masterclass shows you how to confirm what is being collected and separate accurate information from errors. You will document every contact, choose a resolution you can keep and rebuild recent positive credit behaviour. A paid collection may still appear for a period of time, so recovery is less about finding an eraser and more about creating better evidence after the event.
+
+[spotlight] A collection entry is information about an account. It is not a character reference, a personality test or a permanent forecast.
+
+[lists]
+  - By the end, you will be able to ["Assemble a collections recovery file without exposing unnecessary personal information.","Verify the creditor, collector, amount and reporting status before discussing payment.","Compare full payment, settlement and payment-arrangement paths without assuming any one option deletes the history.","Identify when provincial or territorial rules and legal advice matter.","Leave with a 90-day rebuilding plan and a documented follow-up date."]
+
+[myths]
+  - “If I pay a collection, it disappears from my reports immediately.” — Accurate negative information may remain for the applicable reporting period even after payment. Payment can change the status; it does not guarantee deletion.
+
+[source] FCAC: How long information stays on your credit report
+  url: https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/information-credit-report.html
+
+[transition] A collector's deadline is not your deadline, and the caller cannot enforce either one.
+  detail: Writing down what a collector says before agreeing to anything is what turned Ariane's disputed device charge into a corrected balance.
+  extra: Meet Ariane, next, as her own collection call rings.
+
+## The File That Finally Made the Phone Stop Running the Meeting
+
+[story] Meet Ariane (DEDICATED STORY)
+  - Ariane LeBlanc, a catering supervisor in Moncton, wanted to qualify for a modest apartment closer to work. During the application, the landlord mentioned a collection account from an old mobile provider. Ariane remembered closing the service after moving, but she did not recognize the amount. Two days later, a collector called during her lunch rush and asked for immediate payment.
+  - The pressure made the fastest option tempting: pay first and ask questions after. Instead, Ariane wrote down the caller’s name, company, telephone number, original creditor and claimed balance. She said she would respond after checking her records. That evening she compared the final mobile bill, bank statements and both Canadian credit reports. The account was hers, but the collection balance included a device charge she believed had already been returned.
+  - Ariane created one folder containing the final invoice, courier receipt, account-closing email, call log and copies of her reports. She sent a concise written dispute to the provider and credit bureaus, attaching copies rather than original documents. The provider confirmed the returned device and reduced the balance. The remaining service amount was valid.
+  - Ariane then asked for written payment terms. She could not safely pay the full balance that week without borrowing for groceries, so she chose a short arrangement that fit two paydays. After the last payment cleared, she obtained a receipt and written confirmation of the account’s updated status. She checked both reports again after allowing time for reporting and disputed one bureau entry that had not been updated.
+  - The collection did not vanish on cue. Credit reporting has never been famous for theatrical exits. But Ariane now had accurate records, no unresolved balance and a workable rebuilding routine: every bill on time, one low card balance and no new applications until she had six months of clean recent history. When she reapplied later, she supplied requested documents calmly and compared the full rental cost before signing.
+
+[spotlight] The strongest collection response begins with evidence. Confirming the account before discussing payment can prevent an error from becoming an expensive assumption.
+
+[heading] What changed the outcome?
+
+[paragraph] Ariane did not win by arguing louder. She slowed the process, proved the disputed part, resolved the valid part and kept documents that could support later corrections. Her conclusion was not a miraculous score jump; it was control, accuracy and a recent pattern a future decision-maker could evaluate.
+
+[transition] Six items in one file are what kept Ariane's next call short, calm and on her own terms.
+  detail: Knowing what to verify before a dollar moves is what separates a documented resolution from a rushed one.
+  extra: Build the same six-item file next, before anyone calls.
+
+## Verify Before You Volunteer a Dollar
+
+[paragraph] When contact arrives, treat the first conversation as information gathering.
+
+[paragraph] You do not need to decide everything while someone is waiting on the line.
+
+[heading] Put these six items in the file
+
+[cards]
+  - Collector identity — Record the agency, caller, contact details and any licence or registration information shown in the written notice.
+  - Debt identity — Record the original creditor, account reference, claimed balance and a breakdown if fees or interest are included.
+  - Your records — Gather statements, receipts, cancellation confirmations, correspondence and prior payment proof. Keep originals.
+  - Credit evidence — Download or request current reports from both Equifax and TransUnion. The entries may not be identical.
+  - Contact log — For every call or letter, record the date, time, person, promises made, documents requested and next step.
+  - Province checkpoint — Record where you live and which provincial or territorial consumer authority regulates the collection conduct.
+
+[spotlight] The collector, original creditor and credit bureau have different jobs. A correction may require contact with more than one of them.
+
+[heading] A CALM CALLBACK SCRIPT
+
+[quote] “I am reviewing the account. Please give me the original creditor, the amount and its breakdown, your agency information and a written notice. I will respond after comparing it with my records. I am not agreeing to payment terms on this call.”
+
+[paragraph] Do not send passwords, PINs or full copies of identity documents because a caller demands them. Use verified contact information and the official process. If the account is not yours, the balance is wrong, it was paid, or the dates are inaccurate, gather proof and use the bureau and creditor dispute procedures.
+
+[myths]
+  - “Canadian collectors all follow one national rulebook.” — Most collection-agency conduct is regulated provincially or territorially. Federal rules also apply in some situations, including collection by or for federally regulated financial institutions.
+
+[source] FCAC: Dealing with a debt collector
+  url: https://www.canada.ca/en/financial-consumer-agency/services/debt/collection-agency.html
+
+[source] Office of Consumer Affairs: Provincial and territorial offices
+  url: https://ised-isde.canada.ca/site/office-consumer-affairs/en/federal-provincial-and-territorial-consumer-affairs-offices
+
+## Resolve the Valid Debt Without Buying a Promise
+
+[paragraph] Once the account and amount are verified, compare the options against your cash flow. A resolution that causes missed rent, utilities or new high-interest borrowing just moves the emergency to a different envelope.
+
+[spotlight] Full payment, settlement and an arrangement are different cash-flow paths. None creates an automatic right to have accurate history deleted.
+
+[heading] Before money moves
+
+[ordered]
+  - Get the agreement in writing and verify the payment destination independently. — 
+  - Keep payment proof, settlement letters, receipts and confirmation of the final status. — 
+  - Do not rely on a verbal promise that a credit entry will be deleted or that a score will rise by a stated number. — 
+  - For an older debt, check provincial limitation law before making a payment or written acknowledgement. The limitation clock and credit-reporting period are different legal concepts. — 
+
+[myths]
+  - “If the limitation period has passed, the debt must disappear from my credit reports.” — Limitation law concerns court enforcement and varies by jurisdiction. Credit-report retention follows separate rules. An expired limitation period does not necessarily erase the debt or the report entry.
+
+[source] FCAC: Debt collection—know your rights
+  url: https://www.canada.ca/en/financial-consumer-agency/services/debt/collection-agency.html
+
+## Build Better Evidence After the Collection
+
+[paragraph] A resolved collection closes one problem. Rebuilding comes from what gets reported next.
+
+[paragraph] Keep the system quiet enough to repeat.
+
+[cards]
+  - 1 | Protect every due date — Pay at least the required minimum on time. Contact the provider early if a payment may be difficult.
+  - 2 | Lower revolving balances — Use a small portion of available credit and pay the statement balance in full when affordable. Do not borrow just to create activity.
+  - 3 | Limit applications — Choose credit that solves a real need and compare total cost before applying. Several urgent applications can add hard inquiries.
+  - 4 | Check the reporting — After allowing normal update time, review both reports. Dispute inaccurate balances, dates, ownership or status with supporting documents.
+  - 5 | Keep the recovery file — Store the agreement, receipts, correspondence and corrected reports. Remove account numbers before sharing the file.
+  - 6 | Review at 30, 60 and 90 days — Track due dates, reported balances, disputes and application decisions. Look for consistency, not a guaranteed score target.
+
+[spotlight] Recent on-time payments and manageable balances create new evidence. Recovery is a reporting pattern, not a product you purchase once.
+
+[myths]
+  - “The fastest rebuild uses several new credit-building products at once.” — More accounts can mean more fees, inquiries and due dates. One manageable account may be enough to establish recent positive behaviour.
+
+## Quick Check: Choose the Best Next Move
+
+[accordions]
+  - A collector calls about an unfamiliar account. What is the first useful action? => Gather information and verify the collector, original creditor, balance and written notice before agreeing to payment.
+  - A valid balance can only be paid by missing rent. What should guide the resolution? => Your real cash flow. Choose documented terms that protect essentials and do not require new high-interest borrowing.
+  - The collector promises immediate deletion by telephone. What should you do? => Do not rely on the promise. Request written terms and remember that resolving a debt does not guarantee deletion of accurate history.
+  - A paid balance still appears as unpaid after normal update time. What belongs in the dispute? => The agreement, receipt, final confirmation and a copy of the inaccurate report entry.
+  - Which rebuilding behaviour deserves first priority? => Protect every due date by making required payments on time.
+
+## Your Action: Fillable Collections Recovery Record
+
+[paragraph] Use copies of records. Do not write full account numbers, passwords, PINs, SINs or identity-document numbers in this workbook.
+
+[checkin] (see Check-in below)
+
+[spotlight] If the recovery plan cannot survive an ordinary grocery week, it is not yet a workable plan. Adjust the schedule before signing it.
+
+[takeaway] Rebuilding after collections is a controlled sequence.
+  detail: Verify the claim, dispute inaccuracies, resolve the valid amount on documented terms, confirm the reporting and build recent positive behaviour. The goal is not to make the past invisible. It is to make the present accurate and the next decision easier to support.
+
+[spotlight] The limitation clock, reporting clock and rebuilding clock are not the same. Know which question you are answering before you act.
+
+## Glossary
+
+  - Collection account — A debt transferred or assigned for collection after it was not paid as agreed.
+  - Original creditor — The business or lender to which the account was originally owed.
+  - Collection agency — A business that collects debt for a creditor or debt owner, subject to applicable law.
+  - Settlement — An agreement to resolve a debt for an accepted amount, sometimes below the claimed balance.
+  - Reporting period — The period information may remain on a credit report under applicable practices and law.
+  - Limitation period — A jurisdiction-specific time limit relevant to starting certain legal proceedings. It is not a credit-report deletion rule.
+  - Recovery file — A dated collection of notices, statements, contact logs, agreements, receipts and report copies.
+
+## Check-in
+
+11. COLLECTION SNAPSHOT — Agency, original creditor, partial account reference, claimed balance and first contact date.
+12. VERIFICATION GAP — Which fact or document is still missing before you decide what to do?
+13. EVIDENCE INDEX — List the statements, receipts, emails or reports already saved in your recovery file.
+14. ACCURACY DECISION — Mark VALID, PARTLY DISPUTED, NOT MINE or UNCLEAR. Explain the evidence.
+15. PROVINCE CHECK — Name the official consumer authority and one collection rule or complaint route to confirm.
+16. RESOLUTION RANGE — Record the amount and schedule your cash flow can support without borrowing for essentials.
+17. WRITTEN TERMS — List the balance, payment or settlement terms, reporting statement and final proof you require.
+18. 90-DAY REBUILD — Write the next three payment dates, a balance target, report-review dates and one application rule.
+
+Reward: Complete this activity and get $5 plus 20 Credit Pulse points
+Acknowledgment: I reviewed my answers and understand that this is educational information, not legal or financial advice.
+
+## Quiz (derived: not in old project)
+
+True or False: “If I pay a collection, it disappears from my reports immediately.”
+Answer: False
+
+## Source files (OLD project, read-only)
+
+- lib/silver-course-11-data.js
+- components/CollectionsRecoveryCourse.jsx
+
+## Image mapping
+
+None. The old course has no images (no image folder, no Image usage).

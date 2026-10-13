@@ -26,6 +26,7 @@ export default async function AcademyLayout({ children }: { children: React.Reac
               </span>
             )}
           </div>
+          <div id="topbar-slot" className="topbar-slot" />
           <div className="topbar-actions">
             {user.role === 'admin' && <Link href="/admin">Admin area</Link>}
             <Link href="/help">Need help?</Link>

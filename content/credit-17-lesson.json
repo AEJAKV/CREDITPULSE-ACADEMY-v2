@@ -1,0 +1,359 @@
+{
+  "title": "Preparing for a Mortgage",
+  "summary": "Credit → Income → Ratios → Cash → Property",
+  "subtitle": "Build the file a lender can assess before you tour the house your budget cannot",
+  "minutes": 50,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Underwriting brief",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A mortgage application is where your dream kitchen meets a folder full of pay stubs and discovers the folder has questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Preview the underwriting conversation. Organize credit, income, debt and cash evidence, estimate ratios and understand the stress test. Then set a buying ceiling that leaves room for life after closing. The goal is readiness, not a preapproval number that makes your budget nervous."
+        },
+        {
+          "type": "spotlight",
+          "text": "A preapproval is a conditional estimate, not a guaranteed final loan. Property, down payment, documents and final review still matter."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "",
+              "text": "",
+              "icon": "check",
+              "list": [
+                "Assemble a mortgage-readiness file without guessing at missing documents.",
+                "Estimate gross debt service and total debt service ratios in plain language.",
+                "Separate minimum down payment from full cash needed to close and settle in.",
+                "Explain what the mortgage stress test does.",
+                "Choose a personal price ceiling below the largest amount a lender may offer."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A preapproval means the mortgage is guaranteed.”",
+              "text": "It is an early, conditional assessment. Financial changes, incomplete proof or an unacceptable property can change the decision."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Mortgage preapproval",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/mortgages/preapproval-qualification.html"
+        },
+        {
+          "type": "transition",
+          "text": "A lender's largest offer and your safest number are almost never the same figure.",
+          "detail": "Building the credit, income, debt and cash files before an offer deadline is what keeps a scanner from becoming a household celebrity.",
+          "extra": "The four files behind the application come next."
+        }
+      ]
+    },
+    {
+      "id": "files",
+      "title": "The Four Files Behind the Application",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Build them before an offer deadline turns your scanner into a household celebrity."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "CREDIT FILE",
+              "text": "Review both reports for errors, late payments, high revolving balances and unfamiliar inquiries. Avoid new credit merely to ‘look stronger’.",
+              "detail": "01"
+            },
+            {
+              "title": "INCOME FILE",
+              "text": "Collect identification, employment letter, pay stubs and requested statements. Self-employed applicants may need two years of CRA notices and business evidence.",
+              "detail": "02"
+            },
+            {
+              "title": "DEBT FILE",
+              "text": "List required monthly payments for cards, lines, loans, support and other commitments. Ratios commonly use required payment.",
+              "detail": "03"
+            },
+            {
+              "title": "CASH FILE",
+              "text": "Document down payment, deposit, closing expenses, moving, immediate repairs and emergency reserve. Explain large transfers.",
+              "detail": "04"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "FCAC uses 39% as a housing-cost GDS guideline and 44% as a total-debt TDS guideline. Lenders may apply their own policy, and qualifying is not comfortable affordability."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "GDS",
+              "text": "Housing costs ÷ gross monthly income — Mortgage payment + property taxes + heating + 50% of condo fees."
+            },
+            {
+              "title": "TDS",
+              "text": "(Housing costs + other debt payments) ÷ gross income — Add required payments on cards, lines, loans, support and commitments."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The current uninsured minimum qualifying rate at federally regulated lenders is the greater of contract rate + 2 percentage points or 5.25%."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A strong credit score can replace missing income or down-payment proof.”",
+              "text": "Credit is one part. A lender still needs acceptable income, debt, down-payment and property evidence."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Preparing for a mortgage",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/mortgages/preparing-mortgage.html"
+        },
+        {
+          "type": "source",
+          "text": "OSFI: Minimum qualifying rate",
+          "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/minimum-qualifying-rate-uninsured-mortgages"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Rina’s Preapproval Ceiling",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Rina",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Rina Patel, a respiratory therapist in Brampton, wanted a two-bedroom condo near work. She had saved a down payment, paid every bill on time and received a surprisingly large preapproval. It felt like a game-show prize, brightly lit and slightly dangerous if carried home.",
+            "A condo near the maximum had a renovated kitchen and “reasonable” fees. Underwriting counted part of the fee, taxes and heating. Rina’s life had to carry the rest, plus insurance, commuting, maintenance, groceries and an emergency reserve. The lender’s calculation and her life were related, but not twins.",
+            "Rina corrected an old address, lowered a card balance and gathered employment, pay and down-payment proof. She calculated housing at the stress-test rate and added costs that do not politely disappear after closing. Her personal ceiling landed $48,000 below the preapproval.",
+            "The first condo failed: a special assessment was discussed, closing would consume her reserve and the monthly cost left little renewal room. She walked away. Two months later, she found a smaller unit with healthier documents below her ceiling; appraisal and final review still followed.",
+            "The preapproval answered what a lender might consider. Rina’s file answered how much home she could carry while sleeping normally and occasionally ordering dinner without convening a budget committee."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Rina used the preapproval as a boundary, not a target."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "She combined lender evidence with a household stress test and let the lower safe number guide the search."
+        },
+        {
+          "type": "transition",
+          "text": "Rina's preapproval was $48,000 higher than the number she could sleep on.",
+          "detail": "Setting a personal ceiling below the lender's number is what let Rina walk away from a condo her file could afford but her life could not.",
+          "extra": "Run your own cash screen next, before a lender does."
+        }
+      ]
+    },
+    {
+      "id": "cash",
+      "title": "Run the File Before the Lender Does",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Cash screen"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "UP TO $500,000",
+              "text": "5% — Current minimum insured down payment."
+            },
+            {
+              "title": "$500,000 TO BELOW $1.5M",
+              "text": "5% + 10% — 5% of first $500,000 plus 10% above it."
+            },
+            {
+              "title": "$1.5M OR MORE",
+              "text": "20%+ — Mortgage loan insurance is unavailable."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Mortgage loan insurance protects the lender if the borrower defaults. The premium is a borrowing cost, not homeowner payment protection."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eligible first-time buyers and buyers of new builds may qualify for insured amortization up to 30 years. Longer amortization can lower payments but usually increases total interest."
+        },
+        {
+          "type": "heading",
+          "text": "SAVINGS-PROGRAM CHECKPOINT"
+        },
+        {
+          "type": "paragraph",
+          "text": "An eligible first-time buyer may use an FHSA and Home Buyers’ Plan for the same qualifying home."
+        },
+        {
+          "type": "paragraph",
+          "text": "Current CRA limits include $8,000 first-year FHSA room, $40,000 lifetime FHSA limit and $60,000 HBP withdrawal limit. Eligibility, timing, tax and repayment rules apply."
+        },
+        {
+          "type": "spotlight",
+          "text": "The down payment is one envelope. Keep separate cash for closing, moving, repairs and a post-closing emergency buffer."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A 30-year amortization makes the home cheaper.”",
+              "text": "It may reduce the scheduled payment, but a longer path can increase total interest. Compare relief with total cost and renewal risk."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Why can a preapproval change before closing?",
+              "detail": "It is conditional. Financial changes, incomplete proof, property appraisal or lender requirements can change the final decision.",
+              "text": ""
+            },
+            {
+              "title": "Minimum down payment screening on a $700,000 insured purchase?",
+              "detail": "$45,000: 5% of the first $500,000 ($25,000) plus 10% of the remaining $200,000 ($20,000).",
+              "text": ""
+            },
+            {
+              "title": "If the contract rate is 4.80%, what uninsured stress-test rate applies?",
+              "detail": "6.80%: the greater of 4.80% + 2 percentage points and 5.25%.",
+              "text": ""
+            },
+            {
+              "title": "What belongs in GDS, and what extra belongs in TDS?",
+              "detail": "GDS includes mortgage payment, property taxes, heating and 50% of condo fees. TDS adds other required debt payments.",
+              "text": ""
+            },
+            {
+              "title": "What trade-off comes with a longer amortization?",
+              "detail": "A lower scheduled payment can mean more total interest and greater renewal exposure.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "CMHC: Mortgage loan insurance",
+          "url": "https://www.cmhc-schl.gc.ca/consumers/home-buying/mortgage-loan-insurance-for-consumers/what-is-mortgage-loan-insurance"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Build Your Mortgage-Readiness File",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use verified figures and partial references. This is preparation, not approval or mortgage, tax or legal advice."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "A complete file does not guarantee approval. It reduces avoidable surprises and makes your affordability decision easier to defend."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Preapproval",
+              "text": "A conditional estimate of the mortgage amount and terms a lender may consider."
+            },
+            {
+              "title": "GDS ratio",
+              "text": "Gross debt service: qualifying housing costs divided by gross household income."
+            },
+            {
+              "title": "TDS ratio",
+              "text": "Total debt service: qualifying housing costs plus other required debt payments divided by gross income."
+            },
+            {
+              "title": "Stress test",
+              "text": "Qualification at a rate above the contract rate to test payment resilience."
+            },
+            {
+              "title": "Amortization",
+              "text": "The estimated time required to repay the mortgage in full at the assumed rate and payment."
+            },
+            {
+              "title": "Mortgage loan insurance",
+              "text": "Insurance protecting the lender on an eligible high-ratio mortgage. The borrower usually pays the premium."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “A 30-year amortization makes the home cheaper.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Two-bureau items to correct or stabilize:",
+      "Gross monthly income and proof:",
+      "Housing costs, estimated GDS and notes:",
+      "Other payments, estimated TDS and notes:",
+      "Down payment, source and evidence trail:",
+      "Closing, moving, repairs and buffer totals:",
+      "Documents or explanations still missing:",
+      "Personal price ceiling, decision and review date:"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

@@ -1,0 +1,510 @@
+{
+  "title": "Understanding Interest and APR",
+  "summary": "Compare the same borrowing need under different payments, rates, charges and timelines.",
+  "subtitle": "A Tiny Monthly Payment Walks Into a Loan Ad. The Total Cost Waits Outside in Smaller Font.",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Interest is the price paid for using borrowed money."
+        },
+        {
+          "type": "paragraph",
+          "text": "The interest rate helps calculate that price. The annual percentage rate, or APR, expresses the cost of borrowing as an annual rate. Total repayment shows the dollars that leave your budget if the agreement runs as planned. These numbers work together, but they do not answer the same question."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this Interest Decoder Lab, you will compare the same borrowing need under different payments, rates, charges and timelines. The lab motto is simple: numbers expose marketing. No advanced mathematics is required, only the patience to make every offer stand under the same light."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Personal loans — know your rights",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/rights-responsibilities/rights-credit-loans/rights-personal-loans.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "The monthly payment is a cash-flow question. Total repayment is a price question. A responsible decision must answer both."
+        },
+        {
+          "type": "heading",
+          "text": "The Six Numbers on the Decoder"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "1. PRINCIPAL",
+              "text": "The amount borrowed or still owing before interest and borrowing charges."
+            },
+            {
+              "title": "2. INTEREST RATE",
+              "text": "The annual rate used to calculate interest on the balance."
+            },
+            {
+              "title": "3. APR",
+              "text": "The annualized cost-of-borrowing measure disclosed for comparison. It may differ from the interest rate when applicable charges are included."
+            },
+            {
+              "title": "4. PAYMENT",
+              "text": "The amount due each payment period."
+            },
+            {
+              "title": "5. TIMELINE",
+              "text": "The payment frequency, number of payments and repayment period."
+            },
+            {
+              "title": "6. TOTAL REPAYMENT",
+              "text": "All scheduled payments and applicable charges under the stated assumptions."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The lowest monthly payment is automatically the cheapest loan.”",
+              "text": "A payment can be lowered by extending the repayment period. That may help monthly cash flow while increasing the total dollars paid. Compare affordability and total cost together."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "A $22-a-month difference can hide a $960 gap, and Lab Test 1 catches it before you sign.",
+          "detail": "Three offers for the exact same amount are about to reveal which one is the deal, and which one just looks like it.",
+          "extra": "Three real loan offers get tested against the same $2,000 next."
+        }
+      ]
+    },
+    {
+      "id": "test-one",
+      "title": "Lab Test 1: Hold the Borrowing Amount Still",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For this fictional first test, each offer provides the same $2,000 principal and has no extra required charge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Multiplying payment by payment count reveals the scheduled total. Subtracting the $2,000 received reveals the borrowing cost in dollars."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "OFFER A — $185 × 12 = $2,220",
+              "text": "Borrowing cost: $220 — Can Owen safely carry $185 each month?"
+            },
+            {
+              "title": "OFFER B — $75 × 36 = $2,700",
+              "text": "Borrowing cost: $700 — Is the extra $480 versus A worth the lower payment?"
+            },
+            {
+              "title": "OFFER C — $53 × 60 = $3,180",
+              "text": "Borrowing cost: $1,180 — Does $22 less than B justify $480 more and two extra years?"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "THE DECODER SAYS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Offer C is $132 per month lower than A, but costs $960 more and lasts 48 months longer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Offer B costs $480 less than C and ends 24 months earlier."
+        },
+        {
+          "type": "spotlight",
+          "text": "A smaller payment may mean a longer relationship with the debt. Count payments before admiring one payment."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Monthly-payment comparison image",
+              "text": "Monthly-payment comparison image",
+              "image": "/images/money-budgeting/02-silver/money-07/money07-image-1.webp"
+            },
+            {
+              "title": "Total-repayment comparison image",
+              "text": "Total-repayment comparison image",
+              "image": "/images/money-budgeting/02-silver/money-07/money07-image-2.webp"
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If the payment fits, the loan fits.”",
+              "text": "A payment may fit this month and still be poor value or too fragile for the full term. Test the payment against irregular expenses, rate changes and the number of months it must survive."
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "text": "Meet Owen",
+          "detail": "OWEN’S THREE FRIENDLY PAYMENTS",
+          "extra": "",
+          "paragraphs": [
+            "Owen lives in Fredericton and needs a $2,000 laptop for contract work. Three offers promise payments of $185, $75 and $53. The $53 offer practically arrives carrying balloons. Owen pauses the celebration and opens the written terms, because a payment can be charming without being economical.",
+            "Owen first circles Offer C. Fifty-three dollars fits easily beneath his $90 monthly borrowing limit, while Offer A does not. Then he calculates all 60 payments. The laptop may retire before the loan does, which is not the loyalty program he had in mind.",
+            "The salesperson says the $53 offer is available today and repeats the monthly amount four times. Owen asks for the principal, APR, payment count, required charges and total repayment in writing. Urgency can shorten a promotion; it should not shorten the comparison.",
+            "Owen requests the disclosure for all three offers and checks the same $2,000 amount, monthly schedule and required charges. Offer A has the lowest total but exceeds his safe monthly room. Offer B remains inside the limit and saves $480 plus two years compared with C. The evidence has made the middle option much less middle-of-the-road.",
+            "Owen’s safe borrowing room is $90 per month, so he rejects Offer A even though it has the lowest total. He chooses Offer B at $75, documents the $2,700 total and schedules a review for extra-payment options. By declining Offer C, he saves $480 and finishes 24 months earlier. The winner is not the tiniest payment; it is the lowest-cost option he can reliably carry. Offer C keeps its balloons. Owen keeps his $480."
+          ],
+          "image": "/images/money-budgeting/02-silver/money-07/money07-image-3.webp"
+        },
+        {
+          "type": "transition",
+          "text": "Owen's decoder sheet turned three confusing offers into one clear, defensible choice.",
+          "detail": "Splitting rate, APR and total repayment into separate jobs is what let Owen catch the $960 gap before it caught him.",
+          "extra": "Lab Test 2 gives each number on your own offers a single job."
+        }
+      ]
+    },
+    {
+      "id": "test-two",
+      "title": "Lab Test 2: Give Each Number One Job",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "INTEREST RATE",
+              "text": "Use it to understand how interest is calculated on the outstanding balance. Confirm whether the rate is fixed or variable and how often interest compounds or is charged.",
+              "detail": "LAYER 1"
+            },
+            {
+              "title": "APR",
+              "text": "Use the disclosed annualized cost-of-borrowing measure for a fair comparison. Under federal rules, some required borrowing charges may be included and some may be excluded, so read the fee list too.",
+              "detail": "LAYER 2"
+            },
+            {
+              "title": "TOTAL REPAYMENT",
+              "text": "Use the disclosed total or verified payment schedule to see the dollars paid over the stated timeline. Confirm the assumptions, including term, payment frequency and any final payment.",
+              "detail": "LAYER 3"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "A Useful Estimate—and Its Limit"
+        },
+        {
+          "type": "heading",
+          "text": "SIMPLE-INTEREST TRAINING ESTIMATE"
+        },
+        {
+          "type": "paragraph",
+          "text": "$2,000 principal × 12% annual rate × 1 year = about $240 interest."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is a basic estimate, not the payment calculation for every loan. Instalment loans may reduce principal over time and compound or charge interest according to the agreement."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now add a required fee. Offer X states 10% interest with no required setup fee. Offer Y states 8% interest plus a required $150 borrowing charge. The lower interest rate does not settle the decision. Ask for the APR, payment schedule, amount received and total repayment."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“APR and interest rate are two names for the same number.”",
+              "text": "They may match when interest is the only cost of borrowing. They can differ when applicable borrowing charges affect the APR calculation. Use the lender’s disclosure rather than trying to reverse-engineer regulated APR yourself."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "APR improves comparison. Total repayment translates the agreement into household dollars. Neither replaces the other."
+        },
+        {
+          "type": "source",
+          "text": "Justice Laws: Financial Consumer Protection Framework Regulations",
+          "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2021-181/FullText.html"
+        }
+      ]
+    },
+    {
+      "id": "test-three",
+      "title": "Lab Test 3: Stress-Test the Rules Around the Rate",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Fixed rate.",
+              "text": "The stated rate remains fixed for the agreed period, although the contract may still contain fees or other conditions."
+            },
+            {
+              "title": "Variable rate.",
+              "text": "The rate can move with the reference rate or formula in the agreement. Test whether the budget can absorb an increase."
+            },
+            {
+              "title": "Payment frequency.",
+              "text": "Weekly, biweekly and monthly figures are not easy to compare until the full payment count and timeline match."
+            },
+            {
+              "title": "Prepayment and missed-payment rules.",
+              "text": "Confirm whether extra payments are allowed and what interest, fees, default terms or credit consequences may follow a missed payment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card-lab",
+      "title": "Credit-Card Mini Lab: One Card, Different Interest Clocks",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "PURCHASE",
+              "text": "At a federally regulated financial institution, purchases receive a grace period of at least 21 days. To avoid purchase interest, pay the balance in full by the due date, based on your agreement."
+            },
+            {
+              "title": "CASH ADVANCE",
+              "text": "There is no interest-free grace period. Interest generally starts on the transaction date and the rate may be higher than the purchase rate."
+            },
+            {
+              "title": "BALANCE TRANSFER",
+              "text": "A promotional rate may be temporary and a transfer fee may apply. Confirm when interest begins, when the offer ends and the rate afterward."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: How credit cards work",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/credit-card-work.html"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Every credit-card transaction gets the same grace period.”",
+              "text": "Cash advances do not receive an interest-free grace period, and balance transfers follow their own disclosed rules. Transaction type can change the rate, fee and day interest begins."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The logo on the card stays the same. The interest clock may not. Label the transaction before calculating its cost."
+        },
+        {
+          "type": "heading",
+          "text": "Province Lens: Find the Right Rulebook"
+        },
+        {
+          "type": "paragraph",
+          "text": "Federal banks and federal credit unions follow federal disclosure requirements. Provincially regulated credit unions and lenders follow applicable provincial requirements. This applies in Alberta, British Columbia, New Brunswick, Ontario, Prince Edward Island and Newfoundland and Labrador. Verify the institution, regulator and current agreement before relying on a rule or fee limit."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: What Must Be Compared?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Same principal, different payment count.",
+              "detail": "Calculate total repayment and borrowing cost.",
+              "text": ""
+            },
+            {
+              "title": "8% plus a required fee versus 10% without it.",
+              "detail": "Compare disclosed APR, charges and total repayment.",
+              "text": ""
+            },
+            {
+              "title": "Variable rate.",
+              "detail": "Test the payment and total if the rate rises.",
+              "text": ""
+            },
+            {
+              "title": "Credit-card cash advance.",
+              "detail": "Interest begins without an interest-free grace period.",
+              "text": ""
+            },
+            {
+              "title": "Lowest total, unaffordable payment.",
+              "detail": "Choose the lowest-cost option that remains reliably affordable—or delay borrowing.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Before You Compare Your Own Offers"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“APR tells me everything I need to know.”",
+              "text": "APR is powerful, but it does not replace the payment amount, term, total repayment, rate type, optional products, prepayment rules or consequences of a missed payment. Compare the same borrowing need under the same assumptions."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A fair comparison keeps the amount, start date, payment frequency, repayment period and included charges consistent. Change one assumption at a time so you know what changed the answer."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Personal loans",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/loans/personal-loans.html"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Interest Decoder Sheet",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use two current written quotes and answer in your own words."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not record account numbers, passwords, card details, PINs, security answers or government ID numbers in course notes."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "heading",
+          "text": "Interest Decoder Lab Closing Checklist"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "The borrowing need is fixed.",
+              "text": "Offers are compared for the same amount and purpose, not whatever amount each seller prefers to quote."
+            },
+            {
+              "title": "The annual figures are separated.",
+              "text": "Interest rate and APR are recorded as distinct fields when the disclosure shows both."
+            },
+            {
+              "title": "The full timeline is counted.",
+              "text": "Payment frequency, number of payments, term and any different final payment are visible."
+            },
+            {
+              "title": "The dollar cost is known.",
+              "text": "Total repayment and amount received are used to identify the borrowing cost."
+            },
+            {
+              "title": "The decision survives a stress test.",
+              "text": "Variable-rate, late-payment and uneven-income risks have a documented response."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Decode borrowing by comparing the same need and separating interest rate from APR.",
+          "detail": "Count every payment and applicable charge, stress-test the contract and choose the lowest-cost option the household can reliably afford."
+        },
+        {
+          "type": "spotlight",
+          "text": "The best borrowing comparison does not ask, “Which number looks smallest?” It asks, “Smallest what: rate, payment, timeline or total cost?” Then it answers all four."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Principal",
+              "text": "The amount borrowed or outstanding before interest and borrowing charges."
+            },
+            {
+              "title": "Interest",
+              "text": "The price paid to a lender for using borrowed money."
+            },
+            {
+              "title": "Interest rate",
+              "text": "The annual rate used to calculate interest on the balance."
+            },
+            {
+              "title": "APR",
+              "text": "Annual percentage rate: the cost of borrowing shown as an annual rate on the principal, under the disclosure rules that apply."
+            },
+            {
+              "title": "Fixed rate",
+              "text": "A rate that remains unchanged for the agreed fixed-rate period."
+            },
+            {
+              "title": "Variable rate",
+              "text": "A rate that may move according to the reference rate or formula in the agreement."
+            },
+            {
+              "title": "Term",
+              "text": "The period during which the credit agreement or current set of conditions applies."
+            },
+            {
+              "title": "Amortization period",
+              "text": "The time needed to repay the loan fully under the planned schedule, when different from the term."
+            },
+            {
+              "title": "Total repayment",
+              "text": "The total dollars scheduled to be paid under the stated assumptions."
+            },
+            {
+              "title": "Grace period",
+              "text": "A period when purchase interest may be avoided if the credit-card balance is paid as required. It does not apply to cash advances."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “The lowest monthly payment is automatically the cheapest loan.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "What are you borrowing for, how much do you need, and what monthly payment can you afford?",
+      "For Offer A, list the APR, payment amount, number of payments, and any fees.",
+      "For Offer B, list the same four details.",
+      "What is the total amount you would repay for each offer?",
+      "Which offer costs less overall, and how much would you save?",
+      "Could you still make the payment if your income dropped or the rate increased?",
+      "If this is a credit card or line of credit, when does interest begin and are there extra fees?",
+      "Which offer would you choose, and what is the main reason?"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+  },
+  "sources": []
+}

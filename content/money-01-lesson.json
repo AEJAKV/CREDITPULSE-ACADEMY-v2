@@ -1,0 +1,581 @@
+{
+  "title": "Building a Canadian Household Budget",
+  "summary": "What money reaches the household? What must it do? What decisions are needed before the account balance makes them for you?",
+  "subtitle": "A Budget Is Your Money Being Asked to Explain Where It Went.",
+  "minutes": 50,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A household budget is a plan for income, spending, saving and upcoming costs."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is not a punishment worksheet, a personality test or proof that you must stop enjoying anything that arrives with cheese."
+        },
+        {
+          "type": "paragraph",
+          "text": "A useful budget answers three questions. What money really reaches the household? What must that money do? And what decisions do you need to make before your account balance makes them for you? FCAC recommends building the first version from recent pay stubs, bills and statements, so the numbers match the household you have."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Making a budget",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/make-budget.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "Start with the budget you have, not the one you would like. Evidence from recent statements beats a beautiful plan built around a month your household has never lived through."
+        },
+        {
+          "type": "heading",
+          "text": "Welcome to the Budget Hearing"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every line enters the hearing with four questions. You are not here to accuse the spending. You are here to understand the evidence."
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "AMOUNT",
+              "text": "What is the real amount, based on deposits, statements or bills?",
+              "detail": "HEARING 1",
+              "image": "/images/money-budgeting/01-starter/money-01/money01-image-1.webp",
+              "icon": "bank"
+            },
+            {
+              "title": "TIMING",
+              "text": "When does it arrive or leave, and does it change by season?",
+              "detail": "HEARING 2",
+              "image": "/images/money-budgeting/01-starter/money-01/money01-image-2.webp",
+              "icon": "calendar"
+            },
+            {
+              "title": "JOB",
+              "text": "Is it essential, required, protective, flexible or a future goal?",
+              "detail": "HEARING 3",
+              "image": "/images/money-budgeting/01-starter/money-01/money01-image-3.webp",
+              "icon": "files"
+            },
+            {
+              "title": "BACKUP",
+              "text": "What happens if the amount is higher or the income is lower?",
+              "detail": "HEARING 4",
+              "image": "/images/money-budgeting/01-starter/money-01/money01-image-4.webp",
+              "icon": "search"
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A serious budget removes every enjoyable expense.”",
+              "text": "A plan that works protects your essentials and your goals, and still leaves a realistic amount for ordinary life. A plan that feels impossible rarely survives long enough to help anyone."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "CASE FILE — SETUP: ELENA’S $380 LEFTOVER"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elena lives in Moncton. Her banking app says she has about $380 left over each month once the obvious bills are paid, so she decides that must be her savings amount. The number feels encouraging. It has not yet met November."
+        },
+        {
+          "type": "transition",
+          "text": "Build it from evidence and the year stops ambushing you.",
+          "detail": "You will learn how to turn the costs you can already see coming into a monthly amount, before one of them lands on a credit card.",
+          "extra": "Section 07 is a budget hearing you run on your own statements."
+        }
+      ]
+    },
+    {
+      "id": "exhibit",
+      "title": "Exhibit A: A Realistic Monthly Household",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This made-up $5,200 household balances exactly. The amounts are not the point. The point is that every category has a job and a question to answer."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Net household income",
+              "text": "$5,200 — Income — Is this reliable money after payroll deductions?"
+            },
+            {
+              "title": "Housing and utilities",
+              "text": "$2,250 — Fixed/essential — What changes by season or billing cycle?"
+            },
+            {
+              "title": "Food and transportation",
+              "text": "$1,150 — Variable/essential — What do recent statements show?"
+            },
+            {
+              "title": "Debt minimums",
+              "text": "$450 — Required — Are every amount and due date captured?"
+            },
+            {
+              "title": "Savings and sinking funds",
+              "text": "$650 — Protective/future — Which future costs does this prepare for?"
+            },
+            {
+              "title": "Flexible spending",
+              "text": "$550 — Discretionary — What limit protects the rest of the plan?"
+            },
+            {
+              "title": "Monthly margin",
+              "text": "$150 — Buffer — Where will it go if the month ends calmly?"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "HEARING RESULT"
+        },
+        {
+          "type": "paragraph",
+          "text": "$5,200 income minus $5,200 planned jobs equals $0 unassigned."
+        },
+        {
+          "type": "paragraph",
+          "text": "The $150 margin is not missing. It has a job of its own, which is breathing room."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I should build the household budget from gross salary.”",
+              "text": "Build the working plan from the money available after deductions. Gross income has its uses elsewhere, but it cannot pay a bill from inside the pay stub."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A balanced budget can include a planned buffer. Giving every dollar a job does not require pretending that price changes, timing errors and ordinary mistakes have been banned from the province."
+        },
+        {
+          "type": "heading",
+          "text": "CASE FILE — CONFLICT: NOVEMBER OBJECTS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Eight weeks ahead, Elena finds three costs her plan never mentioned: a $1,440 insurance premium, $600 of holiday spending, and a $900 tire replacement due every three years or so. Her grocery figure is $140 under what her own statements show. The cheerful $380 is now being cross-examined."
+        },
+        {
+          "type": "heading",
+          "text": "CASE FILE — PRESSURE: THE EASY ANSWER IS CREDIT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leave the plan alone and the premium lands on a card, exactly as it did last year. She can call it an emergency, but the renewal date has been on the calendar since January."
+        }
+      ]
+    },
+    {
+      "id": "layers",
+      "title": "Build the Budget in Four Layers",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "KEEP LIFE RUNNING",
+              "text": "Housing, utilities, food, transportation, insurance, medication and minimum debt payments.",
+              "detail": "LAYER 1"
+            },
+            {
+              "title": "PROTECT THE FUTURE",
+              "text": "Emergency savings, sinking funds, planned debt reduction, known annual costs and short-term goals.",
+              "detail": "LAYER 2"
+            },
+            {
+              "title": "MAKE LIFE HUMAN",
+              "text": "Personal spending, entertainment, eating out, gifts and hobbies within a deliberate limit.",
+              "detail": "LAYER 3"
+            },
+            {
+              "title": "LEAVE ROOM",
+              "text": "A small monthly margin, price-change buffer or temporarily unassigned amount until the month closes.",
+              "detail": "LAYER 4"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A budget is not balanced if it only reaches $0 by underfunding groceries, medication, transport or another essential. The arithmetic passes. The household does not."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Comparing household bills side by side before building the budget.",
+              "text": "Comparing household bills side by side before building the budget.",
+              "image": "/images/money-budgeting/01-starter/money-01/money01-image-5.webp"
+            },
+            {
+              "title": "Balancing the four budget layers into one working plan.",
+              "text": "Balancing the four budget layers into one working plan.",
+              "image": "/images/money-budgeting/01-starter/money-01/money01-image-6.webp"
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Savings only belongs in the budget after every other category is perfect.”",
+              "text": "Savings can be a planned category even when the amount is small. Keep it realistic, but waiting for a flawless month keeps the goal outside the plan forever."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "The Annual-Cost Conversion"
+        },
+        {
+          "type": "paragraph",
+          "text": "An irregular cost is not an emergency. FCAC draws a line between an unexpected emergency and an occasional expense such as school supplies, winter tires or holiday spending, which belong in the plan."
+        },
+        {
+          "type": "heading",
+          "text": "WORKING FORMULA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Annual or predictable cost / months available = planned monthly transfer."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the bill lands sooner than the full planning period, divide by the months you have left. If there is not enough time, the first year may need a temporary adjustment, and the long-term monthly amount starts once the immediate cost is dealt with."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Setting up an emergency fund",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/savings-investments/setting-up-emergency-funds.html"
+        },
+        {
+          "type": "heading",
+          "text": "CASE FILE — EVIDENCE REVIEW: THE MISSING $185"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elena adds $195 a month for the irregular costs and $140 for honest groceries. Her $150 margin absorbs part of it, leaving her $185 short. She trims flexible spending, switches a mobile plan and eases one extra debt payment, while protecting every required minimum."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Elena’s Complete Budget Story",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Elena and the $380 That Had Not Met November",
+          "detail": "CASE FILE: ELENA’S $380 LEFTOVER",
+          "extra": "",
+          "paragraphs": [
+            "Setup. Elena lives in Moncton. Every year something she did not plan for lands on a credit card, and every year she promises herself that next year will be different. Her banking app says she usually has about $380 left after the obvious monthly bills, so she decides that must be her savings amount. The number feels encouraging. It has also not yet met November.",
+            "Conflict: November objects. Elena looks at the next eight weeks and finds three costs missing from her plan: a $1,440 annual insurance premium, $600 of holiday and gift spending, and a $900 tire replacement due about every three years. Her grocery estimate is also $140 below what the last 90 days of statements show. The cheerful $380 leftover is now being cross-examined.",
+            "Pressure: the easy answer is credit. Leave the plan alone and that premium lands on a card, exactly as it did last year. She can call it an emergency, but the renewal date has been sitting on the calendar since January. The real question is not whether she deserves the expense. It is whether her budget will admit to it before it arrives.",
+            "Evidence review: the missing $185. Elena adds $195 a month for the three irregular costs, then replaces the grocery guess with the real average, which adds another $140. Her original $150 margin absorbs part of that, leaving her $185 short. She cuts flexible spending by $110, moves an underused mobile plan to save $35, and lowers an extra debt payment by $40, while protecting every required minimum. The plan balances again, and nobody had to invent cheaper groceries.",
+            "Verdict: revision, not conviction. Elena’s final budget is less flattering and far more useful. It names the annual premium, honest groceries, the tire replacement and a smaller flexible-spending amount. November still costs money. It just no longer arrives disguised as a personal failing. Elena did not fail the plan. The first draft failed to include the evidence.",
+            "February. The insurance premium came out on the renewal date. It came out of the sinking fund."
+          ],
+          "image": "/images/money-budgeting/01-starter/money-01/money01-image-7.webp"
+        },
+        {
+          "type": "transition",
+          "text": "Elena’s premium came out of a sinking fund instead of a credit card.",
+          "detail": "You will learn why a budget can balance exactly and still leave you short on a Tuesday, and how to spot that before it happens to you.",
+          "extra": "Keep going. The last sections turn the plan into dates you can hit."
+        }
+      ]
+    },
+    {
+      "id": "timing",
+      "title": "A Monthly Budget Still Needs Dates",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A budget can balance for the month and still run short on a Tuesday. Write down when income arrives and when the big payments leave. Course 2.2 builds the full payday bridge. For now, capture the dates so a timing problem shows up before it bites."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Start with 60 to 90 days of activity.",
+              "text": "Use account and card statements to find current averages and recurring charges."
+            },
+            {
+              "title": "Attach due dates.",
+              "text": "Record rent or mortgage, utilities, insurance, debt minimums and scheduled transfers."
+            },
+            {
+              "title": "Review for 15 minutes each week.",
+              "text": "Check what cleared, what changed and what remains before the next payday."
+            },
+            {
+              "title": "Rebuild after a real change.",
+              "text": "Redo the plan whenever income, housing, family responsibilities, insurance or a major cost changes."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Canadian spending averages tell me what my household should spend.”",
+              "text": "FCAC’s comparison guidelines give you context, but every household differs. Use your own local costs, your household’s needs and your priorities to decide."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A national average is a reference, not a court order. The evidence that counts is what your own household earns, owes, spends and has to prepare for."
+        }
+      ]
+    },
+    {
+      "id": "province",
+      "title": "Province Lens: One Method, Different Evidence",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The method is the same everywhere in Canada. Your province and your town change the evidence, not the formula."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "AB and BC",
+              "text": "Use your real housing, utility, insurance and transport costs, rather than forcing them into a national average."
+            },
+            {
+              "title": "NB and PEI",
+              "text": "Build in the real seasonal heating and income patterns, rather than treating winter or seasonal work as a surprise."
+            },
+            {
+              "title": "ON",
+              "text": "Put your real housing and commuting costs down first, then decide what the other categories can carry."
+            },
+            {
+              "title": "NL",
+              "text": "Turn heavy rural driving and heating patterns into a monthly amount you set aside."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "CASE FILE — VERDICT: REVISION, NOT CONVICTION"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elena’s final budget is less flattering and far more useful. November still costs money. It just no longer arrives disguised as a personal failing."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Does the Line Pass?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Gross salary instead of deposits.",
+              "detail": "Revise it. Use the take-home pay that actually lands.",
+              "text": ""
+            },
+            {
+              "title": "Winter tires called an emergency every third year.",
+              "detail": "Revise it. Tires you can see coming belong in a sinking fund.",
+              "text": ""
+            },
+            {
+              "title": "Groceries estimated from memory.",
+              "detail": "Check the statements and use the real average instead.",
+              "text": ""
+            },
+            {
+              "title": "Realistic flexible spending plus a small margin.",
+              "detail": "This can pass, as long as the whole plan balances and the essentials are protected.",
+              "text": ""
+            },
+            {
+              "title": "The month balances, but rent is due before the first pay deposit.",
+              "detail": "Map the timing problem. Balanced is not the same as available.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Before You Enter Your Evidence"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If the first budget shows a shortfall, I have failed at budgeting.”",
+              "text": "A shortfall is information. It shows you the size of the decision before the household is forced to make it under pressure. The next step might be timing, a smaller flexible cost, a revised goal, more income, or asking for help."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A budget is not there to produce a pretty total. It is there to show you the real choice early enough that you still have options."
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Canadian Budget Hearing",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use recent statements, and shorten the account or category names."
+        },
+        {
+          "type": "paragraph",
+          "text": "Never put a full account number, a password, card details or a government ID number into course notes."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "heading",
+          "text": "Budget Verdict Checklist"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Income is usable.",
+              "text": "The plan uses reliable take-home income, not money removed through payroll deductions."
+            },
+            {
+              "title": "Essentials are honest.",
+              "text": "Food, medication, transport and other core needs come from evidence, not from wishful cuts."
+            },
+            {
+              "title": "Irregular costs are present.",
+              "text": "Annual and seasonal costs have a monthly sinking-fund amount, or a plan to get there."
+            },
+            {
+              "title": "Minimums and dates are protected.",
+              "text": "Required debt payments and major withdrawal dates are written down where you can see them."
+            },
+            {
+              "title": "The plan can breathe.",
+              "text": "Flexible spending is realistic, you understand the result, and a review date is in the calendar."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "A reliable Canadian household budget begins with take-home income and real statement evidence.",
+          "detail": "It protects essentials and required payments, converts predictable irregular costs into monthly amounts, allows realistic flexible spending and leaves room for change."
+        },
+        {
+          "type": "spotlight",
+          "text": "The budget is not finished when the totals balance. It is working when the household can follow it, review it and revise it before a known cost becomes expensive debt."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Budget",
+              "text": "A plan for income, spending, saving and financial priorities over a defined period."
+            },
+            {
+              "title": "Net income",
+              "text": "Money available after payroll deductions and other amounts removed before payment."
+            },
+            {
+              "title": "Fixed expense",
+              "text": "A cost that is usually similar and occurs on a regular schedule."
+            },
+            {
+              "title": "Variable expense",
+              "text": "A cost that changes from one period to another, such as groceries or fuel."
+            },
+            {
+              "title": "Essential expense",
+              "text": "A necessary household cost such as housing, food, utilities or required transportation."
+            },
+            {
+              "title": "Discretionary expense",
+              "text": "Flexible spending that is not essential and can be adjusted."
+            },
+            {
+              "title": "Sinking fund",
+              "text": "Money saved gradually for a known future or irregular expense."
+            },
+            {
+              "title": "Emergency fund",
+              "text": "Money reserved for major, sudden and unplanned needs outside the current budget."
+            },
+            {
+              "title": "Monthly margin",
+              "text": "Planned breathing room for price changes, small errors or an unused balance at month-end."
+            },
+            {
+              "title": "Cash flow",
+              "text": "The timing and movement of money into and out of the household."
+            },
+            {
+              "title": "Budget shortfall",
+              "text": "The amount by which planned spending and saving exceed available income."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “A serious budget removes every enjoyable expense.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "NET INCOME. What take-home pay reaches the household in a typical month? If it varies, write down the cautious figure you will plan with.",
+      "LAYER 1. Add up housing, utilities, food, transport, insurance, medication and minimum debt payments.",
+      "VARIABLE EVIDENCE. After 60 to 90 days of statements, which category was furthest from what you remembered?",
+      "IRREGULAR COSTS. Name three annual or seasonal costs, and work out the monthly amount for each.",
+      "LAYER 2. How much goes to emergency savings, sinking funds, planned debt reduction or another future goal?",
+      "LAYER 3 — What realistic flexible-spending amount will make the plan livable without crowding out essentials?",
+      "LAYER 4 — What monthly margin or buffer will you leave, and what happens to it if unused?",
+      "VERDICT — Does the plan show a margin, break even or show a shortfall? Name one decision and one review date."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+  },
+  "sources": []
+}

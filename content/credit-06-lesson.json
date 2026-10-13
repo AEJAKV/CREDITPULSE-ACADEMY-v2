@@ -1,0 +1,553 @@
+{
+  "title": "Secured Credit Cards in Canada",
+  "summary": "You are learning to inspect a secured card like a careful buyer: the deposit, cost, reporting, payment system and exit.",
+  "subtitle": "A Credit Card That Wants a Damage Deposit. Very Canadian of It.",
+  "minutes": 40,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A secured credit card asks you to put money down before it lets you borrow money, which can sound like a financial riddle designed by an extremely cautious committee."
+        },
+        {
+          "type": "paragraph",
+          "text": "The good news: once you understand what the deposit does, the product becomes much less mysterious."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this workshop you are not shopping for the flashiest card. You are learning to inspect one the way a careful buyer would. What does the deposit secure? What will the card cost? Does the issuer report it? How will you pay it? And how do you get your deposit back?"
+        },
+        {
+          "type": "paragraph",
+          "text": "FCAC says a secured credit card can be an option for people with no credit history, or with past credit trouble. The issuer asks for a security deposit, and your credit limit is usually equal to it or a little higher. If you do not pay what you owe, the issuer can put that deposit toward the debt."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Choosing a credit card — Secured credit cards",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/choose-credit-card.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "The security deposit is collateral, not your monthly spending money. You still receive a credit-card bill and still have to make the required payment."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A secured credit card asks you to put money down before it lets you borrow money",
+              "text": "A secured credit card asks you to put money down before it lets you borrow money",
+              "image": "/images/credit-mastery/02-silver/credit-06/credit06-image-1.webp"
+            },
+            {
+              "title": "Secured cards can have very different cost structures",
+              "text": "Secured cards can have very different cost structures",
+              "image": "/images/credit-mastery/02-silver/credit-06/credit06-image-2.webp"
+            }
+          ]
+        },
+        { "type": "heading", "text": "Welcome to the Secured-Card Buyer Workshop" },
+        {
+          "type": "paragraph",
+          "text": "The workshop has six inspection stations. A card does not pass just because the webpage says “secured.” It passes when the terms are clear, the cost suits your situation, and you can manage the account month after month."
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "UNDERSTAND THE DEPOSIT",
+              "text": "Keep the money held as security separate in your head from the balance you run up using the card.",
+              "detail": "STATION 1",
+              "icon": "bank",
+              "image": "/images/credit-mastery/02-silver/credit-06/credit06-image-3.webp"
+            },
+            {
+              "title": "COUNT THE REAL COST",
+              "text": "Add up the annual, monthly and setup fees you cannot avoid, then find the interest rate you pay if you carry a balance.",
+              "detail": "STATION 2",
+              "icon": "dollar",
+              "image": "/images/credit-mastery/02-silver/credit-06/credit06-image-4.webp"
+            },
+            {
+              "title": "CONFIRM BUREAU REPORTING",
+              "text": "Ask whether the account is reported to Equifax, TransUnion or both, before you rely on the card to build credit.",
+              "detail": "STATION 3",
+              "icon": "search",
+              "image": "/images/credit-mastery/02-silver/credit-06/credit06-image-5.webp"
+            },
+            {
+              "title": "CHECK THE PAYMENT RULES",
+              "text": "Know the statement balance, the minimum, the due date, the grace-period terms and the ways you can pay.",
+              "detail": "STATION 4",
+              "icon": "clock",
+              "image": "/images/credit-mastery/02-silver/credit-06/credit06-image-6.webp"
+            },
+            {
+              "title": "INSPECT THE EXIT",
+              "text": "Learn how to cancel or graduate, and exactly what has to happen before your deposit comes back.",
+              "detail": "STATION 5",
+              "icon": "lock",
+              "image": "/images/credit-mastery/02-silver/credit-06/credit06-image-7.webp"
+            },
+            {
+              "title": "MAKE THE BUYER DECISION",
+              "text": "Call it best fit, acceptable backup, or walk away. “Not yet” is a legitimate financial decision.",
+              "detail": "STATION 6",
+              "icon": "check",
+              "image": "/images/credit-mastery/02-silver/credit-06/credit06-image-8.webp"
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Learn to inspect one of these and you will never hand over a deposit you regret.",
+          "detail": "You will learn what the deposit secures, and how to tell a card worth its fee from one that only wants your $500.",
+          "extra": "Section 06 is a buyer worksheet you can run against two real cards."
+        }
+      ]
+    },
+    {
+      "id": "deposit",
+      "title": "Station 1: What Does “Secured” Actually Mean?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Say you put down a $500 deposit and the issuer gives you a $500 limit. You buy $60 of groceries. Your deposit has not paid for those groceries. The card now owes $60, and you pay it when the statement arrives. The $500 sits with the issuer the whole time, under the card agreement."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is the big difference from a prepaid card. With prepaid you spend money you loaded on in advance. With a secured card you are borrowing, and the deposit is there to protect the issuer if you do not repay. Equifax and TransUnion both describe secured cards as one way to establish credit when a regular card is out of reach."
+        },
+        {
+          "type": "source",
+          "text": "Equifax Canada: How to Build Credit in Canada",
+          "url": "https://www.equifax.ca/personal/education/life-stages/articles/-/learn/how-to-build-credit/"
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: 5 Ways to Build Your Credit from Scratch",
+          "url": "https://www.transunion.ca/build-credit"
+        },
+        {
+          "type": "spotlight",
+          "text": "A $500 deposit does not mean you have already paid off $500 of card balance. The deposit and the balance are two separate buckets doing two separate jobs."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "$500",
+              "detail": "SECURITY DEPOSIT",
+              "text": "",
+              "icon": "check",
+              "list": ["Collateral held under the agreement"]
+            },
+            {
+              "title": "$60",
+              "detail": "CARD BALANCE",
+              "text": "",
+              "icon": "alert",
+              "list": ["The grocery purchase you must repay"]
+            }
+          ]
+        },
+        { "type": "heading", "text": "Who Might Put a Secured Card on the Shortlist?" },
+        {
+          "type": "paragraph",
+          "text": "A secured card is worth comparing if you have little Canadian credit history, you are rebuilding after past trouble, you cannot qualify for a suitable unsecured card, or you want a controlled way to build payment history. But “might fit” is not the same as “must buy.” Student cards, newcomer cards and low-limit unsecured cards may also be open to you."
+        },
+        { "type": "heading", "text": "BUYER RULE" },
+        {
+          "type": "paragraph",
+          "text": "Do not pay for a secured card just because you assume it is your only route. Check what else you qualify for first. Even a refundable deposit ties up cash you might need in an emergency."
+        }
+      ]
+    },
+    {
+      "id": "cost",
+      "title": "Station 2: Count the Cost Before the Rewards",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "No two secured cards are priced the same way. FCAC notes that a setup or application fee may be charged, that this fee is separate from your deposit, and that some cards charge an annual fee on top. A low deposit does not mean a low cost."
+        },
+        { "type": "paragraph", "text": "Before applying, write down every cost you can find:" },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Security deposit —",
+              "text": "How much is required, where is it held, is it insured, and what does it take to get it back?"
+            },
+            {
+              "title": "Annual or monthly fees —",
+              "text": "Work out what the card costs to keep open for a year, before you have bought anything with it."
+            },
+            {
+              "title": "Purchase interest rate —",
+              "text": "This one matters most if you expect to carry a balance rather than clear it each month."
+            },
+            {
+              "title": "Transaction and penalty fees —",
+              "text": "Look up cash advances, foreign-currency purchases, returned payments, late payments and anything else the agreement charges for."
+            },
+            {
+              "title": "Optional add-ons —",
+              "text": "Tell the optional insurance and services apart from the costs the card requires."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Choosing a credit card",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/choose-credit-card.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "A deposit is not a fee. A fee is money gone for good. A deposit is security held under the agreement, and it can come back once the account is settled and the issuer’s return conditions are met."
+        },
+        { "type": "heading", "text": "A Real-World Canadian Price Check" },
+        {
+          "type": "paragraph",
+          "text": "Real Canadian products show why comparing matters. Home Trust advertises a Secured Visa with a deposit-linked limit from $500 to $10,000 and several fee and rate options. TD says its secured cards are backed by deposited funds, and that the limit depends partly on how much you put down. These are examples, not recommendations. Terms change, so read the current information box and agreement before you apply."
+        },
+        {
+          "type": "source",
+          "text": "Home Trust: Secured Visa Card",
+          "url": "https://www.hometrust.ca/credit-cards/secured-visa-card/"
+        },
+        {
+          "type": "source",
+          "text": "TD Canada Trust: What is a Secured Card?",
+          "url": "https://www.td.com/ca/en/personal-banking/advice/borrowing/how-to-build-credit-score"
+        }
+      ]
+    },
+    {
+      "id": "reporting",
+      "title": "Station 3: Reporting Is the Part You Cannot Guess",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If your goal is to build or rebuild a Canadian credit file, ask exactly where the issuer reports. TransUnion says companies do not have to report account information at all, and that lenders do not always report to both bureaus. Ask the question plainly: do you report this particular secured card to Equifax, TransUnion, or both? Later, pull your own reports and confirm the account shows up correctly."
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: Frequently Asked Questions",
+          "url": "https://www.transunion.ca/customer-support/faq"
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: What is a credit report?",
+          "url": "https://www.transunion.ca/credit-report"
+        },
+        {
+          "type": "spotlight",
+          "text": "A card cannot build the bureau history you are hoping for if nothing about it ever gets reported. Confirm that first, and do not let the product name do your thinking for you."
+        },
+        { "type": "heading", "text": "Quick Myth Check" },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My security deposit pays my monthly bill automatically.”",
+              "text": "The deposit secures the account, and that is all it does. You still make the required payments. If you do not repay what you owe, the issuer can put the deposit toward the debt."
+            },
+            {
+              "title": "“A secured card is basically a prepaid card.”",
+              "text": "They work differently. A secured card is a credit account backed by collateral. A prepaid card just spends money you loaded on in advance."
+            },
+            {
+              "title": "“Secured means guaranteed score improvement.”",
+              "text": "No honest card can promise you a specific score increase. Scores move as the reported information moves, and different lenders and bureaus use different models."
+            },
+            {
+              "title": "“The cheapest-looking annual fee means the cheapest card.”",
+              "text": "Compare the whole cost: the fees, the interest if you carry debt, the transaction charges, and the cash tied up in your deposit. One advertised number is not the whole product."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "payment",
+      "title": "Station 4: Build a Payment System, Not a Memory Contest",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A secured card only becomes useful credit history once you manage it well. FCAC recommends paying the balance by the due date when you can, and at least the minimum when you cannot pay in full. Late or missed payments can damage your score, and can set off other consequences on the card."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Give the card one or two budgeted jobs.",
+              "text": "A phone bill or one small grocery category is plenty. The card is not a new income stream wearing a chip."
+            },
+            {
+              "title": "Set a due-date backup.",
+              "text": "Use alerts or automatic minimum payments if they suit your banking setup, then check that the payment posted."
+            },
+            {
+              "title": "Pay the statement balance in full when you can afford it.",
+              "text": "This can avoid purchase interest under the grace-period rules, and it keeps the debt easy to control."
+            },
+            {
+              "title": "Do not treat cash advances like ordinary purchases.",
+              "text": "They often carry different fees and different interest, and many agreements give them no interest-free grace period at all."
+            },
+            {
+              "title": "Read the statement every month.",
+              "text": "Check the balance, the minimum, the due date, the fees and every transaction on it."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Using your credit card responsibly",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/use-credit-responsibly.html"
+        },
+        {
+          "type": "source",
+          "text": "FCAC: How credit cards work",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/credit-card-work.html"
+        },
+        { "type": "heading", "text": "Partial Payment vs. Full Payment: Buyer Translation" },
+        {
+          "type": "paragraph",
+          "text": "If your statement asks for a $40 minimum and you pay $25 by the due date, you have not met it. Paying at least the minimum protects the deadline for that cycle, but whatever is left over keeps costing you interest. Paying the full statement balance is the stronger move whenever your budget allows."
+        },
+        {
+          "type": "paragraph",
+          "text": "The deposit does not rescue a missed minimum payment from your history just because the issuer has collateral. Think of the deposit as the issuer’s safety net, not your substitute payment plan."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Paying off your credit card",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/pay-off-credit-card.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "Minimum payment protects the deadline; full payment attacks the debt and can avoid eligible purchase interest. Your deposit does neither job for you month to month."
+        },
+        { "type": "heading", "text": "Station 5: Inspect the Exit Before You Enter" },
+        {
+          "type": "paragraph",
+          "text": "A good buyer asks about the exit before handing over the deposit. Find out whether the card can graduate to an unsecured one, whether that takes a fresh application, how long the deposit takes to come back, and what happens if you close the account yourself. Not every secured card graduates the same way, and some never graduate at all."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before you close, clear the balance and any pending charges, then follow the issuer’s cancellation instructions. Keep a record of the request and of the deposit coming back. FCAC also recommends checking whether the institution has insured your deposit."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Getting a secured credit card",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/choose-credit-card.html"
+        },
+        { "type": "heading", "text": "RED-FLAG DETECTOR" },
+        {
+          "type": "paragraph",
+          "text": "Stop if you see guaranteed score increases, vague bureau reporting, fees you have to hunt for, pressure to apply today, costly “mandatory” add-ons, unclear deposit-return rules, or a promise to erase accurate bad news from your file for a fee."
+        },
+        {
+          "type": "story",
+          "text": "Noah and the Ad That Would Not Answer",
+          "detail": "NOAH BRINGS A CALCULATOR TO A SALES PITCH",
+          "image": "/images/credit-mastery/02-silver/credit-06/credit06-image-9.webp",
+          "paragraphs": [
+            "Two years ago Noah lost a job and then lost track of three payments. No bank will hand him an ordinary credit card now. He would like one back.",
+            "An ad finds him first. “An easy fresh start,” it says, over a photograph of somebody being extremely relieved.",
+            "The card wants a $500 deposit. There is a setup fee, and then an annual fee. When Noah goes looking for the part that says which credit bureau hears about any of this, the page goes quiet.",
+            "This is where the old Noah would have applied. Instead he opens the calculator on his phone and adds up what the card costs to keep for one year. The webpage is enthusiastic. Noah’s calculator is less emotionally available.",
+            "Then he does the thing almost nobody does. He phones and asks whether they report this card to Equifax, TransUnion, or both. The answer takes three transfers and is still somehow vague.",
+            "He compares a second card. On paper it costs a few dollars more each year, but it states its reporting in writing and spells out exactly what has to happen before the deposit comes back. Noah picks the second one.",
+            "He puts his $41 internet bill on it, sets one reminder, and pays it from money already in the budget. His great financial breakthrough is, once again, aggressively uneventful.",
+            "Fourteen months later his bank offers him an unsecured card. The ad with the relieved photograph is still running."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The best secured card is not the one with the biggest limit or the lowest-looking fee. It is the one whose full cost, reporting, payment rules and exit path you can understand and manage."
+        },
+        {
+          "type": "transition",
+          "text": "Noah’s phone call saved him a year of paying for the wrong card.",
+          "detail": "You will run the same inspection yourself, on two real offers, and decide which one has earned your deposit.",
+          "extra": "Keep going. The last two sections are where you make the call."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Would This Card Pass the Workshop?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "$500 deposit, a clear fee and confirmed reporting",
+              "detail": "It passes the first inspection. Now read the whole agreement before you decide.",
+              "text": ""
+            },
+            {
+              "title": "“Your score will rise 100 points in 30 days”",
+              "detail": "Walk away from that promise. No card can guarantee any such thing.",
+              "text": ""
+            },
+            {
+              "title": "“Refundable deposit,” but no clear rules on getting it back",
+              "detail": "Stop and get the return conditions in writing first.",
+              "text": ""
+            },
+            {
+              "title": "A $35 phone bill that is already in your budget",
+              "detail": "A sensible job for the card, as long as the card itself suits your finances.",
+              "text": ""
+            },
+            {
+              "title": "A $40 minimum is due and you pay $25",
+              "detail": "You have missed the minimum. Your deposit does not quietly cover the other $15.",
+              "text": ""
+            }
+          ]
+        },
+        { "type": "heading", "text": "Your Action: Run a Two-Card Inspection" },
+        { "type": "heading", "text": "COMPARE FIRST · Run a two-card inspection" },
+        {
+          "type": "paragraph",
+          "text": "Research two real secured-card offers, but do not apply to either during this exercise. Give each one a verdict: best fit, backup, or walk away. If neither is affordable and clear, then “walk away for now” wins the workshop."
+        },
+        {
+          "type": "chips",
+          "items": [
+            { "title": "Card A to verify", "text": "" },
+            { "title": "Card B to verify", "text": "" },
+            { "title": "My verdict", "text": "" }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "A secured credit card can be useful for establishing or rebuilding credit, but the deposit does not make every secured card a good buy.",
+          "detail": "Add up the total cost, confirm the reporting, protect the payment deadline, and understand how your deposit comes back, all before you apply."
+        },
+        {
+          "type": "spotlight",
+          "text": "A buyer rule worth keeping: if you cannot explain the product in plain language before you apply, it is too confusing to trust with your deposit today."
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Secured-Card Buyer Worksheet",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use the public product information and the issuer’s current agreement."
+        },
+        {
+          "type": "paragraph",
+          "text": "Never write your SIN, a full card number, a banking password or anything else private onto this worksheet."
+        },
+        { "type": "checkin" }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Secured credit card",
+              "text": "A credit card backed by money you put down under the issuer’s agreement."
+            },
+            {
+              "title": "Security deposit",
+              "text": "Money held as collateral. It is separate from your monthly payment, and it can come back under the terms."
+            },
+            {
+              "title": "Collateral",
+              "text": "Money or another asset that protects a lender if the borrower does not repay."
+            },
+            {
+              "title": "Credit limit",
+              "text": "The most revolving credit you can use on the card at one time."
+            },
+            {
+              "title": "Statement balance",
+              "text": "The balance shown when a billing period closes."
+            },
+            {
+              "title": "Minimum payment",
+              "text": "The smallest payment the issuer requires by the due date on that statement."
+            },
+            {
+              "title": "Due date",
+              "text": "The date your required payment has to reach the account."
+            },
+            {
+              "title": "Grace period",
+              "text": "A window where eligible purchases can avoid interest, if you meet the card’s payment conditions."
+            },
+            {
+              "title": "Purchase interest rate",
+              "text": "The rate charged when interest applies to what you bought."
+            },
+            {
+              "title": "Cash advance",
+              "text": "Cash, or a cash-like transaction, with different fees and interest from an ordinary purchase."
+            },
+            {
+              "title": "Bureau reporting",
+              "text": "An issuer sending your account information to Equifax, TransUnion or both."
+            },
+            {
+              "title": "Graduation / upgrade",
+              "text": "A possible move from a secured card to an unsecured one, under the issuer’s rules."
+            },
+            {
+              "title": "Unsecured credit card",
+              "text": "A credit card that needs no security deposit behind it."
+            },
+            {
+              "title": "Prepaid card",
+              "text": "A payment card that spends money you loaded in advance, rather than credit you borrow."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “My security deposit pays my monthly bill automatically.”",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "DEPOSIT CHECK. How much deposit does Card A need, and when do you get it back?",
+      "FULL-COST CHECK. What does Card A really cost you, counting the fees and the interest rate?",
+      "REPORTING CHECK. Does Card A report to Equifax, TransUnion, or both?",
+      "CARD B CHECK. For Card B, what is the deposit, the cost and the reporting?",
+      "PAYMENT PLAN. If your bill showed $200 owing with a $25 minimum, how much would you pay?",
+      "EXIT CHECK. How do you get your deposit back once you are done with the card?",
+      "RED-FLAG TEST. Name one thing about this card that would make you stop before applying.",
+      "BUYER VERDICT. Which card fits best, or would you walk away? Explain in a sentence or two."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I have checked my answers, and I understand this course teaches, but does not give financial advice."
+  },
+  "sources": []
+}

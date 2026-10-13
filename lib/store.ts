@@ -2,7 +2,7 @@ import { randomBytes, randomUUID, scryptSync, timingSafeEqual, createHash } from
 import { Pool } from 'pg';
 import type { Account, AuditEvent, LessonContent, MemberState, Settings, Tier } from './types';
 import { allLessons, creditLessons } from './catalog';
-import { creditScoreContent, placeholderContent } from './content';
+import { seededContent, placeholderContent } from './content';
 export function demoMode() {
   return (
     process.env.DEMO_MODE === 'true' ||
@@ -74,6 +74,27 @@ function memory(): Memory {
       state,
       createdAt: new Date().toISOString(),
     };
+    const eliteState = emptyState(5);
+    eliteState.activeCourse = 'credit-mastery';
+    eliteState.onboardingComplete = true;
+    eliteState.enrollments['credit-mastery'] = {
+      courseId: 'credit-mastery',
+      tier: 5,
+      completed: [],
+      reflections: {},
+      startedAt: new Date().toISOString(),
+      deadline: null,
+      saved: [],
+    };
+    const elite: Account = {
+      id: 'demo-elite',
+      name: 'Elite Reviewer',
+      email: 'elite@creditpulse.demo',
+      role: 'member',
+      passwordHash: hashPassword('EliteWithPulse2026!'),
+      state: eliteState,
+      createdAt: new Date().toISOString(),
+    };
     const admin: Account = {
       id: 'demo-admin',
       name: 'Course Administrator',
@@ -86,6 +107,7 @@ function memory(): Memory {
     globalStore.pulseMemory = {
       accounts: new Map([
         [member.id, member],
+        [elite.id, elite],
         [admin.id, admin],
       ]),
       sessions: new Map(),
@@ -272,12 +294,9 @@ export async function getContent(id: string): Promise<LessonContent> {
   const lesson = allLessons.find((l) => l.id === id);
   if (!lesson) throw new Error('Lesson not found.');
   if (demoMode())
-    return (
-      memory().content.get(id) ??
-      (id === 'credit-01' ? creditScoreContent : placeholderContent(lesson, true))
-    );
+    return memory().content.get(id) ?? seededContent[id] ?? placeholderContent(lesson, true);
   const r = await pool().query('SELECT value FROM cp_content WHERE lesson_id=$1', [id]);
-  return r.rows[0]?.value ?? (id === 'credit-01' ? creditScoreContent : placeholderContent(lesson));
+  return r.rows[0]?.value ?? seededContent[id] ?? placeholderContent(lesson);
 }
 export async function setContent(id: string, content: LessonContent) {
   if (demoMode()) memory().content.set(id, content);
@@ -319,10 +338,7 @@ export async function getContents(ids: string[]): Promise<Record<string, LessonC
     ids.map((id) => {
       const lesson = allLessons.find((l) => l.id === id);
       if (!lesson) throw new Error('Unknown lesson.');
-      return [
-        id,
-        saved.get(id) ?? (id === 'credit-01' ? creditScoreContent : placeholderContent(lesson)),
-      ];
+      return [id, saved.get(id) ?? seededContent[id] ?? placeholderContent(lesson)];
     }),
   );
 }

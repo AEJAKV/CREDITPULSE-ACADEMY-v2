@@ -14,6 +14,9 @@ const blockTypes: ReadingBlock['type'][] = [
   'ordered',
   'chips',
   'accordions',
+  'carousel',
+  'lists',
+  'split',
   'story',
   'takeaway',
   'glossary',
@@ -55,6 +58,14 @@ export function validateRichContent(content: LessonContent) {
         )
       )
         return false;
+      if (
+        block.image !== undefined &&
+        (typeof block.image !== 'string' ||
+          !/^\/images\/[\w\-./]+\.(webp|avif|jpe?g|png)$/.test(block.image) ||
+          block.image.includes('..'))
+      )
+        return false;
+      if (block.at !== undefined && !Number.isInteger(block.at)) return false;
       if (block.type === 'source' && (!block.url || !/^https:\/\//.test(block.url))) return false;
       if (
         block.paragraphs &&
@@ -73,6 +84,10 @@ export function validateRichContent(content: LessonContent) {
               typeof item.title === 'string' &&
               typeof item.text === 'string' &&
               (item.detail === undefined || typeof item.detail === 'string') &&
+              (item.list === undefined ||
+                (Array.isArray(item.list) &&
+                  item.list.length <= 50 &&
+                  item.list.every((entry) => typeof entry === 'string'))) &&
               (item.image === undefined ||
                 (typeof item.image === 'string' &&
                   /^\/images\/[\w\-./]+\.(webp|avif|jpe?g|png)$/.test(item.image) &&
@@ -80,7 +95,14 @@ export function validateRichContent(content: LessonContent) {
           ))
       )
         return false;
-      if (block.type === 'artwork' && !block.items?.length) return false;
+      if (
+        (block.type === 'artwork' ||
+          block.type === 'carousel' ||
+          block.type === 'lists' ||
+          block.type === 'split') &&
+        !block.items?.length
+      )
+        return false;
     }
   }
   return true;

@@ -1,0 +1,408 @@
+{
+  "title": "Rebuilding Credit After a Consumer Proposal",
+  "summary": "Complete → Certify → Audit → Re-enter",
+  "subtitle": "Convert completion paperwork into a controlled credit re-entry",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Dashboard brief",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A consumer proposal can finish quietly. No bell rings, no confetti appears, and the credit bureaus do not gather for a synchronized update."
+        },
+        {
+          "type": "paragraph",
+          "text": "Completion is a legal milestone; rebuilding is the organized work that follows it. This masterclass begins at the exit door. Confirm whether the proposal is active or fully performed, protect the proof, audit both reports and re-enter credit only when cost and due dates fit your budget."
+        },
+        {
+          "type": "spotlight",
+          "text": "A completed proposal and an accurate credit report are connected, but they are not the same event. Keep proof and verify both bureau files."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "",
+              "text": "",
+              "icon": "check",
+              "list": [
+                "Distinguish an active proposal, a completed proposal and an inaccurate credit-report entry.",
+                "Build a proposal completion file with the documents that support later corrections.",
+                "Apply the federal credit-report retention rule without confusing it with a guaranteed score change.",
+                "Test whether a new credit product is affordable, useful and appropriately timed.",
+                "Leave with a 12-month re-entry dashboard and scheduled review dates."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The day I finish my proposal, my credit reports become clean.”",
+              "text": "Completion starts an important next phase, but report updates and retention rules still apply. Review both reports and dispute only inaccurate information."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: How long information stays on your credit report",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/information-credit-report.html"
+        },
+        {
+          "type": "transition",
+          "text": "An 'instant credit reset' ad landed in Priya's inbox a week before her last payment cleared.",
+          "detail": "Calling the trustee instead of the advertiser is what let Priya catch a wrongly reported balance before it followed her.",
+          "extra": "Meet Priya, next, as she decides who to call first."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Priya’s Exit Folder",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Priya",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Priya Sandhu, a pharmacy technician in Calgary, had one final consumer-proposal payment left. Her goal was modest: replace an unreliable car within a year without accepting a loan that turned every commute into a luxury expedition.",
+            "A week before the last payment, an online ad offered an “instant credit reset” and vehicle approval with no questions asked. It supplied plenty of exclamation marks and almost no arithmetic. One report also showed a creditor balance she believed was covered by the proposal.",
+            "Priya called her Licensed Insolvency Trustee instead of the advertiser. She confirmed the last payment, remaining duties and Certificate of Full Performance, then saved the proposal, payment record, counselling confirmation, certificate and trustee contacts. She reviewed both reports and marked every proposal-related entry needing a status or balance check.",
+            "One bureau updated correctly; the other still showed the old balance. Priya sent a focused dispute with proof and kept the case number. Meanwhile, she built a repair fund and selected one low-limit secured card only after checking its deposit, fees, grace period and payment system.",
+            "Ten months later, her report was accurate, her buffer stronger and her recent payments clean. The proposal did not evaporate in a puff of administrative smoke. Priya rejected the first vehicle offer and chose a less expensive car with a shorter affordable term."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Priya’s turning point was sequencing: confirm completion, correct the file, stabilize cash flow, then consider one useful account."
+        },
+        {
+          "type": "heading",
+          "text": "The conclusion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Her success was not a magic score. It was a verified exit, accurate evidence and a borrowing decision she could sustain."
+        },
+        {
+          "type": "transition",
+          "text": "Knowing which side of completion you are on decides every move that follows.",
+          "detail": "Confirming your exact status before touching your credit file is what keeps a correction request from becoming a wasted one.",
+          "extra": "Zone 1 starts now: active or fully performed."
+        }
+      ]
+    },
+    {
+      "id": "finish",
+      "title": "Zone 1: Know Which Side of Completion You Are On",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A consumer proposal is a formal Bankruptcy and Insolvency Act process administered by a LIT. It can run no more than five years. For the OSB process described here, eligible debts do not exceed $250,000, excluding a mortgage secured by the principal residence."
+        },
+        {
+          "type": "heading",
+          "text": "If your proposal is still active"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Follow the filed terms. Keep the payment dates and complete required duties. Ask the trustee before changing or accelerating the plan.",
+              "text": ""
+            },
+            {
+              "title": "Treat missed payments as urgent. A monthly proposal is generally deemed annulled after three missed payments. Contact the trustee early; do not wait for the third calendar surprise.",
+              "text": ""
+            },
+            {
+              "title": "Route included-creditor contact. If an included creditor contacts you, identify the proposal and refer the matter to the trustee.",
+              "text": ""
+            },
+            {
+              "title": "Pause new borrowing. A new account can add cost while the proposal is still active. Discuss a genuine need with the trustee and check the budget first.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "When fully performed"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Confirm with the trustee that every required payment and duty is complete.",
+              "text": ""
+            },
+            {
+              "title": "Obtain and retain the Certificate of Full Performance issued through the proposal process.",
+              "text": ""
+            },
+            {
+              "title": "Ask which creditors and government records receive notice, and keep the trustee’s answer with your file.",
+              "text": ""
+            },
+            {
+              "title": "Begin the two-bureau audit. Do not assume every tradeline will display the same way on the same day.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Three missed monthly proposal payments can have serious consequences. An early call to the trustee is protection, not an admission of failure."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I can fix an active proposal by negotiating separately with an included creditor.”",
+              "text": "The trustee administers the proposal. Direct side arrangements can create confusion and may conflict with the filed process; take the issue to the trustee."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "OSB: Consumer proposals",
+          "url": "https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/you-owe-money/consumer-proposals"
+        }
+      ]
+    },
+    {
+      "id": "audit",
+      "title": "Zone 2: Build the Exit File, Then Check Both Reports",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Keep copies in a secure folder. Redact account numbers before sharing documents with anyone who does not need the full details."
+        },
+        {
+          "type": "spotlight",
+          "text": "Federal consumer guidance says both bureaus remove a consumer proposal three years after included debts are paid off. The alternative is six years after signing, whichever comes first."
+        },
+        {
+          "type": "paragraph",
+          "text": "The rule does not promise identical wording, an immediate update or a particular score. If a balance, date, creditor or status is wrong, use the bureau’s correction process and send copies of proof. Involve the trustee if the proposal record itself is wrong."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Compare personal information, public-record sections, proposal details and every included account.",
+              "text": ""
+            },
+            {
+              "title": "Circle only factual issues: wrong balance, wrong status, duplicate item or unfamiliar account. Also flag information kept beyond the applicable period.",
+              "text": ""
+            },
+            {
+              "title": "Write one clear correction request per issue. State what is wrong, what the correct fact is and which document supports it.",
+              "text": ""
+            },
+            {
+              "title": "Track dates and case numbers. Recheck both reports after the investigation or normal reporting cycle.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A dispute is a request to remove any information I dislike.”",
+              "text": "A dispute is for incomplete, outdated or inaccurate information. Accurate information may remain for the applicable period."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Checking your report for errors and fraud",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/check-errors.html"
+        }
+      ]
+    },
+    {
+      "id": "reenter",
+      "title": "Zone 3: Re-enter Credit in the Right Order",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The safest rebuilding account is usually the one you understand, can afford and will manage consistently. A “credit-building” label can still carry a fee schedule with the charm of a tax form."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "DAYS 0–30 · STABILIZE",
+              "text": "File the completion evidence, protect rent and essential bills, create a small cash buffer and list every existing due date."
+            },
+            {
+              "title": "DAYS 31–90 · VERIFY",
+              "text": "Review both reports, send focused disputes and confirm that no proposal-related collection contact remains unresolved."
+            },
+            {
+              "title": "MONTHS 4–6 · TEST ONE TOOL",
+              "text": "If the budget is stable, compare one secured card or other suitable low-cost account. Check deposit protection, fees, interest, grace period, limit and reporting."
+            },
+            {
+              "title": "MONTHS 7–12 · REPEAT",
+              "text": "Pay every required amount on time, and keep revolving balances modest. Avoid unnecessary applications and review statements for errors."
+            },
+            {
+              "title": "BEFORE A MAJOR LOAN · COMPARE",
+              "text": "Check the annual percentage rate, term, total borrowing cost, add-ons, early-payment rules and whether the payment still fits after a bad month."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A secured-card deposit is collateral, not a monthly payment. You still need to pay the card bill on time."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Carrying a card balance and paying interest rebuilds faster.”",
+              "text": "Interest is a cost, not a scoring requirement. Small reported use and on-time payment can establish activity without deliberately carrying debt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Your last proposal payment cleared yesterday. What should you confirm before applying for credit?",
+              "detail": "Confirm with the LIT that every payment and duty is complete and obtain the Certificate of Full Performance.",
+              "text": ""
+            },
+            {
+              "title": "One report shows an included creditor with the wrong balance. What is the evidence-based next move?",
+              "detail": "Use the bureau’s correction process with the relevant report entry and copies of completion and account proof.",
+              "text": ""
+            },
+            {
+              "title": "A secured card charges high fees and its payment would be tight. Does the label make it suitable?",
+              "detail": "No. A credit-building label does not overcome unaffordable fees or cash flow.",
+              "text": ""
+            },
+            {
+              "title": "Why should you review both Equifax and TransUnion reports?",
+              "detail": "They maintain separate files and may display or update proposal information differently.",
+              "text": ""
+            },
+            {
+              "title": "What five costs or terms should you compare before a major loan?",
+              "detail": "APR, term, total borrowing cost, add-ons and early-payment rules—plus bad-month affordability.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Build Your Proposal Exit Dashboard",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use this after speaking with your LIT. Record facts, dates and next actions; do not place full account numbers on a workbook you may carry or share."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "A dashboard turns “I think it updated” into dates, documents, case numbers and decisions you can verify."
+        },
+        {
+          "type": "takeaway",
+          "text": "Finish first. Prove it. Audit the records.",
+          "detail": "Re-enter only with credit that solves a real need and survives a realistic budget. No responsible lender, bureau or educator can guarantee a score increase or approval date."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Consumer proposal",
+              "text": "A formal legal arrangement, administered by a Licensed Insolvency Trustee. It offers creditors repayment of part or all of unsecured debt over time."
+            },
+            {
+              "title": "Licensed Insolvency Trustee (LIT)",
+              "text": "A federally regulated professional authorized to administer consumer proposals and bankruptcies."
+            },
+            {
+              "title": "Certificate of Full Performance",
+              "text": "The completion certificate issued after the terms and required duties of a consumer proposal are fulfilled."
+            },
+            {
+              "title": "Fully performed",
+              "text": "All payments and duties required by the accepted proposal have been completed."
+            },
+            {
+              "title": "Deemed annulment",
+              "text": "Automatic cancellation that may occur under the legislation when proposal payment defaults reach the prescribed level."
+            },
+            {
+              "title": "Credit tradeline",
+              "text": "A credit account entry shown on a credit report."
+            },
+            {
+              "title": "Annual percentage rate (APR)",
+              "text": "A standardized annual expression of borrowing cost used to compare credit offers."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Carrying a card balance and paying interest rebuilds faster.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "My current proposal status and date confirmed by my trustee are:",
+      "The completion evidence I have—or still need—is:",
+      "My secure exit folder contains:",
+      "On my Equifax report, the proposal and included accounts appear as follows:",
+      "On my TransUnion report, the proposal and included accounts appear as follows:",
+      "The factual issue, proof, and case number are:",
+      "My affordable product test—purpose, fee, APR, limit, deposit and due date—is:",
+      "My 30-, 90- and 365-day review dates and repeat behaviour are:"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my answers and understand this is educational information."
+  },
+  "sources": []
+}

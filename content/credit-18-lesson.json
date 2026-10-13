@@ -1,0 +1,355 @@
+{
+  "title": "Preparing for an Auto Loan",
+  "summary": "Price → Trade → Fees → APR → Term → Total",
+  "subtitle": "Audit the whole loan before the payment puts on a tiny disguise",
+  "minutes": 50,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Showroom brief",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A car payment can look impressively small when the loan term has been stretched across several birthdays."
+        },
+        {
+          "type": "paragraph",
+          "text": "Compare offers by total cost, not showroom tempo. Separate price from financing, expose negative equity and add-ons, and read the disclosure. Then control inquiries and test whether the payment survives insurance, fuel, maintenance and an inconvenient Tuesday."
+        },
+        {
+          "type": "spotlight",
+          "text": "The payment is one line. Amount financed, APR, term and total payments reveal what the loan costs in full."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "",
+              "text": "",
+              "icon": "check",
+              "list": [
+                "Build an auto-loan readiness file before entering a dealership.",
+                "Calculate how trade-in debt, fees and add-ons change amount financed.",
+                "Compare shorter and longer terms using total payments and interest.",
+                "Identify negative equity and long-loan risk.",
+                "Leave with a total-cost comparison sheet and walk-away ceiling."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The lowest payment is the cheapest offer.”",
+              "text": "A longer term can reduce payment while increasing total interest and time owing more than the vehicle is worth."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Shopping for auto-financing",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html"
+        },
+        {
+          "type": "transition",
+          "text": "A weekly payment folded around five hidden costs is not a price, it is camouflage.",
+          "detail": "Separating price, trade and add-ons before financing enters the conversation is what keeps a small weekly number honest.",
+          "extra": "Build the real price next, before the payment gets a vote."
+        }
+      ]
+    },
+    {
+      "id": "offer",
+      "title": "Build the Price Before Discussing the Payment",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If every number is folded into one weekly payment, the paperwork has learned camouflage."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "START WITH CASH PRICE",
+              "text": "Negotiate and record vehicle price before financing. Confirm whether rebates depend on a particular loan.",
+              "detail": "1"
+            },
+            {
+              "title": "SEPARATE THE TRADE-IN",
+              "text": "Record trade value and exact old-loan payout. A higher payout creates negative equity that may enter the new loan.",
+              "detail": "2"
+            },
+            {
+              "title": "LIST FINANCED EXTRAS",
+              "text": "Write taxes, administration, registration, warranty, protection, insurance products and every optional add-on.",
+              "detail": "3"
+            },
+            {
+              "title": "READ CREDIT TERMS",
+              "text": "Compare amount financed, APR, frequency, payment count, term and total borrowing cost.",
+              "detail": "4"
+            },
+            {
+              "title": "ADD OWNERSHIP COSTS",
+              "text": "Get an insurance quote and estimate fuel or charging, tires, parking, maintenance and repairs.",
+              "detail": "5"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Negative equity does not vanish when rolled in. It becomes old-car debt travelling inside the new-car payment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gather identification, income and residence proof, current payout, insurance quote and recent reports. Get financial-institution and dealer quotes where practical; compare the same vehicle price, down payment and term."
+        },
+        {
+          "type": "spotlight",
+          "text": "FCAC says car-loan or mortgage quotes from different lenders within a two-week period are treated by the bureaus as one inquiry."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A dealership must show me its lowest available rate.”",
+              "text": "The presented offer may not be the best available. Compare quotes and ask which lender, rate, fees, compensation and conditions apply."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Car financing options",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/financing-options.html"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Lucas and the $119 Weekly Mirage",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Lucas",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Lucas Martin, a refrigeration technician in Regina, needed a reliable vehicle for early calls. His hatchback was approaching retirement with the dignity of a shopping cart on one stubborn wheel.",
+            "A dealer offered a compact SUV for $119 weekly. The payment looked comfortable and the heated seats made an unusually powerful Saskatchewan argument. Then Lucas requested the worksheet: 84 months, $4,000 trade-in negative equity, paint protection, replacement insurance and an unpriced warranty.",
+            "Lucas took the quote home and rebuilt it: cash price, trade, payout, shortfall, taxes, fees, add-ons, financed amount, APR and total payments. A bank quote and insurance estimate showed the weekly payment fit, but total ownership did not. The long loan could keep the former hatchback travelling inside the SUV for years.",
+            "Lucas returned with price and financing ceilings, removed extras and declined to roll the shortfall into a costlier vehicle. He kept the hatchback three months while paying it down, then bought a lower-priced used crossover over five years.",
+            "The payment was higher than the advertised weekly number, but total borrowing cost and negative-equity risk were lower. No one applauded when he signed; he did know the price, rate, term, ownership cost and exit risk."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Lucas controlled the five places a small payment hides a large obligation: price, trade, add-ons, financed amount and term."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "A printed quote, outside financing and a walk-away ceiling turned pressure into a comparison he could finish at home."
+        },
+        {
+          "type": "transition",
+          "text": "The 84-month loan and the 60-month loan differ by one thing: about $3,010 in interest.",
+          "detail": "Lucas's five hiding places for cost, price, trade, add-ons, financed amount and term, are the same five the comparison lab checks next.",
+          "extra": "The full 84-month mirage gets exposed next, side by side."
+        }
+      ]
+    },
+    {
+      "id": "lab",
+      "title": "Total-Cost Lab: Expose the 84-Month Mirage",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The same $35,000 amount financed and 7.49% APR. Figures are rounded; the actual disclosure controls."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "84 months",
+              "text": "MONTHLY $536.67 — TOTAL PAYMENTS $45,080.02 — INTEREST $10,080.02"
+            },
+            {
+              "title": "60 months",
+              "text": "MONTHLY $701.16 — TOTAL PAYMENTS $42,069.71 — INTEREST $7,069.71"
+            },
+            {
+              "title": "Difference",
+              "text": "MONTHLY $164.49 lower — TOTAL PAYMENTS $3,010.31 higher — INTEREST $3,010.31 more"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The longer loan buys payment relief, not a discount. If the short payment does not fit, the safer lever may be a lower vehicle price."
+        },
+        {
+          "type": "heading",
+          "text": "Before signing"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Read the disclosure statement showing total borrowing cost and keep a copy.",
+              "text": ""
+            },
+            {
+              "title": "Confirm contract price, trade, payout, add-ons, APR, term and frequency.",
+              "text": ""
+            },
+            {
+              "title": "Ask whether optional products can be removed and how cancellation or refunds affect the loan.",
+              "text": ""
+            },
+            {
+              "title": "Do not assume next-day cooling off; rules vary by province or territory.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I can always cancel the vehicle contract tomorrow.”",
+              "text": "There is no universal Canadian next-day cancellation rule. Check the contract and provincial or territorial law before signing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "How much more interest does the 84-month loan cost?",
+              "detail": "About $3,010.31 more than the 60-month loan.",
+              "text": ""
+            },
+            {
+              "title": "What happens when $4,000 negative equity is rolled forward?",
+              "detail": "It becomes additional principal in the new loan, increasing amount financed and usually interest and underwater risk.",
+              "text": ""
+            },
+            {
+              "title": "Which document should show total borrowing cost?",
+              "detail": "The disclosure statement provided before the agreement is finalized.",
+              "text": ""
+            },
+            {
+              "title": "How can you limit scoring effect while comparing quotes?",
+              "detail": "Shop lender quotes within a focused two-week period; FCAC says car-loan quotes in that period are treated as one inquiry by the bureaus.",
+              "text": ""
+            },
+            {
+              "title": "What should you verify before assuming cancellation?",
+              "detail": "The signed contract and current provincial or territorial dealer and consumer law; there is no universal next-day Canadian cancellation right.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Protection when buying a car",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/how-are-you-protected.html"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Auto-Loan Total-Cost Sheet",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use one sheet per offer. Compare identical assumptions; omit full account and driver’s licence numbers."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "A complete sheet gives you what a weekly payment cannot: a reasoned yes, no or precise counteroffer."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Amount financed",
+              "text": "The principal borrowed after the down payment, trade, fees, taxes, add-ons and rolled-in debt are applied."
+            },
+            {
+              "title": "APR",
+              "text": "Annual percentage rate: the annualized cost of credit used to compare loan offers."
+            },
+            {
+              "title": "Negative equity",
+              "text": "The amount by which a vehicle-loan balance exceeds the vehicle’s value."
+            },
+            {
+              "title": "Loan term",
+              "text": "The period over which scheduled payments are made."
+            },
+            {
+              "title": "Lien",
+              "text": "A registered lender claim against the vehicle until the secured debt is repaid."
+            },
+            {
+              "title": "Disclosure statement",
+              "text": "The pre-contract document explaining the cost of borrowing and key credit terms."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “The lowest payment is the cheapest offer.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Vehicle need, cash-price ceiling and walk-away rule:",
+      "Negotiated cash price before trade and financing:",
+      "Trade value, payout and equity or negative equity:",
+      "Taxes, fees, warranties, insurance products and add-ons:",
+      "Amount financed, APR and lender:",
+      "Payment, frequency, term, total payments and borrowing cost:",
+      "Monthly insurance, fuel/charging, parking, maintenance and repair:",
+      "Decision, reason, missing information and quote expiry:"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

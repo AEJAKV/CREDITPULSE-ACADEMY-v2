@@ -1,0 +1,586 @@
+{
+  "title": "Managing Money Between Paydays",
+  "summary": "Build a payday-to-payday cash-flow map that protects upcoming bills, daily essentials and the lowest expected balance.",
+  "subtitle": "Your Budget Says the Month Is Fine. Tuesday Has Requested a Second Opinion.",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A monthly budget can add up fine and still leave the chequing account short two days before payday."
+        },
+        {
+          "type": "paragraph",
+          "text": "Money has a calendar, and it is strict about keeping its appointments."
+        },
+        {
+          "type": "paragraph",
+          "text": "This lesson builds a payday-to-payday cash-flow map. The goal: know what money is free to spend, set aside cash already promised to upcoming bills, protect daily essentials, and find the lowest balance you will hit before it turns into an overdraft or a missed payment."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Getting overdraft protection",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/banking/overdraft-protection.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "A budget answers, “Can the month work?” A payday bridge answers, “Will the money be in the right account on the right day?” Both questions matter."
+        },
+        {
+          "type": "heading",
+          "text": "Welcome to the Payday Bridge"
+        },
+        {
+          "type": "paragraph",
+          "text": "For each deposit, check four pieces of evidence. The bridge holds only when cash can reach the next reliable deposit without borrowing from money that is already spoken for."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "LANDING",
+              "text": "What is the exact date and reliable take-home amount of the next deposit?"
+            },
+            {
+              "title": "OWNERSHIP",
+              "text": "Which bills, minimum payments and transfers already own part of it?"
+            },
+            {
+              "title": "CROSSING",
+              "text": "What groceries, fuel, medication and other essentials are needed before the next deposit?"
+            },
+            {
+              "title": "FLOOR",
+              "text": "What balance must remain untouched so ordinary timing changes do not create a fee problem?"
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If my monthly budget balances, my account cannot go into overdraft.”",
+              "text": "Monthly totals do not show order. A big withdrawal can land before the deposit meant to cover it. Cash-flow planning adds exact dates and a running balance to the monthly plan."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "This lesson closes the two-day gap that turns a fine budget into an overdraft fee.",
+          "detail": "Map your next fourteen days and you will know your lowest balance before your bank tells you the hard way.",
+          "extra": "The fourteen-day map ahead shows exactly where your bridge gets thin."
+        }
+      ]
+    },
+    {
+      "id": "cash-flow-map",
+      "title": "Exhibit A: The Fourteen-Day Cash-Flow Map",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This made-up map starts with cleared money and lists each expected transaction in date order."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pending deposits do not count until they are reliable, and the balance is recalculated after every transaction."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Day 0 — Opening cleared balance",
+              "text": "Change: $125 — Running balance: $125 — Is any transaction still pending?"
+            },
+            {
+              "title": "Day 1 — Net pay deposit",
+              "text": "Change: +$1,850 — Running balance: $1,975 — Which costs already own this money?"
+            },
+            {
+              "title": "Day 1 — Rent share",
+              "text": "Change: −$1,050 — Running balance: $925 — Is the amount and withdrawal date confirmed?"
+            },
+            {
+              "title": "Day 2 — Phone and internet",
+              "text": "Change: −$90 — Running balance: $835 — Does the provider use this exact date?"
+            },
+            {
+              "title": "Day 3 — Groceries",
+              "text": "Change: −$240 — Running balance: $595 — Is this a realistic pay-period amount?"
+            },
+            {
+              "title": "Day 5 — Auto payment",
+              "text": "Change: −$310 — Running balance: $285 — Is this payment protected before flexible spending?"
+            },
+            {
+              "title": "Day 8 — Insurance",
+              "text": "Change: −$75 — Running balance: $210 — What alert should fire before this point?"
+            },
+            {
+              "title": "Days 10–12 — Fuel and medication",
+              "text": "Change: −$125 — Running balance: $85 — Does the floor still survive?"
+            },
+            {
+              "title": "Day 14 — Next net pay",
+              "text": "Change: +$1,850 — Running balance: $1,935 — Which next-cycle jobs begin now?"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "BRIDGE RESULT"
+        },
+        {
+          "type": "paragraph",
+          "text": "The cycle stays above $0, but its lowest projected balance is only $85."
+        },
+        {
+          "type": "paragraph",
+          "text": "Talia’s floor is $150, so the bridge runs $65 too thin, before any forgotten or delayed transaction even shows up."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The balance on payday is available spending money.”",
+              "text": "A balance mixes money meant for different dates and purposes. Rent money does not turn into flexible spending just because it landed in the same account wearing the same dollar sign."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The highest balance can look impressive. The lowest projected balance is the more useful number. That low point reveals the bridge’s real risk."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A man comparing his phone with a calendar while reviewing the timing of money movements.",
+              "text": "A man comparing his phone with a calendar while reviewing the timing of money movements.",
+              "image": "/images/money-budgeting/01-starter/money-02/money02-image-1.webp"
+            },
+            {
+              "title": "A woman organizing envelopes and cash into a permanent payday plan.",
+              "text": "A woman organizing envelopes and cash into a permanent payday plan.",
+              "image": "/images/money-budgeting/01-starter/money-02/money02-image-2.webp"
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "text": "Meet Talia",
+          "detail": "TALIA AND THE $150 FLOOR",
+          "extra": "",
+          "paragraphs": [
+            "Talia lives in Calgary and gets paid $1,850 every second Friday. Her floor, the buffer she never touches, is $150. That number keeps her rent, her car payment and her phone bill safe no matter what the calendar throws at her. With $125 already in chequing, payday lifts the balance to $1,975. It looks roomy enough to host a small parade. Talia knows more bills are coming. She just has not lined them up by date.",
+            "Before she maps anything, Talia spends $95 on dinner and a gift. By Day 8 her account is drifting toward $115, already under the floor. Then she remembers a $129 annual streaming renewal landing on Day 11. Add the fuel and medication still to come, and her projected balance drops to negative $139.",
+            "Two ways out show up fast. Overdraft would cover the gap for a fee. A payday-loan ad promises cash by tomorrow. Talia looks at both, then closes the tab on each one. Neither one fixes the calendar; they just move the same problem to a different day. Instead she asks a smaller, harder question: which transaction can move safely before Day 11, and which one cannot move at all?",
+            "Her warning alert is set above the $150 floor, so it fires early, days before Day 11. That is what sends her back to the calendar, where she finds the renewal she had forgotten. She cancels it before the deadline and calls her phone provider, who agrees in writing to move her bill to Day 16. The bridge now clears payday above $0. The floor, though, is still empty and needs rebuilding.",
+            "On the next payday, Talia rebuilds the $150 floor first, then assigns bills and daily spending in order. Her balance looks a lot less impressive than that first $1,975, which is exactly the point. The bridge has one job: keep an ordinary Thursday ordinary, parade or no parade."
+          ],
+          "image": "/images/money-budgeting/01-starter/money-02/money02-image-3.webp"
+        },
+        {
+          "type": "transition",
+          "text": "Talia's fix took ten minutes and stopped a $45 overdraft charge cold.",
+          "detail": "The five-step deposit assignment coming next builds Talia's save into a routine you can run every payday.",
+          "extra": "The three-part separation in Section 04 turns that kind of catch into a habit."
+        }
+      ]
+    },
+    {
+      "id": "assign-deposit",
+      "title": "Assign the Deposit Before It Gets Friendly",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "Confirm the starting point and next deposit.",
+              "text": "Use cleared cash. Note the next reliable date and a careful take-home estimate, and keep pending or uncertain money separate.",
+              "detail": "STEP 01 · INCOME LANDING"
+            },
+            {
+              "title": "Reserve required payments first.",
+              "text": "Protect housing, utilities, insurance, minimum debt payments and other dated bills.",
+              "detail": "STEP 02 · BILLS RESERVED"
+            },
+            {
+              "title": "Fund the crossing.",
+              "text": "Set aside real grocery, fuel, medication, child-related and other essential costs needed before payday.",
+              "detail": "STEP 03 · ESSENTIALS FUNDED"
+            },
+            {
+              "title": "Protect the floor.",
+              "text": "Treat your small cash-flow buffer as spoken-for money, not a late-night snack budget.",
+              "detail": "STEP 04 · FLOOR PROTECTED"
+            },
+            {
+              "title": "Release only the remainder.",
+              "text": "Flexible spending starts once the bridge is safe, not before the map matches the calendar.",
+              "detail": "STEP 05 · SAFE TO RELEASE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "separation",
+      "title": "The Three-Part Separation Method",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "INCOME LANDING",
+              "text": "Pay, benefits and other deposits arrive here so the amount and date are easy to confirm.",
+              "detail": "LAYER 1"
+            },
+            {
+              "title": "BILLS HOLDING",
+              "text": "Money for fixed, required withdrawals gets set aside right away and used only for those bills.",
+              "detail": "LAYER 2"
+            },
+            {
+              "title": "DAILY SPENDING",
+              "text": "Groceries, fuel and approved flexible spending get a set amount for the pay period.",
+              "detail": "LAYER 3"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Use accounts at one bank, digital sub-accounts, envelopes or a written ledger. Check fees, limits and transfer timing before opening anything new. The method needs separation, not three banks and a brass plaque."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The three-part bridge requires three financial institutions.”",
+              "text": "No. The point is to stop bill money from looking available to spend. A no-fee sub-account, envelope or written ledger can create the same boundary when separate accounts do not make sense."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Good cash-flow design cuts down on decisions. When bill money is clearly separated, you do not have to renegotiate rent with every debit-card tap."
+        },
+        {
+          "type": "heading",
+          "text": "Set a Floor and an Early-Warning Alert"
+        },
+        {
+          "type": "heading",
+          "text": "RUNNING-BALANCE FORMULA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Previous balance + money in − money out = new projected balance."
+        },
+        {
+          "type": "paragraph",
+          "text": "The smallest projected result is the bridge’s low point."
+        },
+        {
+          "type": "paragraph",
+          "text": "Federally regulated banks and federal credit unions must automatically alert you when a personal account drops below $100, or a different amount you set. Keep your contact information current. Alerts warn; they do not pause pending transactions."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Your right to receive electronic alerts",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/rights-responsibilities/rights-electronic-documents.html"
+        }
+      ]
+    },
+    {
+      "id": "repairs",
+      "title": "Five Repairs for a Thin or Broken Bridge",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Measure the exact gap.",
+              "text": "Name the lowest projected balance, the date it occurs and the amount needed to reach the floor."
+            },
+            {
+              "title": "Contact the provider early.",
+              "text": "Ask whether the due date or arrangement can change; keep paying under the current terms until a change is confirmed."
+            },
+            {
+              "title": "Remove a safe non-essential cost.",
+              "text": "Pause or cancel an unused subscription before its deadline rather than underfunding food or medication."
+            },
+            {
+              "title": "Split planned transfers.",
+              "text": "When it makes sense, split a monthly savings transfer across pay periods instead of one lump sum. Never shrink a required payment without an agreement."
+            },
+            {
+              "title": "Build the floor gradually.",
+              "text": "Add the same small amount each payday until the buffer can absorb normal timing changes."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Moving a due date makes the bill cheaper.”",
+              "text": "A confirmed date change can fix the timing, but it does not shrink what you owe. Check whether the first changed cycle is shorter, longer, or carries a catch-up amount."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A timing repair changes when money moves. A spending repair changes how much money moves. Name which repair you are making so the next cycle does not inherit a mystery."
+        }
+      ]
+    },
+    {
+      "id": "guardrails",
+      "title": "Canadian Guardrails and Province Lens",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "As of March 12, 2026, a federally regulated bank or federal credit union cannot charge more than $10 in NSF fees on a personal deposit account. It cannot charge an NSF fee more than once per account within two business days, and it cannot charge one at all when the overdraft is under $10."
+        },
+        {
+          "type": "paragraph",
+          "text": "A returned payment can still cause problems outside the bank, so prevention is still the better plan."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Chequing accounts — non-sufficient funds fees",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/banking/bank-accounts/chequing-accounts.html"
+        },
+        {
+          "type": "paragraph",
+          "text": "The bridge method works the same everywhere in Canada. But if a shortfall pushes you toward high-cost credit, payday lending is regulated province by province. Check current rules and licensing with your province’s official regulator."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "AB and BC",
+              "text": "Use Alberta Consumer information or Consumer Protection BC’s licence search."
+            },
+            {
+              "title": "NB and PEI",
+              "text": "Use FCNB or PEI Financial and Consumer Services information."
+            },
+            {
+              "title": "ON",
+              "text": "Use Ontario’s official Payday loan: your rights guidance."
+            },
+            {
+              "title": "NL",
+              "text": "Use the provincial Consumer and Financial Services Division’s lender information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Bridge or Warning Sign?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "A monthly budget balances, but rent clears two days before pay.",
+              "detail": "Map the exact timing gap.",
+              "text": ""
+            },
+            {
+              "title": "$700 is held for bills in the same account.",
+              "detail": "Exclude it from available spending.",
+              "text": ""
+            },
+            {
+              "title": "The lowest projected balance is $45 and the floor is $150.",
+              "detail": "The bridge is $105 too thin.",
+              "text": ""
+            },
+            {
+              "title": "A provider verbally discusses a new date.",
+              "detail": "Keep the old plan until the change is confirmed.",
+              "text": ""
+            },
+            {
+              "title": "A bank alert arrives after a pending debit.",
+              "detail": "Recalculate immediately; the alert is not a pause button.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Before You Map Your Next Fourteen Days"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Overdraft is my emergency fund between paydays.”",
+              "text": "Overdraft is credit, and it can come with fees and daily interest. FCAC calls it a short-term way to cover a necessary expense, not an ongoing fix for repeated shortfalls. Course 2.6 covers overdraft in full."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "If the bridge breaks in the same spot every cycle, it is no longer a surprise. The plan needs a lasting repair involving timing, amount, income or support."
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Fourteen-Day Payday Bridge",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use short account or bill names."
+        },
+        {
+          "type": "paragraph",
+          "text": "Don’t include full account numbers, passwords, card details or government ID numbers in your notes."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "heading",
+          "text": "Payday Bridge Safety Checklist"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Deposits are reliable.",
+              "text": "Dates and amounts use net money you expect to clear, not hopeful or unconfirmed income."
+            },
+            {
+              "title": "Every automatic withdrawal is dated.",
+              "text": "Bills, minimum payments, transfers and renewals appear before the next deposit."
+            },
+            {
+              "title": "Essentials can cross.",
+              "text": "Daily needs are realistic, not squeezed down just to make the arithmetic look calm."
+            },
+            {
+              "title": "The floor is protected.",
+              "text": "Its amount is excluded from spending, and the alert threshold gives useful warning time."
+            },
+            {
+              "title": "Repairs are confirmed.",
+              "text": "Provider changes are in writing, and the map gets updated after every decision."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "A payday bridge begins with cleared cash and the next reliable deposit.",
+          "detail": "It assigns every dated bill and daily essential, protects a floor balance, then uses the lowest projected balance to decide if the cycle is safe, thin or showing a gap."
+        },
+        {
+          "type": "spotlight",
+          "text": "The bridge is done when each deposit can carry its assigned jobs to the next reliable deposit without borrowing from rent, essentials or tomorrow’s pay."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Cash flow",
+              "text": "How money moves into and out of an account or household, and when."
+            },
+            {
+              "title": "Pay cycle",
+              "text": "The stretch of time between one paycheque and the next."
+            },
+            {
+              "title": "Cleared balance",
+              "text": "Money that has fully posted to the account and is available to spend, based on the account’s terms."
+            },
+            {
+              "title": "Pending transaction",
+              "text": "A deposit or withdrawal that has started but has not fully posted yet."
+            },
+            {
+              "title": "Running balance",
+              "text": "The balance you expect after each dated transaction lands."
+            },
+            {
+              "title": "Low point",
+              "text": "The lowest balance you expect before the next reliable deposit."
+            },
+            {
+              "title": "Bills holding",
+              "text": "Money set aside for fixed or required bills, off-limits for anything else."
+            },
+            {
+              "title": "Floor balance",
+              "text": "A small buffer you keep above $0 in case a bill lands earlier than planned."
+            },
+            {
+              "title": "Pre-authorized debit",
+              "text": "Permission you give a biller or lender to pull an agreed payment from your account."
+            },
+            {
+              "title": "Electronic alert",
+              "text": "A bank notice that fires when your balance or available credit crosses a set line."
+            },
+            {
+              "title": "NSF",
+              "text": "Non-sufficient funds: the account does not have enough money to cover a payment."
+            },
+            {
+              "title": "Overdraft",
+              "text": "Credit or an account feature that may let a transaction go through even when you are short."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “If my monthly budget balances, my account cannot go into overdraft.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "LANDING — What is the date and reliable take-home amount of your next deposit?",
+      "STARTING POINT — What is your cleared opening balance? What floor amount will remain assigned and unavailable for spending?",
+      "OWNERSHIP — List every fixed bill, minimum payment and automatic withdrawal due before the next deposit, with its exact date and amount.",
+      "CROSSING — How much is realistically needed for groceries, fuel, medication, child-related costs and other essentials during this pay period?",
+      "SEPARATION — How much will move to bills holding, daily spending and the protected floor immediately after payday?",
+      "LOW POINT — After calculating each dated transaction, what is the lowest projected balance and on which date does it occur?",
+      "WARNING SYSTEM — What alert threshold will warn you before the floor is crossed? Name one pending transaction you must monitor.",
+      "VERDICT — Is the bridge SAFE, THIN or SHOWING A GAP? State one repair and the exact date you will confirm it."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+  },
+  "sources": []
+}

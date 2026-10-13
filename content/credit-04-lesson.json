@@ -1,0 +1,503 @@
+{
+  "title": "Correcting Errors on a Credit Report",
+  "summary": "What works better is a small, organized case file: one disputed fact, the proof that supports you, and one clear correction request.",
+  "subtitle": "Build the Case. Fix the Fact. Skip the Paperwork Opera.",
+  "minutes": 40,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If frustration alone could correct a credit report, one stern look at a PDF would solve half the problem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sadly, PDFs remain emotionally unavailable. What works better is a small, organized case file: one disputed fact, the proof that supports you, and one clear correction request."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Canada, you have the right to dispute anything on your credit report you believe is wrong. The Financial Consumer Agency of Canada (FCAC) says credit bureaus must correct errors for free. The bureau may then check the item with whoever supplied the information."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Checking your credit report for errors and fraud",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/check-errors.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "A correction is not a favour you buy. FCAC says credit bureaus must fix errors for free. Your job is to make the disputed fact easy to find and easy to check."
+        },
+        {
+          "type": "transition",
+          "text": "Credit bureaus have to fix real errors, and it costs you nothing to make them.",
+          "detail": "You will learn to tell a real error from something that only looks wrong, then build a case that gets investigated instead of ignored.",
+          "extra": "Section 06 builds your case file with you, one field at a time."
+        }
+      ]
+    },
+    {
+      "id": "error",
+      "title": "Decide Whether You Have an Error",
+      "paragraphs": [],
+      "blocks": [
+        { "type": "heading", "text": "FILL IN THE BLANKS · Finish this sentence before you file" },
+        {
+          "type": "paragraph",
+          "text": "Start with the exact line you believe is wrong. A dispute is strongest when you can finish this sentence: “My report says ___, but the accurate information is ___.” If you cannot fill in both blanks yet, you need more information before you file anything."
+        },
+        {
+          "type": "chips",
+          "items": [
+            { "title": "Report says", "text": "" },
+            { "title": "Accurate info", "text": "" },
+            { "title": "Evidence needed", "text": "" }
+          ]
+        },
+        { "type": "paragraph", "text": "Examples of information worth checking include:" },
+        {
+          "type": "cards",
+          "items": [
+            { "title": "Ownership", "text": "an account or inquiry you do not recognize." },
+            {
+              "title": "Payment history",
+              "text": "a late payment you believe was reported wrongly."
+            },
+            {
+              "title": "Account figures",
+              "text": "a balance or credit limit that does not match your own records for that month."
+            },
+            {
+              "title": "Duplicate reporting",
+              "text": "the same account or debt showing up twice when it should appear once."
+            },
+            {
+              "title": "Status",
+              "text": "an account shown as open, unpaid or in collection when your records say otherwise."
+            },
+            {
+              "title": "Personal information",
+              "text": "identity details that are not yours, or that are badly wrong."
+            }
+          ]
+        },
+        { "type": "heading", "text": "Quick Myth Check: Before You Open the File Folder" },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If an item hurts my score, the bureau has to delete it when I dispute it.”",
+              "text": "A dispute is for information you believe is wrong or incomplete. Accurate bad news does not become an error just because it is inconvenient."
+            },
+            {
+              "title": "“A 40-page evidence package is automatically stronger than a four-page one.”",
+              "text": "Useful evidence is evidence that proves the exact point in dispute. Extra pages bury the one fact you need somebody to notice."
+            },
+            {
+              "title": "“If the mistake appears at Equifax and TransUnion, disputing with one automatically fixes the other.”",
+              "text": "Treat each bureau report as its own file. If the same error sits on both, use each bureau’s own process and keep the confirmation details separate."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: Credit Report Disputes",
+          "url": "https://www.transunion.ca/assistance/credit-report-disputes"
+        },
+        {
+          "type": "spotlight",
+          "text": "Disputing is not the same as asking for a clean slate. TransUnion explains that only inaccurate information can be removed this way. Accurate bad news is allowed to stay, as the law permits."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Think small and specific. You are not writing your financial autobiography.",
+              "text": "Think small and specific. You are not writing your financial autobiography.",
+              "image": "/images/credit-mastery/01-starter/credit-04/credit04-image-1.webp"
+            },
+            {
+              "title": "A credit-report correction is not a favour you buy.",
+              "text": "A credit-report correction is not a favour you buy.",
+              "image": "/images/credit-mastery/01-starter/credit-04/credit04-image-2.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Build a Focused Evidence File",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Think small and specific. You are not writing your financial autobiography. You are building a file that lets a stranger see exactly what is wrong and exactly what proves it."
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "The disputed field",
+              "text": "Copy the exact account, month, balance, status or inquiry you think is wrong. Use only part of the account number in your own notes.",
+              "detail": "TAB A",
+              "icon": "filesearch",
+              "image": "/images/credit-mastery/01-starter/credit-04/credit04-image-3.webp"
+            },
+            {
+              "title": "The report details",
+              "text": "Note the bureau, the report date, the lender name, and just enough of the account number to find the item safely.",
+              "detail": "TAB B",
+              "icon": "filetext",
+              "image": "/images/credit-mastery/01-starter/credit-04/credit04-image-4.webp"
+            },
+            {
+              "title": "The proof",
+              "text": "Pick the smallest useful set of statements, payment confirmations or lender letters that support your point directly.",
+              "detail": "TAB C",
+              "icon": "filecheck",
+              "image": "/images/credit-mastery/01-starter/credit-04/credit04-image-5.webp"
+            },
+            {
+              "title": "The evidence note",
+              "text": "Beside each document, write one sentence: “This proves ___.” If that sentence has nothing to do with the disputed fact, the document does not belong in this file.",
+              "detail": "TAB D",
+              "icon": "list",
+              "image": "/images/credit-mastery/01-starter/credit-04/credit04-image-6.webp"
+            },
+            {
+              "title": "The correction",
+              "text": "Ask for one clear outcome. Correct the payment status, update the balance, remove an account that is not yours, or look into one specific error.",
+              "detail": "TAB E",
+              "icon": "check",
+              "image": "/images/credit-mastery/01-starter/credit-04/credit04-image-7.webp"
+            }
+          ]
+        },
+        { "type": "heading", "text": "PRIVACY NOTE" },
+        {
+          "type": "paragraph",
+          "text": "Keep copies for yourself, and black out anything sensitive that is not part of the dispute. Never put a full SIN or a full account number into a course worksheet. For the real dispute, follow the bureau’s current secure instructions."
+        },
+        {
+          "type": "spotlight",
+          "text": "Evidence wins on relevance, not weight. One payment confirmation for the exact month in dispute beats a small paper weather system of unrelated statements."
+        },
+        {
+          "type": "story",
+          "text": "Marcus and the 60-Day Late That Wasn’t",
+          "detail": "ONE MONTH · TWO DOCUMENTS · ONE CORRECTION",
+          "extra": "",
+          "paragraphs": [
+            "Marcus is six weeks out from a mortgage renewal, so he does the sensible thing and pulls his credit report early.",
+            "May is marked 60 days late. Marcus has never been 60 days late on anything in his life, including library books.",
+            "His first draft is, roughly: “THIS IS WRONG. PLEASE FIX IT.” It has conviction. It also has the investigative value of a smoke alarm that only yells “something!”",
+            "He deletes it and goes looking for the boring things instead. Dates and documents.",
+            "His May statement shows the due date. His payment confirmation shows the money arrived four days before it. He writes down the bureau, the report date, the lender, and the last four digits of the account.",
+            "Now he has something an investigator can act on: one disputed month, and two documents that speak directly to it.",
+            "His case has stopped being a complaint and become a request. He is not asking anyone to guess what happened. He is showing what the report says, what he believes is accurate, and the proof of the difference between them.",
+            "The renewal went ahead on time. The library, so far, has no complaints either."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "The next two rules separate a dispute that works from one that sits in a queue.",
+          "detail": "You will learn the six pieces every effective dispute contains, and exactly where to send yours so it does not stall.",
+          "extra": "Keep going. This is the part that decides whether your correction actually happens."
+        }
+      ]
+    },
+    {
+      "id": "dispute",
+      "title": "Write an Investigable Dispute",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A useful dispute message can usually be built from six pieces:"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Report —",
+              "text": "Which bureau report are you referring to, and what is its date?"
+            },
+            {
+              "title": "Account —",
+              "text": "Which lender and which account? Use a safe partial account number."
+            },
+            {
+              "title": "Period or field —",
+              "text": "Which month, payment, balance, status or inquiry is wrong?"
+            },
+            { "title": "Reported fact —", "text": "What does the report currently say?" },
+            {
+              "title": "Evidence —",
+              "text": "What document supports the information you believe is correct?"
+            },
+            { "title": "Request —", "text": "What exact correction are you asking them to make?" }
+          ]
+        },
+        { "type": "heading", "text": "A Clear Example" },
+        {
+          "type": "heading",
+          "text": "SAMPLE DISPUTE MESSAGE · Re: Account ending 4432 — May payment status"
+        },
+        {
+          "type": "quote",
+          "text": "My credit report dated July 15 lists the May payment for account ending 4432 as 60 days late. The attached May statement and payment confirmation show the payment was received before the due date. Please investigate the May payment status and correct it if your investigation confirms the reporting error."
+        },
+        { "type": "paragraph", "text": "Structured, factual, investigable — no extra noise." },
+        {
+          "type": "paragraph",
+          "text": "Notice what is missing: a life story, three exclamation marks, and a threat to contact the Prime Minister before lunch. Clear facts make the request easier to follow."
+        },
+        {
+          "type": "source",
+          "text": "Equifax Canada: How to dispute information on your credit report",
+          "url": "https://www.equifax.ca/personal/dispute-credit-report/"
+        },
+        {
+          "type": "spotlight",
+          "text": "A good dispute lets the investigator find the account, find the field, follow your evidence and see the correction you want, all without having to decode your frustration first."
+        }
+      ]
+    },
+    {
+      "id": "tracking",
+      "title": "Send the Case to the Right Places",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If the error sits on your Equifax report, use Equifax’s current dispute process. If it sits on TransUnion, use theirs. When the same error appears on both, build a separate case for each bureau. The evidence can overlap. The tracking details should not."
+        },
+        {
+          "type": "paragraph",
+          "text": "FCAC also recommends contacting whoever reported the information. A lender can often confirm its own records, or fix what it sent. Keep your explanation consistent throughout: one disputed fact, the same supporting evidence, the same requested outcome."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Checking your credit report for errors and fraud",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/check-errors.html"
+        },
+        {
+          "type": "source",
+          "text": "Equifax Canada: Dispute your credit report",
+          "url": "https://www.equifax.ca/personal/dispute-credit-report/"
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: Credit Report Disputes",
+          "url": "https://www.transunion.ca/assistance/credit-report-disputes"
+        },
+        { "type": "heading", "text": "Your Case Tracking Log" },
+        {
+          "type": "paragraph",
+          "text": "Write one log entry every time the case moves. A simple record stops “I know I submitted this sometime around Tuesday-ish” from becoming your official tracking system."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            { "title": "SUBMITTED", "text": "date you sent the dispute or contacted the lender." },
+            {
+              "title": "ORGANIZATION",
+              "text": "Equifax, TransUnion, lender or other relevant organization."
+            },
+            {
+              "title": "METHOD",
+              "text": "online form, mail, phone or another method allowed by that organization."
+            },
+            {
+              "title": "REFERENCE",
+              "text": "case, confirmation or reference number, if provided."
+            },
+            { "title": "EVIDENCE", "text": "the documents you sent or referenced." },
+            { "title": "NEXT STEP", "text": "what the organization said would happen next." },
+            {
+              "title": "RESULT",
+              "text": "what changed, what did not, and what you verified afterward."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "“Investigation completed” and “my report is now correct” are two different checkpoints. Pull the updated report and check the exact field you disputed."
+        },
+        { "type": "heading", "text": "When the Case Looks Like Fraud, Change Gears" },
+        {
+          "type": "paragraph",
+          "text": "An account or credit application you never made is more than a filing mistake. Treat possible identity fraud quickly and seriously. FCAC advises contacting the financial institution involved and both major credit bureaus, then reporting the suspected fraud through Canada’s National Fraud Reporting System. The Canadian Anti-Fraud Centre adds that you should gather your records, change any password that may be exposed, and report identity fraud to both bureaus and to police where appropriate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask the bureaus what fraud protection they currently offer you. Options such as alerts or security freezes depend on the bureau and on your province or territory. Follow the current official instructions rather than an old checklist saved from the internet."
+        },
+        {
+          "type": "source",
+          "text": "Canadian Anti-Fraud Centre: What to do if you’re a victim of fraud",
+          "url": "https://antifraudcentre-centreantifraude.ca/scams-fraudes/victim-victime-eng.htm"
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Which File Would You Build?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For each situation, decide whether you would dispute it, check it first, or treat it as possible fraud."
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "A payment really was late, and you just dislike seeing it there",
+              "detail": "That is bad news, not an error. A dispute cannot make accurate information disappear.",
+              "text": ""
+            },
+            {
+              "title": "The report says your May payment was late, and your dated confirmation shows it arrived on time",
+              "detail": "Build your case around that one payment and that one confirmation. Nothing else.",
+              "text": ""
+            },
+            {
+              "title": "The same debt appears twice and you cannot explain the duplicate",
+              "detail": "Check both entries first. If the duplicate is wrong, dispute that specific duplicate.",
+              "text": ""
+            },
+            {
+              "title": "The same wrong status appears on both bureau reports",
+              "detail": "File separately with Equifax and TransUnion, and contact the lender that reported it.",
+              "text": ""
+            },
+            {
+              "title": "A new account and an application inquiry are both completely unfamiliar",
+              "detail": "Treat this as possible fraud and follow the current lender, bureau and fraud-reporting steps now.",
+              "text": ""
+            }
+          ]
+        },
+        { "type": "heading", "text": "Your Action: Open One Case File" },
+        {
+          "type": "paragraph",
+          "text": "Pick one real item you think may be wrong, or invent a practice one if you would rather keep personal details out of your notes. Describe the case in three lines before you gather a single document."
+        },
+        {
+          "type": "takeaway",
+          "text": "Dispute facts, not feelings.",
+          "detail": "A focused case names the wrong field, backs the accurate fact with evidence that fits, asks for one specific correction, tracks every submission, and checks the result on the report itself."
+        },
+        {
+          "type": "spotlight",
+          "text": "If a dispute does not end the way you think it should, FCAC sets out ways to escalate it. You may also be able to add a free consumer statement to your report to explain your side. A statement adds context. It does not turn accurate information into an error."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Checking your credit report for errors and fraud",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/check-errors.html"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Dispute Case File Builder",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Treat this as a preparation worksheet, not the dispute itself."
+        },
+        {
+          "type": "paragraph",
+          "text": "Never write a full SIN, a full account number, a password or anything else private into this form. For the real dispute, use the bureau or lender’s current secure process."
+        },
+        { "type": "checkin" }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Credit report",
+              "text": "The record of your credit accounts and related information."
+            },
+            {
+              "title": "Credit bureau",
+              "text": "A company that collects and maintains credit information about you. Canada has two major bureaus: Equifax and TransUnion."
+            },
+            {
+              "title": "Dispute",
+              "text": "A request to investigate something you believe is wrong or incomplete."
+            },
+            {
+              "title": "Inaccurate information",
+              "text": "Information that does not match the real account or the real fact."
+            },
+            {
+              "title": "Incomplete information",
+              "text": "Information that is missing details it needs to describe the account properly."
+            },
+            {
+              "title": "Supporting evidence",
+              "text": "Documents or records that directly back up the fact you say is correct."
+            },
+            {
+              "title": "Creditor / lender",
+              "text": "The company that lent you the money and may have sent the account details to a bureau."
+            },
+            {
+              "title": "Reporting period",
+              "text": "The month or date attached to the information sent about an account."
+            },
+            {
+              "title": "Case / reference number",
+              "text": "A number used to track a dispute, an inquiry or a complaint."
+            },
+            {
+              "title": "Consumer statement",
+              "text": "A short note you may be able to add to your report to explain your side when an issue stays unresolved."
+            },
+            {
+              "title": "Fraud alert",
+              "text": "A notice on your credit file asking for extra identity checks when someone applies for credit."
+            },
+            {
+              "title": "Security freeze",
+              "text": "A block on access to your credit file for certain new-credit purposes, where that option is offered."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “If an item hurts my score, the bureau has to delete it when I dispute it.”",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "CASE ID. Which report and which account is this about? Name the bureau, the date and the account.",
+      "DISPUTED FACT. What does the report say right now that you believe is wrong?",
+      "ACCURATE FACT. What should it say instead?",
+      "EVIDENCE. What documents back this up, and what does each one prove?",
+      "CORRECTION REQUEST. In one sentence, what correction are you asking for?",
+      "SUBMISSION LOG. Where and when did you submit it, and do you have a reference number?",
+      "VERIFICATION. Once you hear back, what exactly will you check on the updated report?"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I have checked my answers, and I understand this course teaches, but does not give financial advice."
+  },
+  "sources": []
+}

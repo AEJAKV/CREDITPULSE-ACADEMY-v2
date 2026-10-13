@@ -1,0 +1,457 @@
+{
+  "title": "Hard and Soft Credit Inquiries",
+  "summary": "Before you apply, identify the event, confirm the inquiry, test the product and check the timing.",
+  "subtitle": "The Apply Button Is Very Confident for Something That Has Never Read Your Budget.",
+  "minutes": 40,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A credit inquiry appears when someone accesses your credit information."
+        },
+        {
+          "type": "paragraph",
+          "text": "The question that matters is why they looked. Was it part of an application for new credit, or something else, such as you checking your own report?"
+        },
+        {
+          "type": "paragraph",
+          "text": "A hard inquiry, also called a hard hit, is usually tied to seeking credit and can affect your score. A soft inquiry, or soft hit, does not. The names sound like one arrived on a pillow and the other through a wall, but the purpose matters more than the adjective."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Understanding credit inquiries",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "Not every credit check is an application. Checking your own Canadian credit report or score does not affect your credit score."
+        },
+        {
+          "type": "heading",
+          "text": "Welcome to the Application Decision Room"
+        },
+        {
+          "type": "paragraph",
+          "text": "This room has no judge, no velvet rope and one clipboard. Before you apply, work through four decisions. If any answer is unclear, pause long enough to ask."
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "IDENTIFY THE EVENT",
+              "text": "Are you only requesting information, or are you authorizing an application for credit?",
+              "detail": "DECISION 1",
+              "icon": "list",
+              "image": "/images/credit-mastery/03-gold/credit-09/credit09-image-1.webp"
+            },
+            {
+              "title": "CONFIRM THE INQUIRY",
+              "text": "Ask whether the check will be hard or soft and which credit bureau may be accessed.",
+              "detail": "DECISION 2",
+              "icon": "search",
+              "image": "/images/credit-mastery/03-gold/credit-09/credit09-image-2.webp"
+            },
+            {
+              "title": "TEST THE PRODUCT",
+              "text": "Does the credit serve a real need, and have you compared the rate, fees, term and total cost?",
+              "detail": "DECISION 3",
+              "icon": "dollar",
+              "image": "/images/credit-mastery/03-gold/credit-09/credit09-image-3.webp"
+            },
+            {
+              "title": "CHECK THE TIMING",
+              "text": "Have you recently made other applications, or can this decision wait until your file is quieter?",
+              "detail": "DECISION 4",
+              "icon": "clock",
+              "image": "/images/credit-mastery/03-gold/credit-09/credit09-image-4.webp"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A hard inquiry is not a bad decision by itself. It is a cost of applying for credit, so attach it to a product with a clear purpose, rather than to a button with excellent lighting."
+        },
+        {
+          "type": "transition",
+          "text": "Ask one question at the right moment and you stop paying for applications you never needed.",
+          "detail": "You will learn which credit checks touch your score and which leave it alone, plus the exact question that settles it before you click.",
+          "extra": "Section 06 puts you in the Decision Room with three real offers."
+        }
+      ]
+    },
+    {
+      "id": "difference",
+      "title": "Hard vs. Soft: The Useful Difference",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "HARD INQUIRY",
+              "text": "",
+              "icon": "alert",
+              "list": [
+                "Usually tied to applying for new credit. It shows on your credit report, can be seen by anyone reviewing it, and can affect your score. Think credit card, mortgage or loan applications."
+              ]
+            },
+            {
+              "title": "SOFT INQUIRY",
+              "text": "",
+              "icon": "check",
+              "list": [
+                "A review that leaves your score alone. Examples include asking for your own report, or a company updating records on an account you already have. These show on your own copy of the report, not as applications."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not guess from the setting alone. Rental, employment, prequalification and limit-review checks can all be handled differently, depending on the company and the purpose. Ask the plain question: will this put a hard inquiry on my credit file?"
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Credit report and score basics",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html"
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: Do you know your credit score?",
+          "url": "https://www.transunion.ca/credit-score"
+        },
+        {
+          "type": "spotlight",
+          "text": "‘Pre-approved,’ ‘prequalified’ and ‘eligibility check’ are marketing labels, not inquiry guarantees. Ask whether accepting or continuing will create a hard inquiry."
+        }
+      ]
+    },
+    {
+      "id": "doors",
+      "title": "The Three Doors: Proceed, Pause or Ask First",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "PROCEED",
+              "text": "The credit meets a real need, you understand the cost, the application fits your plan, and you have not been firing off applications lately."
+            },
+            {
+              "title": "PAUSE",
+              "text": "Your main reason is a discount today, the account has no clear long-term use, recent applications are piling up, or you have not compared anything else."
+            },
+            {
+              "title": "ASK FIRST",
+              "text": "The wording is vague, such as ‘check eligibility,’ or a dealer or broker is involved, or it is a limit increase, or nobody has said whether a hard inquiry will happen."
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "text": "Tariq and the $23 Coat Discount",
+          "detail": "THE $23 CHECKOUT DECISION",
+          "image": "/images/credit-mastery/03-gold/credit-09/credit09-image-5.webp",
+          "paragraphs": [
+            "Tariq applied for a car loan six weeks ago and it has not closed yet. He knows enough to want his credit file quiet until it does.",
+            "Then he buys a winter coat. At the till, the cashier offers $23 off today if he opens a store card.",
+            "Twenty-three dollars is real money. The cashier is friendly. There are four people in the queue behind him, all radiating patience in the way Canadians do when they are not feeling any.",
+            "Tariq steps into the Decision Room in his head. He does not need the card for financing. He has not compared its fees or its rate against anything. And there is a car loan sitting half-open. Three of the four answers say pause.",
+            "He pays full price for the coat and leaves with one fewer financial souvenir.",
+            "The lesson is not that store cards are always wrong. It is that a small saving today should not make a multi-year decision on your behalf. Compare the annual fee, the interest, the rewards, how often you would really use it, and whether the application fits what you are already borrowing.",
+            "The car loan closed three weeks later. The coat, he reports, is warm."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A discount answers ‘What do I save today?’ It does not answer ‘Do I want this account for the next several years?’ Those are two separate meetings."
+        },
+        {
+          "type": "transition",
+          "text": "Tariq’s $23 decision protected a car loan worth thousands.",
+          "detail": "You will learn how to compare lenders properly, without turning a sensible comparison into a pile of applications.",
+          "extra": "Keep going. The next section is how to shop rates without paying for the privilege."
+        }
+      ]
+    },
+    {
+      "id": "shopping",
+      "title": "Rate Shopping Without Turning It Into Application Confetti",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Comparing lenders for a mortgage or a car loan is a sensible thing to do. FCAC recommends getting your quotes inside a two-week window, because the credit bureaus then treat those focused inquiries as a single inquiry for scoring."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Keep the purpose consistent.",
+              "text": "Compare the same type of loan rather than mixing unrelated credit applications."
+            },
+            {
+              "title": "Keep the window focused.",
+              "text": "Do the comparing in a short burst, rather than spreading applications over many weeks."
+            },
+            {
+              "title": "Ask who will check your file.",
+              "text": "A dealer or broker may shop you to several lenders at once. Understand the process, and what you are consenting to, before you authorize anything."
+            },
+            {
+              "title": "Compare the full offer.",
+              "text": "Rate matters, but so do fees, term, payment amount, penalties and total borrowing cost."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Limiting credit inquiries",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "Focused rate shopping for one mortgage or one car loan is a different thing from applying for several unrelated products. Same purpose, short window, clear comparison."
+        },
+        {
+          "type": "heading",
+          "text": "Quick Myth Check"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Checking my own credit report lowers my score.”",
+              "text": "No. FCAC and TransUnion state that checking your own report or score does not affect your score."
+            },
+            {
+              "title": "“Every hard inquiry is a credit disaster.”",
+              "text": "No. Applying now and then is normal. The worry is a cluster of unnecessary applications, which can look like somebody hunting for credit in a hurry."
+            },
+            {
+              "title": "“A pre-approved offer is always a soft inquiry from start to finish.”",
+              "text": "Not necessarily. The first offer may use a soft review, while accepting it or finishing the application brings a hard one. Ask before you continue."
+            },
+            {
+              "title": "“Every rental or employment check is automatically soft.”",
+              "text": "Processes differ. FCAC lists some rental and employment applications as possible hard inquiries, while TransUnion describes certain non-lending checks as soft. Ask the organization which one it is."
+            },
+            {
+              "title": "“An inquiry disappears from Equifax and TransUnion at exactly the same time.”",
+              "text": "No. FCAC says lender inquiries can stay three years with Equifax and six years with TransUnion. How long something shows is not a statement about how much it affects a score."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: How long information stays on your credit report",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/information-credit-report.html"
+        }
+      ]
+    },
+    {
+      "id": "consent",
+      "title": "Consent and an Inquiry You Do Not Recognize",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In most Canadian provinces, a business or a person needs your consent before checking your credit. Nova Scotia, Prince Edward Island and Saskatchewan use a notification rule instead, as FCAC describes. Rules differ by province and territory, so go to your local consumer affairs office for the legal detail."
+        },
+        {
+          "type": "paragraph",
+          "text": "If a hard inquiry looks unfamiliar, look into it before deciding it is either fraud or harmless paperwork:"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Match the date.",
+              "text": "Compare it with applications made through a dealer, broker, retailer, landlord or lender."
+            },
+            {
+              "title": "Check the business name.",
+              "text": "The inquiry may show under a parent company, a financing partner, or a legal name you do not recognize at first."
+            },
+            {
+              "title": "Contact the organization.",
+              "text": "Ask why they looked at your report, and what permission they were relying on."
+            },
+            {
+              "title": "Escalate an error.",
+              "text": "Dispute anything inaccurate, and consider a fraud alert or other identity protection if it looks like misuse."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Checking your credit report for errors and fraud",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/check-errors.html"
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: What Is the Decision?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "You download your own free credit report.",
+              "detail": "A soft check. Reading your own report does not lower your score.",
+              "text": ""
+            },
+            {
+              "title": "A checkout offers $20 off for a new card.",
+              "detail": "Pause. Compare the long-term account, not just today’s discount.",
+              "text": ""
+            },
+            {
+              "title": "You compare three mortgage quotes within ten days.",
+              "detail": "That is focused rate shopping, inside FCAC’s two-week guidance.",
+              "text": ""
+            },
+            {
+              "title": "A limit-increase screen says ‘check eligibility’ but will not say which kind of check it is.",
+              "detail": "Ask first. Vague wording is not an answer.",
+              "text": ""
+            },
+            {
+              "title": "A hard inquiry appears under an unfamiliar corporate name.",
+              "detail": "Match the date, look up the company, and dispute it if it is wrong.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Hard inquiries are generally connected to applications and may affect a score. Soft inquiries do not affect the score.",
+          "detail": "Apply selectively, ask which type of check will happen, keep your rate shopping focused, and look into anything unfamiliar quickly."
+        },
+        {
+          "type": "spotlight",
+          "text": "The best application filter is a short one: clear purpose, understood cost, sensible timing, and no mystery about the credit check. If one piece is missing, pause."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Weighing whether an application's purpose is clear before applying.",
+              "text": "Weighing whether an application's purpose is clear before applying.",
+              "image": "/images/credit-mastery/03-gold/credit-09/credit09-image-6.webp"
+            },
+            {
+              "title": "Checking the cost and timing of a credit application before deciding.",
+              "text": "Checking the cost and timing of a credit application before deciding.",
+              "image": "/images/credit-mastery/03-gold/credit-09/credit09-image-7.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Application Decision Room",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The scenario: Morgan plans to compare car loans, gets a prequalified credit-card email, and is offered a store card at the till."
+        },
+        {
+          "type": "paragraph",
+          "text": "Decide which door each situation belongs behind."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Credit inquiry",
+              "text": "A record made when someone looks at your credit information."
+            },
+            {
+              "title": "Hard inquiry / hard hit",
+              "text": "A credit check tied to an application, which may affect your score."
+            },
+            {
+              "title": "Soft inquiry / soft hit",
+              "text": "A credit check that leaves your score alone."
+            },
+            {
+              "title": "Credit application",
+              "text": "A request asking a lender to consider giving you credit."
+            },
+            {
+              "title": "Prequalification",
+              "text": "An early look at whether you might qualify. It is not final approval, and the check can be hard or soft."
+            },
+            {
+              "title": "Pre-approved offer",
+              "text": "An invitation based on criteria the sender already had. It is not a promise of approval."
+            },
+            {
+              "title": "Rate shopping",
+              "text": "Comparing offers from several lenders for the same type of loan, inside a short window."
+            },
+            {
+              "title": "Consent",
+              "text": "Your permission to access or use your credit information, subject to the law where you live."
+            },
+            {
+              "title": "Credit bureau",
+              "text": "A company that maintains credit information. Equifax and TransUnion are Canada’s two main bureaus."
+            },
+            {
+              "title": "Fraud alert",
+              "text": "A notice asking lenders to take extra steps to confirm identity before approving credit."
+            },
+            {
+              "title": "Total borrowing cost",
+              "text": "What the credit costs you in total, counting interest and fees over the whole term."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Checking my own credit report lowers my score.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "OWN FILE. When Morgan reads her own report, is that hard or soft, and does it affect her score?",
+      "PREQUALIFICATION. What should Morgan ask before she replies to the prequalified offer?",
+      "RATE SHOPPING. Why does comparing car-loan quotes inside 12 days help Morgan?",
+      "CHECKOUT OFFER. Before taking the $28 discount, what two things should Morgan check?",
+      "APPLICATION CLUSTER. Morgan has already applied for two cards this month. Should she apply for a third?",
+      "VAGUE SCREEN. The lender will not say what kind of check it is running. Proceed, pause, or ask first?",
+      "UNFAMILIAR INQUIRY — What two things should Morgan do if she sees a hard inquiry she doesn't recognize?",
+      "APPLICATION FILTER — Finish the sentence: I'd accept a hard inquiry because this product ___, it costs ___, and I compared it to ___."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+  },
+  "sources": []
+}

@@ -1,0 +1,408 @@
+{
+  "title": "Dealing With Canadian Collection Agencies",
+  "summary": "Identify → Verify → Respond → Escalate",
+  "subtitle": "Run the call instead of letting the call run you",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Control room brief",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A collection call often opens as if the caller booked your next eight minutes without checking your calendar."
+        },
+        {
+          "type": "paragraph",
+          "text": "You are allowed to slow it down. The first call is for gathering facts, not making a frightened financial decision before the kettle boils."
+        },
+        {
+          "type": "paragraph",
+          "text": "This masterclass trains you to identify the caller, verify the account and use calm scripts. It also covers how to record conduct and choose the correct complaint route. Collection law is not one national rulebook: jurisdiction, creditor and federal regulation all matter."
+        },
+        {
+          "type": "spotlight",
+          "text": "A callback after verification is a control tool. FCAC tells consumers to record the caller’s details, review records and call back once the information is checked."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "",
+              "text": "",
+              "icon": "check",
+              "list": [
+                "Identify whether the caller represents a creditor, agency, debt purchaser or possible scam.",
+                "Verify the debt without exposing passwords, PINs or unnecessary identity data.",
+                "Use scripts for an unfamiliar, disputed, valid or unaffordable balance.",
+                "Document possible misconduct and choose the correct complaint or fraud-reporting path.",
+                "Leave with a call log, response plan and escalation deadline."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I must pay during the first call to prove I am cooperating.”",
+              "text": "You can record the details and verify the debt first. A legitimate account can be addressed after you confirm who is calling, what is owed and why."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Dealing with a debt collector",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/debt/collection-agency.html"
+        },
+        {
+          "type": "transition",
+          "text": "An e-transfer request before shift's end is a deadline the caller invented, not one Tessa owed.",
+          "detail": "Recording the caller's details before saying a word about payment is what kept Tessa's front desk from becoming a collection switchboard.",
+          "extra": "Meet Tessa, next, as the first call comes in."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Tessa Takes Back the Conversation",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Tessa",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Tessa Wong managed the front desk at a physiotherapy clinic in Victoria. She wanted to resolve an old utility account without turning her workplace into a collection switchboard. The first caller asked for an e-transfer before her shift ended.",
+            "The caller spoke quickly whenever Tessa asked for a breakdown. She recognized the utility name but not the total. Patients were arriving, her manager heard the phone and the caller made urgency sound like a legal department with a stopwatch.",
+            "Tessa did not argue or provide banking details. She recorded the caller, agency, telephone number, creditor, amount and date, then said she would call back using independently verified contact information. After work, she checked official resources, contacted the utility through its website and requested written details.",
+            "The base charge was hers, but a late fee followed her move-out payment. Tessa sent the receipt and email, logged each response and got the amount corrected. She proposed a short payday-aligned schedule for the valid balance and kept every receipt.",
+            "Two months later, a caller demanded gift cards for a tax debt. Tessa almost admired the confidence; the payment method was less impressive. She ended the call, verified the fraud and reported it to the Canadian Anti-Fraud Centre and local police."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Tessa separated three questions: Is the caller real? Is the account mine? Is the amount correct? Each required different evidence."
+        },
+        {
+          "type": "heading",
+          "text": "The conclusion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tessa resolved the valid amount without paying the error, protected her workplace and recognized a later scam. Her advantage was a repeatable control-room process."
+        },
+        {
+          "type": "transition",
+          "text": "A real company name on the caller ID proved nothing, and Tessa knew it.",
+          "detail": "The four facts worth recording on any collection call are up next, ready before the phone rings.",
+          "extra": "Identify the caller first, before you identify yourself."
+        }
+      ]
+    },
+    {
+      "id": "identify",
+      "title": "Identify the Caller Before You Identify Yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A real company name on call display is not proof. Record what the caller says, end the call when needed and verify through contact information you locate independently."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Caller’s full name, company, telephone number and mailing address.",
+              "text": ""
+            },
+            {
+              "title": "Original creditor, account reference, claimed amount and date the debt began.",
+              "text": ""
+            },
+            {
+              "title": "Written notice, balance breakdown and the agency’s role: hired collector or owner.",
+              "text": ""
+            },
+            {
+              "title": "Your province or territory and which consumer authority supervises collection conduct.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Written notice commonly identifies the agency, creditor and amount. Missing basics are a reason to verify, not disclose more."
+        },
+        {
+          "type": "heading",
+          "text": "HIGH-PRESSURE FRAUD SIGNALS"
+        },
+        {
+          "type": "paragraph",
+          "text": "End the call if someone demands gift cards, cryptocurrency, remote access, a banking password or PIN; threatens arrest; or refuses verification."
+        },
+        {
+          "type": "paragraph",
+          "text": "Preserve messages and report suspected fraud."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Call display proves the caller is legitimate.”",
+              "text": "Telephone identifiers can be manipulated. Confirm the organization through official contact information before paying or sharing sensitive data."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canadian Anti-Fraud Centre: Report fraud",
+          "url": "https://antifraudcentre-centreantifraude.ca/report-signalez-eng.htm"
+        }
+      ]
+    },
+    {
+      "id": "respond",
+      "title": "Use a Script That Matches the Situation",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A script keeps the call short enough to be useful. Speak calmly, make no promise you cannot keep and write down the response."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "FIRST CONTACT",
+              "text": "“Please give me your name, agency, telephone number, original creditor, claimed amount and the date the debt began. Send the details in writing. I will respond after checking my records.”",
+              "detail": "01"
+            },
+            {
+              "title": "UNFAMILIAR DEBT",
+              "text": "“I do not recognize this account. I am not agreeing that I owe it. Please send the creditor, account history and amount in writing.”",
+              "detail": "02"
+            },
+            {
+              "title": "DISPUTED AMOUNT",
+              "text": "“I recognize the account, but I dispute the amount because _____. I will send copies of my supporting records. Please note the dispute and reply in writing.”",
+              "detail": "03"
+            },
+            {
+              "title": "VALID BUT UNAFFORDABLE",
+              "text": "“I cannot safely pay the full amount today. After I review my budget, I can propose a schedule in writing. I will not agree to a payment I cannot maintain.”",
+              "detail": "04"
+            },
+            {
+              "title": "WRONG PERSON",
+              "text": "“I am not the person named on this account. Correct your records and tell me in writing what information you require through your official process.”",
+              "detail": "05"
+            },
+            {
+              "title": "WORKPLACE CALL",
+              "text": "“This workplace is not an appropriate contact point. Record my preferred contact information and your reference number. I am ending this call now.”",
+              "detail": "06"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A payment arrangement only works when the dates match cash flow. Follow any proposal in writing and keep receipts."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Saying ‘I cannot pay today’ means I should avoid the debt forever.”",
+              "text": "It means today’s demand is not a safe plan. Verify the debt, review essential expenses and propose only terms you can sustain."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Caution for older debts: a payment or written acknowledgement may affect legal rights in some jurisdictions. Obtain advice specific to your province or territory before agreeing."
+        }
+      ]
+    },
+    {
+      "id": "escalate",
+      "title": "Match the Complaint to the Collector",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start by identifying who owns the debt and who hired the collector. The correct regulator depends on that relationship."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Preserve notices, envelopes, voicemail, screenshots, receipts and a dated call log. Record the words used without editorial decoration.",
+              "text": ""
+            },
+            {
+              "title": "Raise it with the agency. State the event, concern, requested remedy and reply deadline to a supervisor or compliance contact.",
+              "text": ""
+            },
+            {
+              "title": "Contact the creditor if the agency acts for one, and provide the agency case number.",
+              "text": ""
+            },
+            {
+              "title": "Use the provincial or territorial consumer affairs office for debt sold to or collected by an agency.",
+              "text": ""
+            },
+            {
+              "title": "Use the financial institution’s complaint process when a federally regulated institution or its agent is collecting.",
+              "text": ""
+            },
+            {
+              "title": "Report suspected scams to the Canadian Anti-Fraud Centre and local police. Verify court documents promptly and obtain legal help when needed.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Federal contact-time and conduct rules described by FCAC apply to federally regulated financial institutions and parties collecting for them. Sold debts generally fall under provincial or territorial law."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Every collector in Canada follows the federal bank rules.”",
+              "text": "The collector-creditor relationship and jurisdiction determine which rules apply. Check the correct provincial, territorial or federal route."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "A caller gives a real bank’s name and demands payment now. What should you verify independently?",
+              "detail": "Verify the collector through official bank and agency contacts, then confirm the creditor, amount, history and authority.",
+              "text": ""
+            },
+            {
+              "title": "The account is yours but the amount is wrong. Which script and evidence should you use?",
+              "detail": "Use the disputed-amount script with copies of statements, receipts, cancellation records or other proof.",
+              "text": ""
+            },
+            {
+              "title": "A collector for a bank uses threatening language. Where does the complaint begin?",
+              "detail": "Preserve evidence and begin with the bank’s complaint process because federal protections apply to the bank and its collecting agent.",
+              "text": ""
+            },
+            {
+              "title": "A caller demands gift cards for an alleged tax debt. What are the next safe steps?",
+              "detail": "End the call, do not pay, verify independently, preserve evidence and report suspected fraud to CAFC and local police.",
+              "text": ""
+            },
+            {
+              "title": "Why can provincial or territorial advice matter before paying an old debt?",
+              "detail": "Limitation rules differ, and a payment or written acknowledgement may affect legal rights.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Verification is not avoidance. It separates a valid account, error, improper conduct and scam before you respond."
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Collection Call Control Record",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete this from the written notice and call notes. Keep full account numbers, passwords, PINs and identity-document numbers off this page."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "A useful call log captures who, when, what was said, what was promised and the next deadline. Memory rarely produces case numbers six weeks later."
+        },
+        {
+          "type": "takeaway",
+          "text": "Control the sequence.",
+          "detail": "Identify the caller, verify the account, respond in writing, document conduct and escalate through the correct jurisdiction. A genuine debt deserves an accurate, affordable plan; pressure does not improve the arithmetic."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Creditor",
+              "text": "The person or organization to whom money is owed."
+            },
+            {
+              "title": "Collection agency",
+              "text": "A business that recovers unpaid debts for a creditor or, in some cases, after purchasing the debt."
+            },
+            {
+              "title": "Debt purchaser",
+              "text": "A company that buys a debt and seeks to collect it as the new owner."
+            },
+            {
+              "title": "Federally regulated financial institution",
+              "text": "A bank, federal credit union or other financial institution supervised under federal law."
+            },
+            {
+              "title": "Consumer affairs office",
+              "text": "A provincial or territorial body that provides consumer information and may receive complaints about regulated businesses."
+            },
+            {
+              "title": "Limitation period",
+              "text": "A jurisdiction-specific time limit affecting when a creditor may use certain court remedies. It is separate from credit-report retention."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Every collector in Canada follows the federal bank rules.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Caller, agency, telephone number, address, date and time:",
+      "Original creditor, amount, debt date and collector role:",
+      "My independent verification source and result:",
+      "My records show mine / unfamiliar / paid / wrong amount because:",
+      "The exact script I will use:",
+      "If valid, the amount and schedule my budget supports:",
+      "Conduct documented, evidence saved and remedy requested:",
+      "Complaint or fraud route, reference and follow-up date:"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my answers and understand this is educational information."
+  },
+  "sources": []
+}

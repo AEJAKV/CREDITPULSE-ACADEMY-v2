@@ -160,6 +160,7 @@
           "type": "story",
           "text": "Maya and the $3,400 Winter",
           "detail": "PAID ON TIME · SCORE DROPPED ANYWAY",
+          "image": "/images/credit-mastery/01-starter/credit-01/credit01-image-1.webp",
           "paragraphs": [
             "Maya teaches preschool in Winnipeg. She has never missed a credit-card payment in her life, and she has a plan: replace her rusting hatchback in the spring without financing it until the next ice age.",
             "Then January does what January does. Her car needs a $3,400 repair, and a Winnipeg winter will not accept “I’m protecting my credit utilization” as a transportation plan.",
@@ -221,37 +222,30 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "chips",
+          "type": "split",
+          "text": "There is no secret “credit repair button.”",
           "items": [
             {
               "title": "Pay on time",
-              "text": ""
+              "text": "",
+              "icon": "shield"
             },
             {
               "title": "Manage balances",
-              "text": ""
+              "text": "",
+              "icon": "gauge"
             },
             {
               "title": "Build history",
-              "text": ""
+              "text": "",
+              "icon": "file"
             }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "There is no secret “credit repair button.”"
-        },
-        {
-          "type": "paragraph",
-          "text": "Some banks offer secured credit cards for people building or rebuilding credit. You put down money as security, then use the card like any other one and make the payments as they come due."
-        },
-        {
-          "type": "paragraph",
-          "text": "Owning a card marketed as credit-building fixes nothing on its own. What gets reported is what counts: the payments you make, the balances you carry, and how you run the account."
-        },
-        {
-          "type": "source",
-          "text": "TD secured credit cards",
+          ],
+          "paragraphs": [
+            "Some banks offer secured credit cards for people building or rebuilding credit. You put down money as security, then use the card like any other one and make the payments as they come due.",
+            "Owning a card marketed as credit-building fixes nothing on its own. What gets reported is what counts: the payments you make, the balances you carry, and how you run the account."
+          ],
+          "detail": "TD secured credit cards",
           "url": "https://www.td.com/ca/en/personal-banking/products/credit-cards/secured-credit-card"
         }
       ]

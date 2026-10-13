@@ -14,6 +14,9 @@ export type ReadingBlock = {
     | 'ordered'
     | 'chips'
     | 'accordions'
+    | 'carousel'
+    | 'lists'
+    | 'split'
     | 'story'
     | 'takeaway'
     | 'glossary'
@@ -22,9 +25,21 @@ export type ReadingBlock = {
   detail?: string;
   extra?: string;
   url?: string;
+  /** story: optional background photo (site-relative, under /images). */
+  image?: string;
+  /** story: index of the paragraph after which the items timeline is inserted. */
+  at?: number;
   paragraphs?: string[];
   /** image: optional site-relative photo under /images, used by artwork slides. */
-  items?: { title: string; text: string; detail?: string; image?: string }[];
+  /** carousel: icon is one of calendar, bank, files, book, search. lists: icon is check or alert; list holds the bullets. */
+  items?: {
+    title: string;
+    text: string;
+    detail?: string;
+    image?: string;
+    icon?: string;
+    list?: string[];
+  }[];
 };
 export type Tier = 0 | 1 | 2 | 3 | 4 | 5;
 export type Section = {

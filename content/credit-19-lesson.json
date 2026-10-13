@@ -1,0 +1,339 @@
+{
+  "title": "Credit Building for Newcomers",
+  "summary": "Identify → Open → Use → Verify → Graduate",
+  "subtitle": "Turn financial experience into a documented Canadian credit path",
+  "minutes": 50,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Passport brief",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "You can arrive with years of responsible money management and still receive the Canadian credit equivalent of “new phone, who is this?”"
+        },
+        {
+          "type": "paragraph",
+          "text": "A thin Canadian file is a documentation problem, not a character flaw. Preserve records, select one legitimate reporting product, protect due dates, control reported balances and review both bureau files. Do not collect applications like souvenir stamps."
+        },
+        {
+          "type": "spotlight",
+          "text": "Equifax and TransUnion build Canadian reports from activity reported in Canada. Foreign history does not automatically become a Canadian file, although some lenders may consider it."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "",
+              "text": "",
+              "icon": "check",
+              "list": [
+                "Separate a thin Canadian file from poor credit behaviour.",
+                "Prepare identity, income, banking and international-credit evidence.",
+                "Compare newcomer and secured-card offers by fees, deposit terms and reporting.",
+                "Build a twelve-month routine around payment history, low use and selective applications.",
+                "Complete a first-year credit roadmap with report-review dates."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“No Canadian score means I have bad credit.”",
+              "text": "A limited or unscoreable file may just lack enough Canadian history. It is not the same as missed payments or excessive debt."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Credit-report and score basics",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html"
+        },
+        {
+          "type": "transition",
+          "text": "A thin file is a paperwork gap, not a verdict on years of responsible money management.",
+          "detail": "Collecting the right five stamps, in order, is what turns years of foreign credit history into a Canadian file a lender can read.",
+          "extra": "Your first passport stamps start now."
+        }
+      ]
+    },
+    {
+      "id": "stamps",
+      "title": "Your First Passport Stamps",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A bank account supports everyday records, but normally does not build a score by itself. A file starts when a reporting organization sends eligible account information."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "STAMP 1 · PRESERVE EVIDENCE",
+              "text": "Keep an international report where available, bank reference letters, income proof, rental records, savings history and current identity documents. A lender decides what it accepts.",
+              "detail": "01"
+            },
+            {
+              "title": "STAMP 2 · CHOOSE ONE PRODUCT",
+              "text": "Ask whether it reports to Equifax, TransUnion or both. Compare annual fees, interest, deposit, upgrade and cancellation before applying.",
+              "detail": "02"
+            },
+            {
+              "title": "STAMP 3 · PROTECT THE DUE DATE",
+              "text": "Set alerts and automatic minimum protection. Pay the statement balance in full when affordable. A secured-card deposit is collateral, not payment.",
+              "detail": "03"
+            },
+            {
+              "title": "STAMP 4 · KEEP USE MODEST",
+              "text": "FCAC suggests trying to use less than 30% of total available credit. Lower reported use may help, especially with a small limit.",
+              "detail": "04"
+            },
+            {
+              "title": "STAMP 5 · VERIFY REPORTING",
+              "text": "After several update cycles, obtain both reports. Checking your own file is a soft inquiry and does not lower your score.",
+              "detail": "05"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A secured card builds history only if the issuer reports and you manage it well. The deposit does not erase interest, fees or missed payments."
+        },
+        {
+          "type": "spotlight",
+          "text": "An authorized user may spend, but FCAC says those purchases do not build the user’s credit history."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Applying for several cards will build history faster.”",
+              "text": "Multiple applications can create hard inquiries, fees and more due dates. One affordable reporting account can create useful history."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Choosing a credit card",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/choose-credit-card.html"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Amina’s File Was New; Her Habits Were Not",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Amina",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Amina Yusuf moved to Winnipeg for a project-coordinator job with savings, steady employment and strong foreign credit. Her Canadian report was nearly blank, the financial version of a freshly painted apartment: clean, promising and containing absolutely no furniture.",
+            "An apartment application, card decline and expensive “instant Canadian credit” ads created pressure to apply repeatedly. Instead, Amina built a Credit Passport with her international report, employer letter, pay stubs, lease, bank reference and identification.",
+            "She compared a newcomer card and secured card, asked which bureaus received updates and chose one low-limit product. A small transit charge, payment alerts and automatic minimum protection created a simple routine.",
+            "Amina paid in full, kept reported use low and declined store cards. After several cycles, she checked both files. One showed the account; the other misspelled her surname. She corrected it officially and retained confirmation.",
+            "At year-end there was no cinematic score reveal. There was just a stable Canadian file, preserved international evidence and no expensive collection of beginner products."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Amina protected one account long enough for accurate Canadian history to develop."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "A single reporting path, reliable documents and scheduled bureau checks replaced application urgency with a repeatable plan."
+        },
+        {
+          "type": "transition",
+          "text": "Amina's report was blank, not empty, and one misspelled surname almost cost her the difference.",
+          "detail": "A checked report caught the error a rushed application never would have, which is the whole case for verifying instead of guessing.",
+          "extra": "The first-year roadmap turns her routine into a calendar next."
+        }
+      ]
+    },
+    {
+      "id": "roadmap",
+      "title": "The First-Year Roadmap",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Advance by evidence, not score chasing."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "DAYS 1–30 · SET THE BASE",
+              "text": "Open essential banking, learn fees, create a payment calendar and preserve records from abroad. Do not buy optional products merely because ‘newcomer’ is on the brochure."
+            },
+            {
+              "title": "MONTHS 1–3 · OPEN CAREFULLY",
+              "text": "Choose one reporting product after comparing cost, limit, deposit, bureau reporting and cancellation or upgrade rules."
+            },
+            {
+              "title": "MONTHS 3–6 · CREATE A CLEAN PATTERN",
+              "text": "Make every required payment on time, keep use modest and avoid borrowing just to make the account look active."
+            },
+            {
+              "title": "MONTHS 6–12 · AUDIT AND PREPARE",
+              "text": "Review both reports, correct errors and retain proof. For a major loan, bring income, savings and international-credit evidence."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "CMHC newcomer guidance allows alternative evidence of creditworthiness in qualifying cases. This can include an international report or financial-institution reference. Full underwriting still applies."
+        },
+        {
+          "type": "spotlight",
+          "text": "A successful roadmap controls payments, balances and records. No score or approval date is guaranteed."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A foreign credit score converts directly into the same Canadian score.”",
+              "text": "Canadian bureaus use Canadian activity. Some lenders may review foreign reports or references, but there is no universal conversion shortcut."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Difference between a thin Canadian file and poor credit?",
+              "detail": "A thin file lacks enough Canadian reported history; a poor file contains negative behaviour such as missed payments or excessive debt.",
+              "text": ""
+            },
+            {
+              "title": "What should you verify before choosing a newcomer or secured card?",
+              "detail": "Fees, interest, deposit rules, limit, cancellation/upgrade terms and whether it reports to Equifax, TransUnion or both.",
+              "text": ""
+            },
+            {
+              "title": "Does a secured-card deposit replace monthly payment?",
+              "detail": "No. It protects the issuer; the card bill remains payable.",
+              "text": ""
+            },
+            {
+              "title": "Why is one manageable product often stronger than several applications?",
+              "detail": "It can create useful history with fewer inquiries, fees and due dates.",
+              "text": ""
+            },
+            {
+              "title": "Which records may help a lender assess limited Canadian history?",
+              "detail": "International reports, bank references, income, savings, rental records and current identity documents, subject to lender policy.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "CMHC: Newcomers",
+          "url": "https://www.cmhc-schl.gc.ca/consumers/home-buying/newcomers"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Canadian Credit Passport",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Record document names and partial references only. Exclude SINs, passwords, PINs, immigration-document and full account numbers."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Your passport records one useful account, protected due dates, modest use and both reports reviewed."
+        },
+        {
+          "type": "takeaway",
+          "text": "A new Canadian file does not mean inexperienced financial habits.",
+          "detail": "Preserve useful international evidence, choose one affordable Canadian reporting path, protect every due date, keep use modest and verify both reports before pursuing larger credit."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Thin file",
+              "text": "A credit file with too little reported information for a robust lending assessment or score."
+            },
+            {
+              "title": "Reporting product",
+              "text": "A credit account whose issuer sends account information to one or both Canadian credit bureaus."
+            },
+            {
+              "title": "Secured credit card",
+              "text": "A card backed by a security deposit; the borrower still owes the monthly balance."
+            },
+            {
+              "title": "Credit utilization",
+              "text": "The reported revolving balance compared with the available credit limit."
+            },
+            {
+              "title": "Hard inquiry",
+              "text": "A lender’s credit check connected with an application that may affect the score."
+            },
+            {
+              "title": "Soft inquiry",
+              "text": "A credit check, such as reviewing your own report, that does not affect the score."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “No Canadian score means I have bad credit.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "First-year goal and real-life decision:",
+      "Identity, income, banking, rental and international records:",
+      "One product—fees, deposit and bureaus reported to:",
+      "Alert, automatic minimum and statement-balance routine:",
+      "Limit, normal reported balance and utilization check:",
+      "Equifax/TransUnion review dates and corrections:",
+      "Applications or high-fee shortcuts to decline:",
+      "3-, 6- and 12-month evidence checkpoints:"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": []
+}

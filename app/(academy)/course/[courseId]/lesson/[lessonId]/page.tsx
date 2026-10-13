@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { notFound, redirect } from 'next/navigation';
 import { Clock3, ShieldCheck, Check, ChevronRight, LockKeyhole } from 'lucide-react';
 import { requireAccount } from '@/lib/auth';
-import { canAccess, getCourse, segmentLessons, tiers, segmentNames } from '@/lib/catalog';
+import { canAccess, courses, getCourse, segmentLessons, tiers, segmentNames } from '@/lib/catalog';
 import { getContent } from '@/lib/store';
 import { CheckIn, SaveLesson } from '@/components/forms';
 import { Progress, TierBadge } from '@/components/ui';
@@ -14,6 +14,22 @@ import { TierGlyph } from '@/components/visuals';
 // Lesson id → background photo for the lesson hero (files live under public/images).
 const heroImages: Record<string, string> = {
   'credit-01': '/images/credit-mastery/01-starter/credit-01/hero-image.webp',
+  'credit-02': '/images/credit-mastery/01-starter/credit-02/hero-image.webp',
+  'credit-03': '/images/credit-mastery/01-starter/credit-03/hero-image.webp',
+  'credit-04': '/images/credit-mastery/01-starter/credit-04/hero-image.webp',
+  'credit-05': '/images/credit-mastery/02-silver/credit-05/hero-image.webp',
+  'credit-06': '/images/credit-mastery/02-silver/credit-06/hero-image.webp',
+  'credit-07': '/images/credit-mastery/02-silver/credit-07/hero-image.webp',
+  'credit-08': '/images/credit-mastery/02-silver/credit-08/hero-image.webp',
+  'credit-09': '/images/credit-mastery/03-gold/credit-09/hero-image.webp',
+  'credit-10': '/images/credit-mastery/03-gold/credit-10/hero-image.webp',
+  'money-01': '/images/money-budgeting/01-starter/money-01/hero-image.webp',
+  'money-02': '/images/money-budgeting/01-starter/money-02/hero-image.webp',
+  'money-03': '/images/money-budgeting/01-starter/money-03/hero-image.webp',
+  'money-04': '/images/money-budgeting/01-starter/money-04/hero-image.webp',
+  'money-05': '/images/money-budgeting/02-silver/money-05/hero-image.webp',
+  'money-06': '/images/money-budgeting/02-silver/money-06/hero-image.webp',
+  'money-07': '/images/money-budgeting/02-silver/money-07/hero-image.webp',
   'benefits-01': '/images/benefits-support/01-starter/benefits-01/hero-image.webp',
 };
 export async function generateMetadata({
@@ -104,9 +120,8 @@ export default async function LessonPage({
               <TierGlyph tier={lesson.tier} size={110} />
             </span>
             <div className="eyebrow">
-              {lesson.id === 'credit-01'
-                ? 'COURSE 1.1 · CREDIT FOUNDATIONS'
-                : course.segmentNames[lesson.tier]}
+              COURSE {courses.findIndex((c) => c.id === course.id) + 1}.{lesson.number} ·{' '}
+              {course.short.toUpperCase()} FOUNDATIONS
             </div>
             <h1>{content.title}</h1>
             {content.subtitle && <p className="lesson-subtitle">{content.subtitle}</p>}
@@ -157,6 +172,7 @@ export default async function LessonPage({
                       <SourceCheckIn
                         courseId={course.id}
                         lessonId={lesson.id}
+                        courseNumber={`${courses.findIndex((c) => c.id === course.id) + 1}.${lesson.number}`}
                         {...content.checkIn}
                         name={user.name}
                         email={user.email}

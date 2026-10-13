@@ -1,0 +1,188 @@
+# Payment History
+
+Raw verbatim backup. Old: course-1-8 (/course/payment-history) -> new: credit-mastery / 02-silver / credit-08
+
+- Subtitle: Your Due Date Is Boring. That Is Exactly Why It Matters.
+- Duration (old): see data file; stored as minutes: 40
+- Deck / summary: Payment history rewards reliability. Build a system that still works when life gets busy.
+
+## Start here
+
+[paragraph] A due date is not dramatic. It does not arrive with theme music or a tiny financial referee.
+
+[paragraph] It only asks whether the required payment arrived on time. That quiet answer matters more to your credit history than almost anything else on your file.
+
+[paragraph] Payment history is the record of whether you paid on time, on the accounts that get reported to the credit bureaus. The Financial Consumer Agency of Canada calls it the most important part of a credit score. TransUnion adds that a score can weigh missed or late payments, how long they stayed unpaid, and how often they happened.
+
+[source] FCAC: Paying your bills on time
+  url: https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html
+
+[source] TransUnion Canada: 5 Factors That Affect Your Credit Score
+  url: https://www.transunion.ca/what-affect-credit-score
+
+[spotlight] Payment history rewards reliability, and reliability comes from a system rather than a heroic memory. Build one that still works when life gets busy and three bills decide to share the same Tuesday.
+
+[transition] Payment history is the biggest single factor in your score, and the easiest one to protect.
+  detail: You will learn exactly what to do when you cannot pay in full, and how to build a system that survives a busy month.
+  extra: Section 06 is a rescue drill you run against a real Friday deadline.
+
+## The Payment Rescue Scenario
+
+[paragraph] It is Wednesday night and Priya has opened her credit-card statement, which is rarely how anyone hopes a Wednesday ends. The balance is $1,200. The minimum payment is $40. The due date is Friday, and payday is Monday. After rent, groceries and transit, she has nowhere near $1,200.
+
+[paragraph] Here is the thought that does the real damage: if I cannot pay all of it, why bother paying any of it? That single thought turns a cash-flow problem into a payment-history problem, and the second one stays on your file for years.
+
+[paragraph] Priya pays the $40 on Thursday and lets the rest wait for Monday. Her month is still tight. Her payment record is not. The rescue is always the same move: separate what is required now from what would be ideal later.
+
+[cards]
+  - RESCUE 1 | CHECK THE DUE DATE — Confirm the exact due date, minimum payment and how long your payment method takes to process.
+  - RESCUE 2 | PROTECT THE REQUIRED PAYMENT — If you cannot pay the full balance, FCAC advises making at least the minimum payment by the due date.
+  - RESCUE 3 | PAY MORE ONLY IF IT IS SAFE — Paying extra cuts the debt and the interest, but do not drain money you need for essentials just to make the statement look prettier.
+  - RESCUE 4 | CALL EARLY IF THE MINIMUM IS AT RISK — Call the lender as soon as you think you will struggle. Ask what options exist before the account falls further behind.
+
+[spotlight] The minimum payment is the emergency line, not the finish line. It can keep the account from going unpaid this month, but paying only the minimum keeps the debt around far longer.
+
+[artwork]
+  - Separating the required minimum payment from the full statement balance. — Separating the required minimum payment from the full statement balance. (/images/credit-mastery/02-silver/credit-08/credit08-image-1.webp)
+  - Building a payment system that still works during a busy week. — Building a payment system that still works during a busy week. (/images/credit-mastery/02-silver/credit-08/credit08-image-2.webp)
+
+## Partial Payment vs. Full Payment: What Actually Changes?
+
+[paragraph] This is where people often mix three different questions: Was the required payment made? Will interest be charged? What balance is still being reported?
+
+[cards]
+  - FULL STATEMENT BALANCE — Paying the full statement balance by the due date usually avoids interest on ordinary purchases, when the card’s grace-period rules apply. It also leaves less revolving debt behind. What it does not do is earn you a secret full-payment bonus in a credit score.
+  - AT LEAST THE MINIMUM — If the full balance is out of reach, paying at least the required minimum by the due date protects the payment itself. Interest can still apply, and whatever is left over can still affect other things, such as your utilization.
+  - LESS THAN THE MINIMUM — Sending something beats sending nothing toward the debt, but anything under the required minimum may not meet the monthly requirement. Read the statement and the lender’s terms. Do not assume a partial amount counts as an on-time minimum payment.
+
+[source] FCAC: Interest and grace periods
+  url: https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/credit-card-work.html
+
+[spotlight] Payment history and debt payoff are related questions, but they are not the same one. Paying on time protects your record. Paying more reduces the balance. A single payment can do both, and the score still does not publish bonus points for style.
+
+## Build a Payment Safety System
+
+[paragraph] Memory is useful. A backup system is better. Build enough layers that one busy week does not become an accidental missed payment.
+
+[cards]
+  - Make one due-date list. — Record every credit account, due date and required minimum in one place.
+  - Use two reminders. — Set one reminder several days before the due date, and a second one close to the payment date.
+  - Consider automatic minimum payments. — If the lender offers it and your funding account is reliable, autopay adds a useful backup layer.
+  - Keep the funding account ready. — A flawless automatic payment with no money behind it is just an organized bounced payment.
+  - Run a weekly five-minute review. — Check the withdrawals coming up, the payments that went out, and anything that changed.
+  - Verify, do not assume. — A replacement card, a changed account number or a short balance can all break automation. Check that the payment cleared.
+
+[spotlight] Autopay is a seat belt, not a chauffeur. It can protect you, but you still need to make sure the funding account has money and the payment actually went through.
+
+[heading] Quick Myth Check
+
+[myths]
+  - “I have to pay the full balance for the payment to count as on time.” — FCAC says to make at least the minimum if you cannot pay the full amount. Paying in full has other benefits, mainly less interest and less debt, but payment history starts with meeting the required payment on time.
+  - “I paid $20, so it counts even though my minimum was $45.” — A payment under the required minimum can still leave the account short. The minimum on your statement is the number you have to meet, unless the lender has agreed to something else.
+  - “One late payment ruins my credit forever.” — Late payments do hurt, and late or unpaid card and loan information can stay on a Canadian credit report for up to six years. That is serious, but it is not permanent. Steady the account and rebuild the habit.
+  - “Autopay means I never need to check the account again.” — Automatic payments can fail. Confirm the funding account and verify that the payment cleared.
+  - “If I am disputing a charge, I can skip the required payment.” — FCAC advises against skipping a payment because a charge is in dispute. Keep the required payments going while it gets sorted out, unless your lender agrees otherwise.
+
+[source] FCAC: How long information stays on your credit report
+  url: https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/information-credit-report.html
+
+[transition] A missed payment is not the end of the story, and the next section is why.
+  detail: You will learn how to bring a late account back, and how to repair the exact weak point that let the payment slip.
+  extra: Keep going. This is the part that turns a bad month into a recoverable one.
+
+## If a Payment Is Already Missed: Rescue, Then Repair
+
+[paragraph] A missed payment is not improved by avoiding the app until it develops better manners. Act quickly and deal with the account that exists today.
+
+[carousel]
+  - RESCUE 1 | PAY WHAT IS PAST DUE — Bring the account current as fast as you safely can. FCAC suggests dealing with past-due accounts before speeding up other debt repayment. (/images/credit-mastery/02-silver/credit-08/credit08-image-3.webp)
+  - RESCUE 2 | CONTACT THE LENDER — Explain what happened, then ask about the account status, what arrangements exist, and what happens next. (/images/credit-mastery/02-silver/credit-08/credit08-image-4.webp)
+  - RESCUE 3 | FIX THE FAILURE POINT — Was it a forgotten date, a short balance, a changed card number, a gap in income, or autopay itself? Repair that exact weak point. (/images/credit-mastery/02-silver/credit-08/credit08-image-5.webp)
+  - RESCUE 4 | CHECK THE RECORD — Once the usual reporting updates land, read your credit reports and check them. If something is wrong, use the dispute process from Course 1.4. (/images/credit-mastery/02-silver/credit-08/credit08-image-6.webp)
+
+[source] FCAC: Paying back your debt — Past due accounts
+  url: https://www.canada.ca/en/financial-consumer-agency/services/debt/paying-debt.html
+
+[spotlight] A missed payment calls for speed rather than panic. Pay the past-due amount as soon as you safely can, call the lender, then repair whatever part of your system failed.
+
+[heading] When Money Is Tight: Protect the Whole Household
+
+[paragraph] Do not create a second emergency to make one credit card look tidy. Protect the essentials first: housing, food, utilities, insurance, and the transport you need to get to work. Keep required debt payments current where you can, and call your creditors early if several bills are turning into a problem.
+
+[paragraph] FCAC recommends choosing a repayment schedule you can keep to. An aggressive plan that causes fresh missed payments defeats the point of having a plan. If the debt is getting away from you, consider talking to a reputable credit counsellor or a Licensed Insolvency Trustee.
+
+[heading] PAYMENT RESCUE RULE
+
+[paragraph] Do not skip rent, groceries, medication or another essential expense simply to chase a prettier credit score. Credit repair is supposed to stabilize your finances, not audition for a survival show.
+
+## Quick Check: What Would You Rescue First?
+
+[accordions]
+  - Your statement balance is $900, the minimum is $35, and you can safely pay $120 before the due date. => Pay at least $35 on time. Paying $120 clears more debt, if your budget can take it.
+  - Your minimum is $50 and you paid $25. => Do not assume you are covered. Another $25 is still owed, unless the lender agrees to something else.
+  - Today you realise next week’s minimum may be impossible. => Call the lender now. Do not wait for the due date to become a historical document.
+  - Autopay is scheduled, but the funding account looks short. => Move money in, or arrange another safe payment, then check the result.
+  - A purchase is being disputed. => Keep the required payments going, unless the lender tells you otherwise.
+
+[takeaway] Strong payment history comes from repeatable systems.
+  detail: Know the minimum, protect the due date, and pay more when you can safely afford it. Check that your automation worked, and call the lender early when trouble is coming.
+
+[spotlight] The strongest payment plan is pleasantly boring. You know the due dates, you protect the minimums, you check the automation, and you handle problems before they turn into surprises.
+
+## Your Action (Fill Out Form): Payment Rescue Drill
+
+[paragraph] The scenario: Alex has a $1,500 statement balance, a $60 minimum payment due Friday, and $220 left after the essentials.
+
+[paragraph] Payday is Monday. Work the problem now, before Friday turns dramatic.
+
+[checkin] (see Check-in below)
+
+## Glossary
+
+  - Payment history — The record of whether your reported credit accounts get paid on time.
+  - Due date — The date your lender has to receive the required payment by.
+  - Minimum payment — The smallest payment required for a billing period.
+  - Statement balance — The balance shown when a billing period closes.
+  - Current balance — The balance showing right now, which may differ from the statement balance.
+  - Grace period — A window where eligible purchases can avoid interest, if you meet the required conditions.
+  - Past due / arrears — A payment or an account that has not been paid by the date it was due.
+  - Automatic payment — A payment set to run on its own from a funding account.
+  - Returned payment — A payment that does not clear, often because the funding account is short.
+  - Creditor / lender — The bank or company you owe the money to.
+  - Credit bureau — A company that maintains credit information. Equifax and TransUnion are Canada’s two main bureaus.
+
+## Check-in
+
+11. FIRST PRIORITY. What is the smallest amount Alex has to pay by Friday?
+12. PARTIAL PAYMENT. If Alex pays $100 by Friday, is the minimum covered? And what is still true of the rest of the balance?
+13. TOO LITTLE. Alex pays $40 and has no arrangement with the lender. What is the problem?
+14. FULL PAYMENT MYTH. Does paying the whole $1,500 earn extra score points, compared with simply paying on time?
+15. AUTOPAY CHECK. Alex has autopay scheduled, but the bank account holds $25. What should Alex do before the due date?
+16. EARLY WARNING. Alex expects less income next month. When should Alex call the lender?
+17. SYSTEM FIX. Name two things Alex could set up so this does not happen again.
+18. PRIORITY TEST — Why shouldn't Alex use rent or grocery money to pay off the whole card today?
+
+Reward: Complete this activity and get $5 plus 20 Credit Pulse points
+Acknowledgment: I reviewed my answers and understand that this is educational information, not financial advice.
+
+## Quiz (derived: not in old project)
+
+True or False: “I have to pay the full balance for the payment to count as on time.”
+Answer: False
+
+## Source files (OLD project, read-only)
+
+- lib/course-18-data.js
+- components/PaymentHistoryCourse.jsx
+
+## Image mapping
+
+| Old | New (public/images/credit-mastery/02-silver/credit-08/) | Role |
+|---|---|---|
+| starter images/course-1-8/herobg.webp | hero-image.webp | hero |
+| caro1.8.1.webp | credit08-image-1.webp | artwork slide 1 (rescue carousel) |
+| caro1.8.2.webp | credit08-image-2.webp | artwork slide 2 (rescue carousel) |
+| 4caro1.webp | credit08-image-3.webp | repair carousel card 1 |
+| 4caro2 (2).webp | credit08-image-4.webp | repair carousel card 2 (the component loads "4caro2 (2).webp"; 4caro2.webp is a byte-identical duplicate, unused) |
+| 4caro3.webp | credit08-image-5.webp | repair carousel card 3 |
+| 4caro4.webp | credit08-image-6.webp | repair carousel card 4 |

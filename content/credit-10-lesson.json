@@ -1,0 +1,573 @@
+{
+  "title": "The 90-Day Credit Improvement Plan",
+  "summary": "Three campaigns. Thirty days each. Build a credit routine sturdy enough to survive ordinary life.",
+  "subtitle": "Your Credit File Does Not Need a Makeover Montage. It Needs a Mission.",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A 90-day credit plan is not a promise that a score will rise by a specific number."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bureaus and lenders use different formulas, lenders report on different schedules, and true bad news does not vanish because a calendar received an inspiring speech."
+        },
+        {
+          "type": "paragraph",
+          "text": "What 90 days can give you is control. You can check what sits on both reports, fix the real errors, protect every required payment, bring down the balances you can afford to bring down, hold off on applications you do not need, and find out whether your systems held."
+        },
+        {
+          "type": "paragraph",
+          "text": "Think of it as a mission with three campaigns, each lasting 30 days. You are not aiming for perfection. You are building a credit routine sturdy enough to survive ordinary life, including the week when every bill suddenly remembers your email address."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Credit report and score basics",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "A score is one measurement taken on one day. Your 90-day mission tracks the facts and habits underneath it, which are the parts you can check and repeat."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Recording a baseline credit report before starting the 90-day mission.",
+              "text": "Recording a baseline credit report before starting the 90-day mission.",
+              "image": "/images/credit-mastery/03-gold/credit-10/credit10-image-1.webp"
+            },
+            {
+              "title": "Tracking facts and behaviours over the course of the mission.",
+              "text": "Tracking facts and behaviours over the course of the mission.",
+              "image": "/images/credit-mastery/03-gold/credit-10/credit10-image-2.webp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Mission Briefing: Define a Win You Can Prove"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "MISSION OBJECTIVE",
+              "text": "Build a more accurate, steadier credit file over 90 days, using actions you can repeat."
+            },
+            {
+              "title": "WIN CONDITION",
+              "text": "No new missed payments, fewer high balances you could have avoided, real errors fixed or written up, only the applications you needed, and a review system that works."
+            },
+            {
+              "title": "NOT THE MISSION",
+              "text": "Chasing a guaranteed point increase, disputing information that is true, opening accounts as a quick fix, or skipping essentials to make a score look prettier."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Ninety days is enough to fix what is wrong and prove that you did.",
+          "detail": "You will learn which errors are worth fighting, and how to tell at the end whether your plan did anything.",
+          "extra": "Section 06 turns this into a dated mission plan with four check-in points."
+        }
+      ]
+    },
+    {
+      "id": "campaign-one",
+      "title": "Campaign One — Days 1–30: Establish the Truth",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "DAYS 1–30 · ESTABLISH THE TRUTH"
+        },
+        {
+          "type": "paragraph",
+          "text": "Build the baseline before changing the plan."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first month is for looking, not panicking. Get your Equifax report and your TransUnion Consumer Disclosure. Reading your own report or score does not affect your credit score. The bureaus keep separate files, so read both rather than treating one as the master copy."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Save the baseline.",
+              "text": "Write down the date, the source and the score shown, where there is one. The score a lender uses may differ from the one you see."
+            },
+            {
+              "title": "Read the facts.",
+              "text": "Review identity details, accounts, payment status, balances, limits, inquiries and serious negative items."
+            },
+            {
+              "title": "Use three labels.",
+              "text": "Green means accurate and steady. Yellow means check it or watch it. Red means act now, such as an account you do not know, or a late payment you did not make."
+            },
+            {
+              "title": "Calculate utilization.",
+              "text": "Check the overall percentage and each revolving account, so one nearly maxed card cannot hide inside a comfortable total."
+            },
+            {
+              "title": "Build one due-date system.",
+              "text": "List every required payment, minimum and processing time in one place, then add reminders or automatic minimums where they help."
+            },
+            {
+              "title": "Choose three priorities.",
+              "text": "Limit the first mission list to the actions with the clearest value. Ten urgent priorities are usually zero priorities wearing matching jackets."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Getting your credit report and credit score",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/order-credit-report.html"
+        },
+        {
+          "type": "heading",
+          "text": "DAY-30 CHECKPOINT"
+        },
+        {
+          "type": "paragraph",
+          "text": "By now you should have both reports, a dated baseline, one payment calendar, your utilization worked out, and no more than three priorities."
+        },
+        {
+          "type": "spotlight",
+          "text": "Equifax and TransUnion both give you free online access to your credit report. Reading your own information does not lower your score, so the first move is to look, not to apply."
+        },
+        {
+          "type": "story",
+          "text": "Jordan and the Twelve-Item Sunday",
+          "detail": "THE MISSION WITH TWELVE PRIORITIES",
+          "image": "/images/credit-mastery/03-gold/credit-10/credit10-image-3.webp",
+          "paragraphs": [
+            "Jordan’s mortgage broker told him to clean up his credit before applying in the spring. That is the kind of advice that sounds helpful right up until you sit down to do it.",
+            "He starts on a Sunday with two credit reports, four browser tabs and the confidence of someone who has not yet met the paperwork.",
+            "By lunch the plan has twelve priorities: dispute everything negative, open a new card, close an old card, move three balances, and somehow become financially serene by Tuesday.",
+            "Then Jordan asks the only question that matters on a Sunday like this one. Which of these solves a problem I can prove?",
+            "Three survive. One false late payment, with a bank record behind it. One card sitting near its limit. One due date he has missed before, because the reminder was never reliable.",
+            "The new plan is far less dramatic, which is the point. Credit improvement is mostly a series of quiet jobs done in the right order. The mission works because Jordan can explain every action on the list, not because the list has achieved impressive wingspan.",
+            "He applied in April. The broker never asked about the other nine."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Jordan cut twelve priorities down to three, and that is why his plan worked.",
+          "detail": "You will learn how to build a dispute that gets somewhere, and how to protect every payment while you do it.",
+          "extra": "Keep going. Campaigns Two and Three are where the plan does its work."
+        }
+      ]
+    },
+    {
+      "id": "campaign-two",
+      "title": "Campaign Two — Days 31–60: Correct and Stabilize",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "DAYS 31–60 · CORRECT AND STABILIZE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fix verified errors and protect the habits that matter most."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Dispute only genuine errors.",
+              "text": "Gather statements, receipts or other proof. Send the bureau a focused dispute that shows the error, and contact the lender too when that helps."
+            },
+            {
+              "title": "Track the case.",
+              "text": "Record submission dates, case numbers, documents sent, replies and the next follow-up date."
+            },
+            {
+              "title": "Protect payment history.",
+              "text": "Make the required payments on time. If you cannot afford the full amount, pay at least the minimum, and call the lender early when even that looks hard."
+            },
+            {
+              "title": "Reduce balance pressure safely.",
+              "text": "Send spare money you can afford to the account with the highest utilization, without missing essentials or other required payments."
+            },
+            {
+              "title": "Pause unnecessary applications.",
+              "text": "New credit should solve a real need, rather than add movement to a plan that already has plenty."
+            },
+            {
+              "title": "Review statements weekly.",
+              "text": "Confirm payments cleared, balances are moving as expected and no unfamiliar activity has appeared."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Checking your credit report for errors and fraud",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/check-errors.html"
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Improving your credit score",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html"
+        },
+        {
+          "type": "heading",
+          "text": "DAY-60 CHECKPOINT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every real dispute has proof and a case trail. Your payment safeguards have been tested. The priority balance has a plan you can keep to. Applications you do not need are on hold."
+        },
+        {
+          "type": "spotlight",
+          "text": "Credit bureaus must correct errors free of charge, but bad news that happens to be true is not an error. A strong dispute names one wrong fact and backs the correction with proof."
+        }
+      ]
+    },
+    {
+      "id": "campaign-three",
+      "title": "Campaign Three — Days 61–90: Verify and Continue",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "DAYS 61–90 · VERIFY AND CONTINUE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Measure the result, repair weak systems and choose the next habits."
+        },
+        {
+          "type": "heading",
+          "text": "VERIFICATION ROUND"
+        },
+        {
+          "type": "split",
+          "text": "Compare the evidence before you decide",
+          "paragraphs": [
+            "The last month is not a victory lap around one score. Lenders update on different schedules, and the number you see can move for several reasons. Compare the evidence before you decide whether the mission worked."
+          ],
+          "items": [
+            {
+              "title": "Different schedules",
+              "text": "",
+              "icon": "file"
+            },
+            {
+              "title": "Score can shift",
+              "text": "",
+              "icon": "gauge"
+            },
+            {
+              "title": "Compare evidence",
+              "text": "",
+              "icon": "file"
+            }
+          ]
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "Review dispute outcomes.",
+              "text": "Check whether the corrected facts now show on the bureau file, or whether you still need to follow up.",
+              "detail": "STEP 1",
+              "icon": "filecheck"
+            },
+            {
+              "title": "Test the payment system.",
+              "text": "Check whether reminders, automatic minimums and funding-account reviews worked for every due date.",
+              "detail": "STEP 2",
+              "icon": "calendar"
+            },
+            {
+              "title": "Recalculate utilization.",
+              "text": "Use the balances and limits reported now. Write down the overall figure, and any account still carrying most of its limit.",
+              "detail": "STEP 3",
+              "icon": "dollar"
+            },
+            {
+              "title": "Review inquiries and accounts.",
+              "text": "Confirm that no unnecessary or unfamiliar credit activity appeared during the mission.",
+              "detail": "STEP 4",
+              "icon": "search"
+            },
+            {
+              "title": "Record behaviour wins.",
+              "text": "Count the new missed payments, the errors still open, the high-utilization accounts, the new hard inquiries, and the payment systems that passed their test.",
+              "detail": "STEP 5",
+              "icon": "check"
+            },
+            {
+              "title": "Choose the next three behaviours.",
+              "text": "Continue the habits that produced control. A 90-day finish line should become a routine, not a trap door.",
+              "detail": "STEP 6",
+              "icon": "list"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "DAY-90 CHECKPOINT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Compare the baseline with the current reports and behaviour scorecard. Schedule the next review before the mission folder disappears into a drawer with three warranty booklets."
+        },
+        {
+          "type": "spotlight",
+          "text": "A score can rise, fall or sit still while the file underneath it changes. Judge the mission on checked accuracy, protected payments, lower balances and fewer needless applications, rather than on one number."
+        }
+      ]
+    },
+    {
+      "id": "control",
+      "title": "Mission Control: What to Protect, Correct, Reduce, Avoid and Verify",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "PROTECT",
+              "text": "Every required payment and the household essentials that keep the plan sustainable."
+            },
+            {
+              "title": "CORRECT",
+              "text": "Only information that is wrong, incomplete or not yours, and only with clear proof behind it."
+            },
+            {
+              "title": "REDUCE",
+              "text": "High revolving balances, where a payment you can afford lowers utilization without causing a cash crisis."
+            },
+            {
+              "title": "AVOID",
+              "text": "Unnecessary applications, panic closures, paid quick fixes and new debt that does not solve the problem."
+            },
+            {
+              "title": "VERIFY",
+              "text": "That payments went through, that reporting updated, how the disputes ended, and whether the routine can carry on past Day 90."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The best plan protects payment history first. A balance-reduction goal that causes a missed required payment has promoted the wrong employee."
+        },
+        {
+          "type": "heading",
+          "text": "Quick Myth Check"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A 90-day plan can guarantee a 100-point increase.”",
+              "text": "No. The formulas are not public, reporting schedules differ, and a lender may use a different score. An honest plan promises actions and measurement, not points."
+            },
+            {
+              "title": "“I should dispute every negative item to see what disappears.”",
+              "text": "No. Dispute what you believe is wrong. Bad news that is true can stay, because a dispute is an accuracy process, not an eraser lottery."
+            },
+            {
+              "title": "“Carrying a balance and paying interest helps build credit.”",
+              "text": "Paying interest earns you no special credit-building benefit. What counts is payment history, balances, utilization and how you run the account. Interest you could have avoided just adds cost."
+            },
+            {
+              "title": "“Closing an older paid-off card always improves my score.”",
+              "text": "Not automatically. Closing cuts your available credit and can shorten your credit history. Weigh the fees, how manageable it is, the spending risk and your utilization first."
+            },
+            {
+              "title": "“If my score barely moves by Day 90, the mission failed.”",
+              "text": "Not necessarily. Reporting may still be catching up, true bad news may remain, or another change may have cancelled out the progress. Checked accuracy and steady habits still count."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "If the Number Has Not Moved Much"
+        },
+        {
+          "type": "paragraph",
+          "text": "Before changing the entire plan, investigate the timing and the file:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reporting timing — Have lenders reported the newer balances and payments yet?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Two-file status — Do the dispute corrections show at both bureaus, where they should?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Accurate history — Is bad news that happens to be true still weighing on the file?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Offsetting activity — Did a new account, a hard inquiry or a higher balance land in the same period?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sustainability — Can these habits run another 90 days without squeezing your essentials?"
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: Do you know your credit score?",
+          "url": "https://www.transunion.ca/credit-score"
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Mission or Distraction?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "A false late payment has supporting bank records.",
+              "detail": "Mission action: build a focused dispute case.",
+              "text": ""
+            },
+            {
+              "title": "A social-media service promises a guaranteed 120-point increase.",
+              "detail": "Distraction. No honest provider controls exact scoring results.",
+              "text": ""
+            },
+            {
+              "title": "One card is at high utilization, but an extra payment would leave rent short.",
+              "detail": "Protect the essentials and the required payments, then pick a reduction you can keep up.",
+              "text": ""
+            },
+            {
+              "title": "Your score is similar on Day 90, but you missed no payments and corrected two errors.",
+              "detail": "That is real progress. Check the reporting timing and carry on.",
+              "text": ""
+            },
+            {
+              "title": "A checkout discount offers another card during the mission.",
+              "detail": "Apply only if the account has a clear long-term purpose and fits the plan. Otherwise, pause.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "A strong 90-day plan gets the facts right, steadies your payments and balances, limits needless applications, checks the results, and keeps the habits that worked.",
+          "detail": "Aim for control and consistency, not a guaranteed number."
+        },
+        {
+          "type": "spotlight",
+          "text": "The mission ends with a decision, not a trophy: keep the systems that worked, repair the ones that failed and choose the next three behaviours deliberately."
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): 90-Day Mission Plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pick a start date and a Day-90 review date."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use initials or short account names in your notes. Never write a full account number, a password or an ID number here."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Baseline",
+              "text": "The dated starting point you compare later results against."
+            },
+            {
+              "title": "Consumer credit report",
+              "text": "Your personal record of credit accounts, balances, payment history, inquiries and related details."
+            },
+            {
+              "title": "Consumer Disclosure",
+              "text": "TransUnion’s name for the version of your credit file made for you."
+            },
+            {
+              "title": "Credit score",
+              "text": "A three-digit number worked out from your credit report on a given day."
+            },
+            {
+              "title": "Payment history",
+              "text": "The record of whether your reported credit accounts get paid on time."
+            },
+            {
+              "title": "Credit utilization",
+              "text": "How much revolving credit you are using, compared with the limit available."
+            },
+            {
+              "title": "Hard inquiry",
+              "text": "A credit check tied to seeking new credit, which may affect your score."
+            },
+            {
+              "title": "Dispute",
+              "text": "A formal request to investigate and correct something you believe is wrong."
+            },
+            {
+              "title": "Reporting cycle",
+              "text": "The schedule a lender follows when sending updated account information to a bureau."
+            },
+            {
+              "title": "Score factor",
+              "text": "A category of credit-report information that can influence a scoring model."
+            },
+            {
+              "title": "Credit bureau",
+              "text": "A company that maintains credit information. Equifax and TransUnion are Canada’s two main bureaus."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “A 90-day plan can guarantee a 100-point increase.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "MISSION DATES. What are your four check-in dates: start, Day 30, Day 60 and Day 90?",
+      "BASELINE. Which two reports will you use, and when did you pull them?",
+      "THREE PRIORITIES. Name one thing to protect, one to fix or check, and one balance or habit to lower.",
+      "PAYMENT DEFENCE. How will you make sure every required payment goes out on time?",
+      "DISPUTE FILE — If there's an error: what's wrong, what proof do you have, and when will you follow up?",
+      "BALANCE PLAN — Which account needs the most attention, and how much can you safely pay toward it?",
+      "APPLICATION RULE — Finish the sentence: For 90 days, I'll only apply for new credit when ___.",
+      "COMMITMENT — Finish the sentence: Over the next 90 days, I will protect ___, fix ___, avoid ___, and verify ___.",
+      "Your Day-90 Scorecard — Compare your baseline to Day 90: missed payments, overall utilization, high-utilization accounts, unresolved errors, new hard inquiries, and payment systems you tested."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my plan and understand that this is educational information, not financial advice."
+  },
+  "sources": []
+}

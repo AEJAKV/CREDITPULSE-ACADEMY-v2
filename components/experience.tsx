@@ -1,5 +1,6 @@
 'use client';
 import { useEffect, useState } from 'react';
+import { createPortal } from 'react-dom';
 import { usePathname } from 'next/navigation';
 import { Maximize2, Minimize2, Type } from 'lucide-react';
 import { tiers, segmentLessons, segmentComplete } from '@/lib/catalog';
@@ -128,7 +129,11 @@ export function ReaderTools({ sections }: { sections: { id: string; title: strin
   const [percent, setPercent] = useState(0),
     [active, setActive] = useState(sections[0]?.id),
     [focus, setFocus] = useState(false),
-    [large, setLarge] = useState(false);
+    [large, setLarge] = useState(false),
+    [slot, setSlot] = useState<HTMLElement | null>(null);
+  useEffect(() => {
+    setSlot(document.getElementById('topbar-slot'));
+  }, []);
   useEffect(() => {
     let frame = 0;
     function update() {
@@ -160,35 +165,41 @@ export function ReaderTools({ sections }: { sections: { id: string; title: strin
   }, [sections]);
   return (
     <>
-      <div className="reader-toolbar">
-        <span className="reader-status">
-          <span className="status-dot" /> {percent}% read
-        </span>
-        <div>
-          <button
-            className="button quiet"
-            aria-pressed={large}
-            onClick={() => {
-              setLarge(!large);
-              document.body.dataset.largeText = String(!large);
-            }}
-          >
-            <Type size={17} />
-            <span>Text size</span>
-          </button>
-          <button
-            className="button quiet"
-            aria-pressed={focus}
-            onClick={() => {
-              setFocus(!focus);
-              document.body.dataset.focus = String(!focus);
-            }}
-          >
-            {focus ? <Minimize2 size={17} /> : <Maximize2 size={17} />}
-            <span>{focus ? 'Exit focus' : 'Focus mode'}</span>
-          </button>
-        </div>
-      </div>
+      {slot &&
+        createPortal(
+          <div className="reader-toolbar">
+            <span className="reader-status">
+              <span className="status-dot" /> {percent}% read
+            </span>
+            <div>
+              <button
+                className="button quiet"
+                aria-pressed={large}
+                aria-label="Text size"
+                onClick={() => {
+                  setLarge(!large);
+                  document.body.dataset.largeText = String(!large);
+                }}
+              >
+                <Type size={17} />
+                <span>Text size</span>
+              </button>
+              <button
+                className="button quiet"
+                aria-pressed={focus}
+                aria-label={focus ? 'Exit focus mode' : 'Focus mode'}
+                onClick={() => {
+                  setFocus(!focus);
+                  document.body.dataset.focus = String(!focus);
+                }}
+              >
+                {focus ? <Minimize2 size={17} /> : <Maximize2 size={17} />}
+                <span>{focus ? 'Exit focus' : 'Focus mode'}</span>
+              </button>
+            </div>
+          </div>,
+          slot,
+        )}
       <div className="reader-meter" aria-hidden="true">
         <span style={{ width: `${percent}%` }} />
       </div>

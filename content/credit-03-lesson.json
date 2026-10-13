@@ -1,0 +1,501 @@
+{
+  "title": "Reading Your Canadian Credit Report",
+  "summary": "This lesson is a guided walkthrough. You will move through the report in five stops: identity, credit accounts, codes and labels, inquiries, and serious items.",
+  "subtitle": "Your Credit Report Is a File. Let’s Teach It to Speak Human.",
+  "minutes": 40,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A Canadian credit report can look like a committee treated plain English as an optional upgrade."
+        },
+        {
+          "type": "paragraph",
+          "text": "The good news: you do not have to read it like a novel—or understand every line on the first pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "This lesson is a guided walkthrough. You will move through the report in five stops: identity, credit accounts, codes and labels, inquiries, and serious items. At each stop, your only job is to answer a few simple questions before moving on."
+        },
+        {
+          "type": "paragraph",
+          "text": "FCAC describes a credit report as a summary of how you have used credit. It can hold your personal details, your credit accounts, balances, payment history, collections, public records and inquiries. The report is the file. A credit score is a number worked out from what sits in that file."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Credit report and score basics",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "Your credit report and your credit score are related, but they are not the same thing. Read the report whenever you want the facts sitting behind the number."
+        },
+        { "type": "heading", "text": "Your Five-Stop Report Map" },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Identity",
+              "text": "Does the personal information make sense?",
+              "detail": "STOP 1"
+            },
+            {
+              "title": "Accounts",
+              "text": "Do I recognize each account, and what does each field say?",
+              "detail": "STOP 2"
+            },
+            {
+              "title": "Codes & Labels",
+              "text": "Can I translate the important account into plain language?",
+              "detail": "STOP 3"
+            },
+            {
+              "title": "Inquiries",
+              "text": "Which checks relate to applications, and which do not?",
+              "detail": "STOP 4"
+            },
+            {
+              "title": "Serious Items",
+              "text": "What needs context, evidence or prompt follow-up?",
+              "detail": "STOP 5"
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Read this properly once, and a credit report never intimidates you again.",
+          "detail": "You will learn to read every part that matters, and to tell an ordinary entry from one that needs dealing with today.",
+          "extra": "Section 05 is where every item on your report gets a green, yellow or red label."
+        }
+      ]
+    },
+    {
+      "id": "identity",
+      "title": "Confirm Your Identity Information",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start with the easy landmarks: your name, your date of birth, addresses old and new, phone details and any employer listed. Not every report shows every field, and old details can stay on as part of your history."
+        },
+        {
+          "type": "paragraph",
+          "text": "An address you once lived at is not the same as one you have never seen. Treat details you do not recognize as a clue worth checking, especially when they sit next to an account you do not know. Just do not leap from odd to fraud before you have actually looked."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "Name · Date of birth · Addresses · Phone · Employer",
+              "detail": "IDENTITY CHECK",
+              "text": "",
+              "icon": "check",
+              "list": ["Familiar history is one thing. Details you have never seen are another."]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accounts",
+      "title": "Review Every Credit Account",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Now move to the accounts, which your report may also call tradelines. Read one account from top to bottom before you start the next. Trying to compare six at once is how perfectly reasonable people end up arguing with a PDF."
+        },
+        {
+          "type": "paragraph",
+          "text": "For each account, find these seven fields when they are available:"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Creditor or lender name.",
+              "text": "Who is reporting this account? The legal company name can differ from the brand you remember."
+            },
+            {
+              "title": "Account type.",
+              "text": "Is it a credit card, line of credit, instalment loan, mortgage or another reported credit account?"
+            },
+            {
+              "title": "Date opened.",
+              "text": "Does the timing make sense for an account that belongs to you?"
+            },
+            {
+              "title": "Reported balance.",
+              "text": "How much was shown as owing when the lender’s information was captured?"
+            },
+            {
+              "title": "Credit limit or original amount.",
+              "text": "On revolving credit, look for the limit. On a loan, the report may show the original amount instead."
+            },
+            {
+              "title": "Payment history.",
+              "text": "Does the account show payments as agreed, or does it report late or missed ones?"
+            },
+            {
+              "title": "Account status.",
+              "text": "Is it shown as open, closed, paid, transferred, in collection, or something else?"
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Credit report and score basics",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html"
+        },
+        {
+          "type": "source",
+          "text": "Equifax Canada: What information is in a credit report?",
+          "url": "https://www.equifax.ca/personal/education/credit-report/articles/-/learn/what-information-is-in-a-credit-report/"
+        },
+        {
+          "type": "spotlight",
+          "text": "Before you decide a balance is wrong, check the date printed beside it. Your banking app shows you today, while the credit report may still be showing a snapshot from last week."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Checking your own credit information does not lower your credit score.",
+              "text": "Checking your own credit information does not lower your credit score.",
+              "image": "/images/credit-mastery/01-starter/credit-03/credit03-image-1.webp"
+            },
+            {
+              "title": "Read the report for the facts behind the number.",
+              "text": "Read the report for the facts behind the number.",
+              "image": "/images/credit-mastery/01-starter/credit-03/credit03-image-2.webp"
+            }
+          ]
+        },
+        { "type": "heading", "text": "A 30-Second Account Translation" },
+        {
+          "type": "paragraph",
+          "text": "Say a made-up entry reads: Maple Card Services, opened March 2022, balance $620, limit $3,000, updated last month, status current."
+        },
+        { "type": "heading", "text": "PAUSE & TRANSLATE" },
+        {
+          "type": "quote",
+          "text": "Say it in one sentence: “This is my credit card. It was opened in 2022. The report shows a $620 balance on a $3,000 limit, the information was updated last month, and the account is shown as current.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you cannot explain an important account in a sentence or two, mark it for follow-up. Nobody needs you to become a bureau-code historian. You only need to know what the account is saying about you."
+        }
+      ]
+    },
+    {
+      "id": "codes",
+      "title": "Decode Codes and Labels Carefully",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Reports use abbreviations, account labels, ratings and status wording, and the formats change over time. Use the legend that came with the report in front of you, rather than a chart from some social post that appears to have been designed during a Wi-Fi outage."
+        },
+        {
+          "type": "paragraph",
+          "text": "You are translating, not memorizing. Account type, who owns it, the dates, the balance, the limit, the payment history and the current status. If a code changes what one of those facts means, look it up in the bureau’s own current guide."
+        },
+        {
+          "type": "spotlight",
+          "text": "The report’s own legend beats a memorized chart from the internet every time. Layouts and labels change, so read the version in front of you."
+        },
+        { "type": "heading", "text": "Quick Myth Check" },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My credit report and credit score are basically the same document.”",
+              "text": "The report holds the information on your credit file. The score is a separate number, worked out from that information."
+            },
+            {
+              "title": "“An old address on my report automatically means identity theft.”",
+              "text": "An address you really lived at is normal history. One you never used is worth checking, especially if other unfamiliar details show up with it."
+            },
+            {
+              "title": "“Every inquiry listed on my consumer report is a hard credit application.”",
+              "text": "Your disclosure lists application inquiries alongside account reviews, non-credit checks and your own visits. They do not all touch your score the same way."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: Consumer Disclosure",
+          "url": "https://www.transunion.ca/product/consumer-disclosure"
+        },
+        {
+          "type": "story",
+          "text": "Nadia and the Very Loud Credit Report",
+          "detail": "FOUR EXPLANATIONS · ONE REAL PROBLEM",
+          "image": "/images/credit-mastery/01-starter/credit-03/credit03-image-3.webp",
+          "paragraphs": [
+            "Nadia is moving in six weeks, and the new landlord wants a credit report. She has never actually read one. How bad can it be.",
+            "Bad, apparently. Inside a minute she finds an employer she left in 2019, a lender she has never heard of, a card balance higher than the one in her banking app, and an inquiry section that looks like it invited friends.",
+            "For about thirty seconds, every line feels equally urgent. This is the moment most people close the tab.",
+            "Nadia does not. She goes back to the top and walks the five stops, one at a time.",
+            "The old employer is history, not an error. The lender she has never heard of turns out to be the finance company behind a store card she has had for years. The balance was reported before her last payment landed. Most of those inquiries were never applications at all.",
+            "Four down. But one application inquiry still makes no sense to her, and rereading it a fourth time does not help.",
+            "That one gets a red label and a follow-up this week. Nadia did not ignore the strange things on her report. She sorted the explainable strange from the important strange, which turns out to be a genuinely useful adult skill.",
+            "She sent the landlord the report. He did not ask about the employer from 2019."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Two stops left, and they are the two that decide what you do on Monday.",
+          "detail": "You will learn which credit checks actually count against you, and how to read the heavy sections without your stomach dropping.",
+          "extra": "Keep going. This is where a frightening report turns into a short to-do list."
+        }
+      ]
+    },
+    {
+      "id": "inquiries",
+      "title": "Inquiries & serious items",
+      "paragraphs": [],
+      "blocks": [
+        { "type": "heading", "text": "Separate Inquiry Types" },
+        {
+          "type": "paragraph",
+          "text": "An inquiry is a record that someone looked at your credit information for an approved reason. The ones tied to a credit application can affect your score. Your own requests to see your file, along with account reviews and non-credit checks, do not affect it the same way."
+        },
+        {
+          "type": "paragraph",
+          "text": "TransUnion says its Consumer Disclosure lists every inquiry made to your credit information, including account reviews, non-credit checks and the times you looked yourself. A crowded inquiry section is not evidence of a crowded month of applications."
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: What is a credit report?",
+          "url": "https://www.transunion.ca/credit-report"
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: Consumer Disclosure",
+          "url": "https://www.transunion.ca/product/consumer-disclosure"
+        },
+        {
+          "type": "spotlight",
+          "text": "Checking your own credit information does not lower your score. In the inquiry section, start with the application checks you do not recognize, and leave the rest for later."
+        },
+        { "type": "heading", "text": "Review Serious Items Without Shame" },
+        {
+          "type": "paragraph",
+          "text": "A report can hold collection records, bankruptcy or insolvency records, and some court or public-record information. These sections feel heavier than the rest of the file. The method does not change: check who owns it, the dates, the amount, the current status, and whether it looks accurate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not work out a reporting period from memory. How long something stays on a report depends on the item, the bureau, and the rules in your province or territory. If the timing matters to you, check the current official guidance before deciding it should have dropped off by now."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: How long information stays on your credit report",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/information-credit-report.html"
+        },
+        { "type": "heading", "text": "Finish With Green, Yellow or Red" },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "GREEN",
+              "text": "I know this one, the dates make sense, and it looks accurate."
+            },
+            {
+              "title": "YELLOW",
+              "text": "I think I know it, but I need a statement, a report date or a lender name before I decide."
+            },
+            {
+              "title": "RED",
+              "text": "It is not mine, or it is clearly wrong, or it could be a sign of fraud. This one gets looked at today, not next month."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep your first follow-up list to three items. A 47-item colour-coded masterpiece that never gets acted on is still, unfortunately, a 47-item colour-coded masterpiece."
+        },
+        {
+          "type": "spotlight",
+          "text": "FCAC recommends checking your reports from both Equifax and TransUnion for errors and fraud. Reading both gives you the fuller picture of what is being reported about you."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Checking your credit report for errors and fraud",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/check-errors.html"
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: What Would You Do Next?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Your report shows an old address where you really lived",
+              "detail": "Recognize it as possible historical information; verify it rather than treating it as instant fraud.",
+              "text": ""
+            },
+            {
+              "title": "Your report balance is higher than the one in your banking app, but the report date is two weeks old",
+              "detail": "Check the report date and your recent payments before you call it an error.",
+              "text": ""
+            },
+            {
+              "title": "A finance company name looks unfamiliar, but the account details match your store card",
+              "detail": "Check who owns that brand before you decide the account is not yours.",
+              "text": ""
+            },
+            {
+              "title": "Your Consumer Disclosure lists several inquiries",
+              "detail": "Sort the ones tied to applications from account reviews, non-credit checks and your own visits.",
+              "text": ""
+            },
+            {
+              "title": "A credit card and a recent application inquiry are both completely unfamiliar",
+              "detail": "Red label. Check it now, and follow the bureau or lender fraud steps if neither one is yours.",
+              "text": ""
+            }
+          ]
+        },
+        { "type": "heading", "text": "Your Turn" },
+        {
+          "type": "paragraph",
+          "text": "Open one current report and work through a single complete walkthrough. You are not here to fix everything today. You are here to close the report knowing what is green, what still needs context, and what needs doing this week."
+        },
+        {
+          "type": "takeaway",
+          "text": "Read your report in layers: identity, accounts, codes, inquiries and serious items.",
+          "detail": "Dates and ownership come before panic. You are not here to memorize every abbreviation. You are here to know what belongs to you, what looks accurate, and what needs following up."
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Guided Report Walkthrough",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use a real report if you feel comfortable doing so, but never write full account numbers, your SIN or other private identifiers into course notes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Write your answer down before you check it against the guide."
+        },
+        { "type": "checkin" },
+        { "type": "heading", "text": "You have the method. Now go and get the file." },
+        {
+          "type": "paragraph",
+          "text": "Both Canadian credit bureaus let you request your own report. Reading your own file is a soft inquiry, so it leaves your credit score exactly where it is."
+        },
+        {
+          "type": "source",
+          "text": "myEquifax: Request your Equifax Canada credit report.",
+          "url": "https://my.equifax.ca/"
+        },
+        {
+          "type": "source",
+          "text": "TransUnion: Request your TransUnion Consumer Disclosure.",
+          "url": "https://www.transunion.ca/product/consumer-disclosure"
+        },
+        {
+          "type": "paragraph",
+          "text": "FCAC recommends reading both. These links open each bureau’s own site in a new tab."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Credit report",
+              "text": "A summary of your personal, financial and credit history that describes how you have used credit."
+            },
+            {
+              "title": "Credit bureau",
+              "text": "A company that collects and maintains credit information about you. Canada has two major bureaus: Equifax and TransUnion."
+            },
+            {
+              "title": "Tradeline / credit account",
+              "text": "One reported credit account, such as a card, a line of credit or a loan."
+            },
+            {
+              "title": "Report date",
+              "text": "The date attached to the account information shown on your report."
+            },
+            {
+              "title": "Reported balance",
+              "text": "The balance the lender reported to the bureau, which may not match what your account shows today."
+            },
+            {
+              "title": "Credit limit",
+              "text": "The most you are approved to borrow on a revolving account, such as a credit card."
+            },
+            {
+              "title": "Account status",
+              "text": "How the account is described right now, such as open, closed, paid or transferred."
+            },
+            {
+              "title": "Payment history",
+              "text": "The record of whether your payments were reported as made on time, or as late or missed."
+            },
+            {
+              "title": "Inquiry",
+              "text": "A record that someone looked at your credit information for an approved reason."
+            },
+            {
+              "title": "Hard / credit-related inquiry",
+              "text": "An inquiry tied to applying for credit, which may affect your credit score."
+            },
+            {
+              "title": "Soft / non-score-impacting inquiry",
+              "text": "An inquiry that does not affect your score, such as checking your own file or an account review."
+            },
+            {
+              "title": "Consumer Disclosure",
+              "text": "The TransUnion file prepared for you, which lists every category of inquiry TransUnion records."
+            },
+            {
+              "title": "Collection",
+              "text": "A debt reported as having been passed to a collection agency."
+            },
+            {
+              "title": "Dispute",
+              "text": "A request to investigate something on your credit report that you believe is wrong or incomplete."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Every inquiry listed on my consumer report is a hard credit application.”",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "IDENTITY CHECK. Name one personal detail you confirmed. Did it make sense?",
+      "PLAIN-ENGLISH TRANSLATION. Explain one account in a sentence or two, as if you were describing it to a friend.",
+      "INQUIRY SCAN. Name one inquiry you recognize, or one you would check. What kind of check does it look like?",
+      "TRIAGE. Pick one item and label it Green, Yellow or Red. What is your next step?"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I have checked my answers, and I understand this course teaches, but does not give financial advice."
+  },
+  "sources": []
+}

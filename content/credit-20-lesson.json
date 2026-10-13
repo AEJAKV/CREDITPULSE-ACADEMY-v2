@@ -1,0 +1,356 @@
+{
+  "title": "Credit Building After Divorce",
+  "summary": "Inventory → Stabilize → Separate → Verify → Rebuild",
+  "subtitle": "Separate access, responsibility and reporting before rebuilding alone",
+  "minutes": 55,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Separation brief",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The relationship can end on Friday. The joint line of credit may remain extremely committed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Map every account. Do not confuse access, legal responsibility, lender contracts and family-law arrangements. Protect payment continuity, contact institutions, review both reports and build an independent file. Family law varies, so this organizes questions and evidence. It does not replace a lawyer or safety professional."
+        },
+        {
+          "type": "spotlight",
+          "text": "A separation agreement can assign responsibility between former partners, but does not automatically remove a name from a lender contract. The lender must approve contractual change."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "",
+              "text": "",
+              "icon": "check",
+              "list": [
+                "Classify accounts by borrower role, access and current status.",
+                "Protect required payments while lender-approved changes are arranged.",
+                "Distinguish an authorized user from a co-borrower, guarantor or joint holder.",
+                "Identify when legal advice, lender action or a safety plan must come first.",
+                "Complete a joint-file separation plan and independent-credit roadmap."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The divorce order automatically removes me from every joint debt.”",
+              "text": "An order or agreement may allocate responsibility, but a lender contract remains until release, refinance, sale, payout or another approved change."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Justice Canada: Divorce and separation",
+          "url": "https://www.justice.gc.ca/eng/fl-df/divorce/index.html"
+        },
+        {
+          "type": "transition",
+          "text": "A separation agreement can settle who owes what between two people, but a lender still needs its own approval.",
+          "detail": "Listing every account by role, not by memory, is what protects both former partners while lenders and lawyers finish the paperwork.",
+          "extra": "Build the joint-file inventory next, account by account."
+        }
+      ]
+    },
+    {
+      "id": "inventory",
+      "title": "Build the Joint-File Inventory",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "spotlight",
+          "text": "FCAC says co-borrowers are equally responsible for a joint card balance. An authorized user is not responsible for repayment and that use does not build the user’s history."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "If safety is at risk, use a safe device and channel. Seek qualified support before confronting anyone or changing shared arrangements.",
+              "text": ""
+            },
+            {
+              "title": "Download statements and both reports. List mortgages, loans, cards, lines, overdrafts, utilities, guarantees and pre-authorized payments.",
+              "text": ""
+            },
+            {
+              "title": "Record legal names, access holders, balance, payment date, institution, contact record and decision required.",
+              "text": ""
+            },
+            {
+              "title": "Protect minimum or required payments while legal and lender-approved changes are negotiated. A missed joint payment may affect more than one file.",
+              "text": ""
+            },
+            {
+              "title": "Secure individual email, mobile and banking credentials. Do not transfer, close or drain joint assets without understanding contract, law and safety implications.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A joint bank account gives each holder access under its rules. All holders may be responsible for transactions and overdraft debt."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "SOLE BORROWER",
+              "text": "WHO MAY OWE: Named borrower — WHO MAY TRANSACT: Named borrower and permitted users — FIRST ACTION: Secure access; keep required payments current."
+            },
+            {
+              "title": "CO-BORROWER",
+              "text": "WHO MAY OWE: Each borrower may be fully responsible — WHO MAY TRANSACT: According to the agreement — FIRST ACTION: Request statements; contact lender about approved options."
+            },
+            {
+              "title": "AUTHORIZED USER",
+              "text": "WHO MAY OWE: Primary cardholder — WHO MAY TRANSACT: User until removed — FIRST ACTION: Remove access through issuer; replace card if required."
+            },
+            {
+              "title": "JOINT BANK ACCOUNT",
+              "text": "WHO MAY OWE: All holders may share overdraft liability — WHO MAY TRANSACT: Each holder under account rules — FIRST ACTION: Review transactions, overdraft and bank restrictions."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Removing a card from my wallet removes my responsibility.”",
+              "text": "Physical access and contractual liability differ. A co-borrower or guarantor remains responsible until the creditor confirms change in writing."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Joint credit cards",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-cards/joint-credit-card.html"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Melanie and the Account That Missed the Memo",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Melanie",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Melanie Roy and Daniel Chen separated after twelve years in Halifax. Their draft agreement said Daniel would pay the joint line while Melanie covered childcare. They believed the credit question was solved. The lender, not invited to family meetings and lacking emotional intuition, still had two borrowers on one contract.",
+            "A payment was missed in month one. Daniel expected automatic withdrawal from the joint account; Melanie had moved her pay and expected him to replace funding. Both received a late notice. Daniel also remained an additional user on Melanie’s card, and joint chequing had overdraft.",
+            "Melanie built an inventory rather than conducting financial archaeology through texts. She downloaded statements, checked reports and classified the primary card, joint line, joint chequing, mortgage and individual accounts. She contacted each institution and recorded references, restrictions and documents.",
+            "With legal advice, they created interim payments until creditors confirmed changes. The card user was removed and number replaced. The line lender would not release either borrower, so they kept it current pending payout from property settlement. Mortgage options went through the lender and lawyers.",
+            "Months later, the joint line was paid and closed in writing, housing was completed formally and Melanie had an individual reporting account. Every account had an owner, payment, document and review date."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Melanie separated access, contractual responsibility, family-law allocation, payment status and credit reporting."
+        },
+        {
+          "type": "heading",
+          "text": "What resolved the conflict?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The inventory exposed every role and due date. Interim payments protected both files while lenders and lawyers completed formal changes."
+        },
+        {
+          "type": "transition",
+          "text": "An agreement between two people does not bind a lender who was never asked to sign it.",
+          "detail": "Melanie's interim-payment plan protected both credit files while the lenders and lawyers finished their own separate approvals.",
+          "extra": "Stabilize, separate and rebuild starts now."
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "title": "Stabilize, Separate and Rebuild",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "SAFETY AND ACCESS",
+              "text": "If economic abuse, coercion or identity misuse may be present, prioritize safety first. Seek legal advice and secure, confidential communications.",
+              "detail": "1"
+            },
+            {
+              "title": "PAYMENT CONTINUITY",
+              "text": "Keep required payments current when possible and contact creditors early. Record who paid, when and from which account.",
+              "detail": "2"
+            },
+            {
+              "title": "LENDER-APPROVED SEPARATION",
+              "text": "Ask what is required for release, refinance, assumption, payout, sale or closure. Get final change and balance in writing.",
+              "detail": "3"
+            },
+            {
+              "title": "BUREAU VERIFICATION",
+              "text": "Review Equifax and TransUnion after changes. Dispute incorrect ownership, balances, history or unfamiliar accounts.",
+              "detail": "4"
+            },
+            {
+              "title": "INDEPENDENT REBUILDING",
+              "text": "Use an individual budget, emergency reserve and one affordable reporting account if needed. Avoid urgent high-cost replacement debt.",
+              "detail": "5"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A financial institution’s right of offset may allow deposits to cover overdue debt at that institution and may apply to some joint accounts. Read agreements and ask."
+        },
+        {
+          "type": "spotlight",
+          "text": "Checking both reports can reveal stale joint balances, unfamiliar inquiries or incorrect addresses before the next lender does."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Closing every older account immediately is always best for my score.”",
+              "text": "Access and safety may require closure, but closing an older individual account can reduce available credit or history. Decide account by account; safety and legal obligations come first."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Why can a separation agreement fail to remove lender liability?",
+              "detail": "It allocates responsibility between former partners; the creditor must separately approve changes to its lending contract.",
+              "text": ""
+            },
+            {
+              "title": "Who is generally responsible for authorized-user purchases?",
+              "detail": "The primary cardholder. FCAC says the authorized user is not responsible for the balance.",
+              "text": ""
+            },
+            {
+              "title": "What happens to required joint payments while changes are pending?",
+              "detail": "Keep them current when possible under a documented interim schedule until the lender confirms formal changes.",
+              "text": ""
+            },
+            {
+              "title": "Why review deposits and debts at one institution together?",
+              "detail": "A right-of-offset clause may permit deposits to cover overdue debt, including in some joint-account situations.",
+              "text": ""
+            },
+            {
+              "title": "What takes priority when economic abuse or coercive control may be present?",
+              "detail": "Personal safety, confidential support and qualified legal or community guidance, not confrontation or score optimization.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Banking protections and right of offset",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/banking/rights-new-protections/consumer-protection-framework.html"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action: Joint-File Separation Plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use partial references and store securely. Exclude passwords, PINs, full accounts, SINs and information that creates safety risk."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "A complete plan gives every account four anchors: responsibility, access, payment protection and written confirmation of the next change."
+        },
+        {
+          "type": "takeaway",
+          "text": "Separate the contract, access, payments and reporting, account by account.",
+          "detail": "Protect safety and required payments first, obtain lender-approved changes in writing, verify both credit files and rebuild independently only after shared obligations are controlled."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Co-borrower",
+              "text": "A person who signed a credit agreement and is responsible for the borrowed balance."
+            },
+            {
+              "title": "Authorized user",
+              "text": "A person allowed to use a primary cardholder’s account without being a co-borrower."
+            },
+            {
+              "title": "Joint account",
+              "text": "A deposit account shared by two or more holders under the institution’s account rules."
+            },
+            {
+              "title": "Guarantor",
+              "text": "A person who promises to repay a debt if the borrower does not, according to the agreement."
+            },
+            {
+              "title": "Right of offset",
+              "text": "A contractual right allowing a financial institution to apply deposits to an overdue debt. This applies in qualifying circumstances."
+            },
+            {
+              "title": "Economic abuse",
+              "text": "Use of money or resources to control, exploit or harm another person."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “The divorce order automatically removes me from every joint debt.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "Immediate safety, secure communication and support needs:",
+      "Sole, joint, co-borrowed, guaranteed and user accounts:",
+      "Access holder, borrower, balance, limit and payment date:",
+      "Payments and pre-authorized transactions to protect:",
+      "Release, refinance, payout, sale or closure steps:",
+      "Equifax/TransUnion findings, disputes and follow-up:",
+      "Individual budget, emergency buffer and reporting plan:",
+      "Legal, lender and account appointments, owners and deadlines:"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information and safety comes first."
+  },
+  "sources": []
+}

@@ -1,0 +1,490 @@
+{
+  "title": "Credit Utilization",
+  "summary": "Understand the math before trying to “optimize” anything.",
+  "subtitle": "Credit Utilization Is Just a Fraction Wearing a Business Suit.",
+  "minutes": 40,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Credit utilization sounds like it should require a calculator, a spreadsheet and permission from someone in accounting."
+        },
+        {
+          "type": "paragraph",
+          "text": "In reality it is one ratio: how much revolving credit you are using, compared with how much you have available."
+        },
+        {
+          "type": "paragraph",
+          "text": "The important word is compared. A $1,000 balance is not high or low on its own. On a $2,000 limit it uses half your available credit. On a $10,000 limit it uses a tenth. The debt is identical and the percentage is not close."
+        },
+        {
+          "type": "paragraph",
+          "text": "FCAC calls this your credit utilization rate, or credit use. Lenders look at it because using a large slice of your available credit month after month can read as riskier, even if you clear the balance later."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Improving your credit score — Using your credit wisely",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "Utilization is a ratio, not a debt contest. The same dollar balance tells a different story depending on the limit sitting behind it."
+        },
+        { "type": "heading", "text": "Welcome to the Utilization Math Lab" },
+        {
+          "type": "paragraph",
+          "text": "This lab has one rule: understand the math before you try to optimize anything. We will work out one account, compare several of them, test the 30% guideline, look at reporting timing, then build a safe plan for bringing the ratio down."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "MEASURE ONE ACCOUNT",
+              "text": "Divide the reported balance by the credit limit, then multiply by 100.",
+              "detail": "LAB 1"
+            },
+            {
+              "title": "FIND THE HOT SPOT",
+              "text": "Work out each revolving account on its own, so one nearly maxed card cannot hide inside a comfortable average.",
+              "detail": "LAB 2"
+            },
+            {
+              "title": "MEASURE THE TOTAL",
+              "text": "Add open revolving balances and limits, then calculate the overall working ratio.",
+              "detail": "LAB 3"
+            },
+            {
+              "title": "CHECK THE SNAPSHOT",
+              "text": "Compare the balance on your credit report with the one you see today, because the reporting dates can differ.",
+              "detail": "LAB 4"
+            },
+            {
+              "title": "CHANGE ONE VARIABLE",
+              "text": "Test what paying down a balance, moving a limit or closing an account does to the math, before you act on it.",
+              "detail": "LAB 5"
+            },
+            {
+              "title": "BUILD A SAFE PLAN",
+              "text": "Bring utilization down without missing a required payment, an essential bill or another financial priority.",
+              "detail": "LAB 6"
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Understand this one fraction and you stop guessing which card to pay first.",
+          "detail": "You will learn to work it out in seconds, and to spot the nearly maxed card hiding behind a comfortable-looking average.",
+          "extra": "Section 06 is a math lab where you run the numbers on your own cards."
+        }
+      ]
+    },
+    {
+      "id": "formula",
+      "title": "Lab 1: The Formula Without the Fog",
+      "paragraphs": [],
+      "blocks": [
+        { "type": "heading", "text": "THE FORMULA" },
+        { "type": "quote", "text": "Utilization (%) = reported balance / credit limit × 100" },
+        {
+          "type": "paragraph",
+          "text": "Suppose a credit card reports a $600 balance and has a $2,000 limit. Divide 600 by 2,000, then multiply by 100."
+        },
+        { "type": "heading", "text": "EXAMPLE" },
+        {
+          "type": "quote",
+          "text": "$600 / $2,000 × 100 = 30% That card is using 30% of its available limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "This lesson deals with revolving credit: credit cards and lines of credit, where you can borrow, repay and borrow again. Instalment loans have a set amount and a set schedule, so they do not count as card utilization in this lab."
+        },
+        {
+          "type": "source",
+          "text": "Equifax Canada: What Is Credit Utilization?",
+          "url": "https://www.equifax.ca/personal/education/credit-score/articles/-/learn/what-is-credit-utilization/"
+        },
+        {
+          "type": "spotlight",
+          "text": "Always take the limit and the balance from the same snapshot. Mixing today’s balance with an old reported limit is how innocent math develops trust issues."
+        },
+        { "type": "utilization" }
+      ]
+    },
+    {
+      "id": "accounts",
+      "title": "Lab 2: Overall Utilization Can Hide a Hot Spot",
+      "paragraphs": [],
+      "blocks": [
+        { "type": "paragraph", "text": "Now imagine two cards:" },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "$900 / $1,000",
+              "detail": "Card A",
+              "text": "",
+              "icon": "alert",
+              "list": ["90% utilization"]
+            },
+            {
+              "title": "$100 / $4,000",
+              "detail": "Card B",
+              "text": "",
+              "icon": "check",
+              "list": ["2.5% utilization"]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Together, the balances total $1,000 and the limits total $5,000. That gives a 20% overall utilization rate."
+        },
+        { "type": "heading", "text": "OVERALL" },
+        { "type": "quote", "text": "$1,000 / $5,000 × 100 = 20%" },
+        {
+          "type": "paragraph",
+          "text": "Twenty percent overall looks much calmer than 90% on Card A. That is why you check both views. Equifax notes that overall utilization and the utilization on each account can both feed into a credit score."
+        },
+        {
+          "type": "source",
+          "text": "Equifax Canada: What Is Credit Utilization?",
+          "url": "https://www.equifax.ca/personal/education/credit-score/articles/-/learn/what-is-credit-utilization/"
+        },
+        {
+          "type": "spotlight",
+          "text": "A comfortable overall percentage can still contain one nearly maxed-out account. Overall utilization gives you the weather; per-account utilization tells you which room has smoke."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Always use the limit and balance from the same account snapshot",
+              "text": "Always use the limit and balance from the same account snapshot",
+              "image": "/images/credit-mastery/02-silver/credit-07/credit07-image-1.webp"
+            },
+            {
+              "title": "Utilization is a ratio not a debt contest",
+              "text": "Utilization is a ratio not a debt contest",
+              "image": "/images/credit-mastery/02-silver/credit-07/credit07-image-2.webp"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This is also why averages can be polite little liars. Put one boot in a snowbank and the other beside the fireplace and the average temperature may look reasonable. Your feet will file a different report."
+        }
+      ]
+    },
+    {
+      "id": "guideline",
+      "title": "Lab 3: The 30% Guideline Is a Guide, Not a Border Crossing",
+      "paragraphs": [],
+      "blocks": [
+        { "type": "heading", "text": "THE 30% GUIDELINE · A guide, not a border crossing" },
+        {
+          "type": "paragraph",
+          "text": "FCAC recommends trying to use less than 30% of your total credit limit. On a $5,000 total limit, here is what each threshold looks like in dollars."
+        },
+        {
+          "type": "cards",
+          "items": [
+            { "title": "30%", "text": "$1,500" },
+            { "title": "20%", "text": "$1,000" },
+            { "title": "10%", "text": "$500" }
+          ]
+        },
+        { "type": "heading", "text": "30% CHECK" },
+        {
+          "type": "quote",
+          "text": "$5,000 × 0.30 = $1,500 A planning reference, not a guaranteed score threshold."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not turn 30% into a cliff edge. A balance at 29% is not perfect, and 31% does not cause a moose to revoke your borrowing privileges. Bureaus and lenders use different formulas, and the exact methods are not public. The principle underneath is simpler: stay well back from your limits, and keep revolving balances manageable."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Improving your credit score",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html"
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: Utilization of credit",
+          "url": "https://www.transunion.ca/customer-support/faq"
+        },
+        {
+          "type": "spotlight",
+          "text": "Under 30% is a Canadian guideline, not a promise that 29% buys you a particular score. Lowering debt safely matters far more than hitting one exact percentage."
+        },
+        { "type": "heading", "text": "Quick Myth Check" },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Thirty percent is the perfect utilization score.”",
+              "text": "FCAC offers under 30% as a practical guideline. The scoring models are more complicated than that, and no single percentage guarantees anything."
+            },
+            {
+              "title": "“If I pay my card in full by the due date, my credit report must show zero.”",
+              "text": "Not necessarily. Your lender may have reported an earlier balance. The number in your banking app and the number on your report can come from different dates."
+            },
+            {
+              "title": "“A $900 balance is always worse than a $500 balance.”",
+              "text": "Dollar debt still matters, but utilization asks what limit sits behind the balance. $900 on a $10,000 limit is 9%. $500 on a $1,000 limit is 50%."
+            },
+            {
+              "title": "“I should apply for more credit just to make my utilization look better.”",
+              "text": "More available credit does change the math, but a new card or a limit request brings other consequences, including an inquiry and more room to overspend. Find out how the lender handles it first."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "snapshot",
+      "title": "Lab 4: Reported Balance vs. Current Balance",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Your credit report is a snapshot, not a live feed from your banking app. TransUnion explains that lenders report at different points in the month, which can create differences between reports and scores. A balance you paid yesterday can still sit on a report until the lender sends a newer update."
+        },
+        {
+          "type": "paragraph",
+          "text": "TransUnion also notes that the balance on a report is usually the one from your last statement. That word “usually” is doing real work. Practices differ, so do not build an elaborate payment ritual around a date you guessed at. If the timing matters to you, ask the issuer when it reports, then check the result on your own report."
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: What is a credit report?",
+          "url": "https://www.transunion.ca/credit-report"
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: Keep Balances Low",
+          "url": "https://www.transunion.ca/build-credit"
+        },
+        {
+          "type": "spotlight",
+          "text": "A credit report is a snapshot. Paying a balance today does not mean the bureau already has today’s number, because lenders update on their own schedules."
+        },
+        { "type": "heading", "text": "Lab 5: Change One Variable Before You Change Your Life" },
+        {
+          "type": "paragraph",
+          "text": "Utilization drops when the reported balance drops, or when your available credit rises. That does not make every shortcut to those two numbers a good financial decision."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Pause new discretionary charges.",
+              "text": "Stop feeding the balance while you are trying to lower it."
+            },
+            {
+              "title": "Pay down the highest-utilization account.",
+              "text": "Keep every required payment current, then send spare money where the ratio is worst, if that fits your wider debt plan."
+            },
+            {
+              "title": "Time an extra payment sensibly.",
+              "text": "If you can afford it, a lower balance before the lender’s next update can lower the reported utilization. Do not make a string of pointless payments chasing a daily score."
+            },
+            {
+              "title": "Treat a limit increase as a credit decision, not free mathematics.",
+              "text": "Ask whether the request triggers a credit inquiry, and skip it if a bigger limit would only invite spending you cannot repay."
+            },
+            {
+              "title": "Think before closing an unused card.",
+              "text": "FCAC notes that closing an older account cuts your available credit. If you still carry balances elsewhere, your overall ratio goes up."
+            },
+            {
+              "title": "Protect essentials and payment history first.",
+              "text": "Do not miss rent, utilities, insurance or a required debt payment to force the ratio under some target you picked."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Using credit wisely and improving credit history",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html"
+        },
+        {
+          "type": "source",
+          "text": "TransUnion Canada: How to Improve Credit Health",
+          "url": "https://www.transunion.ca/how-to-improve-credit-score"
+        },
+        { "type": "heading", "text": "LAB SAFETY RULE" },
+        {
+          "type": "paragraph",
+          "text": "Never let managing this ratio become a reason to borrow more, miss a due date, or drain money you need for essentials. The ratio exists to help you understand your credit use, not to become your new household emergency."
+        },
+        {
+          "type": "story",
+          "text": "Rosa and the Impressively Confident Pothole",
+          "detail": "ROSA MEETS THE WINTER-TIRE PERCENTAGE",
+          "image": "/images/credit-mastery/02-silver/credit-07/credit07-image-3.webp",
+          "paragraphs": [
+            "Rosa wants a mortgage pre-approval in the spring, so she has spent the year keeping her $5,000 card close to empty.",
+            "Then November arrives with winter tires, installation, and one impressively confident pothole. The reported balance on that card lands at $1,800.",
+            "ROSA’S SNAPSHOT $1,800 / $5,000 × 100 = 36%",
+            "Thirty-six percent, in a single afternoon.",
+            "The internet has suggestions. Open two more cards to raise the total limit. Ask for a limit increase this week. Stop buying groceries until the ratio apologizes.",
+            "Rosa does none of it. She protects every due date, stops putting anything new on the card, and pays $900 out of money she can spare. When the lender sends its next update, the card reports the lower balance.",
+            "LATER SNAPSHOT $900 / $5,000 × 100 = 18%",
+            "The lesson is not that 18% earns a secret prize. Rosa lowered the debt without creating a second problem to solve. The utilization moved because the balance moved, not because she found a hidden scoring ceremony involving three payments and a full moon.",
+            "She got her pre-approval in April. The pothole is still there."
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Rosa halved her ratio without opening a single new card.",
+          "detail": "You will run the same math on your own accounts, and find the one balance worth paying down before any other.",
+          "extra": "Keep going. The last two sections put the arithmetic in your hands."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Run the Numbers",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            { "title": "$750 balance / $3,000 limit", "detail": "25% utilization.", "text": "" },
+            { "title": "$450 balance / $1,000 limit", "detail": "45% utilization.", "text": "" },
+            {
+              "title": "Card A: $600/$2,000 and Card B: $200/$3,000",
+              "detail": "$800/$5,000 = 16% overall.",
+              "text": ""
+            },
+            {
+              "title": "Overall utilization is 16%, but Card A is 30%",
+              "detail": "Check the total and each account. The average is hiding the hot spot.",
+              "text": ""
+            },
+            {
+              "title": "Your app shows $100 but your report shows $600",
+              "detail": "Probably a reporting-timing difference. Check the dates and the account details before you call it an error.",
+              "text": ""
+            }
+          ]
+        },
+        { "type": "heading", "text": "Your Action: Find Your Utilization Hot Spot" },
+        {
+          "type": "paragraph",
+          "text": "Use account nicknames only, never full card numbers. Write down the most recent reported balance and limit for up to three revolving accounts, work out each percentage, then work out the overall ratio."
+        },
+        {
+          "type": "takeaway",
+          "text": "Credit utilization is the relationship between revolving balances and available limits.",
+          "detail": "Check the overall ratio and each account on its own. Remember that bureau balances are snapshots. Then bring utilization down with a plan that protects your essentials and your on-time payments."
+        },
+        {
+          "type": "spotlight",
+          "text": "The best utilization plan is boring enough to survive real life. Spend within the budget, protect the due dates, bring revolving balances down, and check the reported numbers rather than chasing score-day perfection."
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Utilization Math Lab",
+      "paragraphs": [],
+      "blocks": [
+        { "type": "paragraph", "text": "Show your math. You may use a calculator." },
+        {
+          "type": "paragraph",
+          "text": "The calculator has been waiting patiently for its moment."
+        },
+        { "type": "checkin" }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Credit utilization",
+              "text": "How much of your available revolving credit you are using, shown as a percentage."
+            },
+            {
+              "title": "Revolving credit",
+              "text": "Credit you can borrow, repay and use again, up to an approved limit."
+            },
+            {
+              "title": "Reported balance",
+              "text": "The balance your lender most recently sent to a credit bureau."
+            },
+            {
+              "title": "Current balance",
+              "text": "The balance showing right now, which may differ from the last one reported."
+            },
+            {
+              "title": "Credit limit",
+              "text": "The most revolving credit an account gives you at any one time."
+            },
+            {
+              "title": "Per-account utilization",
+              "text": "The utilization percentage for one revolving account on its own."
+            },
+            {
+              "title": "Overall utilization",
+              "text": "All your reported revolving balances, compared with all your available limits."
+            },
+            {
+              "title": "Statement balance",
+              "text": "The balance shown when a billing period closes."
+            },
+            {
+              "title": "Reporting date",
+              "text": "When a lender sends account information to a bureau. The timing varies by lender."
+            },
+            {
+              "title": "Credit bureau",
+              "text": "A company that maintains credit information. Equifax and TransUnion are Canada’s two main bureaus."
+            },
+            {
+              "title": "Hard inquiry",
+              "text": "A credit check tied to seeking new credit, which may affect your score."
+            },
+            {
+              "title": "Available credit",
+              "text": "The part of your approved revolving limit you have not used."
+            },
+            {
+              "title": "Instalment loan",
+              "text": "A loan you repay on a set schedule, rather than reuse like revolving credit."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “Thirty percent is the perfect utilization score.”",
+    "choices": ["True", "False"],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "SINGLE CARD. A card reports an $800 balance on a $2,000 limit. What is its utilization?",
+      "SECOND CARD. Another card reports $150 on a $3,000 limit. What is its utilization?",
+      "OVERALL. Using both cards together, work out total balances divided by total limits, times 100.",
+      "HOT SPOT. Which card needs the most attention, judging by utilization, and why?",
+      "PAYDOWN TEST. You pay $300 off Card A, and the new $500 balance is reported later. What is Card A’s new utilization, and the new overall figure?",
+      "CLOSURE TEST. Card B holds $0 on a $3,000 limit. Card A holds $800 on a $2,000 limit. What happens to overall utilization if Card B closes and its limit vanishes?",
+      "SNAPSHOT TEST. Your banking app shows $100, but your credit report still shows $600. Give one likely explanation, and one thing you would check.",
+      "30% GUIDELINE. Your total available revolving credit is $4,200. What dollar balance equals 30%, and why is that a guide rather than a guarantee?"
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I have checked my answers, and I understand this course teaches, but does not give financial advice."
+  },
+  "sources": []
+}

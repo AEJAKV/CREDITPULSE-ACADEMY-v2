@@ -1,5 +1,5 @@
 'use client';
-import { useState, useTransition, type CSSProperties } from 'react';
+import { useEffect, useState, useTransition, type CSSProperties } from 'react';
 import { useRouter } from 'next/navigation';
 import {
   ChevronLeft,
@@ -10,6 +10,19 @@ import {
   CircleGauge,
   ShieldCheck,
   Gift,
+  CalendarDays,
+  Landmark,
+  Files,
+  BookOpen,
+  SearchCheck,
+  FileSearch,
+  FileText,
+  FileCheck2,
+  ListChecks,
+  CheckCircle2,
+  CircleDollarSign,
+  Clock3,
+  LockKeyhole,
 } from 'lucide-react';
 import { post } from '@/lib/client';
 const bands = [
@@ -289,9 +302,112 @@ export function LessonArtworkCarousel({
     </div>
   );
 }
+const carouselIcons = {
+  calendar: CalendarDays,
+  bank: Landmark,
+  files: Files,
+  book: BookOpen,
+  search: SearchCheck,
+  filesearch: FileSearch,
+  filetext: FileText,
+  filecheck: FileCheck2,
+  list: ListChecks,
+  check: CheckCircle2,
+  dollar: CircleDollarSign,
+  clock: Clock3,
+  lock: LockKeyhole,
+} as const;
+export function CardCarousel({
+  items,
+}: {
+  items: { title: string; text: string; detail?: string; image?: string; icon?: string }[];
+}) {
+  const [start, setStart] = useState(0);
+  const [visible, setVisible] = useState(3);
+  useEffect(() => {
+    const update = () =>
+      setVisible(window.innerWidth >= 1100 ? 3 : window.innerWidth >= 700 ? 2 : 1);
+    update();
+    window.addEventListener('resize', update);
+    return () => window.removeEventListener('resize', update);
+  }, []);
+  const last = Math.max(0, items.length - visible);
+  const at = Math.min(start, last);
+  return (
+    <div
+      className="card-carousel"
+      role="region"
+      aria-roledescription="carousel"
+      aria-label="Card carousel"
+    >
+      <div className="card-carousel-viewport">
+        <div
+          className="card-carousel-track"
+          style={{ '--shift': `calc(${at} * (100% + 16px) / var(--visible))` } as CSSProperties}
+        >
+          {items.map((item, i) => {
+            const Icon = carouselIcons[item.icon as keyof typeof carouselIcons];
+            return (
+              <article key={item.title} aria-label={`${i + 1} of ${items.length}`}>
+                {item.image && (
+                  <div className="card-carousel-image" aria-hidden="true">
+                    <img src={item.image} alt="" loading="lazy" decoding="async" />
+                  </div>
+                )}
+                {Icon && (
+                  <div className="card-carousel-badge" aria-hidden="true">
+                    <Icon size={21} />
+                  </div>
+                )}
+                <div className="card-carousel-copy">
+                  {item.detail && <span>{item.detail}</span>}
+                  <h3>{item.title}</h3>
+                  <p>{item.text}</p>
+                </div>
+              </article>
+            );
+          })}
+        </div>
+      </div>
+      <div className="card-carousel-controls">
+        <div>
+          {Array.from({ length: last + 1 }, (_, i) => (
+            <button
+              key={i}
+              type="button"
+              className="carousel-dot"
+              aria-label={`Show card group ${i + 1}`}
+              aria-pressed={i === at}
+              onClick={() => setStart(i)}
+            />
+          ))}
+        </div>
+        <div>
+          <button
+            type="button"
+            className="icon-button"
+            aria-label="Previous cards"
+            onClick={() => setStart(at <= 0 ? last : at - 1)}
+          >
+            <ChevronLeft size={18} />
+          </button>
+          <button
+            type="button"
+            className="icon-button"
+            aria-label="Next cards"
+            onClick={() => setStart(at >= last ? 0 : at + 1)}
+          >
+            <ChevronRight size={18} />
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
 export function SourceCheckIn({
   courseId,
   lessonId,
+  courseNumber,
   questions,
   samples = [],
   rewardLabel,
@@ -304,6 +420,8 @@ export function SourceCheckIn({
 }: {
   courseId: string;
   lessonId: string;
+  /** Hero-eyebrow course number, e.g. "1.11"; shown on the submit button. */
+  courseNumber: string;
   questions: string[];
   samples?: string[];
   rewardLabel: string;
@@ -395,7 +513,7 @@ export function SourceCheckIn({
             ? 'Saving your check-in…'
             : completed
               ? 'Save and continue'
-              : 'Complete Course 1.1'}
+              : `Complete Course ${courseNumber}`}
           <ArrowUpRight size={18} />
         </button>
         <small>

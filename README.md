@@ -16,6 +16,7 @@ Open http://localhost:3000. No environment file, database, or setup command is n
 | Account       | Email                   | Password             |
 | ------------- | ----------------------- | -------------------- |
 | Silver member | member@creditpulse.demo | LearnWithPulse2026!  |
+| Elite member  | elite@creditpulse.demo  | EliteWithPulse2026!  |
 | Administrator | admin@creditpulse.demo  | ManageWithPulse2026! |
 
 These credentials work only in demo mode. Demo data is temporary, seeded with Starter completed and Silver in progress. Credit Mastery lesson 1 reproduces the original live lesson wording. The remaining 139 lesson bodies are clearly identified templates. All 140 titles and tier assignments match the supplied structured-courses PDF. Never use demo mode for real member records.

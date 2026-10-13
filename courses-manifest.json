@@ -1,0 +1,2466 @@
+{
+  "generated": "2026-10-13",
+  "note": "Proposed mapping only. Nothing has been extracted. status stays \"pending\" until a course passes EXTRACT_COURSE.md Step 6.",
+  "counts": {
+    "oldCoursesFound": 120,
+    "newLessonsInCurriculum": 140,
+    "placed": 110,
+    "unplacedOld": 10,
+    "newLessonsWithNoOldCourse": 30,
+    "coursesWithImageFolder": 19,
+    "dropped": 10,
+    "done": 27,
+    "pending": 83
+  },
+  "courses": [
+    {
+      "oldId": "course-1",
+      "oldRoute": "/course/understanding-canadian-credit-scores",
+      "title": "Understanding Canadian Credit Scores",
+      "oldEyebrow": "COURSE 1.1 · CREDIT FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-data.js",
+        "components/SinglePageCourse.jsx"
+      ],
+      "component": "SinglePageCourse",
+      "imageFolders": [
+        "public/images/course-1",
+        "public/starter images/course-1"
+      ],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "01-starter",
+        "lessonId": "credit-01"
+      },
+      "status": "done",
+      "note": "Pre-existing original lesson in the new project (credit-score-lesson.json); not re-extracted.",
+      "courseNumber": "1.1",
+      "formButton": "Complete Course 1.1"
+    },
+    {
+      "oldId": "course-1-2",
+      "oldRoute": "/course/equifax-canada-versus-transunion-canada",
+      "title": "Equifax Canada Versus TransUnion Canada",
+      "oldEyebrow": "COURSE 1.2 · CREDIT FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-12-data.js",
+        "components/BureauComparisonCourse.jsx"
+      ],
+      "component": "BureauComparisonCourse",
+      "imageFolders": [
+        "public/images/course-1-2",
+        "public/starter images/course-1-2"
+      ],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "01-starter",
+        "lessonId": "credit-02"
+      },
+      "status": "done",
+      "note": "Migrated and verified in the browser (content/credit-02-lesson.json).",
+      "courseNumber": "1.2",
+      "formButton": "Complete Course 1.2"
+    },
+    {
+      "oldId": "course-1-3",
+      "oldRoute": "/course/reading-your-canadian-credit-report",
+      "title": "Reading Your Canadian Credit Report",
+      "oldEyebrow": "COURSE 1.3 · CREDIT FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-13-data.js",
+        "components/CreditReportCourse.jsx"
+      ],
+      "component": "CreditReportCourse",
+      "imageFolders": [
+        "public/images/course-1-3",
+        "public/starter images/course-1-3"
+      ],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "01-starter",
+        "lessonId": "credit-03"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, images exist, typecheck, page loads). See extracted/reading-your-canadian-credit-report.md",
+      "courseNumber": "1.3",
+      "formButton": "Complete Course 1.3"
+    },
+    {
+      "oldId": "course-1-4",
+      "oldRoute": "/course/correcting-errors-on-a-credit-report",
+      "title": "Correcting Errors on a Credit Report",
+      "oldEyebrow": "COURSE 1.4 · CREDIT FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-14-data.js",
+        "components/CreditDisputeCourse.jsx"
+      ],
+      "component": "CreditDisputeCourse",
+      "imageFolders": [
+        "public/images/course-1-4",
+        "public/starter images/course-1-4"
+      ],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "01-starter",
+        "lessonId": "credit-04"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, images exist, typecheck, page loads). See extracted/correcting-errors-on-a-credit-report.md",
+      "courseNumber": "1.4",
+      "formButton": "Complete Course 1.4"
+    },
+    {
+      "oldId": "course-1-5",
+      "oldRoute": "/course/building-credit-from-zero",
+      "title": "Building Credit From Zero",
+      "oldEyebrow": "COURSE 1.5 · CREDIT FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-15-data.js",
+        "components/BuildCreditCourse.jsx"
+      ],
+      "component": "BuildCreditCourse",
+      "imageFolders": [
+        "public/images/course-1-5",
+        "public/starter images/course-1-5"
+      ],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "02-silver",
+        "lessonId": "credit-05"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, images exist, typecheck, page loads). See extracted/building-credit-from-zero.md",
+      "courseNumber": "1.5",
+      "formButton": "Complete Course 1.5"
+    },
+    {
+      "oldId": "course-1-6",
+      "oldRoute": "/course/secured-credit-cards-in-canada",
+      "title": "Secured Credit Cards in Canada",
+      "oldEyebrow": "COURSE 1.6 · CREDIT FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-16-data.js",
+        "components/SecuredCardCourse.jsx"
+      ],
+      "component": "SecuredCardCourse",
+      "imageFolders": [
+        "public/images/course-1-6",
+        "public/starter images/course-1-6"
+      ],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "02-silver",
+        "lessonId": "credit-06"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, images exist, typecheck, page loads). See extracted/secured-credit-cards-in-canada.md",
+      "courseNumber": "1.6",
+      "formButton": "Complete Course 1.6"
+    },
+    {
+      "oldId": "course-1-7",
+      "oldRoute": "/course/credit-utilization",
+      "title": "Credit Utilization",
+      "oldEyebrow": "COURSE 1.7 · CREDIT FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-17-data.js",
+        "components/CreditUtilizationCourse.jsx"
+      ],
+      "component": "CreditUtilizationCourse",
+      "imageFolders": [
+        "public/images/course-1-7",
+        "public/starter images/course-1-7"
+      ],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "02-silver",
+        "lessonId": "credit-07"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, images exist, typecheck, page loads). See extracted/credit-utilization.md",
+      "courseNumber": "1.7",
+      "formButton": "Complete Course 1.7"
+    },
+    {
+      "oldId": "course-1-8",
+      "oldRoute": "/course/payment-history",
+      "title": "Payment History",
+      "oldEyebrow": "COURSE 1.8 · CREDIT FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-18-data.js",
+        "components/PaymentHistoryCourse.jsx"
+      ],
+      "component": "PaymentHistoryCourse",
+      "imageFolders": [
+        "public/images/course-1-8",
+        "public/starter images/course-1-8"
+      ],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "02-silver",
+        "lessonId": "credit-08"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, images exist, typecheck, content validation, route resolves). See extracted/payment-history.md",
+      "courseNumber": "1.8",
+      "formButton": "Complete Course 1.8"
+    },
+    {
+      "oldId": "course-1-9",
+      "oldRoute": "/course/hard-and-soft-credit-inquiries",
+      "title": "Hard and Soft Credit Inquiries",
+      "oldEyebrow": "COURSE 1.9 · CREDIT FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-19-data.js",
+        "components/CreditInquiryCourse.jsx"
+      ],
+      "component": "CreditInquiryCourse",
+      "imageFolders": [
+        "public/images/course-1-9",
+        "public/starter images/course-1-9"
+      ],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "03-gold",
+        "lessonId": "credit-09"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, images exist, typecheck, content validation, route resolves). See extracted/hard-and-soft-credit-inquiries.md",
+      "courseNumber": "1.9",
+      "formButton": "Complete Course 1.9"
+    },
+    {
+      "oldId": "course-1-10",
+      "oldRoute": "/course/the-90-day-credit-improvement-plan",
+      "title": "The 90-Day Credit Improvement Plan",
+      "oldEyebrow": "COURSE 1.10 · CREDIT FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-110-data.js",
+        "components/CreditMissionCourse.jsx"
+      ],
+      "component": "CreditMissionCourse",
+      "imageFolders": [
+        "public/images/course-1-10",
+        "public/starter images/course-1-10"
+      ],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "03-gold",
+        "lessonId": "credit-10"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, images exist, typecheck, content validation, route resolves). See extracted/the-90-day-credit-improvement-plan.md",
+      "courseNumber": "1.10",
+      "formButton": "Complete Course 1.10"
+    },
+    {
+      "oldId": "silver-course-1-1",
+      "oldRoute": "/course/silver/rebuilding-credit-after-collections",
+      "title": "Rebuilding Credit After Collections",
+      "oldEyebrow": "SILVER MASTERCLASS · ADVANCED CANADIAN CREDIT 1.1",
+      "sourceFiles": [
+        "lib/silver-course-11-data.js",
+        "components/CollectionsRecoveryCourse.jsx"
+      ],
+      "component": "CollectionsRecoveryCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "03-gold",
+        "lessonId": "credit-11"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, images exist, typecheck, content validation, route resolves). See extracted/rebuilding-credit-after-collections.md",
+      "courseNumber": "1.11",
+      "formButton": "Complete Course 1.11"
+    },
+    {
+      "oldId": "silver-course-1-2",
+      "oldRoute": "/course/silver/rebuilding-credit-after-bankruptcy",
+      "title": "Rebuilding Credit After Bankruptcy",
+      "oldEyebrow": "SILVER MASTERCLASS · ADVANCED CANADIAN CREDIT 1.2",
+      "sourceFiles": [
+        "lib/silver-course-12-data.js",
+        "components/BankruptcyReentryCourse.jsx"
+      ],
+      "component": "BankruptcyReentryCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "04-platinum",
+        "lessonId": "credit-12"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, images exist, typecheck, content validation, route resolves). See extracted/rebuilding-credit-after-bankruptcy.md",
+      "courseNumber": "1.12",
+      "formButton": "Complete Course 1.12"
+    },
+    {
+      "oldId": "silver-course-1-3",
+      "oldRoute": "/course/silver/rebuilding-credit-after-a-consumer-proposal",
+      "title": "Rebuilding Credit After a Consumer Proposal",
+      "oldEyebrow": "SILVER MASTERCLASS · ADVANCED CANADIAN CREDIT 1.3",
+      "sourceFiles": [
+        "lib/silver-course-13-data.js",
+        "components/ProposalExitCourse.jsx"
+      ],
+      "component": "ProposalExitCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "04-platinum",
+        "lessonId": "credit-13"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, no images in old course, typecheck, content validation, route resolves). See extracted/rebuilding-credit-after-a-consumer-proposal.md",
+      "courseNumber": "1.13",
+      "formButton": "Complete Course 1.13"
+    },
+    {
+      "oldId": "silver-course-1-4",
+      "oldRoute": "/course/silver/dealing-with-canadian-collection-agencies",
+      "title": "Dealing With Canadian Collection Agencies",
+      "oldEyebrow": "SILVER MASTERCLASS · ADVANCED CANADIAN CREDIT 1.4",
+      "sourceFiles": [
+        "lib/silver-course-14-data.js",
+        "components/CollectionCallCourse.jsx"
+      ],
+      "component": "CollectionCallCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "04-platinum",
+        "lessonId": "credit-14"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, no images in old course, typecheck, content validation, route resolves). See extracted/dealing-with-canadian-collection-agencies.md",
+      "courseNumber": "1.14",
+      "formButton": "Complete Course 1.14"
+    },
+    {
+      "oldId": "silver-course-1-5",
+      "oldRoute": "/course/silver/statutes-of-limitation-by-province",
+      "title": "Statutes of Limitation by Province",
+      "oldEyebrow": "SILVER MASTERCLASS · ADVANCED CANADIAN CREDIT 1.5",
+      "sourceFiles": [
+        "lib/silver-course-15-data.js",
+        "components/LimitationClockCourse.jsx"
+      ],
+      "component": "LimitationClockCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "05-diamond",
+        "lessonId": "credit-15"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, no images in old course, typecheck, content validation, route resolves). See extracted/statutes-of-limitation-by-province.md",
+      "courseNumber": "1.15",
+      "formButton": "Complete Course 1.15"
+    },
+    {
+      "oldId": "silver-course-1-6",
+      "oldRoute": "/course/silver/identity-theft-and-credit-fraud",
+      "title": "Identity Theft and Credit Fraud",
+      "oldEyebrow": "SILVER MASTERCLASS · ADVANCED CANADIAN CREDIT 1.6",
+      "sourceFiles": [
+        "lib/silver-course-16-data.js",
+        "components/FraudCommandCourse.jsx"
+      ],
+      "component": "FraudCommandCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "05-diamond",
+        "lessonId": "credit-16"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, no images in old course, typecheck, content validation, route resolves). See extracted/identity-theft-and-credit-fraud.md",
+      "courseNumber": "1.16",
+      "formButton": "Complete Course 1.16"
+    },
+    {
+      "oldId": "silver-course-1-7",
+      "oldRoute": "/course/silver/preparing-for-a-mortgage",
+      "title": "Preparing for a Mortgage",
+      "oldEyebrow": "SILVER MASTERCLASS · ADVANCED CANADIAN CREDIT 1.7",
+      "sourceFiles": [
+        "lib/silver-course-17-data.js",
+        "components/MortgagePrepCourse.jsx"
+      ],
+      "component": "MortgagePrepCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "05-diamond",
+        "lessonId": "credit-17"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (sections match, no images in old course, typecheck, content validation, route resolves). See extracted/preparing-for-a-mortgage.md",
+      "courseNumber": "1.17",
+      "formButton": "Complete Course 1.17"
+    },
+    {
+      "oldId": "silver-course-1-8",
+      "oldRoute": "/course/silver/preparing-for-an-auto-loan",
+      "title": "Preparing for an Auto Loan",
+      "oldEyebrow": "SILVER MASTERCLASS · ADVANCED CANADIAN CREDIT 1.8",
+      "sourceFiles": [
+        "lib/silver-course-18-data.js",
+        "components/AutoLoanPrepCourse.jsx"
+      ],
+      "component": "AutoLoanPrepCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "06-elite",
+        "lessonId": "credit-18"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (typecheck, content validation). See extracted/preparing-for-an-auto-loan.md. Sections 7/7, no images in old course.",
+      "courseNumber": "1.18",
+      "formButton": "Complete Course 1.18"
+    },
+    {
+      "oldId": "silver-course-1-9",
+      "oldRoute": "/course/silver/credit-building-for-newcomers",
+      "title": "Credit Building for Newcomers",
+      "oldEyebrow": "SILVER MASTERCLASS · ADVANCED CANADIAN CREDIT 1.9",
+      "sourceFiles": [
+        "lib/silver-course-19-data.js",
+        "components/NewcomerCreditCourse.jsx"
+      ],
+      "component": "NewcomerCreditCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "06-elite",
+        "lessonId": "credit-19"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (typecheck, content validation). See extracted/credit-building-for-newcomers.md. Sections 7/7, no images in old course.",
+      "courseNumber": "1.19",
+      "formButton": "Complete Course 1.19"
+    },
+    {
+      "oldId": "silver-course-1-10",
+      "oldRoute": "/course/silver/credit-building-after-divorce",
+      "title": "Credit Building After Divorce",
+      "oldEyebrow": "SILVER MASTERCLASS · ADVANCED CANADIAN CREDIT 1.10",
+      "sourceFiles": [
+        "lib/silver-course-110-data.js",
+        "components/DivorceCreditCourse.jsx"
+      ],
+      "component": "DivorceCreditCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "credit-mastery",
+        "tier": "06-elite",
+        "lessonId": "credit-20"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (typecheck, content validation). See extracted/credit-building-after-divorce.md. Sections 7/7, no images in old course.",
+      "courseNumber": "1.20",
+      "formButton": "Complete Course 1.20"
+    },
+    {
+      "oldId": "course-2-1",
+      "oldRoute": "/course/building-a-canadian-household-budget",
+      "title": "Building a Canadian Household Budget",
+      "oldEyebrow": "COURSE 2.1 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-21-data.js",
+        "components/HouseholdBudgetCourse.jsx"
+      ],
+      "component": "HouseholdBudgetCourse",
+      "imageFolders": [
+        "public/starter images/course-2-1"
+      ],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "01-starter",
+        "lessonId": "money-01"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (typecheck, content validation). See extracted/building-a-canadian-household-budget.md. Sections 9/9 (8 nav + story), 8 images. Annual-cost calculator (interactive) not migrated: no generic calculator block.",
+      "courseNumber": "2.1",
+      "formButton": "Complete Course 2.1"
+    },
+    {
+      "oldId": "course-2-2",
+      "oldRoute": "/course/managing-money-between-paydays",
+      "title": "Managing Money Between Paydays",
+      "oldEyebrow": "COURSE 2.2 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-22-data.js",
+        "components/PaydayBridgeCourse.jsx"
+      ],
+      "component": "PaydayBridgeCourse",
+      "imageFolders": [
+        "public/starter images/course-2-2"
+      ],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "01-starter",
+        "lessonId": "money-02"
+      },
+      "status": "done",
+      "note": "Migrated; passed Step 6 (typecheck, content validation). See extracted/managing-money-between-paydays.md. Sections 9/9, 4 images.",
+      "courseNumber": "2.2",
+      "formButton": "Complete Course 2.2"
+    },
+    {
+      "oldId": "course-2-3",
+      "oldRoute": "/course/emergency-funds",
+      "title": "Emergency Funds",
+      "oldEyebrow": "COURSE 2.3 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-23-data.js",
+        "components/EmergencyFundCourse.jsx"
+      ],
+      "component": "EmergencyFundCourse",
+      "imageFolders": [
+        "public/starter images/course-2-3"
+      ],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "01-starter",
+        "lessonId": "money-03"
+      },
+      "status": "done",
+      "courseNumber": "2.3",
+      "formButton": "Complete Course 2.3",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim spot-check). See extracted/emergency-funds.md. Sections 8/8, 4 images."
+    },
+    {
+      "oldId": "course-2-4",
+      "oldRoute": "/course/canadian-bank-accounts-and-fees",
+      "title": "Canadian Bank Accounts and Fees",
+      "oldEyebrow": "COURSE 2.4 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-24-data.js",
+        "components/BankFeesCourse.jsx"
+      ],
+      "component": "BankFeesCourse",
+      "imageFolders": [
+        "public/starter images/course-2-4"
+      ],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "01-starter",
+        "lessonId": "money-04"
+      },
+      "status": "done",
+      "courseNumber": "2.4",
+      "formButton": "Complete Course 2.4",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim spot-check). See extracted/canadian-bank-accounts-and-fees.md. Sections 8/8, 4 images."
+    },
+    {
+      "oldId": "course-2-5",
+      "oldRoute": "/course/credit-unions-versus-banks",
+      "title": "Credit Unions Versus Banks",
+      "oldEyebrow": "COURSE 2.5 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-25-data.js",
+        "components/InstitutionDebateCourse.jsx"
+      ],
+      "component": "InstitutionDebateCourse",
+      "imageFolders": [
+        "public/starter images/course-2-5"
+      ],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "02-silver",
+        "lessonId": "money-05"
+      },
+      "status": "done",
+      "courseNumber": "2.5",
+      "formButton": "Complete Course 2.5",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim spot-check). See extracted/credit-unions-versus-banks.md. Sections 8/8, 10 images. Old page showed image placeholders for the carousel; real files wired by filename (hero-bg, carousel-1/2, dedicated-story, six claim images)."
+    },
+    {
+      "oldId": "course-2-6",
+      "oldRoute": "/course/managing-overdraft",
+      "title": "Managing Overdraft",
+      "oldEyebrow": "COURSE 2.6 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-26-data.js",
+        "components/OverdraftCourse.jsx"
+      ],
+      "component": "OverdraftCourse",
+      "imageFolders": [
+        "public/starter images/course-2-6"
+      ],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "02-silver",
+        "lessonId": "money-06"
+      },
+      "status": "done",
+      "courseNumber": "2.6",
+      "formButton": "Complete Course 2.6",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim spot-check). See extracted/managing-overdraft.md. Sections 8/8, 8 images. Old page showed image placeholders for the carousel; real files wired by filename (hero-bg, carousel-1/2, dedicated-story, four incident PNGs converted to webp)."
+    },
+    {
+      "oldId": "course-2-7",
+      "oldRoute": "/course/understanding-interest-and-apr",
+      "title": "Understanding Interest and APR",
+      "oldEyebrow": "COURSE 2.7 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-27-data.js",
+        "components/InterestDecoderCourse.jsx"
+      ],
+      "component": "InterestDecoderCourse",
+      "imageFolders": [
+        "public/starter images/course-2-7"
+      ],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "02-silver",
+        "lessonId": "money-07"
+      },
+      "status": "done",
+      "courseNumber": "2.7",
+      "formButton": "Complete Course 2.7",
+      "note": "Migrated; passed Step 6 (typecheck, content validation, image paths, verbatim spot-check). See extracted/understanding-interest-and-apr.md. Sections 8/8, 4 images. Old page showed image placeholders for the carousel; real files wired by filename (hero-bg, carousel-1/2, dedicated-story)."
+    },
+    {
+      "oldId": "course-2-8",
+      "oldRoute": "/course/paying-down-high-interest-debt",
+      "title": "Paying Down High-Interest Debt",
+      "oldEyebrow": "COURSE 2.8 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-28-data.js",
+        "components/HighInterestDebtCourse.jsx"
+      ],
+      "component": "HighInterestDebtCourse",
+      "imageFolders": [
+        "public/starter images/course-2-8"
+      ],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "02-silver",
+        "lessonId": "money-08"
+      },
+      "status": "pending",
+      "courseNumber": "2.8",
+      "formButton": "Complete Course 2.8"
+    },
+    {
+      "oldId": "course-2-9",
+      "oldRoute": "/course/snowball-versus-avalanche-debt-repayment",
+      "title": "Snowball Versus Avalanche Debt Repayment",
+      "oldEyebrow": "COURSE 2.9 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-29-data.js",
+        "components/RepaymentTournamentCourse.jsx"
+      ],
+      "component": "RepaymentTournamentCourse",
+      "imageFolders": [
+        "public/starter images/course-2-9"
+      ],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "03-gold",
+        "lessonId": "money-09"
+      },
+      "status": "pending",
+      "courseNumber": "2.9",
+      "formButton": "Complete Course 2.9"
+    },
+    {
+      "oldId": "course-2-10",
+      "oldRoute": "/course/managing-variable-income",
+      "title": "Managing Variable Income",
+      "oldEyebrow": "COURSE 2.10 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-210-data.js",
+        "components/VariableIncomeCourse.jsx"
+      ],
+      "component": "VariableIncomeCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "03-gold",
+        "lessonId": "money-10"
+      },
+      "status": "pending",
+      "courseNumber": "2.10",
+      "formButton": "Complete Course 2.10"
+    },
+    {
+      "oldId": "course-2-11",
+      "oldRoute": "/course/managing-finances-as-a-couple",
+      "title": "Managing Finances as a Couple",
+      "oldEyebrow": "COURSE 2.11 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-211-data.js",
+        "components/CoupleFinancesCourse.jsx"
+      ],
+      "component": "CoupleFinancesCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "03-gold",
+        "lessonId": "money-11"
+      },
+      "status": "pending",
+      "courseNumber": "2.11",
+      "formButton": "Complete Course 2.11"
+    },
+    {
+      "oldId": "course-2-12",
+      "oldRoute": "/course/financial-planning-for-single-parents",
+      "title": "Financial Planning for Single Parents",
+      "oldEyebrow": "COURSE 2.12 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-212-data.js",
+        "components/SingleParentCourse.jsx"
+      ],
+      "component": "SingleParentCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "04-platinum",
+        "lessonId": "money-12"
+      },
+      "status": "pending",
+      "courseNumber": "2.12",
+      "formButton": "Complete Course 2.12"
+    },
+    {
+      "oldId": "course-2-13",
+      "oldRoute": "/course/avoiding-predatory-financial-products",
+      "title": "Avoiding Predatory Financial Products",
+      "oldEyebrow": "COURSE 2.13 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-213-data.js",
+        "components/PredatoryProductsCourse.jsx"
+      ],
+      "component": "PredatoryProductsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "04-platinum",
+        "lessonId": "money-13"
+      },
+      "status": "pending",
+      "courseNumber": "2.13",
+      "formButton": "Complete Course 2.13"
+    },
+    {
+      "oldId": "course-2-14",
+      "oldRoute": "/course/financing-major-purchases",
+      "title": "Financing Major Purchases",
+      "oldEyebrow": "COURSE 2.14 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-214-data.js",
+        "components/MajorPurchaseCourse.jsx"
+      ],
+      "component": "MajorPurchaseCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "04-platinum",
+        "lessonId": "money-14"
+      },
+      "status": "pending",
+      "courseNumber": "2.14",
+      "formButton": "Complete Course 2.14"
+    },
+    {
+      "oldId": "course-2-15",
+      "oldRoute": "/course/the-30-day-financial-reset",
+      "title": "The 30-Day Financial Reset",
+      "oldEyebrow": "COURSE 2.15 · MONEY FOUNDATIONS",
+      "sourceFiles": [
+        "lib/course-215-data.js",
+        "components/FinancialResetCourse.jsx"
+      ],
+      "component": "FinancialResetCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "05-diamond",
+        "lessonId": "money-15"
+      },
+      "status": "pending",
+      "courseNumber": "2.15",
+      "formButton": "Complete Course 2.15"
+    },
+    {
+      "oldId": "silver-course-2-1",
+      "oldRoute": "/course/silver/buying-versus-leasing",
+      "title": "Buying Versus Leasing",
+      "oldEyebrow": "SILVER MASTERCLASS · MAJOR MONEY DECISIONS 2.1",
+      "sourceFiles": [
+        "lib/silver-course-21-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=vehicle)",
+      "imageFolders": [],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "05-diamond",
+        "lessonId": "money-16"
+      },
+      "status": "pending",
+      "courseNumber": "2.16",
+      "formButton": "Complete Course 2.16"
+    },
+    {
+      "oldId": "silver-course-2-2",
+      "oldRoute": "/course/silver/saving-for-a-home",
+      "title": "Saving for a Home",
+      "oldEyebrow": "SILVER MASTERCLASS · MAJOR MONEY DECISIONS 2.2",
+      "sourceFiles": [
+        "lib/silver-course-22-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=home)",
+      "imageFolders": [],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "05-diamond",
+        "lessonId": "money-17"
+      },
+      "status": "pending",
+      "courseNumber": "2.17",
+      "formButton": "Complete Course 2.17"
+    },
+    {
+      "oldId": "silver-course-2-3",
+      "oldRoute": "/course/silver/managing-rental-costs",
+      "title": "Managing Rental Costs",
+      "oldEyebrow": "SILVER MASTERCLASS · MAJOR MONEY DECISIONS 2.3",
+      "sourceFiles": [
+        "lib/silver-course-23-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=rental)",
+      "imageFolders": [],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "06-elite",
+        "lessonId": "money-18"
+      },
+      "status": "pending",
+      "courseNumber": "2.18",
+      "formButton": "Complete Course 2.18"
+    },
+    {
+      "oldId": "silver-course-2-4",
+      "oldRoute": "/course/silver/insurance-basics",
+      "title": "Insurance Basics",
+      "oldEyebrow": "SILVER MASTERCLASS · MAJOR MONEY DECISIONS 2.4",
+      "sourceFiles": [
+        "lib/silver-course-24-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=insurance)",
+      "imageFolders": [],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "06-elite",
+        "lessonId": "money-19"
+      },
+      "status": "pending",
+      "courseNumber": "2.19",
+      "formButton": "Complete Course 2.19"
+    },
+    {
+      "oldId": "silver-course-2-5",
+      "oldRoute": "/course/silver/financial-fraud-and-scams",
+      "title": "Financial Fraud and Scams",
+      "oldEyebrow": "SILVER MASTERCLASS · MAJOR MONEY DECISIONS 2.5",
+      "sourceFiles": [
+        "lib/silver-course-25-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=fraud)",
+      "imageFolders": [],
+      "proposed": {
+        "category": "money-budgeting",
+        "tier": "06-elite",
+        "lessonId": "money-20"
+      },
+      "status": "pending",
+      "courseNumber": "2.20",
+      "formButton": "Complete Course 2.20"
+    },
+    {
+      "oldId": "gold-course-1-1",
+      "oldRoute": "/course/gold/canada-child-benefit",
+      "title": "Canada Child Benefit",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.1",
+      "sourceFiles": [
+        "lib/gold-course-1-1-data.js",
+        "components/CanadaChildBenefitCourse.jsx"
+      ],
+      "component": "CanadaChildBenefitCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "01-starter",
+        "lessonId": "benefits-01"
+      },
+      "status": "pending",
+      "courseNumber": "3.1",
+      "formButton": "Complete Course 3.1"
+    },
+    {
+      "oldId": "gold-course-1-2",
+      "oldRoute": "/course/gold/gst-hst-credit",
+      "title": "GST/HST Credit",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.2",
+      "sourceFiles": [
+        "lib/gold-course-1-2-data.js",
+        "components/GstHstCreditCourse.jsx"
+      ],
+      "component": "GstHstCreditCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "01-starter",
+        "lessonId": "benefits-02"
+      },
+      "status": "pending",
+      "courseNumber": "3.2",
+      "formButton": "Complete Course 3.2"
+    },
+    {
+      "oldId": "gold-course-1-3",
+      "oldRoute": "/course/gold/canada-workers-benefit",
+      "title": "Canada Workers Benefit",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.3",
+      "sourceFiles": [
+        "lib/gold-course-1-3-data.js",
+        "components/CanadaWorkersBenefitCourse.jsx"
+      ],
+      "component": "CanadaWorkersBenefitCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "01-starter",
+        "lessonId": "benefits-03"
+      },
+      "status": "pending",
+      "courseNumber": "3.3",
+      "formButton": "Complete Course 3.3"
+    },
+    {
+      "oldId": "gold-course-1-4",
+      "oldRoute": "/course/gold/disability-tax-credit",
+      "title": "Disability Tax Credit",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.4",
+      "sourceFiles": [
+        "lib/gold-course-1-4-data.js",
+        "components/DisabilityTaxCreditCourse.jsx"
+      ],
+      "component": "DisabilityTaxCreditCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "01-starter",
+        "lessonId": "benefits-04"
+      },
+      "status": "pending",
+      "courseNumber": "3.4",
+      "formButton": "Complete Course 3.4"
+    },
+    {
+      "oldId": "gold-course-1-5",
+      "oldRoute": "/course/gold/registered-disability-savings-plan",
+      "title": "Registered Disability Savings Plan",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.5",
+      "sourceFiles": [
+        "lib/gold-course-1-5-data.js",
+        "components/RegisteredDisabilitySavingsPlanCourse.jsx"
+      ],
+      "component": "RegisteredDisabilitySavingsPlanCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "01-starter",
+        "lessonId": "benefits-05"
+      },
+      "status": "pending",
+      "courseNumber": "3.5",
+      "formButton": "Complete Course 3.5"
+    },
+    {
+      "oldId": "gold-course-1-6",
+      "oldRoute": "/course/gold/old-age-security",
+      "title": "Old Age Security",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.6",
+      "sourceFiles": [
+        "lib/gold-course-1-6-data.js",
+        "components/OldAgeSecurityCourse.jsx"
+      ],
+      "component": "OldAgeSecurityCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "02-silver",
+        "lessonId": "benefits-06"
+      },
+      "status": "pending",
+      "courseNumber": "3.6",
+      "formButton": "Complete Course 3.6"
+    },
+    {
+      "oldId": "gold-course-1-7",
+      "oldRoute": "/course/gold/guaranteed-income-supplement",
+      "title": "Guaranteed Income Supplement",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.7",
+      "sourceFiles": [
+        "lib/gold-course-1-7-data.js",
+        "components/GuaranteedIncomeSupplementCourse.jsx"
+      ],
+      "component": "GuaranteedIncomeSupplementCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "02-silver",
+        "lessonId": "benefits-07"
+      },
+      "status": "pending",
+      "courseNumber": "3.7",
+      "formButton": "Complete Course 3.7"
+    },
+    {
+      "oldId": "gold-course-1-8",
+      "oldRoute": "/course/gold/canada-pension-plan",
+      "title": "Canada Pension Plan",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.8",
+      "sourceFiles": [
+        "lib/gold-course-1-8-data.js",
+        "components/CanadaPensionPlanCourse.jsx"
+      ],
+      "component": "CanadaPensionPlanCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "02-silver",
+        "lessonId": "benefits-08"
+      },
+      "status": "pending",
+      "courseNumber": "3.8",
+      "formButton": "Complete Course 3.8"
+    },
+    {
+      "oldId": "gold-course-1-9",
+      "oldRoute": "/course/gold/cpp-disability-benefits",
+      "title": "CPP Disability Benefits",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.9",
+      "sourceFiles": [
+        "lib/gold-course-1-9-data.js",
+        "components/CppDisabilityBenefitsCourse.jsx"
+      ],
+      "component": "CppDisabilityBenefitsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "02-silver",
+        "lessonId": "benefits-09"
+      },
+      "status": "pending",
+      "courseNumber": "3.9",
+      "formButton": "Complete Course 3.9"
+    },
+    {
+      "oldId": "gold-course-1-10",
+      "oldRoute": "/course/gold/employment-insurance",
+      "title": "Employment Insurance",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.10",
+      "sourceFiles": [
+        "lib/gold-course-1-10-data.js",
+        "components/EmploymentInsuranceCourse.jsx"
+      ],
+      "component": "EmploymentInsuranceCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "02-silver",
+        "lessonId": "benefits-10"
+      },
+      "status": "pending",
+      "courseNumber": "3.10",
+      "formButton": "Complete Course 3.10"
+    },
+    {
+      "oldId": "gold-course-1-11",
+      "oldRoute": "/course/gold/provincial-income-support",
+      "title": "Provincial Income Support",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.11",
+      "sourceFiles": [
+        "lib/gold-course-1-11-data.js",
+        "components/ProvincialIncomeSupportCourse.jsx"
+      ],
+      "component": "ProvincialIncomeSupportCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "03-gold",
+        "lessonId": "benefits-11"
+      },
+      "status": "pending",
+      "courseNumber": "3.11",
+      "formButton": "Complete Course 3.11"
+    },
+    {
+      "oldId": "gold-course-1-12",
+      "oldRoute": "/course/gold/provincial-disability-programs",
+      "title": "Provincial Disability Programs",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.12",
+      "sourceFiles": [
+        "lib/gold-course-1-12-data.js",
+        "components/ProvincialDisabilityProgramsCourse.jsx"
+      ],
+      "component": "ProvincialDisabilityProgramsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "03-gold",
+        "lessonId": "benefits-12"
+      },
+      "status": "pending",
+      "courseNumber": "3.12",
+      "formButton": "Complete Course 3.12"
+    },
+    {
+      "oldId": "gold-course-1-13",
+      "oldRoute": "/course/gold/rent-assistance",
+      "title": "Rent Assistance",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.13",
+      "sourceFiles": [
+        "lib/gold-course-1-13-data.js",
+        "components/RentAssistanceCourse.jsx"
+      ],
+      "component": "RentAssistanceCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "03-gold",
+        "lessonId": "benefits-13"
+      },
+      "status": "pending",
+      "courseNumber": "3.13",
+      "formButton": "Complete Course 3.13"
+    },
+    {
+      "oldId": "gold-course-1-14",
+      "oldRoute": "/course/gold/utility-assistance",
+      "title": "Utility Assistance",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.14",
+      "sourceFiles": [
+        "lib/gold-course-1-14-data.js",
+        "components/UtilityAssistanceCourse.jsx"
+      ],
+      "component": "UtilityAssistanceCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "03-gold",
+        "lessonId": "benefits-14"
+      },
+      "status": "pending",
+      "courseNumber": "3.14",
+      "formButton": "Complete Course 3.14"
+    },
+    {
+      "oldId": "gold-course-1-15",
+      "oldRoute": "/course/gold/dental-care-benefits",
+      "title": "Dental-Care Benefits",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.15",
+      "sourceFiles": [
+        "lib/gold-course-1-15-data.js",
+        "components/DentalCareBenefitsCourse.jsx"
+      ],
+      "component": "DentalCareBenefitsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "03-gold",
+        "lessonId": "benefits-15"
+      },
+      "status": "pending",
+      "courseNumber": "3.15",
+      "formButton": "Complete Course 3.15"
+    },
+    {
+      "oldId": "gold-course-1-16",
+      "oldRoute": "/course/gold/prescription-assistance",
+      "title": "Prescription Assistance",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.16",
+      "sourceFiles": [
+        "lib/gold-course-1-16-data.js",
+        "components/PrescriptionAssistanceCourse.jsx"
+      ],
+      "component": "PrescriptionAssistanceCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "04-platinum",
+        "lessonId": "benefits-16"
+      },
+      "status": "pending",
+      "courseNumber": "3.16",
+      "formButton": "Complete Course 3.16"
+    },
+    {
+      "oldId": "gold-course-1-17",
+      "oldRoute": "/course/gold/student-grants",
+      "title": "Student Grants",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.17",
+      "sourceFiles": [
+        "lib/gold-course-1-17-data.js",
+        "components/StudentGrantsCourse.jsx"
+      ],
+      "component": "StudentGrantsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "04-platinum",
+        "lessonId": "benefits-17"
+      },
+      "status": "pending",
+      "courseNumber": "3.17",
+      "formButton": "Complete Course 3.17"
+    },
+    {
+      "oldId": "gold-course-1-18",
+      "oldRoute": "/course/gold/apprenticeship-funding",
+      "title": "Apprenticeship Funding",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.18",
+      "sourceFiles": [
+        "lib/gold-course-1-18-data.js",
+        "components/ApprenticeshipFundingCourse.jsx"
+      ],
+      "component": "ApprenticeshipFundingCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "04-platinum",
+        "lessonId": "benefits-18"
+      },
+      "status": "pending",
+      "courseNumber": "3.18",
+      "formButton": "Complete Course 3.18"
+    },
+    {
+      "oldId": "gold-course-1-19",
+      "oldRoute": "/course/gold/indigenous-benefits-and-programs",
+      "title": "Indigenous Benefits and Programs",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.19",
+      "sourceFiles": [
+        "lib/gold-course-1-19-data.js",
+        "components/IndigenousBenefitsCourse.jsx"
+      ],
+      "component": "IndigenousBenefitsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "04-platinum",
+        "lessonId": "benefits-19"
+      },
+      "status": "pending",
+      "courseNumber": "3.19",
+      "formButton": "Complete Course 3.19"
+    },
+    {
+      "oldId": "gold-course-1-20",
+      "oldRoute": "/course/gold/newcomer-settlement-supports",
+      "title": "Newcomer Settlement Supports",
+      "oldEyebrow": "GOLD MASTERCLASS · CANADIAN BENEFITS AND FINANCIAL SUPPORT 1.20",
+      "sourceFiles": [
+        "lib/gold-course-1-20-data.js",
+        "components/NewcomerSettlementCourse.jsx"
+      ],
+      "component": "NewcomerSettlementCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "04-platinum",
+        "lessonId": "benefits-20"
+      },
+      "status": "pending",
+      "courseNumber": "3.20",
+      "formButton": "Complete Course 3.20"
+    },
+    {
+      "oldId": "platinum-course-1-1",
+      "oldRoute": "/course/platinum/veteran-benefits",
+      "title": "Veteran Benefits",
+      "oldEyebrow": "PLATINUM TIER · COURSE 1: GRANTS, REBATES AND SPECIAL PROGRAMS",
+      "sourceFiles": [
+        "lib/platinum-course-1-1-data.js",
+        "components/VeteranBenefitsCourse.jsx"
+      ],
+      "component": "VeteranBenefitsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "05-diamond",
+        "lessonId": "benefits-21"
+      },
+      "status": "pending",
+      "courseNumber": "3.21",
+      "formButton": "Complete Course 3.21"
+    },
+    {
+      "oldId": "platinum-course-1-2",
+      "oldRoute": "/course/platinum/senior-home-renovation-programs",
+      "title": "Senior Home-Renovation Programs",
+      "oldEyebrow": "PLATINUM TIER · COURSE 1: GRANTS, REBATES AND SPECIAL PROGRAMS",
+      "sourceFiles": [
+        "lib/platinum-course-1-2-data.js",
+        "components/SeniorHomeRenoCourse.jsx"
+      ],
+      "component": "SeniorHomeRenoCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "05-diamond",
+        "lessonId": "benefits-22"
+      },
+      "status": "pending",
+      "courseNumber": "3.22",
+      "formButton": "Complete Course 3.22"
+    },
+    {
+      "oldId": "platinum-course-1-3",
+      "oldRoute": "/course/platinum/energy-efficiency-rebates",
+      "title": "Energy-Efficiency Rebates",
+      "oldEyebrow": "PLATINUM TIER · COURSE 1: GRANTS, REBATES AND SPECIAL PROGRAMS",
+      "sourceFiles": [
+        "lib/platinum-course-1-3-data.js",
+        "components/EnergyEfficiencyRebatesCourse.jsx"
+      ],
+      "component": "EnergyEfficiencyRebatesCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "05-diamond",
+        "lessonId": "benefits-23"
+      },
+      "status": "pending",
+      "courseNumber": "3.23",
+      "formButton": "Complete Course 3.23"
+    },
+    {
+      "oldId": "platinum-course-1-4",
+      "oldRoute": "/course/platinum/training-grants",
+      "title": "Training Grants",
+      "oldEyebrow": "PLATINUM TIER · COURSE 1: GRANTS, REBATES AND SPECIAL PROGRAMS",
+      "sourceFiles": [
+        "lib/platinum-course-1-4-data.js",
+        "components/TrainingGrantsCourse.jsx"
+      ],
+      "component": "TrainingGrantsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "05-diamond",
+        "lessonId": "benefits-24"
+      },
+      "status": "pending",
+      "courseNumber": "3.24",
+      "formButton": "Complete Course 3.24"
+    },
+    {
+      "oldId": "platinum-course-1-5",
+      "oldRoute": "/course/platinum/small-business-grants",
+      "title": "Small-Business Grants",
+      "oldEyebrow": "PLATINUM TIER · COURSE 1: GRANTS, REBATES AND SPECIAL PROGRAMS",
+      "sourceFiles": [
+        "lib/platinum-course-1-5-data.js",
+        "components/SmallBusinessGrantsCourse.jsx"
+      ],
+      "component": "SmallBusinessGrantsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "05-diamond",
+        "lessonId": "benefits-25"
+      },
+      "status": "pending",
+      "courseNumber": "3.25",
+      "formButton": "Complete Course 3.25"
+    },
+    {
+      "oldId": "platinum-course-1-6",
+      "oldRoute": "/course/platinum/wage-subsidies",
+      "title": "Wage Subsidies",
+      "oldEyebrow": "PLATINUM TIER · COURSE 1: GRANTS, REBATES AND SPECIAL PROGRAMS",
+      "sourceFiles": [
+        "lib/platinum-course-1-6-data.js",
+        "components/WageSubsidiesCourse.jsx"
+      ],
+      "component": "WageSubsidiesCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "06-elite",
+        "lessonId": "benefits-26"
+      },
+      "status": "pending",
+      "courseNumber": "3.26",
+      "formButton": "Complete Course 3.26"
+    },
+    {
+      "oldId": "platinum-course-1-7",
+      "oldRoute": "/course/platinum/first-time-home-buyer-programs",
+      "title": "First-Time Home Buyer Programs",
+      "oldEyebrow": "PLATINUM TIER · COURSE 1: GRANTS, REBATES AND SPECIAL PROGRAMS",
+      "sourceFiles": [
+        "lib/platinum-course-1-7-data.js",
+        "components/FirstTimeHomeBuyerCourse.jsx"
+      ],
+      "component": "FirstTimeHomeBuyerCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "06-elite",
+        "lessonId": "benefits-27"
+      },
+      "status": "pending",
+      "courseNumber": "3.27",
+      "formButton": "Complete Course 3.27"
+    },
+    {
+      "oldId": "platinum-course-1-8",
+      "oldRoute": "/course/platinum/tax-credits-people-commonly-miss",
+      "title": "Tax Credits People Commonly Miss",
+      "oldEyebrow": "PLATINUM TIER · COURSE 1: GRANTS, REBATES AND SPECIAL PROGRAMS",
+      "sourceFiles": [
+        "lib/platinum-course-1-8-data.js",
+        "components/MissedTaxCreditsCourse.jsx"
+      ],
+      "component": "MissedTaxCreditsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "06-elite",
+        "lessonId": "benefits-28"
+      },
+      "status": "pending",
+      "courseNumber": "3.28",
+      "formButton": "Complete Course 3.28"
+    },
+    {
+      "oldId": "platinum-course-1-9",
+      "oldRoute": "/course/platinum/provincial-benefit-finders",
+      "title": "Provincial Benefit Finders",
+      "oldEyebrow": "PLATINUM TIER · COURSE 1: GRANTS, REBATES AND SPECIAL PROGRAMS",
+      "sourceFiles": [
+        "lib/platinum-course-1-9-data.js",
+        "components/ProvincialBenefitFindersCourse.jsx"
+      ],
+      "component": "ProvincialBenefitFindersCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "06-elite",
+        "lessonId": "benefits-29"
+      },
+      "status": "pending",
+      "courseNumber": "3.29",
+      "formButton": "Complete Course 3.29"
+    },
+    {
+      "oldId": "platinum-course-1-10",
+      "oldRoute": "/course/platinum/how-to-apply-without-getting-scammed",
+      "title": "How to Apply Without Getting Scammed",
+      "oldEyebrow": "PLATINUM TIER · COURSE 1: GRANTS, REBATES AND SPECIAL PROGRAMS",
+      "sourceFiles": [
+        "lib/platinum-course-1-10-data.js",
+        "components/ApplyWithoutScamsCourse.jsx"
+      ],
+      "component": "ApplyWithoutScamsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "benefits-support",
+        "tier": "06-elite",
+        "lessonId": "benefits-30"
+      },
+      "status": "pending",
+      "courseNumber": "3.30",
+      "formButton": "Complete Course 3.30"
+    },
+    {
+      "oldId": "platinum-course-2-1",
+      "oldRoute": "/course/platinum/understanding-a-canadian-paycheque",
+      "title": "Understanding a Canadian Paycheque",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-1-data.js",
+        "components/CanadianPaychequeCourse.jsx"
+      ],
+      "component": "CanadianPaychequeCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "01-starter",
+        "lessonId": "tax-01"
+      },
+      "status": "pending",
+      "courseNumber": "4.1",
+      "formButton": "Complete Course 4.1"
+    },
+    {
+      "oldId": "platinum-course-2-2",
+      "oldRoute": "/course/platinum/marginal-tax-rates",
+      "title": "Marginal Tax Rates",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-2-data.js",
+        "components/MarginalTaxRatesCourse.jsx"
+      ],
+      "component": "MarginalTaxRatesCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "01-starter",
+        "lessonId": "tax-02"
+      },
+      "status": "pending",
+      "courseNumber": "4.2",
+      "formButton": "Complete Course 4.2"
+    },
+    {
+      "oldId": "platinum-course-2-3",
+      "oldRoute": "/course/platinum/filing-an-income-tax-return",
+      "title": "Filing an Income-Tax Return",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-3-data.js",
+        "components/FilingIncomeTaxReturnCourse.jsx"
+      ],
+      "component": "FilingIncomeTaxReturnCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "01-starter",
+        "lessonId": "tax-03"
+      },
+      "status": "pending",
+      "courseNumber": "4.3",
+      "formButton": "Complete Course 4.3"
+    },
+    {
+      "oldId": "platinum-course-2-4",
+      "oldRoute": "/course/platinum/common-tax-deductions-and-credits",
+      "title": "Common Tax Deductions and Credits",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-4-data.js",
+        "components/TaxDeductionsCreditsCourse.jsx"
+      ],
+      "component": "TaxDeductionsCreditsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "01-starter",
+        "lessonId": "tax-04"
+      },
+      "status": "pending",
+      "courseNumber": "4.4",
+      "formButton": "Complete Course 4.4"
+    },
+    {
+      "oldId": "platinum-course-2-5",
+      "oldRoute": "/course/platinum/tfsa-basics",
+      "title": "TFSA Basics",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-5-data.js",
+        "components/TFSABasicsCourse.jsx"
+      ],
+      "component": "TFSABasicsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "02-silver",
+        "lessonId": "tax-05"
+      },
+      "status": "pending",
+      "courseNumber": "4.5",
+      "formButton": "Complete Course 4.5"
+    },
+    {
+      "oldId": "platinum-course-2-6",
+      "oldRoute": "/course/platinum/rrsp-basics",
+      "title": "RRSP Basics",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-6-data.js",
+        "components/RRSPBasicsCourse.jsx"
+      ],
+      "component": "RRSPBasicsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "02-silver",
+        "lessonId": "tax-06"
+      },
+      "status": "pending",
+      "courseNumber": "4.6",
+      "formButton": "Complete Course 4.6"
+    },
+    {
+      "oldId": "platinum-course-2-7",
+      "oldRoute": "/course/platinum/fhsa-basics",
+      "title": "FHSA Basics",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-7-data.js",
+        "components/FHSABasicsCourse.jsx"
+      ],
+      "component": "FHSABasicsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "02-silver",
+        "lessonId": "tax-07"
+      },
+      "status": "pending",
+      "courseNumber": "4.7",
+      "formButton": "Complete Course 4.7"
+    },
+    {
+      "oldId": "platinum-course-2-8",
+      "oldRoute": "/course/platinum/resp-basics",
+      "title": "RESP Basics",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-8-data.js",
+        "components/RESPBasicsCourse.jsx"
+      ],
+      "component": "RESPBasicsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "02-silver",
+        "lessonId": "tax-08"
+      },
+      "status": "pending",
+      "courseNumber": "4.8",
+      "formButton": "Complete Course 4.8"
+    },
+    {
+      "oldId": "platinum-course-2-9",
+      "oldRoute": "/course/platinum/rdsp-basics",
+      "title": "RDSP Basics",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-9-data.js",
+        "components/RDSPBasicsCourse.jsx"
+      ],
+      "component": "RDSPBasicsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "03-gold",
+        "lessonId": "tax-09"
+      },
+      "status": "pending",
+      "courseNumber": "4.9",
+      "formButton": "Complete Course 4.9"
+    },
+    {
+      "oldId": "platinum-course-2-10",
+      "oldRoute": "/course/platinum/rrif-basics",
+      "title": "RRIF Basics",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-10-data.js",
+        "components/RRIFBasicsCourse.jsx"
+      ],
+      "component": "RRIFBasicsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "03-gold",
+        "lessonId": "tax-10"
+      },
+      "status": "pending",
+      "courseNumber": "4.10",
+      "formButton": "Complete Course 4.10"
+    },
+    {
+      "oldId": "platinum-course-2-11",
+      "oldRoute": "/course/platinum/tax-free-versus-tax-deferred-growth",
+      "title": "Tax-Free Versus Tax-Deferred Growth",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-11-data.js",
+        "components/TaxFreeVsTaxDeferredCourse.jsx"
+      ],
+      "component": "TaxFreeVsTaxDeferredCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "03-gold",
+        "lessonId": "tax-11"
+      },
+      "status": "pending",
+      "courseNumber": "4.11",
+      "formButton": "Complete Course 4.11"
+    },
+    {
+      "oldId": "platinum-course-2-12",
+      "oldRoute": "/course/platinum/investment-fees",
+      "title": "Investment Fees",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-12-data.js",
+        "components/InvestmentFeesCourse.jsx"
+      ],
+      "component": "InvestmentFeesCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "04-platinum",
+        "lessonId": "tax-12"
+      },
+      "status": "pending",
+      "courseNumber": "4.12",
+      "formButton": "Complete Course 4.12"
+    },
+    {
+      "oldId": "platinum-course-2-13",
+      "oldRoute": "/course/platinum/etfs-and-mutual-funds",
+      "title": "ETFs and Mutual Funds",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-13-data.js",
+        "components/ETFsMutualFundsCourse.jsx"
+      ],
+      "component": "ETFsMutualFundsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "04-platinum",
+        "lessonId": "tax-13"
+      },
+      "status": "pending",
+      "courseNumber": "4.13",
+      "formButton": "Complete Course 4.13"
+    },
+    {
+      "oldId": "platinum-course-2-14",
+      "oldRoute": "/course/platinum/risk-tolerance",
+      "title": "Risk Tolerance",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-14-data.js",
+        "components/RiskToleranceCourse.jsx"
+      ],
+      "component": "RiskToleranceCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "04-platinum",
+        "lessonId": "tax-14"
+      },
+      "status": "pending",
+      "courseNumber": "4.14",
+      "formButton": "Complete Course 4.14"
+    },
+    {
+      "oldId": "platinum-course-2-15",
+      "oldRoute": "/course/platinum/compound-growth",
+      "title": "Compound Growth",
+      "oldEyebrow": "PLATINUM TIER · COURSE 2: CANADIAN TAX AND WEALTH FOUNDATIONS",
+      "sourceFiles": [
+        "lib/platinum-course-2-15-data.js",
+        "components/CompoundGrowthCourse.jsx"
+      ],
+      "component": "CompoundGrowthCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "05-diamond",
+        "lessonId": "tax-15"
+      },
+      "status": "pending",
+      "courseNumber": "4.15",
+      "formButton": "Complete Course 4.15"
+    },
+    {
+      "oldId": "diamond-course-1-1",
+      "oldRoute": "/course/diamond/canadian-retirement-planning",
+      "title": "Canadian Retirement Planning",
+      "oldEyebrow": "DIAMOND MASTERCLASS · ADVANCED TAX AND WEALTH 1.1",
+      "sourceFiles": [
+        "lib/diamond-course-1-1-data.js",
+        "components/CanadianRetirementPlanningCourse.jsx"
+      ],
+      "component": "CanadianRetirementPlanningCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "05-diamond",
+        "lessonId": "tax-16"
+      },
+      "status": "pending",
+      "courseNumber": "4.16",
+      "formButton": "Complete Course 4.16"
+    },
+    {
+      "oldId": "diamond-course-1-2",
+      "oldRoute": "/course/diamond/estate-and-beneficiary-basics",
+      "title": "Estate and Beneficiary Basics",
+      "oldEyebrow": "DIAMOND MASTERCLASS · ADVANCED TAX AND WEALTH 1.2",
+      "sourceFiles": [
+        "lib/diamond-course-1-2-data.js",
+        "components/EstateAndBeneficiaryBasicsCourse.jsx"
+      ],
+      "component": "EstateAndBeneficiaryBasicsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "05-diamond",
+        "lessonId": "tax-17"
+      },
+      "status": "pending",
+      "courseNumber": "4.17",
+      "formButton": "Complete Course 4.17"
+    },
+    {
+      "oldId": "diamond-course-1-3",
+      "oldRoute": "/course/diamond/self-employment-taxes",
+      "title": "Self-Employment Taxes",
+      "oldEyebrow": "DIAMOND MASTERCLASS · ADVANCED TAX AND WEALTH 1.3",
+      "sourceFiles": [
+        "lib/diamond-course-1-3-data.js",
+        "components/SelfEmploymentTaxesCourse.jsx"
+      ],
+      "component": "SelfEmploymentTaxesCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "06-elite",
+        "lessonId": "tax-18"
+      },
+      "status": "pending",
+      "courseNumber": "4.18",
+      "formButton": "Complete Course 4.18"
+    },
+    {
+      "oldId": "diamond-course-1-4",
+      "oldRoute": "/course/diamond/gst-hst-for-small-businesses",
+      "title": "GST/HST for Small Businesses",
+      "oldEyebrow": "DIAMOND MASTERCLASS · ADVANCED TAX AND WEALTH 1.4",
+      "sourceFiles": [
+        "lib/diamond-course-1-4-data.js",
+        "components/GstHstForSmallBusinessesCourse.jsx"
+      ],
+      "component": "GstHstForSmallBusinessesCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "06-elite",
+        "lessonId": "tax-19"
+      },
+      "status": "pending",
+      "courseNumber": "4.19",
+      "formButton": "Complete Course 4.19"
+    },
+    {
+      "oldId": "diamond-course-1-5",
+      "oldRoute": "/course/diamond/keeping-cra-records",
+      "title": "Keeping CRA Records",
+      "oldEyebrow": "DIAMOND MASTERCLASS · ADVANCED TAX AND WEALTH 1.5",
+      "sourceFiles": [
+        "lib/diamond-course-1-5-data.js",
+        "components/KeepingCraRecordsCourse.jsx"
+      ],
+      "component": "KeepingCraRecordsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "tax-wealth",
+        "tier": "06-elite",
+        "lessonId": "tax-20"
+      },
+      "status": "pending",
+      "courseNumber": "4.20",
+      "formButton": "Complete Course 4.20"
+    },
+    {
+      "oldId": "gold-course-2-1",
+      "oldRoute": "/course/gold/senior-companion-services",
+      "title": "Senior Companion Services",
+      "oldEyebrow": "GOLD MASTERCLASS · ADDITIONAL INCOME OPPORTUNITIES 2.1",
+      "sourceFiles": [
+        "lib/gold-course-2-1-data.js",
+        "components/SeniorCompanionServicesCourse.jsx"
+      ],
+      "component": "SeniorCompanionServicesCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "income-business",
+        "tier": "01-starter",
+        "lessonId": "income-01"
+      },
+      "status": "pending",
+      "courseNumber": "5.1",
+      "formButton": "Complete Course 5.1"
+    },
+    {
+      "oldId": "gold-course-2-2",
+      "oldRoute": "/course/gold/online-tutoring",
+      "title": "Online Tutoring",
+      "oldEyebrow": "GOLD MASTERCLASS · ADDITIONAL INCOME OPPORTUNITIES 2.2",
+      "sourceFiles": [
+        "lib/gold-course-2-2-data.js",
+        "components/OnlineTutoringCourse.jsx"
+      ],
+      "component": "OnlineTutoringCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "income-business",
+        "tier": "01-starter",
+        "lessonId": "income-02"
+      },
+      "status": "pending",
+      "courseNumber": "5.2",
+      "formButton": "Complete Course 5.2"
+    },
+    {
+      "oldId": "gold-course-2-3",
+      "oldRoute": "/course/gold/reselling-products",
+      "title": "Reselling Products",
+      "oldEyebrow": "GOLD MASTERCLASS · ADDITIONAL INCOME OPPORTUNITIES 2.3",
+      "sourceFiles": [
+        "lib/gold-course-2-3-data.js",
+        "components/ResellingProductsCourse.jsx"
+      ],
+      "component": "ResellingProductsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "income-business",
+        "tier": "01-starter",
+        "lessonId": "income-03"
+      },
+      "status": "pending",
+      "courseNumber": "5.3",
+      "formButton": "Complete Course 5.3"
+    },
+    {
+      "oldId": "gold-course-2-4",
+      "oldRoute": "/course/gold/marketplace-flipping",
+      "title": "Marketplace Flipping",
+      "oldEyebrow": "GOLD MASTERCLASS · ADDITIONAL INCOME OPPORTUNITIES 2.4",
+      "sourceFiles": [
+        "lib/gold-course-2-4-data.js",
+        "components/MarketplaceFlippingCourse.jsx"
+      ],
+      "component": "MarketplaceFlippingCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "income-business",
+        "tier": "01-starter",
+        "lessonId": "income-04"
+      },
+      "status": "pending",
+      "courseNumber": "5.4",
+      "formButton": "Complete Course 5.4"
+    },
+    {
+      "oldId": "gold-course-2-5",
+      "oldRoute": "/course/gold/getting-your-first-customer",
+      "title": "Getting Your First Customer",
+      "oldEyebrow": "GOLD MASTERCLASS · ADDITIONAL INCOME OPPORTUNITIES 2.5",
+      "sourceFiles": [
+        "lib/gold-course-2-5-data.js",
+        "components/GettingYourFirstCustomerCourse.jsx"
+      ],
+      "component": "GettingYourFirstCustomerCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "income-business",
+        "tier": "02-silver",
+        "lessonId": "income-05"
+      },
+      "status": "pending",
+      "courseNumber": "5.5",
+      "formButton": "Complete Course 5.5"
+    },
+    {
+      "oldId": "diamond-course-2-1",
+      "oldRoute": "/course/diamond/beginner-fitness-for-men",
+      "title": "Beginner Fitness for Men",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.1",
+      "sourceFiles": [
+        "lib/diamond-course-2-1-data.js",
+        "components/BeginnerFitnessForMenCourse.jsx"
+      ],
+      "component": "BeginnerFitnessForMenCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "01-starter",
+        "lessonId": "health-01"
+      },
+      "status": "pending",
+      "courseNumber": "6.1",
+      "formButton": "Complete Course 6.1"
+    },
+    {
+      "oldId": "diamond-course-2-2",
+      "oldRoute": "/course/diamond/beginner-fitness-for-women",
+      "title": "Beginner Fitness for Women",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.2",
+      "sourceFiles": [
+        "lib/diamond-course-2-2-data.js",
+        "components/BeginnerFitnessForWomenCourse.jsx"
+      ],
+      "component": "BeginnerFitnessForWomenCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "01-starter",
+        "lessonId": "health-02"
+      },
+      "status": "pending",
+      "courseNumber": "6.2",
+      "formButton": "Complete Course 6.2"
+    },
+    {
+      "oldId": "diamond-course-2-3",
+      "oldRoute": "/course/diamond/home-workouts",
+      "title": "Home Workouts",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.3",
+      "sourceFiles": [
+        "lib/diamond-course-2-3-data.js",
+        "components/HomeWorkoutsCourse.jsx"
+      ],
+      "component": "HomeWorkoutsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "01-starter",
+        "lessonId": "health-03"
+      },
+      "status": "pending",
+      "courseNumber": "6.3",
+      "formButton": "Complete Course 6.3"
+    },
+    {
+      "oldId": "diamond-course-2-4",
+      "oldRoute": "/course/diamond/gym-fundamentals",
+      "title": "Gym Fundamentals",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.4",
+      "sourceFiles": [
+        "lib/diamond-course-2-4-data.js",
+        "components/GymFundamentalsCourse.jsx"
+      ],
+      "component": "GymFundamentalsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "01-starter",
+        "lessonId": "health-04"
+      },
+      "status": "pending",
+      "courseNumber": "6.4",
+      "formButton": "Complete Course 6.4"
+    },
+    {
+      "oldId": "diamond-course-2-5",
+      "oldRoute": "/course/diamond/strength-training",
+      "title": "Strength Training",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.5",
+      "sourceFiles": [
+        "lib/diamond-course-2-5-data.js",
+        "components/StrengthTrainingCourse.jsx"
+      ],
+      "component": "StrengthTrainingCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "01-starter",
+        "lessonId": "health-05"
+      },
+      "status": "pending",
+      "courseNumber": "6.5",
+      "formButton": "Complete Course 6.5"
+    },
+    {
+      "oldId": "diamond-course-2-6",
+      "oldRoute": "/course/diamond/muscle-building",
+      "title": "Muscle Building",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.6",
+      "sourceFiles": [
+        "lib/diamond-course-2-6-data.js",
+        "components/MuscleBuildingCourse.jsx"
+      ],
+      "component": "MuscleBuildingCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "02-silver",
+        "lessonId": "health-06"
+      },
+      "status": "pending",
+      "courseNumber": "6.6",
+      "formButton": "Complete Course 6.6"
+    },
+    {
+      "oldId": "diamond-course-2-7",
+      "oldRoute": "/course/diamond/fat-loss-fundamentals",
+      "title": "Fat-Loss Fundamentals",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.7",
+      "sourceFiles": [
+        "lib/diamond-course-2-7-data.js",
+        "components/FatLossFundamentalsCourse.jsx"
+      ],
+      "component": "FatLossFundamentalsCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "02-silver",
+        "lessonId": "health-07"
+      },
+      "status": "pending",
+      "courseNumber": "6.7",
+      "formButton": "Complete Course 6.7"
+    },
+    {
+      "oldId": "diamond-course-2-8",
+      "oldRoute": "/course/diamond/low-impact-fitness",
+      "title": "Low-Impact Fitness",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.8",
+      "sourceFiles": [
+        "lib/diamond-course-2-8-data.js",
+        "components/LowImpactFitnessCourse.jsx"
+      ],
+      "component": "LowImpactFitnessCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "02-silver",
+        "lessonId": "health-08"
+      },
+      "status": "pending",
+      "courseNumber": "6.8",
+      "formButton": "Complete Course 6.8"
+    },
+    {
+      "oldId": "diamond-course-2-9",
+      "oldRoute": "/course/diamond/fitness-over-40",
+      "title": "Fitness Over 40",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.9",
+      "sourceFiles": [
+        "lib/diamond-course-2-9-data.js",
+        "components/FitnessOver40Course.jsx"
+      ],
+      "component": "FitnessOver40Course",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "02-silver",
+        "lessonId": "health-09"
+      },
+      "status": "pending",
+      "courseNumber": "6.9",
+      "formButton": "Complete Course 6.9"
+    },
+    {
+      "oldId": "diamond-course-2-10",
+      "oldRoute": "/course/diamond/fitness-over-50",
+      "title": "Fitness Over 50",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.10",
+      "sourceFiles": [
+        "lib/diamond-course-2-10-data.js",
+        "components/FitnessOver50Course.jsx"
+      ],
+      "component": "FitnessOver50Course",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "02-silver",
+        "lessonId": "health-10"
+      },
+      "status": "pending",
+      "courseNumber": "6.10",
+      "formButton": "Complete Course 6.10"
+    },
+    {
+      "oldId": "diamond-course-2-11",
+      "oldRoute": "/course/diamond/mobility",
+      "title": "Mobility",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.11",
+      "sourceFiles": [
+        "lib/diamond-course-2-11-data.js",
+        "components/MobilityCourse.jsx"
+      ],
+      "component": "MobilityCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "03-gold",
+        "lessonId": "health-11"
+      },
+      "status": "pending",
+      "courseNumber": "6.11",
+      "formButton": "Complete Course 6.11"
+    },
+    {
+      "oldId": "diamond-course-2-12",
+      "oldRoute": "/course/diamond/flexibility",
+      "title": "Flexibility",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.12",
+      "sourceFiles": [
+        "lib/diamond-course-2-12-data.js",
+        "components/FlexibilityCourse.jsx"
+      ],
+      "component": "FlexibilityCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "03-gold",
+        "lessonId": "health-12"
+      },
+      "status": "pending",
+      "courseNumber": "6.12",
+      "formButton": "Complete Course 6.12"
+    },
+    {
+      "oldId": "diamond-course-2-13",
+      "oldRoute": "/course/diamond/core-strength",
+      "title": "Core Strength",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.13",
+      "sourceFiles": [
+        "lib/diamond-course-2-13-data.js",
+        "components/CoreStrengthCourse.jsx"
+      ],
+      "component": "CoreStrengthCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "03-gold",
+        "lessonId": "health-13"
+      },
+      "status": "pending",
+      "courseNumber": "6.13",
+      "formButton": "Complete Course 6.13"
+    },
+    {
+      "oldId": "diamond-course-2-14",
+      "oldRoute": "/course/diamond/resistance-band-training",
+      "title": "Resistance-Band Training",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.14",
+      "sourceFiles": [
+        "lib/diamond-course-2-14-data.js",
+        "components/ResistanceBandTrainingCourse.jsx"
+      ],
+      "component": "ResistanceBandTrainingCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "03-gold",
+        "lessonId": "health-14"
+      },
+      "status": "pending",
+      "courseNumber": "6.14",
+      "formButton": "Complete Course 6.14"
+    },
+    {
+      "oldId": "diamond-course-2-15",
+      "oldRoute": "/course/diamond/bodyweight-training",
+      "title": "Bodyweight Training",
+      "oldEyebrow": "DIAMOND MASTERCLASS · FITNESS FOUNDATIONS 2.15",
+      "sourceFiles": [
+        "lib/diamond-course-2-15-data.js",
+        "components/BodyweightTrainingCourse.jsx"
+      ],
+      "component": "BodyweightTrainingCourse",
+      "imageFolders": [],
+      "proposed": {
+        "category": "health-fitness",
+        "tier": "03-gold",
+        "lessonId": "health-15"
+      },
+      "status": "pending",
+      "courseNumber": "6.15",
+      "formButton": "Complete Course 6.15"
+    },
+    {
+      "oldId": "silver-course-3-5",
+      "oldRoute": "/course/silver/cleaning-businesses",
+      "title": "Cleaning Businesses",
+      "oldEyebrow": "SILVER MASTERCLASS · INSTANT CASH SIDE HUSTLES 3.5",
+      "sourceFiles": [
+        "lib/silver-course-35-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=cleaning)",
+      "imageFolders": [],
+      "proposed": null,
+      "status": "dropped"
+    },
+    {
+      "oldId": "silver-course-3-3",
+      "oldRoute": "/course/silver/freelancing",
+      "title": "Freelancing",
+      "oldEyebrow": "SILVER MASTERCLASS · INSTANT CASH SIDE HUSTLES 3.3",
+      "sourceFiles": [
+        "lib/silver-course-33-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=freelancing)",
+      "imageFolders": [],
+      "proposed": null,
+      "status": "dropped"
+    },
+    {
+      "oldId": "silver-course-3-2",
+      "oldRoute": "/course/silver/gig-work-in-canada",
+      "title": "Gig Work in Canada",
+      "oldEyebrow": "SILVER MASTERCLASS · INSTANT CASH SIDE HUSTLES 3.2",
+      "sourceFiles": [
+        "lib/silver-course-32-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=gigWork)",
+      "imageFolders": [],
+      "proposed": null,
+      "status": "dropped"
+    },
+    {
+      "oldId": "silver-course-3-8",
+      "oldRoute": "/course/silver/lawn-care",
+      "title": "Lawn Care",
+      "oldEyebrow": "SILVER MASTERCLASS · INSTANT CASH SIDE HUSTLES 3.8",
+      "sourceFiles": [
+        "lib/silver-course-38-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=lawnCare)",
+      "imageFolders": [],
+      "proposed": null,
+      "status": "dropped"
+    },
+    {
+      "oldId": "silver-course-3-9",
+      "oldRoute": "/course/silver/mobile-detailing",
+      "title": "Mobile Detailing",
+      "oldEyebrow": "SILVER MASTERCLASS · INSTANT CASH SIDE HUSTLES 3.9",
+      "sourceFiles": [
+        "lib/silver-course-39-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=mobileDetailing)",
+      "imageFolders": [],
+      "proposed": null,
+      "status": "dropped"
+    },
+    {
+      "oldId": "silver-course-3-10",
+      "oldRoute": "/course/silver/pet-services",
+      "title": "Pet Services",
+      "oldEyebrow": "SILVER MASTERCLASS · INSTANT CASH SIDE HUSTLES 3.10",
+      "sourceFiles": [
+        "lib/silver-course-3-10-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=petServices)",
+      "imageFolders": [],
+      "proposed": null,
+      "status": "dropped"
+    },
+    {
+      "oldId": "silver-course-3-6",
+      "oldRoute": "/course/silver/property-maintenance",
+      "title": "Property Maintenance",
+      "oldEyebrow": "SILVER MASTERCLASS · INSTANT CASH SIDE HUSTLES 3.6",
+      "sourceFiles": [
+        "lib/silver-course-36-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=propertyMaintenance)",
+      "imageFolders": [],
+      "proposed": null,
+      "status": "dropped"
+    },
+    {
+      "oldId": "silver-course-3-7",
+      "oldRoute": "/course/silver/snow-removal",
+      "title": "Snow Removal",
+      "oldEyebrow": "SILVER MASTERCLASS · INSTANT CASH SIDE HUSTLES 3.7",
+      "sourceFiles": [
+        "lib/silver-course-37-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=snowRemoval)",
+      "imageFolders": [],
+      "proposed": null,
+      "status": "dropped"
+    },
+    {
+      "oldId": "silver-course-3-1",
+      "oldRoute": "/course/silver/starting-a-side-hustle",
+      "title": "Starting a Side Hustle",
+      "oldEyebrow": "SILVER MASTERCLASS · INSTANT CASH SIDE HUSTLES 3.1",
+      "sourceFiles": [
+        "lib/silver-course-31-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=sideHustle)",
+      "imageFolders": [],
+      "proposed": null,
+      "status": "dropped"
+    },
+    {
+      "oldId": "silver-course-3-4",
+      "oldRoute": "/course/silver/virtual-assistance",
+      "title": "Virtual Assistance",
+      "oldEyebrow": "SILVER MASTERCLASS · INSTANT CASH SIDE HUSTLES 3.4",
+      "sourceFiles": [
+        "lib/silver-course-34-data.js",
+        "components/MajorMoneyDecisionCourse.jsx"
+      ],
+      "component": "MajorMoneyDecisionCourse (kind=virtualAssistance)",
+      "imageFolders": [],
+      "proposed": null,
+      "status": "dropped"
+    }
+  ],
+  "newLessonsWithNoOldSource": [
+    "income-business/income-06 Digital Products",
+    "income-business/income-07 Affiliate Marketing",
+    "income-business/income-08 Print on Demand",
+    "income-business/income-09 Ecommerce",
+    "income-business/income-10 AI-Assisted Businesses",
+    "income-business/income-11 Social-Media Management",
+    "income-business/income-12 Local Lead Generation",
+    "income-business/income-13 Starting a Small Corporation",
+    "income-business/income-14 Sole Proprietor Versus Corporation",
+    "income-business/income-15 Canadian Business Registration",
+    "income-business/income-16 Basic Bookkeeping",
+    "income-business/income-17 GST/HST",
+    "income-business/income-18 Pricing Services",
+    "income-business/income-19 Building Recurring Revenue",
+    "income-business/income-20 Moving From Side Hustle to Business",
+    "health-fitness/health-16 HIIT",
+    "health-fitness/health-17 Walking Programs",
+    "health-fitness/health-18 Running Programs",
+    "health-fitness/health-19 Boxing Fitness",
+    "health-fitness/health-20 Kickboxing Fitness",
+    "health-fitness/health-21 Yoga",
+    "health-fitness/health-22 Pilates",
+    "health-fitness/health-23 Desk-Worker Mobility",
+    "health-fitness/health-24 Healthy Meal Planning",
+    "health-fitness/health-25 Protein and Nutrition Basics",
+    "health-fitness/health-26 Sleep and Recovery",
+    "health-fitness/health-27 Habit Building",
+    "health-fitness/health-28 Stress Management",
+    "health-fitness/health-29 Thirty-Day Challenges",
+    "health-fitness/health-30 Twelve-Week Transformations"
+  ],
+  "droppedNote": "Silver side-hustle courses dropped by owner decision 2026-10-13 (used elsewhere).",
+  "formButtonRule": "Your Action form submit button reads \"Complete Course <courseNumber>\"; courseNumber = <category position>.<lesson number> and matches the hero eyebrow (e.g. credit-11 = 1.11, money-01 = 2.1). Computed in the lesson page; per-course value stored as formButton."
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Canadian Bank Accounts and Fees",
+  "summary": "Inspect three statements, annualize the real cost and compare account options against the way money is used.",
+  "subtitle": "Your Bank Account Has a Cover Charge. The ATM May Be Running a Side Business.",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A Canadian bank account should match the way you receive, hold and use money."
+        },
+        {
+          "type": "paragraph",
+          "text": "The monthly package price is only the front door; transaction limits, ATM networks, statements, overdraft and other service charges may be waiting politely in the hallway with their coats on."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this Fee Mystery Shop, you will inspect three statements, identify every charge, annualize the real cost and compare account options using your own transaction habits. The goal is not to find an account that merely says “free.” The goal is to find the best fit after the fine print has finished talking."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Chequing accounts",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/banking/bank-accounts/chequing-accounts.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "The useful price is TOTAL USE COST: the package fee plus the extra charges created by how, where and how often the account is used."
+        },
+        {
+          "type": "heading",
+          "text": "First, Give Each Account One Clear Job"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "CHEQUING ACCOUNT",
+              "text": "Day-to-day deposits, debit purchases, bill payments, transfers and cash access. It usually offers lower transaction fees than a savings account.",
+              "detail": "ACCOUNT JOB"
+            },
+            {
+              "title": "SAVINGS ACCOUNT",
+              "text": "Money set aside for goals or reserves, often earning interest. Check transfer and withdrawal fees before using it like a chequing account.",
+              "detail": "ACCOUNT JOB"
+            },
+            {
+              "title": "PURPOSE-BASED ACCOUNT",
+              "text": "A separate chequing or savings location assigned to bills, daily spending or a goal. The name is your system; the product rules still decide the fees.",
+              "detail": "ACCOUNT JOB"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Your Mystery-Shop Brief"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every account candidate must answer four questions."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "BEHAVIOUR",
+              "text": "How many debit, transfer, ATM, branch and cheque transactions occur in a normal month?"
+            },
+            {
+              "title": "INCLUSIONS",
+              "text": "Which of those activities are included in the package, and what counts toward the limit?"
+            },
+            {
+              "title": "BREAK POINT",
+              "text": "What fee appears when a limit, balance condition or promotion is broken?"
+            },
+            {
+              "title": "ANNUAL COST",
+              "text": "What would twelve months of this real behaviour cost?"
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The account with the lowest monthly fee is automatically the cheapest.”",
+              "text": "The cheapest account is the one with the lowest total cost for the services you use, not the one with the smallest number on the sign. A small package can turn expensive fast when ordinary activity keeps spilling outside it."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "The headline fee is rarely the real fee, and this audit finds the difference in ten minutes.",
+          "detail": "Three real statements are about to reveal every charge hiding behind your account’s advertised price.",
+          "extra": "Exhibit A ahead turns three statements into a paper trail."
+        }
+      ]
+    },
+    {
+      "id": "audit",
+      "title": "Exhibit A: The Three-Statement Fee Audit",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cristina reviews three fictional statements. Each fee is grouped by cause so she can decide whether to change a habit, change the package or challenge an error."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "MAY — $18.95",
+              "text": "Package $16.95 + paper statement $2.00 — Was the paper format requested and is digital suitable?"
+            },
+            {
+              "title": "JUNE — $29.95",
+              "text": "Package $16.95 + paper $2.00 + ATM charges $11.00 — Did more than one ATM fee apply?"
+            },
+            {
+              "title": "JULY — $36.45",
+              "text": "Package $16.95 + paper $2.00 + extra debits $7.50 + NSF $10.00 — Which timing and plan-limit problems created these fees?"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "THREE-MONTH RESULT"
+        },
+        {
+          "type": "paragraph",
+          "text": "$18.95 + $29.95 + $36.45 = $85.35."
+        },
+        {
+          "type": "paragraph",
+          "text": "Average monthly cost: $28.45, roughly double what the $16.95 headline promised. Annualized cost if the pattern continues: $28.45 × 12 = $341.40."
+        },
+        {
+          "type": "heading",
+          "text": "Why One ATM Visit Can Leave Several Fingerprints"
+        },
+        {
+          "type": "paragraph",
+          "text": "FCAC identifies three possible layers: a regular account fee from your own institution, a network-access fee when the ATM is not owned by your institution, and a convenience fee from the ATM operator. The screen may show one charge while a second one turns up later on the statement, uninvited."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: ATM fees",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/banking/atm-fees.html"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“An out-of-network ATM withdrawal creates only the fee shown on the machine.”",
+              "text": "The operator’s convenience fee may be only one layer. Your own institution may also apply a regular transaction or network-access fee under the account agreement."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "An ATM fee is not fully investigated until the learner checks both the on-screen notice and the posted account transaction. One withdrawal can leave more than one receipt-shaped footprint."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A woman reviewing bank statements with a calculator and receipts.",
+              "text": "A woman reviewing bank statements with a calculator and receipts.",
+              "image": "/images/money-budgeting/01-starter/money-04/money04-image-1.webp"
+            },
+            {
+              "title": "A man comparing two account statements at his kitchen table.",
+              "text": "A man comparing two account statements at his kitchen table.",
+              "image": "/images/money-budgeting/01-starter/money-04/money04-image-2.webp"
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "text": "Meet Cristina",
+          "detail": "CRISTINA’S $16.95 ACCOUNT",
+          "extra": "",
+          "paragraphs": [
+            "Cristina lives in Kelowna and is sure her chequing account costs $16.95 a month. It says so right on the statement, case closed. Then she adds up the real total, and it refuses to match the headline. Her account, it turns out, has clues, and every clue is priced separately.",
+            "Cristina’s paper statement quietly bills her $2 a month. Her June ATM sat one block outside her network, conveniently right next to her evening job. In July, 27 debits blew past her 25-transaction limit, and a pre-authorized payment landed one day before payday and helped itself to an NSF fee on the way out. None of this is random. It is a map of exactly where the account and her routine disagree.",
+            "A promotional account dangles a $0 monthly fee, on one condition: Cristina leaves $4,000 untouched. That number is most of her emergency fund. For a second, the word free does its usual trick. Then Cristina works out what “untouched” would cost her and passes. A free account that holds her safety net hostage is not free. It is a polite standoff, but a standoff all the same.",
+            "Instead, Cristina confirms the real terms, switches to digital statements, sets a balance alert and picks the better-fit package, the one with no minimum-balance condition attached. The projected saving comes to $210 a year. She did not choose it because the headline number was smallest. She chose it because, for once, the price and her actual month agree.",
+            "Two statements later, her emergency fund is still hers, the nearby ATM is back in-network, and the paper fee has vanished. The $16.95 headline was accurate the whole time. It just was not the whole story. Case closed, this time for real."
+          ],
+          "image": "/images/money-budgeting/01-starter/money-04/money04-image-3.webp"
+        },
+        {
+          "type": "transition",
+          "text": "Cristina’s audit found $210 a year hiding in three ordinary statements.",
+          "detail": "The same layer-by-layer check she ran can find your account’s hidden charges before your next statement does.",
+          "extra": "The Fee Detective Checklist in Section 03 turns her method into your own."
+        }
+      ]
+    },
+    {
+      "id": "detective",
+      "title": "The Fee Detective Checklist",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "Package",
+              "text": "Start with the advertised account package. Monthly charge, included transaction count, what counts as a debit and any age, status or product-bundle discount. Ask while reviewing: What does the base price include before an extra fee begins?",
+              "detail": "LAYER 01 · BASE COST",
+              "icon": "filetext"
+            },
+            {
+              "title": "Use",
+              "text": "Match the package to the way money actually moves. Interac e-Transfers, branch or teller visits, cheques, paper statements, ATM network and cash-access habits. Ask while reviewing: Which normal monthly activity falls outside the package?",
+              "detail": "LAYER 02 · DAILY HABITS",
+              "icon": "files"
+            },
+            {
+              "title": "Risk",
+              "text": "Find charges that appear when timing goes wrong. Overdraft fee model and interest, NSF treatment, stop-payment charges and low-balance alerts. Ask while reviewing: What warning or timing change could prevent the next charge?",
+              "detail": "LAYER 03 · FEE EXPOSURE",
+              "icon": "search"
+            },
+            {
+              "title": "Conditions",
+              "text": "Read the rules that can change the advertised price. Minimum-balance waiver, promotional expiry, foreign-use or currency-conversion charges and account-closing fees. Ask while reviewing: What date, balance or account action changes the price?",
+              "detail": "LAYER 04 · FINE PRINT",
+              "icon": "filecheck"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Under the modernized federal commitment, all Canadians can access a participating low-cost account at $4 a month or less, with no minimum-balance requirement and at least 18 debit transactions. Eligible groups can receive the same core account at no monthly fee."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Low-cost and no-cost accounts",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/banking/bank-accounts/low-cost-no-cost.html"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Low-cost and no-cost accounts are the same, and everyone automatically qualifies for both.”",
+              "text": "The participating low-cost option is available to all Canadians. No-cost eligibility applies to specified groups, and learners should confirm qualifications and included services with the institution."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Compare the Account to the Behaviour"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cristina enters her actual needs into FCAC’s Account Comparison Tool: about 30 self-serve debits, four e-Transfers, rare branch use, digital statements, no minimum-balance condition and a convenient ATM network. The tool compares features, but FCAC warns that additional charges may apply; Cristina still confirms the complete fee schedule with each institution."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Account Comparison Tool",
+          "url": "https://itools-ioutils.fcac-acfc.gc.ca/ACT-OCC/SearchFilter-eng.aspx"
+        },
+        {
+          "type": "heading",
+          "text": "FICTIONAL SHORTLIST"
+        },
+        {
+          "type": "paragraph",
+          "text": "Current pattern: $341.40 annualized."
+        },
+        {
+          "type": "paragraph",
+          "text": "Better-fit package: $10.95 monthly with Cristina’s normal self-serve activity, e-Transfers and digital statements included, plus an own-network ATM near work. Expected package cost: $131.40 a year, subject to the verified agreement."
+        }
+      ]
+    },
+    {
+      "id": "close-case",
+      "title": "Three Ways to Close a Fee Case",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Change the habit.",
+              "text": "Use own-network ATMs, digital statements and early-warning alerts."
+            },
+            {
+              "title": "Change the package.",
+              "text": "Compare available plans against the last three months of use."
+            },
+            {
+              "title": "Change the institution.",
+              "text": "Compare total cost and access, then transfer payments carefully."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Switch Without Creating a Final Surprise"
+        },
+        {
+          "type": "paragraph",
+          "text": "Open and test the new account before closing the old one. Move direct deposits and pre-authorized debits, fund both accounts during the overlap and confirm that no payment remains outstanding."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Transferring products or services",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/banking/transferring-products-services.html"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Once the new account opens, I should close the old account immediately.”",
+              "text": "Closing too early can strand a direct deposit or cause an old pre-authorized debit to fail. FCAC advises monitoring both accounts until the new arrangement is operating properly."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "When a federally regulated bank introduces a new charge or increases a fee, it must provide written information. Keep the account agreement and fee notices; they turn a vague complaint into a documented case."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Opening a bank account",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/banking/opening-bank-account.html"
+        }
+      ]
+    },
+    {
+      "id": "province",
+      "title": "Province Lens: Identify the Institution Before the Regulator",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start with the institution’s complaint process. Federal banks and federal credit unions use the federal route; provincial credit unions may use a provincial route."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "AB",
+              "text": "CUDGC for Alberta credit unions; FCAC guidance for federal banks."
+            },
+            {
+              "title": "BC",
+              "text": "BCFSA for provincially authorized credit unions; federal rules for federal credit unions."
+            },
+            {
+              "title": "NB and PEI",
+              "text": "FCNB in New Brunswick; confirm the applicable PEI provincial credit-union or consumer office."
+            },
+            {
+              "title": "ON",
+              "text": "FSRA for Ontario credit unions; the federal process for federally regulated banks."
+            },
+            {
+              "title": "NL",
+              "text": "Provincial Financial Services Regulation for credit unions; FCAC guidance for federal banks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Clue or Conclusion?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "$0 if $4,000 is maintained.",
+              "detail": "Test the break fee and cash impact.",
+              "text": ""
+            },
+            {
+              "title": "$3 ATM charge.",
+              "detail": "Check operator, network and regular account layers.",
+              "text": ""
+            },
+            {
+              "title": "$4 account includes 18 debits; learner uses 31.",
+              "detail": "Price the extras.",
+              "text": ""
+            },
+            {
+              "title": "Better plan discussed by phone.",
+              "detail": "Get and review the written terms.",
+              "text": ""
+            },
+            {
+              "title": "New account open.",
+              "detail": "Test transfers before the old account closes.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Before You Audit Your Own Statements"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The $10 NSF cap means an NSF event is no longer important.”",
+              "text": "The federal cap lowers the bank fee, but a returned payment may still create a missed-payment problem or a charge from the biller. The stronger fix is still cash-flow planning, alerts and confirmed payment timing."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Since March 12, 2026, a federally regulated bank generally cannot charge more than $10 for an NSF event on a personal deposit account, cannot apply another NSF fee to that account within two business days, and cannot charge one when the overdrawn amount is under $10."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: New NSF fee regulations",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/news/2026/03/new-nsf-fee-regulations-bring-down-cost-of-banking-for-canadians.html"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Three-Statement Fee Mystery Shop",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use shortened institution and account names."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not record full account numbers, passwords, card details, PINs or government identification numbers in course notes."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "heading",
+          "text": "Fee Mystery-Shop Closing Checklist"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Three statements were inspected.",
+              "text": "Every fee was identified by name, amount, date and likely cause."
+            },
+            {
+              "title": "The cost was annualized.",
+              "text": "The comparison uses the average real month rather than one unusually quiet statement."
+            },
+            {
+              "title": "The behaviour was counted.",
+              "text": "Transactions, transfers, ATM networks and service channels match the learner’s actual routine."
+            },
+            {
+              "title": "The conditions were tested.",
+              "text": "Minimum balances, promotions, eligibility and out-of-plan charges are understood."
+            },
+            {
+              "title": "The change is documented.",
+              "text": "Written terms, transfer steps and the first-statement review date are saved."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Choose a Canadian bank account by matching its complete fee schedule to actual transaction behaviour.",
+          "detail": "Annualize the real cost, test every condition and document the change before moving money or automatic payments."
+        },
+        {
+          "type": "spotlight",
+          "text": "A fee audit is not finished when an account looks cheaper. It is finished when the first real statement proves that the account behaves as expected, and a new review date is set before any promotion expires."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Chequing account",
+              "text": "A deposit account made mainly for everyday transactions and payments."
+            },
+            {
+              "title": "Savings account",
+              "text": "A deposit account meant mainly for holding savings and maybe earning interest."
+            },
+            {
+              "title": "Package fee",
+              "text": "A fixed account charge that includes a set number of services."
+            },
+            {
+              "title": "Transaction limit",
+              "text": "How many transactions are included before extra charges kick in."
+            },
+            {
+              "title": "Interac e-Transfer",
+              "text": "A service for sending or receiving money online through participating Canadian institutions."
+            },
+            {
+              "title": "Network-access fee",
+              "text": "A charge from your institution for using an ATM outside its own network."
+            },
+            {
+              "title": "Convenience fee",
+              "text": "A charge from another institution or private operator for using its ATM."
+            },
+            {
+              "title": "Minimum-balance waiver",
+              "text": "Your package fee gets waived when you keep the required balance."
+            },
+            {
+              "title": "NSF",
+              "text": "Non-sufficient funds: the account does not have enough money to cover a payment that comes through."
+            },
+            {
+              "title": "Overdraft",
+              "text": "Credit or an account feature that may cover a transaction when you are short on funds."
+            },
+            {
+              "title": "Annualized cost",
+              "text": "An estimate of a full year’s cost based on a shorter stretch of real activity."
+            },
+            {
+              "title": "Pre-authorized debit",
+              "text": "Permission you give a biller to withdraw an agreed payment from your account."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “The account with the lowest monthly fee is automatically the cheapest.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "ACCOUNT JOB — Is this account mainly for daily spending, bills, saving or another purpose? Does the product match that job?",
+      "THREE-MONTH TOTAL — List every package, transaction, ATM, statement, overdraft, NSF, cheque, foreign-use and other service fee from three statements.",
+      "ANNUALIZED COST — Add the three months, divide by three, then multiply by 12. What is the estimated annual cost if the pattern continues?",
+      "BEHAVIOUR PROFILE — How many debit, e-Transfer, ATM, branch and cheque transactions do you normally use each month?",
+      "BREAK POINTS — What transaction limit, minimum balance, promotional expiry or network rule can trigger an extra charge?",
+      "SHORTLIST — Record two account options from FCAC’s Account Comparison Tool. Which usual services are included, and which still cost extra?",
+      "VERIFICATION — What did the institution confirm in writing about total fees, eligibility, ATM access, overdraft, notices and closing costs?",
+      "VERDICT — Will you change a habit, package or institution? Estimate the annual difference and set a first-statement review date."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+  },
+  "sources": []
+}

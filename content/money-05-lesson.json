@@ -1,0 +1,565 @@
+{
+  "title": "Credit Unions Versus Banks",
+  "summary": "Compare two real candidates using the same evidence. Then deliver your verdict: bank, credit union or hybrid.",
+  "subtitle": "A Bank and a Credit Union Walk Into a Comparison. Neither Has Brought the Fee Schedule.",
+  "minutes": 45,
+  "published": true,
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Banks and credit unions can both offer everyday accounts, savings, loans and digital services."
+        },
+        {
+          "type": "paragraph",
+          "text": "Their ownership and rules differ, but the label on the door does not decide which institution fits your life, or what a product will cost you."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this Member-Owned Debate, you are the judge. Bank counsel and credit-union counsel will present their strengths, then you will cross-examine two real candidates using the same evidence. Your verdict may be a bank, a credit union or a well-managed hybrid."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Choosing a financial institution",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/banking/choosing-financial-institution.html"
+        },
+        {
+          "type": "spotlight",
+          "text": "The useful question is not “Which type is best?” It is “Which verified institution and product does the job I need?”"
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Bank comparison image",
+              "text": "Bank comparison image",
+              "image": "/images/money-budgeting/02-silver/money-05/money05-image-7.webp"
+            },
+            {
+              "title": "Credit union comparison image",
+              "text": "Credit union comparison image",
+              "image": "/images/money-budgeting/02-silver/money-05/money05-image-8.webp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "The Four Rules of This Debate"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "SAME CASE",
+              "text": "Compare both candidates against the same needs, transaction pattern and evidence date."
+            },
+            {
+              "title": "ACTUAL TERMS",
+              "text": "Use current fees, rates, features, eligibility and service access, not reputation or a friend’s old experience."
+            },
+            {
+              "title": "LEGAL IDENTITY",
+              "text": "Confirm whether the candidate is a bank, a federal credit union or a provincial credit union."
+            },
+            {
+              "title": "PROTECTION",
+              "text": "Verify the deposit insurer, eligible product and insured category. Confirm the coverage limit before you put money in."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“All banks are basically alike, and all credit unions are basically alike.”",
+              "text": "Institutions in either group can differ in fees, rates, branch and ATM access, digital tools, product range, eligibility and service. Compare the actual candidates, not two stereotypes wearing name tags."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Ownership does not decide who wins this case. Evidence does, and the evidence is coming up next.",
+          "detail": "You are about to hear both sides make their case, then cross-examine them with your own numbers.",
+          "extra": "Opening arguments are next, followed by six claims that need receipts."
+        }
+      ]
+    },
+    {
+      "id": "arguments",
+      "title": "Opening Arguments: What Each Structure Can Offer",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Bank counsel — The case for scale",
+              "detail": "OPENING ARGUMENT 01",
+              "text": "Often offers broad national or international access, plus big ATM and digital networks. It also offers a wide range of personal, business and investment services. Canadian banks are usually owned by shareholders. Federally regulated banks follow federal consumer rules that FCAC supervises. Key points: Broad access, Digital network, Service range. Judge’s question: Does the broader access and service range justify the total cost for the way you bank?"
+            },
+            {
+              "title": "Credit-union counsel — The case for membership",
+              "detail": "OPENING ARGUMENT 02",
+              "text": "A credit union is a co-operative financial institution owned by its members. Members may get voting rights, and the institution may focus on a community, region or membership group. Some credit unions are regulated provincially. Federal credit unions operate under federal rules. Key points: Member-owned, Community focus, Voting rights. Judge’s question: Do membership and local service improve the specific product and access you need?"
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "CRA: Credit unions",
+          "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-8/credit-unions.html"
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Banks and federal credit unions",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/industry/regulated-entities/banks-federal-credit-unions.html"
+        },
+        {
+          "type": "heading",
+          "text": "Cross-Examination: Six Claims That Need Receipts"
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "ACCESS",
+              "detail": "Where?",
+              "text": "Branches, own-network ATMs, travel and international use — Can I use it where I live, work and travel?",
+              "image": "/images/money-budgeting/02-silver/money-05/money05-image-1.webp",
+              "icon": "bank"
+            },
+            {
+              "title": "COST",
+              "detail": "How much?",
+              "text": "Package, transaction, ATM, transfer and minimum-balance rules — What is my annual total-use cost?",
+              "image": "/images/money-budgeting/02-silver/money-05/money05-image-2.webp",
+              "icon": "dollar"
+            },
+            {
+              "title": "TECH",
+              "detail": "How reliable?",
+              "text": "App, alerts, mobile deposit, card controls and support — Do the tools handle my routine and accessibility needs?",
+              "image": "/images/money-budgeting/02-silver/money-05/money05-image-3.webp",
+              "icon": "search"
+            },
+            {
+              "title": "SERVICE",
+              "detail": "How delivered?",
+              "text": "Local advice, hours, telephone service and complaint route — What happens when the easy transaction becomes complicated?",
+              "image": "/images/money-budgeting/02-silver/money-05/money05-image-4.webp",
+              "icon": "book"
+            },
+            {
+              "title": "BORROWING",
+              "detail": "On what terms?",
+              "text": "Eligibility, qualification, rate, total cost and flexibility — Am I comparing written offers, not assumptions?",
+              "image": "/images/money-budgeting/02-silver/money-05/money05-image-5.webp",
+              "icon": "calendar"
+            },
+            {
+              "title": "RANGE",
+              "detail": "Enough?",
+              "text": "Personal, business, investment and international products — Do I need the range, or merely enjoy the brochure?",
+              "image": "/images/money-budgeting/02-silver/money-05/money05-image-6.webp",
+              "icon": "files"
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Member-owned means a credit union will always charge less and provide better service.”",
+              "text": "Member ownership changes who governs the institution, not the laws of arithmetic. A credit union may offer excellent value; another may not fit your location or usage. Compare the actual fee schedule, service record and product terms."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Ownership tells you who governs the institution. It does not guarantee the lowest fee, best app, highest savings rate or warmest conversation about a forgotten password."
+        },
+        {
+          "type": "story",
+          "text": "Meet Lucas",
+          "detail": "LUCAS OPENS THE HEARING",
+          "extra": "",
+          "paragraphs": [
+            "Lucas lives in Langley, British Columbia, travels for contract work, and is saving for a reliable car. His national bank has wide ATM access and a strong app. A nearby credit union offers local advice and a lower-fee account. One friend calls banks “too corporate.” Another calls credit unions “small-town banking with Wi-Fi.” Lucas lets the evidence talk instead.",
+            "He finds that the credit union’s everyday account is cheaper, and its branch stays open on Saturdays. The bank has more no-fee ATMs along his work routes and better international card support. Each one wins a different category. The debate refuses to turn into a tidy commercial for either side.",
+            "A neighbour says membership should make Lucas’s car loan easier to get approved. Tempting, but a membership share is not a tiny golden ticket with a mortgage attached. Both institutions still check eligibility, credit, income, debt and the product itself. Lucas compares written terms instead of filing extra applications just to find out.",
+            "For a moment he considers just picking one institution and being done with it: one login, one branch, one app to remember. But the scorecard keeps showing the same pattern. The bank wins on daily use and travel. The credit union wins on cost and Saturday hours. Choosing only one means paying for whichever weakness he ignores. Lucas decides to run two accounts on purpose, not by accident.",
+            "He downloads both fee schedules, tests each app’s must-have features, maps ATMs along his two work routes, and asks exactly how the car-loan rate gets set. He writes the date beside every answer. The bank wins his daily-use score. The credit union’s no-fee savings account earns its spot too, but only because it adds no monthly charge or confusing transfer routine.",
+            "Lucas keeps the bank for payroll, bills, contract travel and broad ATM access. He opens the credit union’s no-fee savings account for the car fund, after confirming it is BC-authorized and the deposit qualifies for CUDIC protection. The hybrid works because each account has exactly one job and no extra fee riding along. Choosing a financial institution, Lucas learns, is not a marriage ceremony. It is closer to hiring two specific contractors for two specific jobs."
+          ],
+          "image": "/images/money-budgeting/02-silver/money-05/money05-image-9.webp"
+        },
+        {
+          "type": "transition",
+          "text": "Lucas’s scorecard turned a fuzzy gut feeling into a $7-point verdict he could defend.",
+          "detail": "The same weighted scorecard that settled Lucas’s case can settle yours, criterion by criterion.",
+          "extra": "Section 03 hands you the same same-criteria scorecard, ready to fill in."
+        }
+      ]
+    },
+    {
+      "id": "scorecard",
+      "title": "The Same-Criteria Decision Scorecard",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Give each criterion an importance weight from 1 (helpful) to 3 (essential). Rate each candidate from 1 (poor fit) to 5 (strong fit), using current evidence. Multiply weight × rating."
+        },
+        {
+          "type": "paragraph",
+          "text": "A high score guides the verdict. It does not excuse a failed safety requirement."
+        },
+        {
+          "type": "heading",
+          "text": "NON-NEGOTIABLE GATE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Before scoring, confirm legal identity, complaint route, deposit-insurance status and product eligibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "If one cannot be verified, pause that candidate. Safety is a pass/fail question, not five bonus points for a charming app."
+        },
+        {
+          "type": "heading",
+          "text": "Lucas’s Fictional Evidence Sheet"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "DAILY COST",
+              "text": "Weight: 3 — Bank: 4 × 3 = 12 — Credit union: 5 × 3 = 15"
+            },
+            {
+              "title": "ATM/TRAVEL ACCESS",
+              "text": "Weight: 3 — Bank: 5 × 3 = 15 — Credit union: 3 × 3 = 9"
+            },
+            {
+              "title": "DIGITAL TOOLS",
+              "text": "Weight: 2 — Bank: 5 × 2 = 10 — Credit union: 4 × 2 = 8"
+            },
+            {
+              "title": "LOCAL SERVICE",
+              "text": "Weight: 2 — Bank: 3 × 2 = 6 — Credit union: 5 × 2 = 10"
+            },
+            {
+              "title": "BUSINESS/INTERNATIONAL",
+              "text": "Weight: 3 — Bank: 5 × 3 = 15 — Credit union: 3 × 3 = 9"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "SCORE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bank: 58 | Credit union: 51."
+        },
+        {
+          "type": "paragraph",
+          "text": "The bank is the stronger all-purpose fit for Lucas’s present work and travel. The credit union may still earn one carefully chosen job if its benefit exceeds the extra account complexity."
+        },
+        {
+          "type": "heading",
+          "text": "Do Not Turn a Product Inquiry Into an Application"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask for eligibility rules, representative rates, fees and required documents first. A borrowing rate can depend on the applicant and the product. Approval is never guaranteed by membership or brand. If you do need to apply, decide carefully after narrowing your shortlist."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Joining a credit union means I will automatically qualify for its loan or best advertised rate.”",
+              "text": "Membership can make you eligible to apply, but the institution still reviews the application, and the advertised rate may have conditions attached. Ask what affects qualification, rate and total borrowing cost."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A lower advertised borrowing rate is not a verdict. Compare qualification, term, payment, fees, prepayment rules and total cost using the same amount and timeline."
+        }
+      ]
+    },
+    {
+      "id": "protection",
+      "title": "Deposit Protection: Verify the Institution, Product and Category",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "BANK OR FEDERAL CREDIT UNION",
+              "text": "At a CDIC member institution, eligible deposits are automatically protected up to $100,000 in each insured category. Coverage includes principal and interest. Confirm membership, product eligibility and ownership category.",
+              "detail": "LAYER 1"
+            },
+            {
+              "title": "PROVINCIAL CREDIT UNION",
+              "text": "The provincial insurer or guarantor and its coverage rules apply. Amounts, eligible deposits and categories can differ by province. A credit-union brand may also operate under a federal structure instead.",
+              "detail": "LAYER 2"
+            },
+            {
+              "title": "PRODUCT",
+              "text": "Chequing, savings and eligible term deposits may qualify. Mutual funds, stocks, bonds, exchange-traded funds and cryptocurrency are not CDIC-insured deposits just because you bought them at a member institution.",
+              "detail": "LAYER 3"
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "CDIC: What’s covered",
+          "url": "https://www.cdic.ca/depositors/whats-covered/"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Everything sold inside an insured financial institution is deposit-insured.”",
+              "text": "Deposit insurance protects eligible deposits under the rules that apply. Investments such as mutual funds, stocks, bonds, ETFs and cryptocurrency do not become insured deposits just because of the building, app or adviser that sold them."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Deposit protection follows three things: the legal institution, the eligible product and the ownership category. It does not follow the colour of the logo. A familiar brand is evidence to investigate, not a substitute for verification."
+        }
+      ]
+    },
+    {
+      "id": "province",
+      "title": "Province Lens: The Map Changes the Protection Route",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "AB",
+              "text": "Alberta CUDGC guarantees deposits, including accrued interest, at Alberta credit unions. ATB deposits have a separate Alberta government guarantee."
+            },
+            {
+              "title": "BC",
+              "text": "CUDIC protects eligible deposits at BC-authorized credit unions. A federal credit union uses CDIC instead."
+            },
+            {
+              "title": "ON",
+              "text": "FSRA states eligible non-registered deposits are insured up to $250,000 at Ontario credit unions. Eligible registered deposits have unlimited coverage."
+            },
+            {
+              "title": "NB / PEI / NL",
+              "text": "Provincial credit-union protection applies. Current limits and categories differ. Verify the institution and product with NBCUDIC, PEI CUDIC or CUDGCNL."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Coverage rules can change. Check the official insurer again before you open, renew or add a lot to a deposit."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Sustain, Overrule or Investigate?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "A credit union is member-owned.",
+              "detail": "Investigate actual price, service and access.",
+              "text": ""
+            },
+            {
+              "title": "A BC credit-union logo appears.",
+              "detail": "Verify provincial or federal legal status.",
+              "text": ""
+            },
+            {
+              "title": "A mutual fund is sold at a CDIC member bank.",
+              "detail": "It is not an eligible deposit.",
+              "text": ""
+            },
+            {
+              "title": "One app is better; the other account costs less.",
+              "detail": "Weight the same criteria.",
+              "text": ""
+            },
+            {
+              "title": "A hybrid looks useful.",
+              "detail": "Give each account one job and price the complexity.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Before You Deliver Your Verdict"
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Once I choose a bank or credit union, loyalty means keeping every product there.”",
+              "text": "Using one institution can make tracking simpler and may unlock a discount, but another institution may fit a specific job better. A hybrid can work when its benefit outweighs the extra fees, transfers, passwords and monitoring."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Convenience has value, but concentration has trade-offs. FCAC recommends comparing consumer protection, fees, rates, access, service and complaints. Do not assume that all-in-one or multi-institution banking is automatically better."
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Choosing a financial institution",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/banking/choosing-financial-institution.html"
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action (Fill Out Form): Member-Owned Debate",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use public product information and shortened institution names."
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not record account numbers, passwords, PINs, card details, income documents or government ID numbers in course notes."
+        },
+        {
+          "type": "checkin"
+        },
+        {
+          "type": "heading",
+          "text": "Member-Owned Debate Closing Checklist"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "The jobs are clear.",
+              "text": "Every shortlisted account solves a stated need instead of just collecting features."
+            },
+            {
+              "title": "The evidence is current.",
+              "text": "Fees, rates, access, eligibility and service details share a recorded comparison date."
+            },
+            {
+              "title": "The scoring is fair.",
+              "text": "Both candidates face the same criteria, weights and real-life usage pattern."
+            },
+            {
+              "title": "Protection is verified.",
+              "text": "Legal identity, insurer, eligible product, ownership category and limit are all confirmed with an official source."
+            },
+            {
+              "title": "The verdict is manageable.",
+              "text": "A hybrid gives each account one job and includes transfer, fee, monitoring and closure rules."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Compare specific institutions against the same needs.",
+          "detail": "Verify their legal and deposit-protection structure, then pick the simplest setup that gives you the strongest overall fit."
+        },
+        {
+          "type": "spotlight",
+          "text": "The winning institution is not the one with the best category label. It is the one whose current, verified terms keep doing the assigned job after the promotion, first statement and first inconvenient Tuesday."
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of Terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Bank",
+              "text": "A deposit-taking institution usually owned by shareholders. In Canada, banks are regulated federally under the Bank Act."
+            },
+            {
+              "title": "Credit union",
+              "text": "A co-operative deposit-taking institution owned by its own members."
+            },
+            {
+              "title": "Member-owner",
+              "text": "A credit-union member who may hold a membership share and voting rights under the institution’s rules."
+            },
+            {
+              "title": "Federal credit union",
+              "text": "A member-owned credit union that operates under the federal Bank Act and federal oversight."
+            },
+            {
+              "title": "Provincial credit union",
+              "text": "A credit union set up and regulated under the laws of a province."
+            },
+            {
+              "title": "Deposit insurance",
+              "text": "Protection for eligible deposits at a covered institution, based on the insurer’s limits and categories."
+            },
+            {
+              "title": "Eligible deposit",
+              "text": "Money in a product that qualifies for protection under the deposit-insurance rules that apply."
+            },
+            {
+              "title": "Insured category",
+              "text": "A recognized ownership type used to work out separate deposit-insurance coverage."
+            },
+            {
+              "title": "Membership share",
+              "text": "An amount you may need to pay to become a member-owner. It does not guarantee credit approval or a dividend."
+            },
+            {
+              "title": "Hybrid setup",
+              "text": "Using more than one institution, with each account given one clear job."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "question": "True or False: “All banks are basically alike, and all credit unions are basically alike.”",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "YOUR CASE — What jobs must the institution perform? Choose your five most important criteria and weight each from 1 (helpful) to 3 (essential).",
+      "CANDIDATE A — Record the legal institution name, type (bank, federal credit union or provincial credit union), membership requirement and evidence date.",
+      "CANDIDATE B — Record the same facts for the second institution. Are you comparing products that perform the same job?",
+      "FIT SCORE — Rate both candidates from 1 to 5 for cost, access, digital tools, service and product range. Multiply each rating by its importance weight.",
+      "BORROWING CHECK — Without applying, compare eligibility, representative rate information, fees, term, flexibility and factors that affect qualification.",
+      "PROTECTION CHECK — For each savings product, record the insurer or guarantor, eligible product, ownership category, current limit and official source.",
+      "TOTALS AND EVIDENCE — What are the weighted totals? Which claims remain unverified, and how would resolving them affect the decision?",
+      "VERDICT — Choose bank, credit union or hybrid. Give each chosen account one job, list the first setup step and schedule a review date."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+  },
+  "sources": []
+}

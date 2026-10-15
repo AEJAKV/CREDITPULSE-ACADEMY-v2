@@ -12,34 +12,32 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A collection notice has roughly the bedside manner of a parking ticket and the persistence of a smoke alarm asking for a new battery."
+          "text": "A collection notice has the manners of a parking ticket and the staying power of a smoke alarm that wants a new battery."
         },
         {
           "type": "paragraph",
-          "text": "The useful response is not panic, shame or a midnight credit-card application. It is a file."
+          "text": "Panic, shame and a midnight credit-card application will not help. A file will."
         },
         {
           "type": "paragraph",
-          "text": "This masterclass shows you how to confirm what is being collected and separate accurate information from errors. You will document every contact, choose a resolution you can keep and rebuild recent positive credit behaviour. A paid collection may still appear for a period of time, so recovery is less about finding an eraser and more about creating better evidence after the event."
+          "text": "This course shows you how to check what a collector is claiming and spot what is wrong. You will keep a record of every contact, pick a way to settle that you can keep, and build new on-time history. A paid collection can still show on your reports for a while, so you cannot erase it. What you can do is build better proof of how you handle credit now."
         },
         {
           "type": "spotlight",
-          "text": "A collection entry is information about an account. It is not a character reference, a personality test or a permanent forecast."
+          "text": "A collection entry is a fact about one account. It is not a character reference, a personality test or a forecast for life."
         },
         {
-          "type": "lists",
+          "type": "artwork",
           "items": [
             {
-              "title": "By the end, you will be able to",
-              "text": "",
-              "icon": "check",
-              "list": [
-                "Assemble a collections recovery file without exposing unnecessary personal information.",
-                "Verify the creditor, collector, amount and reporting status before discussing payment.",
-                "Compare full payment, settlement and payment-arrangement paths without assuming any one option deletes the history.",
-                "Identify when provincial or territorial rules and legal advice matter.",
-                "Leave with a 90-day rebuilding plan and a documented follow-up date."
-              ]
+              "title": "A collection notice arrives. Read it, but don't pay yet.",
+              "text": "A collection notice arrives. Read it, but don't pay yet.",
+              "image": "/images/credit-mastery/03-gold/credit-11/credit11-image-1.webp"
+            },
+            {
+              "title": "Every letter, call and receipt goes into one recovery file.",
+              "text": "Every letter, call and receipt goes into one recovery file.",
+              "image": "/images/credit-mastery/03-gold/credit-11/credit11-image-2.webp"
             }
           ]
         },
@@ -48,7 +46,7 @@
           "items": [
             {
               "title": "“If I pay a collection, it disappears from my reports immediately.”",
-              "text": "Accurate negative information may remain for the applicable reporting period even after payment. Payment can change the status; it does not guarantee deletion."
+              "text": "True information can stay on your report for the normal reporting period, even after you pay. Paying can change the status. It does not promise the entry will be deleted."
             }
           ]
         },
@@ -59,9 +57,9 @@
         },
         {
           "type": "transition",
-          "text": "A collector's deadline is not your deadline, and the caller cannot enforce either one.",
-          "detail": "Writing down what a collector says before agreeing to anything is what turned Ariane's disputed device charge into a corrected balance.",
-          "extra": "Meet Ariane, next, as her own collection call rings."
+          "text": "You can answer a collector without agreeing to anything you have not checked.",
+          "detail": "You will know what to ask for and what to write down, so the caller’s deadline stops being yours.",
+          "extra": "Ariane’s story comes next, then the Verify section lists the six items for your own file."
         }
       ]
     },
@@ -75,17 +73,20 @@
           "text": "Meet Ariane",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/credit-mastery/03-gold/credit-11/credit11-image-3.webp",
           "paragraphs": [
-            "Ariane LeBlanc, a catering supervisor in Moncton, wanted to qualify for a modest apartment closer to work. During the application, the landlord mentioned a collection account from an old mobile provider. Ariane remembered closing the service after moving, but she did not recognize the amount. Two days later, a collector called during her lunch rush and asked for immediate payment.",
-            "The pressure made the fastest option tempting: pay first and ask questions after. Instead, Ariane wrote down the caller’s name, company, telephone number, original creditor and claimed balance. She said she would respond after checking her records. That evening she compared the final mobile bill, bank statements and both Canadian credit reports. The account was hers, but the collection balance included a device charge she believed had already been returned.",
-            "Ariane created one folder containing the final invoice, courier receipt, account-closing email, call log and copies of her reports. She sent a concise written dispute to the provider and credit bureaus, attaching copies rather than original documents. The provider confirmed the returned device and reduced the balance. The remaining service amount was valid.",
-            "Ariane then asked for written payment terms. She could not safely pay the full balance that week without borrowing for groceries, so she chose a short arrangement that fit two paydays. After the last payment cleared, she obtained a receipt and written confirmation of the account’s updated status. She checked both reports again after allowing time for reporting and disputed one bureau entry that had not been updated.",
-            "The collection did not vanish on cue. Credit reporting has never been famous for theatrical exits. But Ariane now had accurate records, no unresolved balance and a workable rebuilding routine: every bill on time, one low card balance and no new applications until she had six months of clean recent history. When she reapplied later, she supplied requested documents calmly and compared the full rental cost before signing."
+            "Ariane LeBlanc runs the lunch crew at a catering company in Moncton. She has found the perfect apartment. Then the landlord frowns at a page: “There’s a collection on your file. An old mobile account.”",
+            "Two days later, mid-lunch rush, a collector calls. He wants the full balance today. Her thumb hovers over the pay link.",
+            "She grabs a pen instead. Name, company, number, original creditor, amount. “I’ll answer after I check my records,” she says.",
+            "That night she lines up her final phone bill, bank statements and both credit reports. The account is hers, but the balance includes a phone she sent back. The courier receipt proves it.",
+            "She sends a written dispute with copies, never originals. The company drops the phone charge. The rest is real, so she sets up a two-payday plan in writing and keeps every receipt. When one bureau still shows the old balance, she disputes that too.",
+            "The collection did not vanish. Credit reporting has never been famous for dramatic exits. But her file was accurate, the debt was done and her new habits were on the record.",
+            "The next time an unknown number rang during the lunch rush, Ariane did not flinch. She had a folder for that."
           ]
         },
         {
           "type": "spotlight",
-          "text": "The strongest collection response begins with evidence. Confirming the account before discussing payment can prevent an error from becoming an expensive assumption."
+          "text": "The best reply to a collector starts with proof. Check the account before you discuss payment, so a mistake does not become an expensive guess."
         },
         {
           "type": "heading",
@@ -93,13 +94,13 @@
         },
         {
           "type": "paragraph",
-          "text": "Ariane did not win by arguing louder. She slowed the process, proved the disputed part, resolved the valid part and kept documents that could support later corrections. Her conclusion was not a miraculous score jump; it was control, accuracy and a recent pattern a future decision-maker could evaluate."
+          "text": "Ariane slowed the whole thing down. She proved the part that was wrong, settled the part that was right and kept every paper. There was no miracle jump in her score. There was control, accurate records and a recent pattern that the next landlord or lender could read."
         },
         {
           "type": "transition",
-          "text": "Six items in one file are what kept Ariane's next call short, calm and on her own terms.",
-          "detail": "Knowing what to verify before a dollar moves is what separates a documented resolution from a rushed one.",
-          "extra": "Build the same six-item file next, before anyone calls."
+          "text": "A simple six-item file makes your next collector call short, calm and on your terms.",
+          "detail": "You will know what to check before any money moves, so a rushed payment never replaces a documented one.",
+          "extra": "Next, the Verify section shows exactly what goes in the file."
         }
       ]
     },
@@ -110,48 +111,46 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "When contact arrives, treat the first conversation as information gathering."
+          "text": "When a collector reaches out, treat the first talk as fact-finding."
         },
         {
           "type": "paragraph",
-          "text": "You do not need to decide everything while someone is waiting on the line."
+          "text": "You do not need to decide anything while someone waits on the line."
         },
         {
-          "type": "heading",
-          "text": "Put these six items in the file"
-        },
-        {
-          "type": "cards",
+          "type": "filecards",
+          "text": "Put these six items in the file",
+          "image": "/images/credit-mastery/03-gold/credit-11/credit11-image-2.webp",
           "items": [
             {
               "title": "Collector identity",
-              "text": "Record the agency, caller, contact details and any licence or registration information shown in the written notice."
+              "text": "Write down the agency, the caller’s name, how to reach them and any licence number on the written notice."
             },
             {
               "title": "Debt identity",
-              "text": "Record the original creditor, account reference, claimed balance and a breakdown if fees or interest are included."
+              "text": "Write down who the money was first owed to, the account reference, the balance and how fees or interest are counted."
             },
             {
               "title": "Your records",
-              "text": "Gather statements, receipts, cancellation confirmations, correspondence and prior payment proof. Keep originals."
+              "text": "Gather statements, receipts, cancellation emails, letters and proof of past payments. Keep the originals."
             },
             {
               "title": "Credit evidence",
-              "text": "Download or request current reports from both Equifax and TransUnion. The entries may not be identical."
+              "text": "Get your current reports from both Equifax and TransUnion. They may not match."
             },
             {
               "title": "Contact log",
-              "text": "For every call or letter, record the date, time, person, promises made, documents requested and next step."
+              "text": "For every call or letter, note the date, the time, who spoke, what they promised and what happens next."
             },
             {
               "title": "Province checkpoint",
-              "text": "Record where you live and which provincial or territorial consumer authority regulates the collection conduct."
+              "text": "Note which province or territory you live in, and which consumer office oversees collectors there."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "The collector, original creditor and credit bureau have different jobs. A correction may require contact with more than one of them."
+          "text": "The collector, the original creditor and the credit bureau each have a different job. A fix may need contact with more than one of them."
         },
         {
           "type": "heading",
@@ -159,18 +158,18 @@
         },
         {
           "type": "quote",
-          "text": "“I am reviewing the account. Please give me the original creditor, the amount and its breakdown, your agency information and a written notice. I will respond after comparing it with my records. I am not agreeing to payment terms on this call.”"
+          "text": "“I’m checking the account. Please send me the original creditor, the amount with a breakdown, your agency details and a written notice. I’ll reply after I compare it with my records. I’m not agreeing to any payment on this call.”"
         },
         {
           "type": "paragraph",
-          "text": "Do not send passwords, PINs or full copies of identity documents because a caller demands them. Use verified contact information and the official process. If the account is not yours, the balance is wrong, it was paid, or the dates are inaccurate, gather proof and use the bureau and creditor dispute procedures."
+          "text": "Never share passwords, PINs or full copies of your ID just because a caller asks. Use contact details you have verified yourself. If the account is not yours, the balance is wrong, you already paid it or the dates are off, collect your proof and use the bureau and creditor dispute steps."
         },
         {
           "type": "myths",
           "items": [
             {
-              "title": "“Canadian collectors all follow one national rulebook.”",
-              "text": "Most collection-agency conduct is regulated provincially or territorially. Federal rules also apply in some situations, including collection by or for federally regulated financial institutions."
+              "title": "“Collectors in Canada all follow one national rulebook.”",
+              "text": "Most rules for collection agencies are set by the province or territory. Federal rules also apply in some cases, such as when a federally regulated bank is collecting."
             }
           ]
         },
@@ -193,11 +192,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Once the account and amount are verified, compare the options against your cash flow. A resolution that causes missed rent, utilities or new high-interest borrowing just moves the emergency to a different envelope."
+          "text": "Once you have checked the account and the amount, compare your options with your cash flow. A plan that makes you miss rent or utilities, or sends you to a high-interest loan, only moves the emergency to a different envelope."
         },
         {
           "type": "spotlight",
-          "text": "Full payment, settlement and an arrangement are different cash-flow paths. None creates an automatic right to have accurate history deleted."
+          "text": "Paying in full, settling and a payment plan are three different cash-flow paths. None of them gives you a right to have true history deleted."
         },
         {
           "type": "heading",
@@ -207,19 +206,19 @@
           "type": "ordered",
           "items": [
             {
-              "title": "Get the agreement in writing and verify the payment destination independently.",
+              "title": "Get the deal in writing, and check the payment details yourself before you send money.",
               "text": ""
             },
             {
-              "title": "Keep payment proof, settlement letters, receipts and confirmation of the final status.",
+              "title": "Keep proof of every payment, the settlement letter, receipts and a note of the final status.",
               "text": ""
             },
             {
-              "title": "Do not rely on a verbal promise that a credit entry will be deleted or that a score will rise by a stated number.",
+              "title": "Do not count on a spoken promise that an entry will be deleted or that your score will jump by a set number.",
               "text": ""
             },
             {
-              "title": "For an older debt, check provincial limitation law before making a payment or written acknowledgement. The limitation clock and credit-reporting period are different legal concepts.",
+              "title": "For an older debt, check your province’s limitation law before you pay or sign anything that admits you owe it. The limitation clock and the credit-reporting clock are two different things.",
               "text": ""
             }
           ]
@@ -229,7 +228,7 @@
           "items": [
             {
               "title": "“If the limitation period has passed, the debt must disappear from my credit reports.”",
-              "text": "Limitation law concerns court enforcement and varies by jurisdiction. Credit-report retention follows separate rules. An expired limitation period does not necessarily erase the debt or the report entry."
+              "text": "Limitation law is about whether a court case can be started, and it differs by province. Credit-report time limits follow separate rules. When a limitation period ends, the debt and the report entry do not always go away."
             }
           ]
         },
@@ -247,57 +246,55 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A resolved collection closes one problem. Rebuilding comes from what gets reported next."
+          "text": "Settling a collection closes one problem. What gets reported next is how you rebuild."
         },
         {
-          "type": "paragraph",
-          "text": "Keep the system quiet enough to repeat."
-        },
-        {
-          "type": "cards",
+          "type": "filecards",
+          "text": "Keep your routine simple enough to repeat.",
+          "image": "/images/credit-mastery/03-gold/credit-11/hero-image.webp",
           "items": [
             {
               "title": "Protect every due date",
-              "text": "Pay at least the required minimum on time. Contact the provider early if a payment may be difficult.",
+              "text": "Pay at least the minimum on time. If a payment looks hard, tell the lender early.",
               "detail": "1"
             },
             {
               "title": "Lower revolving balances",
-              "text": "Use a small portion of available credit and pay the statement balance in full when affordable. Do not borrow just to create activity.",
+              "text": "Use a small part of your limit and pay the statement balance in full when you can. Do not borrow just to look active.",
               "detail": "2"
             },
             {
               "title": "Limit applications",
-              "text": "Choose credit that solves a real need and compare total cost before applying. Several urgent applications can add hard inquiries.",
+              "text": "Apply only for credit that solves a real need, and compare the total cost first. Several rushed applications can add hard inquiries.",
               "detail": "3"
             },
             {
               "title": "Check the reporting",
-              "text": "After allowing normal update time, review both reports. Dispute inaccurate balances, dates, ownership or status with supporting documents.",
+              "text": "Give the reports normal time to update, then review both. Dispute wrong balances, dates, owners or statuses with proof.",
               "detail": "4"
             },
             {
               "title": "Keep the recovery file",
-              "text": "Store the agreement, receipts, correspondence and corrected reports. Remove account numbers before sharing the file.",
+              "text": "Store the agreement, receipts, letters and corrected reports. Hide account numbers before you share any of it.",
               "detail": "5"
             },
             {
               "title": "Review at 30, 60 and 90 days",
-              "text": "Track due dates, reported balances, disputes and application decisions. Look for consistency, not a guaranteed score target.",
+              "text": "Track due dates, reported balances, disputes and application results. Look for steady habits, not a set score.",
               "detail": "6"
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Recent on-time payments and manageable balances create new evidence. Recovery is a reporting pattern, not a product you purchase once."
+          "text": "Recent on-time payments and balances you can manage create new evidence. Recovery is a pattern in your reports, not something you buy once."
         },
         {
           "type": "myths",
           "items": [
             {
-              "title": "“The fastest rebuild uses several new credit-building products at once.”",
-              "text": "More accounts can mean more fees, inquiries and due dates. One manageable account may be enough to establish recent positive behaviour."
+              "title": "“The fastest way to rebuild is to open several credit-building products at once.”",
+              "text": "More accounts can mean more fees, more inquiries and more due dates. One account you can manage may be enough to show recent good habits."
             }
           ]
         }
@@ -312,28 +309,28 @@
           "type": "accordions",
           "items": [
             {
-              "title": "A collector calls about an unfamiliar account. What is the first useful action?",
-              "detail": "Gather information and verify the collector, original creditor, balance and written notice before agreeing to payment.",
+              "title": "A collector calls about an account you do not know. What is the first useful move?",
+              "detail": "Collect facts. Confirm the collector, the original creditor, the balance and the written notice before you agree to pay.",
               "text": ""
             },
             {
-              "title": "A valid balance can only be paid by missing rent. What should guide the resolution?",
-              "detail": "Your real cash flow. Choose documented terms that protect essentials and do not require new high-interest borrowing.",
+              "title": "The only way to pay a valid balance is to miss rent. What should guide your plan?",
+              "detail": "Your real cash flow. Choose written terms that protect your essentials and do not need new high-interest borrowing.",
               "text": ""
             },
             {
-              "title": "The collector promises immediate deletion by telephone. What should you do?",
-              "detail": "Do not rely on the promise. Request written terms and remember that resolving a debt does not guarantee deletion of accurate history.",
+              "title": "The collector promises on the phone that the entry will be deleted. What do you do?",
+              "detail": "Do not rely on it. Ask for written terms, and remember that settling a debt does not promise that true history is deleted.",
               "text": ""
             },
             {
-              "title": "A paid balance still appears as unpaid after normal update time. What belongs in the dispute?",
-              "detail": "The agreement, receipt, final confirmation and a copy of the inaccurate report entry.",
+              "title": "A paid balance still shows as unpaid after normal update time. What goes in your dispute?",
+              "detail": "The agreement, the receipt, the final confirmation and a copy of the wrong report entry.",
               "text": ""
             },
             {
-              "title": "Which rebuilding behaviour deserves first priority?",
-              "detail": "Protect every due date by making required payments on time.",
+              "title": "Which rebuilding habit comes first?",
+              "detail": "Protect every due date by paying on time.",
               "text": ""
             }
           ]
@@ -347,23 +344,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use copies of records. Do not write full account numbers, passwords, PINs, SINs or identity-document numbers in this workbook."
+          "text": "Use copies of your records. Do not write full account numbers, passwords, PINs, SINs or ID numbers in this workbook."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "If the recovery plan cannot survive an ordinary grocery week, it is not yet a workable plan. Adjust the schedule before signing it."
+          "text": "If your plan cannot survive an ordinary grocery week, it is not a workable plan yet. Adjust the schedule before you commit to it."
         },
         {
           "type": "takeaway",
-          "text": "Rebuilding after collections is a controlled sequence.",
-          "detail": "Verify the claim, dispute inaccuracies, resolve the valid amount on documented terms, confirm the reporting and build recent positive behaviour. The goal is not to make the past invisible. It is to make the present accurate and the next decision easier to support."
-        },
-        {
-          "type": "spotlight",
-          "text": "The limitation clock, reporting clock and rebuilding clock are not the same. Know which question you are answering before you act."
+          "text": "Rebuilding after a collection is a set of steps, done in order.",
+          "detail": "Check the claim, dispute what is wrong, settle the valid amount on written terms, confirm the reporting and build recent good habits. You are not trying to make the past invisible. You are making the present accurate, so the next decision is easier to support."
         }
       ]
     },
@@ -377,31 +370,31 @@
           "items": [
             {
               "title": "Collection account",
-              "text": "A debt transferred or assigned for collection after it was not paid as agreed."
+              "text": "A debt that was handed to a collector after it was not paid as agreed."
             },
             {
               "title": "Original creditor",
-              "text": "The business or lender to which the account was originally owed."
+              "text": "The business or lender that the account was first owed to."
             },
             {
               "title": "Collection agency",
-              "text": "A business that collects debt for a creditor or debt owner, subject to applicable law."
+              "text": "A business that collects debts for a creditor or a debt owner, under the law."
             },
             {
               "title": "Settlement",
-              "text": "An agreement to resolve a debt for an accepted amount, sometimes below the claimed balance."
+              "text": "An agreement to close a debt for an amount the creditor accepts, sometimes less than the claimed balance."
             },
             {
               "title": "Reporting period",
-              "text": "The period information may remain on a credit report under applicable practices and law."
+              "text": "How long information can stay on a credit report under the rules and practices that apply."
             },
             {
               "title": "Limitation period",
-              "text": "A jurisdiction-specific time limit relevant to starting certain legal proceedings. It is not a credit-report deletion rule."
+              "text": "A time limit, set by province, on starting certain court cases. It is not a rule for deleting credit-report entries."
             },
             {
               "title": "Recovery file",
-              "text": "A dated collection of notices, statements, contact logs, agreements, receipts and report copies."
+              "text": "A dated set of notices, statements, call logs, agreements, receipts and report copies."
             }
           ]
         }
@@ -418,17 +411,23 @@
   },
   "checkIn": {
     "questions": [
-      "COLLECTION SNAPSHOT — Agency, original creditor, partial account reference, claimed balance and first contact date.",
-      "VERIFICATION GAP — Which fact or document is still missing before you decide what to do?",
-      "EVIDENCE INDEX — List the statements, receipts, emails or reports already saved in your recovery file.",
-      "ACCURACY DECISION — Mark VALID, PARTLY DISPUTED, NOT MINE or UNCLEAR. Explain the evidence.",
-      "PROVINCE CHECK — Name the official consumer authority and one collection rule or complaint route to confirm.",
-      "RESOLUTION RANGE — Record the amount and schedule your cash flow can support without borrowing for essentials.",
-      "WRITTEN TERMS — List the balance, payment or settlement terms, reporting statement and final proof you require.",
-      "90-DAY REBUILD — Write the next three payment dates, a balance target, report-review dates and one application rule."
+      "Who is collecting, who was the money first owed to, and what balance do they say you owe?",
+      "What do you already have in your file, and what proof is still missing?",
+      "Is the debt yours? Pick one: yes, partly, no or not sure. Say why in a few words.",
+      "How much can you pay, and how often, without borrowing for groceries or rent?",
+      "Which province or territory office could you call if a collector crosses a line?",
+      "What are your next three payment dates, and what is one rule for new applications?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I reviewed my answers and understand that this is educational information, not legal or financial advice."
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not legal or financial advice.",
+    "samples": [
+      "Example: ABC Recovery, for Northline Mobile, $640. First call May 3. An estimate is fine.",
+      "Example: two bank statements, a courier receipt and both credit reports. Missing: the cancellation email.",
+      "Example: Partly. The phone was returned, but the service charge is mine.",
+      "Example: $75 each payday for two paydays. Round to the nearest $25 if that is easier.",
+      "Example: I live in Moncton, so I would look up the New Brunswick consumer office.",
+      "Example: Jun 7, Jun 21 and Jul 5. No new applications for six months."
+    ]
   },
   "sources": []
 }

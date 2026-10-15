@@ -10,6 +10,8 @@ export type ReadingBlock = {
     | 'transition'
     | 'artwork'
     | 'cards'
+    | 'filecards'
+    | 'glasspanel'
     | 'myths'
     | 'ordered'
     | 'chips'

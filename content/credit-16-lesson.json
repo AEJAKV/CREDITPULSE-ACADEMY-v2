@@ -16,26 +16,24 @@
         },
         {
           "type": "paragraph",
-          "text": "This masterclass gives you a calm sequence for suspicious credit activity. Classify what happened, protect money and access, preserve evidence, report through verified channels, correct both files and monitor for the next attempt. Speed matters; accurate speed matters more than the first number in a frightening text."
+          "text": "This course gives you a calm order of steps for suspicious credit activity. Sort out what happened, protect your money and access, save the evidence, report through verified channels, correct both files and watch for the next attempt. Speed matters. Accurate speed matters more than reacting to the first number in a scary text."
         },
         {
           "type": "spotlight",
-          "text": "Identity theft is stealing personal information. Identity fraud is using it. Exposure is a warning; an unauthorized account or transaction is evidence of misuse."
+          "text": "Identity theft is stealing personal information. Identity fraud is using it. Exposure is a warning. An account or charge you did not authorize is evidence of misuse."
         },
         {
-          "type": "lists",
+          "type": "artwork",
           "items": [
             {
-              "title": "",
-              "text": "",
-              "icon": "check",
-              "list": [
-                "Distinguish data exposure, identity theft, identity fraud, account takeover and payment-card fraud.",
-                "Run a first-hour response without destroying useful evidence.",
-                "Contact financial institutions, both bureaus, police and the Canadian Anti-Fraud Centre in a sensible order.",
-                "Build a correction file for unauthorized accounts and transactions.",
-                "Leave with a 12-month monitoring calendar and recovery-scam defence."
-              ]
+              "title": "Accounts you never opened show up. Stop and check before you reply.",
+              "text": "Accounts you never opened show up. Stop and check before you reply.",
+              "image": "/images/credit-mastery/05-diamond/credit-16/credit16-image-1.webp"
+            },
+            {
+              "title": "Lock down your accounts and keep every case number in one log.",
+              "text": "Lock down your accounts and keep every case number in one log.",
+              "image": "/images/credit-mastery/05-diamond/credit-16/credit16-image-2.webp"
             }
           ]
         },
@@ -44,7 +42,7 @@
           "items": [
             {
               "title": "“One call to my bank fixes every identity-fraud problem.”",
-              "text": "Your bank can protect its accounts, but other creditors, both bureaus, police, CAFC and affected government issuers may each have a separate role."
+              "text": "Your bank can protect its own accounts. But other creditors, both bureaus, the police, the CAFC and government issuers may each have a separate role."
             }
           ]
         },
@@ -55,9 +53,9 @@
         },
         {
           "type": "transition",
-          "text": "A stranger's mobile account showed up on Noah's credit report before his coffee had even cooled.",
-          "detail": "Building a case file instead of paying a 'recovery specialist' is what kept Noah's identity theft from costing him twice.",
-          "extra": "Meet Noah, next, as a collector calls the following morning."
+          "text": "You can respond to suspicious credit activity in the right order, even when you are scared.",
+          "detail": "You will know what to secure first and who to tell, so the first number in a frightening text never sets your plan.",
+          "extra": "Noah’s story comes next, then Round 2 gives you a first-hour kit."
         }
       ]
     },
@@ -71,17 +69,21 @@
           "text": "Meet Noah",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/credit-mastery/05-diamond/credit-16/credit16-image-3.webp",
           "paragraphs": [
-            "Noah Cardinal, an electrical apprentice in Saskatoon, was gathering documents for a rental application when one report showed a mobile account and credit card he never opened. The next morning, a collector called about the mobile bill.",
-            "Then a “fraud recovery specialist” offered to erase the accounts for a fee and asked him to install remote-access software. It knew part of his address and wanted cryptocurrency, which is rarely how reputable paperwork says hello.",
-            "Noah stopped replying and began an incident log. Using official numbers, he contacted his bank and unfamiliar providers. They secured access, opened investigations and issued case numbers. On a trusted device he secured email first, changed reused passwords, enabled multi-factor authentication and saved evidence before deleting anything.",
-            "He checked both credit files, requested fraud alerts and disputed unauthorized accounts. He reported to police and CAFC. Because his SIN might be exposed, he followed Service Canada guidance and checked CRA through its official site.",
-            "Corrections took weeks. One account disappeared; the other needed a second package. Noah kept every reply, rechecked both files and rejected more “recovery” offers. His rental timeline shifted, but rushing did not cost him more money or access."
+            "Noah Cardinal is an electrical apprentice in Saskatoon. He is gathering his documents for a new rental.",
+            "Then one of his credit reports shows a mobile account and a credit card he never opened. The next morning, a collector calls about the mobile bill.",
+            "Next, a “fraud recovery specialist” calls. For a fee, he says, he can erase the accounts, as long as Noah installs remote-access software and pays in cryptocurrency. That is rarely how reputable paperwork says hello.",
+            "Noah stops replying, saves every message and starts an incident log instead.",
+            "Using official phone numbers, he calls his bank and the providers he does not know. They lock access and give him case numbers. On a trusted device, he secures his email, changes reused passwords and turns on multi-factor authentication.",
+            "He asks both credit bureaus for fraud alerts and disputes the accounts. He reports to the police and the CAFC. His SIN may be exposed, so he follows Service Canada guidance and checks his CRA account on the official site.",
+            "It takes weeks. One account disappears; the other needs a second package of papers. His rental date moves, but rushing never cost him more money or access.",
+            "His name had a very busy weekend. This time, it did not get a second one."
           ]
         },
         {
           "type": "spotlight",
-          "text": "Noah’s incident log connected every organization, date, case number and next action."
+          "text": "Noah’s incident log tied together every organization, date, case number and next step."
         },
         {
           "type": "heading",
@@ -89,13 +91,13 @@
         },
         {
           "type": "paragraph",
-          "text": "Recovery was not one heroic call. It was contain, document, report, correct and verify, always through official channels."
+          "text": "Recovery was not one heroic call. It was five steps: contain, document, report, correct and verify, always through official channels."
         },
         {
           "type": "transition",
-          "text": "Exposure and confirmed fraud are not the same warning, and mixing them up wastes the response window.",
-          "detail": "Classifying exactly what happened first is what let Noah act fast without wasting his first hour on the wrong accounts.",
-          "extra": "Round 1 sorts the signals next, before you chase any of them."
+          "text": "You can tell a warning from confirmed fraud before you spend your first hour.",
+          "detail": "You will sort exposure from misuse, so you protect the right accounts first and skip the wrong ones.",
+          "extra": "Next, Round 1 shows how to sort the signals before you chase any of them."
         }
       ]
     },
@@ -106,21 +108,21 @@
       "blocks": [
         {
           "type": "spotlight",
-          "text": "A breach notice does not prove a new loan exists. An unknown tradeline, collection call or credit notice deserves immediate investigation."
+          "text": "A breach notice does not prove a new loan exists. An unknown account, collection call or credit notice deserves a close look right away."
         },
         {
           "type": "ordered",
           "items": [
             {
-              "title": "Unfamiliar accounts, inquiries, addresses, employers or balances on either credit report.",
+              "title": "Accounts, inquiries, addresses, employers or balances you do not know on either credit report.",
               "text": ""
             },
             {
-              "title": "Missing bills, redirected mail, unexpected one-time passcodes or password-reset notices.",
+              "title": "Missing bills, redirected mail, one-time passcodes you did not ask for or password-reset notices.",
               "text": ""
             },
             {
-              "title": "Transactions, benefits, tax changes or service accounts you did not authorize.",
+              "title": "Charges, benefits, tax changes or service accounts you did not approve.",
               "text": ""
             },
             {
@@ -134,7 +136,7 @@
           "items": [
             {
               "title": "“No money left my bank account, so there is no identity-fraud problem.”",
-              "text": "Fraud may first appear as new credit, telecom service, redirected benefits or account takeover. Check the type of misuse, not only chequing."
+              "text": "Fraud may show up first as new credit, a phone plan, redirected benefits or a taken-over account. Check for every kind of misuse, not just your chequing account."
             }
           ]
         },
@@ -152,19 +154,21 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use a trusted device and official contact information. A suspicious link or number is evidence, not directions."
+          "text": "Use a trusted device and official contact details. A suspicious link or phone number is evidence, not directions."
         },
         {
-          "type": "cards",
+          "type": "filecards",
+          "text": "The first-hour response kit",
+          "image": "/images/credit-mastery/05-diamond/credit-16/credit16-image-2.webp",
           "items": [
             {
               "title": "PROTECT MONEY",
-              "text": "Call affected banks, card issuers or providers. Report unauthorized activity, block cards, secure access and open investigation files.",
+              "text": "Call affected banks, card issuers or providers. Report activity you did not approve, block cards, secure access and ask them to open an investigation.",
               "detail": "01"
             },
             {
               "title": "PROTECT ACCESS",
-              "text": "Secure primary email and change reused passwords. Enable multi-factor authentication and review recovery addresses, devices and forwarding rules.",
+              "text": "Secure your main email and change any reused passwords. Turn on multi-factor authentication and check recovery addresses, devices and forwarding rules.",
               "detail": "02"
             },
             {
@@ -174,37 +178,37 @@
             },
             {
               "title": "CHECK BOTH CREDIT FILES",
-              "text": "Obtain Equifax and TransUnion reports. Ask both bureaus for a fraud or identity alert and dispute unfamiliar information.",
+              "text": "Get your Equifax and TransUnion reports. Ask both bureaus for a fraud or identity alert and dispute information you do not know.",
               "detail": "04"
             },
             {
               "title": "CREATE OFFICIAL REPORTS",
-              "text": "Contact local police and keep the file number. Report to CAFC online or at 1-888-495-8501.",
+              "text": "Contact your local police and keep the file number. Report to the CAFC online or at 1‑888‑495‑8501.",
               "detail": "05"
             },
             {
               "title": "PROTECT IDENTITY RECORDS",
-              "text": "If a SIN, CRA account, passport, driver’s licence or health card is involved, follow the issuing authority’s official process.",
+              "text": "If your SIN, CRA account, passport, driver’s licence or health card is involved, follow the issuing office’s official process.",
               "detail": "06"
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "A fraud alert asks lenders for extra verification. It is useful, not a guarantee every application will stop."
+          "text": "A fraud alert asks lenders to verify more. It helps, but it does not promise that every application will stop."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“I should delete scam messages immediately.”",
-              "text": "First preserve sender details, dates, payment instructions and screenshots. Then follow provider or police guidance on safe removal."
+              "text": "First save the sender details, dates, payment instructions and screenshots. Then follow your provider’s or the police’s advice on safe removal."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Secure email early. A compromised inbox can reset passwords across banking, telecom and government accounts."
+          "text": "Secure your email early. A hacked inbox can reset passwords across banking, phone and government accounts."
         },
         {
           "type": "source",
@@ -220,48 +224,48 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Correction can take more than one cycle. Keep one secure folder with a master log so each organization receives relevant evidence, not every private document you own."
+          "text": "Correction can take more than one round. Keep one secure folder with a master log, so each organization gets the evidence it needs and not every private document you own."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "Incident summary",
-              "text": "One paragraph describing when activity was found, affected accounts and what was not authorized.",
+              "text": "One paragraph on when you found the activity, which accounts are affected and what you did not authorize.",
               "detail": "01"
             },
             {
               "title": "Evidence index",
-              "text": "Numbered statements, screenshots, notices and identification copies. Send copies and redact what is not required.",
+              "text": "Numbered statements, screenshots, notices and copies of ID. Send copies, and black out what is not needed.",
               "detail": "02"
             },
             {
               "title": "Case-number register",
-              "text": "Organization, channel, date, representative, case or police number, promised action and follow-up.",
+              "text": "The organization, how you reached them, the date, who you spoke to, the case or police number, what they promised and when you follow up.",
               "detail": "03"
             },
             {
               "title": "Credit correction",
-              "text": "Dispute each unfamiliar account, inquiry, address or balance with the creditor and both bureaus where it appears.",
+              "text": "Dispute each account, inquiry, address or balance you do not know with the creditor and with both bureaus where it appears.",
               "detail": "04"
             },
             {
               "title": "Monitoring calendar",
-              "text": "Recheck statements and both files at 30, 60 and 90 days, then 6 and 12 months, or sooner if signals appear.",
+              "text": "Check your statements and both files at 30, 60 and 90 days, then at 6 and 12 months, or sooner if new signs appear.",
               "detail": "05"
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "The two bureaus may hold different information. Correcting one file does not prove the other is accurate."
+          "text": "The two bureaus may hold different information. Fixing one file does not prove the other is accurate."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A recovery company can guarantee every fraud item will vanish for a fee.”",
-              "text": "Legitimate investigations rely on evidence and official correction processes. No one can guarantee an outcome, and victims are often targeted by recovery scams."
+              "text": "Real investigations rely on evidence and official correction processes. No one can guarantee the result, and victims are often targeted by recovery scams."
             }
           ]
         }
@@ -276,35 +280,35 @@
           "type": "accordions",
           "items": [
             {
-              "title": "You receive a breach notice but see no unauthorized activity. Exposure or confirmed fraud?",
-              "detail": "Exposure. Treat it as a warning and monitor; confirmed misuse requires evidence such as an unauthorized account or transaction.",
+              "title": "You get a breach notice but see no unauthorized activity. Is this exposure or confirmed fraud?",
+              "detail": "Exposure. Treat it as a warning and keep watching. Confirmed misuse needs evidence, such as an account or charge you did not authorize.",
               "text": ""
             },
             {
-              "title": "A text says to call immediately about a frozen bank account. Which route?",
-              "detail": "Use the number on an official statement, card or the institution’s independently located website, not the text.",
+              "title": "A text says to call right away about a frozen bank account. Which route do you use?",
+              "detail": "Use the number on an official statement or card, or the bank’s website that you find yourself. Do not use the text.",
               "text": ""
             },
             {
-              "title": "Why secure email early?",
-              "detail": "A compromised inbox can reset passwords across banking, telecom and government accounts.",
+              "title": "Why secure your email early?",
+              "detail": "A hacked inbox can reset passwords across banking, phone and government accounts.",
               "text": ""
             },
             {
-              "title": "An unknown account appears on only one report. Who may need the request?",
-              "detail": "The creditor and the bureau showing it; still review the other bureau because files differ.",
+              "title": "An unknown account shows up on only one report. Who may need your request?",
+              "detail": "The creditor and the bureau that shows it. Still review the other bureau, because the files can differ.",
               "text": ""
             },
             {
-              "title": "A recovery expert requests remote access and cryptocurrency. Safest response?",
-              "detail": "Stop contact, do not pay or install software, preserve evidence and verify/report through official channels.",
+              "title": "A recovery expert asks for remote access and cryptocurrency. What is the safest response?",
+              "detail": "Stop contact, do not pay or install anything, save the evidence and verify and report through official channels.",
               "text": ""
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Keep watching after the first correction. Stolen information can be reused months later."
+          "text": "Keep watching after the first fix. Stolen information can be reused months later."
         }
       ]
     },
@@ -315,19 +319,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Complete only what is safe to store. Use partial references and share only relevant information through official channels."
+          "text": "Fill in only what is safe to store. Use partial references and share only what is needed, through official channels."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "A complete incident file reduces repeated explanations and gives every follow-up an owner, date and reference."
+          "text": "A complete incident file means fewer repeated explanations, and every follow-up has an owner, a date and a reference."
         },
         {
           "type": "takeaway",
           "text": "Detect, contain, preserve, report, correct and monitor.",
-          "detail": "If a step creates fresh urgency or asks for secrecy, remote access or unusual payment, pause and verify."
+          "detail": "If a step creates new urgency or asks for secrecy, remote access or an unusual payment, pause and verify."
         }
       ]
     },
@@ -341,31 +345,31 @@
           "items": [
             {
               "title": "Identity theft",
-              "text": "The unauthorized obtaining of personal information."
+              "text": "Taking someone’s personal information without permission."
             },
             {
               "title": "Identity fraud",
-              "text": "The use of stolen personal information to impersonate someone or obtain money, credit, services or benefits."
+              "text": "Using stolen personal information to pretend to be someone and get money, credit, services or benefits."
             },
             {
               "title": "Account takeover",
-              "text": "Unauthorized control of an existing account, often through stolen credentials or password resets."
+              "text": "When someone gets control of an existing account, often through stolen passwords or password resets."
             },
             {
               "title": "Fraud alert",
-              "text": "A notice on a credit file asking prospective lenders to take extra steps to verify identity."
+              "text": "A notice on a credit file that asks lenders to take extra steps to verify who is applying."
             },
             {
               "title": "Multi-factor authentication",
-              "text": "A sign-in method requiring more than one type of proof, such as a password and an app code."
+              "text": "A sign-in that needs more than one kind of proof, such as a password and a code from an app."
             },
             {
               "title": "Credit inquiry",
-              "text": "A record that someone accessed a credit file. An unfamiliar application inquiry can be a fraud signal."
+              "text": "A record that someone looked at a credit file. An application inquiry you do not know can be a fraud signal."
             },
             {
               "title": "Recovery scam",
-              "text": "A second fraud that promises to recover losses or erase records in exchange for money, access or personal information."
+              "text": "A second fraud that promises to win back your losses or erase records in exchange for money, access or personal information."
             }
           ]
         }
@@ -382,17 +386,23 @@
   },
   "checkIn": {
     "questions": [
-      "First event, date found and exposure or misuse reason:",
-      "Financial, email, telecom or service accounts to secure first:",
-      "Evidence preserved and protected storage location:",
-      "Equifax and TransUnion findings, alerts and dispute numbers:",
-      "Creditor/provider investigation numbers and promised actions:",
-      "Police file, CAFC report and dates:",
-      "Affected government identity records and official routes:",
-      "30-, 60-, 90-, 180- and 365-day reviews and recovery-scam warning:"
+      "What looked wrong first, and when did you find it?",
+      "Which accounts and ID records need to be secured first?",
+      "What evidence have you saved, and where is it stored?",
+      "What did Equifax and TransUnion show, and did you ask for fraud alerts?",
+      "Which police file, CAFC report and company case numbers do you have?",
+      "When will you check again, and what will you do if someone offers to recover your losses for a fee?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I reviewed my answers and understand this is educational information."
+    "acknowledgment": "I reviewed my answers and understand this is educational information.",
+    "samples": [
+      "Example: A mobile account I never opened, found on Jun 3.",
+      "Example: My email first, then my bank and my SIN. Write “none” if only one thing is affected.",
+      "Example: Screenshots and statements in a locked folder on my laptop.",
+      "Example: Equifax shows the card. TransUnion shows nothing. Alerts requested on Jun 4.",
+      "Example: Police file 2024-1234. Bank case 55821. Write “not yet” if you do not have one.",
+      "Example: 30, 60 and 90 days, then 6 and 12 months. I will say no and report it."
+    ]
   },
   "sources": []
 }

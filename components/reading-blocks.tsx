@@ -16,6 +16,7 @@ import {
   UtilizationCalculator,
   LessonArtworkCarousel,
   CardCarousel,
+  FileCards,
 } from './lesson-interactives';
 export function ReadingBlocks({
   blocks,
@@ -151,6 +152,58 @@ export function ReadingBlocks({
                     <p>{item.text}</p>
                   </article>
                 ))}
+              </div>
+            );
+          case 'filecards':
+            return <FileCards key={i} heading={block.text} image={block.image} items={items} />;
+          case 'glasspanel':
+            return (
+              <div className="score-frame glass-panel-frame" key={i}>
+                <div className="glass-panel">
+                  <div className="score-explorer-head">
+                    <div>
+                      <Sparkles aria-hidden="true" />
+                      <h3>{block.text}</h3>
+                    </div>
+                    {block.detail && <strong>{block.detail}</strong>}
+                  </div>
+                  <ul className="glass-panel-grid">
+                    {items.map((item) => {
+                      // "5% — Current minimum…" shows the part before the dash as a large figure.
+                      const [figure, ...rest] = item.text.split(' — ');
+                      // "Monthly $536.67. Interest $10,080.02." shows each sentence as a label/amount row.
+                      const rows = rest.length
+                        ? []
+                        : item.text
+                            .split(/(?<=\.)\s+(?=[A-Z])/)
+                            .map((s) => s.replace(/\.$/, '').match(/^(.+?)\s+(\$[\d,.]+.*)$/));
+                      const asRows = rows.length > 1 && rows.every(Boolean);
+                      return (
+                        <li className="glass-tile" key={item.title}>
+                          <i aria-hidden="true" />
+                          <span>{item.title}</span>
+                          {asRows ? (
+                            <dl className="glass-rows">
+                              {rows.map((m) => (
+                                <div key={m![1]}>
+                                  <dt>{m![1]}</dt>
+                                  <dd>{m![2]}</dd>
+                                </div>
+                              ))}
+                            </dl>
+                          ) : rest.length ? (
+                            <>
+                              <strong>{figure}</strong>
+                              <p>{rest.join(' — ')}</p>
+                            </>
+                          ) : (
+                            <p>{item.text}</p>
+                          )}
+                        </li>
+                      );
+                    })}
+                  </ul>
+                </div>
               </div>
             );
           case 'myths':

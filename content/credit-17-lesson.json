@@ -16,26 +16,24 @@
         },
         {
           "type": "paragraph",
-          "text": "Preview the underwriting conversation. Organize credit, income, debt and cash evidence, estimate ratios and understand the stress test. Then set a buying ceiling that leaves room for life after closing. The goal is readiness, not a preapproval number that makes your budget nervous."
+          "text": "This course lets you rehearse the lender’s conversation before it happens. You will organize your credit, income, debt and cash papers, estimate your ratios and learn what the stress test does. Then you will set a buying ceiling that leaves room for life after closing. The goal is being ready, not chasing a preapproval number that makes your budget nervous."
         },
         {
           "type": "spotlight",
-          "text": "A preapproval is a conditional estimate, not a guaranteed final loan. Property, down payment, documents and final review still matter."
+          "text": "A preapproval is a conditional estimate, not a promised loan. The property, the down payment, your papers and a final review still matter."
         },
         {
-          "type": "lists",
+          "type": "artwork",
           "items": [
             {
-              "title": "",
-              "text": "",
-              "icon": "check",
-              "list": [
-                "Assemble a mortgage-readiness file without guessing at missing documents.",
-                "Estimate gross debt service and total debt service ratios in plain language.",
-                "Separate minimum down payment from full cash needed to close and settle in.",
-                "Explain what the mortgage stress test does.",
-                "Choose a personal price ceiling below the largest amount a lender may offer."
-              ]
+              "title": "The dream kitchen fits the preapproval. Does it fit your budget?",
+              "text": "The dream kitchen fits the preapproval. Does it fit your budget?",
+              "image": "/images/credit-mastery/05-diamond/credit-17/credit17-image-1.webp"
+            },
+            {
+              "title": "Set your own ceiling from real costs, not the lender’s maximum.",
+              "text": "Set your own ceiling from real costs, not the lender’s maximum.",
+              "image": "/images/credit-mastery/05-diamond/credit-17/credit17-image-2.webp"
             }
           ]
         },
@@ -44,7 +42,7 @@
           "items": [
             {
               "title": "“A preapproval means the mortgage is guaranteed.”",
-              "text": "It is an early, conditional assessment. Financial changes, incomplete proof or an unacceptable property can change the decision."
+              "text": "It is an early, conditional check. A change in your finances, missing proof or a property the lender will not accept can change the answer."
             }
           ]
         },
@@ -55,9 +53,9 @@
         },
         {
           "type": "transition",
-          "text": "A lender's largest offer and your safest number are almost never the same figure.",
-          "detail": "Building the credit, income, debt and cash files before an offer deadline is what keeps a scanner from becoming a household celebrity.",
-          "extra": "The four files behind the application come next."
+          "text": "You can set a buying ceiling you can live with, not just one a lender will sign.",
+          "detail": "You will build four files before an offer deadline, so a scanner never has to become a household celebrity.",
+          "extra": "The four files come next, then Rina’s story shows what a ceiling is worth."
         }
       ]
     },
@@ -68,60 +66,60 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Build them before an offer deadline turns your scanner into a household celebrity."
+          "text": "Build these four files before an offer deadline turns your scanner into a household celebrity."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "CREDIT FILE",
-              "text": "Review both reports for errors, late payments, high revolving balances and unfamiliar inquiries. Avoid new credit merely to ‘look stronger’.",
+              "text": "Review both reports for errors, late payments, high card balances and inquiries you do not know. Do not open new credit just to “look stronger.”",
               "detail": "01"
             },
             {
               "title": "INCOME FILE",
-              "text": "Collect identification, employment letter, pay stubs and requested statements. Self-employed applicants may need two years of CRA notices and business evidence.",
+              "text": "Gather your ID, an employment letter, pay stubs and any statements a lender asks for. If you are self-employed, expect to show two years of CRA notices and proof of the business.",
               "detail": "02"
             },
             {
               "title": "DEBT FILE",
-              "text": "List required monthly payments for cards, lines, loans, support and other commitments. Ratios commonly use required payment.",
+              "text": "List the required monthly payment on every card, line, loan, support order and other commitment. Lenders usually use the required payment, not what you choose to pay.",
               "detail": "03"
             },
             {
               "title": "CASH FILE",
-              "text": "Document down payment, deposit, closing expenses, moving, immediate repairs and emergency reserve. Explain large transfers.",
+              "text": "Document your down payment, deposit, closing costs, moving, quick repairs and an emergency reserve. Be ready to explain any large transfer.",
               "detail": "04"
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "FCAC uses 39% as a housing-cost GDS guideline and 44% as a total-debt TDS guideline. Lenders may apply their own policy, and qualifying is not comfortable affordability."
+          "text": "FCAC gives 39% as the guideline for housing costs (GDS) and 44% for total debt (TDS). Lenders may set their own policy, and qualifying for a loan is not the same as affording it comfortably."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "GDS",
-              "text": "Housing costs ÷ gross monthly income — Mortgage payment + property taxes + heating + 50% of condo fees."
+              "text": "Housing costs ÷ gross monthly income. Housing costs are the mortgage payment, property taxes, heating and 50% of condo fees."
             },
             {
               "title": "TDS",
-              "text": "(Housing costs + other debt payments) ÷ gross income — Add required payments on cards, lines, loans, support and commitments."
+              "text": "(Housing costs + other debt payments) ÷ gross income. Add the required payments on cards, lines, loans, support and other commitments."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "The current uninsured minimum qualifying rate at federally regulated lenders is the greater of contract rate + 2 percentage points or 5.25%."
+          "text": "At federally regulated lenders, the uninsured minimum qualifying rate is the greater of your contract rate + 2 percentage points or 5.25%."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A strong credit score can replace missing income or down-payment proof.”",
-              "text": "Credit is one part. A lender still needs acceptable income, debt, down-payment and property evidence."
+              "text": "Credit is one piece. A lender still needs acceptable income, debt, down-payment and property evidence."
             }
           ]
         },
@@ -147,12 +145,16 @@
           "text": "Meet Rina",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/credit-mastery/05-diamond/credit-17/credit17-image-3.webp",
           "paragraphs": [
-            "Rina Patel, a respiratory therapist in Brampton, wanted a two-bedroom condo near work. She had saved a down payment, paid every bill on time and received a surprisingly large preapproval. It felt like a game-show prize, brightly lit and slightly dangerous if carried home.",
-            "A condo near the maximum had a renovated kitchen and “reasonable” fees. Underwriting counted part of the fee, taxes and heating. Rina’s life had to carry the rest, plus insurance, commuting, maintenance, groceries and an emergency reserve. The lender’s calculation and her life were related, but not twins.",
-            "Rina corrected an old address, lowered a card balance and gathered employment, pay and down-payment proof. She calculated housing at the stress-test rate and added costs that do not politely disappear after closing. Her personal ceiling landed $48,000 below the preapproval.",
-            "The first condo failed: a special assessment was discussed, closing would consume her reserve and the monthly cost left little renewal room. She walked away. Two months later, she found a smaller unit with healthier documents below her ceiling; appraisal and final review still followed.",
-            "The preapproval answered what a lender might consider. Rina’s file answered how much home she could carry while sleeping normally and occasionally ordering dinner without convening a budget committee."
+            "Rina Patel is a respiratory therapist in Brampton. She wants a two-bedroom condo near work. She has saved a down payment and paid every bill on time.",
+            "Then her preapproval arrives, and it is a surprise. The number is big. It feels like a game-show prize: bright, shiny and a little dangerous to carry home.",
+            "She finds a condo near the top of that number. It has a renovated kitchen and “reasonable” fees. The lender counts part of the fee, the taxes and the heat. Rina’s life has to carry the rest: insurance, commuting, repairs, groceries and an emergency reserve. The lender’s math and her life are related. They are not twins.",
+            "Rina has a choice. She can bid at the number on the page, or she can work out her own. She picks her own.",
+            "She fixes an old address and pays down a card. She gathers her pay, her job letter and her down-payment proof. Then she runs housing at the stress-test rate and adds the costs that do not politely disappear after closing. Her ceiling lands $48,000 below the preapproval.",
+            "The first condo fails her test. A special assessment is being discussed, closing would eat her reserve and the monthly cost leaves no room for a renewal. She walks away.",
+            "Two months later she finds a smaller unit with cleaner papers, priced under her ceiling. The appraisal and final review still have to happen, and she waits for both.",
+            "The preapproval told her what a lender might consider. Her file told her how much home she could carry while sleeping normally. And occasionally she orders dinner without convening a budget committee."
           ]
         },
         {
@@ -165,13 +167,13 @@
         },
         {
           "type": "paragraph",
-          "text": "She combined lender evidence with a household stress test and let the lower safe number guide the search."
+          "text": "She combined the lender’s evidence with a household stress test, and she let the lower, safer number guide her search."
         },
         {
           "type": "transition",
-          "text": "Rina's preapproval was $48,000 higher than the number she could sleep on.",
-          "detail": "Setting a personal ceiling below the lender's number is what let Rina walk away from a condo her file could afford but her life could not.",
-          "extra": "Run your own cash screen next, before a lender does."
+          "text": "You can find your own safe number before a lender hands you theirs.",
+          "detail": "You will check your cash, from down payment to closing costs to reserve, so one surprise never decides the purchase.",
+          "extra": "Next, the Cash section runs your numbers the way a lender will."
         }
       ]
     },
@@ -181,33 +183,31 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "heading",
-          "text": "Cash screen"
-        },
-        {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "Cash screen",
+          "detail": "MINIMUM DOWN PAYMENT",
           "items": [
             {
               "title": "UP TO $500,000",
-              "text": "5% — Current minimum insured down payment."
+              "text": "5%. This is the current minimum for an insured down payment."
             },
             {
               "title": "$500,000 TO BELOW $1.5M",
-              "text": "5% + 10% — 5% of first $500,000 plus 10% above it."
+              "text": "5% of the first $500,000, plus 10% of the amount above it."
             },
             {
               "title": "$1.5M OR MORE",
-              "text": "20%+ — Mortgage loan insurance is unavailable."
+              "text": "20% or more. Mortgage loan insurance is not available."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Mortgage loan insurance protects the lender if the borrower defaults. The premium is a borrowing cost, not homeowner payment protection."
+          "text": "Mortgage loan insurance protects the lender if the borrower defaults. The premium is a borrowing cost. It does not protect the homeowner."
         },
         {
           "type": "paragraph",
-          "text": "Eligible first-time buyers and buyers of new builds may qualify for insured amortization up to 30 years. Longer amortization can lower payments but usually increases total interest."
+          "text": "Eligible first-time buyers and buyers of new builds may qualify for an insured amortization of up to 30 years. A longer amortization can lower the payment, but it usually means more total interest."
         },
         {
           "type": "heading",
@@ -215,22 +215,22 @@
         },
         {
           "type": "paragraph",
-          "text": "An eligible first-time buyer may use an FHSA and Home Buyers’ Plan for the same qualifying home."
+          "text": "An eligible first-time buyer may use both an FHSA and the Home Buyers’ Plan for the same qualifying home."
         },
         {
           "type": "paragraph",
-          "text": "Current CRA limits include $8,000 first-year FHSA room, $40,000 lifetime FHSA limit and $60,000 HBP withdrawal limit. Eligibility, timing, tax and repayment rules apply."
+          "text": "Current CRA limits include $8,000 of first-year FHSA room, a $40,000 lifetime FHSA limit and a $60,000 HBP withdrawal limit. Eligibility, timing, tax and repayment rules apply."
         },
         {
           "type": "spotlight",
-          "text": "The down payment is one envelope. Keep separate cash for closing, moving, repairs and a post-closing emergency buffer."
+          "text": "The down payment is one envelope. Keep separate cash for closing, moving, repairs and an emergency buffer after closing."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A 30-year amortization makes the home cheaper.”",
-              "text": "It may reduce the scheduled payment, but a longer path can increase total interest. Compare relief with total cost and renewal risk."
+              "text": "It may lower the scheduled payment, but a longer path can add total interest. Compare the relief with the total cost and the renewal risk."
             }
           ]
         }
@@ -246,27 +246,27 @@
           "items": [
             {
               "title": "Why can a preapproval change before closing?",
-              "detail": "It is conditional. Financial changes, incomplete proof, property appraisal or lender requirements can change the final decision.",
+              "detail": "It is conditional. A change in your finances, missing proof, the property appraisal or lender rules can change the final decision.",
               "text": ""
             },
             {
-              "title": "Minimum down payment screening on a $700,000 insured purchase?",
-              "detail": "$45,000: 5% of the first $500,000 ($25,000) plus 10% of the remaining $200,000 ($20,000).",
+              "title": "What is the minimum down payment on a $700,000 insured purchase?",
+              "detail": "$45,000. That is 5% of the first $500,000 ($25,000) plus 10% of the remaining $200,000 ($20,000).",
               "text": ""
             },
             {
               "title": "If the contract rate is 4.80%, what uninsured stress-test rate applies?",
-              "detail": "6.80%: the greater of 4.80% + 2 percentage points and 5.25%.",
+              "detail": "6.80%. That is the greater of 4.80% + 2 percentage points and 5.25%.",
               "text": ""
             },
             {
-              "title": "What belongs in GDS, and what extra belongs in TDS?",
-              "detail": "GDS includes mortgage payment, property taxes, heating and 50% of condo fees. TDS adds other required debt payments.",
+              "title": "What goes into GDS, and what does TDS add?",
+              "detail": "GDS counts the mortgage payment, property taxes, heating and 50% of condo fees. TDS adds your other required debt payments.",
               "text": ""
             },
             {
-              "title": "What trade-off comes with a longer amortization?",
-              "detail": "A lower scheduled payment can mean more total interest and greater renewal exposure.",
+              "title": "What is the trade-off of a longer amortization?",
+              "detail": "A lower scheduled payment can mean more total interest and more risk at renewal.",
               "text": ""
             }
           ]
@@ -285,14 +285,14 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use verified figures and partial references. This is preparation, not approval or mortgage, tax or legal advice."
+          "text": "Use verified figures and partial references. This is preparation, not approval, and it is not mortgage, tax or legal advice."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "A complete file does not guarantee approval. It reduces avoidable surprises and makes your affordability decision easier to defend."
+          "text": "A complete file does not guarantee approval. It cuts avoidable surprises and makes your affordability decision easier to defend."
         }
       ]
     },
@@ -310,23 +310,23 @@
             },
             {
               "title": "GDS ratio",
-              "text": "Gross debt service: qualifying housing costs divided by gross household income."
+              "text": "Gross debt service. Qualifying housing costs divided by gross household income."
             },
             {
               "title": "TDS ratio",
-              "text": "Total debt service: qualifying housing costs plus other required debt payments divided by gross income."
+              "text": "Total debt service. Qualifying housing costs plus other required debt payments, divided by gross income."
             },
             {
               "title": "Stress test",
-              "text": "Qualification at a rate above the contract rate to test payment resilience."
+              "text": "A test of whether you can still pay at a rate above your contract rate."
             },
             {
               "title": "Amortization",
-              "text": "The estimated time required to repay the mortgage in full at the assumed rate and payment."
+              "text": "The estimated time it takes to repay the mortgage in full at the assumed rate and payment."
             },
             {
               "title": "Mortgage loan insurance",
-              "text": "Insurance protecting the lender on an eligible high-ratio mortgage. The borrower usually pays the premium."
+              "text": "Insurance that protects the lender on an eligible high-ratio mortgage. The borrower usually pays the premium."
             }
           ]
         }
@@ -343,17 +343,27 @@
   },
   "checkIn": {
     "questions": [
-      "Two-bureau items to correct or stabilize:",
-      "Gross monthly income and proof:",
-      "Housing costs, estimated GDS and notes:",
-      "Other payments, estimated TDS and notes:",
-      "Down payment, source and evidence trail:",
-      "Closing, moving, repairs and buffer totals:",
-      "Documents or explanations still missing:",
-      "Personal price ceiling, decision and review date:"
+      "What errors on either credit report do you need to fix?",
+      "What is your gross monthly income, and how will you prove it?",
+      "What are your monthly housing costs, and what is your estimated GDS?",
+      "What other required debt payments do you have, and what is your estimated TDS?",
+      "How much is your down payment, where is it from and how will you show it?",
+      "How much cash do you need for closing, moving, repairs and a buffer?",
+      "Which documents or explanations are still missing?",
+      "What is your personal price ceiling, and when will you review it?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "Example: An old address on TransUnion and a $40 collection I do not know.",
+      "Example: $6,200 a month. Two pay stubs and an employment letter.",
+      "Example: $2,350. About 31%. A rough estimate is fine.",
+      "Example: $380 for a car loan and a card. About 37%.",
+      "Example: $60,000 from savings and an FHSA. Bank statements for 90 days.",
+      "Example: $9,000 for closing and moving, plus a $5,000 buffer.",
+      "Example: A gift letter and my last CRA notice. Write “none” if you have it all.",
+      "Example: $520,000, reviewed again on Jan 15."
+    ]
   },
   "sources": []
 }

@@ -1,7 +1,7 @@
 import { randomBytes, randomUUID, scryptSync, timingSafeEqual, createHash } from 'node:crypto';
 import { Pool } from 'pg';
 import type { Account, AuditEvent, LessonContent, MemberState, Settings, Tier } from './types';
-import { allLessons, creditLessons } from './catalog';
+import { allLessons, courses, creditLessons } from './catalog';
 import { seededContent, placeholderContent } from './content';
 export function demoMode() {
   return (
@@ -77,15 +77,17 @@ function memory(): Memory {
     const eliteState = emptyState(5);
     eliteState.activeCourse = 'credit-mastery';
     eliteState.onboardingComplete = true;
-    eliteState.enrollments['credit-mastery'] = {
-      courseId: 'credit-mastery',
-      tier: 5,
-      completed: [],
-      reflections: {},
-      startedAt: new Date().toISOString(),
-      deadline: null,
-      saved: [],
-    };
+    for (const course of courses) {
+      eliteState.enrollments[course.id] = {
+        courseId: course.id,
+        tier: 5,
+        completed: course.lessons.map((l) => l.id),
+        reflections: {},
+        startedAt: new Date().toISOString(),
+        deadline: null,
+        saved: [],
+      };
+    }
     const elite: Account = {
       id: 'demo-elite',
       name: 'Elite Reviewer',

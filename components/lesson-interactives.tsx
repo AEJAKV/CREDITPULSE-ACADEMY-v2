@@ -1,5 +1,5 @@
 'use client';
-import { useEffect, useState, useTransition, type CSSProperties } from 'react';
+import { useEffect, useRef, useState, useTransition, type CSSProperties } from 'react';
 import { useRouter } from 'next/navigation';
 import {
   ChevronLeft,
@@ -236,6 +236,54 @@ export function UtilizationCalculator() {
           This is an educational ratio, not a credit-score prediction.
         </p>
       </div>
+    </div>
+  );
+}
+/** Numbered checklist cards: an image cover beside a 3×2 grid, a swipe row on phones. */
+export function FileCards({
+  heading,
+  image,
+  items,
+}: {
+  heading?: string;
+  image?: string;
+  items: { title: string; text: string }[];
+}) {
+  const track = useRef<HTMLOListElement>(null);
+  const [at, setAt] = useState(0);
+  useEffect(() => {
+    const el = track.current;
+    if (!el) return;
+    const update = () => {
+      const [first, second] = el.children as HTMLCollectionOf<HTMLElement>;
+      if (!first || !second) return;
+      const step = second.offsetLeft - first.offsetLeft;
+      const end = el.scrollLeft >= el.scrollWidth - el.clientWidth - 2;
+      setAt(end ? items.length - 1 : Math.max(0, Math.round(el.scrollLeft / step)));
+    };
+    el.addEventListener('scroll', update, { passive: true });
+    return () => el.removeEventListener('scroll', update);
+  }, [items.length]);
+  return (
+    <div className="file-cards">
+      <div className="file-cards-cover">
+        {image && <img src={image} alt="" loading="lazy" decoding="async" />}
+        {heading && <h3>{heading}</h3>}
+      </div>
+      <ol className="file-cards-track" ref={track} tabIndex={0} aria-label={heading}>
+        {items.map((item, i) => (
+          <li className={`file-card tone-${(i % 6) + 1}`} key={item.title}>
+            <span className="file-card-mark" aria-hidden="true">
+              {String(i + 1).padStart(2, '0')}
+            </span>
+            <h4>{item.title}</h4>
+            <p>{item.text}</p>
+          </li>
+        ))}
+      </ol>
+      <p className="file-cards-count" aria-hidden="true">
+        {at + 1} / {items.length}
+      </p>
     </div>
   );
 }

@@ -10,6 +10,8 @@ const blockTypes: ReadingBlock['type'][] = [
   'transition',
   'artwork',
   'cards',
+  'filecards',
+  'glasspanel',
   'myths',
   'ordered',
   'chips',

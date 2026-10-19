@@ -47,6 +47,12 @@ const heroImages: Record<string, string> = {
   'money-12': '/images/money-budgeting/04-platinum/money-12/hero-image.webp',
   'money-13': '/images/money-budgeting/04-platinum/money-13/hero-image.webp',
   'money-14': '/images/money-budgeting/04-platinum/money-14/hero-image.webp',
+  'money-15': '/images/money-budgeting/05-diamond/money-15/hero-image.webp',
+  'money-16': '/images/money-budgeting/05-diamond/money-16/hero-image.webp',
+  'money-17': '/images/money-budgeting/05-diamond/money-17/hero-image.webp',
+  'money-18': '/images/money-budgeting/06-elite/money-18/hero-image.webp',
+  'money-19': '/images/money-budgeting/06-elite/money-19/hero-image.webp',
+  'money-20': '/images/money-budgeting/06-elite/money-20/hero-image.webp',
   'benefits-01': '/images/benefits-support/01-starter/benefits-01/hero-image.webp',
   'income-11': '/images/income-business/03-gold/income-11/hero-image.webp',
   'income-12': '/images/income-business/04-platinum/income-12/hero-image.webp',
@@ -203,6 +209,7 @@ export default async function LessonPage({
               {section.blocks && (
                 <ReadingBlocks
                   blocks={section.blocks}
+                  heading={section.title}
                   checkIn={
                     content.checkIn && (
                       <SourceCheckIn

@@ -53,27 +53,42 @@
           "text": "Put every housing cost under the X-ray"
         },
         {
-          "type": "cards",
+          "type": "carousel",
           "items": [
             {
-              "title": "01",
-              "text": "Base rent, due date, lease term and payment method."
+              "title": "LEASE ESSENTIALS",
+              "text": "Base rent, due date, lease term and payment method.",
+              "detail": "STEP 1",
+              "icon": "filetext",
+              "image": "/images/money-budgeting/06-elite/money-18/money18-image-4.webp"
             },
             {
-              "title": "02",
-              "text": "Electricity, heat, water and other utilities not included in rent."
+              "title": "UTILITIES NOT INCLUDED",
+              "text": "Electricity, heat, water and other utilities not included in rent.",
+              "detail": "STEP 2",
+              "icon": "dollar",
+              "image": "/images/money-budgeting/06-elite/money-18/money18-image-5.webp"
             },
             {
-              "title": "03",
-              "text": "Internet, tenant insurance, parking, laundry, storage and access costs."
+              "title": "EVERYDAY EXTRAS",
+              "text": "Internet, tenant insurance, parking, laundry, storage and access costs.",
+              "detail": "STEP 3",
+              "icon": "list",
+              "image": "/images/money-budgeting/06-elite/money-18/money18-image-6.webp"
             },
             {
-              "title": "04",
-              "text": "Moving, utility deposits, furniture, annual permits and seasonal utility spikes."
+              "title": "MOVE-IN AND SPIKES",
+              "text": "Moving, utility deposits, furniture, annual permits and seasonal utility spikes.",
+              "detail": "STEP 4",
+              "icon": "clock",
+              "image": "/images/money-budgeting/06-elite/money-18/money18-image-7.webp"
             },
             {
-              "title": "05",
-              "text": "Divide the yearly irregular costs by 12, so the money has a job before the surprise arrives."
+              "title": "DIVIDE BY TWELVE",
+              "text": "Divide the yearly irregular costs by 12, so the money has a job before the surprise arrives.",
+              "detail": "STEP 5",
+              "icon": "calendar",
+              "image": "/images/money-budgeting/06-elite/money-18/money18-image-8.webp"
             }
           ]
         },
@@ -87,6 +102,21 @@
             {
               "title": "“The 35% guideline proves a rental is affordable.”",
               "text": "It is only a starting signal. Take-home pay, childcare, debt, travel costs, accessibility, location and changing earnings may make a lower or higher share right for your household."
+            }
+          ]
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Rent is only the first number on the monthly bill.",
+              "text": "Rent is only the first number on the monthly bill.",
+              "image": "/images/money-budgeting/06-elite/money-18/money18-image-1.webp"
+            },
+            {
+              "title": "Price the whole month, then keep a reserve behind it.",
+              "text": "Price the whole month, then keep a reserve behind it.",
+              "image": "/images/money-budgeting/06-elite/money-18/money18-image-2.webp"
             }
           ]
         },
@@ -107,12 +137,13 @@
           "text": "Meet Amara and Jules",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/money-budgeting/06-elite/money-18/money18-image-3.webp",
           "paragraphs": [
             "Amara Mensah and Jules Tremblay find a two-bedroom apartment in Moncton advertised at $1,620. They like the bus route, the sunlight and the kitchen drawer that opens without negotiating with the stove. Their plan looks simple: split the rent and move in.",
-            "Then Amara reads the lease while Jules prices the move. Heat is included, but electricity and internet are not. Parking costs extra. The laundry machines accept payment with the confidence of a boutique hotel. Jules also works variable shifts, so an equal monthly split could still cause a timing problem between paydays.",
-            "The landlord says other couples want the place, so they should sign today. Amara wants to sign. Jules asks to wait one day. They build a Rental Cost X-Ray. They add every recurring cost, divide the yearly extras by 12 and ask for written answers about what is included. They check New Brunswick’s current rent-increase rules instead of trusting a neighbour’s cousin, who is extremely certain and magnificently unsourced.",
-            "Their roommate agreement records the split, the due dates and shared purchases. It also covers notice if one person leaves and a backup plan for a late transfer. Their first total is higher than the listing but still workable after they drop a parking stall they don’t need. Each payday, they move a share of next month’s housing cost into a separate rent-first account. They keep a small housing buffer. They also save photos, receipts, the lease and their condition report.",
-            "Six months later, Jules loses two shifts in one pay period. The buffer covers the gap. The rent is paid in full, and their roommate agreement guides the repayment without turning the kitchen into a courtroom. The apartment was never unaffordable. The advertised number was just incomplete. Look at the total, check the rules and plan the timing before the keys arrive."
+            "Then Amara reads the lease while Jules prices the move. Heat is included, but electricity and internet are not. Parking costs extra. The laundry machines accept payment with the confidence of a boutique hotel. Jules works variable shifts, so an equal split could still cause a timing problem.",
+            "The landlord says other couples want the place, so they should sign today. Amara wants to sign. Jules asks to wait one day. They build a Rental Cost X-Ray: every recurring cost, yearly extras divided by 12 and written answers on what is included. They check New Brunswick’s current rent-increase rules instead of trusting a neighbour’s cousin, who is extremely certain and magnificently unsourced.",
+            "Their roommate agreement records the split, due dates, shared purchases, notice if one person leaves and a backup plan for a late transfer. Their first total is higher than the listing but workable once they drop a parking stall they don’t need. Each payday, they move a share of next month’s housing cost into a rent-first account with a small buffer. They also keep the lease, receipts and condition report.",
+            "Six months later, Jules loses two shifts. The buffer covers the gap. The rent is paid in full, and their roommate agreement guides the repayment without turning the kitchen into a courtroom. The apartment was never unaffordable. The advertised number was just incomplete. Look at the total, check the rules and plan the timing before the keys arrive."
           ]
         },
         {
@@ -164,10 +195,6 @@
         {
           "type": "spotlight",
           "text": "The 2026 rules are not one rule for all of Canada. British Columbia lists a 2.3% limit for residential rent. Ontario has a 2.1% guideline with exemptions. Alberta generally regulates timing and notice instead of setting a general cap."
-        },
-        {
-          "type": "spotlight",
-          "text": "New Brunswick’s framework, Newfoundland and Labrador’s notice rules and PEI’s allowable-increase process differ again. Province, tenancy type, date and proper form all matter."
         },
         {
           "type": "myths",
@@ -287,22 +314,22 @@
   },
   "checkIn": {
     "questions": [
-      "What is the base rent, when is it due, and how long is the lease?",
-      "Which utilities and services does the rent include, and which will you pay yourself?",
+      "What is the base rent, how long is the lease, and which utilities does it include?",
       "What do your monthly extras cost, such as internet, insurance, parking, laundry or storage? Add yearly costs divided by 12.",
       "What is your true monthly housing total, and what share of your gross household income is it?",
       "Test one change: a rent increase, a utility spike or a roommate leaving. What would it cost, and what would you cut?",
-      "What is your rent-first plan? Write your payday transfer, your buffer goal, the provincial rules you checked and your review date."
+      "What is your rent-first plan? Write your payday transfer and your buffer goal.",
+      "Which provincial rental rules did you check, and when will you review your plan?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand budgeting guidance is not tenancy law and current local rules must be verified.",
     "samples": [
-      "$1,600, due on the 1st, 12-month lease.",
-      "Heat and water are included. I pay electricity and internet.",
+      "$1,600, 12-month lease. Heat and water are included. I pay electricity and internet.",
       "Internet $70, insurance $20, laundry $15, plus $30 a month for yearly costs.",
       "$1,600 + $135 + $120 utilities = $1,855. That is 33% of $5,600.",
       "A 3% increase adds $48 a month, or $576 a year. I would cut dining out.",
-      "$400 each payday, $1,500 buffer. I checked NB rent rules. Review on the 1st."
+      "$400 each payday into a rent-first account, with a $1,500 buffer goal.",
+      "I checked NB rent-increase rules. I will review on the 1st."
     ]
   },
   "sources": []

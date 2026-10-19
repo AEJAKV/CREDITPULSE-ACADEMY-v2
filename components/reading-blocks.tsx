@@ -51,6 +51,12 @@ import {
 } from './lesson-interactives';
 import { PayoffCalculator } from './payoff-calculator';
 import { WaterfallCalculator } from './waterfall-calculator';
+import { DayCarousel } from './day-carousel';
+/** A `carousel` of plain day steps ("DAY 4", "DAYS 15–16") or numbered items ("NUMBER 3") renders as the coverflow day carousel. */
+const isDayCarousel = (block?: ReadingBlock) =>
+  block?.type === 'carousel' &&
+  !!block.items?.length &&
+  block.items.every((item) => /^(DAYS?|NUMBER)\s/i.test(item.detail ?? '') && !item.image);
 /** Icons for icon tiles (a `cards` block whose items carry an `icon`). */
 const tileIcons = {
   mountain: Mountain,
@@ -84,9 +90,12 @@ const tileIcons = {
 export function ReadingBlocks({
   blocks,
   checkIn,
+  heading,
 }: {
   blocks: ReadingBlock[];
   checkIn?: React.ReactNode;
+  /** The section title, used to name a day carousel when no heading block leads into it. */
+  heading?: string;
 }) {
   return (
     <>
@@ -206,6 +215,14 @@ export function ReadingBlocks({
               />
             );
           case 'carousel':
+            if (isDayCarousel(block))
+              return (
+                <DayCarousel
+                  key={i}
+                  items={items}
+                  label={blocks[i - 1]?.type === 'heading' ? blocks[i - 1].text : heading}
+                />
+              );
             return <CardCarousel key={i} items={items} />;
           case 'ledger': {
             const figure = (amount?: string) => Number(amount?.replace(/[^0-9.]/g, '')) || 0;
@@ -350,7 +367,7 @@ export function ReadingBlocks({
             );
           }
           case 'filecards':
-            return <FileCards key={i} heading={block.text} image={block.image} items={items} />;
+            return <FileCards key={i} heading={block.text} image={block.image} focus={block.focus} items={items} />;
           case 'glasspanel':
             return (
               <div className="score-frame glass-panel-frame" key={i}>

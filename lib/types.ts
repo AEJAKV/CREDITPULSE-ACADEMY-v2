@@ -36,6 +36,8 @@ export type ReadingBlock = {
   url?: string;
   /** story: optional background photo (site-relative, under /images). */
   image?: string;
+  /** filecards: horizontal focus (0-100) of the desktop cover crop, to keep a face in view. */
+  focus?: number;
   /** story: index of the paragraph after which the items timeline is inserted. */
   at?: number;
   paragraphs?: string[];

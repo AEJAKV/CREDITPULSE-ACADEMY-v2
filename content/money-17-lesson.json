@@ -49,6 +49,21 @@
           "text": "FCAC suggests planning about 1.5% to 4% of the purchase price for upfront or closing costs. On $550,000, that is an illustrative $8,250 to $22,000 before moving and reserves."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The down payment is only one part of the cash you need.",
+              "text": "The down payment is only one part of the cash you need.",
+              "image": "/images/money-budgeting/05-diamond/money-17/money17-image-1.webp"
+            },
+            {
+              "title": "Add every cost to one plan and the target comes into focus.",
+              "text": "Add every cost to one plan and the target comes into focus.",
+              "image": "/images/money-budgeting/05-diamond/money-17/money17-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "Choose the supply route carefully"
         },
@@ -56,20 +71,24 @@
           "type": "cards",
           "items": [
             {
-              "title": "01",
-              "text": "FHSA: Current CRA rules give $8,000 of room in the first year an eligible person opens an FHSA, with a $40,000 lifetime limit on contributions or transfers. Contributions are generally deductible. Qualifying withdrawals may be tax-free."
+              "title": "FHSA",
+              "text": "Current CRA rules give $8,000 of room in the first year an eligible person opens an FHSA, with a $40,000 lifetime limit on contributions or transfers. Contributions are generally deductible. Qualifying withdrawals may be tax-free.",
+              "icon": "home"
             },
             {
-              "title": "02",
-              "text": "Home Buyers’ Plan: An eligible person may currently take up to $60,000 out of RRSPs under the HBP. You generally repay it over up to 15 years. Missed repayments may be added to your income."
+              "title": "Home Buyers’ Plan",
+              "text": "An eligible person may currently take up to $60,000 out of RRSPs under the HBP. You generally repay it over up to 15 years. Missed repayments may be added to your income.",
+              "icon": "bank"
             },
             {
-              "title": "03",
-              "text": "TFSA: Available room may support flexible tax-free saving and withdrawals. Confirm your contribution room, and remember that room you withdraw normally comes back in a later year."
+              "title": "TFSA",
+              "text": "Available room may support flexible tax-free saving and withdrawals. Confirm your contribution room, and remember that room you withdraw normally comes back in a later year.",
+              "icon": "piggy"
             },
             {
-              "title": "04",
-              "text": "Accessible savings or GICs: For a near or known purchase date, compare access, maturity dates, penalties, rates and deposit protection. Do not make the closing fund depend on a last-minute market recovery."
+              "title": "Accessible savings or GICs",
+              "text": "For a near or known purchase date, compare access, maturity dates, penalties, rates and deposit protection. Do not make the closing fund depend on a last-minute market recovery.",
+              "icon": "shield"
             }
           ]
         },
@@ -103,12 +122,13 @@
           "text": "Meet Sophie and Marcus",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/money-budgeting/05-diamond/money-17/money17-image-3.webp",
           "paragraphs": [
             "Sophie Tremblay and Marcus Reed have saved $30,000 toward a $550,000 home near Ottawa. They open the savings app, admire the round number and book three showings. In their minds, the down payment flag is already planted at the summit. The other costs, apparently, will hike up on their own.",
-            "Then their mortgage professional asks three questions. How much cash is set aside for closing? Where did two large deposits come from? What will be left after they get the keys? Their down payment math is right. But they have not saved for legal and inspection costs, property-tax adjustments, moving or repairs. One deposit is a family gift with no paperwork. Another has travelled through so many accounts that it looks more mysterious than it deserves.",
-            "Sophie and Marcus build a four-part target. The $30,000 down payment stays separate. They use FCAC’s percentage range to set a closing-cost band, price the move and set a reserve that stays untouched after closing. They check their FHSA room and withdrawal rules, look at Marcus’s possible HBP use and repayment, and confirm each step with the institutions and current CRA guidance.",
-            "The full target is bigger than $30,000. They could cover the gap on credit cards. They don’t. They lower the price they are shopping for, add ten months to the timeline and set up automatic transfers on each payday. The family gift gets its paperwork before it joins the fund. Statements go in a simple evidence folder, not on a six-account sightseeing tour the week before approval.",
-            "When they return to the market, they have the down payment, a documented closing fund, move-in cash and a reserve. They still need lender approval, an inspection and a legal review of the property. Their eventual purchase is less dramatic than the first open house and much more durable. The furnace has an age, the budget has walls and the first repair does not turn into high-interest debt."
+            "Then their mortgage professional asks three questions. How much cash is set aside for closing? Where did two large deposits come from? What will be left after they get the keys? Their down payment math is right, but they have not saved for legal, inspection, property-tax, moving or repair costs. One deposit is a family gift with no paperwork. Another has travelled through so many accounts that it looks more mysterious than it deserves.",
+            "Sophie and Marcus build a four-part target. The $30,000 down payment stays separate. They use FCAC’s percentage range to set a closing-cost band, price the move and set an untouched reserve. They check their FHSA room and Marcus’s possible HBP use and repayment.",
+            "The full target is bigger than $30,000. They could cover the gap on credit cards. They don’t. They lower the price they are shopping for, add ten months and set up automatic transfers on each payday. The family gift gets its paperwork, and statements go in a simple evidence folder, not on a six-account sightseeing tour the week before approval.",
+            "Back on the market, they have the down payment, a documented closing fund, move-in cash and a reserve. Their purchase is less dramatic than the first open house and much more durable. The furnace has an age, the budget has walls and the first repair does not turn into high-interest debt."
           ]
         },
         {
@@ -289,10 +309,10 @@
     "questions": [
       "Where do you want to buy, in what price range, and in which month?",
       "What is the minimum down payment at your price, and how much do you want to save?",
-      "What do you expect to pay for closing costs, moving and first repairs? A range is fine.",
+      "What do you expect to pay for closing, moving and first repairs? A range is fine.",
       "How much emergency money will you keep after closing?",
-      "Which savings tools could you use: FHSA, HBP, TFSA, savings or GICs? What did you check about each one?",
-      "What is your total target and how much have you saved? What must you save each payday to close the gap, and when will you review it?"
+      "Which savings tool will you use first, and what did you check about it?",
+      "What must you save each payday to reach your total target, and when will you review it?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information and current program and lender rules must be verified.",
@@ -301,8 +321,8 @@
       "5% of $450,000 is $22,500. I would like to save $30,000.",
       "Closing $9,000 to $18,000. Moving and setup about $3,000.",
       "$8,000, which is about two months of essentials.",
-      "FHSA and TFSA. I checked my room on the CRA website.",
-      "$60,000 target, $15,000 saved. $45,000 ÷ 30 months = $1,500 a month, or $750 a payday. Review on the 1st of each month."
+      "FHSA. I checked my contribution room on the CRA website.",
+      "$60,000 target, $15,000 saved. $45,000 ÷ 30 months = $1,500 a month, or $750 a payday. Review on the 1st."
     ]
   },
   "sources": []

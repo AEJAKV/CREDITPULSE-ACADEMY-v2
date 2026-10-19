@@ -75,6 +75,11 @@ export function validateRichContent(content: LessonContent) {
       )
         return false;
       if (block.at !== undefined && !Number.isInteger(block.at)) return false;
+      if (
+        block.focus !== undefined &&
+        (typeof block.focus !== 'number' || block.focus < 0 || block.focus > 100)
+      )
+        return false;
       if (block.type === 'source' && (!block.url || !/^https:\/\//.test(block.url))) return false;
       if (
         block.paragraphs &&

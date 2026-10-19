@@ -3,7 +3,7 @@
 A sliding row of white cards. Each card has a photo on top, a round icon badge, a small step label ("STATION 1", "QUESTION 1"), an all-caps title and a short description. Arrows and dots move through the set, showing 3 at a time on desktop, 2 on tablet and 1 on phones.
 
 **Reference:** Secured Credit Cards in Canada (`content/credit-06-lesson.json`, opening section: six inspection stations with photos).
-**Also used in:** Rebuilding Credit After Bankruptcy (`credit-12`, "Five readiness questions").
+**Also used in:** Rebuilding Credit After Bankruptcy (`credit-12`, "Five readiness questions") and Managing Rental Costs (`money-18`, "Put every housing cost under the X-ray").
 
 Use it for a **sequence of 3–6 steps, questions or stations** (a longer timeline such as a 9-day cash-flow map also works, at three cards per page) the learner works through in order. It is a good replacement for a plain numbered `ordered` list or a white `cards` grid when the items deserve their own picture.
 

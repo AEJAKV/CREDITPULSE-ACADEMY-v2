@@ -39,19 +39,24 @@
           "text": "A reset succeeds when the system becomes easier to repeat, not when one unusually disciplined month wins an award."
         },
         {
-          "type": "heading",
-          "text": "Your Starting Reset Scorecard"
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Small leaks drain a month faster than one big bill.",
+              "text": "Small leaks drain a month faster than one big bill.",
+              "image": "/images/money-budgeting/05-diamond/money-15/money15-image-1.webp"
+            },
+            {
+              "title": "Plug the leaks, then give every dollar a job.",
+              "text": "Plug the leaks, then give every dollar a job.",
+              "image": "/images/money-budgeting/05-diamond/money-15/money15-image-2.webp"
+            }
+          ]
         },
         {
-          "type": "paragraph",
-          "text": "Score each area 0, 1 or 2. This is a baseline, not a grade."
-        },
-        {
-          "type": "paragraph",
-          "text": "SELF-CHECK · 5 AREAS: 0 = Not visible. 1 = Partly working. 2 = Clear and repeatable."
-        },
-        {
-          "type": "cards",
+          "type": "filecards",
+          "text": "Your Starting Reset Scorecard",
+          "image": "/images/money-budgeting/05-diamond/money-15/money15-scorecard-cover.webp",
           "items": [
             {
               "title": "VISIBILITY",
@@ -78,6 +83,14 @@
               "text": "Repeat the same scorecard on Day 30; progress matters more than a perfect score."
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Score each area 0, 1 or 2. This is a baseline, not a grade."
+        },
+        {
+          "type": "paragraph",
+          "text": "SELF-CHECK · 5 AREAS: 0 = Not visible. 1 = Partly working. 2 = Clear and repeatable."
         },
         {
           "type": "myths",
@@ -115,37 +128,44 @@
             {
               "title": "GATHER",
               "text": "Collect income records, bills, statements, debt notices and benefit information. Remove account numbers before sharing anything.",
-              "detail": "DAY 1"
+              "detail": "DAY 1",
+              "icon": "files"
             },
             {
               "title": "INCOME",
               "text": "Record net income, benefit deposits and reliable side income. For variable income, separate the floor from the better-month amount.",
-              "detail": "DAY 2"
+              "detail": "DAY 2",
+              "icon": "dollar"
             },
             {
               "title": "ESSENTIALS",
               "text": "List housing, utilities, food, transport, insurance, medication, care and required debt or support payments.",
-              "detail": "DAY 3"
+              "detail": "DAY 3",
+              "icon": "list"
             },
             {
               "title": "FLEXIBLE SPENDING",
               "text": "Group ordinary choices such as dining, entertainment, shopping and convenience. Use honest categories, not moral labels.",
-              "detail": "DAY 4"
+              "detail": "DAY 4",
+              "icon": "search"
             },
             {
               "title": "DEBTS",
               "text": "Record the balance, rate, minimum, due date, any amount past due and any security for every debt. Confirm current figures with the statement or lender.",
-              "detail": "DAY 5"
+              "detail": "DAY 5",
+              "icon": "filetext"
             },
             {
               "title": "TIMING",
               "text": "Place paydays, deposits and due dates on one calendar. Mark the tightest gap and any bill that lands before the income meant to cover it.",
-              "detail": "DAY 6"
+              "detail": "DAY 6",
+              "icon": "calendar"
             },
             {
               "title": "BASELINE",
               "text": "Build a current budget from what is happening now. Name the monthly surplus, shortfall or timing gap without trying to fix everything yet.",
-              "detail": "DAY 7"
+              "detail": "DAY 7",
+              "icon": "check"
             }
           ]
         },
@@ -197,37 +217,44 @@
             {
               "title": "FIND",
               "text": "Highlight bank fees, interest, NSF or overdraft costs, double subscriptions, trials, unused memberships and extra services.",
-              "detail": "DAY 8"
+              "detail": "DAY 8",
+              "icon": "search"
             },
             {
               "title": "SORT",
               "text": "Mark each item KEEP, CANCEL, PAUSE, DOWNGRADE or INVESTIGATE. Confirm cancellation dates and keep written proof.",
-              "detail": "DAY 9"
+              "detail": "DAY 9",
+              "icon": "list"
             },
             {
               "title": "BANKING FIT",
               "text": "Compare the account’s fee, transaction limits and overdraft setup with how you use it. Set a low-balance alert and ask about lower-cost options.",
-              "detail": "DAY 10"
+              "detail": "DAY 10",
+              "icon": "bank"
             },
             {
               "title": "NEGOTIATE",
               "text": "Contact one provider about a lower plan, hardship arrangement, corrected charge or due-date change. Record the name, date and result.",
-              "detail": "DAY 11"
+              "detail": "DAY 11",
+              "icon": "filetext"
             },
             {
               "title": "REPAIR TIMING",
               "text": "Move eligible bill dates, create a small account cushion or change transfer timing. Never assume a date changed until you have it in writing.",
-              "detail": "DAY 12"
+              "detail": "DAY 12",
+              "icon": "clock"
             },
             {
               "title": "REASSIGN",
               "text": "Send the first verified saving to one named job: the payday cushion, emergency fund, past-due bill or debt priority.",
-              "detail": "DAY 13"
+              "detail": "DAY 13",
+              "icon": "dollar"
             },
             {
               "title": "VERIFY",
               "text": "Check that cancellations and changes took effect. A confirmation number is more useful than a hopeful screenshot.",
-              "detail": "DAY 14"
+              "detail": "DAY 14",
+              "icon": "filecheck"
             }
           ]
         },
@@ -271,22 +298,26 @@
             {
               "title": "PROTECT",
               "text": "Fund housing, food, utilities, transport, care and required minimums first; assign each bill to a payday.",
-              "detail": "DAYS 15–16"
+              "detail": "DAYS 15–16",
+              "icon": "lock"
             },
             {
               "title": "BUFFER",
               "text": "Choose a starter emergency target and schedule a manageable transfer. Keep occasional costs in separate sinking funds.",
-              "detail": "DAYS 17–18"
+              "detail": "DAYS 17–18",
+              "icon": "bank"
             },
             {
               "title": "PRIORITIZE",
               "text": "Bring past-due accounts current where possible, keep minimums on all debts, and send extra money to the chosen snowball or avalanche target.",
-              "detail": "DAYS 19–20"
+              "detail": "DAYS 19–20",
+              "icon": "list"
             },
             {
               "title": "TEST",
               "text": "Run a reduced-income or surprise-expense week. Adjust transfers before the plan requires borrowing for essentials.",
-              "detail": "DAY 21"
+              "detail": "DAY 21",
+              "icon": "clock"
             }
           ]
         },
@@ -310,32 +341,38 @@
             {
               "title": "CHOOSE",
               "text": "Write one 90-day goal with a dollar amount, date and reason. Make it small enough to act on and important enough to keep.",
-              "detail": "DAYS 22–23"
+              "detail": "DAYS 22–23",
+              "icon": "book"
             },
             {
               "title": "MAP",
               "text": "Set three monthly milestones. Check federal and provincial benefits, consumer rights and relevant account options.",
-              "detail": "DAYS 24–25"
+              "detail": "DAYS 24–25",
+              "icon": "filesearch"
             },
             {
               "title": "PROTECT",
               "text": "Confirm account alerts, payment reminders, deposit protection and a bad-month plan: reduce, pause, call or use the buffer.",
-              "detail": "DAYS 26–27"
+              "detail": "DAYS 26–27",
+              "icon": "lock"
             },
             {
               "title": "SCHEDULE",
               "text": "Book the first monthly review. Put the date, time, records needed and a 20-minute limit on the calendar.",
-              "detail": "DAY 28"
+              "detail": "DAY 28",
+              "icon": "calendar"
             },
             {
               "title": "RE-SCORE",
               "text": "Repeat the five-part reset scorecard. Name one improved area and one area that still needs support.",
-              "detail": "DAY 29"
+              "detail": "DAY 29",
+              "icon": "list"
             },
             {
               "title": "DEPART",
               "text": "Confirm the next transfer, debt payment, bill date and 90-day milestone. Save the plan somewhere you will find it again.",
-              "detail": "DAY 30"
+              "detail": "DAY 30",
+              "icon": "check"
             }
           ]
         },
@@ -384,12 +421,13 @@
           "text": "Meet Ruth",
           "detail": "THE 30-DAY RESET EXPEDITION",
           "extra": "",
+          "image": "/images/money-budgeting/05-diamond/money-15/money15-image-3.webp",
           "paragraphs": [
             "Ruth D’Souza is an office assistant in Mississauga. Her pay is steady, but bill dates, a car repair and a few automatic charges have crowded the month. Her money papers live in three apps, two email folders and one envelope that appears to be in witness protection. Her goal is simple: stop guessing before the next rent day.",
             "On paper, Ruth’s income covers her expenses. Her cash-flow map tells a less charming story. Insurance and a credit-card minimum leave before her second payday. Two overdraft charges came from timing, not from some mystery inability to subtract. She labels the problem ‘payday gap’ and stops calling it ‘I’m terrible with money.’",
             "Ruth finds a $17 subscription she forgot, a bank plan that no longer fits and a streaming add-on hiding inside a bigger bill. Then a family appointment knocks Day 11 off the calendar. She does not start over. On Day 12, she cancels one charge, asks about a better account and moves the saved money into a $100 payday cushion.",
-            "Ruth assigns rent and insurance to specific paydays and keeps every minimum current. She picks her highest-rate card for extra payments. A $25 payday transfer starts her emergency fund. Her bad-month rule cuts the extra debt payment before it touches rent or groceries. Now the system knows what to do when the month stops cooperating.",
-            "Ruth finishes on Day 33, because life declined to read the course schedule. Her score rises from 3/10 to 8/10. She now has a current budget and a $100 payday cushion. A $25 transfer feeds her emergency fund each payday. One subscription is gone, her account costs less and she has a debt target. A review is booked for the first Sunday next month. The reset did not make her finances exciting. It made them less surprising."
+            "Ruth assigns rent and insurance to specific paydays and keeps every minimum current. She picks her highest-rate card for extra payments, and a $25 payday transfer starts her emergency fund. Her bad-month rule cuts the extra debt payment before it touches rent or groceries.",
+            "Ruth finishes on Day 33, because life declined to read the course schedule. Her score rises from 3/10 to 8/10, and a review is booked for the first Sunday next month. Even the envelope comes out of witness protection. The reset did not make her finances exciting. It made them less surprising."
           ]
         },
         {
@@ -583,7 +621,7 @@
     "questions": [
       "What does your month look like? Write your income, essential bills, everyday spending and debt payments. An estimate is fine.",
       "Which payday is your tightest? List the bills it must cover.",
-      "Pick three fees or charges you pay often. For each, say Keep, Cancel, Pause, Downgrade or Look Into It, and what you would save in a year.",
+      "Pick one fee or charge you pay often. Will you Keep, Cancel, Pause, Downgrade or Look Into it, and what would that save in a year?",
       "Which one debt will you pay down faster? How much extra can you send, and by when?",
       "What small emergency goal will you set, and how much will you save each payday? Name one expected cost, like winter tires, that gets its own savings.",
       "Write one 90-day goal with a dollar amount and a date. When is your first review, and what will you do if you miss a few days?"
@@ -593,9 +631,9 @@
     "samples": [
       "Income $3,800. Essentials $2,600. Everyday $700. Debt payments $300.",
       "The 1st. Rent and insurance leave before my second payday.",
-      "Cancel a $12 add-on, downgrade a $15 plan, look into the gym. About $324 a year.",
+      "Cancel a $12 add-on. $12 × 12 = $144 a year.",
       "My credit card at 24%. Extra $50 a payday, starting the 15th.",
-      "$500 goal. $25 a payday into a separate account. Winter tires get $30 a month.",
+      "$500 goal. $20 a payday into a separate account. Winter tires get $30 a month.",
       "Save $600 by March 31. First review on the first Sunday. If I miss days, I restart at the next task."
     ]
   },

@@ -49,39 +49,68 @@
           "text": "The dealer does not have to show the lowest available interest rate. FCAC recommends getting quotes from more than one dealer and lender and comparing rate, fees, amount financed, payment schedule and term."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A low monthly payment can hide a very different ending.",
+              "text": "A low monthly payment can hide a very different ending.",
+              "image": "/images/money-budgeting/05-diamond/money-16/money16-image-1.webp"
+            },
+            {
+              "title": "Put every option on the same five-year board.",
+              "text": "Put every option on the same five-year board.",
+              "image": "/images/money-budgeting/05-diamond/money-16/money16-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "The seven-number demand"
         },
         {
-          "type": "cards",
+          "type": "carousel",
           "items": [
             {
-              "title": "01",
-              "text": "Negotiated vehicle price before the payment discussion."
+              "title": "PRICE",
+              "text": "Negotiated vehicle price before the payment discussion.",
+              "detail": "NUMBER 1",
+              "icon": "dollar"
             },
             {
-              "title": "02",
-              "text": "Down payment, trade-in credit or total amount due at signing."
+              "title": "DUE AT SIGNING",
+              "text": "Down payment, trade-in credit or total amount due at signing.",
+              "detail": "NUMBER 2",
+              "icon": "bank"
             },
             {
-              "title": "03",
-              "text": "Annual interest rate, lease rate and every financing charge."
+              "title": "RATE AND CHARGES",
+              "text": "Annual interest rate, lease rate and every financing charge.",
+              "detail": "NUMBER 3",
+              "icon": "search"
             },
             {
-              "title": "04",
-              "text": "Term, payment frequency and total scheduled payments."
+              "title": "TERM",
+              "text": "Term, payment frequency and total scheduled payments.",
+              "detail": "NUMBER 4",
+              "icon": "calendar"
             },
             {
-              "title": "05",
-              "text": "Taxes, admin fees, acquisition and disposition fees, and optional products."
+              "title": "FEES AND EXTRAS",
+              "text": "Taxes, admin fees, acquisition and disposition fees, and optional products.",
+              "detail": "NUMBER 5",
+              "icon": "filetext"
             },
             {
-              "title": "06",
-              "text": "Lease kilometre limit, excess-kilometre charge, wear rules and how an early exit is priced."
+              "title": "KILOMETRES AND EXIT",
+              "text": "Lease kilometre limit, excess-kilometre charge, wear rules and how an early exit is priced.",
+              "detail": "NUMBER 6",
+              "icon": "lock"
             },
             {
-              "title": "07",
-              "text": "What the vehicle is likely worth and what you still owe, or the lease buyout price, at the comparison date."
+              "title": "VALUE AT THE DATE",
+              "text": "What the vehicle is likely worth and what you still owe, or the lease buyout price, at the comparison date.",
+              "detail": "NUMBER 7",
+              "icon": "filecheck"
             }
           ]
         },
@@ -115,12 +144,13 @@
           "text": "Meet Zoe and Liam",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/money-budgeting/05-diamond/money-16/money16-image-3.webp",
           "paragraphs": [
-            "Cousins Zoe Singh and Liam O’Connor visit an Edmonton dealership on the same Saturday. Both like the same compact SUV. Zoe drives about 12,000 kilometres a year to an office. She expects to change vehicles after four years. Liam runs a renovation business and drives closer to 32,000 kilometres. He plans to keep his next vehicle until it develops strong opinions about winter.",
+            "Cousins Zoe Singh and Liam O’Connor visit an Edmonton dealership on the same Saturday. Both like the same compact SUV. Zoe drives about 12,000 kilometres a year to an office and expects to change vehicles after four years. Liam runs a renovation business, drives closer to 32,000 kilometres and plans to keep his next vehicle until it develops strong opinions about winter.",
             "The salesperson offers a lease with a low monthly payment and a seven-year loan with a slightly higher one. Both cousins reach for the lower number. Zoe has not asked about the kilometre limit. Liam has not noticed that the loan will outlast his repair budget. The monthly payment has walked in wearing a tiny cape, ready to save everyone from arithmetic.",
-            "Then they stop and build separate Five-Year Mobility Decision Boards. Zoe asks for the lease disclosure, the yearly kilometre limit, the excess charge, the amount due at signing and the buyout price. She adds insurance and a reserve for return costs. Liam gets written quotes from the dealer and his credit union. He cuts the extras he does not need and prices a shorter loan on a cheaper model.",
-            "The boards surprise them both. Zoe’s lease only works with a kilometre limit that matches her real driving, so she picks one and sets aside a return reserve. Liam’s surprise is bigger. The seven-year loan fails his test, and so does the new model. He chooses a cheaper used vehicle with a shorter loan, no kilometre limit and room in the budget for repairs.",
-            "Before signing, each checks the disclosure, the deposit terms, the insurance price and the provincial dealer rules. Five years later, Zoe returns her vehicle within the agreed conditions. Liam still owns his and still uses it for work. Neither contract won. They were not the same driver, so they did not pick the same contract. Once kilometres, time and the ending got a seat at the table, the choice was clear."
+            "Then they stop and each build a Five-Year Mobility Decision Board. Zoe asks for the lease disclosure, the kilometre limit, the excess charge, the amount due at signing and the buyout price. Liam gets written quotes from the dealer and his credit union, cuts the extras and prices a shorter loan on a cheaper model.",
+            "The boards surprise them both. Zoe’s lease only works with a kilometre limit that matches her real driving, so she picks one and sets aside a return reserve. Liam’s seven-year loan fails his test, and so does the new model. He chooses a cheaper used vehicle with a shorter loan and room in the budget for repairs.",
+            "Five years later, Zoe returns her vehicle on the agreed terms and Liam still owns and uses his. Neither contract won. They were not the same driver, so they did not pick the same contract. Once kilometres, time and the ending got a seat at the table, the choice was clear."
           ]
         },
         {
@@ -172,10 +202,6 @@
               "text": "Read the disclosure and contract, keep copies and check provincial or territorial rules. In most jurisdictions there is no general cooling-off period for car loans or leases."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Most provinces and territories require lease-cost disclosure. Vehicle sales, deposits, dealer conduct and cancellation rights are set by each province or territory."
         },
         {
           "type": "spotlight",
@@ -299,22 +325,22 @@
   },
   "checkIn": {
     "questions": [
-      "What will the vehicle do for you? Write your yearly kilometres and any cargo, winter or work needs.",
-      "How long will you realistically keep it?",
-      "Which quotes will you compare on the same date: cash, loan or lease? For each, write the price, the rate, the term and the total of all payments.",
-      "What will it cost to run for five years? Estimate insurance, fuel, maintenance and a repair reserve.",
-      "Where will you stand in year five? Write what the vehicle is worth and what you owe, or the lease return and buyout position.",
-      "What is your decision, and which risk did you test: kilometres, wear, negative equity or early exit? Add your no-pressure deadline."
+      "What will the vehicle do for you, and how long will you keep it?",
+      "Pick one quote to test, loan or lease. What are its price, rate, term and total of all payments?",
+      "What will it cost to run for five years? Add insurance, fuel, maintenance and a repair reserve.",
+      "Where will you stand in year five? Write what the vehicle is worth and what you owe, or the lease buyout price.",
+      "Which risk did you test: kilometres, wear, negative equity or early exit?",
+      "What is your decision, and by what no-pressure date will you make it?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information and contract terms must be verified.",
     "samples": [
-      "About 15,000 km a year, commuting and winter driving.",
-      "About five years.",
-      "Loan: $30,000 at 6.9% for 60 months, about $35,500 total. Lease: $430 × 60 = $25,800 plus $2,000 down.",
+      "Commuting and winter driving, about 15,000 km a year, for about five years.",
+      "Loan: $30,000 at 6.9% for 60 months, about $35,500 total.",
       "About $5,000 a year, so $25,000 over five years.",
-      "Worth about $14,000, loan balance $0. Or return the lease and owe nothing extra.",
-      "Loan on a used model. I tested negative equity. I will decide by Friday."
+      "Worth about $14,000, loan balance $0. Or lease buyout of $14,500.",
+      "Negative equity. A longer loan could leave me owing more than it is worth.",
+      "A used model on a shorter loan. I will decide by Friday."
     ]
   },
   "sources": []

@@ -1,6 +1,6 @@
 ---
 name: course-blocks
-description: Pick and apply the right reusable lesson block (image carousel, file cards, glass panel, ledger table, icon tiles, conversion and payday calculators), simplify a fill-out form, or trim a long story when migrating or polishing a course lesson JSON. Use when asked to "apply the carousel", "use the ledger", "add icons to the cards", "add the calculator", "trim the story", "improve this section's layout", or to match a section to the design used on earlier courses.
+description: Pick and apply the right reusable lesson block (image carousel, day carousel, file cards, glass panel, ledger table, icon tiles, conversion and payday calculators), simplify a fill-out form, or trim a long story when migrating or polishing a course lesson JSON. Use when asked to "apply the carousel", "use the ledger", "add icons to the cards", "add the calculator", "trim the story", "improve this section's layout", or to match a section to the design used on earlier courses.
 ---
 
 # Course blocks
@@ -14,6 +14,7 @@ Every design has its own guide in `docs/`. **Read the guide before applying a de
 | The section has… | Use | Guide |
 | --- | --- | --- |
 | A sequence of 3–6 steps, questions or stations, each deserving a picture | `carousel` (image card carousel) | `docs/image-card-carousel.md` |
+| A day-by-day plan (labels `DAY 5`, `DAYS 15–16`) the learner works through and marks done | `carousel` with day labels, no images (day carousel) | `docs/day-carousel-design.md` |
 | 6 numbered checklist items that read as a file | `filecards` (tall green cards) | `docs/filecards-design.md` |
 | 2–4 related facts or tiers compared side by side, with numbers | `glasspanel` | `docs/glass-panel-design.md` |
 | A list of dollar figures with a category and a question each (a budget table), plus a result | `ledger` | `docs/ledger-design.md` |

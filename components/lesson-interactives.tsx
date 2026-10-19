@@ -243,10 +243,12 @@ export function UtilizationCalculator() {
 export function FileCards({
   heading,
   image,
+  focus,
   items,
 }: {
   heading?: string;
   image?: string;
+  focus?: number;
   items: { title: string; text: string }[];
 }) {
   const track = useRef<HTMLOListElement>(null);
@@ -266,7 +268,10 @@ export function FileCards({
   }, [items.length]);
   return (
     <div className="file-cards">
-      <div className="file-cards-cover">
+      <div
+        className="file-cards-cover"
+        style={focus === undefined ? undefined : ({ '--cover-x': `${focus}%` } as CSSProperties)}
+      >
         {image && <img src={image} alt="" loading="lazy" decoding="async" />}
         {heading && <h3>{heading}</h3>}
       </div>
@@ -350,7 +355,7 @@ export function LessonArtworkCarousel({
     </div>
   );
 }
-const carouselIcons = {
+export const carouselIcons = {
   calendar: CalendarDays,
   bank: Landmark,
   files: Files,

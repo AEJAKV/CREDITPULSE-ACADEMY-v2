@@ -49,35 +49,49 @@
           "text": "Compare quotes using the same property, limits, deductibles, endorsements and assumptions. A lower premium can mean a real saving, a bigger share of the risk falling on you, less coverage, or some mix of all three. Ask for the differences in writing."
         },
         {
-          "type": "heading",
-          "text": "Decode the contract"
-        },
-        {
-          "type": "cards",
+          "type": "artwork",
           "items": [
             {
-              "title": "01",
-              "text": "Premium: the amount charged for coverage."
+              "title": "Having a policy is not the same as having the right cover.",
+              "text": "Having a policy is not the same as having the right cover.",
+              "image": "/images/money-budgeting/06-elite/money-19/money19-image-1.webp"
             },
             {
-              "title": "02",
-              "text": "Deductible: the amount you pay toward a covered claim before the insurer pays the rest."
+              "title": "Match each risk to a policy, then keep the papers together.",
+              "text": "Match each risk to a policy, then keep the papers together.",
+              "image": "/images/money-budgeting/06-elite/money-19/money19-image-2.webp"
+            }
+          ]
+        },
+        {
+          "type": "filecards",
+          "text": "Decode the contract",
+          "image": "/images/money-budgeting/06-elite/money-19/hero-image.webp",
+          "focus": 26,
+          "items": [
+            {
+              "title": "Premium",
+              "text": "The amount charged for coverage."
             },
             {
-              "title": "03",
-              "text": "Coverage limit: the most the insurer will pay under that coverage."
+              "title": "Deductible",
+              "text": "The amount you pay toward a covered claim before the insurer pays the rest."
             },
             {
-              "title": "04",
-              "text": "Exclusion: a loss, cause, person, property or situation the policy does not cover."
+              "title": "Coverage limit",
+              "text": "The most the insurer will pay under that coverage."
             },
             {
-              "title": "05",
-              "text": "Endorsement: a written change to the policy."
+              "title": "Exclusion",
+              "text": "A loss, cause, person, property or situation the policy does not cover."
             },
             {
-              "title": "06",
-              "text": "Settlement basis: replacement cost and actual cash value can mean different payouts."
+              "title": "Endorsement",
+              "text": "A written change to the policy."
+            },
+            {
+              "title": "Settlement basis",
+              "text": "Replacement cost and actual cash value can mean different payouts."
             }
           ]
         },
@@ -111,6 +125,7 @@
           "text": "Meet Nina",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/money-budgeting/06-elite/money-19/money19-image-3.webp",
           "paragraphs": [
             "Nina Patel moves from a rented Ottawa apartment into a small townhouse. Her old tenant policy was easy to ignore, which is a sentence insurance policies hear just before they become important. She gets two home-policy quotes. One is $18 cheaper each month. The decision looks finished.",
             "Then Nina’s brother asks if both quotes cover the same things. They don’t. The cheaper quote has a higher deductible, a lower limit for valuables and no sewer-backup endorsement. One quote pays replacement cost for listed items. The other is unclear. Nina isn’t sure which differences matter. The price is doing an excellent job of distracting everyone.",
@@ -170,10 +185,6 @@
           "text": "Water damage is not one single coverage. Flood, sewer backup, overland water, a burst pipe and normal wear can each be treated differently. Read the definitions and exclusions, and ask if an endorsement is available."
         },
         {
-          "type": "spotlight",
-          "text": "Agents and brokers must be licensed where they operate. Regulators can confirm a licence and explain the complaint routes, but they will not rewrite the policy after a loss."
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -218,6 +229,10 @@
               "text": ""
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Agents and brokers must be licensed where they operate. Regulators can confirm a licence and explain the complaint routes, but they will not rewrite the policy after a loss."
         }
       ]
     },
@@ -298,9 +313,8 @@
       "Which people, property, income or risks could your household not easily replace?",
       "Which policies and workplace or card benefits do you already have?",
       "For one policy, what are the premium, deductible, key limits and settlement basis?",
-      "What do you need explained in writing: an exclusion, a condition or an endorsement?",
       "Do you have your deductible saved? What would a loss leave for you to cover?",
-      "Who would you call first after a loss, and what are your first steps? Add the date you will review your coverage each year."
+      "What is one exclusion, condition or endorsement you need explained in writing, and when will you review your coverage?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this workbook prepares questions and does not recommend individualized coverage.",
@@ -308,9 +322,8 @@
       "Our car, my laptop for work, and liability if a guest is hurt.",
       "Tenant policy, a health plan at work and card travel insurance.",
       "$62 a month, $1,000 deductible, $40,000 contents limit, replacement cost.",
-      "Is sewer backup covered? Is my laptop covered when I travel?",
       "I have $500 saved. A $1,000 deductible leaves a $500 gap.",
-      "Call the claims line, take photos, shut off the water. Review each January."
+      "Is sewer backup covered? I will review each January."
     ]
   },
   "sources": []

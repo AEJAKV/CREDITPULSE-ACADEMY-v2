@@ -4474,6 +4474,414 @@ body[data-focus='true'] .ambient-bg {
   }
 }
 
+/* Day carousel: coverflow for day-by-day plans. The centre card is the active day; neighbours peek in
+   blurred at each side. Cards share one grid cell and move only with transform. */
+:root {
+  --day-deep: #0f4a3c;
+  --day-deep-2: #17705a;
+  --day-side-icon: #0f3d35;
+  --day-lime: #c3ec7a;
+  --day-eyebrow: #1d6b52;
+  --day-line: #dfe8e2;
+  --day-arrow-line: #d6e2db;
+  --day-muted: #4d5f5a;
+  --day-tab-on: #eef6ea;
+  --day-tab-dot: #eef3ee;
+  --day-side: #f5f8f5;
+  --day-bar: #c3d3ca;
+  --day-ease: cubic-bezier(0.22, 0.8, 0.24, 1);
+}
+.day-carousel {
+  --card-w: 400px;
+  --side-x: 340px;
+  --far-x: 640px;
+  --fade-in: 15%;
+  --fade-out: 85%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  margin: 36px 0;
+  contain: inline-size;
+}
+/* Focus lands here only when a centred side card loses its button; the moving cards show where you are. */
+.day-carousel:focus {
+  outline: none;
+}
+.day-carousel-tabs {
+  display: flex;
+  max-width: 100%;
+  gap: 4px;
+  padding: 6px;
+  border: 1px solid var(--day-line);
+  border-radius: 16px;
+  background: var(--white);
+  box-shadow: 0 8px 22px #10302a12;
+}
+.day-carousel-tabs button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  height: 44px;
+  padding: 0 14px 0 8px;
+  border: 0;
+  border-radius: 11px;
+  background: transparent;
+  color: var(--day-muted);
+  font-size: 14px;
+  font-weight: 700;
+  transition:
+    background 0.45s ease,
+    color 0.45s ease;
+}
+.day-carousel-tabs b {
+  display: grid;
+  place-items: center;
+  flex: none;
+  min-width: 28px;
+  height: 28px;
+  padding: 0 7px;
+  border-radius: 99px;
+  background: var(--day-tab-dot);
+  font-size: 12px;
+  font-weight: 800;
+  transition:
+    background 0.45s ease,
+    color 0.45s ease;
+}
+.day-carousel-tabs span {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.day-carousel-tabs [aria-selected='true'] {
+  background: var(--day-tab-on);
+  color: var(--ink);
+}
+.day-carousel-tabs [aria-selected='true'] b {
+  background: var(--day-deep);
+  color: var(--day-lime);
+}
+.day-carousel-stage {
+  display: grid;
+  align-self: stretch;
+  padding: 8px 0 34px;
+  /* clip, not hidden: a hidden box can still be scrolled sideways when a side card takes focus */
+  overflow: clip;
+  touch-action: pan-y;
+  -webkit-mask-image: linear-gradient(
+    90deg,
+    transparent 0,
+    #000 var(--fade-in),
+    #000 var(--fade-out),
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    90deg,
+    transparent 0,
+    #000 var(--fade-in),
+    #000 var(--fade-out),
+    transparent 100%
+  );
+}
+.day-card {
+  position: relative;
+  grid-area: 1 / 1;
+  justify-self: center;
+  display: flex;
+  flex-direction: column;
+  width: var(--card-w);
+  padding: 8px;
+  border: 1px solid var(--day-line);
+  border-radius: 26px;
+  background: var(--white);
+  box-shadow: 0 10px 26px #10302a14;
+}
+.day-card {
+  transition:
+    transform 0.55s var(--day-ease),
+    opacity 0.45s ease,
+    filter 0.45s ease,
+    box-shadow 0.45s ease;
+}
+.day-card[data-offset='0'] {
+  z-index: 3;
+  box-shadow: 0 26px 60px rgba(16, 48, 42, 0.22);
+}
+.day-card[data-offset='-1'],
+.day-card[data-offset='1'] {
+  z-index: 2;
+  opacity: 0.62;
+  filter: blur(2.5px);
+}
+.day-card[data-offset='-1'] {
+  transform: translateX(calc(-1 * var(--side-x))) scale(0.86);
+}
+.day-card[data-offset='1'] {
+  transform: translateX(var(--side-x)) scale(0.86);
+}
+.day-card[data-offset='-2'],
+.day-card[data-offset='2'] {
+  z-index: 1;
+  opacity: 0;
+  filter: blur(6px);
+  pointer-events: none;
+}
+.day-card[data-offset='-2'] {
+  transform: translateX(calc(-1 * var(--far-x))) scale(0.74);
+}
+.day-card[data-offset='2'] {
+  transform: translateX(var(--far-x)) scale(0.74);
+}
+.day-card-panel {
+  position: relative;
+  flex: 1;
+  min-height: 268px;
+  overflow: hidden;
+  padding: 26px 28px;
+  border-radius: 19px;
+  background: var(--day-side);
+  color: var(--ink);
+  transition:
+    background 0.45s ease,
+    color 0.45s ease;
+}
+/* Gradient backgrounds can't transition, so the centre panel fades a gradient layer in over the flat one. */
+.day-card-panel::before,
+.day-card-panel::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.45s ease;
+}
+.day-card-panel::before {
+  background: linear-gradient(140deg, var(--day-deep) 0%, var(--day-deep-2) 100%);
+}
+.day-card-panel::after {
+  background: radial-gradient(circle at 92% 0%, #ffffff2e 0, transparent 46%);
+}
+.day-card-panel > * {
+  position: relative;
+}
+.day-card[data-offset='0'] .day-card-panel {
+  color: var(--white);
+}
+.day-card[data-offset='0'] .day-card-panel::before,
+.day-card[data-offset='0'] .day-card-panel::after {
+  opacity: 1;
+}
+.day-card-icon {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  margin-bottom: 18px;
+  border-radius: 50%;
+  background: var(--day-side-icon);
+  color: var(--day-lime);
+  transition:
+    background 0.45s ease,
+    color 0.45s ease;
+}
+.day-card[data-offset='0'] .day-card-icon {
+  background: var(--white);
+  color: var(--day-deep);
+}
+.day-card-eyebrow {
+  display: block;
+  color: var(--day-eyebrow);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  transition: color 0.45s ease;
+}
+.day-card[data-offset='0'] .day-card-eyebrow {
+  color: var(--day-lime);
+}
+.reading-section .day-card-panel h4 {
+  margin: 6px 0 10px;
+  font-size: 23px;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  transition: font-size 0.45s ease;
+}
+.reading-section .day-card[data-offset='0'] .day-card-panel h4 {
+  font-size: 27px;
+}
+.reading-section .day-card-panel p {
+  max-width: none;
+  margin: 0;
+  color: var(--day-muted);
+  font-size: 14.5px;
+  line-height: 1.5;
+  transition: color 0.45s ease;
+}
+.reading-section .day-card[data-offset='0'] .day-card-panel p {
+  color: rgba(255, 255, 255, 0.9);
+}
+.day-card-hit {
+  position: absolute;
+  inset: 0;
+  z-index: 4;
+  border: 0;
+  border-radius: inherit;
+  background: transparent;
+}
+.day-carousel-hint {
+  display: none;
+}
+.day-carousel-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  width: 100%;
+  max-width: 1000px;
+}
+.reading-section .day-carousel-count {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin: 0;
+  color: var(--day-muted);
+  font-size: 15px;
+  line-height: 1;
+  white-space: nowrap;
+}
+.day-carousel-count strong {
+  color: var(--ink);
+  font-size: 30px;
+  font-weight: 800;
+}
+.day-carousel-progress {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.day-carousel-progress button {
+  display: grid;
+  place-items: center;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+.day-carousel-progress i {
+  display: block;
+  width: 30px;
+  height: 6px;
+  border-radius: 99px;
+  background: var(--day-bar);
+  transition:
+    width 0.45s ease,
+    background 0.45s ease;
+}
+.day-carousel-progress [aria-current] i {
+  width: 58px;
+  background: var(--day-deep);
+}
+.day-carousel-arrows {
+  display: flex;
+  gap: 10px;
+}
+.day-carousel-arrows button {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  border: 1px solid var(--day-arrow-line);
+  border-radius: 50%;
+  background: var(--white);
+  color: var(--ink);
+  transition: opacity 0.3s ease;
+}
+.day-carousel-arrows button + button {
+  border-color: var(--day-deep);
+  background: var(--day-deep);
+  color: var(--white);
+}
+.day-carousel-arrows [aria-disabled='true'] {
+  opacity: 0.38;
+  cursor: default;
+}
+@media (max-width: 767px) {
+  .day-carousel {
+    --card-w: 300px;
+    --side-x: 262px;
+    --far-x: 480px;
+    --fade-in: 9%;
+    --fade-out: 91%;
+  }
+  .day-carousel-tabs button {
+    gap: 7px;
+    padding: 0 10px 0 6px;
+    font-size: 13px;
+  }
+  .day-carousel-tabs span {
+    max-width: 9ch;
+  }
+  .day-card-panel {
+    min-height: 352px;
+    padding: 22px 22px;
+  }
+  .day-carousel-hint {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin: -8px 0 0;
+    color: var(--day-muted);
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1;
+  }
+  .reading-section .day-carousel-count {
+    display: none;
+  }
+  .day-carousel-controls {
+    gap: 12px;
+  }
+  .day-carousel-progress {
+    gap: 0;
+  }
+  .day-carousel-progress button {
+    padding: 0 3px;
+  }
+  .day-carousel-progress i {
+    width: 18px;
+  }
+  .day-carousel-progress [aria-current] i {
+    width: 34px;
+  }
+  .day-carousel-arrows {
+    gap: 8px;
+  }
+  .day-carousel-arrows button {
+    width: 48px;
+    height: 48px;
+  }
+}
+/* Reduced motion: no blur and no sliding; only the active card shows and cards cross-fade. */
+@media (prefers-reduced-motion: reduce) {
+  .day-carousel .day-card {
+    transform: none !important;
+    filter: none !important;
+  }
+  .day-carousel .day-card:not([data-offset='0']) {
+    opacity: 0;
+    pointer-events: none;
+  }
+  .day-carousel .day-card-hit {
+    display: none;
+  }
+  .day-carousel .day-card {
+    transition: opacity 0.45s ease;
+  }
+}
+
 /* Ledger: budget table. Each row is a card-like line with a share-of-income bar; stacks cleanly on phones. */
 .ledger {
   margin: 28px 0;
@@ -4925,7 +5333,7 @@ body[data-large-text='true'] .photo-story .story-beat p {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: 60% 35%;
+  object-position: var(--cover-x, 60%) 35%;
 }
 .file-cards-cover::after {
   content: '';

@@ -49,31 +49,56 @@
           "text": "Use the STOP test. Source: did you start the contact? Time: are you being rushed? Offer: does the claim hold up to an independent check? Payment: does the method remove your usual protections? One red flag does not prove fraud, but it earns a pause."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A rushed call is built to stop you from thinking.",
+              "text": "A rushed call is built to stop you from thinking.",
+              "image": "/images/money-budgeting/06-elite/money-20/money20-image-1.webp"
+            },
+            {
+              "title": "Pause, verify through a known number, then decide.",
+              "text": "Pause, verify through a known number, then decide.",
+              "image": "/images/money-budgeting/06-elite/money-20/money20-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "Read the pressure pattern"
         },
         {
-          "type": "cards",
+          "type": "carousel",
           "items": [
             {
-              "title": "01",
-              "text": "Source: did you start the contact through a channel you trust?"
+              "title": "SOURCE",
+              "text": "Did you start the contact through a channel you trust?",
+              "detail": "NUMBER 1",
+              "icon": "search"
             },
             {
-              "title": "02",
-              "text": "Time: are you being rushed, threatened or told to keep the request secret?"
+              "title": "TIME",
+              "text": "Are you being rushed, threatened or told to keep the request secret?",
+              "detail": "NUMBER 2",
+              "icon": "clock"
             },
             {
-              "title": "03",
-              "text": "Offer: does the claim survive an independent check?"
+              "title": "OFFER",
+              "text": "Does the claim survive an independent check?",
+              "detail": "NUMBER 3",
+              "icon": "filecheck"
             },
             {
-              "title": "04",
-              "text": "Payment: does the requested method remove your usual protections?"
+              "title": "PAYMENT",
+              "text": "Does the requested method remove your usual protections?",
+              "detail": "NUMBER 4",
+              "icon": "dollar"
             },
             {
-              "title": "05",
-              "text": "Credentials: are you being asked for a password, PIN, one-time code, remote access or card pickup?"
+              "title": "CREDENTIALS",
+              "text": "Are you being asked for a password, PIN, one-time code, remote access or card pickup?",
+              "detail": "NUMBER 5",
+              "icon": "lock"
             }
           ]
         },
@@ -107,11 +132,12 @@
           "text": "Meet Colin",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/money-budgeting/06-elite/money-20/money20-image-3.webp",
           "paragraphs": [
             "Colin Fraser is making supper in Winnipeg when his phone shows the name of his bank. The caller knows his full name. He says the fraud department has spotted a transfer. To protect Colin’s savings, he must move the money into a ‘secure account’ before the branch closes. The caller is calm, careful and impressively concerned.",
-            "Then a real one-time code arrives by text. The caller asks Colin to read it aloud. Next he says a courier will collect Colin’s bank card as evidence. Colin feels embarrassed that he is unsure. The potatoes are boiling over, the caller is counting down and the whole evening has become a low-budget thriller with excellent caller ID.",
-            "Colin remembers a family rule: no money, code or card leaves during an incoming contact. He hangs up, even though the caller warns that the transfer will become permanent. He calls the number on the back of his card. The bank says it never called, and it locks the attempted login. Colin changes his password from a clean device. He checks his recent transactions and turns on stronger multi-factor authentication.",
-            "He saves the phone number, the text, the time and his notes without clicking anything. He follows the bank’s instructions. He reports the call to the Canadian Anti-Fraud Centre and tells local police as needed. He also tells his sister, who got a similar call that week.",
+            "Then a real one-time code arrives by text. The caller asks Colin to read it aloud. Next he says a courier will collect Colin’s bank card as evidence. The potatoes are boiling over, the caller is counting down and the whole evening has become a low-budget thriller with excellent caller ID.",
+            "Colin remembers a family rule: no money, code or card leaves during an incoming contact. He hangs up, even though the caller warns that the transfer will become permanent. He calls the number on the back of his card. The bank says it never called, and it locks the attempted login. Colin changes his password from a clean device and turns on stronger multi-factor authentication.",
+            "He saves the number, text, time and his notes without clicking anything. He follows the bank’s instructions, reports the call to the Canadian Anti-Fraud Centre and tells local police as needed. He also tells his sister, who got a similar call that week.",
             "Two days later, someone offers to recover money for an upfront fee. Colin has lost no money, but this second caller has plenty of optimism and an invoice ready. Colin refuses and adds the contact to his report. He did not outsmart every scam. He used a routine that works under stress: pause, leave the channel, verify, protect and report."
           ]
         },
@@ -170,10 +196,6 @@
           "text": "Reporting an attempted scam still matters. It can connect patterns, warn others and support investigations even when no money left your account."
         },
         {
-          "type": "spotlight",
-          "text": "Preserve facts, not shame: what contact arrived, what was shared, what moved, when it happened and what protection followed."
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -218,6 +240,10 @@
               "text": ""
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Preserve facts, not shame: what contact arrived, what was shared, what moved, when it happened and what protection followed."
         }
       ]
     },
@@ -292,21 +318,17 @@
   "checkIn": {
     "questions": [
       "What is your household’s rule for any request for money, codes or passwords that comes in by call, text or email?",
-      "Where will you keep the trusted phone numbers or bookmarked sites for your bank and cards?",
-      "Which two people will you call for a quick pause-and-check, and what red flags will make you stop?",
+      "Where will you keep your bank’s trusted phone number, and which two people will you call for a quick pause-and-check?",
       "Which accounts need a unique password and stronger MFA? Start with email and banking.",
-      "If you were scammed, what would you save as evidence, and who would you contact first?",
-      "When will you hold a 10-minute scam drill with your household?"
+      "What would you save as evidence if you were scammed, and when will you hold a 10-minute scam drill?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand no money, code, card or credential should leave during an unverified incoming contact.",
     "samples": [
       "We pay or share nothing during an incoming call. We hang up and call back.",
-      "In my phone contacts as “Bank (real)” and in a bookmarked folder.",
-      "My sister and my neighbour. Rush, secrecy, gift cards or codes.",
+      "In my contacts as “Bank (real)”. I will call my sister and my neighbour.",
       "Email, bank, credit card and phone account.",
-      "Texts, call times and receipts in a folder. Bank first, then the CAFC.",
-      "Sunday the 12th after supper."
+      "Texts, call times and receipts in a folder. Drill on Sunday the 12th."
     ]
   },
   "sources": []

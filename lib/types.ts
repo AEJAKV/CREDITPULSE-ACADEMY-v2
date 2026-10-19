@@ -17,6 +17,13 @@ export type ReadingBlock = {
     | 'chips'
     | 'accordions'
     | 'carousel'
+    | 'ledger'
+    | 'conversion'
+    | 'paydays'
+    | 'loancost'
+    | 'interestscan'
+    | 'payoff'
+    | 'waterfall'
     | 'lists'
     | 'split'
     | 'story'
@@ -40,6 +47,8 @@ export type ReadingBlock = {
     detail?: string;
     image?: string;
     icon?: string;
+    /** ledger: the row's dollar figure, e.g. "$2,250". */
+    amount?: string;
     list?: string[];
   }[];
 };

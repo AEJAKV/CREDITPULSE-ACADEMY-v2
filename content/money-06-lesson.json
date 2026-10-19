@@ -16,11 +16,11 @@
         },
         {
           "type": "paragraph",
-          "text": "If the institution covers the payment, the account may become negative and the learner may owe the amount, interest and a service fee. It can prevent a short-term payment failure, but it does not create income."
+          "text": "If your bank or credit union covers the payment, the account goes negative and you may owe the amount, interest and a service fee. It can prevent a short-term payment failure, but it does not create income."
         },
         {
           "type": "paragraph",
-          "text": "In this Overdraft Incident Room, you will investigate four incidents and separate the immediate emergency from the repeating pattern. Then you will calculate the real 90-day cost and install controls before the next pre-authorized debit arrives. The incident is evidence, not a character reference."
+          "text": "In this Overdraft Incident Room, you will look into four incidents and separate the emergency of the moment from the repeating pattern. Then you will work out the real 90-day cost and set up controls before the next pre-authorized debit arrives. The incident is evidence, not a character reference."
         },
         {
           "type": "source",
@@ -35,13 +35,13 @@
           "type": "artwork",
           "items": [
             {
-              "title": "Overdraft timing image",
-              "text": "Overdraft timing image",
+              "title": "Overdraft is a seatbelt, not a transportation plan.",
+              "text": "Overdraft is a seatbelt, not a transportation plan.",
               "image": "/images/money-budgeting/02-silver/money-06/money06-image-5.webp"
             },
             {
-              "title": "Overdraft repair image",
-              "text": "Overdraft repair image",
+              "title": "Trace the cause, then repair the cash-flow route.",
+              "text": "Trace the cause, then repair the cash-flow route.",
               "image": "/images/money-budgeting/02-silver/money-06/money06-image-6.webp"
             }
           ]
@@ -55,19 +55,23 @@
           "items": [
             {
               "title": "NO SHAME",
-              "text": "A negative balance is a financial event to diagnose, not proof that someone is irresponsible."
+              "text": "A negative balance is something to diagnose, not proof that you are irresponsible.",
+              "icon": "heart"
             },
             {
               "title": "NO GUESSING",
-              "text": "Record the posted transaction, negative amount, fee, interest, payment outcome and repayment date."
+              "text": "Write down the transaction, the negative amount, the fee, the interest, whether the payment went through and the repayment date.",
+              "icon": "receipt"
             },
             {
               "title": "NO DOUBLE COUNTING",
-              "text": "Separate the borrowed amount from the cost of borrowing and from any biller’s fee."
+              "text": "Separate the borrowed amount from the cost of borrowing and from any biller’s fee.",
+              "icon": "wallet"
             },
             {
               "title": "NO DELAY",
-              "text": "Protect essentials, contact the institution or biller when needed, and repay the negative balance as soon as you can."
+              "text": "Protect essentials, call your bank or the biller if needed, and repay the negative balance as soon as you can.",
+              "icon": "timer"
             }
           ]
         },
@@ -76,7 +80,7 @@
           "items": [
             {
               "title": "“My overdraft limit is extra money available for spending.”",
-              "text": "Overdraft is credit. The negative balance must be repaid, and fees or interest may apply. Treat the limit as emergency capacity, not as part of the household budget."
+              "text": "Overdraft is credit. The negative balance must be repaid, and fees or interest may apply. Treat the limit as emergency backup, not part of the household budget."
             }
           ]
         },
@@ -95,7 +99,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The amounts below are fictional negative-balance events from Josephine’s one-month statement. Each incident needs a cause and an outcome, not merely a red circle."
+          "text": "The amounts below are made-up negative-balance events from Josephine’s one-month statement. Each incident needs a cause and an outcome, not just a red circle."
         },
         {
           "type": "carousel",
@@ -124,7 +128,7 @@
             {
               "title": "INCIDENT 4",
               "detail": "$210",
-              "text": "Insurance withdrawal five days before next deposit — Can the withdrawal date, premium schedule or cash reserve change?",
+              "text": "Insurance withdrawal five days before the next deposit — Can the date, the payment schedule or a cash reserve change?",
               "image": "/images/money-budgeting/02-silver/money-06/money06-image-4.webp",
               "icon": "search"
             }
@@ -139,15 +143,18 @@
           "items": [
             {
               "title": "COVERED BY OVERDRAFT",
-              "text": "The institution pays the transaction within the approved limit. The account goes negative; interest and a monthly or pay-per-use fee may apply."
+              "text": "Your bank or credit union pays the transaction within the approved limit. The account goes negative. Interest and a monthly or pay-per-use fee may apply.",
+              "icon": "shield"
             },
             {
               "title": "DECLINED",
-              "text": "A debit-card purchase may not proceed. The learner still needs another way to pay, but an NSF fee is not automatically created by every declined purchase."
+              "text": "A debit-card purchase may not go through. You still need another way to pay, but not every declined purchase creates an NSF fee.",
+              "icon": "alert"
             },
             {
               "title": "RETURNED / NSF",
-              "text": "A cheque or pre-authorized debit may be returned when funds or protection are not enough. A bank fee and a separate biller consequence may apply, each under its own rules."
+              "text": "A cheque or pre-authorized debit may be returned when funds or protection are not enough. A bank fee and a separate charge from the biller may apply, each under its own rules.",
+              "icon": "inbox"
             }
           ]
         },
@@ -156,13 +163,13 @@
           "items": [
             {
               "title": "“Overdraft and NSF mean the same thing because both start with not enough money.”",
-              "text": "Overdraft generally means the institution covered the transaction and created a debt. An NSF event generally means the payment was not covered or exceeded protection. The fees, payment outcome and repair steps can differ."
+              "text": "Overdraft generally means your bank or credit union covered the payment and created a debt. An NSF event generally means the payment was not covered or went past your protection. The fees, the payment result and the repair steps can differ."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "The first question is not “What was the fee?” It is “Did the payment succeed?” A covered rent payment and a returned rent payment create different next actions."
+          "text": "Start with “Did the payment succeed?” before “What was the fee?” A covered rent payment and a returned rent payment call for different next steps."
         },
         {
           "type": "story",
@@ -170,11 +177,11 @@
           "detail": "JOSEPHINE’S FLEXIBLE ZERO",
           "extra": "",
           "paragraphs": [
-            "Josephine lives in Ottawa and is paid every second Friday. Her rent, insurance and several subscriptions use automatic withdrawals. She has a $300 overdraft limit and thinks of it as a cushion. One quiet month, four transactions discover the cushion before she does. Her banking app has not developed opinions, but the minus sign is making a strong opening statement.",
-            "Josephine’s subscription was forgotten, the rent money arrived three days after the withdrawal, the fuel purchase followed a pending debit, and the insurance date has never matched her pay cycle. Four incidents look like one spending problem from a distance. Up close, they are subscription, timing, visibility and scheduling problems.",
-            "The $210 insurance withdrawal leaves Josephine negative with groceries still needed. Another payment is due in three days. She considers ignoring the alert until payday, a strategy with the calm confidence of closing the curtains during a fire drill. Instead, she opens the incident room and protects the next essential payment first.",
-            "Josephine learns that the fees matter, but the pattern matters more. She cancels the unused $18 subscription, reserves the rent shortfall from the prior pay, asks the insurer about a later withdrawal date and raises her balance-alert threshold. The overdraft choice can now be made against a repaired system instead of four unrepaired incidents.",
-            "During Josephine’s 90-day repair window, the fictional monthly option costs less than four pay-per-use charges, so she selects it after confirming the written terms. She repays each negative balance on payday and gives the protection a review date. By day 90, the subscription is gone, the insurance date is aligned, the rent reserve is ready and no new incident has occurred. She switches to the lower-cost option that fits rare use, without promoting the limit into her budget. The cushion is still there. It just does not get to speak first anymore."
+            "Josephine lives in Ottawa and is paid every second Friday. Her rent, insurance and several subscriptions come out by automatic withdrawal. She has a $300 overdraft limit and thinks of it as a cushion. Then one quiet month, four transactions find the cushion before she does. Her banking app has not developed opinions, but the minus sign is making a strong opening statement.",
+            "Josephine lines up the four events. A forgotten $18 subscription. Rent money that arrived three days after the withdrawal. A fuel purchase that landed after a pending debit posted. An insurance withdrawal that has never matched her pay cycle. From far away it looks like one spending problem. Up close, it is four problems: a subscription, timing, visibility and scheduling.",
+            "The $210 insurance withdrawal leaves her negative, with groceries still needed. Another payment is due in three days. She thinks about ignoring the alert until payday, a plan with the calm confidence of closing the curtains during a fire drill. Instead, she opens the incident room and protects the next essential payment first.",
+            "Next comes the choice. Pay-per-use would cost her $20.89 over 90 days. The monthly option costs $15.89, but only while she uses it rarely. Josephine reads the written terms and picks the monthly option. Then she fixes the causes: she cancels the unused $18 subscription, holds back rent money from the prior pay, asks the insurer for a later date and raises her alert amount.",
+            "By day 90, no new incident has happened. The cushion is still there. It just does not get to speak first anymore."
           ],
           "image": "/images/money-budgeting/02-silver/money-06/money06-image-7.webp"
         },
@@ -200,19 +207,19 @@
             },
             {
               "title": "STABILIZE",
-              "text": "Protect the payments that keep the household running. Confirm which housing, utilities, food, transportation, insurance and minimum debt payments must be protected before the next deposit."
+              "text": "Protect the payments that keep the household running. List which housing, utilities, food, transportation, insurance and minimum debt payments must be covered before the next deposit."
             },
             {
               "title": "TRACE",
-              "text": "Name the specific trigger supported by the evidence. Match every incident to a cause: forgotten recurring charge, timing gap, variable spending, deposit hold, income shortfall, account error or fraud."
+              "text": "Name the trigger your evidence supports. Match every incident to a cause: a forgotten recurring charge, a timing gap, changing spending, a deposit hold, an income shortfall, a bank error or fraud."
             },
             {
               "title": "REPAIR",
-              "text": "Restore the account and document every correction. Bring the account positive, contact billers when timing must change, challenge errors promptly and document any fee discussion or reversal."
+              "text": "Restore the account and keep a record of every fix. Bring the account back above zero, contact billers when a date must change, challenge errors fast and note any talk about a fee or reversal."
             },
             {
               "title": "REVIEW",
-              "text": "Measure whether the repair works over the next 90 days. Compare 90-day costs, choose the most suitable protection method and set an incident-free target plus a dated review."
+              "text": "See whether the repair works over the next 90 days. Compare 90-day costs, choose the protection that fits best and set an incident-free goal plus a review date."
             }
           ]
         }
@@ -229,22 +236,25 @@
         },
         {
           "type": "paragraph",
-          "text": "Product terms vary; the arithmetic is training evidence, not a market quote."
+          "text": "Product terms vary. The math is practice, not a market quote."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "FICTIONAL PAY-PER-USE OPTION",
-              "text": "$20.89 — $5 × 4 incidents = $20.00 in fees. Approximate interest: $0.89. Total 90-day overdraft-related cost: $20.89."
+              "text": "$20.89 — $5 × 4 incidents = $20.00 in fees. Interest, roughly: $0.89. Total 90-day overdraft cost: $20.89.",
+              "icon": "zap"
             },
             {
               "title": "FICTIONAL MONTHLY OPTION",
-              "text": "$15.89 — $5 × 3 months = $15.00. With the same approximate interest: $15.89. It is cheaper in this incident pattern, but only while the monthly charge and usage assumptions remain true."
+              "text": "$15.89 — $5 × 3 months = $15.00. With the same rough interest: $15.89. It is cheaper for this pattern, but only while the monthly charge and your usage stay the same.",
+              "icon": "calendar"
             },
             {
               "title": "NO-PROTECTION OUTCOME",
-              "text": "NOT $0 — Do not enter $0 automatically. A payment may be declined or returned. Verify any NSF fee, biller return fee, late charge, service interruption and practical consequence."
+              "text": "NOT $0 — Do not enter $0 automatically. A payment may be declined or returned. Check for an NSF fee, a biller’s return fee, a late charge or a service cutoff.",
+              "icon": "alert"
             }
           ]
         },
@@ -253,13 +263,13 @@
           "items": [
             {
               "title": "“Overdraft interest is tiny, so the total cost is tiny.”",
-              "text": "Interest on a short negative balance may be small, but fixed monthly or per-use fees can dominate the total. Compare every cost over the same 90-day behaviour pattern."
+              "text": "Interest on a short negative balance may be small, but fixed monthly or per-use fees can make up most of the total. Compare every cost over the same 90 days of use."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "For short, small overdrafts, the fixed fee may matter more than the interest. The correct comparison is fees plus interest plus outside consequences, not the rate by itself."
+          "text": "For short, small overdrafts, the fixed fee may matter more than the interest. The right comparison is fees plus interest plus outside costs, not the rate alone."
         },
         {
           "type": "source",
@@ -286,21 +296,21 @@
             },
             {
               "title": "Separate bill money.",
-              "text": "Move funded bill amounts into a dedicated account or tracking category before daily spending begins."
+              "text": "Move bill money into its own account or tracking category before daily spending starts."
             },
             {
               "title": "Build a small account buffer.",
-              "text": "Start with one frequent timing gap; do not count the buffer as spendable money."
+              "text": "Start with one common timing gap. Do not count the buffer as spendable money."
             },
             {
               "title": "Review the protection agreement.",
-              "text": "Confirm the limit, annual rate, fee model, repayment treatment, cancellation process and what happens above the limit."
+              "text": "Confirm the limit, the yearly rate, how fees work, how repayment works, how to cancel and what happens above the limit."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Federally regulated financial institutions send an electronic alert when an account balance falls below the chosen threshold. The default is $100, but the learner may customize the amount or opt out. A useful threshold reflects upcoming payments, not just zero."
+          "text": "Banks and federal credit unions send an electronic alert when your balance falls below a chosen amount. The default is $100, but you can change the amount or opt out. A useful amount reflects upcoming payments, not just zero."
         },
         {
           "type": "source",
@@ -312,32 +322,35 @@
           "items": [
             {
               "title": "“A low-balance alert prevents overdraft.”",
-              "text": "An alert is a smoke alarm, not a firefighter. It creates time to review pending activity, transfer available funds, pause spending or contact a biller. It cannot create money or stop every already-authorized transaction."
+              "text": "An alert is a smoke alarm, not a firefighter. It gives you time to review pending activity, move money, pause spending or call a biller. It cannot create money or stop every payment you already authorized."
             }
           ]
         },
         {
           "type": "heading",
-          "text": "Province Lens: Identify the Institution Before the Rulebook"
+          "text": "Province Lens: Know the Bank or Credit Union Before the Rulebook"
         },
         {
           "type": "paragraph",
-          "text": "Federal banks and federal credit unions follow the federal consumer framework. A provincial credit union follows its own province’s rules and complaint route. Start with the institution’s written agreement and internal complaint process."
+          "text": "Federal banks and federal credit unions follow the federal consumer framework. A provincial credit union follows its own province’s rules and complaint route. Start with your written agreement and the bank’s or credit union’s own complaint process."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "AB / BC",
-              "text": "CUDGC for Alberta credit unions; BCFSA for BC-authorized credit unions."
+              "text": "CUDGC for Alberta credit unions. BCFSA for BC-authorized credit unions.",
+              "icon": "mountain"
             },
             {
               "title": "NB / ON",
-              "text": "FCNB for New Brunswick credit unions; FSRA for Ontario credit unions."
+              "text": "FCNB for New Brunswick credit unions. FSRA for Ontario credit unions.",
+              "icon": "building"
             },
             {
               "title": "PEI / NL",
-              "text": "PEI Justice and Public Safety or the applicable credit-union authority; Newfoundland and Labrador Regulatory Affairs Branch."
+              "text": "In PEI, Justice and Public Safety or the credit union’s own authority. In Newfoundland and Labrador, the Regulatory Affairs Branch.",
+              "icon": "waves"
             }
           ]
         }
@@ -357,7 +370,7 @@
               "text": ""
             },
             {
-              "title": "PAD returned unpaid.",
+              "title": "Pre-authorized debit returned unpaid.",
               "detail": "Contact the biller and verify NSF plus outside charges.",
               "text": ""
             },
@@ -387,13 +400,13 @@
           "items": [
             {
               "title": "“The new $10 NSF cap makes a returned payment harmless.”",
-              "text": "The federal cap reduces the bank’s NSF fee, but the payment may still fail. A biller may apply a separate charge, mark the payment late, interrupt service or require another payment method. Repair the failed payment, not only the bank fee."
+              "text": "The federal cap reduces the bank’s NSF fee, but the payment may still fail. A biller may add its own charge, mark the payment late, cut off service or ask for another way to pay. Fix the failed payment, not just the bank fee."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Since March 12, 2026, a federally regulated bank generally cannot charge more than $10 for an NSF event on a personal deposit account. It cannot charge another NSF fee to that account within two business days, and it cannot charge one when the overdraft is under $10."
+          "text": "Since March 12, 2026, a federally regulated bank generally cannot charge more than $10 for an NSF event on a personal deposit account. It also cannot charge another NSF fee on that account within two business days, or charge one at all when the overdraft is under $10."
         },
         {
           "type": "source",
@@ -455,47 +468,39 @@
           "type": "ordered",
           "items": [
             {
-              "title": "Question 11.",
-              "text": "A strong answer reviews enough history to reveal a pattern. It counts overdraft, decline and returned-payment outcomes separately."
+              "title": "Question 1.",
+              "text": "A strong answer looks back far enough to show a pattern. Count overdraft, declined and returned-payment events separately."
             },
             {
-              "title": "Question 12.",
-              "text": "The log separates the transaction amount, negative balance, borrowing cost, payment result and repayment date."
+              "title": "Question 2.",
+              "text": "Choose the trigger your statement or agreement supports. More than one cause can add up to an incident. Say whether the payment was covered, declined or returned."
             },
             {
-              "title": "Question 13.",
-              "text": "Choose the specific trigger supported by the statement or agreement. More than one cause may contribute to an incident."
+              "title": "Question 3.",
+              "text": "Do not count the borrowed amount as a fee. Include confirmed outside charges and mark anything unknown for follow-up."
             },
             {
-              "title": "Question 14.",
-              "text": "Do not count the borrowed principal as a fee. Include confirmed outside charges and mark unresolved items for follow-up."
+              "title": "Question 4.",
+              "text": "Use the same 90 days of behaviour for every option. Check fees, rate, limit, linked-product cost and what happens to a failed payment."
             },
             {
-              "title": "Question 15.",
-              "text": "Use identical 90-day behaviour for every option. Verify fees, rate, limit, linked-product cost and failed-payment consequences."
+              "title": "Question 5.",
+              "text": "Protect essentials first. Review pending activity, then contact your bank or the biller before another avoidable failure. Pick a change that gives you lead time."
             },
             {
-              "title": "Question 16.",
-              "text": "Protect essentials first. Review pending activity, then contact the institution or biller before another avoidable failure happens."
-            },
-            {
-              "title": "Question 17.",
-              "text": "Controls should create usable lead time: a realistic threshold, dated payment map, protected bill money and one root-cause repair."
-            },
-            {
-              "title": "Question 18.",
-              "text": "The verdict explains the product choice, does not treat the limit as income, and includes a measurable incident-free review."
+              "title": "Question 6.",
+              "text": "Explain your product choice, do not treat the limit as income, and set a review date with a goal you can measure."
             }
           ]
         },
         {
           "type": "takeaway",
-          "text": "Identify whether a payment was covered or failed, then stabilize the next essential payments.",
-          "detail": "Trace each cause, count the complete 90-day cost and install controls that make repeated borrowing less likely."
+          "text": "Find out whether a payment was covered or failed, then protect the next essential payments.",
+          "detail": "Trace each cause, count the full 90-day cost and set up controls that make repeat borrowing less likely."
         },
         {
           "type": "spotlight",
-          "text": "The best overdraft plan is not the one that hides the most incidents. It is the one paired with a system that makes incidents rarer, shorter, cheaper and easier to diagnose."
+          "text": "The best overdraft plan does not hide incidents. It comes with a system that makes them rarer, shorter, cheaper and easier to diagnose."
         }
       ]
     },
@@ -509,11 +514,11 @@
           "items": [
             {
               "title": "Overdraft",
-              "text": "A negative account balance created when your institution covers a transaction that goes past your available funds."
+              "text": "A negative account balance created when your bank or credit union covers a payment that goes past your available funds."
             },
             {
               "title": "Overdraft protection",
-              "text": "An agreed credit service that may cover eligible transactions up to an approved limit, with possible fees and interest."
+              "text": "An agreed credit service that may cover payments up to an approved limit, with possible fees and interest."
             },
             {
               "title": "NSF",
@@ -529,11 +534,11 @@
             },
             {
               "title": "Available balance",
-              "text": "The amount you can use right now, after the institution applies posted activity and any holds."
+              "text": "The amount you can use right now, after your bank or credit union applies posted activity and any holds."
             },
             {
               "title": "Overdraft fee model",
-              "text": "The agreement may charge you each time protection is used, or apply one recurring monthly fee instead."
+              "text": "How the agreement charges you: each time protection is used, or one monthly fee instead."
             },
             {
               "title": "Account buffer",
@@ -554,17 +559,23 @@
   },
   "checkIn": {
     "questions": [
-      "HOW OFTEN — In the last 30 to 90 days, how many times did your balance go below zero or a payment fail?",
-      "WHAT HAPPENED — For each event, write the date, payment name, amount, any fee and whether the payment went through.",
-      "WHY IT HAPPENED — What was the main cause: timing, a recurring charge, spending, a held deposit, low income, an error or possible fraud?",
-      "TOTAL COST — Add the fees and interest. What did these events cost in total?",
-      "COMPARE YOUR OPTIONS — Over the next 90 days, which option may cost less: monthly overdraft, pay-per-use, linked savings or no protection?",
-      "NEXT SEVEN DAYS — Which essential payments are due before your next income, and what must you do now to cover them?",
-      "PREVENT ANOTHER EVENT — Choose an alert amount, a bill calendar and one small buffer or bill change.",
-      "YOUR DECISION — Will you keep, change or cancel overdraft protection? Briefly explain why and choose a review date."
+      "In the last 90 days, how many times did your balance go below zero or a payment fail?",
+      "Think of your latest event. What happened, did the payment go through, and what was the main cause: timing, a recurring charge, spending, a held deposit, low income, an error or fraud?",
+      "What did your events cost in total? Add the fees and interest. If there were none, write $0.",
+      "Over the next 90 days, which option would cost you less: monthly overdraft, pay-per-use, linked savings or no protection?",
+      "Which essential payment is due before your next income? Name one change that will help cover it: an alert, a bill calendar or a small buffer.",
+      "Will you keep, change or cancel overdraft protection? Pick a date to review it."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice.",
+    "samples": [
+      "Three times: twice covered by overdraft and once a returned payment.",
+      "Car insurance came out five days before payday. It was covered. Timing.",
+      "Two $5 fees plus about $1 interest, so about $11.",
+      "Pay-per-use. I only used it twice, so a monthly fee costs more.",
+      "Rent on the 1st. I will set my alert to $250.",
+      "Keep it, but check my statement on the 15th of next month."
+    ]
   },
   "sources": []
 }

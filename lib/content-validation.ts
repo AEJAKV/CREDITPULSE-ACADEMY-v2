@@ -17,6 +17,13 @@ const blockTypes: ReadingBlock['type'][] = [
   'chips',
   'accordions',
   'carousel',
+  'ledger',
+  'conversion',
+  'paydays',
+  'loancost',
+  'interestscan',
+  'payoff',
+  'waterfall',
   'lists',
   'split',
   'story',
@@ -86,6 +93,7 @@ export function validateRichContent(content: LessonContent) {
               typeof item.title === 'string' &&
               typeof item.text === 'string' &&
               (item.detail === undefined || typeof item.detail === 'string') &&
+              (item.amount === undefined || typeof item.amount === 'string') &&
               (item.list === undefined ||
                 (Array.isArray(item.list) &&
                   item.list.length <= 50 &&
@@ -100,6 +108,7 @@ export function validateRichContent(content: LessonContent) {
       if (
         (block.type === 'artwork' ||
           block.type === 'carousel' ||
+          block.type === 'ledger' ||
           block.type === 'lists' ||
           block.type === 'split') &&
         !block.items?.length

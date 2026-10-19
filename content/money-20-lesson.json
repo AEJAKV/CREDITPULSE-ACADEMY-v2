@@ -1,6 +1,6 @@
 {
   "title": "Financial Fraud and Scams",
-  "summary": "Pause → Verify → Protect → Report → Recover",
+  "summary": "Pause, verify, protect, report and recover: a calm routine for when a scammer calls.",
   "subtitle": "Slow the scam down before it speeds your money away",
   "minutes": 45,
   "published": true,
@@ -16,43 +16,18 @@
         },
         {
           "type": "paragraph",
-          "text": "Fraud can arrive as a bank alert, government impersonation, romance, investment pitch, job offer, marketplace buyer, family emergency or recovery service. The costume changes; the pressure pattern often repeats. This drill teaches a repeatable response without blaming the person targeted. Skilled fraudsters use emotion, timing, trusted names and realistic technology to interrupt ordinary judgment."
+          "text": "Fraud can arrive as a bank alert, a fake government call, romance, an investment pitch, a job offer, a marketplace buyer, a family emergency or a recovery service. The costume changes. The pressure pattern often repeats. This drill teaches a response you can repeat, without blaming the person targeted. Skilled fraudsters use emotion, timing, trusted names and realistic technology to get past ordinary judgment."
         },
         {
           "type": "spotlight",
           "text": "A caller ID, email logo or familiar-looking website is not proof of identity. End the contact and verify through a phone number or website you locate independently."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Recognize pressure, secrecy, impersonation and unusual-payment red flags.",
-              "text": ""
-            },
-            {
-              "title": "Run a separate-channel verification before sending money or information.",
-              "text": ""
-            },
-            {
-              "title": "Protect accounts and evidence after exposure.",
-              "text": ""
-            },
-            {
-              "title": "Use Canada’s reporting and escalation routes.",
-              "text": ""
-            },
-            {
-              "title": "Complete a Household Scam Response Card.",
-              "text": ""
-            }
-          ]
-        },
-        {
           "type": "myths",
           "items": [
             {
               "title": "“Only careless people fall for scams.”",
-              "text": "Fraud is engineered to exploit trust, fear, hope, authority and time pressure. Anyone can be targeted. A rehearsed pause and verification routine is more useful than shame."
+              "text": "Fraud is built to exploit trust, fear, hope, authority and time pressure. Anyone can be targeted. A rehearsed pause and check routine is more useful than shame."
             }
           ]
         },
@@ -60,7 +35,7 @@
           "type": "transition",
           "text": "A five-question scan is what separates a real emergency from a rehearsed one.",
           "detail": "Running the same five checks every time is what turns a racing pulse back into a decision.",
-          "extra": "Meet Colin next, mid-call, with the kettle still on."
+          "extra": "Meet Colin next, mid-call, with the potatoes still boiling."
         }
       ]
     },
@@ -71,7 +46,7 @@
       "blocks": [
         {
           "type": "spotlight",
-          "text": "Use the STOP test. Source: did you start the contact? Time: are you being rushed? Offer: does the claim survive independent checking? Payment: does the method remove ordinary protections? One red flag does not prove fraud, but it earns a pause."
+          "text": "Use the STOP test. Source: did you start the contact? Time: are you being rushed? Offer: does the claim hold up to an independent check? Payment: does the method remove your usual protections? One red flag does not prove fraud, but it earns a pause."
         },
         {
           "type": "heading",
@@ -94,7 +69,7 @@
             },
             {
               "title": "04",
-              "text": "Payment: does the requested method remove ordinary protections?"
+              "text": "Payment: does the requested method remove your usual protections?"
             },
             {
               "title": "05",
@@ -111,7 +86,7 @@
           "items": [
             {
               "title": "“If the caller knows my name, bank and recent details, the call is genuine.”",
-              "text": "Personal information can come from breaches, social media, stolen mail or earlier contact. Verify independently and never rely on knowledge alone."
+              "text": "Personal details can come from data breaches, social media, stolen mail or an earlier contact. Check independently, and never trust a caller just because they know things about you."
             }
           ]
         },
@@ -133,16 +108,16 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Colin Fraser was making supper in Winnipeg when his phone displayed the name of his bank. The caller knew his full name and said the fraud department had detected a transfer. To protect his savings, Colin needed to move the money into a ‘secure account’ before the branch closed. The caller was calm, precise and impressively concerned about Colin’s financial well-being.",
-            "The conflict tightened when a real one-time code arrived by text. The caller asked Colin to read it aloud, then said a courier could collect his bank card as evidence. Colin felt embarrassed that he was unsure. The potatoes were boiling over, the caller was counting down and the entire evening had become a low-budget thriller with excellent caller ID.",
-            "Colin remembered a family rule: no money, code or card leaves during an incoming contact. He hung up, despite the caller’s warning that the transfer would become permanent. Using the number on the back of his card, he contacted the bank. The bank confirmed it had not called and locked the attempted login. Colin changed the exposed password from a clean device, checked recent transactions and enabled stronger multi-factor authentication.",
-            "He saved the phone number, text, time and notes without clicking anything. Because an account had been targeted, he followed the bank’s instructions, reported the incident through the Canadian fraud-reporting channel and shared the details with local police as appropriate. He also told his sister, who had received a similar call that week.",
-            "Two days later, someone offered to recover money for an upfront fee. Colin had lost no money, but the second caller apparently had optimism and an invoice ready. He refused and added the contact to his report. The conclusion was not that Colin had outsmarted every scam. He had used a routine that worked while stressed: pause, leave the channel, verify, protect and report."
+            "Colin Fraser is making supper in Winnipeg when his phone shows the name of his bank. The caller knows his full name. He says the fraud department has spotted a transfer. To protect Colin’s savings, he must move the money into a ‘secure account’ before the branch closes. The caller is calm, careful and impressively concerned.",
+            "Then a real one-time code arrives by text. The caller asks Colin to read it aloud. Next he says a courier will collect Colin’s bank card as evidence. Colin feels embarrassed that he is unsure. The potatoes are boiling over, the caller is counting down and the whole evening has become a low-budget thriller with excellent caller ID.",
+            "Colin remembers a family rule: no money, code or card leaves during an incoming contact. He hangs up, even though the caller warns that the transfer will become permanent. He calls the number on the back of his card. The bank says it never called, and it locks the attempted login. Colin changes his password from a clean device. He checks his recent transactions and turns on stronger multi-factor authentication.",
+            "He saves the phone number, the text, the time and his notes without clicking anything. He follows the bank’s instructions. He reports the call to the Canadian Anti-Fraud Centre and tells local police as needed. He also tells his sister, who got a similar call that week.",
+            "Two days later, someone offers to recover money for an upfront fee. Colin has lost no money, but this second caller has plenty of optimism and an invoice ready. Colin refuses and adds the contact to his report. He did not outsmart every scam. He used a routine that works under stress: pause, leave the channel, verify, protect and report."
           ]
         },
         {
           "type": "spotlight",
-          "text": "Recovery scams often target people already contacted or harmed. No legitimate recovery service proves itself just because the caller knows details from the first incident. Verify independently, and never send an upfront payment under pressure."
+          "text": "Recovery scams often target people who were already contacted or harmed. A caller who knows details from the first incident does not prove they are a real recovery service. Check independently, and never send an upfront payment under pressure."
         },
         {
           "type": "heading",
@@ -150,7 +125,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Colin used a pre-decided family rule, a trusted contact path and immediate account protection. The routine broke the pressure cycle, not perfect confidence."
+          "text": "Colin used a family rule he had decided in advance, a trusted way to reach the bank and fast account protection. The routine broke the pressure cycle. Perfect confidence did not."
         },
         {
           "type": "transition",
@@ -170,11 +145,11 @@
           "items": [
             {
               "title": "Protect safety",
-              "text": "If anyone is in immediate danger, call 911. Do not meet a courier, confront a suspect or continue contact to collect evidence."
+              "text": "If anyone is in danger, call 911. Do not meet a courier, confront a suspect or keep talking to collect evidence."
             },
             {
               "title": "Contact the money channel",
-              "text": "Call the bank, card issuer, payment service, crypto platform or transfer provider immediately using a trusted number. Ask about stopping, recalling, freezing or disputing the transaction."
+              "text": "Call the bank, card issuer, payment service, crypto platform or transfer provider right away, using a trusted number. Ask about stopping, recalling, freezing or disputing the payment."
             },
             {
               "title": "Secure access",
@@ -182,7 +157,7 @@
             },
             {
               "title": "Preserve evidence",
-              "text": "Keep receipts, transaction IDs, messages, numbers, profiles, websites, dates and a short timeline. Do not keep malware open merely to take a better screenshot."
+              "text": "Keep receipts, transaction IDs, messages, numbers, profiles, websites, dates and a short timeline. Do not leave suspicious software open just to take a better screenshot."
             },
             {
               "title": "Report and update",
@@ -203,7 +178,7 @@
           "items": [
             {
               "title": "“Once money is sent, reporting is pointless.”",
-              "text": "Recovery is not guaranteed, but rapid contact may improve the chance of stopping or tracing a payment. Reporting also creates records and intelligence. Act quickly and beware anyone promising recovery for an upfront fee."
+              "text": "Recovery is not guaranteed, but acting fast may improve the chance of stopping or tracing a payment. Reporting also creates records that help investigators. Act quickly, and beware anyone promising recovery for an upfront fee."
             }
           ]
         }
@@ -219,12 +194,12 @@
           "items": [
             {
               "title": "Why is a separate channel essential for verification?",
-              "detail": "It leaves the suspicious contact and reaches the real organization through independently located information.",
+              "detail": "You leave the suspicious contact and reach the real organization through contact details you found yourself.",
               "text": ""
             },
             {
               "title": "Name three pressure signals that justify a pause.",
-              "detail": "Urgency, secrecy, threats, impersonation, unusual payment methods or requests for codes and credentials.",
+              "detail": "Rushing, secrecy, threats, someone pretending to be someone else, odd payment methods or requests for codes and passwords.",
               "text": ""
             },
             {
@@ -234,7 +209,7 @@
             },
             {
               "title": "What are the first two organizations to contact after money is transferred fraudulently?",
-              "detail": "The financial or payment provider immediately, then local police or the Canadian Anti-Fraud Centre as appropriate.",
+              "detail": "The bank or payment provider right away, then local police or the Canadian Anti-Fraud Centre as needed.",
               "text": ""
             },
             {
@@ -253,7 +228,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Write contact routes, not passwords, PINs, one-time codes, full card numbers or security answers."
+          "text": "Write down who to contact, not passwords, PINs, one-time codes, full card numbers or security answers."
         },
         {
           "type": "checkin"
@@ -265,7 +240,7 @@
         {
           "type": "takeaway",
           "text": "Urgency is the signal to slow down, not speed up.",
-          "detail": "Pause incoming requests, verify through a separate trusted channel, protect accounts quickly and report facts without shame. A rehearsed routine works better than perfect confidence."
+          "detail": "Pause on incoming requests, check through a separate trusted channel, protect accounts quickly and report the facts without shame. A rehearsed routine works better than perfect confidence."
         }
       ]
     },
@@ -279,27 +254,27 @@
           "items": [
             {
               "title": "Phishing",
-              "text": "Fraudulent digital contact designed to obtain information, money or access."
+              "text": "A fake message or site meant to trick you into giving up information, money or access."
             },
             {
               "title": "Spoofing",
-              "text": "Falsifying displayed caller, sender or website information to appear trusted."
+              "text": "Faking the caller, sender or website details you see, to look trustworthy."
             },
             {
               "title": "Social engineering",
-              "text": "Manipulating people through emotion, trust or pressure rather than only technical attack."
+              "text": "Tricking people through emotion, trust or pressure, not just through technical attacks."
             },
             {
               "title": "One-time passcode",
-              "text": "Temporary code used to confirm access or a transaction. Do not share it with an unsolicited contact."
+              "text": "A temporary code used to confirm access or a payment. Do not share it with anyone who contacts you out of the blue."
             },
             {
               "title": "Recovery scam",
-              "text": "A follow-up fraud promising to recover losses, often for an upfront payment."
+              "text": "A follow-up fraud that promises to get your money back, often for an upfront fee."
             },
             {
               "title": "MFA",
-              "text": "Multi-factor authentication requiring more than one type of proof to access an account."
+              "text": "Multi-factor authentication: more than one type of proof is needed to open an account."
             }
           ]
         }
@@ -316,17 +291,23 @@
   },
   "checkIn": {
     "questions": [
-      "Our no-pressure rule for incoming payment or credential requests is:",
-      "The trusted phone numbers or bookmarked sites for our financial providers are:",
-      "Our two people for a pause-and-check conversation are:",
-      "The red flags that will trigger an automatic stop are:",
-      "The accounts that need unique passwords and stronger MFA are:",
-      "The evidence we will preserve and the safe location for it are:",
-      "Our bank, police, CAFC, credit-bureau and identity-document response routes are:",
-      "Our 10-minute drill date and the account-security review we will complete are:"
+      "What is your household’s rule for any request for money, codes or passwords that comes in by call, text or email?",
+      "Where will you keep the trusted phone numbers or bookmarked sites for your bank and cards?",
+      "Which two people will you call for a quick pause-and-check, and what red flags will make you stop?",
+      "Which accounts need a unique password and stronger MFA? Start with email and banking.",
+      "If you were scammed, what would you save as evidence, and who would you contact first?",
+      "When will you hold a 10-minute scam drill with your household?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand no money, code, card or credential should leave during an unverified incoming contact."
+    "acknowledgment": "I understand no money, code, card or credential should leave during an unverified incoming contact.",
+    "samples": [
+      "We pay or share nothing during an incoming call. We hang up and call back.",
+      "In my phone contacts as “Bank (real)” and in a bookmarked folder.",
+      "My sister and my neighbour. Rush, secrecy, gift cards or codes.",
+      "Email, bank, credit card and phone account.",
+      "Texts, call times and receipts in a folder. Bank first, then the CAFC.",
+      "Sunday the 12th after supper."
+    ]
   },
   "sources": []
 }

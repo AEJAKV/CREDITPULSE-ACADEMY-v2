@@ -109,17 +109,33 @@ The first section of the lesson (`start`), **directly after the first `spotlight
 
 ### Writing the taglines
 
+The text on each slide is a **tagline that carries a lesson from the course**. It is not a caption. **Never describe what the picture shows** (no "A woman reviewing statements with a calculator"). The photo supports the line. The line has to stand on its own.
+
 - One sentence each, **12 words or fewer**, so it fits at 28px on a phone.
 - Write it at a grade-8 level, the same voice as the lesson. Plain, calm, no hype, no score promises.
-- **Slide 1 = the problem or moment** (what the person is facing). **Slide 2 = the action or outcome** (what the course teaches them to do).
-- Describe what the image shows, tied to the course method. For example: notice arrives → don't pay yet; papers → one recovery file.
+- **Slide 1 = the problem or the moment** (the thing the learner is facing, or the mistake the course corrects). **Slide 2 = the action or the principle** (what the course teaches them to do).
+- Pull the idea from the lesson itself: its spotlight, its formula or its method. Reusing a short phrase from the lesson text is good ("The monthly fee is only the front door").
+- Don't start with "A man…", "A woman…" or "The person…", and don't name objects in the photo.
 - End with a full stop.
+
+| Lesson | Slide 1 (problem) | Slide 2 (action) |
+| --- | --- | --- |
+| money-02 Managing Money Between Paydays | A balanced month can still run short on a Tuesday. | Map every date, and payday stops being a guessing game. |
+| money-03 Emergency Funds | Sort the surprise before you reach for the fund. | Build it in layers and keep it within reach. |
+| money-04 Canadian Bank Accounts and Fees | The monthly fee is only the front door. | Read the statements, count the habits, price the real cost. |
+| credit-11 | A collection notice arrives. Read it, but don't pay yet. | Every letter, call and receipt goes into one recovery file. |
 
 ### How it looks
 
 - Deep green panel (`#113d37`), 18px radius, at least 245px tall, with the tagline in large light text on the left.
 - The photo fills the **right two-thirds**, in grayscale and screen-blended at about 60% opacity, fading out to the left.
-- On phones the photo moves to the bottom 58% and fades upward.
+- On phones the photo moves to the bottom 58% and fades upward. (Credit Mastery and other courses.)
+- **Money & Budgeting on phones (760px or narrower):** a different layout, scoped with `.lesson-article[data-course='money-budgeting']` in `app/premium.css` (the `data-course` attribute is set in the lesson `page.tsx`).
+  - The photo fills the whole panel (at least 440px tall) at the same 62% grayscale screen blend as desktop, anchored to the top (`object-position: 50% 0`) so the face stays in the upper half.
+  - The tagline sits at the bottom of the panel with at least 150px above it, so it can't ride up onto the face.
+  - A mask fades the photo out from 40% down to nothing at 72% of the panel height. That fade also hides any caption baked into the bottom of the picture.
+  - Desktop is unchanged.
+  - **Picking images for this layout:** keep the face in the top half of the square photo, and leave the lower third for the tagline (a table, hands or floor is fine). Check both slides on a phone before moving on.
 - Controls below show previous and next arrows, "Image 1 of 2" and dots.
 
 **Pick images where the subject sits right of centre.** The left third fades away behind the text. Because the photo is grayscale, its colours don't matter, but contrast and a clear subject do.
@@ -195,6 +211,7 @@ Adding `image` switches the story to the **photo story** layout. Without it, the
 - [ ] `heroImages` entry added in `page.tsx`, in lesson order
 - [ ] `image` added to the `story` block, and the story is about 200 words
 - [ ] Lesson JSON still parses: `node -e "JSON.parse(require('fs').readFileSync('content/<id>-lesson.json','utf8'))"`
+- [ ] Money & Budgeting only: on a phone, the face is fully visible on both carousel slides and the tagline sits clear of it
 - [ ] Viewed on localhost:3000 (CREDIT-PULSE-ACADEMY-v2; port 3001 is the separate course-delivery app)
 
 ### Editing the lesson JSON safely

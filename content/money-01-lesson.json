@@ -82,14 +82,6 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "CASE FILE — SETUP: ELENA’S $380 LEFTOVER"
-        },
-        {
-          "type": "paragraph",
-          "text": "Elena lives in Moncton. Her banking app says she has about $380 left over each month once the obvious bills are paid, so she decides that must be her savings amount. The number feels encouraging. It has not yet met November."
-        },
-        {
           "type": "transition",
           "text": "Build it from evidence and the year stops ambushing you.",
           "detail": "You will learn how to turn the costs you can already see coming into a monthly amount, before one of them lands on a credit card.",
@@ -107,49 +99,54 @@
           "text": "This made-up $5,200 household balances exactly. The amounts are not the point. The point is that every category has a job and a question to answer."
         },
         {
-          "type": "cards",
+          "type": "ledger",
           "items": [
             {
               "title": "Net household income",
-              "text": "$5,200 — Income — Is this reliable money after payroll deductions?"
+              "amount": "$5,200",
+              "detail": "Income",
+              "text": "Is this reliable money after payroll deductions?"
             },
             {
               "title": "Housing and utilities",
-              "text": "$2,250 — Fixed/essential — What changes by season or billing cycle?"
+              "amount": "$2,250",
+              "detail": "Fixed/essential",
+              "text": "What changes by season or billing cycle?"
             },
             {
               "title": "Food and transportation",
-              "text": "$1,150 — Variable/essential — What do recent statements show?"
+              "amount": "$1,150",
+              "detail": "Variable/essential",
+              "text": "What do recent statements show?"
             },
             {
               "title": "Debt minimums",
-              "text": "$450 — Required — Are every amount and due date captured?"
+              "amount": "$450",
+              "detail": "Required",
+              "text": "Are every amount and due date captured?"
             },
             {
               "title": "Savings and sinking funds",
-              "text": "$650 — Protective/future — Which future costs does this prepare for?"
+              "amount": "$650",
+              "detail": "Protective/future",
+              "text": "Which future costs does this prepare for?"
             },
             {
               "title": "Flexible spending",
-              "text": "$550 — Discretionary — What limit protects the rest of the plan?"
+              "amount": "$550",
+              "detail": "Discretionary",
+              "text": "What limit protects the rest of the plan?"
             },
             {
               "title": "Monthly margin",
-              "text": "$150 — Buffer — Where will it go if the month ends calmly?"
+              "amount": "$150",
+              "detail": "Buffer",
+              "text": "Where will it go if the month ends calmly?"
             }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "HEARING RESULT"
-        },
-        {
-          "type": "paragraph",
-          "text": "$5,200 income minus $5,200 planned jobs equals $0 unassigned."
-        },
-        {
-          "type": "paragraph",
-          "text": "The $150 margin is not missing. It has a job of its own, which is breathing room."
+          ],
+          "detail": "HEARING RESULT",
+          "text": "$5,200 income minus $5,200 planned jobs equals $0 unassigned.",
+          "extra": "The $150 margin is not missing. It has a job of its own, which is breathing room."
         },
         {
           "type": "myths",
@@ -163,22 +160,6 @@
         {
           "type": "spotlight",
           "text": "A balanced budget can include a planned buffer. Giving every dollar a job does not require pretending that price changes, timing errors and ordinary mistakes have been banned from the province."
-        },
-        {
-          "type": "heading",
-          "text": "CASE FILE — CONFLICT: NOVEMBER OBJECTS"
-        },
-        {
-          "type": "paragraph",
-          "text": "Eight weeks ahead, Elena finds three costs her plan never mentioned: a $1,440 insurance premium, $600 of holiday spending, and a $900 tire replacement due every three years or so. Her grocery figure is $140 under what her own statements show. The cheerful $380 is now being cross-examined."
-        },
-        {
-          "type": "heading",
-          "text": "CASE FILE — PRESSURE: THE EASY ANSWER IS CREDIT"
-        },
-        {
-          "type": "paragraph",
-          "text": "Leave the plan alone and the premium lands on a card, exactly as it did last year. She can call it an emergency, but the renewal date has been on the calendar since January."
         }
       ]
     },
@@ -257,6 +238,32 @@
           "text": "Annual or predictable cost / months available = planned monthly transfer."
         },
         {
+          "type": "conversion",
+          "text": "Convert an annual cost",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter any annual or predictable cost and the months available. Watch the planned monthly transfer update.",
+          "items": [
+            {
+              "title": "Annual insurance",
+              "text": "",
+              "amount": "1440",
+              "detail": "12"
+            },
+            {
+              "title": "Annual gifts",
+              "text": "",
+              "amount": "600",
+              "detail": "12"
+            },
+            {
+              "title": "Tire replacement",
+              "text": "",
+              "amount": "900",
+              "detail": "36"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "If the bill lands sooner than the full planning period, divide by the months you have left. If there is not enough time, the first year may need a temporary adjustment, and the long-term monthly amount starts once the immediate cost is dealt with."
         },
@@ -264,14 +271,6 @@
           "type": "source",
           "text": "FCAC: Setting up an emergency fund",
           "url": "https://www.canada.ca/en/financial-consumer-agency/services/savings-investments/setting-up-emergency-funds.html"
-        },
-        {
-          "type": "heading",
-          "text": "CASE FILE — EVIDENCE REVIEW: THE MISSING $185"
-        },
-        {
-          "type": "paragraph",
-          "text": "Elena adds $195 a month for the irregular costs and $140 for honest groceries. Her $150 margin absorbs part of it, leaving her $185 short. She trims flexible spending, switches a mobile plan and eases one extra debt payment, while protecting every required minimum."
         }
       ]
     },
@@ -286,11 +285,11 @@
           "detail": "CASE FILE: ELENA’S $380 LEFTOVER",
           "extra": "",
           "paragraphs": [
-            "Setup. Elena lives in Moncton. Every year something she did not plan for lands on a credit card, and every year she promises herself that next year will be different. Her banking app says she usually has about $380 left after the obvious monthly bills, so she decides that must be her savings amount. The number feels encouraging. It has also not yet met November.",
-            "Conflict: November objects. Elena looks at the next eight weeks and finds three costs missing from her plan: a $1,440 annual insurance premium, $600 of holiday and gift spending, and a $900 tire replacement due about every three years. Her grocery estimate is also $140 below what the last 90 days of statements show. The cheerful $380 leftover is now being cross-examined.",
-            "Pressure: the easy answer is credit. Leave the plan alone and that premium lands on a card, exactly as it did last year. She can call it an emergency, but the renewal date has been sitting on the calendar since January. The real question is not whether she deserves the expense. It is whether her budget will admit to it before it arrives.",
-            "Evidence review: the missing $185. Elena adds $195 a month for the three irregular costs, then replaces the grocery guess with the real average, which adds another $140. Her original $150 margin absorbs part of that, leaving her $185 short. She cuts flexible spending by $110, moves an underused mobile plan to save $35, and lowers an extra debt payment by $40, while protecting every required minimum. The plan balances again, and nobody had to invent cheaper groceries.",
-            "Verdict: revision, not conviction. Elena’s final budget is less flattering and far more useful. It names the annual premium, honest groceries, the tire replacement and a smaller flexible-spending amount. November still costs money. It just no longer arrives disguised as a personal failing. Elena did not fail the plan. The first draft failed to include the evidence.",
+            "Elena lives in Moncton. Every year something she did not plan for lands on a credit card, and every year she promises herself that next year will be different. Her banking app says she has about $380 left after the obvious bills, so she decides that must be her savings amount. The number feels encouraging. It has also not yet met November.",
+            "Then she looks at the next eight weeks and finds three costs missing from her plan: a $1,440 insurance premium, $600 of holiday and gift spending, and a $900 tire replacement due about every three years. Her grocery guess is also $140 below what 90 days of statements show. The cheerful $380 is now being cross-examined.",
+            "The easy answer is credit. Leave the plan alone and the premium lands on a card, exactly as it did last year. She can call it an emergency, but the renewal date has been sitting on the calendar since January.",
+            "So Elena adds $195 a month for the irregular costs and $140 for honest groceries. Her $150 margin absorbs part of it, leaving her $185 short. She cuts flexible spending by $110, moves an underused mobile plan to save $35 and lowers an extra debt payment by $40, protecting every required minimum. The plan balances again, and nobody had to invent cheaper groceries.",
+            "Her final budget is less flattering and far more useful. November still costs money. It just no longer arrives disguised as a personal failing. Elena did not fail the plan. The first draft failed to include the evidence.",
             "February. The insurance premium came out on the renewal date. It came out of the sinking fund."
           ],
           "image": "/images/money-budgeting/01-starter/money-01/money01-image-7.webp"
@@ -362,29 +361,25 @@
           "items": [
             {
               "title": "AB and BC",
-              "text": "Use your real housing, utility, insurance and transport costs, rather than forcing them into a national average."
+              "text": "Use your real housing, utility, insurance and transport costs, rather than forcing them into a national average.",
+              "icon": "mountain"
             },
             {
               "title": "NB and PEI",
-              "text": "Build in the real seasonal heating and income patterns, rather than treating winter or seasonal work as a surprise."
+              "text": "Build in the real seasonal heating and income patterns, rather than treating winter or seasonal work as a surprise.",
+              "icon": "snowflake"
             },
             {
               "title": "ON",
-              "text": "Put your real housing and commuting costs down first, then decide what the other categories can carry."
+              "text": "Put your real housing and commuting costs down first, then decide what the other categories can carry.",
+              "icon": "building"
             },
             {
               "title": "NL",
-              "text": "Turn heavy rural driving and heating patterns into a monthly amount you set aside."
+              "text": "Turn heavy rural driving and heating patterns into a monthly amount you set aside.",
+              "icon": "waves"
             }
           ]
-        },
-        {
-          "type": "heading",
-          "text": "CASE FILE — VERDICT: REVISION, NOT CONVICTION"
-        },
-        {
-          "type": "paragraph",
-          "text": "Elena’s final budget is less flattering and far more useful. November still costs money. It just no longer arrives disguised as a personal failing."
         }
       ]
     },
@@ -565,17 +560,23 @@
   },
   "checkIn": {
     "questions": [
-      "NET INCOME. What take-home pay reaches the household in a typical month? If it varies, write down the cautious figure you will plan with.",
-      "LAYER 1. Add up housing, utilities, food, transport, insurance, medication and minimum debt payments.",
-      "VARIABLE EVIDENCE. After 60 to 90 days of statements, which category was furthest from what you remembered?",
-      "IRREGULAR COSTS. Name three annual or seasonal costs, and work out the monthly amount for each.",
-      "LAYER 2. How much goes to emergency savings, sinking funds, planned debt reduction or another future goal?",
-      "LAYER 3 — What realistic flexible-spending amount will make the plan livable without crowding out essentials?",
-      "LAYER 4 — What monthly margin or buffer will you leave, and what happens to it if unused?",
-      "VERDICT — Does the plan show a margin, break even or show a shortfall? Name one decision and one review date."
+      "What take-home pay reaches your household in a typical month? If it changes, use the lower amount.",
+      "What do your must-pay costs add up to each month? Think housing, utilities, food, transport, insurance and minimum debt payments.",
+      "Pick one yearly or seasonal cost. What is its monthly amount?",
+      "How much will you set aside for savings, and how much will you keep for flexible spending?",
+      "After all that, is there money left over, is it exactly even, or are you short?",
+      "What is one change you will make, and what date will you review your budget?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice.",
+    "samples": [
+      "About $3,800. My pay changes a little, so I will plan with $3,600.",
+      "Rent $1,400 + utilities $200 + food $600 + transport $300 + minimum payments $150 = about $2,650.",
+      "Car insurance is $1,200 a year. $1,200 ÷ 12 = $100 a month.",
+      "$300 for savings and sinking funds, and $250 for flexible spending.",
+      "I have about $200 left over, so my plan has a margin.",
+      "I will lower my takeout budget by $50. I will review on the 1st of next month."
+    ]
   },
   "sources": []
 }

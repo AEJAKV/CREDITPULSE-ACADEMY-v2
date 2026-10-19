@@ -1,6 +1,6 @@
 {
   "title": "Buying Versus Leasing",
-  "summary": "Needs → Quotes → Five-Year Cost → End Position → Decide",
+  "summary": "Compare buying, financing and leasing over the same five years, then decide with the end position in view.",
   "subtitle": "Choose the contract that fits the driver, not the payment that photographs well",
   "minutes": 45,
   "published": true,
@@ -16,43 +16,18 @@
         },
         {
           "type": "paragraph",
-          "text": "This masterclass compares cash purchase, financing, leasing and a possible lease buyout across the same time horizon. You will look beyond the monthly payment to the negotiated price, borrowing cost, kilometres, insurance and maintenance. You will also weigh return obligations and what you own or owe at the end. There is no universal winner. The useful answer depends on the driver, the contract and the evidence in the written quote."
+          "text": "This lesson compares paying cash, financing, leasing and a possible lease buyout over the same stretch of time. You will look beyond the monthly payment to the negotiated price, borrowing cost, kilometres, insurance and maintenance. You will also weigh what you must do when the lease ends and what you own or owe at the end. There is no universal winner. The useful answer depends on the driver, the contract and the written quote."
         },
         {
           "type": "spotlight",
           "text": "FCAC tells car shoppers to compare total cost, not only the payment or interest rate. A smaller payment can just mean a longer loan or a different end position."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Explain what cash purchase, financing, leasing and lease buyout each provide.",
-              "text": ""
-            },
-            {
-              "title": "Compare options over one common time horizon and include the end position.",
-              "text": ""
-            },
-            {
-              "title": "Identify loan risks such as long terms, depreciation and negative equity.",
-              "text": ""
-            },
-            {
-              "title": "Identify lease risks such as kilometre limits, wear charges and early-exit costs.",
-              "text": ""
-            },
-            {
-              "title": "Complete a Five-Year Mobility Decision Board using written quotes.",
-              "text": ""
-            }
-          ]
-        },
-        {
           "type": "myths",
           "items": [
             {
               "title": "“Leasing is always cheaper because the monthly payment is lower.”",
-              "text": "A lease payment buys use for a set term, not automatic ownership. Compare the same number of years and include amounts due at signing, taxes, fees, kilometres, wear, buyout or return costs and the vehicle’s end value."
+              "text": "A lease payment buys use for a set term, not automatic ownership. Compare the same number of years and include amounts due at signing, taxes, fees, kilometres, wear, buyout or return costs and what the vehicle is worth at the end."
             }
           ]
         },
@@ -71,7 +46,7 @@
       "blocks": [
         {
           "type": "spotlight",
-          "text": "The dealer does not have to show the lowest available interest rate. FCAC recommends getting quotes from multiple dealers and lenders and comparing rate, fees, amount financed, schedule and term."
+          "text": "The dealer does not have to show the lowest available interest rate. FCAC recommends getting quotes from more than one dealer and lender and comparing rate, fees, amount financed, payment schedule and term."
         },
         {
           "type": "heading",
@@ -98,28 +73,28 @@
             },
             {
               "title": "05",
-              "text": "Taxes, administration, acquisition, disposition and optional-product fees."
+              "text": "Taxes, admin fees, acquisition and disposition fees, and optional products."
             },
             {
               "title": "06",
-              "text": "Lease kilometre allowance, excess charge, wear standard and early-exit formula."
+              "text": "Lease kilometre limit, excess-kilometre charge, wear rules and how an early exit is priced."
             },
             {
               "title": "07",
-              "text": "Expected resale value and loan balance, or contractual lease buyout, at the comparison date."
+              "text": "What the vehicle is likely worth and what you still owe, or the lease buyout price, at the comparison date."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "FCAC describes 72 months or more as a long-term car loan. A longer term may lower the payment while increasing interest and the time spent at risk of owing more than the vehicle is worth."
+          "text": "FCAC describes 72 months or more as a long-term car loan. A longer term may lower the payment while raising interest and the time you may owe more than the vehicle is worth."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Buying is always smarter because ownership automatically creates value.”",
-              "text": "Ownership can fit a long holding period, but the vehicle still depreciates and requires insurance, maintenance and repairs. Buying only works when the price, loan and vehicle fit the household."
+              "text": "Ownership can suit a long holding period, but the vehicle still loses value and needs insurance, maintenance and repairs. Buying only works when the price, the loan and the vehicle fit the household."
             }
           ]
         },
@@ -132,25 +107,25 @@
     },
     {
       "id": "story",
-      "title": "Maya, Liam and the Identical-SUV Problem",
+      "title": "Zoe, Liam and the Identical-SUV Problem",
       "paragraphs": [],
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Maya and Liam",
+          "text": "Meet Zoe and Liam",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Cousins Maya Singh and Liam O’Connor visited an Edmonton dealership on the same Saturday. Both liked the same compact SUV. Maya drove about 12,000 kilometres a year to an office and expected to change vehicles after four years. Liam ran a renovation business, drove closer to 32,000 kilometres and planned to keep his next vehicle until it developed strong opinions about winter.",
-            "The salesperson presented one lease with a lower monthly payment and one seven-year loan with a slightly higher payment. The conflict arrived when both cousins treated the lower number as the better decision. Maya had not asked about the kilometre allowance or wear standard. Liam had not noticed that the loan would outlast the period covered by the current repair budget. The monthly payment had entered the conversation wearing a tiny cape and was attempting to save everyone from arithmetic.",
-            "They paused and built separate Five-Year Mobility Decision Boards. Maya requested the lease disclosure, annual kilometre allowance, excess charge, amount due at signing, disposition terms and buyout. She added insurance and a reserve for possible return costs. Liam requested written quotes from the dealer and his credit union, removed optional products he did not need and compared a shorter loan on a less expensive model. Each board used five years and showed what remained at the end.",
-            "The board changed both decisions. Maya’s predictable kilometres and short ownership horizon made the lease workable only after she selected an allowance that matched her actual driving and kept a return reserve. Liam rejected the seven-year loan and chose a lower-priced used vehicle with a shorter finance term, no kilometre limit and room in the budget for repairs. They did not choose the same contract because they were not the same driver.",
-            "Before signing, each checked the disclosure, deposit terms, insurance price and provincial dealer guidance. Five years later, Maya returned her vehicle within the agreed conditions. Liam owned his and continued using it for work. The story did not prove leasing or buying was superior. It proved that a contract becomes clearer when kilometres, time and the ending are allowed into the room."
+            "Cousins Zoe Singh and Liam O’Connor visit an Edmonton dealership on the same Saturday. Both like the same compact SUV. Zoe drives about 12,000 kilometres a year to an office. She expects to change vehicles after four years. Liam runs a renovation business and drives closer to 32,000 kilometres. He plans to keep his next vehicle until it develops strong opinions about winter.",
+            "The salesperson offers a lease with a low monthly payment and a seven-year loan with a slightly higher one. Both cousins reach for the lower number. Zoe has not asked about the kilometre limit. Liam has not noticed that the loan will outlast his repair budget. The monthly payment has walked in wearing a tiny cape, ready to save everyone from arithmetic.",
+            "Then they stop and build separate Five-Year Mobility Decision Boards. Zoe asks for the lease disclosure, the yearly kilometre limit, the excess charge, the amount due at signing and the buyout price. She adds insurance and a reserve for return costs. Liam gets written quotes from the dealer and his credit union. He cuts the extras he does not need and prices a shorter loan on a cheaper model.",
+            "The boards surprise them both. Zoe’s lease only works with a kilometre limit that matches her real driving, so she picks one and sets aside a return reserve. Liam’s surprise is bigger. The seven-year loan fails his test, and so does the new model. He chooses a cheaper used vehicle with a shorter loan, no kilometre limit and room in the budget for repairs.",
+            "Before signing, each checks the disclosure, the deposit terms, the insurance price and the provincial dealer rules. Five years later, Zoe returns her vehicle within the agreed conditions. Liam still owns his and still uses it for work. Neither contract won. They were not the same driver, so they did not pick the same contract. Once kilometres, time and the ending got a seat at the table, the choice was clear."
           ]
         },
         {
           "type": "spotlight",
-          "text": "The same lease can suit a low-kilometre driver and punish a high-kilometre driver. Product labels do not decide fit; behaviour and contract terms do."
+          "text": "The same lease can suit a low-kilometre driver and punish a high-kilometre one. Labels do not decide fit. Your habits and the contract terms do."
         },
         {
           "type": "heading",
@@ -158,11 +133,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Maya and Liam compared written quotes over the same five years, priced the risks each driver created and recorded the end position before choosing."
+          "text": "Zoe and Liam compared written quotes over the same five years, priced the risks each driver created and recorded the end position before choosing."
         },
         {
           "type": "transition",
-          "text": "Maya and Liam left the same dealership with two different contracts, on purpose.",
+          "text": "Zoe and Liam left the same dealership with two different contracts, on purpose.",
           "detail": "Pausing to build a five-year board instead of comparing payments is what let two different drivers find two different right answers.",
           "extra": "Run the studio yourself next, before you sign anything."
         }
@@ -178,19 +153,19 @@
           "items": [
             {
               "title": "Define the job",
-              "text": "Record annual kilometres, passengers, cargo, winter use, work use and likely ownership period. A contract cannot fit needs that were never written down."
+              "text": "Record yearly kilometres, passengers, cargo, winter use, work use and how long you will keep it. A contract cannot fit needs that were never written down."
             },
             {
               "title": "Separate price from payment",
-              "text": "Negotiate or compare the vehicle price before allowing term length, trade-in or optional products to blur the total."
+              "text": "Negotiate or compare the vehicle price before term length, a trade-in or optional products blur the total."
             },
             {
               "title": "Match the time horizon",
-              "text": "Use the same number of months for every option. Add all cash paid and subtract any realistic end value; do not compare a three-year lease with five years of ownership and declare victory."
+              "text": "Use the same number of months for every option. Add all cash paid and subtract a realistic end value. Do not compare a three-year lease with five years of ownership and declare victory."
             },
             {
               "title": "Stress-test the exit",
-              "text": "Ask what happens after job loss, relocation, excess kilometres, major wear, an insurance write-off, early payout or negative equity."
+              "text": "Ask what happens after job loss, a move, extra kilometres, heavy wear, an insurance write-off, early payout or negative equity."
             },
             {
               "title": "Verify before signing",
@@ -200,18 +175,18 @@
         },
         {
           "type": "spotlight",
-          "text": "Most provinces and territories require lease-cost and obligation disclosure. Vehicle sales, deposits, dealer conduct and cancellation rights remain provincial or territorial matters."
+          "text": "Most provinces and territories require lease-cost disclosure. Vehicle sales, deposits, dealer conduct and cancellation rights are set by each province or territory."
         },
         {
           "type": "spotlight",
-          "text": "A proper five-year comparison ends with a position: vehicle owned, loan balance remaining, lease returned, return charges due or buyout available. ‘Payment finished’ is not a complete ending."
+          "text": "A proper five-year comparison ends with a position: vehicle owned, loan balance left, lease returned, return charges due or buyout available. ‘Payment finished’ is not a full ending."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“I can sign today and cancel tomorrow if I change my mind.”",
-              "text": "In most provinces and territories, car loan and lease agreements do not have a general cooling-off period. Verify deposit and cancellation terms before signing or paying."
+              "text": "In most provinces and territories, car loan and lease agreements do not have a general cooling-off period. Check deposit and cancellation terms before signing or paying."
             }
           ]
         }
@@ -227,7 +202,7 @@
           "items": [
             {
               "title": "Why must buying and leasing be compared over the same time horizon?",
-              "detail": "So all cash paid and the end position are compared fairly.",
+              "detail": "Then all cash paid and the end position are compared fairly.",
               "text": ""
             },
             {
@@ -242,12 +217,12 @@
             },
             {
               "title": "Why request financing quotes from more than one source?",
-              "detail": "The dealer need not present the lowest rate; multiple written quotes expose differences in rate, fees, term and total cost.",
+              "detail": "The dealer need not show you the lowest rate. Several written quotes reveal differences in rate, fees, term and total cost.",
               "text": ""
             },
             {
               "title": "What should be verified before paying a deposit or signing?",
-              "detail": "The disclosure, cancellation and deposit terms, insurance cost, contract obligations and applicable provincial or territorial rules.",
+              "detail": "The disclosure, the cancellation and deposit terms, the insurance cost, what the contract requires and your province’s or territory’s rules.",
               "text": ""
             }
           ]
@@ -261,14 +236,14 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use written quotes and partial references only. Mark estimates clearly, keep the original disclosures, and never record banking passwords or full account numbers here."
+          "text": "Use written quotes and short references only. Mark estimates clearly, keep the original disclosures and never record banking passwords or full account numbers here."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "The strongest vehicle decision is explainable in one sentence: this option fits my kilometres, time horizon, total cost, risk capacity and preferred end position."
+          "text": "The strongest vehicle decision fits in one sentence: this option fits my kilometres, how long I will keep it, the total cost, the risk I can carry and how I want it to end."
         },
         {
           "type": "takeaway",
@@ -295,19 +270,19 @@
             },
             {
               "title": "Lease buyout",
-              "text": "The contractual amount and process for purchasing the leased vehicle, subject to the agreement."
+              "text": "The price and steps for buying the leased vehicle, as set out in the agreement."
             },
             {
               "title": "Residual or end value",
-              "text": "An estimated or contractual vehicle value at the end of a period."
+              "text": "What a vehicle is expected, or contractually set, to be worth at the end of a period."
             },
             {
               "title": "Disclosure statement",
-              "text": "A document showing key borrowing or lease costs and obligations before the agreement is finalized."
+              "text": "A document showing key borrowing or lease costs and duties before you finalize the agreement."
             },
             {
               "title": "Cooling-off period",
-              "text": "A legal period allowing certain contracts to be cancelled. It generally does not apply to car loans or leases in most Canadian jurisdictions."
+              "text": "A legal period when you can cancel certain contracts. It generally does not apply to car loans or leases in most of Canada."
             }
           ]
         }
@@ -324,17 +299,23 @@
   },
   "checkIn": {
     "questions": [
-      "My vehicle job, annual kilometres, cargo, winter and work-use needs are:",
-      "My realistic ownership or replacement horizon is:",
-      "The cash, finance and lease quotes I will compare on the same date are:",
-      "The seven numbers for each quote, including all fees and total payments, are:",
-      "My five-year insurance, fuel, maintenance, repair and reserve estimates are:",
-      "My year-five vehicle value and loan balance, or lease return and buyout position, are:",
-      "The kilometre, wear, negative-equity, write-off and early-exit risks I must test are:",
-      "My decision, evidence, provincial-rule check and no-pressure deadline are:"
+      "What will the vehicle do for you? Write your yearly kilometres and any cargo, winter or work needs.",
+      "How long will you realistically keep it?",
+      "Which quotes will you compare on the same date: cash, loan or lease? For each, write the price, the rate, the term and the total of all payments.",
+      "What will it cost to run for five years? Estimate insurance, fuel, maintenance and a repair reserve.",
+      "Where will you stand in year five? Write what the vehicle is worth and what you owe, or the lease return and buyout position.",
+      "What is your decision, and which risk did you test: kilometres, wear, negative equity or early exit? Add your no-pressure deadline."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information and contract terms must be verified."
+    "acknowledgment": "I understand this is educational information and contract terms must be verified.",
+    "samples": [
+      "About 15,000 km a year, commuting and winter driving.",
+      "About five years.",
+      "Loan: $30,000 at 6.9% for 60 months, about $35,500 total. Lease: $430 × 60 = $25,800 plus $2,000 down.",
+      "About $5,000 a year, so $25,000 over five years.",
+      "Worth about $14,000, loan balance $0. Or return the lease and owe nothing extra.",
+      "Loan on a used model. I tested negative equity. I will decide by Friday."
+    ]
   },
   "sources": []
 }

@@ -32,6 +32,21 @@
           "text": "Both strategies keep required payments going on every debt and put the extra on one target. The tournament changes the target order, not the payment floor."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Two good plans can still leave you stuck on a pile.",
+              "text": "Two good plans can still leave you stuck on a pile.",
+              "image": "/images/money-budgeting/03-gold/money-09/money09-image-1.webp"
+            },
+            {
+              "title": "Price the trade-off, pick one order and keep it moving.",
+              "text": "Price the trade-off, pick one order and keep it moving.",
+              "image": "/images/money-budgeting/03-gold/money-09/money09-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "Meet the Two Contenders"
         },
@@ -40,15 +55,18 @@
           "items": [
             {
               "title": "LAYER 1 — SNOWBALL — SMALLEST BALANCE FIRST",
-              "text": "List debts from the smallest balance to the largest. Pay the required amount on every account and send the extra to the smallest. When it is paid off, roll its old payment into the next target. The early win can boost your motivation."
+              "text": "List debts from the smallest balance to the largest. Pay the required amount on every account and send the extra to the smallest. When it is paid off, roll its old payment into the next target. The early win can boost your motivation.",
+              "icon": "piggy"
             },
             {
               "title": "LAYER 2 — AVALANCHE — HIGHEST RATE FIRST",
-              "text": "List debts from the highest interest rate to the lowest. Pay the required amount on every account and send the extra to the highest rate. Roll the paid-off payment forward. This method usually cuts interest and can shorten repayment."
+              "text": "List debts from the highest interest rate to the lowest. Pay the required amount on every account and send the extra to the highest rate. Roll the paid-off payment forward. This method usually cuts interest and can shorten repayment.",
+              "icon": "zap"
             },
             {
               "title": "LAYER 3 — ENTRY RULE",
-              "text": "Deal with urgent past-due, essential, secured, collection or legal risks before you run the tournament. Course 2.8’s triage order still applies."
+              "text": "Deal with urgent past-due, essential, secured, collection or legal risks before you run the tournament. Course 2.8’s triage order still applies.",
+              "icon": "alert"
             }
           ]
         },
@@ -79,19 +97,23 @@
           "items": [
             {
               "title": "RETAIL CARD",
-              "text": "$900 at 29.99% — Model payment: $35 — Smallest balance and highest rate"
+              "text": "$900 at 29.99% — Model payment: $35 — Smallest balance and highest rate",
+              "icon": "basket"
             },
             {
               "title": "FAMILY LOAN",
-              "text": "$1,500 at 0% — Agreed payment: $50 — Second-smallest balance and lowest rate"
+              "text": "$1,500 at 0% — Agreed payment: $50 — Second-smallest balance and lowest rate",
+              "icon": "heart"
             },
             {
               "title": "CREDIT CARD",
-              "text": "$3,400 at 24.99% — Model payment: $105 — Second-highest rate"
+              "text": "$3,400 at 24.99% — Model payment: $105 — Second-highest rate",
+              "icon": "wallet"
             },
             {
               "title": "LINE OF CREDIT",
-              "text": "$8,000 at 11.50% — Model payment: $120 — Largest balance"
+              "text": "$8,000 at 11.50% — Model payment: $120 — Largest balance",
+              "icon": "bank"
             }
           ]
         },
@@ -108,11 +130,13 @@
           "items": [
             {
               "title": "Snowball order",
-              "text": "$900 retail card → $1,500 family loan → $3,400 credit card → $8,000 line of credit"
+              "text": "$900 retail card → $1,500 family loan → $3,400 credit card → $8,000 line of credit",
+              "icon": "piggy"
             },
             {
               "title": "Avalanche order",
-              "text": "29.99% retail card → 24.99% credit card → 11.50% line of credit → 0% family loan"
+              "text": "29.99% retail card → 24.99% credit card → 11.50% line of credit → 0% family loan",
+              "icon": "zap"
             }
           ]
         },
@@ -135,12 +159,14 @@
           "detail": "DEVON ENTERS THE REPAYMENT TOURNAMENT",
           "extra": "",
           "paragraphs": [
-            "Devon lives in Charlottetown and has four debts plus $250 a month beyond required payments. The goal is to finish them all, and this time to see it through. A past plan said only “pay more,” then disappeared after six weeks like a houseplant left with an optimist. Devon wants a written order, a roll-forward rule and a scoreboard.",
-            "The first round is easy. Both strategies go after the $900 retail card first, because it is the smallest balance and the highest rate. Then the plan forks. Snowball points to the 0% family loan. Avalanche points to the 24.99% credit card.",
-            "One route offers a faster second celebration. The other stops the more expensive interest meter. Devon remembers why the last plan died: progress felt invisible. The family loan is current and its $50 payment continues either way, so urgency can’t break the tie. The choice has to be honest about habits.",
-            "Devon runs the numbers on both routes. Snowball costs about $293 more in interest and finishes one month later. In return, the second debt clears five months earlier. That turns a vague feeling into a price tag: interest savings on one side, the risk of quitting a slow-looking plan on the other.",
-            "Devon chooses snowball and writes down the $293 as a motivation premium. The retail card clears in model month four and the family loan in month eight. Its old $50 payment rolls forward automatically. Devon will review after the second win, and any switch to avalanche must be calculated and written down, not improvised between coffee and a notification. This plan, unlike the houseplant, comes with a watering schedule."
-          ]
+            "Devon lives in Charlottetown and has four debts plus $250 a month beyond required payments. The last plan said only “pay more,” then disappeared after six weeks like a houseplant left with an optimist. This time Devon wants a written order, a roll-forward rule and a scoreboard.",
+            "The first round is easy. Both strategies go after the $900 retail card, because it is the smallest balance and the highest rate. Then the plan forks. Snowball points to the 0% family loan. Avalanche points to the 24.99% credit card.",
+            "Avalanche looks smart on paper. But Devon remembers why the last plan died: progress felt invisible. The family loan is current and its $50 payment continues either way, so urgency can’t break the tie. The choice has to be honest about habits.",
+            "Devon runs the numbers on both routes. Snowball costs about $293 more in interest and finishes one month later. In return, the second debt clears five months earlier. The vague feeling now has a price tag.",
+            "Devon chooses snowball and writes down the $293 as a motivation premium. The retail card clears in model month four and the family loan in month eight, and its old $50 rolls forward automatically.",
+            "Any switch to avalanche must be calculated and written down, not improvised between coffee and a notification. This plan, unlike the houseplant, comes with a watering schedule."
+          ],
+          "image": "/images/money-budgeting/03-gold/money-09/money09-image-3.webp"
         },
         {
           "type": "transition",
@@ -164,11 +190,13 @@
           "items": [
             {
               "title": "SNOWBALL SCOREBOARD",
-              "text": "Retail card clears in month 4; family loan in month 8; credit card in month 16; line of credit in month 30. — Modelled interest: about $2,490 — Modelled finish: 30 months"
+              "text": "Retail card clears in month 4; family loan in month 8; credit card in month 16; line of credit in month 30. — Modelled interest: about $2,490 — Modelled finish: 30 months",
+              "icon": "piggy"
             },
             {
               "title": "AVALANCHE SCOREBOARD",
-              "text": "Retail card clears in month 4; credit card in month 13; line of credit and family loan in month 29. — Modelled interest: about $2,197 — Modelled finish: 29 months"
+              "text": "Retail card clears in month 4; credit card in month 13; line of credit and family loan in month 29. — Modelled interest: about $2,197 — Modelled finish: 29 months",
+              "icon": "zap"
             }
           ]
         },
@@ -183,6 +211,20 @@
         {
           "type": "paragraph",
           "text": "Snowball delivers the second cleared balance in month 8, five months before avalanche’s second win in month 13."
+        },
+        {
+          "type": "payoff",
+          "text": "Run your own tournament",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter up to four debts and the extra amount you can add each month. Watch both routes run on the same budget.",
+          "items": [
+            {
+              "title": "Devon’s four debts",
+              "text": "",
+              "amount": "250",
+              "detail": "Retail card:900:29.99:35,Family loan:1500:0:50,Credit card:3400:24.99:105,Line of credit:8000:11.5:120"
+            }
+          ]
         },
         {
           "type": "heading",
@@ -230,15 +272,24 @@
           "items": [
             {
               "title": "CHOOSE AVALANCHE WHEN",
-              "text": "Interest savings matter most, and you can track progress without closing accounts. Your household is likely to follow a highest-rate order every month."
+              "text": "Interest savings matter most, and you can track progress without closing accounts. Your household is likely to follow a highest-rate order every month.",
+              "detail": "OPTION 1",
+              "icon": "zap",
+              "image": "/images/money-budgeting/03-gold/money-09/money09-image-4.webp"
             },
             {
               "title": "CHOOSE SNOWBALL WHEN",
-              "text": "Early payoffs clearly help you stick with the plan, and you understand the extra projected cost. Smaller wins keep the plan from being dropped."
+              "text": "Early payoffs clearly help you stick with the plan, and you understand the extra projected cost. Smaller wins keep the plan from being dropped.",
+              "detail": "OPTION 2",
+              "icon": "piggy",
+              "image": "/images/money-budgeting/03-gold/money-09/money09-image-5.webp"
             },
             {
               "title": "USE A DOCUMENTED SWITCH WHEN",
-              "text": "The original strategy isn’t surviving real life, or a rate, balance, status or household condition has changed. Recalculate first. Don’t switch because a different statement looked dramatic that morning."
+              "text": "The original strategy isn’t surviving real life, or a rate, balance, status or household condition has changed. Recalculate first. Don’t switch because a different statement looked dramatic that morning.",
+              "detail": "OPTION 3",
+              "icon": "route",
+              "image": "/images/money-budgeting/03-gold/money-09/money09-image-6.webp"
             }
           ]
         }
@@ -396,10 +447,6 @@
         {
           "type": "spotlight",
           "text": "Don’t pick the strategy that wins an argument online. Pick the one whose trade-off you understand, whose payments are protected and whose roll-forward rule reaches the final balance."
-        },
-        {
-          "type": "paragraph",
-          "text": "SOURCE REVIEW DATE: 11 August 2026. Recheck rates, balances, agreements and official guidance before publication or use."
         }
       ]
     },
@@ -466,17 +513,19 @@
   },
   "checkIn": {
     "questions": [
-      "ENTRY LIST — Record each balance, current annual rate, required payment, due date and status. Are all urgent risks under control?",
-      "PAYMENT BUDGET — Add required payments and the reliable extra amount. What total monthly debt budget will remain fixed?",
-      "SNOWBALL BRACKET — Order debts from smallest to largest balance. Record the first target and projected first two wins.",
-      "AVALANCHE BRACKET — Order debts from highest to lowest rate. Record the first target and projected first two wins.",
-      "COST GAP — Using identical assumptions, record each route’s projected interest and finish date. What is the difference?",
-      "FAILURE-RISK CHECK — Which risk is larger: paying extra interest or abandoning a slow-looking plan? Give evidence from past behaviour.",
-      "ROLL-FORWARD RULE — When the first target clears, what exact former payment moves to which next target and on what date?",
-      "VERDICT — Choose snowball, avalanche or a documented staged switch. State the trade-off, automation step, success measure and review date."
+      "List each debt with its balance, yearly rate and required payment. Mark any that are past due. An estimate is fine.",
+      "How much extra can you add each month after required payments? Use the lower amount if it changes.",
+      "Which debt is the first target for snowball, and which for avalanche? Which route costs less interest?",
+      "Which route will you pick? Name the payment that rolls forward and a date to review."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice.",
+    "samples": [
+      "Card A $900 at 19.99%, $30. Card B $2,400 at 26.99%, $72. Line of credit $3,200 at 9.5%, $75. None past due.",
+      "$150 a month. I will use $120 if overtime stops.",
+      "Snowball: card A. Avalanche: card B. Avalanche saves about $140.",
+      "Snowball. Card A’s $30 rolls to card B. Review on the 1st of next month."
+    ]
   },
   "sources": []
 }

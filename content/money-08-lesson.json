@@ -32,6 +32,21 @@
           "text": "The highest interest rate usually deserves the extra payment. An urgent housing, utility, secured-payment or legal problem may still need fixing first."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "When interest takes the first bite, payments lose strength.",
+              "text": "When interest takes the first bite, payments lose strength.",
+              "image": "/images/money-budgeting/02-silver/money-08/money08-image-1.webp"
+            },
+            {
+              "title": "Triage is not panic. Choose which fire gets water first.",
+              "text": "Triage is not panic. Choose which fire gets water first.",
+              "image": "/images/money-budgeting/02-silver/money-08/money08-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "The Three-Part Triage Map"
         },
@@ -40,15 +55,18 @@
           "items": [
             {
               "title": "LAYER 1 — DANGER",
-              "text": "Spot past-due essentials, secured debts, collection or legal notices, and any account about to lose service, be repossessed or face another serious result. Check the deadline and call the creditor soon."
+              "text": "Spot past-due essentials, secured debts, collection or legal notices, and any account about to lose service, be repossessed or face another serious result. Check the deadline and call the creditor soon.",
+              "icon": "alert"
             },
             {
               "title": "LAYER 2 — DAMAGE",
-              "text": "Keep paying the required minimum or agreed amount on every account you can. A missed payment can bring fees, higher rates, collection calls or damage to your credit report."
+              "text": "Keep paying the required minimum or agreed amount on every account you can. A missed payment can bring fees, higher rates, collection calls or damage to your credit report.",
+              "icon": "shield"
             },
             {
               "title": "LAYER 3 — DRAIN",
-              "text": "Once urgent accounts and required payments are covered, send extra money to the high-interest target you have checked. Stop adding new purchases to it while you pay it down."
+              "text": "Once urgent accounts and required payments are covered, send extra money to the high-interest target you have checked. Stop adding new purchases to it while you pay it down.",
+              "icon": "target"
             }
           ]
         },
@@ -79,27 +97,42 @@
           "text": "The figures below are made up. Tara copies from current statements and notices, not from remembered balances, advertised rates or numbers that have been living comfortably in her imagination."
         },
         {
-          "type": "cards",
+          "type": "carousel",
           "items": [
             {
               "title": "PAST-DUE UTILITY",
-              "text": "$240 — Service-risk notice — What is the deadline, the smallest plan they will accept and the confirmation number?"
+              "text": "$240 — Service-risk notice — What is the deadline, the smallest plan they will accept and the confirmation number?",
+              "detail": "STATION 1",
+              "icon": "clock",
+              "image": "/images/money-budgeting/02-silver/money-08/money08-image-4.webp"
             },
             {
               "title": "STORE CARD",
-              "text": "$1,050 at 29.99% — Minimum: $35 — Highest rate; are new purchases and optional add-ons stopped?"
+              "text": "$1,050 at 29.99% — Minimum: $35 — Highest rate; are new purchases and optional add-ons stopped?",
+              "detail": "STATION 2",
+              "icon": "dollar",
+              "image": "/images/money-budgeting/02-silver/money-08/money08-image-5.webp"
             },
             {
               "title": "CREDIT CARD",
-              "text": "$2,800 at 22.99% — Minimum: $84 — Is the rate current, and does a penalty rate kick in after missed payments?"
+              "text": "$2,800 at 22.99% — Minimum: $84 — Is the rate current, and does a penalty rate kick in after missed payments?",
+              "detail": "STATION 3",
+              "icon": "filetext",
+              "image": "/images/money-budgeting/02-silver/money-08/money08-image-6.webp"
             },
             {
               "title": "LINE OF CREDIT",
-              "text": "$3,600 at 11.50% — Minimum: $75 — Is the rate variable, and what makes it change?"
+              "text": "$3,600 at 11.50% — Minimum: $75 — Is the rate variable, and what makes it change?",
+              "detail": "STATION 4",
+              "icon": "bank",
+              "image": "/images/money-budgeting/02-silver/money-08/money08-image-7.webp"
             },
             {
               "title": "CAR LOAN",
-              "text": "$7,900 at 7.49% — Payment: $310 — Is the account current, secured and essential for work?"
+              "text": "$7,900 at 7.49% — Payment: $310 — Is the account current, secured and essential for work?",
+              "detail": "STATION 5",
+              "icon": "lock",
+              "image": "/images/money-budgeting/02-silver/money-08/money08-image-8.webp"
             }
           ]
         },
@@ -143,12 +176,12 @@
           "detail": "TARA’S FIVE-BALANCE WAITING ROOM",
           "extra": "",
           "paragraphs": [
-            "Tara lives in Edmonton. She has five debts, one past-due utility notice and $225 a month left after essentials and required payments. Her goal is simple: stop feeding interest and keep the lights on while she does it. The store card is waving a 29.99% rate like it has diplomatic immunity.",
+            "Tara lives in Edmonton. She has five debts, one past-due utility notice and $225 a month left after essentials and required payments. The store card is waving a 29.99% rate like it has diplomatic immunity.",
             "Then the utility’s final notice arrives: pay $240 before the deadline or lose power. Every balance wants to be called first.",
             "Tara lays the five statements across the table. The $7,900 car loan is the biggest balance. The credit card makes the most interest each month, while the store card charges the highest rate. All three feel urgent.",
-            "Her first instinct is to throw the $225 at the car loan, because it dominates the page. Then she stops. The car loan is current, secured and low-rate, so it is not the emergency. A cash advance would make the whole plan look complete, but that is new high-cost borrowing to stage a photograph of progress. She drops that idea too. Instead, she calls the utility and the card issuers.",
-            "The math adds a twist. The credit card costs about $53.64 a month in interest. The store card costs about $26.24. The bigger bill has the lower rate. Tara weighs it. Each dollar on the store card saves more than a dollar on the credit card. After she protects the utility plan and every required payment, she picks the store card as her target and schedules the extra payment for payday.",
-            "Over 90 days, Tara makes every required payment. She finishes the $240 utility plan and sends $435 of planned extra money to the store card, on top of its regular payments. She makes no new purchases on it and keeps every written confirmation. The exact balance depends on posted interest and payment timing, but the system works, and no new debt has slipped in wearing a fake moustache. The store card’s diplomatic immunity has been revoked."
+            "Her first instinct is to throw the $225 at the car loan, because it dominates the page. Then she stops. It is current, secured and low-rate, so it is not the emergency. A cash advance would make the whole plan look complete, but that is new high-cost borrowing to stage a photograph of progress. She drops that idea too and calls the utility and the card issuers.",
+            "The math adds a twist. The credit card costs about $53.64 a month in interest. The store card costs about $26.24. The bigger bill has the lower rate. Each dollar on the store card saves more than a dollar on the credit card. After she protects the utility plan and every required payment, she picks the store card as her target.",
+            "Over 90 days, Tara makes every required payment, finishes the $240 utility plan and sends $435 of planned extra money to the store card. She makes no new purchases on it and keeps every written confirmation. No new debt has slipped in wearing a fake moustache. The store card’s diplomatic immunity has been revoked."
           ],
           "image": "/images/money-budgeting/02-silver/money-08/money08-image-3.webp"
         },
@@ -170,23 +203,28 @@
           "items": [
             {
               "title": "LAYER 1 — VERIFY",
-              "text": "Write down the creditor, balance, yearly rate or APR, minimum, due date, status, whether it is secured, and any notice or special penalty. Mark what you don’t know for a call to the creditor."
+              "text": "Write down the creditor, balance, yearly rate or APR, minimum, due date, status, whether it is secured, and any notice or special penalty. Mark what you don’t know for a call to the creditor.",
+              "icon": "receipt"
             },
             {
               "title": "LAYER 2 — STABILIZE",
-              "text": "Protect housing, utilities and other essentials. Deal with past-due and secured accounts. Get payment plans in writing when you can."
+              "text": "Protect housing, utilities and other essentials. Deal with past-due and secured accounts. Get payment plans in writing when you can.",
+              "icon": "home"
             },
             {
               "title": "LAYER 3 — HOLD THE LINE",
-              "text": "Make the required payments you can afford, pause new charges, remove saved card details and stop optional repeat charges from hitting the target account."
+              "text": "Make the required payments you can afford, pause new charges, remove saved card details and stop optional repeat charges from hitting the target account.",
+              "icon": "lifebuoy"
             },
             {
               "title": "LAYER 4 — TARGET",
-              "text": "Send every planned extra dollar to one high-interest balance. Make it automatic or tied to payday when you can, but keep enough cash for essentials."
+              "text": "Send every planned extra dollar to one high-interest balance. Make it automatic or tied to payday when you can, but keep enough cash for essentials.",
+              "icon": "target"
             },
             {
               "title": "LAYER 5 — ROLL FORWARD",
-              "text": "When the target is paid off, move its old required payment plus the extra amount to the next target. Check rates and account status each month."
+              "text": "When the target is paid off, move its old required payment plus the extra amount to the next target. Check rates and account status each month.",
+              "icon": "route"
             }
           ]
         }
@@ -206,19 +244,35 @@
           "text": "Statements may work out interest daily, use average daily balances, compound differently, or include purchases and fees. Use your statement for the real charge."
         },
         {
+          "type": "interestscan",
+          "text": "Scan your own debts",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter each balance and its yearly rate. Watch the estimated monthly interest update.",
+          "items": [
+            {
+              "title": "Tara’s three debts",
+              "text": "",
+              "detail": "Store card:1050:29.99,Credit card:2800:22.99,Line of credit:3600:11.5"
+            }
+          ]
+        },
+        {
           "type": "cards",
           "items": [
             {
               "title": "STORE CARD",
-              "text": "$1,050 × 29.99% ÷ 12 ≈ $26.24 — An estimate for one month, before new activity and payment timing."
+              "text": "$1,050 × 29.99% ÷ 12 ≈ $26.24 — An estimate for one month, before new activity and payment timing.",
+              "icon": "basket"
             },
             {
               "title": "CREDIT CARD",
-              "text": "$2,800 × 22.99% ÷ 12 ≈ $53.64 — Its lower rate still costs more dollars because the balance is bigger."
+              "text": "$2,800 × 22.99% ÷ 12 ≈ $53.64 — Its lower rate still costs more dollars because the balance is bigger.",
+              "icon": "wallet"
             },
             {
               "title": "LINE OF CREDIT",
-              "text": "$3,600 × 11.50% ÷ 12 = $34.50 — Check the current variable rate before you trust the estimate."
+              "text": "$3,600 × 11.50% ÷ 12 = $34.50 — Check the current variable rate before you trust the estimate.",
+              "icon": "bank"
             }
           ]
         },
@@ -357,21 +411,6 @@
           "text": "A debt-management plan is not the same as a consumer proposal or bankruptcy. Ask who regulates the provider, which creditors have to agree and what happens to debts outside the plan."
         },
         {
-          "type": "artwork",
-          "items": [
-            {
-              "title": "A man hangs a colour-coded warning tag on a hook: When interest takes the first bite, every payment has less strength left for the real balance.",
-              "text": "A man hangs a colour-coded warning tag on a hook: When interest takes the first bite, every payment has less strength left for the real balance.",
-              "image": "/images/money-budgeting/02-silver/money-08/money08-image-1.webp"
-            },
-            {
-              "title": "A woman uses a card at a night mailbox kiosk: Debt triage is not panic. It is choosing which fire gets water first.",
-              "text": "A woman uses a card at a night mailbox kiosk: Debt triage is not panic. It is choosing which fire gets water first.",
-              "image": "/images/money-budgeting/02-silver/money-08/money08-image-2.webp"
-            }
-          ]
-        },
-        {
           "type": "source",
           "text": "FCAC: Getting help from a credit counsellor",
           "url": "https://www.canada.ca/en/financial-consumer-agency/services/debt/debt-help.html"
@@ -434,7 +473,7 @@
         },
         {
           "type": "paragraph",
-          "text": "SOURCE REVIEW DATE: 11 August 2026. Recheck rates, rules, provider credentials and provincial contacts before publication or use."
+          "text": "SOURCE REVIEW DATE: 11 August 2026. Recheck rates, rules, provider credentials and provincial contacts before you rely on this lesson."
         }
       ]
     },
@@ -501,17 +540,23 @@
   },
   "checkIn": {
     "questions": [
-      "DEBT ROSTER — List each creditor, current balance, rate or APR, required payment, due date, account status and secured or unsecured type.",
-      "DANGER SCREEN — Which account has a past-due essential, secured-asset, collection, legal or other urgent consequence? Record the deadline and contact step.",
-      "PAYMENT FLOOR — Add all required payments plus any written arrangements. Does the amount fit after housing, food, utilities, transportation and other essentials?",
-      "INTEREST SCAN — Estimate balance × annual rate ÷ 12 for each revolving debt. Then record the actual statement interest for comparison.",
-      "TARGET — After urgent items and required payments, which verified high-interest debt receives the extra amount? Why does it rank first?",
-      "30-DAY ATTACK — State the exact extra payment, payday transfer date, spending blocks and one expense or income move funding the plan.",
-      "RATE-REDUCTION TEST — Record one creditor, consolidation or counselling option. Compare rate, fees, term, total repayment, collateral and refill risk.",
-      "ESCALATION LINE — What warning triggers qualified help? Name the creditor, counsellor, provincial authority or Licensed Insolvency Trustee to contact and a review date."
+      "List each debt you owe: creditor, balance, rate, required payment and due date. An estimate is fine.",
+      "Which debt has the most urgent problem, such as a past-due bill, a collection notice or a secured item? Write the deadline and who to call.",
+      "What do your required payments add up to each month? Do they fit after housing, food, utilities and transport?",
+      "For one credit card, estimate a month of interest: balance × rate ÷ 12. How does it compare with your statement?",
+      "After urgent items and required payments, which debt gets your extra money, and why?",
+      "What is your 30-day plan? Write the extra payment, the date you will send it and where the money comes from. Who will you call for help if you fall behind?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice.",
+    "samples": [
+      "Store card $900 at 26.99%, $30 due the 5th. Car loan $6,500 at 7.9%, $210 due the 20th.",
+      "My utility bill is past due. The deadline is the 15th. I will call them Monday.",
+      "$240 a month. They fit, but only just.",
+      "$900 × 26.99% ÷ 12 = about $20. My statement says $21.",
+      "The store card. It has the highest rate.",
+      "$60 extra on the 15th, from dropping two subscriptions. I would call a credit counsellor."
+    ]
   },
   "sources": []
 }

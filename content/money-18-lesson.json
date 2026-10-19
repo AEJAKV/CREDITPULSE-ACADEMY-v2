@@ -1,6 +1,6 @@
 {
   "title": "Managing Rental Costs",
-  "summary": "Advertised Rent → True Cost → Rules → Stress Test → Plan",
+  "summary": "Find the true monthly cost of a rental, check the rules, stress-test the plan and build a rent-first system.",
   "subtitle": "Turn the advertised rent into the number your bank account will meet",
   "minutes": 45,
   "published": true,
@@ -12,54 +12,29 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A rental listing may say $1,650. Your budget may later introduce utilities, internet, parking, laundry, tenant insurance and moving costs, the supporting cast nobody invited to the photo shoot."
+          "text": "A rental listing may say $1,650. Your budget may later add utilities, internet, parking, laundry, tenant insurance and moving costs, the supporting cast nobody invited to the photo shoot."
         },
         {
           "type": "paragraph",
-          "text": "This workshop separates three questions that are often tangled together: What does the home cost each month? Can the household carry that cost through a difficult month? What rules govern rent changes in the province or territory? A budgeting benchmark is not a legal right, and a legal notice does not make an increase affordable."
+          "text": "This lesson separates three questions that often get tangled together. What does the home cost each month? Can the household carry that cost through a hard month? What rules cover rent changes where you live? A budgeting benchmark is not a legal right, and a legal notice does not make an increase affordable."
         },
         {
           "type": "spotlight",
-          "text": "The useful rent number is the true monthly housing cost: base rent plus recurring services, shared costs and a monthly share of irregular housing expenses."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Build a complete monthly rental-cost picture.",
-              "text": ""
-            },
-            {
-              "title": "Use the 35% benchmark as a planning signal, not a law or pass/fail rule.",
-              "text": ""
-            },
-            {
-              "title": "Stress-test a possible rent increase and other changes.",
-              "text": ""
-            },
-            {
-              "title": "Separate roommate arrangements from landlord-tenant rights.",
-              "text": ""
-            },
-            {
-              "title": "Complete a Rent-First Plan using verified provincial information.",
-              "text": ""
-            }
-          ]
+          "text": "The useful rent number is the true monthly housing cost: base rent plus regular services, shared costs and a monthly share of irregular costs."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If I can afford the advertised rent, I can afford the apartment.”",
-              "text": "The listed rent may exclude utilities, internet, parking, insurance, laundry, storage and irregular setup or moving costs. Price the full arrangement before signing."
+              "text": "The listed rent may leave out utilities, internet, parking, insurance, laundry, storage and one-time setup or moving costs. Price the full arrangement before signing."
             }
           ]
         },
         {
           "type": "transition",
           "text": "An advertised rent and a true monthly cost are rarely the same number, and the gap has a name: everything the listing left out.",
-          "detail": "Pricing utilities, parking and irregular costs before signing is what keeps a tidy listing price from becoming a monthly surprise.",
+          "detail": "Pricing utilities, parking and odd costs before you sign keeps a tidy listing price from becoming a monthly surprise.",
           "extra": "Put every housing cost under the X-ray next, starting with the ones the listing skipped."
         }
       ]
@@ -71,7 +46,7 @@
       "blocks": [
         {
           "type": "spotlight",
-          "text": "FCAC presents rent plus household-related expenses of about 35% of gross household income as a general budgeting guideline. It is not a tenancy law, approval rule or guarantee of comfort."
+          "text": "FCAC suggests rent plus household-related costs of about 35% of gross household income as a general budgeting guideline. It is not a tenancy law, an approval rule or a promise of comfort."
         },
         {
           "type": "heading",
@@ -98,7 +73,7 @@
             },
             {
               "title": "05",
-              "text": "Divide estimated annual irregular costs by 12 so the money receives a job before the surprise arrives."
+              "text": "Divide the yearly irregular costs by 12, so the money has a job before the surprise arrives."
             }
           ]
         },
@@ -111,7 +86,7 @@
           "items": [
             {
               "title": "“The 35% guideline proves a rental is affordable.”",
-              "text": "It is only a starting signal. Net income, childcare, debt, transportation, accessibility, location and variable earnings may make a lower or higher share realistic for a particular household."
+              "text": "It is only a starting signal. Take-home pay, childcare, debt, travel costs, accessibility, location and changing earnings may make a lower or higher share right for your household."
             }
           ]
         },
@@ -133,11 +108,11 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Amara Mensah and Jules Tremblay found a two-bedroom apartment in Moncton advertised at $1,620. They liked the bus route, the sunlight and the kitchen drawer that opened without negotiating with the stove. Their plan looked simple: split the rent and move in.",
-            "The conflict appeared when Amara read the lease while Jules priced the move. Heat was included, but electricity and internet were not. Parking cost extra. The laundry machines accepted payment with the confidence of a boutique hotel. Jules also worked variable shifts, so an equal monthly split could still become a timing problem between paydays.",
-            "They built a Rental Cost X-Ray. They added every recurring cost, divided estimated annual expenses by 12 and requested written answers about included services. They checked New Brunswick’s current rent-increase information rather than relying on a neighbour’s cousin, who was extremely certain and magnificently unsourced. Their private roommate agreement recorded the split, due dates, shared purchases, notice if one person planned to leave and a backup plan if a transfer was late.",
-            "Their first total was higher than the listing but still workable after they removed a parking stall they did not need. Each payday, they transferred a share of next month’s housing cost into a separate rent-first account. They also kept a small housing buffer and saved photos, receipts, the lease and their condition report.",
-            "Six months later, Jules lost two shifts in one pay period. The buffer covered the timing gap, the rent was paid in full and their roommate agreement guided repayment without turning the kitchen into a courtroom. The apartment had never been unaffordable; the advertised number had just been incomplete. Their conclusion was practical: inspect the total, verify the rules and plan the timing before the keys arrive."
+            "Amara Mensah and Jules Tremblay find a two-bedroom apartment in Moncton advertised at $1,620. They like the bus route, the sunlight and the kitchen drawer that opens without negotiating with the stove. Their plan looks simple: split the rent and move in.",
+            "Then Amara reads the lease while Jules prices the move. Heat is included, but electricity and internet are not. Parking costs extra. The laundry machines accept payment with the confidence of a boutique hotel. Jules also works variable shifts, so an equal monthly split could still cause a timing problem between paydays.",
+            "The landlord says other couples want the place, so they should sign today. Amara wants to sign. Jules asks to wait one day. They build a Rental Cost X-Ray. They add every recurring cost, divide the yearly extras by 12 and ask for written answers about what is included. They check New Brunswick’s current rent-increase rules instead of trusting a neighbour’s cousin, who is extremely certain and magnificently unsourced.",
+            "Their roommate agreement records the split, the due dates and shared purchases. It also covers notice if one person leaves and a backup plan for a late transfer. Their first total is higher than the listing but still workable after they drop a parking stall they don’t need. Each payday, they move a share of next month’s housing cost into a separate rent-first account. They keep a small housing buffer. They also save photos, receipts, the lease and their condition report.",
+            "Six months later, Jules loses two shifts in one pay period. The buffer covers the gap. The rent is paid in full, and their roommate agreement guides the repayment without turning the kitchen into a courtroom. The apartment was never unaffordable. The advertised number was just incomplete. Look at the total, check the rules and plan the timing before the keys arrive."
           ]
         },
         {
@@ -150,7 +125,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Amara and Jules converted an attractive listing into a verified monthly total. They matched transfers to their pay schedules and separated their private sharing plan from the landlord-tenant relationship."
+          "text": "Amara and Jules turned an attractive listing into a checked monthly total. They matched transfers to their pay schedules and kept their private sharing plan apart from the landlord-tenant relationship."
         },
         {
           "type": "transition",
@@ -170,11 +145,11 @@
           "items": [
             {
               "title": "Fund the next due date first",
-              "text": "Transfer a fixed amount from each payday into a separate housing bucket. If income varies, use a conservative income floor and top up in stronger weeks."
+              "text": "Transfer a fixed amount from each payday into a separate housing bucket. If income varies, use a cautious income floor and top up in stronger weeks."
             },
             {
               "title": "Stress-test change",
-              "text": "Calculate the monthly and annual effect of an increase, utility spike, roommate departure or parking change. Decide what would be reduced, renegotiated or replaced."
+              "text": "Work out the monthly and yearly effect of an increase, a utility spike, a roommate leaving or a parking change. Decide what you would cut, renegotiate or replace."
             },
             {
               "title": "Keep the paper trail",
@@ -182,13 +157,13 @@
             },
             {
               "title": "Verify the legal layer",
-              "text": "Rent-increase timing, notice, caps, exemptions and forms vary by province or territory and can change. Check the current government or tenancy authority before acting."
+              "text": "Rent-increase timing, notice, caps, exemptions and forms vary by province or territory and can change. Check with the government or tenancy board before acting."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "The 2026 rules are not one Canadian rule. British Columbia lists a 2.3% residential limit, Ontario a 2.1% guideline with exemptions, while Alberta generally regulates timing and notice rather than setting a general cap."
+          "text": "The 2026 rules are not one rule for all of Canada. British Columbia lists a 2.3% limit for residential rent. Ontario has a 2.1% guideline with exemptions. Alberta generally regulates timing and notice instead of setting a general cap."
         },
         {
           "type": "spotlight",
@@ -199,7 +174,7 @@
           "items": [
             {
               "title": "“My landlord mentioned an increase, so the new amount must automatically be valid.”",
-              "text": "A valid increase may require minimum timing, written notice, a prescribed form, an applicable limit or another condition. Verify the current rules and tenancy facts; get provincial guidance or legal help when needed."
+              "text": "A valid increase may need minimum timing, written notice, a set form, a limit or another condition. Check the current rules and your tenancy facts, and get provincial guidance or legal help if needed."
             }
           ]
         }
@@ -219,13 +194,13 @@
               "text": ""
             },
             {
-              "title": "What does the 35% benchmark tell you—and what does it not tell you?",
-              "detail": "It is a general planning signal based on gross income, not a law, approval rule or guarantee of household comfort.",
+              "title": "What does the 35% benchmark tell you, and what does it not?",
+              "detail": "It is a general planning signal based on gross income. It is not a law, an approval rule or a promise of comfort.",
               "text": ""
             },
             {
               "title": "What is a 3% increase on $1,650 per month?",
-              "detail": "$49.50 monthly, making rent $1,699.50; the annual increase is $594.",
+              "detail": "$49.50 a month, so rent becomes $1,699.50. Over a year that is $594.",
               "text": ""
             },
             {
@@ -249,19 +224,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use estimates while shopping and verified numbers before signing. Do not record banking passwords, account numbers or identity documents here."
+          "text": "Use estimates while shopping and checked numbers before signing. Do not record banking passwords, account numbers or ID documents here."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "A strong rental plan contains four labels: true cost, next due date, legal verification and backup plan. The rent should not need to compete in a monthly reality show."
+          "text": "A strong rental plan has four labels: true cost, next due date, a legal check and a backup plan. The rent should not have to compete in a monthly reality show."
         },
         {
           "type": "takeaway",
           "text": "Budget for the home you will live in, not the number in the listing.",
-          "detail": "Build the true monthly cost, fund the next due date first, verify local tenancy rules and keep a buffer and written backup plan for change."
+          "detail": "Build the true monthly cost, fund the next due date first, check local tenancy rules and keep a buffer and a written backup plan for change."
         }
       ]
     },
@@ -279,7 +254,7 @@
             },
             {
               "title": "True monthly housing cost",
-              "text": "Base rent plus recurring and monthly allocated irregular housing expenses."
+              "text": "Base rent plus recurring costs and a monthly share of irregular housing costs."
             },
             {
               "title": "Fixed-term tenancy",
@@ -291,7 +266,7 @@
             },
             {
               "title": "Rent-increase notice",
-              "text": "Formal notice that must meet the applicable timing, content and delivery rules."
+              "text": "A formal notice that must follow the timing, content and delivery rules that apply."
             },
             {
               "title": "Condition report",
@@ -312,17 +287,23 @@
   },
   "checkIn": {
     "questions": [
-      "My base rent, due date, lease term and payment method are:",
-      "The utilities and services included—and the ones I must pay—are:",
-      "My recurring monthly costs for internet, insurance, parking, laundry, storage and access are:",
-      "My irregular annual housing costs divided by 12 are:",
-      "My true monthly housing total and its percentage of gross household income are:",
-      "My rent-increase, utility-spike and roommate-change stress tests show:",
-      "The current provincial or territorial rules, forms and contacts I verified are:",
-      "My rent-first transfers, buffer target, roommate plan and next review date are:"
+      "What is the base rent, when is it due, and how long is the lease?",
+      "Which utilities and services does the rent include, and which will you pay yourself?",
+      "What do your monthly extras cost, such as internet, insurance, parking, laundry or storage? Add yearly costs divided by 12.",
+      "What is your true monthly housing total, and what share of your gross household income is it?",
+      "Test one change: a rent increase, a utility spike or a roommate leaving. What would it cost, and what would you cut?",
+      "What is your rent-first plan? Write your payday transfer, your buffer goal, the provincial rules you checked and your review date."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand budgeting guidance is not tenancy law and current local rules must be verified."
+    "acknowledgment": "I understand budgeting guidance is not tenancy law and current local rules must be verified.",
+    "samples": [
+      "$1,600, due on the 1st, 12-month lease.",
+      "Heat and water are included. I pay electricity and internet.",
+      "Internet $70, insurance $20, laundry $15, plus $30 a month for yearly costs.",
+      "$1,600 + $135 + $120 utilities = $1,855. That is 33% of $5,600.",
+      "A 3% increase adds $48 a month, or $576 a year. I would cut dining out.",
+      "$400 each payday, $1,500 buffer. I checked NB rent rules. Review on the 1st."
+    ]
   },
   "sources": []
 }

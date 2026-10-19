@@ -2,7 +2,7 @@
 
 Status of the course-treatment skill across courses. "Treated" means both motivator banners are present (the only automatically checkable marker); reading level, story, voice and action-form passes are not verified here.
 
-Last audited: 2026-10-15. Re-audit: `for f in components/*Course*.jsx; do grep -q '<Motivator' "$f" || echo "$f"; done`
+Last audited: 2026-10-18 (money-budgeting v2 table added; v1 component lists last audited 2026-10-15). Re-audit: `for f in components/*Course*.jsx; do grep -q '<Motivator' "$f" || echo "$f"; done`
 
 When a course is treated, move it from Untreated to Treated and add the before/after readability scores.
 
@@ -154,5 +154,34 @@ Banners (`transition` blocks) were already present on all 20 credit-mastery less
 | credit-18 | Preparing for an Auto Loan | done 2026-10-15 | 8.88 → 6.48 | 10.05 → 5.95 |
 | credit-19 | Credit Building for Newcomers | done 2026-10-15 | 10.59 → 8.25 | 11.58 → 6.68 |
 | credit-20 | Credit Building After Divorce | done 2026-10-15 | 11.50 → 8.20 | 9.50 → 5.81 |
+
+## v2 money-budgeting rollout (`content/money-NN-lesson.json`)
+
+Audited 2026-10-18 with `node scripts/readability.js money-NN --tells`. All 20 lessons carry both banners. Treated means the five-part pass is done: teaching grade about 8.3 or lower, a story with a real decision beat, no outcomes list, voice tells cleared, and a 6-question fill-out form with samples. Em dashes in table rows are data, not prose.
+
+| Lesson | Course | Treatment | Teaching grade | Story grade |
+|---|---|---|---|---|
+| money-01 | Building a Canadian Household Budget | done (uncommitted) | 7.52 | 6.64 |
+| money-02 | Managing Money Between Paydays | done (uncommitted) | 7.74 | 6.03 |
+| money-03 | Emergency Funds | done 2026-10-18 (uncommitted) | 9.26 → 7.93 | 7.01 → 5.64 |
+| money-04 | Canadian Bank Accounts and Fees | done 2026-10-18 (uncommitted) | 9.53 → 7.99 | 6.18 → 5.48 |
+| money-05 | Credit Unions Versus Banks | done 2026-10-18 (uncommitted) | 10.34 → 8.22 | 8.23 → 6.48 |
+| money-06 | Managing Overdraft | done 2026-10-18 (uncommitted) | 9.46 → 7.69 | 9.11 → 6.42 |
+| money-07 | Understanding Interest and APR | done 2026-10-18 (uncommitted) | 8.39 → 7.27 | 7.78 → 5.83 |
+| money-08 | Paying Down High-Interest Debt | done (verified 2026-10-18) | 7.64 | 5.84 |
+| money-09 | Snowball Versus Avalanche Debt Repayment | done (verified 2026-10-18; blocks and images applied 2026-10-19) | 7.36 | 6.58 |
+| money-10 | Managing Variable Income | done (verified 2026-10-18) | 8.28 | 6.38 |
+| money-11 | Managing Finances as a Couple | done 2026-10-18 (uncommitted) | 8.50 → 8.14 | 6.68 → 6.49 |
+| money-12 | Financial Planning for Single Parents | done 2026-10-18 (uncommitted) | 8.65 → 8.31 | 7.25 → 6.60 |
+| money-13 | Avoiding Predatory Financial Products | done 2026-10-18 (uncommitted) | 10.01 → 8.27 | 8.85 → 6.71 |
+| money-14 | Financing Major Purchases | done 2026-10-18 (uncommitted) | 9.69 → 8.33 | 7.78 → 6.17 |
+| money-15 | The 30-Day Financial Reset | done 2026-10-18 (uncommitted) | 8.71 → 8.04 | 8.39 → 6.21 |
+| money-16 | Buying Versus Leasing | done 2026-10-18 (uncommitted) | 9.68 → 8.29 | 9.29 → 6.38 |
+| money-17 | Saving for a Home | done 2026-10-18 (uncommitted) | 10.19 → 8.12 | 10.70 → 6.43 |
+| money-18 | Managing Rental Costs | done 2026-10-18 (uncommitted) | 9.81 → 8.35 | 8.92 → 6.79 |
+| money-19 | Insurance Basics | done 2026-10-18 (uncommitted) | 9.39 → 8.24 | 9.64 → 6.77 |
+| money-20 | Financial Fraud and Scams | done 2026-10-18 (uncommitted) | 9.19 → 7.78 | 8.37 → 6.47 |
+
+Tally: 20 done, 0 not treated. Grades for money-01, 02, 08, 09 and 10 are current values only; the rest show before → after. Fill-out forms for money-08, 09 and 10 were shortened to 6 questions with sample answers on 2026-10-18 (they had been missed in the first audit). Lessons 16 to 20 also had their outcomes-list (chips) block removed.
 
 **v2 standard:** the "By the end, you will be able to" / "What you will leave with" outcomes list is removed from the start section of every credit lesson (decided 2026-10-15). Other `lists` blocks that carry teaching content stay.

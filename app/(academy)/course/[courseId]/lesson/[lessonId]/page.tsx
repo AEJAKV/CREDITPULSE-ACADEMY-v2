@@ -41,6 +41,12 @@ const heroImages: Record<string, string> = {
   'money-06': '/images/money-budgeting/02-silver/money-06/hero-image.webp',
   'money-07': '/images/money-budgeting/02-silver/money-07/hero-image.webp',
   'money-08': '/images/money-budgeting/02-silver/money-08/hero-image.webp',
+  'money-09': '/images/money-budgeting/03-gold/money-09/hero-image.webp',
+  'money-10': '/images/money-budgeting/03-gold/money-10/hero-image.webp',
+  'money-11': '/images/money-budgeting/03-gold/money-11/hero-image.webp',
+  'money-12': '/images/money-budgeting/04-platinum/money-12/hero-image.webp',
+  'money-13': '/images/money-budgeting/04-platinum/money-13/hero-image.webp',
+  'money-14': '/images/money-budgeting/04-platinum/money-14/hero-image.webp',
   'benefits-01': '/images/benefits-support/01-starter/benefits-01/hero-image.webp',
   'income-11': '/images/income-business/03-gold/income-11/hero-image.webp',
   'income-12': '/images/income-business/04-platinum/income-12/hero-image.webp',
@@ -137,7 +143,7 @@ export default async function LessonPage({
       </div>
       <div className="lesson-layout">
         <ReaderTools sections={content.sections.map((s) => ({ id: s.id, title: s.title }))} />
-        <article className="lesson-article">
+        <article className="lesson-article" data-course={course.id}>
           <header className="lesson-header premium-lesson-hero">
             {heroImages[lesson.id] && (
               <span

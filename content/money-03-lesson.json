@@ -20,7 +20,7 @@
         },
         {
           "type": "paragraph",
-          "text": "This lesson works like emergency triage. You will decide which expenses belong and build your target in manageable layers. Then you will pick a safe, easy-to-reach home for the money and create a rebuild plan for the day the fund does exactly what it was hired to do."
+          "text": "This lesson works like emergency triage. You will decide which expenses belong and build your target in small layers. Then you will pick a safe, easy-to-reach home for the money and make a rebuild plan for the day the fund does exactly what it was hired to do."
         },
         {
           "type": "source",
@@ -44,19 +44,23 @@
           "items": [
             {
               "title": "SUDDEN",
-              "text": "Could the expense reasonably have been known or scheduled earlier?"
+              "text": "Could you have known about this cost, or planned for it, earlier?",
+              "icon": "zap"
             },
             {
               "title": "NECESSARY",
-              "text": "Does it protect health, housing, income or a basic household function?"
+              "text": "Does it protect your health, your home, your income or a basic need?",
+              "icon": "lifebuoy"
             },
             {
               "title": "UNPLANNED",
-              "text": "Was it outside the regular budget and any existing sinking fund?"
+              "text": "Was it missing from your budget and your sinking funds?",
+              "icon": "alert"
             },
             {
               "title": "TIME-SENSITIVE",
-              "text": "Would delay cause serious harm, a larger cost or loss of essential access?"
+              "text": "Would waiting cause serious harm, a bigger cost or loss of something you need?",
+              "icon": "timer"
             }
           ]
         },
@@ -65,7 +69,7 @@
           "items": [
             {
               "title": "“Anything that feels surprising is an emergency.”",
-              "text": "Feelings are useful alarms, but they are not the whole way to sort an expense. A known annual fee can feel rude when it arrives; it is still predictable, and a sinking fund should be ready for it."
+              "text": "Feelings are useful alarms, but they are not a way to sort an expense. A yearly fee can feel rude when it arrives. It is still predictable, and a sinking fund should be ready for it."
             }
           ]
         },
@@ -103,15 +107,18 @@
           "items": [
             {
               "title": "EMERGENCY — Transmission failure",
-              "text": "Sudden and necessary — Ask before deciding: Is the vehicle required for work or essential travel?"
+              "text": "Sudden and necessary — Ask before deciding: Is the vehicle required for work or essential travel?",
+              "icon": "car"
             },
             {
               "title": "EMERGENCY — Urgent dental treatment",
-              "text": "Necessary and cannot wait — Ask before deciding: What portion is not covered by insurance?"
+              "text": "Necessary and cannot wait — Ask before deciding: What portion is not covered by insurance?",
+              "icon": "heart"
             },
             {
               "title": "EMERGENCY — Temporary loss of income",
-              "text": "Threatens essentials — Ask before deciding: Which essential costs must the fund carry first?"
+              "text": "Threatens essentials — Ask before deciding: Which essential costs must the fund carry first?",
+              "icon": "briefcase"
             }
           ]
         },
@@ -121,22 +128,25 @@
         },
         {
           "type": "paragraph",
-          "text": "Plan ahead when the cost is: Known, seasonal, recurring or reasonably predictable."
+          "text": "Plan ahead when the cost is: Known, seasonal, recurring or easy to predict."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "SINKING FUND — December gifts",
-              "text": "Expected yearly — Ask before deciding: How much can be set aside monthly?"
+              "text": "Expected yearly — Ask before deciding: How much can be set aside monthly?",
+              "icon": "gift"
             },
             {
               "title": "SINKING FUND — Winter tires",
-              "text": "Seasonal and predictable — Ask before deciding: What is the replacement date and target?"
+              "text": "Seasonal and predictable — Ask before deciding: What is the replacement date and target?",
+              "icon": "snowflake"
             },
             {
               "title": "SINKING FUND — Annual professional fee",
-              "text": "Known renewal — Ask before deciding: How many months remain before it is due?"
+              "text": "Known renewal — Ask before deciding: How many months remain before it is due?",
+              "icon": "calendar"
             }
           ]
         },
@@ -150,14 +160,14 @@
         },
         {
           "type": "paragraph",
-          "text": "Classification tells the household which savings tool should do the work."
+          "text": "Sorting the cost tells you which savings tool should do the work."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If a bill arrives only once a year, it is automatically unexpected.”",
-              "text": "An annual licence, insurance premium or holiday only comes around once a year, but it can still be scheduled and split into monthly sinking-fund transfers."
+              "text": "A yearly licence, insurance bill or holiday comes around only once a year, but you can still plan for it and split it into monthly sinking-fund transfers."
             }
           ]
         },
@@ -167,21 +177,21 @@
         },
         {
           "type": "story",
-          "text": "Meet Maya",
-          "detail": "MAYA’S THREE-ALARM MONTH",
+          "text": "Meet Jane",
+          "detail": "JANE’S THREE-ALARM MONTH",
           "extra": "",
           "paragraphs": [
-            "Maya lives in Fredericton and drives to early hospital shifts, so her car has exactly one job: start every morning. In January it fails at that job. A $720 alternator repair and tow bill lands the same week she remembers a $480 winter-tire replacement and a $240 annual professional fee. All three show up acting like emergencies. Maya has $900 in her emergency fund and one nervous eyebrow.",
-            "Maya runs each cost through the triage test. The alternator failure was sudden, her car is necessary for her shifts, the repair was not in the budget, and waiting would threaten her income. It passes on all four counts. The tires and the professional fee are real costs too, but she has known both dates for months. They belong in separate sinking funds, not the emergency fund.",
-            "Using $720 leaves Maya with $180, and that number looks thin next to a full tank of gas and a grocery list. For a second she considers the credit card sitting in her wallet. Paying with plastic would keep her savings total looking untouched. Maya catches herself mid-thought: a fund that looks full but cannot be used is not protecting anyone. She pays the mechanic straight out of savings instead.",
-            "She records the withdrawal, then restarts her transfer at $45 every two weeks. Sixteen deposits will rebuild the $720. She also opens two new sinking funds, $40 a month for tires and $20 a month for the professional fee, so next January does not try out for the emergency role again.",
-            "By the next payday, Maya has paid a real emergency without touching a credit card, and two costs that used to ambush her now have their own accounts. Her fund is smaller, but it did exactly what it was hired to do. Her eyebrow, for the record, has relaxed."
+            "Jane lives in Fredericton and drives to early hospital shifts, so her car has one job: start every morning. In January it fails. A $720 alternator repair and tow bill lands the same week she remembers $480 of winter tires and a $240 yearly professional fee. All three act like emergencies. Jane has $900 in her emergency fund and one nervous eyebrow.",
+            "Jane runs each cost through the four questions. The alternator failure was sudden, needed for her shifts and missing from the budget, and waiting would cost her income. It passes all four. The tires and the fee are real costs, but she has known both dates for months, so they belong in sinking funds.",
+            "Paying $720 leaves Jane with $180, which looks thin next to a tank of gas and a grocery list. She thinks about the credit card in her wallet, since plastic would keep her savings looking untouched. Then she stops herself. A fund that looks full but never gets used is not protecting anyone. She pays the mechanic from savings.",
+            "She restarts her transfer at $45 every two weeks, and sixteen deposits will rebuild the $720. She also opens two sinking funds, $40 a month for tires and $20 for the fee, so next January does not try out for the emergency role again.",
+            "By the next payday, Jane has paid a real emergency without a credit card, and two costs that used to ambush her have their own accounts. Her fund is smaller, but it did what it was hired to do. Her eyebrow, for the record, has relaxed."
           ],
           "image": "/images/money-budgeting/01-starter/money-03/money03-image-3.webp"
         },
         {
           "type": "transition",
-          "text": "Maya rebuilt a $720 emergency in sixteen paydays without opening a credit card.",
+          "text": "Jane paid a $720 emergency from savings, skipped the credit card and has a sixteen-payday plan to refill the fund.",
           "detail": "The same triage test and sinking-fund split can protect your own account the next time three bills land in one week.",
           "extra": "Section 03 turns that rebuild into a repeatable three-layer target."
         }
@@ -193,32 +203,41 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "cards",
+          "type": "carousel",
           "items": [
             {
-              "title": "LAYER 1 — STARTER SHIELD",
-              "text": "Choose a first target you can reach and repeat. $500 may be a useful example, but your amount should reflect your risks and capacity."
+              "title": "STARTER SHIELD",
+              "text": "Pick a first goal you can reach and repeat. $500 is a common example, but your number should fit your risks and your budget.",
+              "detail": "LAYER 1",
+              "image": "/images/money-budgeting/01-starter/money-03/money03-image-4.webp",
+              "icon": "lock"
             },
             {
-              "title": "LAYER 2 — ONE MONTH OF ESSENTIALS",
-              "text": "Add only the costs needed to keep essentials running. Include housing, food, transportation, insurance, medication and minimum payments."
+              "title": "ONE MONTH OF ESSENTIALS",
+              "text": "Add only what keeps the basics running: housing, food, transportation, insurance, medication and minimum payments.",
+              "detail": "LAYER 2",
+              "image": "/images/money-budgeting/01-starter/money-03/money03-image-5.webp",
+              "icon": "list"
             },
             {
-              "title": "LAYER 3 — THREE TO SIX MONTHS OF RESILIENCE",
-              "text": "Extend the target based on income stability, household size, health, insurance, dependants and other real risks."
+              "title": "THREE TO SIX MONTHS OF RESILIENCE",
+              "text": "Stretch the goal to fit how steady your income is, how many people depend on it, your health and other real risks.",
+              "detail": "LAYER 3",
+              "image": "/images/money-budgeting/01-starter/money-03/money03-image-6.webp",
+              "icon": "clock"
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "FCAC describes three to six months of regular expenses or income as an ideal target, while also telling people to start with a realistic amount and save gradually. The ladder gives both ideas a place."
+          "text": "FCAC calls three to six months of regular expenses or income an ideal target. It also tells people to start with a realistic amount and save a little at a time. The ladder gives both ideas a place."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If I cannot save three to six months now, there is no point starting.”",
-              "text": "A smaller first layer can absorb part or all of a shock and cut the amount you need to borrow. Progress is useful before you reach the final target."
+              "text": "A smaller first layer can cover part or all of a shock and cut how much you need to borrow. Progress helps long before you reach the final target."
             }
           ]
         },
@@ -228,11 +247,11 @@
         },
         {
           "type": "paragraph",
-          "text": "This fictional household uses essential monthly costs, not every normal purchase, to build its planning range."
+          "text": "This made-up household uses only essential monthly costs, not every purchase, to set its range."
         },
         {
           "type": "paragraph",
-          "text": "Essential monthly baseline: $3,500. The amount required to keep this household’s core needs running for one month."
+          "text": "Essential monthly baseline: $3,500. This is what it takes to keep this household’s core needs running for one month."
         },
         {
           "type": "paragraph",
@@ -243,19 +262,23 @@
           "items": [
             {
               "title": "Housing and utilities",
-              "text": "$1,800 / month — Essential — 51% of essential month — Planning question: What amount must continue during an income interruption?"
+              "text": "$1,800 / month — Essential — 51% of essential month — Planning question: What must still be paid if income stops?",
+              "icon": "home"
             },
             {
               "title": "Food and household basics",
-              "text": "$650 / month — Essential — 19% of essential month — Planning question: What is the realistic reduced amount?"
+              "text": "$650 / month — Essential — 19% of essential month — Planning question: How low could this go in a tight month?",
+              "icon": "basket"
             },
             {
               "title": "Transport, insurance and medication",
-              "text": "$700 / month — Essential — 20% of essential month — Planning question: Which items protect work, health or access?"
+              "text": "$700 / month — Essential — 20% of essential month — Planning question: Which of these keep you working and healthy?",
+              "icon": "car"
             },
             {
               "title": "Required minimum payments",
-              "text": "$350 / month — Essential obligation — 10% of essential month — Planning question: What must remain current?"
+              "text": "$350 / month — Essential obligation — 10% of essential month — Planning question: Which payments must stay up to date?",
+              "icon": "receipt"
             }
           ]
         },
@@ -284,8 +307,31 @@
           "text": "(Target − current emergency savings) ÷ transfer per payday = number of deposits needed."
         },
         {
+          "type": "paydays",
+          "text": "Plan your paydays",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter your target, what you have saved so far and what you can move each payday. Watch the number of deposits update.",
+          "items": [
+            {
+              "title": "One month",
+              "text": "",
+              "amount": "3500"
+            },
+            {
+              "title": "Three months",
+              "text": "",
+              "amount": "10500"
+            },
+            {
+              "title": "Six months",
+              "text": "",
+              "amount": "21000"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
-          "text": "$45 every two weeks creates $1,170 over 26 paydays. Automation can move the money before it is invited to become something else."
+          "text": "$45 every two weeks creates $1,170 over 26 paydays. Automatic transfers can move the money before it is invited to become something else."
         },
         {
           "type": "source",
@@ -301,7 +347,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The best home is usually boring in the most helpful way. It should be easy to reach when you need it, separate from everyday spending, low or no fee, free to withdraw from without a penalty, stable in value, and earning interest where available."
+          "text": "The best home is usually boring in the most helpful way. It should be easy to reach, separate from everyday spending, low or no fee, free of withdrawal penalties, stable in value and, where possible, earning interest."
         },
         {
           "type": "carousel",
@@ -310,24 +356,28 @@
               "title": "Check access.",
               "text": "Know how quickly money can move, whether holds apply and whether weekend or holiday access differs.",
               "detail": "ACCOUNT CHECK 01 · ACCESS WINDOW",
+              "image": "/images/money-budgeting/01-starter/money-03/money03-image-7.webp",
               "icon": "calendar"
             },
             {
               "title": "Check the full fee schedule.",
               "text": "Review transfer, withdrawal, minimum-balance and transaction fees before choosing the account.",
               "detail": "ACCOUNT CHECK 02 · FEE SCAN",
+              "image": "/images/money-budgeting/01-starter/money-03/money03-image-8.webp",
               "icon": "files"
             },
             {
               "title": "Check protection.",
-              "text": "Confirm the institution, product and ownership category with the official insurer. Also check current deposit-insurance rules.",
+              "text": "Ask the official insurer to confirm your bank, your product and how the account is owned. Check the current coverage rules too.",
               "detail": "ACCOUNT CHECK 03 · DEPOSIT STATUS",
+              "image": "/images/money-budgeting/01-starter/money-03/money03-image-9.webp",
               "icon": "bank"
             },
             {
               "title": "Avoid sharp market risk.",
-              "text": "Money needed on short notice should not depend on selling an asset after its value has fallen.",
+              "text": "Money you may need fast should not depend on selling something that has lost value.",
               "detail": "ACCOUNT CHECK 04 · VALUE STABILITY",
+              "image": "/images/money-budgeting/01-starter/money-03/money03-image-10.webp",
               "icon": "search"
             }
           ]
@@ -342,25 +392,25 @@
           "items": [
             {
               "title": "“The account with the highest possible return is always the best emergency-fund home.”",
-              "text": "Return matters, but access, fees, stability and protection come first. A high quoted rate is not helpful if withdrawals are restricted, fees erase the benefit or the product can fall sharply when cash is needed."
+              "text": "Return matters, but access, fees, stability and protection come first. A high rate does not help if withdrawals are limited, fees eat the gain or the product can drop sharply when you need cash."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "CDIC automatically protects eligible deposits at member institutions. Coverage goes up to $100,000 in each insurance category, including principal and interest. Mutual funds, stocks, bonds, ETFs and cryptocurrencies are not CDIC-covered deposits."
+          "text": "CDIC automatically protects eligible deposits at member institutions. Coverage goes up to $100,000 in each insurance category, including principal and interest. Mutual funds, stocks, bonds, ETFs and cryptocurrencies are not covered by CDIC."
         },
         {
           "type": "artwork",
           "items": [
             {
-              "title": "A man organizing savings into an emergency fund.",
-              "text": "A man organizing savings into an emergency fund.",
+              "title": "Sort the surprise before you reach for the fund.",
+              "text": "Sort the surprise before you reach for the fund.",
               "image": "/images/money-budgeting/01-starter/money-03/money03-image-1.webp"
             },
             {
-              "title": "Credit Pulse emergency-fund course graphic.",
-              "text": "Credit Pulse emergency-fund course graphic.",
+              "title": "Build it in layers and keep it within reach.",
+              "text": "Build it in layers and keep it within reach.",
               "image": "/images/money-budgeting/01-starter/money-03/money03-image-2.webp"
             }
           ]
@@ -382,19 +432,23 @@
           "items": [
             {
               "title": "AB and BC",
-              "text": "Provincial credit-union systems currently guarantee 100% of eligible deposits. A federal credit union operating in BC uses CDIC instead."
+              "text": "Provincial credit-union systems currently guarantee 100% of eligible deposits. A federal credit union in BC uses CDIC instead.",
+              "icon": "mountain"
             },
             {
               "title": "NB and PEI",
-              "text": "NBCUDIC and PEI CUDIC protect eligible member deposits under provincial rules. Verify current limits and account eligibility."
+              "text": "NBCUDIC and PEI CUDIC protect eligible member deposits under provincial rules. Check the current limits and which accounts qualify.",
+              "icon": "snowflake"
             },
             {
               "title": "ON",
-              "text": "FSRA currently covers eligible non-registered credit-union deposits up to $250,000. It covers eligible registered deposits without a dollar limit."
+              "text": "FSRA currently covers up to $250,000 of eligible non-registered credit-union deposits. Eligible registered deposits have no dollar limit.",
+              "icon": "building"
             },
             {
               "title": "NL",
-              "text": "CUDGCNL is the provincial credit-union deposit guarantor. Confirm current coverage directly before choosing a product."
+              "text": "CUDGCNL guarantees credit-union deposits in the province. Confirm current coverage with them before choosing a product.",
+              "icon": "waves"
             }
           ]
         }
@@ -444,13 +498,13 @@
           "items": [
             {
               "title": "“Using the emergency fund means I failed to protect it.”",
-              "text": "Using the fund for a true emergency is success, not failure. Record what happened, protect your essentials right now, and begin a manageable rebuild. Guilt is not an interest-bearing account."
+              "text": "Using the fund for a true emergency is success, not failure. Record what happened, protect your essentials right now, and start a small rebuild. Guilt is not an interest-bearing account."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "A rebuild plan should exist before the withdrawal. Record the amount, restart an affordable automatic transfer, send any windfalls or freed-up debt payments to the gap, and create a sinking fund if the event turns out to be predictable."
+          "text": "Make the rebuild plan before you withdraw. Record the amount, restart a small automatic transfer, send any windfalls or freed-up debt payments to the gap, and start a sinking fund if the cost turns out to be predictable."
         }
       ]
     },
@@ -461,7 +515,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use rounded household totals and shortened institution or product names."
+          "text": "Round your numbers and use short names for banks and accounts."
         },
         {
           "type": "paragraph",
@@ -479,34 +533,34 @@
           "items": [
             {
               "title": "The job is defined.",
-              "text": "Approved emergencies and predictable non-emergencies are written in plain language."
+              "text": "Real emergencies and predictable costs are written down in plain words."
             },
             {
               "title": "The target has layers.",
-              "text": "A reachable first amount leads toward one month and then a personal three-to-six-month range."
+              "text": "A first goal you can reach leads to one month, then to your own three-to-six-month range."
             },
             {
               "title": "The money is usable.",
-              "text": "The account is separate, stable, accessible, and you understand it before a crisis hits."
+              "text": "The account is separate, stable and easy to reach, and you understand it before a crisis hits."
             },
             {
               "title": "Protection is verified.",
-              "text": "You checked the official insurer, membership, product and ownership category."
+              "text": "You checked the insurer’s website for your bank, product and account type."
             },
             {
               "title": "The rebuild is automatic.",
-              "text": "A repeatable transfer and review date begin after a qualified withdrawal."
+              "text": "A repeating transfer and a review date start after any withdrawal for a real emergency."
             }
           ]
         },
         {
           "type": "takeaway",
           "text": "A useful emergency fund has a clear job and a realistic layered target.",
-          "detail": "It also needs an accessible and protected home, an automatic funding routine and a rebuild plan that begins after the fund handles a genuine shock."
+          "detail": "It also needs a safe, easy-to-reach home, automatic deposits and a rebuild plan that starts after the fund covers a real shock."
         },
         {
           "type": "spotlight",
-          "text": "An emergency fund earns its keep twice: first when it stops a shock from turning into costly debt, and again when the household calmly rebuilds it for the next event."
+          "text": "An emergency fund earns its keep twice: first when it stops a shock from becoming costly debt, and again when you calmly rebuild it for the next one."
         }
       ]
     },
@@ -552,7 +606,7 @@
             },
             {
               "title": "Deposit insurance",
-              "text": "Protection for eligible deposits if a member bank or credit union fails, under the insurer’s rules."
+              "text": "Protection for eligible deposits if a bank or credit union fails, under the insurer’s rules."
             },
             {
               "title": "Eligible deposit",
@@ -560,7 +614,7 @@
             },
             {
               "title": "CDIC",
-              "text": "The federal Crown corporation that insures eligible deposits at its member institutions."
+              "text": "The federal Crown corporation that insures eligible deposits at member banks."
             },
             {
               "title": "Automatic transfer",
@@ -581,17 +635,23 @@
   },
   "checkIn": {
     "questions": [
-      "EMERGENCY EXAMPLES — List three emergencies when you would use this fund.",
-      "NOT EMERGENCIES — List three planned or optional expenses when you would not use this fund.",
-      "MONTHLY ESSENTIALS — What is your total monthly cost for housing, food, utilities, transportation, insurance, medication and minimum debt payments?",
-      "SAVINGS GOAL — What is your first emergency-fund goal? How much would you like to save later?",
-      "WHERE YOU WILL KEEP IT — Name the bank, credit union and account. How quickly can you get the money, and are there any fees?",
-      "DEPOSIT PROTECTION — Who protects the money in this account? Confirm that the institution and account qualify.",
-      "AUTOMATIC SAVINGS — How much will you save each payday, and when will you check your progress?",
-      "REBUILDING THE FUND — If you use the money, how much will you start saving again, and when will you check your progress?"
+      "Name one cost that is a true emergency and one that is not.",
+      "What do your essentials cost in a typical month? Think housing, food, utilities, transportation, insurance, medication and minimum payments. An estimate is fine.",
+      "What is your first savings goal, and how much would you like to reach later?",
+      "Which bank or credit union account will hold the fund? Check that deposit insurance covers it.",
+      "How much will you move to the fund each payday, and when will you check your progress?",
+      "If you use the fund, how will you refill it? Name the amount and the date you will start."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice."
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial advice.",
+    "samples": [
+      "Emergency: a car repair. Not an emergency: a TV sale.",
+      "About $2,900 a month. Rent, food, bus pass, phone and my card minimum.",
+      "$500 first. Later $8,700, which is three months of essentials.",
+      "A no-fee savings account at my credit union. I will check its insurance online.",
+      "$40 every payday. I will check my progress on the first of each month.",
+      "I will restart $40 a payday the week after any withdrawal."
+    ]
   },
   "sources": []
 }

@@ -9,6 +9,32 @@ import {
   ShieldCheck,
   Gauge,
   FileCheck2,
+  Mountain,
+  Snowflake,
+  Building2,
+  Waves,
+  MapPin,
+  Flame,
+  House,
+  Car,
+  CalendarDays,
+  Landmark,
+  Route,
+  ArrowDownToLine,
+  Receipt,
+  Wallet,
+  Zap,
+  LifeBuoy,
+  TriangleAlert,
+  Timer,
+  HeartPulse,
+  Briefcase,
+  Gift,
+  ShoppingBasket,
+  PiggyBank,
+  Target,
+  Activity,
+  TreePine,
 } from 'lucide-react';
 import type { ReadingBlock } from '@/lib/types';
 import {
@@ -16,8 +42,45 @@ import {
   UtilizationCalculator,
   LessonArtworkCarousel,
   CardCarousel,
+  ConversionCalculator,
+  PaydayCalculator,
+  LoanCostCalculator,
+  InterestScanCalculator,
   FileCards,
+  TileSlider,
 } from './lesson-interactives';
+import { PayoffCalculator } from './payoff-calculator';
+import { WaterfallCalculator } from './waterfall-calculator';
+/** Icons for icon tiles (a `cards` block whose items carry an `icon`). */
+const tileIcons = {
+  mountain: Mountain,
+  snowflake: Snowflake,
+  building: Building2,
+  waves: Waves,
+  map: MapPin,
+  flame: Flame,
+  home: House,
+  car: Car,
+  calendar: CalendarDays,
+  bank: Landmark,
+  route: Route,
+  shield: ShieldCheck,
+  inbox: ArrowDownToLine,
+  receipt: Receipt,
+  wallet: Wallet,
+  zap: Zap,
+  lifebuoy: LifeBuoy,
+  alert: TriangleAlert,
+  timer: Timer,
+  heart: HeartPulse,
+  briefcase: Briefcase,
+  gift: Gift,
+  basket: ShoppingBasket,
+  piggy: PiggyBank,
+  target: Target,
+  activity: Activity,
+  tree: TreePine,
+} as const;
 export function ReadingBlocks({
   blocks,
   checkIn,
@@ -82,8 +145,102 @@ export function ReadingBlocks({
             );
           case 'artwork':
             return <LessonArtworkCarousel key={i} items={items} />;
+          case 'paydays':
+            return (
+              <PaydayCalculator
+                key={i}
+                heading={block.text}
+                label={block.detail}
+                intro={block.extra}
+                items={items}
+              />
+            );
+          case 'interestscan':
+            return (
+              <InterestScanCalculator
+                key={i}
+                heading={block.text}
+                label={block.detail}
+                intro={block.extra}
+                items={items}
+              />
+            );
+          case 'waterfall':
+            return (
+              <WaterfallCalculator
+                key={i}
+                heading={block.text}
+                label={block.detail}
+                intro={block.extra}
+                items={items}
+              />
+            );
+          case 'payoff':
+            return (
+              <PayoffCalculator
+                key={i}
+                heading={block.text}
+                label={block.detail}
+                intro={block.extra}
+                items={items}
+              />
+            );
+          case 'loancost':
+            return (
+              <LoanCostCalculator
+                key={i}
+                heading={block.text}
+                label={block.detail}
+                intro={block.extra}
+                items={items}
+              />
+            );
+          case 'conversion':
+            return (
+              <ConversionCalculator
+                key={i}
+                heading={block.text}
+                label={block.detail}
+                intro={block.extra}
+                items={items}
+              />
+            );
           case 'carousel':
             return <CardCarousel key={i} items={items} />;
+          case 'ledger': {
+            const figure = (amount?: string) => Number(amount?.replace(/[^0-9.]/g, '')) || 0;
+            const top = Math.max(...items.map((item) => figure(item.amount)), 1);
+            return (
+              <div className="ledger" key={i}>
+                <ul className="ledger-rows">
+                  {items.map((item, j) => (
+                    <li className={j === 0 ? 'is-total' : undefined} key={item.title}>
+                      <h3>{item.title}</h3>
+                      <strong>{item.amount}</strong>
+                      {item.detail && <span className="ledger-tag">{item.detail}</span>}
+                      <p>{item.text}</p>
+                      <i
+                        className="ledger-bar"
+                        style={
+                          {
+                            '--share': `${(figure(item.amount) / top) * 100}%`,
+                          } as React.CSSProperties
+                        }
+                        aria-hidden="true"
+                      />
+                    </li>
+                  ))}
+                </ul>
+                {block.text && (
+                  <aside className="ledger-result">
+                    {block.detail && <span className="eyebrow">{block.detail}</span>}
+                    <h3>{block.text}</h3>
+                    {block.extra && <p>{block.extra}</p>}
+                  </aside>
+                )}
+              </div>
+            );
+          }
           case 'lists':
             return (
               <div className="list-panels" key={i}>
@@ -142,18 +299,56 @@ export function ReadingBlocks({
                 </div>
               </div>
             );
-          case 'cards':
+          case 'cards': {
+            const iconic = items.some((item) => item.icon);
+            const slide = iconic && block.detail === 'slide';
+            const tiles = items.map((item, j) => {
+              const Icon = tileIcons[item.icon as keyof typeof tileIcons] ?? MapPin;
+              return (
+                <article key={item.title}>
+                  <b className="tile-icon" aria-hidden="true">
+                    <Icon size={20} />
+                  </b>
+                  <h3>{item.title}</h3>
+                  <p>{item.text}</p>
+                </article>
+              );
+            });
+            if (slide) {
+              return (
+                <TileSlider key={i} count={items.length}>
+                  {tiles}
+                </TileSlider>
+              );
+            }
             return (
-              <div className="factor-grid" key={i}>
-                {items.map((item, j) => (
-                  <article key={item.title}>
-                    <span>{String(j + 1).padStart(2, '0')}</span>
-                    <h3>{item.title}</h3>
-                    <p>{item.text}</p>
-                  </article>
-                ))}
+              <div
+                className={
+                  iconic
+                    ? `factor-grid has-icons${items.length % 3 === 0 || items.length === 5 ? ' by-three' : ''}`
+                    : 'factor-grid'
+                }
+                key={i}
+              >
+                {items.map((item, j) => {
+                  const Icon = tileIcons[item.icon as keyof typeof tileIcons] ?? MapPin;
+                  return (
+                    <article key={item.title}>
+                      {iconic ? (
+                        <b className="tile-icon" aria-hidden="true">
+                          <Icon size={20} />
+                        </b>
+                      ) : (
+                        <span>{String(j + 1).padStart(2, '0')}</span>
+                      )}
+                      <h3>{item.title}</h3>
+                      <p>{item.text}</p>
+                    </article>
+                  );
+                })}
               </div>
             );
+          }
           case 'filecards':
             return <FileCards key={i} heading={block.text} image={block.image} items={items} />;
           case 'glasspanel':

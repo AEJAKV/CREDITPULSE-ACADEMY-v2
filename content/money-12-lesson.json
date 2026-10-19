@@ -23,6 +23,21 @@
           "text": "In a one-adult household, strength comes from named backups. One person can’t remember every due date, school form and emergency contact forever."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A hard Tuesday needs more than a list of bills.",
+              "text": "A hard Tuesday needs more than a list of bills.",
+              "image": "/images/money-budgeting/04-platinum/money-12/money12-image-1.webp"
+            },
+            {
+              "title": "Name backups, protect the floor and write the plan down.",
+              "text": "Name backups, protect the floor and write the plan down.",
+              "image": "/images/money-budgeting/04-platinum/money-12/money12-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "The Single-Parent Resilience Map"
         },
@@ -31,15 +46,18 @@
           "items": [
             {
               "title": "LAYER 1 — STABILIZE THE MONEY SYSTEM",
-              "text": "Map the income you can count on, current benefits, support payments, essential costs, child-cost savings, required payments and emergency savings."
+              "text": "Map the income you can count on. Add current benefits, support payments, essential costs, child-cost savings, required payments and emergency savings.",
+              "icon": "wallet"
             },
             {
               "title": "LAYER 2 — BUILD THE LIFE SYSTEM",
-              "text": "Name backup care and note where documents are safely kept. Organize school and medical information, review insurance and get legal advice for your province."
+              "text": "Name backup care and note where documents are safely kept. Organize school and medical information, review insurance and get legal advice for your province.",
+              "icon": "heart"
             },
             {
               "title": "LAYER 3 — INSTALL THE SHOCK RESPONSE",
-              "text": "Write down what happens in the first 24 hours, first week and first month after an income, care or health shock. Give every action an owner or a contact."
+              "text": "Write down what happens in the first 24 hours, first week and first month after an income, care or health shock. Give every action an owner or a contact.",
+              "icon": "zap"
             }
           ]
         },
@@ -48,7 +66,7 @@
           "items": [
             {
               "title": "“A single-parent budget is just a regular budget with one income column.”",
-              "text": "The math matters, but so do care coverage, benefit continuity, school costs, who can make decisions and emergency instructions. A resilient plan connects money with the practical systems that protect the child."
+              "text": "The math matters, but so do care coverage, steady benefits, school costs, who can make decisions and emergency instructions. A resilient plan connects money with the practical systems that protect the child."
             }
           ]
         },
@@ -78,33 +96,30 @@
           "text": "Talia’s training example: the figures below are made up and only teach the method. They are not a benefit estimate or a recommended budget."
         },
         {
-          "type": "cards",
+          "type": "ledger",
+          "detail": "DEPENDABLE PLANNING FLOOR",
+          "text": "$4,720",
+          "extra": "for this exercise: take-home pay plus the current confirmed benefit. Talia doesn’t spend an uncertain support payment before it arrives.",
           "items": [
             {
-              "title": "MONTHLY TAKE-HOME PAY",
-              "text": "$4,100 — Consistent recent deposits — Count it in the dependable floor"
+              "title": "Monthly take-home pay",
+              "amount": "$4,100",
+              "detail": "Consistent recent deposits",
+              "text": "Count it in the dependable floor"
             },
             {
-              "title": "CURRENT VERIFIED BENEFITS",
-              "text": "$620 — Current notice and deposits — Recheck after CRA changes"
+              "title": "Current verified benefits",
+              "amount": "$620",
+              "detail": "Current notice and deposits",
+              "text": "Recheck after CRA changes"
             },
             {
-              "title": "EXPECTED CHILD SUPPORT",
-              "text": "$700 — Written amount; payments vary — Track separately until received"
+              "title": "Expected child support",
+              "amount": "$700",
+              "detail": "Written amount; payments vary",
+              "text": "Track separately until received"
             }
           ]
-        },
-        {
-          "type": "heading",
-          "text": "DEPENDABLE PLANNING FLOOR"
-        },
-        {
-          "type": "paragraph",
-          "text": "$4,720"
-        },
-        {
-          "type": "paragraph",
-          "text": "for this exercise: take-home pay plus the current confirmed benefit. Talia doesn’t spend an uncertain support payment before it arrives."
         },
         {
           "type": "heading",
@@ -147,7 +162,7 @@
           "items": [
             {
               "title": "“The Canada child benefit stays the same until a child turns 18.”",
-              "text": "Payments can change when family income, marital status, custody, eligibility or other personal details change. File returns, keep your information current and plan from the latest CRA notice, not last year’s amount."
+              "text": "Payments can change when family income, marital status, custody or other personal details change. File your return, keep your information current and plan from the latest CRA notice, not last year’s amount."
             }
           ]
         },
@@ -171,45 +186,54 @@
           "text": "Use real monthly averages and due dates. Keep true emergencies separate from occasional costs such as school supplies, winter clothing and activity sign-ups. Those costs may be uneven, but they are not surprises. Children have been known to outgrow shoes without submitting a budget amendment."
         },
         {
-          "type": "cards",
+          "type": "ledger",
+          "detail": "ESSENTIAL MONTHLY FLOOR",
+          "text": "$4,230",
+          "extra": "Set against the $4,720 floor, the practice margin is $490. That is before sinking funds, emergency saving and flexible spending.",
           "items": [
             {
-              "title": "HOUSING",
-              "text": "$1,650 — Rent — Essential"
+              "title": "Dependable planning floor",
+              "amount": "$4,720",
+              "detail": "Income",
+              "text": "From Map One."
             },
             {
-              "title": "FOOD AND HOUSEHOLD",
-              "text": "$750 — Recent average — Essential"
+              "title": "Housing",
+              "amount": "$1,650",
+              "detail": "Rent",
+              "text": "Essential"
             },
             {
-              "title": "CHILDCARE",
-              "text": "$620 — Current arrangement — Essential for work"
+              "title": "Food and household",
+              "amount": "$750",
+              "detail": "Recent average",
+              "text": "Essential"
             },
             {
-              "title": "TRANSPORT",
-              "text": "$450 — Transit and vehicle costs — Essential"
+              "title": "Childcare",
+              "amount": "$620",
+              "detail": "Current arrangement",
+              "text": "Essential for work"
             },
             {
-              "title": "UTILITIES AND COMMUNICATION",
-              "text": "$360 — Current bills — Essential"
+              "title": "Transport",
+              "amount": "$450",
+              "detail": "Transit and vehicle costs",
+              "text": "Essential"
             },
             {
-              "title": "INSURANCE, HEALTH AND REQUIRED DEBT",
-              "text": "$400 — Current required costs — Essential/protective"
+              "title": "Utilities and communication",
+              "amount": "$360",
+              "detail": "Current bills",
+              "text": "Essential"
+            },
+            {
+              "title": "Insurance, health and required debt",
+              "amount": "$400",
+              "detail": "Current required costs",
+              "text": "Essential/protective"
             }
           ]
-        },
-        {
-          "type": "heading",
-          "text": "ESSENTIAL MONTHLY FLOOR"
-        },
-        {
-          "type": "paragraph",
-          "text": "$4,230"
-        },
-        {
-          "type": "paragraph",
-          "text": "Set against the $4,720 floor, the training margin is $490, before sinking funds, emergency saving and flexible spending."
         },
         {
           "type": "heading",
@@ -220,15 +244,18 @@
           "items": [
             {
               "title": "CHILD-COST FUND",
-              "text": "Set aside a monthly amount for school, clothing, care changes, activities and other costs you can see coming."
+              "text": "Set aside a monthly amount for school, clothing, care changes, activities and other costs you can see coming.",
+              "icon": "piggy"
             },
             {
               "title": "EMERGENCY FUND",
-              "text": "Build a separate reserve for surprises such as an urgent repair, a health problem or a job loss."
+              "text": "Build a separate reserve for surprises such as an urgent repair, a health problem or a job loss.",
+              "icon": "lifebuoy"
             },
             {
               "title": "SUPPORT RECEIPT RULE",
-              "text": "When support is irregular, assign it only after it arrives, using a written order of priorities. Keep payment records, and look up enforcement or legal help in your province when you need it."
+              "text": "When support is irregular, assign it only after it arrives, using a written order of priorities. Keep payment records, and look up enforcement or legal help in your province when you need it.",
+              "icon": "inbox"
             }
           ]
         },
@@ -300,22 +327,25 @@
         },
         {
           "type": "paragraph",
-          "text": "A resilience map names trusted people, notes where information is safely kept and shows which decisions need legal authority. Keep passwords, PINs, card details, SINs and security answers out of course notes and general emergency sheets."
+          "text": "A resilience map names trusted people, notes where information is kept safe and shows which decisions need legal authority. Keep passwords, PINs, card details, SINs and security answers out of course notes and general emergency sheets."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "CONTINUITY — CARE CONTINUITY",
-              "text": "Name two willing backup contacts. Confirm pickup rules, emergency contact details, accessibility needs, medication instructions and who should be called first. Review after any change in care."
+              "text": "Name two willing backup contacts. Confirm pickup rules, emergency contact details, accessibility needs, medication instructions and who to call first. Review after any change in care.",
+              "icon": "heart"
             },
             {
               "title": "CONTINUITY — DOCUMENT CONTINUITY",
-              "text": "Write down where current insurance, benefit notices, support papers, copies of ID and professional contacts are kept. The guide should help a trusted person find things without listing account passwords."
+              "text": "Write down where current insurance, benefit notices, support papers, copies of ID and professional contacts are kept. The guide should help a trusted person find things without listing any passwords.",
+              "icon": "inbox"
             },
             {
               "title": "CONTINUITY — DECISION CONTINUITY",
-              "text": "Review life and disability coverage, beneficiaries and a will. Also think about who you want as guardian, and the powers or directives your province uses, with qualified professionals. An emergency instruction sheet helps, but it is not a will, a power of attorney or permission to use an account."
+              "text": "Review life and disability coverage, beneficiaries and a will. Think about who you want as guardian, and ask a qualified professional about the legal papers your province uses. An emergency instruction sheet helps, but it is not a will, a power of attorney or permission to use an account.",
+              "icon": "shield"
             }
           ]
         },
@@ -329,19 +359,28 @@
           "text": "The One-Income Shock Response"
         },
         {
-          "type": "cards",
+          "type": "carousel",
           "items": [
             {
-              "title": "SHOCK RESPONSE — FIRST 24 HOURS",
-              "text": "Protect housing, food, required care, medication, transport and utilities. Check how much cash you have and pause transfers you don’t need."
+              "title": "FIRST 24 HOURS",
+              "text": "Protect housing, food, required care, medication, transport and utilities. Check how much cash you have and pause transfers you don’t need.",
+              "detail": "STAGE 1",
+              "icon": "clock",
+              "image": "/images/money-budgeting/04-platinum/money-12/money12-image-4.webp"
             },
             {
-              "title": "SHOCK RESPONSE — FIRST 7 DAYS",
-              "text": "Call the employer, insurer, benefit program, support service or biller that applies. Switch on backup care. Write down dates and next steps."
+              "title": "FIRST 7 DAYS",
+              "text": "Call the employer, insurer, benefit program, support service or biller that applies. Switch on backup care. Write down dates and next steps.",
+              "detail": "STAGE 2",
+              "icon": "calendar",
+              "image": "/images/money-budgeting/04-platinum/money-12/money12-image-5.webp"
             },
             {
-              "title": "SHOCK RESPONSE — FIRST 30 DAYS",
-              "text": "Rebuild the budget from current income and use reserves in order of priority. Review care plans and get qualified legal, tax or financial help where needed."
+              "title": "FIRST 30 DAYS",
+              "text": "Rebuild the budget from current income and use reserves in order of priority. Review care plans and get qualified legal, tax or financial help where needed.",
+              "detail": "STAGE 3",
+              "icon": "list",
+              "image": "/images/money-budgeting/04-platinum/money-12/money12-image-6.webp"
             }
           ]
         },
@@ -350,7 +389,7 @@
           "items": [
             {
               "title": "“An emergency folder gives a trusted person authority to manage my money or make decisions.”",
-              "text": "Instructions can help things keep running, but legal authority depends on valid documents and provincial or territorial law. Confirm local requirements, and don’t share banking passwords as a substitute."
+              "text": "Instructions can help things keep running, but legal authority comes from valid documents and the law where you live. Confirm local rules, and don’t share banking passwords instead."
             }
           ]
         },
@@ -364,7 +403,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Childcare programs and family benefits differ across Canada. The same goes for family law, wills, guardianship, powers of attorney and support enforcement. If you live in Alberta, British Columbia, New Brunswick, Ontario, Prince Edward Island, or Newfoundland and Labrador, save official local links and review them at least once a year. Maintenance enforcement programs are mostly provincial or territorial, so get legal advice for your own situation."
+          "text": "Childcare programs and family benefits differ across Canada, and so do family law, wills, guardianship, powers of attorney and support enforcement. If you live in Alberta, British Columbia, New Brunswick, Ontario, Prince Edward Island, or Newfoundland and Labrador, save official local links and review them at least once a year. Maintenance enforcement programs are mostly provincial or territorial, so get legal advice for your own situation."
         },
         {
           "type": "source",
@@ -384,13 +423,13 @@
           "detail": "TALIA BUILDS THE FAMILY CONTROL TOWER",
           "extra": "",
           "paragraphs": [
-            "Talia lives in Fredericton with Leo, 11, and Mina, 7. She is the only adult on duty, and her goal is to keep the kids’ routine steady no matter what the month throws at her. Her pay, benefits and child support all show up in her banking history, but only the pay and benefits arrive on time. She also has a bill calendar and three school emails marked urgent. The emails, displaying excellent teamwork, all cover different deadlines. One is about Costume Day.",
-            "Then the support payment slips. Talia had counted the full $700 toward groceries, school costs and emergency savings before it arrived. A partial payment landed after the grocery trip. Nothing was wrong with the court-ordered amount. The problem was timing. She separates the amount owed from the cash on hand today and records both.",
-            "Next, Mina’s after-school program changes its pickup time. Talia has two options: a new care service, or fewer work hours. She prices both before she reacts.",
-            "Cutting hours would eat into her $490 margin and then into her essentials. The new care option fits, and the child-cost fund can cover the registration fee. Talia picks the care option, and one map has turned a stressful message into two decisions with numbers.",
-            "Then Talia asks a harder question: what if something happens to her? Her sister can help with pickup, but she can’t approve medical care or reach Talia’s bank account just because her name is on an instruction sheet. Talia confirms the school’s contact process, records where documents are kept and books qualified advice about her will, beneficiaries and local authority documents. The gap is not a failure. Finding it before an emergency is the point.",
-            "Over the next few weeks, Talia keeps her $4,230 essential floor apart from occasional child costs and updates her CRA checklist. She sets a rule for when support arrives. She starts small automatic transfers to care and emergency funds, confirms two backup contacts and finishes a one-page guide to locations and contacts. Costume Day still arrives with theatrical timing, but it no longer controls the whole budget."
-          ]
+            "Talia lives in Fredericton with Leo, 11, and Mina, 7. She is the only adult on duty, and her goal is to keep the kids’ routine steady, whatever the month throws at her. Her pay, benefits and child support all show up in her bank history, but only the pay and benefits arrive on time. She also has three school emails marked urgent. The emails, in a show of excellent teamwork, all cover different deadlines. One is about Costume Day.",
+            "Then the support payment slips. Talia had counted the full $700 toward groceries, school costs and savings before it arrived. A partial payment landed after the grocery trip. The written amount was fine. The timing was the problem. She separates the amount owed from the cash in hand today and records both.",
+            "Next, Mina’s after-school program changes its pickup time. Talia can hire a new care service or cut her work hours, so she prices both. Cutting hours would eat into her $490 margin and then into her essentials. The new care option fits, and the child-cost fund can cover the registration fee. Talia picks the care option.",
+            "Then Talia asks a harder question: what if something happens to her? Her sister can help with pickup, but she can’t approve medical care or reach Talia’s bank account just because her name is on an instruction sheet. Talia notes where her documents are kept and books professional advice about her will, beneficiaries and local legal papers. Finding the gap before an emergency is the point.",
+            "Weeks later, Talia keeps her $4,230 essential floor apart from occasional child costs. She has two backup contacts and a one-page guide to places and contacts. Costume Day still arrives with theatrical timing, but it no longer runs the whole budget."
+          ],
+          "image": "/images/money-budgeting/04-platinum/money-12/money12-image-3.webp"
         },
         {
           "type": "transition",
@@ -461,15 +500,11 @@
         {
           "type": "takeaway",
           "text": "A resilient single-parent plan connects dependable cash flow with steady care.",
-          "detail": "Work out the essential floor, keep benefit details current, plan for support payments that vary, separate predictable child costs from emergencies, name trusted backups and confirm the legal and insurance documents that protect the family."
+          "detail": "Work out your essential floor and keep benefit details current. Plan for support that varies, keep child costs you can predict apart from emergencies, name trusted backups and check the legal and insurance papers that protect your family."
         },
         {
           "type": "spotlight",
           "text": "The best resilience map isn’t the longest one. It is the one a trusted person can understand, the parent can keep up and the household can put to use when plans change."
-        },
-        {
-          "type": "paragraph",
-          "text": "SOURCE REVIEW DATE: 11 August 2026. Recheck CRA, benefit, childcare, insurance, family-law and provincial or territorial guidance before publication or use."
         }
       ]
     },
@@ -483,7 +518,7 @@
           "items": [
             {
               "title": "Single-Parent Resilience Map",
-              "text": "A connected plan that covers cash flow, benefits, support, child costs, backup care, information and emergency steps."
+              "text": "One plan that covers cash flow, benefits, support, child costs, backup care, records and emergency steps."
             },
             {
               "title": "Dependable-income floor",
@@ -499,7 +534,7 @@
             },
             {
               "title": "Support receipt rule",
-              "text": "A written priority order for support money once it arrives, especially when timing varies."
+              "text": "A written list of what support money pays for first, once it arrives, especially when timing varies."
             },
             {
               "title": "Sinking fund",
@@ -532,17 +567,23 @@
   },
   "checkIn": {
     "questions": [
-      "ESSENTIAL MONTHLY FLOOR — Total housing, food, required care, transport, essential utilities, insurance/health and required debt payments. What is the monthly total?",
-      "DEPENDABLE INCOME — List current take-home income and verified benefits. Record support owed and received separately. What amount is safe for the baseline plan?",
-      "CRA AND BENEFIT CONTINUITY — Confirm tax filing, address, marital status, custody, child information and direct deposit are current. What notice or date needs action?",
-      "CHILD-COST CALENDAR — List school, clothing, childcare, health, activity and seasonal costs by month. Choose one sinking fund, target and recurring contribution.",
-      "SUPPORT AND SHOCK RULE — Write how uncertain support is assigned after receipt and what happens in the first 24 hours, 7 days and 30 days after an income interruption.",
-      "CARE CONTINUITY — Name two willing backup contacts, confirm pickup/emergency rules and record where current medical, school and care instructions are stored.",
-      "PROTECTION REVIEW — List insurance, beneficiaries, will, guardianship intentions and province-appropriate authority documents to verify with qualified professionals.",
-      "ONE-PAGE EMERGENCY INSTRUCTION SHEET — Record who to call, essential routines, safe document locations and the next review date. Keep credentials and identification numbers out."
+      "What do your essentials cost each month? Think housing, food, childcare, transport, utilities, insurance, health and required debt payments. An estimate is fine.",
+      "What income can you count on each month? Use take-home pay and the benefits on your latest CRA notice. Leave out support until it arrives.",
+      "Pick one child cost you can see coming, such as winter clothes or school supplies. What is the target, and how much will you save each month?",
+      "If your income stopped suddenly, what would you do in the first 24 hours? Name one bill to protect and one person to call.",
+      "Who are your two backup contacts, and where will you keep your one-page emergency sheet? Add the date you will review it.",
+      "Which protection step will you check first: insurance, beneficiaries, a will or guardian papers? Add the date you will do it."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial, tax, insurance or legal advice."
+    "acknowledgment": "I reviewed my answers and understand that this is educational information, not financial, tax, insurance or legal advice.",
+    "samples": [
+      "About $3,900 a month.",
+      "$3,600 pay plus $500 in confirmed benefits, so $4,100.",
+      "Winter clothes, $240 by November. $40 a month.",
+      "Protect rent and childcare first. Call my sister and my employer.",
+      "My sister and a neighbour. Kitchen drawer. Review on January 1.",
+      "Check my life insurance beneficiary by the end of the month."
+    ]
   },
   "sources": []
 }

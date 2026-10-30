@@ -24,7 +24,13 @@
         },
         {
           "type": "paragraph",
-          "text": "This module fixes that. Short version: every deduction on your pay stub has a name, a purpose, and a limit. Once you know all three, the stub stops being a mystery."
+          "text": "This lesson fixes that. Short version: every deduction on your pay stub has a name, a purpose and a limit. Once you know all three, the stub stops being a mystery."
+        },
+        {
+          "type": "transition",
+          "text": "Know where every dollar of your pay goes, and spot a mistake before it costs you.",
+          "detail": "Once you can name each line on your stub, a raise, a new job or a second job stops feeling like a guessing game.",
+          "extra": "Section 06 puts all of this year’s rates on one card."
         }
       ]
     },
@@ -58,7 +64,7 @@
             },
             {
               "title": "Net pay",
-              "text": "What actually lands in your account."
+              "text": "What lands in your account."
             }
           ]
         },
@@ -75,30 +81,30 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "CPP is not a tax. It’s a forced savings plan."
+          "text": "CPP is not a savings account with your name on it. It is a public pension that you and your employer pay into together."
         },
         {
           "type": "paragraph",
-          "text": "Every dollar taken off today comes back to you later, as a monthly pension starting as early as age 60. Your employer matches it, dollar for dollar. Nobody gets to opt out."
+          "text": "Your employer matches every dollar you pay. In return, you earn a monthly pension for life, which can start as early as age 60. The more years you pay in, and the more you earn, the bigger that pension gets. Nobody gets to opt out."
         },
         {
           "type": "paragraph",
-          "text": "In 2026, you pay 5.95% on your earnings, but not on all of them. The first $3,500 you earn each year is exempt. Above $74,600, CPP stops taking that rate entirely."
+          "text": "In 2026, you pay 5.95% of your earnings, but not all of them. The first $3,500 you earn each year is exempt. Above $74,600, this rate stops."
         },
         {
           "type": "paragraph",
-          "text": "There’s a second, smaller layer called CPP2. It applies only to earnings between $74,600 and $85,000, at a lower rate of 4%. Most people never touch it. High earners do."
+          "text": "There is a second, smaller layer called CPP2. It applies only to earnings between $74,600 and $85,000, at a lower rate of 4%. Most people never reach it. Higher earners do."
         },
         {
           "type": "paragraph",
-          "text": "Put together, the most anyone pays into CPP in 2026 is $4,646.45. After that, your paycheque simply stops shrinking for this reason, for the rest of the year."
+          "text": "Put together, the most anyone pays into CPP in 2026 is $4,646.45: $4,230.45 on the first layer and $416 on CPP2. After that, CPP stops coming off your pay for the rest of the year. You also get some of it back at tax time, as a credit and a deduction on your return."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“CPP is money the government keeps.”",
-              "text": "It isn’t. It’s your money, held in a plan you can’t touch until retirement, that your employer is legally required to match. Think of it less like a tax and more like a locked savings account nobody can raid, including you, until you’re eligible."
+              "text": "CPP isn’t a pot of cash with your name on it, but it isn’t lost either. Every year you pay in builds your record, and that record sets the size of your pension. You can see your record in your My Service Canada Account. Quebec workers pay into the Quebec Pension Plan (QPP) instead, at slightly different rates."
             }
           ]
         }
@@ -115,15 +121,15 @@
         },
         {
           "type": "paragraph",
-          "text": "You pay 1.63% of your earnings in 2026, up to a cap. Once you earn $68,900 in the year, EI stops taking anything more. The most anyone pays is $1,123.07."
+          "text": "You pay 1.63% of your earnings in 2026, up to a cap. Once you earn $68,900 in the year, EI stops. The most anyone pays is $1,123.07. Quebec workers pay a lower EI rate, plus premiums for the Quebec Parental Insurance Plan."
         },
         {
           "type": "paragraph",
-          "text": "Your employer pays a share too, about one and a half times what you pay. That’s their cost, not yours, but it’s worth knowing it exists."
+          "text": "Your employer pays 1.4 times what you pay. That is their cost, not yours, but it’s worth knowing it exists."
         },
         {
           "type": "paragraph",
-          "text": "What does EI actually buy you? Income support if you’re laid off. Paid time during parental leave. Coverage during some illnesses and caregiving situations. You hope to never need it. Most Canadians eventually do, at some point in their working life."
+          "text": "What does EI buy you? Income support if you’re laid off. Paid time off during parental leave. Help during some illnesses and caregiving. You hope you never need it, but most workers use it at some point."
         },
         {
           "type": "heading",
@@ -131,7 +137,7 @@
         },
         {
           "type": "spotlight",
-          "text": "CPP and EI both have yearly caps. Once you hit them, deductions stop for the rest of the year. Here’s the catch. Each employer tracks your earnings separately. If you work two jobs, or switch jobs partway through the year, both employers may deduct CPP and EI from scratch, even if you’d already maxed out at your old job. The good news: you get that overpayment back. It shows up as a credit when you file your tax return. The bad news: you won’t see it until then, which means a year with a job change can mean smaller paycheques now and a bigger refund later. Knowing this in advance means it won’t feel like a mistake when it happens."
+          "text": "CPP and EI both have yearly caps. Once you hit them, the deductions stop for the rest of the year. Here’s the catch: each employer tracks your earnings on its own. If you work two jobs, or switch jobs partway through the year, both employers may take CPP and EI from scratch, even if you had already maxed out at the old job. The good news: you get your extra share back as a credit when you file your tax return. The bad news: you won’t see it until then. A year with a job change can mean smaller paycheques now and a bigger refund later. Knowing that in advance means it won’t feel like a mistake."
         }
       ]
     },
@@ -146,11 +152,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Your first chunk of income is taxed at the lowest rate. The next chunk, a little higher. And so on, climbing as your income climbs. Only the portion of your income sitting on a given shelf gets that shelf’s rate."
+          "text": "Your first chunk of income is taxed at the lowest rate. The next chunk, a little higher. And so on, climbing as your income climbs. Only the part of your income sitting on a shelf pays that shelf’s rate."
         },
         {
           "type": "paragraph",
-          "text": "For 2026, the federal shelves look like this. Up to $58,523, taxed at 14%. From there to $117,045, taxed at 20.5%. From there to $181,440, taxed at 26%. Higher still, 29%, then 33% above $258,482."
+          "text": "For 2026, the federal shelves look like this. Up to $58,523, taxed at 14%. From there to $117,045, 20.5%. From there to $181,440, 26%. Then 29%, and 33% above $258,482."
         },
         {
           "type": "paragraph",
@@ -158,14 +164,14 @@
         },
         {
           "type": "paragraph",
-          "text": "On top of federal tax, your province adds its own layers, with its own shelves and its own rates. That’s why two people earning the same salary in different provinces can take home different amounts. We’ll unpack this fully in the next module, since the whole system deserves its own close look."
+          "text": "On top of federal tax, your province adds its own shelves and rates. That’s why two people with the same salary in different provinces take home different amounts. The next lesson, Marginal Tax Rates, takes the whole system apart."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A raise that bumps me into a higher bracket means I’ll take home less money.”",
-              "text": "This one is almost never true, and it stops more people from asking for raises than anything else in this module. Moving into a higher bracket only means your next dollars are taxed at the higher rate. Every dollar you already earn keeps its old, lower rate. You always come out ahead, just not by quite as much as the raise alone would suggest."
+              "text": "Moving into a higher bracket only means your next dollars are taxed at the higher rate. Every dollar you already earn keeps its old, lower rate, so your take-home pay still goes up. One thing can shrink the gain: benefits based on income, like the Canada Child Benefit or the GST/HST credit, get a little smaller as income rises. You still come out ahead, just by less than the raise alone suggests."
             }
           ]
         }
@@ -182,34 +188,36 @@
         },
         {
           "type": "paragraph",
-          "text": "It’s called the Basic Personal Amount. In 2026, it’s $16,452 federally. Think of it as the first stretch of your income that gets a free pass, no federal tax touches it, no matter what you earn."
+          "text": "It’s called the Basic Personal Amount. In 2026, it’s $16,452 federally. Think of it as the first stretch of your income that gets a free pass: no federal tax touches it."
         },
         {
           "type": "paragraph",
-          "text": "Every Canadian gets this. Higher earners get a slightly smaller version of it, but everyone gets some. It’s automatically built into your paycheque deductions, you don’t need to apply for it or ask for it."
+          "text": "Almost everyone gets the full amount. People earning over about $181,000 get a slightly smaller one, down to $14,829. It’s built into your paycheque deductions automatically, so you don’t need to apply for it."
         },
         {
           "type": "paragraph",
           "text": "Your province has its own version too, at its own amount."
         },
         {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "Your 2026 deductions at a glance",
+          "detail": "Federal, outside Quebec",
           "items": [
             {
-              "title": "CPP (base)",
-              "text": "Deduction: 5.95% — 2026 rate: $74,600 of earnings"
+              "title": "CPP (first layer)",
+              "text": "5.95% — on earnings from $3,500 to $74,600. The most you pay is $4,230.45."
             },
             {
               "title": "CPP2",
-              "text": "Deduction: 4.00% — 2026 rate: $85,000 of earnings"
+              "text": "4% — on earnings from $74,600 to $85,000. The most you pay is $416."
             },
             {
               "title": "EI",
-              "text": "Deduction: 1.63% — 2026 rate: $68,900 of earnings"
+              "text": "1.63% — on earnings up to $68,900. The most you pay is $1,123.07."
             },
             {
-              "title": "Income tax",
-              "text": "Deduction: 14% to 33%, layered — 2026 rate: Never, rate climbs with income"
+              "title": "Federal income tax",
+              "text": "14% to 33% — layered by shelf, with no yearly cap. Your province adds its own."
             }
           ]
         }
@@ -255,7 +263,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Notice your take-home pay creeping up partway through the year, even with no raise? That’s CPP or EI hitting its yearly cap. Once you’ve paid the maximum for the year, that line disappears from your stub until January resets it. It works the other way too. Your very first paycheque each January can look smaller than your December one, even at the exact same salary, because CPP and EI are both starting fresh. Neither of these is an error. Both are the caps doing exactly what they’re built to do."
+          "text": "Notice your take-home pay creeping up late in the year, with no raise? That’s CPP or EI hitting its yearly cap. Once you’ve paid the most for the year, that line drops off your stub until January resets it. It works the other way too. Your first paycheque each January can look smaller than December’s, at the same salary, because CPP and EI start fresh. Neither is an error. Both are the caps doing their job."
         }
       ]
     },
@@ -270,16 +278,24 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Devon got his first full-time offer at twenty-three. Forty-eight thousand a year, in Alberta. He did the math in his head on the drive home: forty-eight thousand, divided by twenty-six pay periods, felt like a number he could build a life around.",
-            "His first stub landed with about four hundred dollars less than he’d calculated. He assumed payroll had made a mistake.",
-            "He texted a friend who worked in accounting, mostly to vent. She asked him to read her the lines on the stub instead. CPP. EI. Federal tax. Provincial tax. She talked him through each one in under five minutes.",
-            "Nothing was wrong. Devon had just never been taught that gross pay and take-home pay are two different numbers, separated by predictable, well-labelled pieces. Once he understood the shape of it, he stopped opening his stub with a small knot of dread every two weeks."
+            "Devon got his first full-time job offer at twenty-three: $48,000 a year, working for a building supply company in Edmonton. On the drive home he did the math in his head. Forty-eight thousand dollars, split into twenty-six paydays, came to about $1,846 every two weeks. That night he picked out an apartment based on that number.",
+            "Two weeks later, his first deposit landed, and it was a few hundred dollars short of $1,846. Devon stared at his banking app in disbelief. Payroll had messed up. It had to be.",
+            "He typed an angry email to HR and hovered over Send. Then he stopped, because if he was wrong, that email would be the first thing his new boss knew about him. He saved it as a draft and texted his friend Amira, who worked in accounting.",
+            "“Read me the lines on your stub,” she wrote back. He went through them one at a time: gross pay, CPP, EI, federal tax, Alberta tax and net pay. Amira explained each line in under five minutes, and every number was right.",
+            "Then came the part he didn’t expect. Amira told him the CPP line wasn’t money he had lost. It was building his own pension, and his employer was paying the same amount on top. She showed him how to check his record in his My Service Canada Account. The line that had annoyed him most was the one working hardest for him.",
+            "Devon deleted the draft. He redid his budget on paper, this time using his real net pay, and chose a cheaper apartment. Now, every payday, he does the math with the stub in front of him, not in his head on the drive home."
           ]
         },
         {
           "type": "takeaway",
-          "text": "Your stub breaks into five predictable pieces: gross pay, CPP, EI, income tax, and net pay. CPP and EI both stop once you hit a yearly cap. Income tax is layered, not flat, a raise never shrinks your take-home pay. And a job change partway through the year can mean CPP and EI restart, which evens out at tax time.",
+          "text": "Your stub breaks into five pieces: gross pay, CPP, EI, income tax and net pay. CPP and EI both stop once you hit a yearly cap. Income tax is layered, not flat, so a raise never shrinks your take-home pay. A job change partway through the year can mean CPP and EI restart, and that evens out at tax time.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Budget from your real pay, and every payday stops being a surprise.",
+          "detail": "When you know what comes off and why, you can plan around your net pay and catch a payroll mistake early.",
+          "extra": "Section 09 walks you through decoding your own stub."
         }
       ]
     },
@@ -293,15 +309,15 @@
           "items": [
             {
               "title": "Pull out your most recent pay stub and match every line on it to something in this module.",
-              "text": ""
+              "text": "Pull out your latest pay stub and match every line on it to something in this lesson."
             },
             {
               "title": "Check whether your income tax line is federal only or combined with provincial. If you’re not sure, ask your payroll department, it’s a normal question.",
-              "text": ""
+              "text": "Check whether your income tax line is federal only or combined with provincial. If you’re not sure, ask your payroll department. It’s a normal question."
             },
             {
               "title": "If you’ve changed jobs this year, note it down. It explains any CPP or EI surprise at tax time, months before it happens.",
-              "text": ""
+              "text": "If you changed jobs or worked two jobs this year, note it down. It explains any CPP or EI surprise at tax time, months before it happens."
             }
           ]
         },
@@ -311,7 +327,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Answer guidance: if question two shows only one combined number, ask payroll to break it apart, you’re entitled to see both. If question three is unclear, check your stub’s fine print or ask HR, some provinces list them together, some don’t. If question four doesn’t match, don’t panic, check for other small deductions like union dues or benefits premiums, which sit outside this module’s five lines."
+          "text": "Answer guidance: if your stub shows CPP and EI as one combined number, ask payroll to split it. You’re entitled to see both. If your tax line is unclear, check the fine print or ask HR. If your net pay doesn’t match your deposit, look for other small deductions like union dues, pension plan or benefit premiums. Those sit outside this lesson’s five lines."
         },
         {
           "type": "checkin"
@@ -332,15 +348,15 @@
             },
             {
               "title": "Net pay",
-              "text": "What actually lands in your account, after every deduction."
+              "text": "What lands in your account, after every deduction."
             },
             {
               "title": "CPP",
-              "text": "Canada Pension Plan. Forced retirement savings, matched by your employer."
+              "text": "Canada Pension Plan. A public pension you and your employer pay into, which pays you a monthly pension later."
             },
             {
               "title": "CPP2",
-              "text": "A second, smaller CPP layer on earnings between two set thresholds."
+              "text": "A second, smaller CPP layer on earnings between two set limits."
             },
             {
               "title": "EI",
@@ -348,7 +364,7 @@
             },
             {
               "title": "Basic Personal Amount",
-              "text": "The slice of income that is never taxed federally, given to every taxpayer."
+              "text": "The slice of income that is never taxed federally."
             },
             {
               "title": "Tax bracket",
@@ -373,13 +389,23 @@
   },
   "checkIn": {
     "questions": [
-      "My gross pay this period:",
-      "CPP and EI amounts, listed separately:",
-      "Income tax withheld, and whether it’s federal, provincial, or both:",
-      "Net pay, does it match what actually lands in my account?"
+      "What was your gross pay this pay period?",
+      "How much CPP and EI came off, listed separately?",
+      "How much income tax came off, and is it federal, provincial or both?",
+      "Does your net pay match what landed in your account?",
+      "Are there other deductions on your stub, such as benefits, a pension plan or union dues?",
+      "Did you change jobs, or work two jobs, this year?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "Look for the top line on your stub. An approximate number is fine.",
+      "For example: CPP $101.80, EI $30.09.",
+      "For example: $231.40, federal and provincial combined.",
+      "Yes, no, or not sure.",
+      "List any you see, or write “none.”",
+      "Yes or no. If yes, expect CPP and EI to restart at the new job."
+    ]
   },
   "sources": []
 }

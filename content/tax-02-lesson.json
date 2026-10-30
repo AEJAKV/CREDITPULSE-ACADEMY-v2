@@ -16,11 +16,17 @@
         },
         {
           "type": "paragraph",
-          "text": "And somewhere in the back of your mind, a voice says: wait, won’t this push me into a higher bracket? Won’t I actually end up with less? No. You won’t."
+          "text": "And somewhere in the back of your mind, a voice says: wait, won’t this push me into a higher bracket? Won’t I end up with less? No. You won’t."
         },
         {
           "type": "paragraph",
-          "text": "That fear has a name — it’s a misunderstanding of marginal tax rates — and it talks people out of raises, promotions, and side income every single year. This module exists to put it to rest, permanently."
+          "text": "That fear comes from a mix-up about marginal tax rates, and it talks people out of raises, promotions and side income every year. This lesson puts it to rest for good."
+        },
+        {
+          "type": "transition",
+          "text": "Say yes to more money with confidence, because you’ll know what it is worth.",
+          "detail": "Once you see how the shelves work, you can price a raise, overtime or a side gig in minutes instead of guessing.",
+          "extra": "Section 04 runs the numbers on a real salary."
         }
       ]
     },
@@ -39,11 +45,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Here’s the part that matters most: your tax rate for a shelf only applies to the income sitting on that shelf. Not your whole income. Just that slice."
+          "text": "Here’s the part that matters most: a shelf’s tax rate applies only to the income sitting on that shelf. Not your whole income. Just that slice."
         },
         {
           "type": "paragraph",
-          "text": "So when someone says “I’m in the 20.5% bracket,” they don’t mean 20.5% of everything they earn. They mean their top dollars — the ones sitting on that particular shelf — are taxed at that rate. Every dollar below it is still taxed at the lower rates of the shelves underneath."
+          "text": "When someone says “I’m in the 20.5% bracket,” they don’t mean 20.5% of everything they earn. They mean their top dollars, the ones on that shelf, are taxed at that rate. Every dollar below is still taxed at the lower rates of the shelves underneath."
         }
       ]
     },
@@ -54,43 +60,49 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Here’s what the shelves actually look like this year, federally."
+          "text": "Here’s what the federal shelves look like for 2026."
         },
         {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "Federal tax shelves, 2026",
+          "detail": "Taxable income",
           "items": [
             {
               "title": "Up to $58,523",
-              "text": "Income on this shelf: 14% — Rate on this shelf: "
+              "text": "14% — on the first $58,523 of taxable income."
             },
             {
               "title": "$58,523 to $117,045",
-              "text": "Income on this shelf: 20.5% — Rate on this shelf: "
+              "text": "20.5% — on the slice between these two amounts."
             },
             {
               "title": "$117,045 to $181,440",
-              "text": "Income on this shelf: 26% — Rate on this shelf: "
+              "text": "26% — on the slice between these two amounts."
             },
             {
               "title": "$181,440 to $258,482",
-              "text": "Income on this shelf: 29% — Rate on this shelf: "
+              "text": "29% — on the slice between these two amounts."
             },
             {
               "title": "Above $258,482",
-              "text": "Income on this shelf: 33% — Rate on this shelf: "
+              "text": "33% — only on income above $258,482."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Your province stacks its own shelves on top of these, at its own rates. That’s a separate calculation, and it’s why take-home pay looks different across provinces even at the same salary. We’ll leave the province-by-province detail for another module — for now, the shelf idea is what matters."
+          "text": "Your province stacks its own shelves on top of these, at its own rates. Your combined marginal rate is the federal rate plus the provincial rate on your top dollar. That’s why take-home pay differs across provinces at the same salary. The CRA lists every province’s rates on its website."
+        },
+        {
+          "type": "spotlight",
+          "text": "The shelves apply to taxable income, not your salary. Deductions such as RRSP contributions, union dues and child care costs come off first, so less of your income reaches the higher shelves. Credits, like the Basic Personal Amount, work differently: they cut the tax itself after it is worked out."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If I earn $60,000, all of it gets taxed at 20.5% because that’s my bracket.”",
-              "text": "Only about $1,500 of it does — the sliver sitting above $58,523. The other $58,523 is still taxed at 14%, the same as someone earning exactly that amount. Your bracket describes your last dollar, never your whole income."
+              "text": "Only about $1,500 of it does, the sliver above $58,523. The other $58,523 is still taxed at 14%, the same as someone earning exactly that amount. Your bracket describes your last dollar, never your whole income."
             }
           ]
         }
@@ -103,7 +115,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Numbers convince better than explanations. Here’s someone earning $70,000 in 2026, federal tax only."
+          "text": "Numbers beat explanations. Here’s someone with $70,000 of taxable income in 2026, federal tax only."
         },
         {
           "type": "chips",
@@ -128,11 +140,11 @@
         },
         {
           "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: MARGINAL RATE VS. EFFECTIVE RATE, THE TWO NUMBERS PEOPLE MIX UP"
+          "text": "CREDIT PULSE SPOTLIGHT: MARGINAL RATE VS. EFFECTIVE RATE"
         },
         {
           "type": "spotlight",
-          "text": "In that example, this person’s marginal rate is 20.5%. That’s the rate on their next dollar earned — the rate that matters for decisions like taking on overtime or a side gig. But their effective rate — total tax divided by total income — works out to about 15%. That’s the rate that actually describes how much of their whole paycheque went to tax. Both numbers are real. They just answer different questions. Marginal rate answers “what happens if I earn one more dollar?” Effective rate answers “overall, what share of my income did I actually pay?” Mixing them up is where the raise-anxiety myth comes from in the first place."
+          "text": "In that example, the marginal rate is 20.5%. That’s the rate on the next dollar earned, the one that matters for overtime or a side gig. The effective rate, total tax divided by total income, is about 15%. That’s the share of the whole income that went to tax. Both numbers are real, and they answer different questions. Marginal rate answers “What happens if I earn one more dollar?” Effective rate answers “Overall, what share did I pay?” Mixing them up is where the raise-anxiety myth comes from."
         }
       ]
     },
@@ -143,26 +155,30 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Understanding your marginal rate isn’t just trivia. It’s the number behind several real financial choices."
+          "text": "Your marginal rate isn’t trivia. It’s the number behind several real money choices."
         },
         {
           "type": "paragraph",
-          "text": "RRSP contributions. An RRSP contribution reduces your taxable income at your marginal rate — the rate on your top shelf, not your average rate. Someone earning enough to sit on the 29% shelf gets a bigger tax saving per dollar contributed than someone sitting on the 14% shelf. This is why RRSP contributions are often more valuable in your highest-earning years."
+          "text": "RRSP contributions. An RRSP contribution lowers your taxable income, so it saves tax at your marginal rate, the rate on your top shelf. Someone on the 29% shelf saves more per dollar than someone on the 14% shelf. That’s why RRSP contributions are often worth more in your highest-earning years."
         },
         {
           "type": "paragraph",
-          "text": "A raise or a bonus. Once you know only your top slice moves to a new rate, the anxiety mostly disappears. A raise that pushes a small sliver of your income onto a higher shelf still leaves you with more money overall. Always."
+          "text": "A raise or a bonus. Once you know only your top slice moves to a new rate, the worry mostly fades. A raise that pushes a sliver of income onto a higher shelf still leaves you with more money overall."
         },
         {
           "type": "paragraph",
-          "text": "A side gig or freelance income. Extra income stacks on top of what you already earn. If your day job already fills your lower shelves, side income often lands on a higher shelf right away. Worth knowing before you spend it, so a tax bill doesn’t surprise you the following spring."
+          "text": "A side gig or freelance income. Extra income stacks on top of what you already earn. If your day job already fills your lower shelves, side income often lands on a higher shelf right away. Set some aside, so a tax bill doesn’t surprise you the next spring."
+        },
+        {
+          "type": "spotlight",
+          "text": "Watch for benefits that shrink as income grows. Income-tested payments, like the Canada Child Benefit, the GST/HST credit and the Canada Workers Benefit, get smaller as your family income rises. Add that to your tax rate and a raise can keep less than you expect. You still come out ahead, but if you get these benefits, count them when you weigh extra work."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Everyone should max out their RRSP as early as possible to save on tax.”",
-              "text": "The tax saving is bigger in years you sit on a higher shelf. Someone in a lower-earning year, like a first job or a parental leave, may get more value contributing later, once their income — and their marginal rate — has climbed. Timing the contribution to your shelf can matter as much as the amount."
+              "text": "The tax saving is bigger in years you sit on a higher shelf. In a lower-earning year, like a first job or a parental leave, you may get more value by saving the room and contributing later, once your income and marginal rate have climbed. Timing the contribution can matter as much as the amount."
             }
           ]
         }
@@ -190,11 +206,11 @@
             },
             {
               "title": "I haven’t confused a raise with a pay cut — a raise always leaves you with more, never less.",
-              "text": ""
+              "text": "I won’t confuse a raise with a pay cut. A raise leaves me with more, never less."
             },
             {
               "title": "I’ve checked whether my province adds its own shelves on top, since the full picture includes both.",
-              "text": ""
+              "text": "I’ve checked my province’s shelves too, since the full picture includes both."
             }
           ]
         }
@@ -211,16 +227,24 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Renata was offered a promotion that would push her salary from $55,000 to $62,000. Good news, on paper.",
-            "Her uncle, over dinner, told her to think carefully — he’d heard that a raise like that could bump her into a higher bracket and she might actually take home less. He meant well. He was also wrong.",
-            "Renata almost turned the promotion down. Instead, she asked a coworker who’d taken a similar jump the year before. The coworker walked her through the shelf idea in about two minutes, on a napkin, at lunch.",
-            "Only the $3,477 above $58,523 would move to the 20.5% shelf. Everything below kept its 14% rate. Renata took the promotion. Her paycheque grew, exactly as it should have — just not by quite as much as $7,000 flat, which is a very different thing from taking home less."
+            "Renata worked as a receptionist in a dental office in Halifax. She had been saving for a used car so she could stop taking two buses to work every morning. Then her manager offered her a promotion to office lead, with her salary going from $55,000 to $62,000.",
+            "That Sunday, over dinner, her uncle shook his head. A raise like that could bump her into a higher tax bracket, he warned, and she might end up taking home less. He meant well, and he sounded completely certain.",
+            "Renata lay awake that night doing sums in the dark. The new job meant more hours and more stress, and if it also meant less money, there was no point. On Monday morning she drafted a polite note turning it down.",
+            "Before she sent it, she decided to check one thing. She asked Kofi, a coworker who had made a similar jump the year before, and he grabbed a napkin in the lunchroom and drew a set of shelves.",
+            "Only the $3,477 above $58,523 would move up to the 20.5% shelf, he showed her. Everything below that line kept its 14% rate. Her uncle had mixed up the rate on her last few dollars with the rate on all of them.",
+            "Renata deleted the note and took the promotion. Her pay went up, though not by the full $7,000, since the top slice was taxed a little more. By spring she was driving her used car to work, and the napkin was folded in the glove box."
           ]
         },
         {
           "type": "takeaway",
-          "text": "Tax brackets work like shelves. Only the income sitting on a given shelf is taxed at that shelf’s rate — everything below keeps its lower rate. Your marginal rate is the rate on your next dollar. Your effective rate is your overall average. A raise never leaves you with less money, even if a slice of it lands on a higher shelf.",
+          "text": "Tax brackets work like shelves. Only the income on a shelf is taxed at that shelf’s rate, and everything below keeps its lower rate. Your marginal rate is the rate on your next dollar. Your effective rate is your overall average. A raise never leaves you with less money, even if a slice of it lands on a higher shelf.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Weigh every money decision by the rate on your next dollar.",
+          "detail": "Knowing your marginal rate helps you judge a raise, an RRSP contribution or a side gig on real numbers.",
+          "extra": "Section 08 helps you find your own shelf."
         }
       ]
     },
@@ -234,15 +258,15 @@
           "items": [
             {
               "title": "Find your own income on the federal shelf table above and note which shelf your top dollar sits on.",
-              "text": ""
+              "text": "Find your taxable income on the federal shelf table and note which shelf your top dollar sits on."
             },
             {
               "title": "If you’ve been offered a raise, bonus or side income and hesitated because of tax, redo the math using the shelf method before deciding.",
-              "text": ""
+              "text": "If you hesitated over a raise, bonus or side income because of tax, redo the math with the shelf method before you decide."
             },
             {
               "title": "If you contribute to an RRSP, think about whether this year’s shelf, or a future higher one, makes the contribution worth more.",
-              "text": ""
+              "text": "If you contribute to an RRSP, ask whether this year’s shelf, or a higher one later, makes the contribution worth more."
             }
           ]
         },
@@ -269,15 +293,15 @@
             },
             {
               "title": "Effective tax rate",
-              "text": "Your total tax divided by your total income. Your real overall average."
+              "text": "Your total tax divided by your total income. Your overall average."
             },
             {
               "title": "Tax bracket",
-              "text": "A range of income taxed at one rate. Higher brackets never apply retroactively to income below them."
+              "text": "A range of income taxed at one rate. A higher bracket never applies to income below it."
             },
             {
               "title": "Taxable income",
-              "text": "Your income after deductions, like RRSP contributions, are subtracted. What the shelves actually apply to."
+              "text": "Your income after deductions, like RRSP contributions, come off. This is what the shelves apply to."
             }
           ]
         },
@@ -298,13 +322,23 @@
   },
   "checkIn": {
     "questions": [
-      "My approximate taxable income this year:",
-      "Which federal shelf does my top dollar sit on?",
-      "My marginal rate versus my rough effective rate, are they the same in my head, or different?",
-      "A decision I’ve been putting off because of tax fear, does the shelf model change it?"
+      "About how much taxable income will you have this year?",
+      "Which federal shelf does your top dollar sit on?",
+      "What is your combined marginal rate, federal plus provincial?",
+      "Did your marginal and effective rates feel like the same thing before this lesson?",
+      "Do you get any benefits that shrink as your income rises?",
+      "What decision have you put off because of tax fear, and does the shelf idea change it?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "A rough number is fine. Start with your salary and take off RRSP contributions.",
+      "For example: the 20.5% shelf, from $58,523 to $117,045.",
+      "Look up your province on the CRA rates page, or write “not sure.”",
+      "Yes, no, or not sure.",
+      "For example: the Canada Child Benefit or the GST/HST credit, or none.",
+      "For example: overtime, a promotion or a side gig."
+    ]
   },
   "sources": []
 }

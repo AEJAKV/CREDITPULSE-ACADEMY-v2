@@ -142,7 +142,14 @@ export function TierProgress({ course, enrollment }: { course: Course; enrollmen
     </section>
   );
 }
-export function ReaderTools({ sections }: { sections: { id: string; title: string }[] }) {
+export function ReaderTools({
+  sections,
+  numberFrom = 0,
+}: {
+  sections: { id: string; title: string }[];
+  /** First section number in the rail; the draft lesson layout counts from 1. */
+  numberFrom?: number;
+}) {
   const [percent, setPercent] = useState(0),
     [active, setActive] = useState(sections[0]?.id),
     [focus, setFocus] = useState(false),
@@ -230,7 +237,7 @@ export function ReaderTools({ sections }: { sections: { id: string; title: strin
                 key={s.id}
                 aria-current={active === s.id ? 'location' : undefined}
               >
-                <span>{String(i).padStart(2, '0')}</span>
+                <span>{String(i + numberFrom).padStart(2, '0')}</span>
                 {s.title}
               </a>
             ))}

@@ -35,6 +35,8 @@ import {
   Target,
   Activity,
   TreePine,
+  Lightbulb,
+  X,
 } from 'lucide-react';
 import type { ReadingBlock } from '@/lib/types';
 import {
@@ -91,12 +93,16 @@ export function ReadingBlocks({
   blocks,
   checkIn,
   heading,
+  variant = 'a',
 }: {
   blocks: ReadingBlock[];
   checkIn?: React.ReactNode;
   /** The section title, used to name a day carousel when no heading block leads into it. */
   heading?: string;
+  /** 'b' is the draft lesson layout under review (?layout=b); 'a' is the live design. */
+  variant?: 'a' | 'b';
 }) {
+  const b = variant === 'b';
   return (
     <>
       {blocks.map((block, i) => {
@@ -131,6 +137,18 @@ export function ReadingBlocks({
           case 'utilization':
             return <UtilizationCalculator key={i} />;
           case 'spotlight':
+            if (b)
+              return (
+                <aside className="b-key-idea" key={i}>
+                  <span className="b-key-idea-icon" aria-hidden="true">
+                    <Lightbulb size={20} />
+                  </span>
+                  <div>
+                    <span className="b-label">Key idea</span>
+                    <p>{block.text}</p>
+                  </div>
+                </aside>
+              );
             return (
               <aside className="pulse-spotlight" key={i}>
                 <span className="eyebrow">
@@ -140,6 +158,20 @@ export function ReadingBlocks({
               </aside>
             );
           case 'transition':
+            if (b)
+              return (
+                <aside className="b-bridge" key={i}>
+                  <span className="b-label">Why keep reading</span>
+                  <h3>{block.text}</h3>
+                  {block.detail && <p>{block.detail}</p>}
+                  {block.extra && (
+                    <p className="b-bridge-extra">
+                      <ArrowRight size={16} aria-hidden="true" />
+                      {block.extra}
+                    </p>
+                  )}
+                </aside>
+              );
             return (
               <aside className="reading-transition" key={i}>
                 <h3>{block.text}</h3>
@@ -153,6 +185,8 @@ export function ReadingBlocks({
               </aside>
             );
           case 'artwork':
+            // The draft drops this decorative carousel: it repeats the lesson subtitle.
+            if (b) return null;
             return <LessonArtworkCarousel key={i} items={items} />;
           case 'paydays':
             return (
@@ -343,7 +377,7 @@ export function ReadingBlocks({
                 className={
                   iconic
                     ? `factor-grid has-icons${items.length % 3 === 0 || items.length === 5 ? ' by-three' : ''}`
-                    : 'factor-grid'
+                    : `factor-grid${b ? ' b-factors' : ''}`
                 }
                 key={i}
               >
@@ -358,6 +392,7 @@ export function ReadingBlocks({
                       ) : (
                         <span>{String(j + 1).padStart(2, '0')}</span>
                       )}
+                      {b && !iconic && j < 2 && <em className="b-impact">Biggest impact</em>}
                       <h3>{item.title}</h3>
                       <p>{item.text}</p>
                     </article>
@@ -367,7 +402,15 @@ export function ReadingBlocks({
             );
           }
           case 'filecards':
-            return <FileCards key={i} heading={block.text} image={block.image} focus={block.focus} items={items} />;
+            return (
+              <FileCards
+                key={i}
+                heading={block.text}
+                image={block.image}
+                focus={block.focus}
+                items={items}
+              />
+            );
           case 'glasspanel':
             return (
               <div className="score-frame glass-panel-frame" key={i}>
@@ -419,6 +462,27 @@ export function ReadingBlocks({
               </div>
             );
           case 'myths':
+            if (b)
+              return (
+                <div className="b-myths" key={i}>
+                  {items.map((item) => (
+                    <article key={item.title}>
+                      <div className="b-myth">
+                        <span className="b-myth-tag">
+                          <X size={14} aria-hidden="true" /> Myth
+                        </span>
+                        <h3>{item.title}</h3>
+                      </div>
+                      <div className="b-fact">
+                        <span className="b-myth-tag">
+                          <Check size={14} aria-hidden="true" /> Fact
+                        </span>
+                        <p>{item.text}</p>
+                      </div>
+                    </article>
+                  ))}
+                </div>
+              );
             return (
               <div className="myth-stack" key={i}>
                 {items.map((item) => (
@@ -434,6 +498,28 @@ export function ReadingBlocks({
               </div>
             );
           case 'story':
+            if (b && block.image)
+              return (
+                <article className="b-story" key={i}>
+                  <div
+                    className="b-story-photo"
+                    style={{ backgroundImage: `url(${block.image})` }}
+                    aria-hidden="true"
+                  />
+                  <div className="b-story-body">
+                    <span className="b-label">Real-life story · {block.detail}</span>
+                    <h3>{block.text}</h3>
+                    {block.paragraphs?.map((text, j) => (
+                      <p
+                        key={j}
+                        className={j === (block.paragraphs?.length ?? 0) - 1 ? 'b-story-moral' : ''}
+                      >
+                        {text}
+                      </p>
+                    ))}
+                  </div>
+                </article>
+              );
             if (block.image)
               return (
                 <article className="reader-story photo-story" key={i}>
@@ -488,7 +574,7 @@ export function ReadingBlocks({
             );
           case 'ordered':
             return (
-              <ol className="priority-list" key={i}>
+              <ol className={`priority-list${b ? ' b-steps' : ''}`} key={i}>
                 {items.map((item, j) => (
                   <li key={`${j}-${item.title}`}>
                     <span>{j + 1}</span>
@@ -517,7 +603,7 @@ export function ReadingBlocks({
                 {items.map((item, j) => (
                   <details key={item.title}>
                     <summary>
-                      <span>{j + 6}</span>
+                      <span>{b ? j + 1 : j + 6}</span>
                       {item.title}
                       <Plus size={18} />
                     </summary>

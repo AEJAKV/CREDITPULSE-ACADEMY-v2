@@ -1,7 +1,16 @@
 import { courseView } from '@/lib/view';
 import Link from 'next/link';
 import { notFound, redirect } from 'next/navigation';
-import { Clock3, ShieldCheck, Check, ChevronRight, LockKeyhole } from 'lucide-react';
+import {
+  ArrowDown,
+  ArrowRight,
+  Clock3,
+  Check,
+  ChevronRight,
+  Gift,
+  ListChecks,
+  LockKeyhole,
+} from 'lucide-react';
 import { requireAccount } from '@/lib/auth';
 import { canAccess, courses, getCourse, segmentLessons, tiers, segmentNames } from '@/lib/catalog';
 import { getContent } from '@/lib/store';
@@ -83,11 +92,22 @@ export async function generateMetadata({
   const lesson = getCourse(p.courseId)?.lessons.find((l) => l.id === p.lessonId);
   return { title: lesson?.title || 'Lesson' };
 }
+// Draft learning outcomes for the ?layout=b review. Only lessons listed here show the card.
+const outcomes: Record<string, string[]> = {
+  'credit-01': [
+    'Read a Canadian credit score on the 300 to 900 scale',
+    'Name the habits that move your score the most',
+    'Work out your own credit utilization',
+  ],
+};
 export default async function LessonPage({
   params,
+  searchParams,
 }: {
   params: Promise<{ courseId: string; lessonId: string }>;
+  searchParams: Promise<{ layout?: string }>;
 }) {
+  const variant = (await searchParams).layout === 'b' ? 'b' : 'a';
   const p = await params,
     user = await requireAccount(),
     course = await courseView(p.courseId);
@@ -134,9 +154,9 @@ export default async function LessonPage({
         <ChevronRight size={13} />
         <span>Lesson {lesson.number}</span>
       </div>
-      <div className="lesson-topline">
-        <TierBadge tier={lesson.tier} small />
-        <span>
+      <div className={`lesson-topline ${variant === 'b' ? 'b-topline' : ''}`}>
+        {variant === 'a' && <TierBadge tier={lesson.tier} small />}
+        <span hidden={variant === 'b'}>
           {completed
             ? 'Completed · ready to review'
             : `Lesson ${lessons.indexOf(lesson) + 1} of ${lessons.length} in this segment`}
@@ -147,45 +167,117 @@ export default async function LessonPage({
           saved={enrollment.saved.includes(lesson.id)}
         />
       </div>
-      <div className="lesson-layout">
-        <ReaderTools sections={content.sections.map((s) => ({ id: s.id, title: s.title }))} />
+      <div className={`lesson-layout ${variant === 'b' ? 'lesson-b' : ''}`}>
+        <ReaderTools
+          sections={content.sections.map((s) => ({ id: s.id, title: s.title }))}
+          numberFrom={variant === 'b' ? 1 : 0}
+        />
         <article className="lesson-article" data-course={course.id}>
-          <header className="lesson-header premium-lesson-hero">
-            {heroImages[lesson.id] && (
-              <span
-                className="lesson-hero-image"
-                style={{ backgroundImage: `url(${heroImages[lesson.id]})` }}
-                aria-hidden="true"
+          {variant === 'b' ? (
+            <header className="b-hero">
+              {heroImages[lesson.id] && (
+                <span
+                  className="b-hero-image"
+                  style={{ backgroundImage: `url(${heroImages[lesson.id]})` }}
+                  aria-hidden="true"
+                />
+              )}
+              <div className="b-hero-main">
+                <div className="b-hero-kicker">
+                  <span>
+                    Course {courses.findIndex((c) => c.id === course.id) + 1}.{lesson.number}
+                  </span>
+                  <span>
+                    {tiers[lesson.tier]} · Lesson {lessons.indexOf(lesson) + 1} of {lessons.length}
+                  </span>
+                </div>
+                <h1>{content.title}</h1>
+                {content.subtitle && <p className="b-hero-hook">{content.subtitle}</p>}
+                <p className="b-hero-summary">{content.summary}</p>
+                <ul className="b-hero-meta" aria-label="About this lesson">
+                  <li>
+                    <Clock3 size={16} />
+                    {lesson.id === 'credit-01' ? '35–45 min' : `${content.minutes} min`}
+                  </li>
+                  <li>
+                    <ListChecks size={16} />
+                    {content.sections.length} short sections
+                  </li>
+                  {content.checkIn?.rewardLabel && (
+                    <li className="is-reward">
+                      <Gift size={16} />
+                      Reward for the check-in
+                    </li>
+                  )}
+                </ul>
+                <div className="b-hero-actions">
+                  <a href="#start" className="button primary continue-cta">
+                    {completed ? 'Review this lesson' : 'Start learning'}
+                    <ArrowRight size={18} aria-hidden="true" />
+                  </a>
+                  <span className={`b-hero-status ${completed ? 'is-done' : ''}`}>
+                    {completed ? (
+                      <>
+                        <Check size={15} /> Completed
+                      </>
+                    ) : (
+                      'Not started yet'
+                    )}
+                  </span>
+                </div>
+              </div>
+              {outcomes[lesson.id] && (
+                <aside className="b-outcomes">
+                  <span className="b-label">By the end, you can</span>
+                  <ol>
+                    {outcomes[lesson.id].map((o) => (
+                      <li key={o}>
+                        <Check size={16} aria-hidden="true" />
+                        {o}
+                      </li>
+                    ))}
+                  </ol>
+                </aside>
+              )}
+            </header>
+          ) : (
+            <header className="lesson-header premium-lesson-hero">
+              {heroImages[lesson.id] && (
+                <span
+                  className="lesson-hero-image"
+                  style={{ backgroundImage: `url(${heroImages[lesson.id]})` }}
+                  aria-hidden="true"
+                />
+              )}
+              <span className="lesson-hero-glyph">
+                <TierGlyph tier={lesson.tier} size={110} />
+              </span>
+              <div className="eyebrow">
+                COURSE {courses.findIndex((c) => c.id === course.id) + 1}.{lesson.number} ·{' '}
+                {course.short.toUpperCase()} FOUNDATIONS
+              </div>
+              <h1>{content.title}</h1>
+              {content.subtitle && <p className="lesson-subtitle">{content.subtitle}</p>}
+              <p className="lead">{content.summary}</p>
+              <div className="lesson-chips">
+                <span>
+                  <Clock3 size={16} />
+                  {lesson.id === 'credit-01' ? '35–45 minutes' : `${content.minutes} minutes`}
+                </span>
+                <span>
+                  <Check size={16} />
+                  One course check-in
+                </span>
+              </div>
+              <a href="#start" className="button primary lesson-start">
+                Start learning <ChevronRight size={16} />
+              </a>
+              <Progress
+                value={Math.round((enrollment.completed.length / course.total) * 100)}
+                label="Completed course lessons"
               />
-            )}
-            <span className="lesson-hero-glyph">
-              <TierGlyph tier={lesson.tier} size={110} />
-            </span>
-            <div className="eyebrow">
-              COURSE {courses.findIndex((c) => c.id === course.id) + 1}.{lesson.number} ·{' '}
-              {course.short.toUpperCase()} FOUNDATIONS
-            </div>
-            <h1>{content.title}</h1>
-            {content.subtitle && <p className="lesson-subtitle">{content.subtitle}</p>}
-            <p className="lead">{content.summary}</p>
-            <div className="lesson-chips">
-              <span>
-                <Clock3 size={16} />
-                {lesson.id === 'credit-01' ? '35–45 minutes' : `${content.minutes} minutes`}
-              </span>
-              <span>
-                <Check size={16} />
-                One course check-in
-              </span>
-            </div>
-            <a href="#start" className="button primary lesson-start">
-              Start learning <ChevronRight size={16} />
-            </a>
-            <Progress
-              value={Math.round((enrollment.completed.length / course.total) * 100)}
-              label="Completed course lessons"
-            />
-          </header>
+            </header>
+          )}
           <details className="mobile-toc">
             <summary>On this page</summary>
             {content.sections.map((s) => (
@@ -202,14 +294,31 @@ export default async function LessonPage({
               data-reveal
               className={`reading-section ${section.kind ? `callout ${section.kind}` : ''}`}
             >
-              <div className="reading-section-label">
-                {String(content.sections.indexOf(section)).padStart(2, '0')} / {course.category}
-              </div>
-              <h2>{section.title}</h2>
+              {variant === 'b' ? (
+                <div className="b-section-head">
+                  <span className="b-section-num" aria-hidden="true">
+                    {String(content.sections.indexOf(section) + 1).padStart(2, '0')}
+                  </span>
+                  <div>
+                    <span className="b-section-of">
+                      Section {content.sections.indexOf(section) + 1} of {content.sections.length}
+                    </span>
+                    <h2>{section.title}</h2>
+                  </div>
+                </div>
+              ) : (
+                <>
+                  <div className="reading-section-label">
+                    {String(content.sections.indexOf(section)).padStart(2, '0')} / {course.category}
+                  </div>
+                  <h2>{section.title}</h2>
+                </>
+              )}
               {section.blocks && (
                 <ReadingBlocks
                   blocks={section.blocks}
                   heading={section.title}
+                  variant={variant}
                   checkIn={
                     content.checkIn && (
                       <SourceCheckIn
@@ -230,6 +339,16 @@ export default async function LessonPage({
               {section.paragraphs.map((text, i) => (
                 <p key={i}>{text}</p>
               ))}
+              {variant === 'b' && content.sections[content.sections.indexOf(section) + 1] && (
+                <a
+                  className="b-up-next"
+                  href={`#${content.sections[content.sections.indexOf(section) + 1].id}`}
+                >
+                  <span>Up next</span>
+                  <strong>{content.sections[content.sections.indexOf(section) + 1].title}</strong>
+                  <ArrowDown size={16} aria-hidden="true" />
+                </a>
+              )}
             </section>
           ))}
           {isLast && lesson.tier < 5 && (

@@ -244,16 +244,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "If you don’t have an RESP open for a child in your life, look into opening one — even a modest amount starts capturing grant money.",
-              "text": "If you don’t have an RESP for a child in your life, look into opening one. Even a small amount starts earning grant money."
+              "title": "If you don’t have an RESP for a child in your life, look into opening one. Even a small amount starts earning grant money.",
+              "text": ""
             },
             {
-              "title": "Check whether your family income might qualify for the Canada Learning Bond, which requires no contribution at all.",
-              "text": "Check whether your family’s income might qualify for the Canada Learning Bond. It needs no deposit."
+              "title": "Check whether your family’s income might qualify for the Canada Learning Bond. It needs no deposit.",
+              "text": ""
             },
             {
-              "title": "If you have a lump sum earmarked for education savings, plan how to spread it across years rather than depositing it all at once.",
-              "text": "If you have a lump sum set aside for education, plan how to spread it across years instead of depositing it all at once."
+              "title": "If you have a lump sum set aside for education, plan how to spread it across years instead of depositing it all at once.",
+              "text": ""
             }
           ]
         },

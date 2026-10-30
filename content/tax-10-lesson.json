@@ -245,16 +245,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "If you’re within ten years of 71, map out what your RRSP balance is likely to be at conversion, and what the minimum withdrawal would be on that amount.",
-              "text": "If you’re within ten years of 71, estimate your RRSP balance at conversion and the minimum withdrawal on that amount."
+              "title": "If you’re within ten years of 71, estimate your RRSP balance at conversion and the minimum withdrawal on that amount.",
+              "text": ""
             },
             {
-              "title": "If you’re already retired but not yet 71, look at whether these are low-income years worth using for early drawdown.",
-              "text": "If you’re retired but not yet 71, ask whether these are low-income years worth using to draw down early."
+              "title": "If you’re retired but not yet 71, ask whether these are low-income years worth using to draw down early.",
+              "text": ""
             },
             {
-              "title": "If you have a younger spouse, raise the younger-spouse election with your advisor before you convert, not after.",
-              "text": "If you have a younger spouse or partner, raise the younger-spouse option with your adviser before you convert, not after."
+              "title": "If you have a younger spouse or partner, raise the younger-spouse option with your adviser before you convert, not after.",
+              "text": ""
             }
           ]
         },

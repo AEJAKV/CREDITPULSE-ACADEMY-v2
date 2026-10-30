@@ -259,16 +259,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "If someone in your family has a long-term impairment and has never applied for the Disability Tax Credit, book the appointment to have Form T2201 completed. It’s the gate to everything here.",
-              "text": "If someone in your family has a long-term impairment and has never applied for the Disability Tax Credit, book an appointment to have Form T2201 filled out. It’s the gate to everything here."
+              "title": "If someone in your family has a long-term impairment and has never applied for the Disability Tax Credit, book an appointment to have Form T2201 filled out. It’s the gate to everything here.",
+              "text": ""
             },
             {
-              "title": "If the DTC is already approved, open an RDSP — even with no contribution. The bond may pay in regardless.",
-              "text": "If the DTC is already approved, open an RDSP, even with no deposit. The bond may pay in anyway."
+              "title": "If the DTC is already approved, open an RDSP, even with no deposit. The bond may pay in anyway.",
+              "text": ""
             },
             {
-              "title": "Look for the Statement of Entitlement, issued each February, to see exactly what carried-forward grant and bond room is available.",
-              "text": "Ask your RDSP provider how much carried-forward grant and bond room is available."
+              "title": "Ask your RDSP provider how much carried-forward grant and bond room is available.",
+              "text": ""
             }
           ]
         },

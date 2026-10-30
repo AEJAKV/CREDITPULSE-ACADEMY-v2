@@ -245,16 +245,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "For each investment goal you have, write down your actual time horizon — when will you genuinely need this money?",
-              "text": "For each investment goal, write down your time horizon: when will you need this money?"
+              "title": "For each investment goal, write down your time horizon: when will you need this money?",
+              "text": ""
             },
             {
-              "title": "Think honestly about how you reacted the last time an investment dropped, or imagine how you’d feel watching a portfolio fall 20% in a month.",
-              "text": "Be honest about how you reacted the last time an investment dropped, or picture watching a portfolio fall 20% in a month."
+              "title": "Be honest about how you reacted the last time an investment dropped, or picture watching a portfolio fall 20% in a month.",
+              "text": ""
             },
             {
-              "title": "If your current portfolio’s risk level came from a generic questionnaire, consider whether it actually matches your emotional comfort, not just your time horizon.",
-              "text": "If your portfolio’s risk level came from a quick online questionnaire, ask whether it matches your comfort, not just your time horizon."
+              "title": "If your portfolio’s risk level came from a quick online questionnaire, ask whether it matches your comfort, not just your time horizon.",
+              "text": ""
             }
           ]
         },

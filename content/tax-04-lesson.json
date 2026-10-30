@@ -264,16 +264,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "Look at last year’s tax return and sort your claims into two piles: deductions and credits.",
-              "text": "Look at last year’s return and sort your claims into two piles: deductions and credits."
+              "title": "Look at last year’s return and sort your claims into two piles: deductions and credits.",
+              "text": ""
             },
             {
-              "title": "Check your T4 for union or professional dues, a commonly missed deduction hiding in plain sight.",
-              "text": "Check box 44 of your T4 for union or professional dues, a commonly missed deduction hiding in plain sight."
+              "title": "Check box 44 of your T4 for union or professional dues, a commonly missed deduction hiding in plain sight.",
+              "text": ""
             },
             {
-              "title": "If you have unused tuition credits, figure out whether carrying them forward or transferring them makes more sense this year.",
-              "text": "If you have unused tuition amounts, decide whether to carry them forward or transfer them this year."
+              "title": "If you have unused tuition amounts, decide whether to carry them forward or transfer them this year.",
+              "text": ""
             }
           ]
         },

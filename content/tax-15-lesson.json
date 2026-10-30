@@ -224,16 +224,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "If there’s an account from this course you haven’t opened yet, open it this week, even with a small first contribution. The account existing matters more right now than the amount inside it.",
-              "text": "If there’s an account from this course you haven’t opened yet, open it this week, even with a small first deposit. Having the account matters more right now than the amount inside it."
+              "title": "If there’s an account from this course you haven’t opened yet, open it this week, even with a small first deposit. Having the account matters more right now than the amount inside it.",
+              "text": ""
             },
             {
-              "title": "Look back at Module 2.12’s fee comparison with this module’s math in mind — the same compounding that grows your money also amplifies the cost of unnecessary fees.",
-              "text": "Look back at the fee comparison in the Investment Fees lesson with this lesson’s math in mind. The same compounding that grows your money also grows the cost of high fees."
+              "title": "Look back at the fee comparison in the Investment Fees lesson with this lesson’s math in mind. The same compounding that grows your money also grows the cost of high fees.",
+              "text": ""
             },
             {
-              "title": "If you’ve been waiting for a better time to start investing, treat this module as the reason that wait has a real, calculable cost.",
-              "text": "If you’ve been waiting for a better time to start investing, treat this lesson as proof that the wait has a real cost."
+              "title": "If you’ve been waiting for a better time to start investing, treat this lesson as proof that the wait has a real cost.",
+              "text": ""
             }
           ]
         },

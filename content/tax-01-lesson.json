@@ -308,16 +308,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "Pull out your most recent pay stub and match every line on it to something in this module.",
-              "text": "Pull out your latest pay stub and match every line on it to something in this lesson."
+              "title": "Pull out your latest pay stub and match every line on it to something in this lesson.",
+              "text": ""
             },
             {
-              "title": "Check whether your income tax line is federal only or combined with provincial. If you’re not sure, ask your payroll department, it’s a normal question.",
-              "text": "Check whether your income tax line is federal only or combined with provincial. If you’re not sure, ask your payroll department. It’s a normal question."
+              "title": "Check whether your income tax line is federal only or combined with provincial. If you’re not sure, ask your payroll department. It’s a normal question.",
+              "text": ""
             },
             {
-              "title": "If you’ve changed jobs this year, note it down. It explains any CPP or EI surprise at tax time, months before it happens.",
-              "text": "If you changed jobs or worked two jobs this year, note it down. It explains any CPP or EI surprise at tax time, months before it happens."
+              "title": "If you changed jobs or worked two jobs this year, note it down. It explains any CPP or EI surprise at tax time, months before it happens.",
+              "text": ""
             }
           ]
         },

@@ -241,16 +241,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "Find the MER on every fund you currently hold. Check your statement, a fact sheet, or ask directly — don’t estimate.",
-              "text": "Find the MER on every fund you hold. Check the fact sheet or ask directly. Don’t estimate."
+              "title": "Find the MER on every fund you hold. Check the fact sheet or ask directly. Don’t estimate.",
+              "text": ""
             },
             {
-              "title": "Check your annual statement for the dollar amount of fees paid, not just a percentage. CRM2 rules require this to be disclosed clearly.",
-              "text": "Check your annual statement for the dollar fees you paid. From 2027, look for the new report that includes your funds’ MER in dollars."
+              "title": "Check your annual statement for the dollar fees you paid. From 2027, look for the new report that includes your funds’ MER in dollars.",
+              "text": ""
             },
             {
-              "title": "If your MER is well above 1%, research a comparable lower-cost alternative and ask your advisor or bank directly why the difference exists.",
-              "text": "If your MER is well above 1%, look up a similar lower-cost option and ask your adviser or bank why the difference exists."
+              "title": "If your MER is well above 1%, look up a similar lower-cost option and ask your adviser or bank why the difference exists.",
+              "text": ""
             }
           ]
         },

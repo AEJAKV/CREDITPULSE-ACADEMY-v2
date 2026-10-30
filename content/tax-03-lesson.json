@@ -242,16 +242,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "Check whether you have a CRA My Account. If not, set one up — it’s the fastest way to see your slips, your Notice of Assessment, and your RRSP room.",
-              "text": "Check whether you have a CRA account. If not, set one up. It’s the fastest way to see your slips, your Notice of Assessment and your RRSP room."
+              "title": "Check whether you have a CRA account. If not, set one up. It’s the fastest way to see your slips, your Notice of Assessment and your RRSP room.",
+              "text": ""
             },
             {
-              "title": "Gather your tax slips as they arrive, in one folder, physical or digital, so you’re not hunting for them in April.",
-              "text": "Gather your tax slips as they arrive, in one folder, paper or digital, so you’re not hunting for them in April."
+              "title": "Gather your tax slips as they arrive, in one folder, paper or digital, so you’re not hunting for them in April.",
+              "text": ""
             },
             {
               "title": "If you skipped filing in a past low-income year, consider filing it now. It’s rarely too late, and it may unlock benefits you never claimed.",
-              "text": "If you skipped filing in a past low-income year, consider filing it now. It’s rarely too late, and it may unlock benefits you never claimed."
+              "text": ""
             }
           ]
         },

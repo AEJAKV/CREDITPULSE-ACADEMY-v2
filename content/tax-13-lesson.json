@@ -214,16 +214,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "List every fund you currently hold, and note whether each is a mutual fund or an ETF, and actively or passively managed.",
-              "text": "List every fund you hold, and note whether each one is a mutual fund or an ETF, and active or passive."
+              "title": "List every fund you hold, and note whether each one is a mutual fund or an ETF, and active or passive.",
+              "text": ""
             },
             {
-              "title": "Check for overlap between funds — are you paying multiple management fees to hold many of the same underlying companies?",
-              "text": "Check for overlap: are you paying several management fees to hold many of the same companies?"
+              "title": "Check for overlap: are you paying several management fees to hold many of the same companies?",
+              "text": ""
             },
             {
-              "title": "If you’re considering simplifying, research an all-in-one ETF at a risk level that matches your goals.",
-              "text": "If you want to simplify, look into an all-in-one ETF at a risk level that fits your goals."
+              "title": "If you want to simplify, look into an all-in-one ETF at a risk level that fits your goals.",
+              "text": ""
             }
           ]
         },

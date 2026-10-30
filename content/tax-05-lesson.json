@@ -244,16 +244,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "Log into your CRA My Account and check your actual current TFSA room — don’t rely on memory or estimates.",
-              "text": "Find the room the CRA showed for January 1 this year, then subtract everything you’ve put into any TFSA since then."
+              "title": "Find the room the CRA showed for January 1 this year, then subtract everything you’ve put into any TFSA since then.",
+              "text": ""
             },
             {
-              "title": "If you’ve withdrawn from your TFSA this year, note the date and the amount, so you know exactly when that room comes back.",
-              "text": "If you took money out of your TFSA this year, write down the date and amount, so you know when that room comes back."
+              "title": "If you took money out of your TFSA this year, write down the date and amount, so you know when that room comes back.",
+              "text": ""
             },
             {
-              "title": "If your TFSA is sitting mostly in cash, consider whether it should hold longer-term investments instead — that’s a conversation worth having with a financial advisor if you’re unsure.",
-              "text": "If your TFSA is mostly cash, think about whether it should hold longer-term investments. A licensed adviser can help if you’re unsure."
+              "title": "If your TFSA is mostly cash, think about whether it should hold longer-term investments. A licensed adviser can help if you’re unsure.",
+              "text": ""
             }
           ]
         },

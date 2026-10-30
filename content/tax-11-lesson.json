@@ -244,15 +244,15 @@
           "items": [
             {
               "title": "Write down which shelf you’re on this year, and whether you expect to be higher or lower in retirement.",
-              "text": "Write down which shelf you’re on this year, and whether you expect to be higher or lower in retirement."
+              "text": ""
             },
             {
-              "title": "Check whether any matched money is available to you — employer pension matching, RESP grants, RDSP grants or bonds. Those come first.",
-              "text": "Check whether any matched money is open to you: an employer pension match, RESP grants, or RDSP grants and bonds. Those come first."
+              "title": "Check whether any matched money is open to you: an employer pension match, RESP grants, or RDSP grants and bonds. Those come first.",
+              "text": ""
             },
             {
-              "title": "List the accounts you currently have open, and mark each as tax-free or tax-deferred. If they’re all one kind, ask whether that still fits your situation.",
-              "text": "List the accounts you have open, and mark each one tax-free or tax-deferred. If they’re all one kind, ask whether that still fits your life."
+              "title": "List the accounts you have open, and mark each one tax-free or tax-deferred. If they’re all one kind, ask whether that still fits your life.",
+              "text": ""
             }
           ]
         },

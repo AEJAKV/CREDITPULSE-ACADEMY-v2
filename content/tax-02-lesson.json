@@ -257,16 +257,16 @@
           "type": "ordered",
           "items": [
             {
-              "title": "Find your own income on the federal shelf table above and note which shelf your top dollar sits on.",
-              "text": "Find your taxable income on the federal shelf table and note which shelf your top dollar sits on."
+              "title": "Find your taxable income on the federal shelf table and note which shelf your top dollar sits on.",
+              "text": ""
             },
             {
-              "title": "If you’ve been offered a raise, bonus or side income and hesitated because of tax, redo the math using the shelf method before deciding.",
-              "text": "If you hesitated over a raise, bonus or side income because of tax, redo the math with the shelf method before you decide."
+              "title": "If you hesitated over a raise, bonus or side income because of tax, redo the math with the shelf method before you decide.",
+              "text": ""
             },
             {
-              "title": "If you contribute to an RRSP, think about whether this year’s shelf, or a future higher one, makes the contribution worth more.",
-              "text": "If you contribute to an RRSP, ask whether this year’s shelf, or a higher one later, makes the contribution worth more."
+              "title": "If you contribute to an RRSP, ask whether this year’s shelf, or a higher one later, makes the contribution worth more.",
+              "text": ""
             }
           ]
         },

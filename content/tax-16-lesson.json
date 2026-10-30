@@ -12,49 +12,26 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Retirement planning is the work of turning future income, savings and benefits into a paycheque you can actually trust — not a contest to reach one dramatic account balance. A large number with no withdrawal plan can still produce a very confusing Tuesday."
+          "text": "Retirement planning is the work of turning future income, savings and benefits into a paycheque you can trust. It isn’t a race to one big account balance. A large number with no plan for taking it out can still make for a confusing Tuesday."
         },
         {
           "type": "paragraph",
-          "text": "This course helps you find where your retirement income will actually come from, price what it needs to cover, and get organized before you sit down with a real financial planner or tax professional. It is general Canadian education, not personal advice — pension rules and tax treatment shift, so verify anything time-sensitive with the right government office or professional before you rely on it."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Identify the main layers of Canadian retirement income — government, workplace and personal.",
-              "text": ""
-            },
-            {
-              "title": "Estimate retirement spending in plain, monthly, no-jargon terms.",
-              "text": ""
-            },
-            {
-              "title": "Explain how your starting age changes CPP or QPP and OAS for life.",
-              "text": ""
-            },
-            {
-              "title": "Recognize the different job each account does: RRSP, RRIF, TFSA, workplace pension and non-registered savings.",
-              "text": ""
-            },
-            {
-              "title": "Spot major retirement risks before they turn into emergencies.",
-              "text": ""
-            },
-            {
-              "title": "Build your own one-page retirement income map.",
-              "text": ""
-            }
-          ]
+          "text": "This lesson helps you find where your retirement income will come from, price what it needs to cover and get organized before you sit down with a financial planner or tax professional. It’s general Canadian education, not personal advice. Pension rules and tax treatment change, so check anything time-sensitive with the right government office or a professional before you rely on it."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Retirement planning is mainly about choosing the right investments.”",
-              "text": "Investments matter, but so do spending, taxes, pension dates, housing, insurance, benefit eligibility and estate instructions. A great portfolio cannot fix a plan that forgot about its bills."
+              "text": "Investments matter, but so do spending, taxes, pension dates, housing, insurance, benefit rules and estate instructions. A great portfolio can’t fix a plan that forgot about the bills."
             }
           ]
+        },
+        {
+          "type": "transition",
+          "text": "Turn your savings and pensions into a paycheque you can count on for life.",
+          "detail": "Knowing where each dollar will come from, and when, lets you retire with a plan instead of a guess.",
+          "extra": "Section 04 shows how your starting age changes your public pensions for life."
         }
       ]
     },
@@ -65,23 +42,23 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A useful retirement plan starts with the life you expect to live — the account balance comes second. Picture an ordinary month: where will you live, is a mortgage or rent still due, are you driving, taking transit or somehow keeping two vehicles alive? Add travel and hobbies, but also prescriptions, dental care, home repairs, insurance, and the one appliance that always waits for a long weekend before it decides to retire before you do."
+          "text": "A useful retirement plan starts with the life you expect to live. The account balance comes second. Picture an ordinary month. Where will you live? Is a mortgage or rent still due? Are you driving, taking transit or somehow keeping two cars alive? Add travel and hobbies, but also prescriptions, dental care, home repairs, insurance and the one appliance that always waits for a long weekend to retire before you do."
         },
         {
           "type": "paragraph",
-          "text": "Split spending into three buckets. Essentials keep the household running. Flexible spending covers choices like dining, entertainment and travel. Irregular costs — property tax, vehicle repairs, insurance renewals, a new roof — show up less often but hit harder. Divide any yearly irregular cost by twelve so it stops ambushing you disguised as a surprise."
+          "text": "Split spending into three buckets. Essentials keep the household running. Flexible spending covers choices like eating out, entertainment and travel. Irregular costs, like property tax, car repairs, insurance renewals or a new roof, show up less often but hit harder. Divide each yearly irregular cost by twelve, so it stops surprising you."
         },
         {
           "type": "paragraph",
-          "text": "Do not assume every cost drops the day work ends. Commuting and payroll deductions may shrink, but health, home support, travel and leisure costs can grow — and taxes do not retire either. CPP or QPP, OAS, workplace pension payments, and RRSP or RRIF withdrawals can all create taxable income."
+          "text": "Don’t assume every cost drops the day work ends. Commuting and payroll deductions may shrink, but health, home support, travel and leisure costs can grow, and taxes don’t retire either. CPP or QPP, OAS, workplace pensions and RRSP or RRIF withdrawals can all be taxable income."
         },
         {
           "type": "spotlight",
-          "text": "Retirement spending usually moves in stages. An active early retirement often means more travel; later years tend to lean toward health, accessibility and support at home. Build more than one version of the budget."
+          "text": "Retirement spending usually moves in stages. An active early retirement often means more travel. Later years tend to lean toward health, accessibility and help at home. Build more than one version of the budget."
         },
         {
           "type": "paragraph",
-          "text": "Inflation matters because retirement can run for decades. You do not need to predict the exact price of groceries in 2047 — you do need to check whether your income sources and savings can keep up as prices climb."
+          "text": "Inflation matters because retirement can last for decades. You don’t need to predict the price of groceries in 2047. You do need to check whether your income and savings can keep up as prices rise."
         },
         {
           "type": "source",
@@ -97,28 +74,28 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Most Canadians will use several income sources at once, and each layer follows its own rules."
+          "text": "Most Canadians will draw on several income sources at once, and each layer follows its own rules."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "GOVERNMENT PENSIONS & BENEFITS",
-              "text": "CPP — QPP in Quebec — is built mainly from your contributions, earnings history and start age. OAS runs on age, legal status and Canadian residence. GIS tops up eligible low-income OAS recipients. The number in the news is a maximum, not a personal forecast — your own My Service Canada Account or Retraite Québec record is the only number worth trusting."
+              "text": "CPP, or QPP in Quebec, is based mainly on your contributions, your earnings history and the age you start. OAS is based on age, legal status and how long you’ve lived in Canada: a full pension needs 40 years in Canada after age 18, and a partial one needs at least 10. GIS adds to OAS for eligible people with low income. The amounts in the news are maximums, not your forecast. Your My Service Canada Account or Retraite Québec record is the number to trust."
             },
             {
               "title": "WORKPLACE PENSIONS & EMPLOYER PLANS",
-              "text": "A defined benefit pension pays from a formula built on salary, service and retirement age. A defined contribution pension invests what goes in, so the payout depends on contributions, returns, fees and how you withdraw. Ask the plan administrator whether yours is indexed, whether survivor benefits apply, and whether early retirement changes the amount."
+              "text": "A defined benefit pension pays from a formula based on salary, years of service and retirement age. A defined contribution pension invests what goes in, so the payout depends on contributions, returns, fees and how you withdraw. Ask the plan administrator whether yours is indexed to inflation, whether a survivor benefit applies and whether retiring early changes the amount."
             },
             {
               "title": "PERSONAL SAVINGS & OTHER RESOURCES",
-              "text": "RRSPs, RRIFs, TFSAs, non-registered investments, annuities, business or rental income and home equity can all pitch in. Home equity is patient capital, not a direct deposit — selling, downsizing, borrowing against or renting part of it each carry their own costs and consequences."
+              "text": "RRSPs, RRIFs, TFSAs, non-registered investments, annuities, business or rental income and home equity can all help. Home equity is slow money, not a direct deposit. Selling, downsizing, borrowing against it or renting part of it out each come with their own costs."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Keep old pension statements. A short job from years ago may have left behind a pension entitlement or a locked-in account. A retirement filing cabinet occasionally contains money, not only warranties for appliances nobody owns anymore."
+          "text": "Keep old pension statements. A short job from years ago may have left behind a pension or a locked-in account. A retirement filing cabinet sometimes holds money, not just warranties for appliances nobody owns anymore."
         },
         {
           "type": "source",
@@ -134,22 +111,45 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The standard CPP starting age is 65, inside a window from 60 to 70. Start before 65 and the pension is permanently reduced by 0.6% for every month early — 36% lower at the earliest, age 60. Start after 65 and it climbs 0.7% for every month of delay, up to 42% higher at 70. Quebec's QPP runs on its own rules, opening between 60 and 72 with 65 still treated as normal; confirm current timing adjustments with Retraite Québec directly."
+          "text": "The standard age to start CPP is 65, within a window from 60 to 70. Start before 65, and the pension is cut for life by 0.6% for every month early, which is 36% lower at age 60. Start after 65, and it grows 0.7% for every month you wait, up to 42% higher at 70. Quebec’s QPP has its own rules and can start as late as 72. Check the current adjustments with Retraite Québec."
         },
         {
           "type": "paragraph",
-          "text": "Eligible Canadians can generally start OAS at 65 or delay to 70, gaining 0.6% for every month of delay — up to 36% more at 70, with no further increase after that. Delaying needs extra care if GIS might apply: you cannot collect GIS while OAS is deferred, and GIS does not get the same delay bonus."
+          "text": "Most people can start OAS at 65 or delay it up to 70, gaining 0.6% for every month they wait, up to 36% more at 70. Take extra care with delaying if you might qualify for GIS: you can’t get GIS while your OAS is on hold, and GIS doesn’t grow when you delay. At 75, OAS goes up by 10% on its own."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Public pension timing at a glance",
+          "detail": "Changes last for life",
+          "items": [
+            {
+              "title": "CPP at 60",
+              "text": "36% less — 0.6% less for each month before 65."
+            },
+            {
+              "title": "CPP at 70",
+              "text": "42% more — 0.7% more for each month after 65."
+            },
+            {
+              "title": "OAS at 70",
+              "text": "36% more — 0.6% more for each month after 65."
+            },
+            {
+              "title": "OAS at 75",
+              "text": "10% more — added automatically, whenever you started."
+            }
+          ]
         },
         {
           "type": "spotlight",
-          "text": "CPP or QPP and OAS are two separate decisions. Starting one does not force you to start the other on the same day."
+          "text": "CPP or QPP and OAS are two separate decisions. Starting one doesn’t force you to start the other on the same day."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Everyone should start CPP at the same age.”",
-              "text": "Starting age changes the payment permanently, but the better choice depends on health, cash needs, taxes, other income and how long you expect to need the money."
+              "text": "Your starting age changes the payment for life, but the best choice depends on your health, cash needs, taxes, other income and how long you expect to need the money."
             }
           ]
         },
@@ -159,22 +159,22 @@
         },
         {
           "type": "paragraph",
-          "text": "Test at least three versions of your plan before you trust any of them. The goal is not predicting the future perfectly — it is finding decisions that stay workable when the future refuses to read your spreadsheet."
+          "text": "Test at least three versions of your plan before you trust any of them. The goal isn’t predicting the future exactly. It’s finding choices that still work when the future refuses to follow your spreadsheet."
         },
         {
           "type": "ordered",
           "items": [
             {
               "title": "An expected retirement date, normal spending",
-              "text": "Build the plan you actually expect to live."
+              "text": "Build the plan you expect to live."
             },
             {
               "title": "An earlier retirement or a work interruption",
-              "text": "Test what happens if the plan starts sooner than scheduled."
+              "text": "See what happens if the plan starts sooner than you hoped."
             },
             {
               "title": "A longer life with higher health or support costs",
-              "text": "Stress-test the plan against decades, not just years."
+              "text": "Test the plan over decades, not just years."
             }
           ]
         }
@@ -187,23 +187,23 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Asha and Leon",
+          "text": "Asha and Leon build the bridge",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Asha is 61 and Leon is 64. They have a small defined benefit pension, two RRSPs, TFSAs and no consumer debt. Their first plan was simple: retire when Leon turned 65 and start every benefit immediately.",
-            "They collected their pension statements and built a monthly spending estimate, including travel to visit family, home repairs and a future accessibility budget. Then they ran the numbers through the Canadian Retirement Income Calculator and compared several starting dates.",
-            "The couple learned they did not need every income source at once. Leon's workplace pension and planned RRSP withdrawals could cover the first stage, so they asked a fee-for-service planner and tax professional to test whether delaying one public pension made sense, while keeping a larger cash reserve for the first two years.",
-            "Their final plan was not flashy. It was clear. They knew which account would pay for what, which dates needed review, and what would make them change course. The improvement came from coordination — Asha and Leon already had the resources, they just turned them into a sequence."
+            "Asha was 61 and Leon was 64, and they lived in a paid-off bungalow in Guelph. They had a small workplace pension from Leon’s years at the city, two RRSPs, two TFSAs and no debt. Their plan was simple: retire the day Leon turned 65 and start every benefit at once.",
+            "Their daughter asked one question at Sunday dinner: how much would they spend each month, and where would it come from? Neither of them knew. That week they gathered their pension statements, wrote out a monthly budget and ran the numbers through the government’s Canadian Retirement Income Calculator.",
+            "The results surprised them. If they took CPP and OAS at 65, their income would be fine at first. But if either of them lived into their nineties, the money from their RRSPs would run thin just as health costs climbed.",
+            "They had a choice. They could start everything at 65 and enjoy the bigger cheques now. Or they could live on Leon’s pension and their RRSPs for a few years, and let CPP grow by 0.7% for every month they waited. They booked a fee-for-service planner to test both plans before deciding.",
+            "The planner showed them a middle path. Leon would take his pension at 65 and they would draw on their RRSPs while waiting. Leon’s CPP would wait until 70, rising 42% for life, and they would keep two years of spending in cash, so a bad market year wouldn’t force them to sell investments at a loss.",
+            "Their plan wasn’t flashy, but it was clear. They knew which account paid for what, which dates needed a review and what would make them change course. On Leon’s 65th birthday, they taped the one-page plan to the fridge, right next to their daughter’s question, which she had written on a sticky note."
           ]
         },
         {
-          "type": "heading",
-          "text": "What resolved the conflict?"
-        },
-        {
-          "type": "paragraph",
-          "text": "They combined lender-grade evidence with a household stress test and let the lower, safer number guide the timeline — the same discipline your income map should run on."
+          "type": "transition",
+          "text": "Put your income sources in the right order, and the same savings can last much longer.",
+          "detail": "Timing your pensions and withdrawals around each other can raise your lifetime income without saving another dollar.",
+          "extra": "Section 06 shows how to give each account a job."
         }
       ]
     },
@@ -214,41 +214,41 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Account labels describe tax rules. They do not create a complete withdrawal plan by themselves."
+          "text": "Account labels describe tax rules. On their own, they don’t make a plan for taking money out."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "RRSP & RRIF",
-              "text": "RRSP contributions can earn a deduction; withdrawals are generally taxable income. An RRSP must mature by the end of the year you turn 71 — into cash, a RRIF, or an eligible annuity. A RRIF pays retirement income, with minimum withdrawals starting the year after it's set up; at setup only, you may be able to use a younger spouse's age to shrink that minimum."
+              "text": "RRSP contributions can earn a deduction, and withdrawals are generally taxable. An RRSP must end by December 31 of the year you turn 71: as cash, a RRIF or an annuity. A RRIF pays retirement income, with minimum withdrawals starting the year after you set it up. At setup only, you may be able to use a younger spouse’s age to lower the minimum."
             },
             {
               "title": "TFSA",
-              "text": "TFSA withdrawals are generally tax-free, and the room you use comes back — just not until next calendar year. That flexibility makes it useful for repairs, travel or a rough year, but flexible doesn't automatically mean 'spend first' or 'spend last.' The right order depends on your taxes, investments, estate plans and benefit eligibility."
+              "text": "TFSA withdrawals are generally tax-free, and the room you use comes back, but not until the next calendar year. That makes a TFSA useful for repairs, travel or a rough year. Flexible doesn’t mean “spend first” or “spend last,” though. The right order depends on your taxes, investments, estate plans and benefits. TFSA withdrawals also don’t count as income for OAS or GIS."
             },
             {
               "title": "NON-REGISTERED SAVINGS",
-              "text": "Outside an RRSP or TFSA, interest, dividends and capital gains all get taxed differently. Track the adjusted cost base of what you hold and keep every tax slip — selling an investment can create taxable income even when the cash is just funding ordinary groceries."
+              "text": "Outside an RRSP or TFSA, interest, dividends and capital gains are taxed in different ways. Track what you paid for each investment and keep every tax slip. Selling can create taxable income, even when the cash is just paying for groceries."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Withholding tax on an RRSP withdrawal is only a down payment on the real bill. Your final tax depends on total income and deductions for the whole year, settled when your return is assessed."
+          "text": "The tax held back on an RRSP withdrawal is only a down payment on the real bill. Your final tax depends on your total income and deductions for the year, and it’s settled when you file."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“An RRSP balance is the same as cash in a bank account.”",
-              "text": "RRSP withdrawals are generally taxable. The number that actually matters is the after-tax income the account can support over time — not the sticker price on the statement."
+              "text": "RRSP withdrawals are generally taxable. The number that matters is the after-tax income the account can support over time, not the balance on the statement."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "A real withdrawal plan asks which account should fund which stage of retirement — considering annual taxable income, public pension timing, RRIF minimums, pension credits, possible income splitting and both partners' needs. For some households, modest RRSP withdrawals before the big pensions and RRIF minimums begin can ease future tax pressure; for others, protecting registered savings matters more. This is a planning question, not a slogan — model it with a qualified professional before making a large withdrawal."
+          "text": "A real withdrawal plan decides which account pays for which stage of retirement. It weighs your yearly taxable income, public pension timing, RRIF minimums, the pension income credit, income splitting and both partners’ needs. For some households, modest RRSP withdrawals before the big pensions and RRIF minimums begin can ease future tax. For others, keeping registered savings matters more. It’s a planning question, not a slogan, so test it with a qualified professional before a large withdrawal."
         }
       ]
     },
@@ -262,29 +262,29 @@
           "items": [
             {
               "title": "LONGEVITY RISK",
-              "text": "Living longer is good news that still needs funding. Test your plan well past average life expectancy, especially if longevity runs in the family or one partner is younger."
+              "text": "Living longer is good news that still needs funding. Test your plan well past average life expectancy, especially if long lives run in the family or one partner is younger. Delaying CPP and OAS is one of the cheapest ways to buy income that lasts as long as you do."
             },
             {
               "title": "INFLATION RISK",
-              "text": "Know which income is indexed and which is fixed. CPP and OAS adjust under their program rules; a workplace pension might be fully, partially or never indexed. Cash sitting in savings doesn't grow just because it's being polite."
+              "text": "Know which income is indexed and which is fixed. CPP and OAS rise with the cost of living under their program rules. A workplace pension might be fully, partly or never indexed. Cash in savings doesn’t grow just because it’s being polite."
             },
             {
               "title": "MARKET & SEQUENCE RISK",
-              "text": "Bad investment returns right at the start of retirement can do outsized damage when you're withdrawing at the same time. A cash reserve, a sensible asset mix and a written withdrawal policy can reduce how often you're forced to sell into a downturn."
+              "text": "Bad investment returns right at the start of retirement can do extra damage while you’re also withdrawing. A cash reserve, a sensible mix of investments and a written withdrawal plan can cut how often you’re forced to sell in a downturn."
             },
             {
               "title": "HEALTH, CARE & HOUSING RISK",
-              "text": "Provincial health coverage doesn't pay for everything — prescriptions, dental care, mobility equipment, home modifications and long-term support can all fall outside it. Review insurance before you retire, since employer coverage often ends or changes."
+              "text": "Provincial health plans don’t pay for everything. Prescriptions, mobility equipment, home changes and long-term care can fall outside them. The Canadian Dental Care Plan now helps many seniors with dental costs, if their family income qualifies. Review your insurance before you retire, since workplace coverage often ends or changes."
             },
             {
               "title": "FAMILY & FRAUD RISK",
-              "text": "Supporting adult kids, grandkids or aging relatives is common in retirement — put a limit and a purpose around it so it doesn't quietly consume essential income. Use unique passwords and multi-factor authentication, and remember that no real government agency demands instant payment by gift card or cryptocurrency."
+              "text": "Supporting adult children, grandchildren or aging relatives is common in retirement. Put a limit and a purpose on it, so it doesn’t quietly eat into essential income. Use unique passwords and two-step login. Remember that no real government agency demands instant payment by gift card or cryptocurrency."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "A retirement plan needs a named backup person who knows the plan exists and where the records live. They do not need every password today — they just need to know where to look."
+          "text": "A retirement plan needs a named backup person who knows the plan exists and where the records are. They don’t need every password today. They just need to know where to look."
         },
         {
           "type": "heading",
@@ -292,7 +292,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Federal programs like CPP and OAS apply almost everywhere, but where you live still shapes the plan. Quebec runs its own QPP, pension agency and tax system. Pension standards, locked-in account rules, drug coverage, home care and senior benefits can all vary by province or territory — do not assume a benefit your friend gets somewhere else exists under the same name where you live. Write your province or territory on page one of your income map, and record the governing jurisdiction next to every workplace pension or locked-in account."
+          "text": "Federal programs like CPP and OAS apply almost everywhere, but where you live still shapes the plan. Quebec runs its own pension plan (QPP), pension agency and tax system. Pension rules, locked-in account rules, drug coverage, home care and senior benefits can all vary by province or territory. Don’t assume a benefit a friend gets somewhere else exists under the same name where you live. Write your province or territory on page one of your income map, and note which province’s rules govern each workplace pension or locked-in account."
         },
         {
           "type": "heading",
@@ -300,11 +300,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Retirement planning is income coordination, not a contest to reach one impressive number. Start with realistic spending, map every income layer, compare starting dates, give each account a job, and stress-test the plan against a longer life and higher costs. The strongest plan is not the one with the flashiest projection — it is the one you can explain, monitor and adjust."
+          "text": "Retirement planning is about coordinating income, not reaching one impressive number. Start with realistic spending, map every income layer, compare starting dates, give each account a job and test the plan against a longer life and higher costs. The strongest plan isn’t the one with the flashiest projection. It’s the one you can explain, check and adjust."
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: build a retirement decision calendar — the date a workplace pension estimate expires, when you will review CPP or QPP and OAS timing, the year an RRSP must mature, insurance conversion deadlines, mortgage renewal dates and an annual beneficiary review. A calendar turns distant rules into appointments you can actually keep."
+          "text": "Insider tip: build a retirement decision calendar. Note when a workplace pension estimate expires, when you’ll review CPP or QPP and OAS timing, the year your RRSP must end, insurance deadlines, mortgage renewal dates and a yearly beneficiary review. A calendar turns distant rules into appointments you can keep."
         }
       ]
     },
@@ -322,23 +322,23 @@
               "text": ""
             },
             {
-              "title": "Why convert irregular annual costs — like property tax or a roof — into a monthly figure?",
-              "detail": "It makes the budget honest and turns a once-a-year surprise into a predictable line item.",
+              "title": "Why turn yearly costs, like property tax or a roof, into a monthly figure?",
+              "detail": "It makes the budget honest and turns a once-a-year surprise into a predictable line.",
               "text": ""
             },
             {
               "title": "What happens to CPP under current rules if it starts before or after 65?",
-              "detail": "It is permanently reduced for every month before 65, and permanently increased for every month of delay up to age 70.",
+              "detail": "It’s cut for life for every month before 65, and raised for life for every month you wait, up to age 70.",
               "text": ""
             },
             {
               "title": "Why can one large RRSP withdrawal matter for more than just the account balance?",
-              "detail": "The withdrawal is generally taxable income, and a large one can push you into a higher bracket or affect income-tested benefits.",
+              "detail": "The withdrawal is generally taxable income, and a large one can push you onto a higher tax shelf or shrink income-tested benefits like GIS or OAS.",
               "text": ""
             },
             {
               "title": "Name two ways your province or territory can change a retirement plan.",
-              "detail": "Examples include QPP in Quebec, provincial tax brackets and credits, pension standards, locked-in account rules, drug coverage, home care and senior benefits.",
+              "detail": "For example: QPP in Quebec, provincial tax rates and credits, pension rules, locked-in account rules, drug coverage, home care and senior benefits.",
               "text": ""
             }
           ]
@@ -364,7 +364,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Keep an estimate, not a number carved in granite. Record the source and date so a future you can trace where it came from."
+          "text": "Keep it an estimate, not a number carved in stone. Write down the source and date, so future you can trace where it came from."
         }
       ]
     },
@@ -378,7 +378,7 @@
           "items": [
             {
               "title": "Annuity",
-              "text": "A contract that provides scheduled income, often for a fixed period or for life."
+              "text": "A contract that pays you set income, often for a fixed period or for life."
             },
             {
               "title": "Canada Pension Plan (CPP)",
@@ -386,23 +386,23 @@
             },
             {
               "title": "Defined benefit pension",
-              "text": "A workplace pension that generally calculates retirement income using a plan formula."
+              "text": "A workplace pension that pays income based on a set formula."
             },
             {
               "title": "Defined contribution pension",
-              "text": "A workplace pension in which contributions are invested and the eventual income depends on the accumulated value and withdrawal choices."
+              "text": "A workplace pension where contributions are invested, so income depends on the amount saved and how you take it out."
             },
             {
               "title": "Guaranteed Income Supplement (GIS)",
-              "text": "An income-tested federal benefit for eligible low-income OAS recipients."
+              "text": "A federal benefit added to OAS for eligible people with low income."
             },
             {
               "title": "Indexing",
-              "text": "An adjustment intended to help income respond to changes in prices or inflation."
+              "text": "An adjustment that helps income keep up with rising prices."
             },
             {
               "title": "Old Age Security (OAS)",
-              "text": "A federal pension based mainly on age, legal status and Canadian residence history."
+              "text": "A federal pension based mainly on age, legal status and years lived in Canada."
             },
             {
               "title": "Quebec Pension Plan (QPP)",
@@ -410,19 +410,19 @@
             },
             {
               "title": "Registered Retirement Income Fund (RRIF)",
-              "text": "A registered arrangement that receives eligible retirement funds and pays taxable retirement income."
+              "text": "A registered account that receives retirement savings and pays taxable retirement income."
             },
             {
               "title": "Registered Retirement Savings Plan (RRSP)",
-              "text": "A registered savings plan whose contributions may be deductible and whose withdrawals are generally taxable."
+              "text": "A registered savings plan whose contributions may be deductible and whose withdrawals are generally taxed."
             },
             {
               "title": "Sequence risk",
-              "text": "The risk that poor investment returns early in retirement will cause greater damage while withdrawals are occurring."
+              "text": "The risk that poor returns early in retirement do more damage while you’re withdrawing."
             },
             {
               "title": "Tax-Free Savings Account (TFSA)",
-              "text": "A registered account in which eligible investment growth and withdrawals are generally tax-free."
+              "text": "A registered account where growth and withdrawals are generally tax-free."
             }
           ]
         }
@@ -439,20 +439,20 @@
   },
   "checkIn": {
     "questions": [
-      "My expected retirement year and province or territory are:",
-      "My expected monthly essential, flexible and irregular spending is:",
-      "My expected income sources and the age or date each may begin are:",
-      "Where I found each current estimate — My Service Canada Account, Retraite Québec, a pension statement, a financial institution — is:",
-      "One gap, decision or document that still needs follow-up is:",
-      "My next retirement-planning action is ___ by ___:"
+      "What year do you expect to retire, and in which province or territory?",
+      "What do you expect to spend each month on essentials, flexible spending and irregular costs?",
+      "What income sources will you have, and at what age might each one start?",
+      "Where did you find each estimate?",
+      "What is one gap, decision or document that still needs follow-up?",
+      "What is your next retirement-planning step, and by when?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: 2034, in Ontario.",
+      "For example: essentials $3,200, flexible $800, irregular $400 a month. Round numbers are fine.",
+      "For example: workplace pension at 65, CPP at 70, OAS at 65, RRSP withdrawals from 65.",
+      "For example: My Service Canada Account, Retraite Québec, a pension statement or my bank.",
+      "For example: find an old pension from a job I left in 2009.",
+      "For example: log in to My Service Canada Account and download my CPP estimate by the end of the month."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

@@ -12,57 +12,30 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Self-employment can mean freedom, extra income, or a business that quietly grows into a full-time job. It also changes how tax reaches the government — there's no employer handling deductions in the background anymore. You're the one reporting income, backing up expenses, planning for tax and CPP or QPP, and keeping records that still make sense months later."
+          "text": "Self-employment can mean freedom, extra income, or a side business that slowly grows into a full-time job. It also changes how tax reaches the government. No employer handles deductions in the background anymore. You report the income, back up the expenses, plan for tax and CPP or QPP, and keep records that still make sense months later."
         },
         {
           "type": "paragraph",
-          "text": "That sounds heavier than it needs to be. This course isn't trying to turn you into an accountant. It's a simple system for capturing the right information, setting money aside, and knowing when it's worth paying a professional."
+          "text": "That sounds heavier than it needs to be. This lesson isn’t trying to turn you into an accountant. It’s a simple system for capturing the right information, setting money aside and knowing when to pay a professional."
         },
         {
           "type": "paragraph",
-          "text": "This is general Canadian education for sole proprietors and self-employed individuals, not personal tax, legal, accounting or business advice. Rules, deadlines and provincial requirements change — confirm anything time-sensitive with the CRA, Revenu Québec where it applies, and a qualified professional. You'll build one clean business tax file as you go, aiming to replace the annual shoebox ceremony with a routine that takes minutes, not a weekend and three increasingly worried coffees."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Tell gross business income apart from net business income.",
-              "text": ""
-            },
-            {
-              "title": "Identify the common records used to fill out Form T2125.",
-              "text": ""
-            },
-            {
-              "title": "Separate personal spending from reasonable business expenses.",
-              "text": ""
-            },
-            {
-              "title": "Explain why income tax and CPP or QPP both need advance planning.",
-              "text": ""
-            },
-            {
-              "title": "Recognize when tax instalments or GST/HST registration might apply.",
-              "text": ""
-            },
-            {
-              "title": "Build a simple monthly record routine.",
-              "text": ""
-            },
-            {
-              "title": "Identify questions that actually need professional advice.",
-              "text": ""
-            }
-          ]
+          "text": "This is general Canadian education for people who work for themselves. It isn’t personal tax, legal or business advice. Rules, deadlines and provincial requirements change, so confirm anything time-sensitive with the CRA, Revenu Québec where it applies, or a qualified professional. You’ll build one clean business tax file as you go, to replace the yearly shoebox ritual with a routine that takes minutes, not a weekend and three increasingly worried coffees."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A side hustle is too small to report.”",
-              "text": "Business income doesn't get a costume labelled 'hobby money' just because it landed after regular work hours. Report it, then work out which supported expenses are deductible."
+              "text": "Business income doesn’t get a costume labelled “hobby money” just because it arrived after regular work hours. Report it, then work out which supported expenses you can deduct."
             }
           ]
+        },
+        {
+          "type": "transition",
+          "text": "Keep more of what your business earns, and never dread April again.",
+          "detail": "A simple monthly routine turns tax season from a scramble into a short meeting with your numbers.",
+          "extra": "Section 03 shows the four places every payment should go."
         }
       ]
     },
@@ -73,23 +46,23 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Self-employment income can come from consulting, contracting, freelancing, online sales, repair work, caregiving, creative work, delivery, commissions — pretty much any activity carried on for profit. A business doesn't become invisible just because it's part-time, paid through an app, or run from a kitchen table."
+          "text": "Self-employment income can come from almost any work you do for yourself to make a profit: contract jobs, freelance work, online sales, repairs, care work, art, delivery or sales commissions. A business doesn’t become invisible because it’s part-time, paid through an app or run from a kitchen table."
         },
         {
           "type": "paragraph",
-          "text": "Start with two different numbers. Gross income is everything the business brought in before expenses. Net income is what's left after eligible business expenses come off. Gross shows the size of the activity; net is generally what gets used for taxable income and self-employed CPP contributions."
+          "text": "Start with two different numbers. Gross income is everything the business brought in before expenses. Net income is what’s left after eligible business expenses come off. Gross shows the size of the activity. Net is what’s generally used for taxable income and for self-employed CPP."
         },
         {
           "type": "paragraph",
-          "text": "Record every sale or fee earned — invoices, platform statements, payment processor reports, bank deposits, cash-sale records. If a client pays in another currency, keep the original invoice, the Canadian-dollar amount you reported, and the exchange-rate source or method."
+          "text": "Record every sale or fee: invoices, platform statements, payment reports, bank deposits and cash sales. If a client pays in another currency, keep the original invoice, the Canadian-dollar amount you reported and where you got the exchange rate."
         },
         {
           "type": "paragraph",
-          "text": "Don't report only what landed in the bank after a platform took its cut. Record the full customer payment as income, and the supported platform fee as its own expense. Netting the two together hides the real transaction."
+          "text": "Don’t report only what landed in the bank after a platform took its cut. Record the full customer payment as income, and the platform’s fee as its own expense. Netting the two together hides the real sale. Since 2024, many online platforms also report their sellers’ income straight to the CRA."
         },
         {
           "type": "spotlight",
-          "text": "A separate business bank account isn't always legally required for a sole proprietor, but it makes records much clearer — one less argument with yourself about whether a hardware-store charge was for shelving or a suspiciously ambitious barbecue."
+          "text": "The law doesn’t always require a separate bank account for your business, but one makes your records much clearer. It’s one less argument with yourself about whether a hardware-store charge was for shelving or a suspiciously ambitious barbecue."
         },
         {
           "type": "heading",
@@ -97,11 +70,11 @@
         },
         {
           "type": "paragraph",
-          "text": "The label in a contract isn't the whole answer. What actually matters is the working relationship — control over the work, who owns the tools, opportunity for profit, risk of loss, integration, and whether you can hire help to do it. Quebec runs its own related framework for provincial purposes."
+          "text": "The label in a contract isn’t the whole answer. What matters is the working relationship: who controls the work, who owns the tools, whether you can make a profit or take a loss, how much you’re part of their business, and whether you can hire help. Quebec has its own related rules for provincial purposes."
         },
         {
           "type": "paragraph",
-          "text": "Getting this wrong can affect income tax, CPP or QPP, Employment Insurance, payroll obligations and employment rights. If it's unclear, ask for professional advice or request an official ruling. A confident title on an invoice doesn't settle the law."
+          "text": "Getting this wrong can affect income tax, CPP or QPP, Employment Insurance, payroll and your rights as a worker. If it’s unclear, get professional advice or ask the CRA for an official ruling. A confident title on an invoice doesn’t settle the law."
         }
       ]
     },
@@ -112,36 +85,36 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A sole proprietor and the business are generally the same taxpayer. Moving money from the business account to your personal account is normally just an owner's withdrawal, not a deductible salary expense — the business result comes from income and eligible expenses, not from how much you transferred home."
+          "text": "A sole proprietor and the business are generally the same taxpayer. Moving money from the business account to your personal account is an owner’s withdrawal, not a deductible salary. Your business result comes from income and eligible expenses, not from how much you moved home."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "OPERATING MONEY",
-              "text": "Pays the ordinary costs of running the business — supplies, tools, ads, the everyday bills."
+              "text": "Pays the everyday costs of running the business: supplies, tools, ads and regular bills."
             },
             {
               "title": "TAX RESERVE MONEY",
-              "text": "Sets aside what income tax and CPP or QPP will eventually need. This is the one that keeps a good year from turning into a rough April."
+              "text": "Sets aside what income tax and CPP or QPP will need later. This is the lane that stops a good year from turning into a rough April."
             },
             {
               "title": "GST/HST MONEY",
-              "text": "Once you're registered, this holds tax collected from customers. It was never yours to spend — you're just holding it."
+              "text": "Once you’re registered, this holds the tax you collected from customers. It was never yours to spend. You’re just holding it."
             },
             {
               "title": "OWNER MONEY",
-              "text": "What's actually available for personal use, after the first three lanes have already been considered."
+              "text": "What’s left for personal use, after the first three lanes are covered."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "These don't need to be four separate bank accounts. They do need to be four separate amounts in your records. Collected GST/HST is never profit. Tax reserve money shouldn't turn into emergency marketing money because an ad promised to \"change everything by Tuesday.\""
+          "text": "These don’t need to be four bank accounts. They do need to be four separate amounts in your records. GST/HST you collect is never profit. And tax reserve money shouldn’t become emergency ad money because an ad promised to “change everything by Tuesday.”"
         },
         {
           "type": "paragraph",
-          "text": "Set up a regular transfer to the tax reserve every time a customer pays you. The right percentage depends on total income, your province or territory, deductions, credits and whether other employment already withheld tax — a qualified tax professional can help estimate it. The habit that matters is reserving the money before the personal-spending decision gets made."
+          "text": "Move money to the tax reserve every time a customer pays you. The right share depends on your total income, province or territory, deductions, credits and whether a job already takes tax off your pay. A tax professional can help you estimate it. Many people start with 25% to 30% of each payment and adjust after their first return. The habit that matters is setting the money aside before you decide what to spend."
         }
       ]
     },
@@ -152,26 +125,26 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Form T2125, Statement of Business or Professional Activities, is what sole proprietors and partners commonly use to report business or professional income and expenses with the T1 return. It organizes gross income, expense categories and net income."
+          "text": "Form T2125, Statement of Business or Professional Activities, is what sole proprietors commonly use to report business income and expenses with their personal return. It lays out gross income, types of expenses and net income."
         },
         {
           "type": "paragraph",
-          "text": "The general idea is simple: a reasonable current expense incurred to earn business income may be deductible, subject to specific limits and rules. Personal expenses aren't deductible. Capital property — equipment expected to provide a lasting benefit — usually gets handled through capital cost allowance instead of being deducted all at once."
+          "text": "The general idea is simple: a reasonable expense you pay to earn business income may be deductible, subject to specific limits. Personal expenses aren’t. Equipment that lasts, called capital property, is usually deducted a piece at a time through capital cost allowance, not all at once."
         },
         {
           "type": "paragraph",
-          "text": "Common categories include advertising, business insurance, office costs, professional fees, supplies, eligible travel, bank charges, interest, rent, wages, delivery costs, and phone or internet use. The category name doesn't make a claim valid — the business purpose and the supporting record do."
+          "text": "Common costs include ads, business insurance, office costs, fees for an accountant or lawyer, supplies, work travel, bank fees, interest, rent, wages, delivery and the work share of your phone and internet. The category name doesn’t make a claim valid. The business purpose and the record behind it do."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "MIXED PERSONAL AND BUSINESS USE",
-              "text": "When a cost serves both purposes, claim only the supported business portion. For a phone or internet plan, use a reasonable method based on actual business use, and write the method down so next year's calculation doesn't depend on memory and optimism."
+              "text": "When a cost serves both purposes, claim only the business share you can support. For a phone or internet plan, use a reasonable method based on real business use, and write the method down, so next year’s math doesn’t depend on memory and optimism."
             },
             {
               "title": "CURRENT EXPENSES VS. CAPITAL PROPERTY",
-              "text": "An ordinary supply usually gets used up in the current business cycle. Capital property normally lasts longer and supports the business over time — a printer cartridge and the printer itself can get different tax treatment. Record the date, description, seller, cost, tax paid and business use, and let the facts decide."
+              "text": "An ordinary supply is usually used up within the year. Capital property lasts longer and supports the business over time, so a printer cartridge and the printer itself can be treated differently for tax. Record the date, description, seller, cost, tax paid and business use, and let the facts decide."
             }
           ]
         },
@@ -180,21 +153,21 @@
           "items": [
             {
               "title": "“If I have a receipt, the expense is deductible.”",
-              "text": "A receipt proves money changed hands. It doesn't prove the purchase had a business purpose. A very crisp receipt for a personal television is still a personal television."
+              "text": "A receipt proves money changed hands. It doesn’t prove the purchase had a business purpose. A crisp receipt for a personal television is still a personal television."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Business-use-of-home expenses follow their own conditions and calculations — the workspace may need to be your principal place of business, or used only to earn business income and regularly meet clients, customers or patients. Use the T2125 calculation and get advice before claiming a room simply because a laptop once visited it."
+          "text": "Home office expenses have their own rules. The space must be your main place of business, or used only to earn business income and to meet clients on a regular basis. Use the T2125 calculation, and get advice before you claim a room just because a laptop once visited it."
         },
         {
           "type": "paragraph",
-          "text": "Vehicle claims need evidence too — total kilometres, business kilometres, trip dates, destinations, business purposes, plus operating receipts. Driving from home to a regular place of business may be personal commuting, while travel between business locations can be treated differently. The facts matter."
+          "text": "Vehicle claims need proof too: total kilometres, business kilometres, trip dates, destinations, the business reason and receipts for running costs. Driving from home to your regular place of business may count as personal commuting, while travel between business locations can be treated differently. The facts matter."
         },
         {
           "type": "spotlight",
-          "text": "The CRA permits a simplified vehicle-logbook approach in qualifying circumstances, but only after a full base year has been established. Don't start with the shortcut — confirm you meet the conditions and keep the base-year evidence first."
+          "text": "The CRA allows a shorter logbook in some cases, but only after you keep a full logbook for one whole year first. After that base year, you can keep a log for a sample three months each year, as long as your driving pattern stays similar. Keep the base-year log as proof."
         }
       ]
     },
@@ -205,23 +178,23 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Malik",
+          "text": "Malik creates Tax Friday",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Malik repairs bicycles on weekends and earns design income during the week. Customers pay by e-transfer, cash, and an online platform. In his first year, he watched the bank balance and assumed it was profit — by spring he had income showing up in three places, receipts scattered across five, and nothing set aside for tax.",
-            "He didn't rebuild the business around complicated software. He opened a separate chequing account, made digital folders for sales and expenses, and picked the first Friday of every month as Tax Friday. On that day, he'd download platform statements, match deposits to invoices, photograph paper receipts, log his kilometres, and move money into a tax reserve.",
-            "He also went back through his expense claims. Personal meals came out. His phone and vehicle costs got split into actual business and personal portions. When he bought professional repair equipment, he flagged it for review instead of assuming the whole cost was deductible right away.",
-            "At year-end, Malik still needed a tax professional — but he showed up with organized records and specific questions instead of a shoebox. The meeting was about decisions, not archaeology."
+            "Malik lived in Winnipeg. He repaired bikes on weekends and did graphic design during the week. Customers paid him by e-transfer, cash and an online platform. In his first year, he watched his bank balance and assumed it was profit.",
+            "By April, reality arrived. His income showed up in three places, his receipts were scattered across five and he had set nothing aside for tax. His first tax bill came to $6,200, plus CPP he hadn’t known he owed. He paid it with a credit card and a knot in his stomach.",
+            "A friend suggested costly accounting software that promised to “do it all.” Malik was tempted. Instead, he chose something smaller he knew he would stick with. He opened a separate chequing account, made folders for sales and expenses and named the first Friday of every month Tax Friday.",
+            "On Tax Friday, he downloaded platform statements, matched deposits to invoices, photographed receipts, logged his kilometres and moved 25% of the month’s income into a tax reserve. He also cleaned up his claims. Personal meals came out. His phone and van costs were split into business and personal shares. When he bought a professional truing stand, he flagged it as equipment instead of deducting it all at once.",
+            "The twist came the next spring. The CRA sent him a reminder to pay tax in instalments, since his tax owing was now over $3,000. A year earlier it would have panicked him. Now his tax reserve already held the money, and he set up the four quarterly payments in ten minutes.",
+            "At year-end, Malik still met with a tax professional, but he showed up with organized records and clear questions instead of a shoebox. The meeting was about decisions, not archaeology. His bank balance had stopped pretending to be four different numbers at once."
           ]
         },
         {
-          "type": "heading",
-          "text": "What actually changed?"
-        },
-        {
-          "type": "paragraph",
-          "text": "The new system took less than an hour a month. More importantly, his bank balance stopped pretending to be four different numbers at once."
+          "type": "transition",
+          "text": "An hour a month buys you a calm tax season and a clearer view of your real profit.",
+          "detail": "Setting money aside as it arrives means every tax bill is already paid before it shows up.",
+          "extra": "Section 06 lays out the dates and amounts to plan for."
         }
       ]
     },
@@ -232,20 +205,20 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Self-employed individuals generally get a later filing deadline than most individual taxpayers, but the balance owing is usually due earlier. For the 2025 return, the standard self-employed filing deadline was June 15, 2026, while payment of a balance owing was due April 30, 2026. These dates shift — verify the current year's before acting."
+          "text": "Self-employed people get a later filing deadline than most taxpayers, but any balance owing is due earlier. For the 2025 return, the self-employed filing deadline was June 15, 2026, while any tax owing was due April 30, 2026. Check the current year’s dates before you act."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Self-employed people can wait until the June filing deadline to pay.”",
-              "text": "Filing and payment run on different clocks. A later filing deadline doesn't normally move the balance-due date."
+              "text": "Filing and paying run on different clocks. A later filing deadline doesn’t move the date your balance is due."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "File on time even if you can't pay in full. Interest and late-filing consequences are separate issues, and the CRA may offer payment arrangements. Silence is not a payment strategy."
+          "text": "File on time even if you can’t pay in full. Interest and late-filing penalties are separate problems, and the CRA may offer a payment arrangement. Silence is not a payment plan."
         },
         {
           "type": "heading",
@@ -253,11 +226,34 @@
         },
         {
           "type": "paragraph",
-          "text": "An employee and employer normally split CPP contributions. A self-employed person generally pays both portions through their personal income tax return, based on net business income within the applicable limits. Quebec residents generally use QPP rules instead — one reason a tax reserve needs more room than a rough income-tax estimate alone might suggest."
+          "text": "An employee and their employer normally split CPP contributions. A self-employed person pays both shares through their personal tax return, based on net business income within the yearly limits. Quebec residents use QPP rules instead. That’s one reason a tax reserve needs more room than a rough income-tax estimate suggests."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Self-employed CPP in 2026",
+          "detail": "Both shares, outside Quebec",
+          "items": [
+            {
+              "title": "First layer",
+              "text": "11.9% — of net business income between $3,500 and $74,600. The most you pay is $8,460.90."
+            },
+            {
+              "title": "Second layer (CPP2)",
+              "text": "8% — of net business income between $74,600 and $85,000. The most you pay is $832."
+            },
+            {
+              "title": "Example: $40,000 net",
+              "text": "$4,343.50 — that is ($40,000 − $3,500) × 11.9%, on top of income tax."
+            },
+            {
+              "title": "Tax relief",
+              "text": "Part deducted, part credited — the employer half and the enhanced part reduce your taxable income."
+            }
+          ]
         },
         {
           "type": "spotlight",
-          "text": "Self-employed CPP is calculated on net business income, not on every dollar deposited. Expenses can reduce net income, but they don't turn an unnecessary purchase into free money — spending one dollar to avoid tax on part of that dollar is still spending."
+          "text": "Self-employed CPP is worked out on net business income, not on every dollar deposited. Expenses can lower net income, but they don’t turn a needless purchase into free money. Spending a dollar to save tax on part of that dollar is still spending."
         },
         {
           "type": "heading",
@@ -265,15 +261,15 @@
         },
         {
           "type": "paragraph",
-          "text": "The CRA may require quarterly instalments when not enough tax gets withheld during the year and the net-tax-owing tests are met. Instalments are advance payments toward the year's tax, not an extra tax. If the CRA sends a reminder, review it — the notice can offer prior-year or current-year estimate options, and interest may apply if a lower current-year estimate turns out too low. Keep proof of every payment."
+          "text": "You must pay tax in instalments if your net tax owing is more than $3,000 ($1,800 in Quebec) this year and was also over that in either of the two years before. Instalments are due March 15, June 15, September 15 and December 15. They’re advance payments toward the year’s tax, not an extra tax. The CRA mails reminders in February and August with suggested amounts. If you pay those amounts on time, the CRA won’t charge instalment interest, even if your final tax turns out higher. Keep proof of every payment."
         },
         {
           "type": "spotlight",
-          "text": "Add income-tax instalment dates to the business calendar separately from GST/HST filing dates. Two government deadlines can share a month without becoming the same obligation — calendars enjoy this sort of practical clarity."
+          "text": "Put income-tax instalment dates in your calendar separately from GST/HST filing dates. Two government deadlines can share a month without being the same obligation."
         },
         {
           "type": "paragraph",
-          "text": "Income tax registration and GST/HST registration are two different questions. A self-employed person can owe income tax without being registered for GST/HST — registration depends on the type of supplies, revenue tests, location and special rules. That decision gets its own course."
+          "text": "Income tax and GST/HST registration are two separate questions. You can owe income tax without being registered for GST/HST. Registration depends on your sales, what you sell, where and some special rules. The next lesson covers it."
         }
       ]
     },
@@ -284,7 +280,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A useful record system should answer three things."
+          "text": "A useful record system should answer three questions."
         },
         {
           "type": "chips",
@@ -294,43 +290,43 @@
               "text": ""
             },
             {
-              "title": "What supported costs were incurred to earn it?",
+              "title": "What supported costs did it pay to earn that income?",
               "text": ""
             },
             {
-              "title": "What tax payments, instalments or amounts collected connect to the period?",
+              "title": "Which tax payments, instalments or collected sales tax belong to this period?",
               "text": ""
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Create a folder for each tax year, and inside it separate sales, expenses, bank and payment-processor statements, vehicle logs, home-office calculations, equipment purchases, contracts, tax payments and filed returns. Use filenames that include a date, the supplier or customer, and the purpose."
+          "text": "Make a folder for each tax year. Inside, keep separate folders for sales, expenses, bank and payment statements, vehicle logs, home office math, equipment purchases, contracts, tax payments and filed returns. Use file names that include the date, the supplier or customer and the purpose."
         },
         {
           "type": "paragraph",
-          "text": "Reconcile the records against the business bank and platform statements every month. A missing receipt is easier to chase down after thirty days than after eleven months. If a supplier never gave you a receipt, record their name and address, the amount, date and transaction details in an expense journal, and keep whatever other proof you have."
+          "text": "Check your records against your business bank and platform statements every month. A missing receipt is easier to chase after thirty days than after eleven months. If a supplier never gave you a receipt, write down their name and address, the amount, the date and what you bought, and keep any other proof you have."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Bookkeeping software makes the records correct.”",
-              "text": "Software can total what it's given. It can't know a deposit is missing, a personal purchase got mislabelled, or the same receipt got uploaded twice. Reconciliation is the part where a human checks whether the tidy screen matches real life."
+              "text": "Software can add up what it’s given. It can’t know a deposit is missing, a personal purchase got the wrong label or the same receipt was uploaded twice. Checking against the bank is where a person makes sure the tidy screen matches real life."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "The CRA generally wants business records and supporting documents kept for six years from the end of the last tax year they relate to, with special rules in some situations. Electronic records need to stay readable and accessible — a faded receipt photographed today beats a blank strip of thermal paper next year."
+          "text": "The CRA generally wants business records kept for six years from the end of the last tax year they relate to, with special rules in some cases. Electronic records must stay readable and easy to reach. A faded receipt photographed today beats a blank strip of thermal paper next year."
         },
         {
           "type": "spotlight",
-          "text": "Cloud storage is a backup location, not a filing method by itself. A folder called \"Tax stuff FINAL final 2\" may be emotionally honest, but it won't explain which invoice belongs to which sale."
+          "text": "Cloud storage is a backup location, not a filing system on its own. A folder called “Tax stuff FINAL final 2” may be emotionally honest, but it won’t explain which invoice belongs to which sale."
         },
         {
           "type": "paragraph",
-          "text": "Protect the sensitive stuff — strong passwords, multi-factor authentication, limited access to full account numbers, SINs, customer data and tax documents. A bookkeeper or software provider can help maintain records, but you're still the one responsible for having them ready when required."
+          "text": "Protect the sensitive files with strong passwords, two-step login and limited access to account numbers, SINs, customer data and tax documents. A bookkeeper or software company can help keep records, but you’re still responsible for having them ready when the CRA asks."
         }
       ]
     },
@@ -341,15 +337,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Federal income tax and CPP apply across most of Canada, but provincial or territorial income tax changes the final number. Quebec residents generally deal with Revenu Québec for provincial income tax and QPP, often with separate forms and deadlines alongside the federal ones."
+          "text": "Federal tax and CPP work the same in most of Canada, but your province or territory adds its own tax, which changes the final number. Quebec residents generally deal with Revenu Québec for provincial income tax and QPP, often with separate forms and deadlines."
         },
         {
           "type": "paragraph",
-          "text": "Business registration, licences, workers' compensation, payroll and sales taxes can vary too. British Columbia, Saskatchewan, Manitoba and Quebec run their own provincial sales-tax systems separate from GST. Other provinces use HST, while Alberta and the territories skip a general provincial sales tax entirely. The product or service, the customer's location and your business presence can all change the answer."
+          "text": "Business registration, licences, workers’ compensation, payroll and sales taxes can vary too. British Columbia, Saskatchewan, Manitoba and Quebec run their own provincial sales taxes alongside GST. Ontario and the Atlantic provinces use HST, while Alberta and the territories have no provincial sales tax. What you sell, where your customer is and where your business operates can all change the answer."
         },
         {
           "type": "paragraph",
-          "text": "Record your main business location, every province or territory where you regularly work or sell, and whether you have employees, inventory or property elsewhere. Take that list to a qualified adviser — a business can cross a tax boundary online without anyone packing a suitcase."
+          "text": "Write down your main business location, every province or territory where you often work or sell, and whether you have staff, stock or property elsewhere. Take that list to a qualified adviser. A business can cross a tax border online without anyone packing a suitcase."
         },
         {
           "type": "heading",
@@ -357,11 +353,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Self-employment tax becomes manageable once money and records get clear jobs. Capture gross income, claim only the supported business portion of expenses, reserve money for income tax and CPP or QPP, watch for instalment and GST/HST obligations, and close the records every month. Good organization doesn't remove tax — it removes the avoidable surprises."
+          "text": "Self-employment tax becomes manageable once your money and records each have a job. Record gross income, claim only the supported business share of expenses, set aside money for income tax and CPP or QPP, watch for instalments and GST/HST, and close your records every month. Good organization doesn’t remove tax. It removes the surprises you could have avoided."
         },
         {
           "type": "spotlight",
-          "text": "Close each month before starting the next one — confirm sales, categorize expenses, review unpaid invoices, update mileage, transfer the tax reserve, and note one question for follow-up. A twelve-minute checklist used regularly beats a beautiful annual one used never."
+          "text": "Close each month before starting the next: confirm sales, sort expenses, review unpaid invoices, update mileage, move money to the tax reserve and note one question to follow up. A twelve-minute checklist used often beats a beautiful yearly one used never."
         }
       ]
     },
@@ -374,28 +370,28 @@
           "type": "accordions",
           "items": [
             {
-              "title": "What's the actual difference between gross and net business income?",
-              "detail": "Gross is total business income before expenses. Net is what's left after eligible business expenses come off.",
+              "title": "What’s the difference between gross and net business income?",
+              "detail": "Gross is all business income before expenses. Net is what’s left after eligible business expenses come off.",
               "text": ""
             },
             {
               "title": "Why isn't an owner's personal withdrawal a deductible salary expense for a sole proprietor?",
-              "detail": "A sole proprietor and the business are generally the same taxpayer — the business result comes from income and eligible expenses, not from how much got transferred to the owner.",
+              "detail": "A sole proprietor and the business are generally the same taxpayer. The result comes from income and eligible expenses, not from how much the owner moved to a personal account.",
               "text": ""
             },
             {
-              "title": "What does a receipt actually prove, and what doesn't it prove?",
-              "detail": "It proves a purchase happened. It doesn't by itself prove a business purpose, or that the full amount is deductible.",
+              "title": "What does a receipt prove, and what doesn’t it prove?",
+              "detail": "It proves a purchase happened. On its own, it doesn’t prove a business purpose, or that the full amount is deductible.",
               "text": ""
             },
             {
               "title": "Why can the filing deadline and the payment deadline cause confusion?",
-              "detail": "Self-employed individuals may get a later return-filing deadline while still owing a balance by the ordinary payment deadline — the two clocks run separately.",
+              "detail": "Self-employed people can file their return later but still owe any balance by the normal payment date. The two clocks run separately.",
               "text": ""
             },
             {
               "title": "Name three records that can support a business vehicle claim.",
-              "detail": "Examples include total kilometres, business kilometres, trip dates, destinations, business purposes, and operating-expense receipts.",
+              "detail": "For example: total kilometres, work kilometres, trip dates, where you went, why you went and receipts for gas and repairs.",
               "text": ""
             }
           ]
@@ -414,14 +410,14 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Complete these six steps using estimates where necessary. This is preparation, not a final tax calculation."
+          "text": "Answer these six questions using estimates where you need to. This is preparation, not a final tax calculation."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "This exercise isn't about landing on a final tax bill — it's about creating records the bill can actually be calculated from. Skip SINs, full account numbers or actual tax documents in this form."
+          "text": "This exercise isn’t about landing on a final tax bill. It’s about building records the bill can be worked out from. Leave SINs, full account numbers and tax documents out of this form."
         }
       ]
     },
@@ -435,19 +431,19 @@
           "items": [
             {
               "title": "Capital cost allowance (CCA)",
-              "text": "The tax system used to deduct the cost of eligible depreciable property over time."
+              "text": "The tax system for deducting the cost of lasting equipment and property over several years."
             },
             {
               "title": "Current expense",
-              "text": "An ordinary expense generally connected to earning income in the current business period, subject to tax rules."
+              "text": "An everyday cost of earning income this year, subject to tax rules."
             },
             {
               "title": "Gross business income",
-              "text": "Total business revenue before eligible expenses are deducted."
+              "text": "All business income before expenses come off."
             },
             {
               "title": "Income tax instalment",
-              "text": "A periodic advance payment toward income tax that may be required when insufficient tax is withheld during the year."
+              "text": "A tax payment made during the year, required when not enough tax is taken off at source."
             },
             {
               "title": "Mixed-use expense",
@@ -455,19 +451,19 @@
             },
             {
               "title": "Net business income",
-              "text": "Business income remaining after eligible expenses; it is used in calculating taxable income and self-employed CPP contributions."
+              "text": "Business income left after eligible expenses. It’s used to work out taxable income and self-employed CPP."
             },
             {
               "title": "Owner's withdrawal",
-              "text": "Money a sole proprietor takes from the business for personal use; it is generally not a deductible business expense."
+              "text": "Money an owner takes out of the business for personal use. It isn’t a business expense."
             },
             {
               "title": "Self-employed person",
-              "text": "An individual carrying on business on their own account rather than working as an employee in that activity."
+              "text": "Someone who runs a business on their own account, not as an employee."
             },
             {
               "title": "Sole proprietor",
-              "text": "An individual who owns an unincorporated business and generally reports its results on a personal tax return."
+              "text": "One person who owns a business that isn’t incorporated and reports its results on their personal return."
             },
             {
               "title": "T2125",
@@ -488,20 +484,20 @@
   },
   "checkIn": {
     "questions": [
-      "Every place business income arrives — cash, platforms, payment processors:",
-      "Where business income and expenses will be recorded:",
-      "Separate labels for operating money, tax reserve money, GST/HST money if applicable, and owner money:",
-      "My one monthly record-closing date:",
-      "One mixed-use expense that needs a written calculation method:",
-      "One question to take to the CRA, Revenu Québec, or a qualified professional — finishing “My monthly business tax routine will happen on ___, and the first missing record I will fix is ___”:"
+      "Where does your business income arrive: cash, platforms, payment apps or bank?",
+      "Where will you record business income and expenses?",
+      "How will you keep operating, tax reserve, GST/HST and owner money apart?",
+      "What share of each payment will you move to your tax reserve?",
+      "Which day each month will you close your records?",
+      "Which mixed-use expense needs a written method, and what question will you take to a professional?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: e-transfers, cash, and a payout from an online platform.",
+      "For example: a spreadsheet, or bookkeeping software.",
+      "For example: one business account with four labelled amounts in a spreadsheet.",
+      "For example: 25% to start, adjusted after my first return.",
+      "For example: the first Friday of every month.",
+      "For example: my phone plan, split by business use. Question: can I claim a home office?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

@@ -16,7 +16,7 @@
         },
         {
           "type": "paragraph",
-          "text": "These tools were built to stack, and the order you use them in changes what a house actually costs you."
+          "text": "These tools were built to stack, and the order you use them in changes what a house costs you."
         },
         {
           "type": "heading",
@@ -25,6 +25,12 @@
         {
           "type": "paragraph",
           "text": "A new account arrived in 2023, the RRSP withdrawal limit nearly doubled in 2024, a federal sales tax rebate arrived in 2025, and Ontario added its own on a one-year window in 2026. This module is not a list to memorize. It is the order to work through before you sign anything."
+        },
+        {
+          "type": "transition",
+          "text": "Using the buyer programs in the right order can take tens of thousands of dollars off your first home.",
+          "detail": "Two savings accounts, two kinds of tax rebate and the date you sign all change the final price.",
+          "extra": "Section 02 starts with the two accounts."
         }
       ]
     },
@@ -39,7 +45,7 @@
         },
         {
           "type": "paragraph",
-          "text": "The Home Buyers’ Plan lets you withdraw from an existing RRSP instead: up to sixty thousand dollars, tax-free at the time of withdrawal, but with an obligation attached. You repay it to your RRSP over fifteen years, and any year you miss the repayment gets added to your taxable income."
+          "text": "The Home Buyers’ Plan lets you take money out of an RRSP you already have: up to sixty thousand dollars, with no tax when you take it out. But it comes with a duty. You pay it back into your RRSP over fifteen years, and any year you miss gets added to your taxable income."
         },
         {
           "type": "paragraph",
@@ -67,7 +73,7 @@
           "items": [
             {
               "title": "“The FHSA and the Home Buyers’ Plan are the same thing with different names.”",
-              "text": "One is money you save specifically for this purpose and never repay. The other is a loan from your own retirement savings that you must repay on schedule. Using both together is smart. Confusing them is how people end up owing money back to an RRSP they thought was theirs free and clear."
+              "text": "One is money you save just for this and never pay back. The other is a loan from your own retirement savings that you must repay on schedule. Using both is smart. Mixing them up is how people end up owing money back to an RRSP they thought was free and clear."
             }
           ]
         },
@@ -92,7 +98,7 @@
         },
         {
           "type": "paragraph",
-          "text": "The GST/HST New Housing Rebate has existed for years and reduces the sales tax on a new or substantially renovated home. A separate First-Time Home Buyers’ rebate took effect for agreements signed on or after March 20, 2025, eliminating the federal portion of the tax entirely on homes up to one million dollars, with the relief phasing out on homes up to one and a half million."
+          "text": "The GST/HST New Housing Rebate has been around for years. It lowers the sales tax on a new or fully renovated home. A separate First-Time Home Buyers’ rebate started for deals signed on or after March 20, 2025. It removes the federal part of the tax on homes up to one million dollars, with the relief shrinking on homes up to one and a half million."
         },
         {
           "type": "paragraph",
@@ -100,14 +106,14 @@
         },
         {
           "type": "paragraph",
-          "text": "Two details decide whether any of this reaches you. First, ask your builder directly whether the rebate is credited at closing or whether you apply to the CRA yourself afterward; advertised new-build prices sometimes already assume the builder will claim it, which changes what you actually owe. Second, the rebate generally requires only one purchaser to be first-time. If you are buying with a partner who has owned before, get advice before assuming you qualify."
+          "text": "Two details decide whether any of this reaches you. First, ask your builder whether the rebate comes off at closing or whether you apply to the CRA yourself afterward. Ads for new homes sometimes already assume the builder will claim it, which changes what you owe. Second, the rebate usually needs only one buyer to be a first-time buyer. If your partner has owned a home before, get advice before you assume you qualify."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“New builds are always more expensive than resale, so none of this matters to me.”",
-              "text": "It changes the comparison, not eliminates it. A new home with a six-figure tax rebate attached can land closer to a comparable resale price than the sticker suggests. Whether that math works depends entirely on your city and your builder’s pricing, but it is worth running the numbers before ruling new construction out on price alone."
+              "text": "It changes the comparison but does not erase it. A new home with a six-figure tax rebate attached can land closer to a similar resale price than the sticker suggests. Whether that math works depends on your city and your builder’s prices, but run the numbers before you rule out new homes on price alone."
             }
           ]
         }
@@ -120,11 +126,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Separate from the sales tax rebates above, and available on new builds and resale alike. Ontario, British Columbia and Prince Edward Island each offer a first-time buyer rebate on provincial land transfer tax, and Toronto layers a municipal rebate on top of the provincial one for its own Municipal Land Transfer Tax. Other provinces either have no land transfer tax or no first-time buyer exemption. Check your own before assuming it applies."
+          "text": "This is separate from the sales tax rebates above, and it applies to new and resale homes alike. Ontario, British Columbia and Prince Edward Island each offer a first-time buyer rebate on provincial land transfer tax. Toronto adds a city rebate on top for its own Municipal Land Transfer Tax. Other provinces have either no land transfer tax or no first-time buyer break. Check your own before you assume it applies."
         },
         {
           "type": "paragraph",
-          "text": "These rebates are usually applied by your lawyer directly at closing rather than claimed afterward, which is the one piece of good news in this section: if your lawyer knows to apply for it, you often never see the tax in the first place."
+          "text": "Your lawyer usually applies these rebates at closing, so you do not claim them later. That is the one piece of good news in this section. If your lawyer knows to apply for it, you often never see the tax at all."
         }
       ]
     },
@@ -168,13 +174,13 @@
         },
         {
           "type": "spotlight",
-          "text": "The federal First-Time Home Buyer Incentive, which had the government co-invest in your home in exchange for a share of future appreciation, ended new applications in March 2024. It still turns up in articles, videos and well-meaning advice from people who used it years ago. This is the recurring lesson of this entire course: a program having existed is not evidence that it exists now. Before you plan around anything in this module, or anything a relative mentions from their own purchase, check the date on the source. If an article does not carry one from the last year, treat every number in it as a starting point for verification rather than a fact."
+          "text": "The federal First-Time Home Buyer Incentive, where the government co-invested in your home for a share of its future value, stopped taking applications in March 2024. It still turns up in articles, videos and kind advice from people who used it years ago. This is the lesson that keeps coming back in this course: a program that once existed may not exist now. Before you plan around anything in this module, or anything a relative mentions from their own purchase, check the date on the source. If an article has no date from the past year, treat every number in it as something to check, not a fact."
         }
       ]
     },
     {
       "id": "sequence",
-      "title": "The order that actually works",
+      "title": "The Order That Works",
       "paragraphs": [],
       "blocks": [
         {
@@ -219,22 +225,31 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Aisha and Tom had been renting in Ottawa for six years and told each other, every January, that this was the year they would start saving seriously. In practice, start saving meant a high-interest savings account that mostly funded vacations. Neither had opened an FHSA, because neither felt ready to use one.",
-            "A colleague of Aisha’s mentioned, almost in passing, that the point of the account was to open it early and let the room build regardless of readiness. That one sentence cost them nothing to act on. They opened two accounts that week with four hundred dollars each and kept contributing modestly for the next two years, while their actual saving happened in the account that was doing something with it instead of just holding it.",
-            "When they were finally ready to buy, in 2026, they were looking at a new-construction townhouse in Ontario. Their real estate lawyer was the one who flagged that their agreement, if signed before April 1, would miss Ontario’s temporary rebate window entirely, a difference of tens of thousands of dollars for the sake of a closing date. They pushed the signing back two weeks.",
-            "Between the two FHSAs, a partial Home Buyers’ Plan withdrawal, the federal and provincial sales tax rebates, and the Ontario land transfer tax rebate, the combined support covered a share of the purchase that neither of them would have believed possible the year they were still telling each other next January."
+            "Aisha and Tom have rented in Ottawa for six years. Every January, they tell each other this is the year they start saving for a home. In practice, their savings account mostly pays for vacations. Neither has opened an FHSA, because neither feels ready to use one.",
+            "Then a coworker of Aisha’s mentions something in passing. The point of the account is to open it early, so the room builds whether you are ready or not.",
+            "Aisha and Tom have a choice. Wait until they are serious, or open the accounts now with almost nothing in them. They decide to open two FHSAs that week, with $400 each. Over the next two years, they keep adding small amounts.",
+            "In 2026, they are ready to buy. They find a new townhouse in Ontario, and the builder wants the deal signed in late March.",
+            "Their lawyer spots the twist. If they sign before April 1, they miss Ontario’s new rebate window entirely. The difference is tens of thousands of dollars, all for the sake of a date. The builder pushes. They push back, and sign two weeks later.",
+            "At closing, it all adds up: two FHSAs, a partial Home Buyers’ Plan withdrawal, the federal and Ontario sales tax rebates, and Ontario’s land transfer tax rebate.",
+            "Together, the help covers a share of the home neither of them would have believed possible, back when they were still telling each other “next January.”"
           ]
         },
         {
           "type": "takeaway",
-          "text": "Open an FHSA the moment you are eligible, whether or not you are close to buying. Room only builds once the account exists. Combine it with the Home Buyers’ Plan if it helps, but remember one is a loan to yourself. If you are buying new, ask in writing how the sales tax rebate is applied and check your signing date against current windows. And treat any figure from a source without a recent date as unverified.",
+          "text": "Open an FHSA as soon as you qualify, whether or not you are close to buying. Room only builds once the account exists. Add the Home Buyers’ Plan if it helps, but remember it is a loan to yourself. If you are buying new, ask in writing how the sales tax rebate is applied, and check your signing date against the current windows. Treat any figure from a source without a recent date as unchecked.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Aisha and Tom saved tens of thousands by opening their FHSAs early and moving their signing date by two weeks.",
+          "detail": "Opening the account now and checking dates before you sign can do the same for your purchase.",
+          "extra": "Your action this week, in Section 08, takes five minutes."
         }
       ]
     },
     {
       "id": "action",
-      "title": "Your action this week",
+      "title": "Your Action (Fill Out Form): Your Buyer’s Stack",
       "paragraphs": [],
       "blocks": [
         {
@@ -277,27 +292,27 @@
           "items": [
             {
               "title": "FHSA",
-              "text": "First Home Savings Account. Tax-deductible contributions, tax-free qualifying withdrawals, no repayment obligation."
+              "text": "First Home Savings Account. You deduct what you put in, take it out tax-free for a first home and never pay it back."
             },
             {
               "title": "HBP",
-              "text": "Home Buyers’ Plan. An RRSP withdrawal for a first home, repaid over 15 years or taxed as income."
+              "text": "Home Buyers’ Plan. Money taken from your RRSP for a first home, paid back over 15 years or taxed as income."
             },
             {
               "title": "GST/HST New Housing Rebate",
-              "text": "Federal sales tax relief on new or substantially renovated homes, with an enhanced first-time buyer version since March 2025."
+              "text": "Federal sales tax relief on new or fully renovated homes, with a larger first-time buyer version since March 2025."
             },
             {
               "title": "Land transfer tax rebate",
-              "text": "A provincial or municipal exemption on the tax paid when a property changes hands, for qualifying first-time buyers."
+              "text": "A provincial or city break on the tax paid when a home changes hands, for first-time buyers who qualify."
             },
             {
               "title": "Particular time test",
-              "text": "The CRA’s rule checking whether you or your spouse owned and occupied a home in the current year or the prior four."
+              "text": "The CRA rule that checks whether you or your spouse owned and lived in a home this year or in the past four years."
             },
             {
               "title": "First-Time Home Buyer Incentive",
-              "text": "The closed federal shared-equity program. No longer accepting applications since March 2024."
+              "text": "The closed federal shared-equity program. It stopped taking applications in March 2024."
             }
           ]
         },
@@ -332,13 +347,23 @@
   },
   "checkIn": {
     "questions": [
-      "Which accounts do I have open, and what is my current room in each?",
-      "New construction or resale, and which rebate layer applies to me?",
-      "What is my province’s land transfer tax rebate, if any, and who applies it?",
-      "Where did each figure I am relying on come from, and how recent is it?"
+      "Do you have an FHSA open? (Yes / No / Not sure) If yes, about how much room do you have?",
+      "Do you have RRSP savings you could use through the Home Buyers’ Plan? (Yes / No / Not sure)",
+      "Are you looking at a new home or a resale home? (New / Resale / Not sure yet)",
+      "Which province are you buying in, and does it have a first-time buyer land transfer tax rebate?",
+      "Is anyone buying with you who has owned a home in the past four years? (Yes / No / Not sure)",
+      "Where did each number in your plan come from, and how recent is it?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "Yes, both of us. About $16,000 of room each.",
+      "Yes, about $20,000 between us.",
+      "New. A townhouse.",
+      "Ontario. Yes, our lawyer will apply it at closing.",
+      "No.",
+      "canada.ca and the Ontario government site, checked October 30."
+    ]
   },
   "sources": []
 }

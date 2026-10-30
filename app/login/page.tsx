@@ -1,5 +1,5 @@
 import { redirect } from 'next/navigation';
-import { ShieldCheck, BookOpen, Award } from 'lucide-react';
+import { BookOpen, Sparkles, MapPin, ShieldCheck, LockKeyhole, Save } from 'lucide-react';
 import { currentAccount } from '@/lib/auth';
 import { demoMode } from '@/lib/store';
 import { LoginForm } from '@/components/forms';
@@ -8,6 +8,23 @@ import { tiers, getCourse } from '@/lib/catalog';
 import { TierGlyph } from '@/components/visuals';
 import { AmbientBackground } from '@/components/ambient-background';
 export const metadata = { title: 'Welcome back' };
+const benefits = [
+  {
+    icon: Sparkles,
+    title: 'Short, practical lessons',
+    text: 'One idea and one small action at a time.',
+  },
+  {
+    icon: MapPin,
+    title: 'Made for Canadians',
+    text: 'Real examples built around Canadian accounts and rules.',
+  },
+  {
+    icon: Save,
+    title: 'Pick up where you left off',
+    text: 'Your progress saves to your account as you go.',
+  },
+];
 export default async function Login({
   searchParams,
 }: {
@@ -17,67 +34,78 @@ export default async function Login({
   if (account) redirect(account.role === 'admin' ? '/admin' : '/dashboard');
   const params = await searchParams;
   const course = getCourse(params.course || 'credit-mastery');
-  const tier = tiers.find((t) => t.toLowerCase() === params.tier?.toLowerCase());
+  const tierIndex = tiers.findIndex((t) => t.toLowerCase() === params.tier?.toLowerCase());
+  const tier = tierIndex >= 0 ? tiers[tierIndex] : undefined;
   return (
     <main id="main" className="login-page">
-      <section className="login-brand">
-        <Logo light />
+      <section className="login-brand" aria-labelledby="login-headline">
+        <Logo light href="/login" />
         <div className="login-editorial">
           <span className="eyebrow">YOUR NEXT CHAPTER</span>
-          <h1>
-            A little knowledge.
-            <br />
-            <span>
-              A stronger
-              <br />
-              next move.
-            </span>
+          <h1 id="login-headline">
+            A little knowledge. <span>A stronger next move.</span>
           </h1>
           <p>Practical Canadian lessons. Small, achievable actions. A clearer path forward.</p>
-          <div className="login-glass">
-            <div className="login-glass-heading">
-              <BookOpen size={23} />
+          <ul className="login-benefits">
+            {benefits.map((b) => (
+              <li key={b.title}>
+                <span className="login-benefit-icon">
+                  <b.icon size={18} />
+                </span>
+                <span>
+                  <strong>{b.title}</strong>
+                  <small>{b.text}</small>
+                </span>
+              </li>
+            ))}
+          </ul>
+          <div className="login-course">
+            <div className="login-course-heading">
+              <span className="login-course-icon">
+                <BookOpen size={20} />
+              </span>
               <span>
+                <small>{tier ? `${tier} invitation` : 'Your course'}</small>
                 <strong>{course?.title || 'Your chosen course'}</strong>
-                <small>
-                  {tier
-                    ? `${tier} invitation · access verified at sign-in`
-                    : 'Six levels. One course built around you.'}
-                </small>
               </span>
             </div>
-            <div className="login-tiers">
+            <ol className="login-path" aria-label="Six levels, Starter to Elite">
               {tiers.map((t, i) => (
-                <div key={t}>
-                  <TierGlyph tier={i} size={25} />
+                <li key={t} className={i === tierIndex ? 'is-invited' : ''}>
+                  <span className="login-path-node">
+                    <TierGlyph tier={i} size={18} />
+                  </span>
                   <span>{t}</span>
-                  <small>{String(i + 1).padStart(2, '0')}</small>
-                </div>
+                </li>
               ))}
-            </div>
+            </ol>
           </div>
         </div>
-        <small className="login-foot">Private learning for Credit Pulse members</small>
+        <small className="login-foot">
+          <LockKeyhole size={13} /> Private learning for Credit Pulse members
+        </small>
         <AmbientBackground effects={['pulse']} placement="contained" />
       </section>
-      <section className="login-form-area">
+      <section className="login-form-area" aria-labelledby="login-title">
         <div className="login-form-container">
-          <span className="eyebrow">CREDIT PULSE ACADEMY</span>
-          <h2>Welcome back.</h2>
-          <p className="lead">Your next small step starts here.</p>
-          <LoginForm demo={demoMode()} courseId={params.course} />
-          <div className="trust-note">
-            <ShieldCheck size={20} />
-            <p>
-              Your approved tier controls access.
-              <br />
-              Your progress stays with your account.
+          <div className="login-card">
+            <h2 id="login-title">Welcome back</h2>
+            <p className="lead">
+              Sign in to continue {course ? <strong>{course.title}</strong> : 'your course'}.
             </p>
+            <LoginForm demo={demoMode()} courseId={params.course} />
           </div>
-          <p className="caption">
-            Need a new password? Ask your course administrator for a reset. Use the password from
-            your account email.
-          </p>
+          <ul className="login-trust" aria-label="Your account">
+            <li>
+              <ShieldCheck size={15} /> Secure sign-in
+            </li>
+            <li>
+              <Save size={15} /> Progress saved
+            </li>
+            <li>
+              <MapPin size={15} /> Canadian lessons
+            </li>
+          </ul>
         </div>
       </section>
       <AmbientBackground />

@@ -1,16 +1,57 @@
 'use client';
-import { useState, useTransition } from 'react';
+import { useRef, useState, useTransition } from 'react';
 import { useRouter } from 'next/navigation';
-import { Eye, EyeOff, Check, Bookmark, LogOut } from 'lucide-react';
+import {
+  Eye,
+  EyeOff,
+  Check,
+  Bookmark,
+  LogOut,
+  Mail,
+  LockKeyhole,
+  LifeBuoy,
+  ArrowRight,
+} from 'lucide-react';
 import { post } from '@/lib/client';
+const demoAccounts = [
+  {
+    label: 'Member',
+    note: 'Silver, in progress',
+    email: 'member@creditpulse.demo',
+    password: 'LearnWithPulse2026!',
+  },
+  {
+    label: 'Elite member',
+    note: 'All six levels',
+    email: 'elite@creditpulse.demo',
+    password: 'EliteWithPulse2026!',
+  },
+  {
+    label: 'Administrator',
+    note: 'Admin studio',
+    email: 'admin@creditpulse.demo',
+    password: 'ManageWithPulse2026!',
+  },
+];
 export function LoginForm({ demo, courseId }: { demo: boolean; courseId?: string }) {
   const router = useRouter();
+  const form = useRef<HTMLFormElement>(null);
   const [error, setError] = useState(''),
     [show, setShow] = useState(false),
+    [help, setHelp] = useState(false),
     [pending, start] = useTransition();
+  const fillDemo = (account: (typeof demoAccounts)[number]) => {
+    const el = form.current;
+    if (!el) return;
+    (el.elements.namedItem('email') as HTMLInputElement).value = account.email;
+    (el.elements.namedItem('password') as HTMLInputElement).value = account.password;
+    setError('');
+    (el.querySelector('button[type="submit"]') as HTMLButtonElement | null)?.focus();
+  };
   return (
     <>
       <form
+        ref={form}
         onSubmit={(e) => {
           e.preventDefault();
           const data = new FormData(e.currentTarget);
@@ -29,27 +70,46 @@ export function LoginForm({ demo, courseId }: { demo: boolean; courseId?: string
             }
           });
         }}
-        className="form-stack"
+        className="form-stack login-form"
       >
-        <div>
+        <div className="login-field">
           <label htmlFor="email">Email address</label>
-          <input
-            id="email"
-            name="email"
-            type="email"
-            autoComplete="username"
-            placeholder="you@example.com"
-            required
-          />
+          <span className="input-with-icon">
+            <Mail size={18} aria-hidden="true" />
+            <input
+              id="email"
+              name="email"
+              type="email"
+              autoComplete="username"
+              inputMode="email"
+              placeholder="you@example.com"
+              aria-invalid={error ? true : undefined}
+              required
+            />
+          </span>
         </div>
-        <div>
-          <label htmlFor="password">Password</label>
-          <div className="password-field">
+        <div className="login-field">
+          <div className="label-row">
+            <label htmlFor="password">Password</label>
+            <button
+              type="button"
+              className="text-button"
+              aria-expanded={help}
+              aria-controls="password-help"
+              onClick={() => setHelp(!help)}
+            >
+              Forgot password?
+            </button>
+          </div>
+          <div className="password-field input-with-icon">
+            <LockKeyhole size={18} aria-hidden="true" />
             <input
               id="password"
               name="password"
               type={show ? 'text' : 'password'}
               autoComplete="current-password"
+              placeholder="Your password"
+              aria-invalid={error ? true : undefined}
               required
             />
             <button
@@ -61,38 +121,54 @@ export function LoginForm({ demo, courseId }: { demo: boolean; courseId?: string
               {show ? <EyeOff size={19} /> : <Eye size={19} />}
             </button>
           </div>
+          {help && (
+            <p id="password-help" className="login-help" role="status">
+              <LifeBuoy size={17} aria-hidden="true" />
+              <span>
+                No problem. Your course administrator can reset it for you. Your first password is
+                in your account email.
+              </span>
+            </p>
+          )}
         </div>
         {error && (
-          <p className="error" role="alert">
+          <p className="error login-error" role="alert">
             {error}
           </p>
         )}
-        <button className="button primary wide" disabled={pending}>
-          {pending ? 'Signing you in…' : 'Continue to my course'}
+        <button type="submit" className="button primary wide login-submit" disabled={pending}>
+          {pending ? (
+            <>
+              <span className="login-spinner" aria-hidden="true" />
+              Signing you in…
+            </>
+          ) : (
+            <>
+              Continue to my course
+              <ArrowRight size={18} aria-hidden="true" />
+            </>
+          )}
         </button>
       </form>
       {demo && (
-        <details className="demo-credentials" open>
-          <summary>Demo access · no setup needed</summary>
-          <p>
-            <strong>Member</strong>
-            <br />
-            member@creditpulse.demo
-            <br />
-            <code>LearnWithPulse2026!</code>
+        <div className="demo-access">
+          <p className="demo-access-title">
+            <span>Demo access</span>
+            <small>Tap an account to fill the form</small>
           </p>
-          <p>
-            <strong>Administrator</strong>
-            <br />
-            admin@creditpulse.demo
-            <br />
-            <code>ManageWithPulse2026!</code>
-          </p>
-          <small>
+          <div className="demo-access-options">
+            {demoAccounts.map((a) => (
+              <button type="button" key={a.email} onClick={() => fillDemo(a)}>
+                <strong>{a.label}</strong>
+                <small>{a.note}</small>
+              </button>
+            ))}
+          </div>
+          <small className="demo-access-note">
             Demo accounts and changes are temporary. Only the first lesson contains complete course
             material.
           </small>
-        </details>
+        </div>
       )}
     </>
   );

@@ -3,26 +3,45 @@ import { TierGlyph } from './visuals';
 import { Award, Check, LockKeyhole, BookOpen, ShieldCheck } from 'lucide-react';
 import { tiers, segmentComplete, segmentLessons } from '@/lib/catalog';
 import type { Course, Enrollment } from '@/lib/types';
-export function Logo({ light = false }: { light?: boolean }) {
+// The mark is a learning pulse: a steady line, one strong beat, and a milestone dot.
+// The same drawing ships as app/icon.svg, so the tab icon and the lockup always match.
+export function LogoMark({ size = 40 }: { size?: number }) {
+  return (
+    <svg className="logo-mark" viewBox="0 0 40 40" width={size} height={size} aria-hidden="true">
+      <rect className="logo-mark-tile" width="40" height="40" rx="11" />
+      <rect
+        className="logo-mark-edge"
+        x="0.5"
+        y="0.5"
+        width="39"
+        height="39"
+        rx="10.5"
+        fill="none"
+      />
+      <path
+        className="logo-mark-line"
+        d="M7 22.5h6l2.6-4.6 3.6 8.6 4.6-15.5 3.4 11.5h3.3"
+        fill="none"
+        strokeWidth="2.6"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <circle className="logo-mark-dot" cx="32.6" cy="22.5" r="2.6" />
+    </svg>
+  );
+}
+export function Logo({ light = false, href = '/dashboard' }: { light?: boolean; href?: string }) {
   return (
     <Link
-      href="/dashboard"
+      href={href}
       className={`logo ${light ? 'light' : ''}`}
       aria-label="Credit Pulse Academy home"
     >
-      <span>
-        Credit Pulse
-        <svg viewBox="0 0 150 24" aria-hidden="true">
-          <path
-            d="M0 12H40l5-3 5 6 5-3h16l4-9 5 18 5-17 5 8h40l-5-4m5 4-5 4"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="1.7"
-            strokeLinejoin="round"
-          />
-        </svg>
+      <LogoMark />
+      <span className="logo-word">
+        <span>Credit Pulse</span>
+        <small>Academy</small>
       </span>
-      <small>ACADEMY</small>
     </Link>
   );
 }

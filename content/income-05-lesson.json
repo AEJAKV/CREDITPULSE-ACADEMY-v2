@@ -1,7 +1,7 @@
 {
   "title": "Getting Your First Customer",
   "summary": "Focus → Invite → Diagnose → Offer → Deliver",
-  "subtitle": "Move from “I have a business” to “someone paid me”—the small but important plot twist",
+  "subtitle": "Move from “I have a business” to “someone paid me,” the small but important plot twist",
   "minutes": 45,
   "published": true,
   "sections": [
@@ -16,43 +16,18 @@
         },
         {
           "type": "paragraph",
-          "text": "The goal is not to convince everyone. It is to find a person with a real problem you can solve safely and profitably, then make the next step easy. Your early process can be simple: identify a narrow customer, build a small prospect list, ask questions, send a written offer, follow up and deliver exactly what was promised."
+          "text": "The goal is not to convince everyone. It is to find one person with a real problem you can solve safely and at a profit, then make the next step easy. Your early process can be simple: pick a narrow customer, build a short list of people to contact, ask questions, send a written offer, follow up and deliver exactly what you promised."
         },
         {
           "type": "spotlight",
-          "text": "A first customer is evidence, not a lifetime business model. Use the sale to learn who buys, why they buy, what delivery costs and what must improve."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "State one clear customer problem and outcome.",
-              "text": ""
-            },
-            {
-              "title": "Build a small, qualified contact list.",
-              "text": ""
-            },
-            {
-              "title": "Hold a useful discovery conversation.",
-              "text": ""
-            },
-            {
-              "title": "Present an honest scope, price and next step.",
-              "text": ""
-            },
-            {
-              "title": "Complete a First-Customer Launch Card.",
-              "text": ""
-            }
-          ]
+          "text": "Your first customer is proof, not a lifetime business plan. Use the sale to learn who buys, why they buy, what delivery costs you and what to improve."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“I need a large audience before I can make a sale.”",
-              "text": "A relevant conversation can matter more than 2,000 indifferent followers. The first customer needs a reason to act—not a stadium."
+              "text": "One useful conversation can matter more than 2,000 followers who do not care. Your first customer needs a reason to act, not a stadium."
             }
           ]
         },
@@ -60,6 +35,12 @@
           "type": "source",
           "text": "Canada: Planning a business",
           "url": "https://www.canada.ca/en/services/business/start/planning-business.html"
+        },
+        {
+          "type": "transition",
+          "text": "Landing one paying customer proves your idea works and shows you how to find the next one.",
+          "detail": "A clear offer, a short list of the right people and one good conversation do more than a polished logo.",
+          "extra": "Section 02 helps you write an offer people understand in one sentence."
         }
       ]
     },
@@ -70,43 +51,43 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Describe your offer in one sentence: “I help [specific customer] solve [specific problem] by providing [defined service or product] for [price or starting price].”"
+          "text": "Describe your offer in one sentence: “I help [a specific customer] solve [a specific problem] by providing [a defined service or product] for [a price or starting price].”"
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "CHOOSE THE CUSTOMER",
-              "text": "Start with one group whose problem, budget and buying situation you understand. “Local landlords with one to five units” gives clearer direction than “anyone who owns walls.”"
+              "text": "Start with one group whose problem, budget and way of buying you understand. “Local landlords with one to five units” gives clearer direction than “anyone who owns walls.”"
             },
             {
-              "title": "NAME THE OUTCOME",
-              "text": "Describe the useful result, not every task. A customer buys a clean move-out inspection package, a working booking page or three prepared freezer meals—not your internal checklist."
+              "title": "NAME THE RESULT",
+              "text": "Describe the useful result, not every task. A customer buys a clean move-out inspection, a working booking page or three ready freezer meals, not your internal checklist."
             },
             {
-              "title": "SET THE STARTER SCOPE",
-              "text": "Limit time, location, revisions, materials, delivery and exclusions. A small fixed pilot can reduce risk for both sides without disguising unpaid work as exposure."
+              "title": "SET A STARTER SCOPE",
+              "text": "Limit the time, place, number of revisions, materials, delivery and what is left out. A small, fixed, paid trial can lower the risk for both of you without turning free work into “exposure.”"
             },
             {
               "title": "PRICE THE WHOLE JOB",
-              "text": "Include preparation, travel, materials, fees, communication, delivery, tax treatment and follow-up. State deposits, payment timing and cancellation terms before work begins."
+              "text": "Include preparation, travel, materials, fees, messages, delivery, tax and follow-up. Say your deposit, when payment is due and your cancellation terms before work starts."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Market research begins with customer and competitor evidence. Ten short conversations can reveal language, objections and buying triggers that a month of logo polishing cannot."
+          "text": "Market research starts with what customers and competitors tell you. Ten short conversations can show you the words, worries and reasons to buy that a month of logo polishing never will."
         },
         {
           "type": "spotlight",
-          "text": "A paid pilot should have a real scope and fair value. Discounting may support a test; permanently underpricing teaches customers a lesson you did not intend."
+          "text": "A paid trial should have a real scope and a fair price. A discount can support a test. Underpricing for good teaches customers a lesson you did not intend."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“The lowest price wins the first customer.”",
-              "text": "Price is only one decision factor. Relevance, trust, proof, speed, clarity and low perceived risk can matter more than being the cheapest unfamiliar option."
+              "text": "Price is only one reason people choose. Being relevant, trusted, proven, fast, clear and low-risk can matter more than being the cheapest stranger."
             }
           ]
         },
@@ -124,49 +105,78 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Build a list of 20 qualified prospects from your existing network, local organizations, referrals, public business directories or appropriate community groups. Record why each person may fit."
+          "text": "Build a list of 20 people who are likely to fit, from your own network, local groups, referrals, public business directories or suitable community groups. Note why each one may fit."
         },
         {
           "type": "ordered",
           "items": [
             {
               "title": "Warm introduction",
-              "text": "Tell trusted contacts exactly whom you help and ask whether one suitable introduction comes to mind—not to “send anyone with money.”"
+              "text": "Tell people you trust exactly who you help, and ask whether one suitable introduction comes to mind. Do not ask them to “send anyone with money.”"
             },
             {
-              "title": "Permission-based outreach",
-              "text": "Use the channel appropriately and follow Canada's Anti-Spam Legislation, since commercial emails and texts generally require consent, sender identification and a working unsubscribe mechanism."
+              "title": "Outreach with permission",
+              "text": "Use each channel properly and follow Canada’s Anti-Spam Legislation. Promotional emails and texts generally need consent, your name and contact details, and a working way to unsubscribe."
             },
             {
               "title": "Discovery conversation",
-              "text": "Ask what is happening now, what result matters, what has been tried, timing, decision process and budget comfort—listen before presenting the offer."
+              "text": "Ask what is happening now, what result matters, what they have tried, their timing, who decides and what budget feels comfortable. Listen before you pitch."
             },
             {
               "title": "Written next step",
-              "text": "Summarize the problem, outcome, scope, price, timing, responsibilities and acceptance method, and give an expiry date only when it is genuine."
+              "text": "Sum up the problem, the result, the scope, the price, the timing, who does what and how they say yes. Give a deadline only if it is real."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "A useful opening message is short: relevant observation, specific result, one reason you may help and a low-pressure question. Personalization means relevance—not inserting a first name into a novel."
+          "text": "A good first message is short: something relevant you noticed, a specific result, one reason you can help and a low-pressure question. Personal means relevant, not pasting a first name into a novel."
         },
         {
           "type": "spotlight",
-          "text": "Follow up once or twice with new value or a clear decision question. Silence is information; it is not permission to begin a 14-message documentary series."
+          "text": "Follow up once or twice with something new or a clear yes-or-no question. Silence is information. It is not permission to begin a 14-message documentary series."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A good salesperson handles every objection immediately.”",
-              "text": "An objection may signal missing information, poor timing, no authority, weak fit or a genuine no. Ask one respectful question, answer honestly and allow the customer to decide."
+              "text": "An objection may mean missing information, bad timing, the wrong decision-maker, a poor fit or an honest no. Ask one respectful question, answer truthfully and let the customer decide."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Key takeaway: Your first customer comes from focus and trust: choose one suitable buyer, diagnose a real need, make a specific written offer, follow up respectfully and deliver the promised outcome before chasing scale."
+          "text": "Before you deliver, send a short invoice or written confirmation with your business name, the date, what you will do, the price and when payment is due. It looks professional, it settles questions later and it is the first record for your taxes."
+        },
+        {
+          "type": "heading",
+          "text": "Tax basics for your first year"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "REPORT IT",
+              "text": "Business income goes on Form T2125 with your personal tax return, whether clients pay by cash, cheque or e-transfer."
+            },
+            {
+              "title": "PAY BOTH HALVES OF CPP",
+              "text": "Self-employed people pay the worker and employer shares of CPP, 11.9% of net business income above the basic amount, on Schedule 8 of the return."
+            },
+            {
+              "title": "SET MONEY ASIDE",
+              "text": "Nobody takes tax off your pay. Move a share of every payment into a separate account. If you owe more than $3,000 ($1,800 in Quebec) this year and in either of the last two years, the CRA will ask for quarterly instalments."
+            },
+            {
+              "title": "KEEP RECORDS SIX YEARS",
+              "text": "Keep invoices, receipts, mileage and bank records for six years from the end of the tax year they belong to."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Key takeaway: your first customer comes from focus and trust. Choose one suitable buyer, understand a real need, make a specific written offer, follow up with respect and deliver what you promised before you chase growth."
         }
       ]
     },
@@ -181,15 +191,18 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Leah Martin opened a small digital-service business in Winnipeg. Her first post offered websites, social media, logos, newsletters, videos and “basically anything online.” It was less an offer and more a department store wearing one laptop.",
-            "Three weeks passed without a sale. The conflict was not a lack of effort: Leah posted daily, but nobody knew which problem to bring her. During a conversation with Samir, who owned a neighbourhood physiotherapy clinic, she learned that new patients abandoned the clinic’s confusing mobile booking page.",
-            "Leah proposed a fixed paid pilot: reorganize one booking page, test it on mobile and provide one round of revisions within seven days. She stated the price, access needed and what was excluded. Samir agreed because the outcome was specific and the risk was contained.",
-            "Leah delivered on time and asked for factual feedback. Samir reported fewer booking questions and permitted her to use an accurate testimonial. Her first customer did not buy “everything digital.” He bought one easier path to an appointment—which was considerably simpler to invoice."
+            "Leah Martin opens a small digital services business in Winnipeg. Her goal is one paying client within a month, to prove to herself this can work. Her first post offers websites, social media, logos, newsletters, videos and “basically anything online.” It is less an offer and more a department store wearing one laptop.",
+            "Three weeks pass with no sale. She posts every day, but nobody knows which problem to bring her.",
+            "Then she has coffee with Samir, who owns a small physiotherapy clinic. She almost launches into her full menu. Instead, she decides to ask questions and listen.",
+            "Samir mentions that new patients keep phoning the front desk because the clinic’s booking page is confusing on a phone. Some give up and never book.",
+            "Leah offers a small, paid trial. She will fix that one booking page, test it on a phone and allow one round of changes, all within seven days. She writes down the price, the logins she needs and what is not included. Samir says yes. The result is clear and the risk is small.",
+            "She delivers on time. The twist comes a month later. Samir says booking calls are down by half, and he introduces her to two other clinic owners with the same problem.",
+            "Leah’s first customer did not buy “everything digital.” He bought one easier path to an appointment, which was considerably simpler to invoice. She rewrites her offer around clinic booking pages."
           ]
         },
         {
           "type": "spotlight",
-          "text": "Ask for feedback after delivery: what changed, what was easiest, what caused hesitation and who else has the same problem. Request permission before publishing a name, quote or result."
+          "text": "Ask for feedback after you deliver: what changed, what was easiest, what made them hesitate and who else has the same problem. Ask permission before you share a name, quote or result."
         },
         {
           "type": "heading",
@@ -197,7 +210,13 @@
         },
         {
           "type": "paragraph",
-          "text": "A narrow, specific offer replaced a vague menu of everything—and gave one prospect a reason to say yes."
+          "text": "A narrow, specific offer replaced a vague menu of everything, and gave one person a reason to say yes."
+        },
+        {
+          "type": "transition",
+          "text": "Leah landed her first client, and two referrals, by asking questions and fixing one real problem.",
+          "detail": "One clear, paid trial can turn your own first conversation into a steady source of work.",
+          "extra": "The quick check in Section 05 tests whether you can spot the next move."
         }
       ]
     },
@@ -211,27 +230,27 @@
           "items": [
             {
               "title": "What belongs in a one-sentence offer?",
-              "detail": "The specific customer, the specific problem, the defined service or product and the price or starting price.",
+              "detail": "The specific customer, the specific problem, the defined service or product, and the price or starting price.",
               "text": ""
             },
             {
-              "title": "Why is a small qualified prospect list useful?",
-              "detail": "Twenty people with a clear reason to fit is a sales plan; a huge unqualified list is just noise to work through.",
+              "title": "Why is a short list of the right people useful?",
+              "detail": "Twenty people with a clear reason to fit is a sales plan. A huge list of strangers is just noise to work through.",
               "text": ""
             },
             {
-              "title": "What should happen during a discovery conversation?",
-              "detail": "Ask what is happening now, what result matters, what has been tried, timing, decision process and budget comfort—then listen before presenting the offer.",
+              "title": "What should happen in a discovery conversation?",
+              "detail": "Ask what is happening now, what result matters, what they have tried, timing, who decides and what budget feels comfortable. Then listen before you pitch.",
               "text": ""
             },
             {
-              "title": "Which details belong in a written proposal or confirmation?",
-              "detail": "The problem, outcome, scope, price, timing, responsibilities, acceptance method and a genuine expiry date if one applies.",
+              "title": "Which details belong in a written offer?",
+              "detail": "The problem, the result, the scope, the price, the timing, who does what, how they accept and a deadline only if it is real.",
               "text": ""
             },
             {
               "title": "What does a respectful follow-up avoid?",
-              "detail": "Pressuring the prospect with excessive messages—one or two follow-ups with new value or a clear decision question is enough.",
+              "detail": "Pressure. One or two follow-ups with something new or a clear yes-or-no question is enough.",
               "text": ""
             }
           ]
@@ -240,19 +259,19 @@
     },
     {
       "id": "action",
-      "title": "Your Action: Complete Your First-Customer Launch Card",
+      "title": "Your Action (Fill Out Form): First-Customer Launch Card",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use business contact details only. Do not record passwords, payment-card data, sensitive personal information or private notes about a prospect on this worksheet."
+          "text": "Use business contact details only. Do not write passwords, card numbers, sensitive personal details or private notes about people here."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "Collect only customer information needed for a stated purpose, obtain meaningful consent where required and protect it. Alberta, British Columbia and Quebec also have substantially similar private-sector privacy laws."
+          "text": "Collect only the customer information you need for a stated reason, get real consent where it is required and keep it safe. Alberta, British Columbia and Quebec also have their own private-sector privacy laws."
         }
       ]
     },
@@ -266,31 +285,31 @@
           "items": [
             {
               "title": "Ideal customer",
-              "text": "Narrow group most likely to need and value the offer."
+              "text": "The narrow group most likely to need and value your offer."
             },
             {
               "title": "Value proposition",
-              "text": "Clear reason a customer should choose the offer."
+              "text": "The clear reason a customer should choose your offer."
             },
             {
               "title": "Qualified prospect",
-              "text": "Potential customer with plausible need, fit and ability to decide."
+              "text": "A possible customer with a real need, a good fit and the power to decide."
             },
             {
               "title": "Discovery conversation",
-              "text": "Questions used to understand a prospect before recommending a solution."
+              "text": "Questions you ask to understand someone before suggesting a solution."
             },
             {
               "title": "Scope",
-              "text": "Written boundaries of what will and will not be delivered."
+              "text": "The written limits of what you will and will not deliver."
             },
             {
               "title": "Conversion",
-              "text": "Movement from one sales step to the next, such as conversation to paid customer."
+              "text": "Moving from one sales step to the next, such as from a conversation to a paying customer."
             },
             {
               "title": "CASL",
-              "text": "Canadian rules that include consent and identification requirements for commercial electronic messages."
+              "text": "Canada’s Anti-Spam Legislation, which sets consent and ID rules for commercial emails and texts."
             }
           ]
         }
@@ -307,24 +326,20 @@
   },
   "checkIn": {
     "questions": [
-      "My specific customer, urgent problem and useful outcome are:",
-      "My starter scope, exclusions, delivery time and full price are:",
-      "My first 20 qualified prospects and the reason each may fit are:",
-      "My referral request or consent-aware outreach message is:",
-      "My five discovery questions and listening notes are:",
-      "My written offer, payment terms, acceptance step and expiry are:",
-      "My follow-up dates, stop rule and polite close-the-loop message are:",
-      "My delivery checklist, invoice record, feedback request and review date are:"
+      "Who is your specific customer, and what problem will you solve? Use the one-sentence offer.",
+      "What is included in your starter offer, what is left out and what is the price?",
+      "Name three people or groups on your list of 20, and why each might fit.",
+      "What are three questions you will ask in your first conversation?",
+      "How will they say yes, and how will they pay? For example, an email reply and an e-transfer deposit.",
+      "When will you follow up, and when will you stop?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "I help small clinics fix confusing booking pages so new patients book online, from $450.",
+      "One booking page, tested on a phone, one round of changes, done in 7 days. No new website.",
+      "A physio clinic I visit, a chiropractor a friend knows, a dental office in my neighbourhood.",
+      "What happens when patients try to book? What have you tried? When would you want it fixed?",
+      "A reply to my written offer, then a 50% e-transfer deposit.",
+      "One follow-up after 5 days and one after 2 weeks, then I stop."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

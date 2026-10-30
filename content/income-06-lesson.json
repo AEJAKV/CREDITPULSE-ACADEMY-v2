@@ -15,29 +15,10 @@
           "text": "A digital product is a file that you make once and can sell again and again, such as a budget template, a recipe collection, or a study guide. There are no boxes to pack, no postage to pay, and no garage full of leftover stock, so your only inventory problem is a folder named “Final_v7_REAL.pdf”."
         },
         {
-          "type": "heading",
-          "text": "What you’ll learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "How to recognize a digital product and choose a kind that sells well",
-              "text": ""
-            },
-            {
-              "title": "How to pick an idea that you can realistically finish in one weekend",
-              "text": ""
-            },
-            {
-              "title": "How to set a fair price and decide where to sell it",
-              "text": ""
-            },
-            {
-              "title": "What the CRA expects from you once the money starts arriving",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "A small digital product you finish this month can earn money for years with no stock to store.",
+          "detail": "Picking one small problem, pricing it fairly and tracking every sale from day one makes it a real business.",
+          "extra": "Section 04 has the tax steps if you would rather see those first."
         }
       ]
     },
@@ -52,17 +33,11 @@
         },
         {
           "type": "paragraph",
-          "text": "The idea is simple, because you do the hard work once and each later sale costs almost nothing to deliver. That is the whole appeal of digital products, and it is also the reason the market is crowded, so a clear and useful idea matters far more than a fancy one."
+          "text": "The idea is simple. You do the hard work once, and each later sale costs almost nothing to deliver. That is the whole appeal of digital products. It is also why the market is crowded, so a clear and useful idea matters far more than a fancy one."
         },
         {
           "type": "paragraph",
           "text": "Selling anything online is a business activity, even when the amounts are small, and we will explain what that means for your taxes shortly. First, let’s look at what makes a product worth creating."
-        },
-        {
-          "type": "transition",
-          "text": "By the end, you will have one product idea that you can realistically finish.",
-          "detail": "You will choose the idea, set a fair price, and learn what to tell the CRA, so your first sale feels like part of a plan instead of a surprise.",
-          "extra": "Jump ahead to Section 04 if you would rather see the tax steps first."
         }
       ]
     },
@@ -135,7 +110,7 @@
           "extra": "",
           "paragraphs": [
             "Priya Sandhu worked the front desk at a dental clinic in Saskatoon, and her goal was small and clear. She wanted an extra $400 each month to cover her daughter’s hockey fees, and she kept the cash in a jar labelled “Hockey Fund.” Her husband drove long-haul, so their money arrived on uneven dates. To cope, Priya had built a spreadsheet that planned the bills around his pay days. Friends kept asking to borrow it, and one finally said, “You should sell that.” Priya spent two weekends cleaning up the spreadsheet and adding a one-page guide. She listed it online for $14. In the first month she sold 31 copies, and the jar filled up fast.",
-            "Then she faced a choice. The sales were small and nobody was asking about them. She could ignore the money until tax time, as many beginners do, or she could start a simple log that very night. She sat at the kitchen table and opened a new tab named “Sales Log.” For every sale she wrote the date, the buyer’s province, and the fee. Then she set a second jar beside the first one, labelled “Tax Jar.”",
+            "Then she faced a choice. The sales were small and nobody was asking about them. She could ignore the money until tax time, as many beginners do, or she could start a simple log that same night. She sat at the kitchen table and opened a new tab named “Sales Log.” For every sale she wrote the date, the buyer’s province, and the fee. Then she set a second jar beside the first one, labelled “Tax Jar.”",
             "Months later, a teachers’ group shared her template, and sales jumped. A jolt of worry hit her. Was she close to $30,000? She opened the log and had her answer in two minutes. Over the year she had sold about 1,100 copies, which came to $15,400. She was well under the line, so she marked a date to check again each quarter.",
             "At tax time she copied her totals onto Form T2125 in a single evening. A friend who sold similar files, but kept no records, spent a whole weekend digging through old emails. The hockey fees were paid by October, and the Tax Jar was full too."
           ]
@@ -312,7 +287,7 @@
     },
     {
       "id": "action",
-      "title": "Your Action",
+      "title": "Your Action (Fill Out Form): Your First Digital Product",
       "paragraphs": [],
       "blocks": [
         {
@@ -356,7 +331,7 @@
         },
         {
           "type": "transition",
-          "text": "Next up: Module 3.2: Affiliate Marketing.",
+          "text": "Next up: Affiliate Marketing.",
           "detail": "You have made your own product. Next, you will learn to earn by recommending other people’s products, honestly and within Canadian rules."
         },
         {
@@ -383,16 +358,20 @@
   },
   "checkIn": {
     "questions": [
-      "What small problem could you solve with a file?",
-      "How long would a first version take you?",
-      "Where would you sell it first?",
-      "Do you already keep a record of money you earn on the side?"
+      "What small problem could you solve with a file? Think about what friends ask you for help with.",
+      "Who is it for, in a few words?",
+      "How long would a first version take you? (A weekend / A few weeks / Not sure)",
+      "What would you charge, and what do similar products sell for?",
+      "Where will you sell it first? (A marketplace / My own page / Not sure yet)",
+      "How will you track each sale? A notes app or spreadsheet counts."
     ],
     "samples": [
-      "A few words is fine. Think about what friends ask you for help with.",
-      "A weekend, a few weeks, or not sure.",
-      "A marketplace, my own page, or not sure yet.",
-      "Yes, no, or not sure. A notes app counts."
+      "Planning bills around an uneven paycheque.",
+      "Families with a partner who works shifts or long-haul.",
+      "A weekend.",
+      "$14. Similar planners sell for $10 to $20.",
+      "A marketplace.",
+      "A spreadsheet with the date, buyer’s province, price and fee."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

@@ -12,47 +12,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Canada has thirteen provincial and territorial benefit systems, because apparently one application vocabulary would have been dangerously convenient."
+          "text": "Canada has thirteen provincial and territorial benefit systems, because one shared set of words would have been dangerously convenient."
         },
         {
           "type": "paragraph",
-          "text": "Provincial and territorial income-support programs provide last-resort help with basic needs such as food, clothing and shelter. Program names, rates, asset limits, work expectations, emergency help and appeal routes differ by jurisdiction. This lesson teaches a repeatable search and application method; it does not create one fictional national rule."
+          "text": "Provincial and territorial income support is last-resort help with basic needs like food, clothing and shelter. Program names, rates, savings limits, work rules, emergency help and appeal steps differ by province. This lesson teaches a way to search and apply that works anywhere. It does not invent one national rule."
         },
         {
           "type": "spotlight",
-          "text": "Start with the official website of the province or territory where the applicant lives. Federal Benefits Finder results can identify possibilities, but the local program makes the eligibility decision."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Locate the correct provincial or territorial program.",
-              "text": ""
-            },
-            {
-              "title": "Separate financial, household and participation rules.",
-              "text": ""
-            },
-            {
-              "title": "Prepare an urgent-needs and standard application route.",
-              "text": ""
-            },
-            {
-              "title": "Maintain an active file and challenge a decision.",
-              "text": ""
-            },
-            {
-              "title": "Complete a Local Income Support Route Card.",
-              "text": ""
-            }
-          ]
+          "text": "Start with the official website of the province or territory where you live. The federal Benefits Finder can point to options, but the local program decides who qualifies."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Social assistance works the same everywhere in Canada.”",
-              "text": "The purpose is similar, but names, rates, exemptions and responsibilities vary. Moving across a provincial border can change the rulebook without changing the grocery bill."
+              "text": "The goal is similar everywhere, but names, rates, exemptions and duties vary. Moving across a provincial border can change the rulebook without changing the grocery bill."
             }
           ]
         },
@@ -60,57 +35,63 @@
           "type": "source",
           "text": "Canada: Benefits Finder",
           "url": "https://www.canada.ca/en/services/benefits/finder.html"
+        },
+        {
+          "type": "transition",
+          "text": "Finding your own province’s program first saves you from filling in the wrong form while rent comes due.",
+          "detail": "Five quick filters tell you which door to knock on and whether you need emergency help today.",
+          "extra": "Section 02 walks through the five filters."
         }
       ]
     },
     {
       "id": "filters",
-      "title": "Use Five Filters Before Reading a Rate",
+      "title": "Use Five Filters Before You Read a Rate",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Run every situation through these five filters before comparing a rate table—the filters decide which door is correct, the rate table only decides how much is behind it."
+          "text": "Run your situation through these five filters before you compare rates. The filters decide which door is right. The rate table only says how much is behind it."
         },
         {
           "type": "cards",
           "items": [
             {
-              "title": "JURISDICTION",
-              "text": "Confirm the province or territory of residence and whether on-reserve administration or another authority applies."
+              "title": "WHERE YOU LIVE",
+              "text": "Confirm your province or territory, and whether a First Nation or another group runs the program on reserve."
             },
             {
-              "title": "URGENCY",
-              "text": "Separate immediate food, shelter, medication, utility or safety needs from the standard application. Ask about emergency assistance rather than assuming the regular queue is the only door."
+              "title": "HOW URGENT IT IS",
+              "text": "Separate needs you have today, like food, shelter, medicine, utilities or safety, from the regular application. Ask about emergency help instead of assuming the regular line is the only door."
             },
             {
-              "title": "HOUSEHOLD",
-              "text": "Record adults, spouses or partners, dependants, custody, housing and immigration or sponsorship facts requested by the local rules."
+              "title": "WHO LIVES WITH YOU",
+              "text": "Write down adults, a spouse or partner, children, custody, housing and any immigration or sponsorship details the local rules ask for."
             },
             {
-              "title": "RESOURCES",
-              "text": "List income, cash, accounts, investments, vehicles, property and debts. Then classify them using the jurisdiction's exempt and non-exempt rules."
+              "title": "WHAT YOU HAVE",
+              "text": "List income, cash, accounts, investments, vehicles, property and debts. Then sort them using your province’s rules on what counts and what does not."
             },
             {
-              "title": "WORK CAPACITY AND PARTICIPATION",
-              "text": "Some programs require employment planning, job search or referrals; temporary health, caregiving or safety circumstances may change those responsibilities."
+              "title": "WORK AND PARTICIPATION",
+              "text": "Some programs ask for a job plan, a job search or referrals. A short-term health issue, caregiving or a safety concern may change those duties."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Ontario Works, Alberta Income Support, B.C. Income Assistance and Quebec Social Assistance are different programs. Their official pages are examples—not interchangeable instruction manuals."
+          "text": "Ontario Works, Alberta Income Support, B.C. Income Assistance and Quebec Social Assistance are different programs. Their official pages are examples, not interchangeable instruction manuals."
         },
         {
           "type": "spotlight",
-          "text": "A rate page shows a maximum category, not necessarily the final payment. Shelter cost, household size, income, assets, deductions, sanctions and supplements can change the result."
+          "text": "A rate page shows the most a group can get, not always your final payment. Your rent, household size, income, savings, deductions, penalties and extra benefits can all change the result."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Having a car, RRSP or small savings balance always causes denial.”",
-              "text": "Each program defines assets and exemptions differently. Declare the resource, find the current rule and request a written calculation; do not hide it or disqualify yourself by guesswork."
+              "text": "Each program defines savings and exemptions in its own way. Declare what you have, find the current rule and ask for the math in writing. Do not hide it or rule yourself out by guessing."
             }
           ]
         },
@@ -123,20 +104,20 @@
     },
     {
       "id": "file",
-      "title": "An Approval Is the Start of Reporting",
+      "title": "Approval Is Where Reporting Starts",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A complete application commonly needs identity and status documents, proof of residence, household information, rent or shelter costs, bank statements, income and asset records, and information about work or immediate needs. Submit only through the program’s official channel and keep copies or confirmation numbers."
+          "text": "A full application often needs ID and status papers, proof of where you live, household details, rent costs, bank statements, income and savings records, and details about work or urgent needs. Send it only through the program’s official channel, and keep copies or confirmation numbers."
         },
         {
           "type": "spotlight",
-          "text": "Alberta lists 24-hour emergency assistance for urgent basic needs, while its standard Income Support application may take longer. Other jurisdictions have their own emergency routes—ask directly and document the answer."
+          "text": "Alberta lists 24-hour emergency help for urgent basic needs, while its regular Income Support application may take longer. Other provinces have their own emergency routes, so ask directly and write down the answer."
         },
         {
           "type": "paragraph",
-          "text": "After approval, report changes by the local deadline. A failure to report can produce suspension or an overpayment even when the original application was accurate."
+          "text": "After you are approved, report changes by the local deadline. Not reporting can lead to a pause in payments or an overpayment, even if your first application was correct."
         },
         {
           "type": "heading",
@@ -146,43 +127,43 @@
           "type": "ordered",
           "items": [
             {
-              "title": "w",
-              "text": "o"
+              "title": "Work and money coming in",
+              "text": "A new job, more hours, a raise, gifts or another benefit starting."
             },
             {
-              "title": "h",
-              "text": "o"
+              "title": "Who lives with you",
+              "text": "Someone moving in or out, a new partner, a new baby or a custody change."
             },
             {
-              "title": "b",
-              "text": "a"
+              "title": "Bank balances",
+              "text": "Savings going up, a lump sum, an inheritance or a new account."
             },
             {
-              "title": "t",
-              "text": "r"
+              "title": "Travel, address and rent",
+              "text": "A move, a new rent amount or time spent away from your province."
             },
             {
-              "title": "s",
-              "text": "c"
+              "title": "School and health",
+              "text": "Starting school or training, or a health change that affects whether you can work."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Keep every decision notice. It should identify the benefit period, facts used, deductions or overpayment and review or appeal deadline. A bank deposit cannot explain why it changed; it is a number, not a caseworker in disguise."
+          "text": "Keep every decision letter. It should show the benefit period, the facts used, any deductions or overpayment and the deadline to ask for a review or appeal. A bank deposit cannot explain why it changed. It is a number, not a caseworker in disguise."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If a caseworker gives an answer by phone, there is no need to keep records.”",
-              "text": "Record the date, office, question, answer and next step, then request written confirmation for material decisions. Memory is a poor appeal exhibit."
+              "text": "Write down the date, office, question, answer and next step. Ask for written proof of any big decision. Memory is a poor appeal exhibit."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Provincial income support is local, last-resort and actively administered. Verify the current jurisdictional rules, separate emergency needs from the standard claim and maintain a dated evidence trail after approval."
+          "text": "Provincial income support is local, last-resort and closely managed. Check your province’s current rules, keep emergency needs apart from the regular claim and keep a dated paper trail after you are approved."
         }
       ]
     },
@@ -197,15 +178,18 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Kira moved from Regina to Vancouver after a job ended. A friend sent her a Saskatchewan assistance checklist, and Kira began gathering documents for a program that no longer lived where she did. The form was thorough, official-looking and geographically ambitious.",
-            "Her conflict was immediate: rent was due before a standard application would be assessed. Kira needed B.C.’s current route, not yesterday’s province and not a federal benefit page pretending to be a local decision.",
-            "She used the B.C. government site, separated her urgent shelter need from the full income-assistance application and documented both contacts. She listed her small savings and vehicle, then checked their treatment under B.C.’s rules instead of assuming denial.",
-            "Kira did not receive a universal Canadian answer. She received something more useful: the correct office, current checklist, emergency question and a confirmation trail tied to the province where she actually lived."
+            "Kira moves from Regina to Vancouver after her job ends. Her goal is to keep a roof over her head while she looks for work. Rent on her new room is due in nine days.",
+            "A friend sends her a Saskatchewan checklist for income support. Kira spends two evenings gathering every paper on it. The form is thorough, official-looking and geographically ambitious.",
+            "Then she calls the number on it. The worker is polite. Saskatchewan cannot help her now, because she lives in B.C. She has to apply there, under B.C. rules.",
+            "Kira looks at the B.C. site. The regular application could take weeks. Rent is due in nine days. She also owns an old car and has $600 in savings, and her friend says that will get her turned down anyway. Kira is tempted to give up, or to leave the car off the form.",
+            "Instead, she decides to ask two direct questions. She calls and asks whether there is emergency help for rent while the regular application is reviewed. Then she lists the car and the $600, and asks how B.C. counts them.",
+            "The twist is good news. Under B.C.’s rules, her car and her small savings do not rule her out. And there is a separate route for urgent shelter needs.",
+            "Kira does not get one Canadian answer. She gets something more useful: the right office, the current checklist, an answer about emergency help and a paper trail from the province where she lives."
           ]
         },
         {
           "type": "spotlight",
-          "text": "A move can end one jurisdiction’s assistance and require a fresh application elsewhere. Report the move to the former program and contact the new jurisdiction promptly to reduce gaps and overpayments."
+          "text": "A move can end one province’s help and mean a fresh application in another. Tell your old program about the move, and contact the new province right away to avoid gaps and overpayments."
         },
         {
           "type": "heading",
@@ -213,7 +197,13 @@
         },
         {
           "type": "paragraph",
-          "text": "Income support is administered locally. Locate the correct province or territory, separate urgent needs from the standard route and keep a confirmation trail from the jurisdiction where you actually live."
+          "text": "Income support is run locally. Find the right province or territory, keep urgent needs apart from the regular route and keep a paper trail from the place where you live."
+        },
+        {
+          "type": "transition",
+          "text": "Kira got emergency rent help and kept her car by asking B.C. the right questions instead of guessing.",
+          "detail": "Declaring what you own and asking about urgent help can open doors that guessing would close.",
+          "extra": "The quick check in Section 05 tests whether you can spot the next move."
         }
       ]
     },
@@ -226,28 +216,28 @@
           "type": "accordions",
           "items": [
             {
-              "title": "Why is there no single Canadian income-support rate?",
-              "detail": "Each province and territory designs and administers its own program; only the general last-resort purpose is shared across jurisdictions.",
+              "title": "Why is there no single Canadian income support rate?",
+              "detail": "Each province and territory designs and runs its own program. Only the general last-resort purpose is shared.",
               "text": ""
             },
             {
-              "title": "Which five filters help locate the correct route?",
-              "detail": "Jurisdiction, urgency, household, resources and work capacity and participation.",
+              "title": "Which five filters help you find the right route?",
+              "detail": "Where you live, how urgent it is, who lives with you, what you have, and work and participation.",
               "text": ""
             },
             {
-              "title": "Why should resources be declared before deciding whether they are exempt?",
-              "detail": "Exemption rules differ by jurisdiction, so declaring the resource and requesting a written calculation avoids wrongly assuming denial or hiding an asset by guesswork.",
+              "title": "Why declare what you own before deciding whether it counts?",
+              "detail": "Exemption rules differ by province. Declaring it and asking for the math in writing keeps you from wrongly ruling yourself out or hiding something by guesswork.",
               "text": ""
             },
             {
-              "title": "What changes commonly require reporting?",
-              "detail": "Work, earnings, gifts, benefits, household members, address, rent, bank balances, travel, school or medical circumstances.",
+              "title": "What changes usually need to be reported?",
+              "detail": "Work, earnings, gifts, benefits, who lives with you, your address, rent, bank balances, travel, school or health changes.",
               "text": ""
             },
             {
-              "title": "What should be saved if a decision appears wrong?",
-              "detail": "The decision notice showing the benefit period, facts used, deductions or overpayment and the review or appeal deadline, plus a dated record of related conversations.",
+              "title": "What should you keep if a decision looks wrong?",
+              "detail": "The decision letter showing the benefit period, facts used, deductions or overpayment and the review or appeal deadline, plus a dated record of related calls.",
               "text": ""
             }
           ]
@@ -256,19 +246,19 @@
     },
     {
       "id": "action",
-      "title": "Your Action: Complete Your Local Income Support Route Card",
+      "title": "Your Action (Fill Out Form): Local Income Support Route Card",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use document labels rather than account numbers. Keep bank records, immigration documents and identity information in a separate secure file."
+          "text": "Use short labels for papers, not account numbers. Keep bank records, immigration papers and ID in a separate safe file."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "Use a source date beside every rate, asset limit and earnings exemption. Provincial policy pages can change while an old search-result snippet continues wandering around the internet. Route rule: when the situation involves eviction, family violence, no food, medication or unsafe shelter, say so clearly and ask what emergency pathway exists today."
+          "text": "Write the date you checked beside every rate, savings limit and earnings rule. Provincial pages can change while an old search result keeps wandering around the internet. If you face eviction, family violence, no food, no medicine or an unsafe home, say so clearly and ask what emergency help exists today."
         }
       ]
     },
@@ -282,31 +272,31 @@
           "items": [
             {
               "title": "Income support",
-              "text": "Provincial or territorial last-resort basic-needs assistance."
+              "text": "Last-resort help with basic needs from a province or territory."
             },
             {
               "title": "Jurisdiction",
-              "text": "Government authority administering the program."
+              "text": "The government that runs the program."
             },
             {
               "title": "Liquid asset",
-              "text": "Readily available money or property under local rules."
+              "text": "Money or property you can get to quickly, under local rules."
             },
             {
               "title": "Exempt asset",
-              "text": "Resource excluded from a particular eligibility calculation."
+              "text": "Something you own that does not count in a certain eligibility test."
             },
             {
               "title": "Benefit unit",
-              "text": "People grouped together for the household calculation."
+              "text": "The people grouped together for the household math."
             },
             {
               "title": "Overpayment",
-              "text": "Assistance paid above revised entitlement."
+              "text": "Money paid above what you were owed."
             },
             {
               "title": "Appeal",
-              "text": "Formal process challenging an administrative decision."
+              "text": "A formal way to challenge a decision."
             }
           ]
         }
@@ -323,24 +313,20 @@
   },
   "checkIn": {
     "questions": [
-      "My province or territory, local program and official link are:",
-      "My urgent need and emergency-assistance contact are:",
-      "My household, housing and residency facts to verify are:",
-      "My income and exempt or non-exempt asset questions are:",
-      "My work, job-search, training or temporary-limitation responsibilities are:",
-      "My application documents, submission method and confirmation are:",
-      "My reporting calendar and current changes to declare are:",
-      "My decision date, review or appeal deadline and help source are:"
+      "Which province or territory do you live in? Name the program if you know it.",
+      "Do you have an urgent need right now? For example, rent due soon, no food or an unsafe home. Write “no” if not.",
+      "Who lives with you? For example, a partner or children.",
+      "Do you have savings, a vehicle or other things of value? List them. You do not need exact amounts.",
+      "Have you applied yet? (Applied / Not yet / Not sure)",
+      "What is one question you will ask the program this week?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "British Columbia. Income Assistance.",
+      "Yes. Rent is due in nine days.",
+      "Just me.",
+      "An old car and about $600 in savings.",
+      "Not yet.",
+      "Is there emergency help with rent while my application is reviewed?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

@@ -1,7 +1,7 @@
 {
   "title": "Rent Assistance",
   "summary": "Measure → Match → Apply → Stabilize → Renew",
-  "subtitle": "Search by household, housing type and urgency—not by one magic program name",
+  "subtitle": "Search by household, housing type and urgency, not by one magic program name",
   "minutes": 45,
   "published": true,
   "sections": [
@@ -16,43 +16,18 @@
         },
         {
           "type": "paragraph",
-          "text": "Rent help in Canada is delivered through provincial, territorial, municipal, Indigenous and housing-provider programs. It may be portable cash assistance, rent-geared-to-income housing, a rent supplement attached to a unit or short-term eviction-prevention help. Availability, priorities and wait times differ locally; the right search begins with the household and housing situation."
+          "text": "Rent help in Canada comes from provinces, territories, cities, Indigenous groups and housing providers. It may be cash help that moves with you, housing where rent is set by your income, a rent top-up tied to one unit, or short-term help to stop an eviction. What is offered, who goes first and how long it takes differ by area. The right search starts with your household and your housing."
         },
         {
           "type": "spotlight",
-          "text": "The Canada Housing Benefit is delivered through thirteen tailored provincial and territorial initiatives. It is not one national application portal with one national rate."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Calculate a housing-cost pressure snapshot.",
-              "text": ""
-            },
-            {
-              "title": "Distinguish portable benefits from subsidized units.",
-              "text": ""
-            },
-            {
-              "title": "Match age, family and priority categories to the right door.",
-              "text": ""
-            },
-            {
-              "title": "Respond before rent arrears become an eviction crisis.",
-              "text": ""
-            },
-            {
-              "title": "Complete a Rent Assistance Search and Stability File.",
-              "text": ""
-            }
-          ]
+          "text": "The Canada Housing Benefit is delivered through thirteen separate provincial and territorial programs. It is not one national website with one national rate."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Anyone paying more than 30% of income on rent automatically receives a subsidy.”",
-              "text": "Thirty per cent is a common affordability measure, not an approval code. Income limits, household priority, housing type, funding and wait-list rules still decide access."
+              "text": "Thirty percent is a common measure of what is affordable, not an approval code. Income limits, who goes first, the type of housing, funding and wait-list rules still decide who gets help."
             }
           ]
         },
@@ -60,6 +35,12 @@
           "type": "source",
           "text": "CMHC: Affordable housing programs across Canada",
           "url": "https://www.cmhc-schl.gc.ca/"
+        },
+        {
+          "type": "transition",
+          "text": "Knowing which kind of rent help fits you keeps you from waiting in a line that was never yours.",
+          "detail": "Four kinds of help look alike from the outside, and each one has its own door.",
+          "extra": "Section 02 lays out the four doors."
         }
       ]
     },
@@ -70,43 +51,43 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Read the doors before assuming they all lead to the same room."
+          "text": "Read the doors before you assume they all lead to the same room."
         },
         {
           "type": "cards",
           "items": [
             {
-              "title": "PORTABLE RENT BENEFIT",
-              "text": "A payment follows the eligible household in qualifying market housing, subject to local rules and renewal."
+              "title": "RENT HELP THAT MOVES WITH YOU",
+              "text": "A payment that follows your household to a regular rental that qualifies, under local rules and yearly renewal."
             },
             {
-              "title": "RENT-GEARED-TO-INCOME HOUSING",
-              "text": "Rent is linked to household income in an approved unit. Access often involves a centralized or local wait list."
+              "title": "RENT SET BY YOUR INCOME",
+              "text": "Your rent is tied to your household income in an approved unit. Getting in often means a central or local wait list."
             },
             {
-              "title": "UNIT-BASED SUPPLEMENT",
-              "text": "Funding is attached to a specific landlord, co-operative or housing provider. Moving may end the assistance."
+              "title": "TOP-UP TIED TO ONE UNIT",
+              "text": "The money is tied to a specific landlord, co-op or housing provider. Moving may end the help."
             },
             {
               "title": "EMERGENCY HOUSING HELP",
-              "text": "Short-term funds, social assistance, rent banks or prevention services may address arrears, deposits or urgent shelter risk."
+              "text": "Short-term funds, income support, rent banks or prevention services may help with back rent, deposits or an urgent risk of losing your home."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "B.C. separates Rental Assistance Program support for eligible working families with children from SAFER support for eligible renters aged 60 or older. Household category changes the door."
+          "text": "B.C. keeps its Rental Assistance Program for working families with children separate from SAFER, which helps renters aged 60 or older. Your household type changes the door."
         },
         {
           "type": "spotlight",
-          "text": "Alberta offers monthly rent benefits and community-based affordable housing. Local housing providers may administer applications, so the provincial page is often the map—not the final counter."
+          "text": "Alberta offers monthly rent benefits and community-based affordable housing. Local housing providers may handle the applications, so the provincial page is often the map, not the final counter."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Joining one housing wait list places me on every relevant list.”",
-              "text": "Municipalities, housing providers and specialized programs may maintain separate applications. Ask which lists, buildings and portable benefits require distinct action."
+              "text": "Cities, housing providers and special programs may each keep their own list. Ask which lists, buildings and rent benefits need a separate application."
             }
           ]
         },
@@ -119,31 +100,31 @@
     },
     {
       "id": "build",
-      "title": "Measure the Gap Before Choosing the Door",
+      "title": "Measure the Gap Before You Choose a Door",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Record gross and net household income, monthly rent, included utilities, unit size, accessibility needs, household members and any arrears. A simple pressure measure is rent divided by gross income, but use the program’s official income definition for eligibility."
+          "text": "Write down your household income before and after tax, your monthly rent, which utilities are included, unit size, any accessibility needs, who lives with you and any back rent. A simple way to measure the pressure is rent divided by income before tax, but use the program’s own income rules to see if you qualify."
         },
         {
           "type": "spotlight",
-          "text": "A rent receipt proves payment; a lease proves the tenancy terms. Many applications need both, plus tax information, income evidence, status documents and household details."
+          "text": "A rent receipt proves you paid. A lease proves the terms of your tenancy. Many applications need both, plus tax information, proof of income, status papers and household details."
         },
         {
           "type": "paragraph",
-          "text": "If rent is late or an eviction notice has arrived, contact the landlord or housing provider and the local tenant, legal or housing-stability service immediately. Ask for a written repayment proposal and apply for emergency help. Do not confuse a subsidy wait list with an urgent eviction response."
+          "text": "If rent is late or you get an eviction notice, contact your landlord or housing provider and a local tenant, legal or housing help service right away. Ask for a written plan to pay back what you owe, and apply for emergency help. A subsidy wait list is not an answer to an eviction deadline."
         },
         {
           "type": "spotlight",
-          "text": "Portable benefits can require annual income review and reporting of moves or household changes. Unit-based assistance may end when the tenancy ends. Read the renewal letter before giving notice to move."
+          "text": "Rent help that moves with you may need a yearly income check and a report when you move or your household changes. Help tied to one unit may end when you leave. Read the renewal letter before you give notice to move."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A rent subsidy solves every housing-cost problem.”",
-              "text": "Utilities, parking, insurance, moving costs and rent above program limits may remain. Build a full housing budget; the lease has supporting actors."
+              "text": "Utilities, parking, insurance, moving costs and rent above the program limit may still be yours to pay. Build a full housing budget. The lease has supporting actors."
             }
           ]
         },
@@ -153,13 +134,13 @@
         },
         {
           "type": "paragraph",
-          "text": "Rent assistance is a local matching exercise. Measure the housing gap, identify whether support follows the household or the unit, join every relevant route and treat arrears as an urgent stability problem."
+          "text": "Finding rent help is a local matching job. Measure your housing gap, find out whether help follows you or the unit, apply to every route that fits and treat back rent as an urgent problem."
         }
       ]
     },
     {
       "id": "story",
-      "title": "Alicia and the Wait List That Wasn't a Rescue Boat",
+      "title": "Alicia and the Wait List That Wasn’t a Rescue Boat",
       "paragraphs": [],
       "blocks": [
         {
@@ -168,15 +149,24 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Alicia Morgan in Toronto applied for community housing and assumed the wait-list confirmation would protect her current apartment. When her hours fell, she missed part of the rent. The confirmation letter remained calm, laminated and entirely unable to negotiate with her landlord.",
-            "Her conflict was timing. Long-term subsidized housing and immediate arrears prevention were different routes. Alicia also qualified to ask her local housing office about a portable benefit, but availability and priority rules required direct confirmation.",
-            "She contacted a tenant-support clinic, proposed a written repayment schedule and gathered her lease, rent ledger, tax notice and reduced-hours letter. She kept the long-term application active while pursuing the urgent local options.",
-            "Alicia did not turn a wait list into cash. She built parallel plans: protect today’s tenancy, pursue portable help and keep the long-term housing application current."
+            "Alicia Morgan rents a one-bedroom in Toronto with her son. Her goal is to stay in that apartment, close to his school. Last year she applied for community housing and got a letter saying she is on the wait list.",
+            "In March, her hours at the store are cut. She misses half of April’s rent. She figures the wait-list letter will protect her. The letter stays calm, laminated and entirely unable to negotiate with her landlord.",
+            "In May, an eviction notice slides under her door. She calls the housing office, hoping the list can speed up. The answer is no. The list could take years.",
+            "Alicia is tempted to stop answering the landlord’s calls until something changes. Instead, she decides to call a tenant clinic that same afternoon. The worker tells her that a wait list and an eviction are two different problems, and she needs a plan for both.",
+            "With the clinic’s help, she writes her landlord a plan to pay back the missed rent over four months. She gathers her lease, her rent record, her tax notice and the letter about her cut hours. She also applies for emergency rent help.",
+            "There is one more surprise. The worker asks about a rent benefit that moves with her, instead of waiting for a new unit. Alicia had never heard of it. She applies that week.",
+            "The landlord accepts the plan. Alicia keeps her apartment, her son keeps his school, and her wait-list file stays current. The laminated letter still cannot negotiate. Alicia can."
           ]
         },
         {
           "type": "spotlight",
-          "text": "Update housing applications when phone, address, household, income or accessibility needs change. A closed file can spend years waiting perfectly in the wrong place."
+          "text": "Update your housing applications when your phone, address, household, income or accessibility needs change. A closed file can spend years waiting perfectly in the wrong place."
+        },
+        {
+          "type": "transition",
+          "text": "Alicia kept her home by treating the eviction as its own emergency instead of waiting on the housing list.",
+          "detail": "Working on today’s rent and the long-term list at the same time protects your home now and later.",
+          "extra": "The quick check in Section 05 tests whether you can spot the next move."
         }
       ]
     },
@@ -190,27 +180,27 @@
           "items": [
             {
               "title": "Why is the Canada Housing Benefit not one national application?",
-              "detail": "It is delivered through thirteen tailored provincial and territorial initiatives, each with its own rules, portal and rate rather than one federal program.",
+              "detail": "It is delivered through thirteen separate provincial and territorial programs, each with its own rules, website and rate.",
               "text": ""
             },
             {
-              "title": "What four rent-support doors should be compared?",
-              "detail": "Portable rent benefits, rent-geared-to-income housing, unit-based supplements and emergency housing help.",
+              "title": "Which four kinds of rent help should you compare?",
+              "detail": "Rent help that moves with you, rent set by your income, a top-up tied to one unit and emergency housing help.",
               "text": ""
             },
             {
-              "title": "Which records establish income, tenancy and payment?",
-              "detail": "Tax information and income evidence establish income, a lease establishes tenancy terms, and a rent receipt or rent ledger establishes payment.",
+              "title": "Which papers prove your income, your tenancy and your payments?",
+              "detail": "Tax information and income records prove income. A lease proves the terms of your tenancy. A rent receipt or rent record proves payment.",
               "text": ""
             },
             {
               "title": "Why should an eviction risk not wait for a subsidy list?",
-              "detail": "A wait list addresses long-term housing over time, while an eviction notice is an immediate deadline; arrears and eviction risk need direct contact with the landlord and an emergency-help route right away.",
+              "detail": "A wait list deals with long-term housing over time. An eviction notice is a deadline now, so contact your landlord and find emergency help right away.",
               "text": ""
             },
             {
-              "title": "What must be checked before moving from a subsidized unit?",
-              "detail": "Whether the assistance is unit-based, which would end at that address, or portable, and what the renewal letter requires before giving notice.",
+              "title": "What should you check before you move out of a unit with rent help?",
+              "detail": "Whether the help is tied to the unit, which would end when you leave, or moves with you, and what the renewal letter asks before you give notice.",
               "text": ""
             }
           ]
@@ -219,19 +209,19 @@
     },
     {
       "id": "action",
-      "title": "Your Action: Complete Your Rent Assistance Search and Stability File",
+      "title": "Your Action (Fill Out Form): Rent Assistance Search and Stability File",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use rounded figures and document labels. Keep leases, notices, identification and banking details in a secure file outside this workbook."
+          "text": "Use rounded numbers and short labels. Keep leases, notices, ID and bank details in a safe file outside this form."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "Never pay an unofficial “application fee” to jump a public housing wait list. Verify the agency, website and contact details before sharing identity or financial documents."
+          "text": "Never pay an unofficial “application fee” to jump a public housing wait list. Check the agency, website and contact details before you share ID or money records."
         }
       ]
     },
@@ -245,31 +235,31 @@
           "items": [
             {
               "title": "Portable benefit",
-              "text": "Rent assistance that may move with an eligible household."
+              "text": "Rent help that may move with your household."
             },
             {
               "title": "RGI",
-              "text": "Rent-geared-to-income housing."
+              "text": "Rent-geared-to-income housing, where rent is set by your income."
             },
             {
               "title": "Unit-based supplement",
-              "text": "Assistance attached to a specific rental unit."
+              "text": "Rent help tied to one specific unit."
             },
             {
               "title": "Housing-cost ratio",
-              "text": "Rent or shelter cost compared with household income."
+              "text": "Your rent or housing cost compared with your household income."
             },
             {
               "title": "Rent ledger",
-              "text": "Landlord's record of charges and payments."
+              "text": "Your landlord’s record of rent charged and paid."
             },
             {
               "title": "Arrears",
-              "text": "Past-due rent."
+              "text": "Rent that is past due."
             },
             {
               "title": "Wait list",
-              "text": "Queue for housing or assistance, subject to local priority rules."
+              "text": "A line for housing or help, under local rules about who goes first."
             }
           ]
         }
@@ -286,24 +276,20 @@
   },
   "checkIn": {
     "questions": [
-      "My province, municipality and housing office are:",
-      "My gross household income, rent and housing-cost percentage are:",
-      "My household, age, child, disability or priority categories are:",
-      "The portable, RGI, unit-based and emergency routes I found are:",
-      "My lease, rent record, tax and income documents are:",
-      "My wait-list applications, dates, status and update duties are:",
-      "My arrears, notice, landlord proposal and urgent-help contacts are:",
-      "My renewal, move-reporting and annual review dates are:"
+      "Which city and province do you live in?",
+      "About how much is your rent, and about how much does your household earn each month? Estimates are fine.",
+      "Is your rent behind, or have you received an eviction notice? (Yes / No / Not sure)",
+      "Which rent help have you already applied for? Write “none yet” if you have not applied.",
+      "Who lives with you? Mention children, anyone 60 or older, or anyone with a disability.",
+      "What is one call you will make this week?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Toronto, Ontario.",
+      "Rent is $1,850. We earn about $3,200 a month.",
+      "Yes. I owe half of April’s rent.",
+      "Community housing wait list, since last year.",
+      "Me and my son, who is 9.",
+      "A tenant clinic, about a payback plan for my landlord."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

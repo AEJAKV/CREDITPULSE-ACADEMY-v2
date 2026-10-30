@@ -12,32 +12,13 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A side hustle becomes a business the moment it earns steadily, serves real customers, and starts to need real structure. That moment can feel exciting and slightly terrifying, like being handed the keys to a bus. This module shows you the legal and tax steps in a sensible order, so that growing up does not mean growing scared."
+          "text": "A side hustle becomes a business when it earns steadily, serves real customers and starts to need real structure. That moment can feel exciting and a little terrifying, like being handed the keys to a bus. This lesson puts the legal and tax steps in a sensible order, so growing up does not mean growing scared."
         },
         {
-          "type": "heading",
-          "text": "What you’ll learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "The signs that your side hustle is ready to become a business",
-              "text": ""
-            },
-            {
-              "title": "How a sole proprietorship and a corporation differ in risk, tax, and paperwork",
-              "text": ""
-            },
-            {
-              "title": "How to register, and when a business number and other accounts are needed",
-              "text": ""
-            },
-            {
-              "title": "How to plan for CPP, tax instalments, and the step of leaving a paycheque",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Take each step in order, and the jump feels like a staircase instead of a cliff.",
+          "detail": "A clear order of small legal and money decisions lets you grow with confidence, and keeps your savings and your sleep safe.",
+          "extra": "Section 03 compares the main business structures side by side."
         }
       ]
     },
@@ -48,21 +29,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "You are already a business in the eyes of the CRA, even if your income is small. Self-employed income is reported on Form T2125 and attached to your personal return, whether you earn $500 or $50,000. The difference between a hustle and a business is mostly how seriously you run it."
+          "text": "To the CRA, you are already a business, even if your income is small. Self-employed income goes on Form T2125 with your personal return, whether you earn $500 or $50,000. What turns a hustle into a business is mostly how seriously you run it."
         },
         {
           "type": "paragraph",
-          "text": "A good sign that you are ready to grow is repeat demand, which means that customers keep coming back or sending friends. Another sign is that the work is crowding out your sleep. A third sign is that you are turning down jobs that you would love to take."
+          "text": "A good sign you are ready to grow is repeat demand: customers keep coming back or sending friends. Another sign is that the work is eating into your sleep. A third is that you keep turning down jobs you would love to take."
         },
         {
           "type": "paragraph",
-          "text": "Growing does not require quitting your day job tomorrow. Many successful owners spend a year or two building steady income on the side while they put the right structure in place."
-        },
-        {
-          "type": "transition",
-          "text": "Take each step in the right order, and the jump feels like a staircase instead of a cliff.",
-          "detail": "A clear sequence of small, legal, and financial decisions lets you grow with confidence, while keeping your savings and your sleep intact.",
-          "extra": "Section 02 compares the main business structures side by side."
+          "text": "Growing does not mean quitting your day job tomorrow. Many owners spend a year or two building steady income on the side while they put the right structure in place."
         }
       ]
     },
@@ -73,7 +48,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The structure you pick decides who is responsible for the business’s debts, how its income is taxed, and how much paperwork you handle. The two most common choices for a beginner are a sole proprietorship and a corporation."
+          "text": "The structure you pick decides who is responsible for the business’s debts, how its income is taxed and how much paperwork you handle. The two most common choices for a beginner are a sole proprietorship and a corporation."
         },
         {
           "type": "lists",
@@ -104,14 +79,14 @@
         },
         {
           "type": "spotlight",
-          "text": "Neither structure is automatically better. A corporation can offer protection and tax planning options, and it also brings extra costs and rules. Talk to an accountant and a lawyer about your own numbers before you decide. This module explains the choices and does not tell you which to pick."
+          "text": "Neither structure wins every time. A corporation can offer protection and tax planning choices, but it also brings extra costs and rules. Talk to an accountant and a lawyer about your own numbers before you decide. This lesson explains the choices. It does not pick one for you."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Incorporating means I never have to worry about debts or lawsuits.”",
-              "text": "A lender may ask you to personally guarantee a loan, and directors can be personally liable if the corporation fails to remit certain amounts it owes. Insurance and good contracts still matter."
+              "text": "A lender may ask you to personally guarantee a loan. Directors can also be personally liable if the company fails to send in certain amounts it owes, such as payroll deductions. Insurance and good contracts still matter."
             }
           ]
         },
@@ -121,15 +96,19 @@
         },
         {
           "type": "paragraph",
-          "text": "Most businesses must register with the province or territory where they operate, although a sole proprietorship using the owner’s own name may not need to. In British Columbia, Manitoba, Nova Scotia, Ontario, and Saskatchewan, you receive a federal business number when you register provincially. In other places, you apply to the CRA for one."
+          "text": "Most businesses must register with the province or territory where they operate, though a sole proprietor using their own name may not need to. In British Columbia, Manitoba, Nova Scotia, Ontario and Saskatchewan, you get a federal business number when you register with the province. Elsewhere, you apply to the CRA for one."
         },
         {
           "type": "paragraph",
-          "text": "A business number is a nine-digit identifier. It can be linked to program accounts, such as a GST/HST account, once you need them. Check which permits and licences your city, province, and industry require, because the BizPaL tool can list them for you."
+          "text": "A business number is a nine-digit ID. You link tax accounts to it, such as a GST/HST account, when you need them. Check which permits and licences your city, province and industry require. The free BizPaL tool can list them for you."
         },
         {
           "type": "spotlight",
-          "text": "Keep your business money separate. A separate bank account makes your records cleaner, your return simpler, and your story easier to tell if the CRA, a lender, or a landlord ever asks questions."
+          "text": "Regulated trades need more than a business number. Electricians, plumbers, gas fitters and some other trades need a licence and often a permit for each job before they work for the public. In B.C., for example, Technical Safety BC requires a licence to be hired for electrical work and a permit for every EV charger install."
+        },
+        {
+          "type": "spotlight",
+          "text": "Keep your business money separate. A separate bank account makes your records cleaner, your return simpler and your story easier to tell if the CRA, a lender or a landlord ever asks."
         },
         {
           "type": "heading",
@@ -137,11 +116,36 @@
         },
         {
           "type": "paragraph",
-          "text": "As your profit rises, you may have to pay income tax by instalments during the year instead of in one lump at filing time. For 2026, the CRA says you must pay instalments if your net tax owing is more than $3,000, or $1,800 for Quebec, and it was also above that amount in 2025 or 2024. You may also need instalments for CPP on your own earnings."
+          "text": "As your profit grows, you may have to pay income tax in instalments during the year instead of one lump sum when you file. For 2026, the CRA says you must pay instalments if your net tax owing is more than $3,000 ($1,800 in Quebec) and it was also above that in 2025 or 2024. Your instalments also cover the CPP you owe on your own earnings."
         },
         {
           "type": "spotlight",
-          "text": "Self-employed people pay both halves of CPP. Once your net self-employment income passes $3,500 in a year, you pay Canada Pension Plan contributions on it, covering both the employee and employer share. Quebec residents contribute to the Quebec Pension Plan instead."
+          "text": "Self-employed people pay both halves of CPP. Once your net self-employment income passes $3,500 in a year, you pay Canada Pension Plan contributions on it, covering both the worker and employer shares. Quebec residents pay into the Quebec Pension Plan instead."
+        },
+        {
+          "type": "heading",
+          "text": "Before you cut your hours"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "A CASH CUSHION",
+              "text": "Save three to six months of household costs before you leave a steady paycheque. Self-employed income comes in waves."
+            },
+            {
+              "title": "HEALTH AND DENTAL",
+              "text": "Your job’s benefits plan ends when the job does. Price a personal health and dental plan and add it to your costs."
+            },
+            {
+              "title": "EI SPECIAL BENEFITS",
+              "text": "Self-employed people can sign up for EI special benefits, such as sickness and parental leave. You pay premiums, and you must wait 12 months after signing up before you can claim."
+            },
+            {
+              "title": "NO MORE PAYROLL TAX",
+              "text": "No one takes tax off your business income. Move a share of every payment into a tax account, and plan for instalments."
+            }
+          ]
         }
       ]
     },
@@ -156,19 +160,19 @@
           "detail": "STORY",
           "extra": "",
           "paragraphs": [
-            "Mehdi Karimi worked as an electrician in Surrey. In the evenings he installed electric-vehicle chargers for neighbours. His goal was to cut his day job to four days a week, so that he could spend the fifth day on his own customers. A yellow voltage tester hung from his belt.",
-            "By spring he had eleven repeat clients. Then a property manager asked if he had liability insurance and a business number. The company needed both before it could give him a bigger contract. Mehdi had neither.",
-            "That night he searched online and found a forum full of advice. A dozen people all said the same thing. “Incorporate right now.” Mehdi felt a rush of panic. His finger hovered over a button that offered to set up a company for a flat fee.",
-            "He stopped, and he made a different choice. He would not rush into a company because strangers told him to. Instead he booked an hour with an accountant and brought his numbers. The accountant asked how much profit he made. It was about $22,000 a year. For now, they agreed, a sole proprietorship with good insurance made more sense. They picked a date to review it, and they wrote down the profit level that would make him think again.",
-            "Mehdi registered his business name and got his business number. He bought liability insurance and opened a business bank account. The next week he sent the property manager his certificate and number.",
-            "The manager hired him, and not in spite of the questions. She liked how well he had answered them. By autumn Mehdi had moved to a four-day job. By the next review his profit had passed the level he had written down, and he went back to the accountant with a smile. The yellow voltage tester still hangs from his belt."
+            "Mehdi Karimi worked as an electrician in Surrey. In the evenings he installed electric-vehicle chargers for neighbours. His goal was to cut his day job to four days a week, so he could spend the fifth day on his own customers. A yellow voltage tester hung from his belt.",
+            "By spring he had eleven repeat clients. Then a property manager asked if he had liability insurance, a contractor licence and a business number. The company needed all three before it could give him a bigger contract. Mehdi had none of them.",
+            "That night he searched online and found a forum full of advice. A dozen people said the same thing: “Incorporate right now.” Mehdi felt a rush of panic. His finger hovered over a button that offered to set up a company for a flat fee.",
+            "He stopped and made a different choice. He would not rush into a company because strangers told him to. He booked an hour with an accountant and brought his numbers. His profit was about $22,000 a year. For now, they agreed, a sole proprietorship with good insurance made more sense. They set a review date and wrote down the profit level that would make him think again.",
+            "Mehdi registered his business name and got his business number. He applied to Technical Safety BC for his contractor licence and started pulling a permit for every install. He bought liability insurance and opened a business bank account. Then he sent the property manager his papers.",
+            "The manager hired him, and the questions helped. She liked how well he had answered them. By autumn Mehdi had moved to a four-day job. By the next review his profit had passed the level he wrote down, and he went back to the accountant with a smile. The yellow voltage tester still hangs from his belt."
           ]
         },
         {
           "type": "transition",
           "text": "Slow is smooth, and smooth is fast.",
-          "detail": "A planned structure, the right paperwork, and an honest review date protect your income and make you look as professional as you are.",
-          "extra": "Section 04 gives you a step-by-step plan for your own transition."
+          "detail": "A planned structure, the right paperwork and an honest review date protect your income and make you look as professional as you are.",
+          "extra": "Section 05 gives you a step-by-step plan for your own move."
         }
       ]
     },
@@ -182,7 +186,7 @@
           "items": [
             {
               "title": "Check your readiness.",
-              "text": "Look for repeat customers, steady income, and demand that exceeds your free time."
+              "text": "Look for repeat customers, steady income and more demand than free time."
             },
             {
               "title": "Choose a structure with advice.",
@@ -190,7 +194,7 @@
             },
             {
               "title": "Register and get your numbers.",
-              "text": "Complete your provincial registration, get a business number, and add program accounts as you need them."
+              "text": "Register with your province, get a business number, add tax accounts as you need them, and get any licence your trade requires."
             },
             {
               "title": "Protect the business.",
@@ -198,11 +202,11 @@
             },
             {
               "title": "Plan for tax.",
-              "text": "Set money aside for income tax, CPP, and GST/HST, and check whether you must pay instalments."
+              "text": "Set money aside for income tax, CPP and GST/HST, and check whether you must pay instalments."
             },
             {
               "title": "Set a review date.",
-              "text": "Decide in advance what profit or risk would make you revisit your structure."
+              "text": "Decide ahead of time what profit or risk would make you look at your structure again."
             }
           ]
         },
@@ -215,15 +219,15 @@
           "items": [
             {
               "title": "Registration",
-              "text": "Rules differ by province. Newfoundland and Labrador does not require provincial registration for sole proprietorships, while other provinces do in many cases."
+              "text": "Rules differ by province. Newfoundland and Labrador has no provincial registration for sole proprietorships, while most other provinces require it in many cases."
             },
             {
               "title": "Quebec",
-              "text": "Quebec uses the Quebec Pension Plan and has its own business registration with the Registraire des entreprises, so check its requirements."
+              "text": "Quebec uses the Quebec Pension Plan and has its own business registry, the Registraire des entreprises, so check its rules."
             },
             {
               "title": "GST/HST",
-              "text": "You must register once your taxable sales pass $30,000 over four calendar quarters, or in any single quarter."
+              "text": "You must register once your taxable sales pass $30,000 over four calendar quarters, or in a single quarter."
             }
           ]
         },
@@ -232,13 +236,13 @@
           "items": [
             {
               "title": "“I have to quit my job before I can call myself a business.”",
-              "text": "You can run a legitimate business on the side, with a business number, proper records, and registered accounts. Many people do exactly that for years."
+              "text": "You can run a real business on the side, with a business number, proper records and registered accounts. Many people do that for years."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Write down your review trigger today, such as a profit amount or a number of clients. It gives you a calm, planned reason to revisit your structure instead of a stressful one."
+          "text": "Insider tip: Write down your review trigger today, such as a profit amount or a number of clients. It gives you a calm, planned reason to look at your structure again, instead of a stressful one."
         }
       ]
     },
@@ -327,15 +331,15 @@
           "items": [
             {
               "title": "Corporation",
-              "text": "A business that is a separate legal entity from its owners."
+              "text": "A business that is a legal person, separate from its owners."
             },
             {
               "title": "Sole proprietorship",
-              "text": "An unincorporated business owned by one individual."
+              "text": "A business owned by one person that is not incorporated."
             },
             {
               "title": "Program account",
-              "text": "A CRA account for a specific tax, such as GST/HST."
+              "text": "A CRA account for one tax, such as GST/HST."
             },
             {
               "title": "Business number",
@@ -347,14 +351,14 @@
             },
             {
               "title": "Instalments",
-              "text": "Tax payments that you make during the year instead of all at filing time."
+              "text": "Tax payments you make during the year instead of all at once when you file."
             }
           ]
         },
         {
           "type": "transition",
           "text": "You have finished this course.",
-          "detail": "Choose the one idea from Modules 2.6 to 2.10 that will help you most, and complete its Your Action page this week."
+          "detail": "Pick the one lesson from this course that will help you most right now, and finish its Your Action page this week."
         },
         {
           "type": "source",
@@ -402,13 +406,17 @@
     "questions": [
       "What makes your side hustle ready to grow?",
       "Which structure are you thinking about?",
+      "Does your work need a licence or permits?",
       "Do you have a business bank account and liability insurance?",
+      "How many months of household costs have you saved?",
       "When will you book time with an accountant?"
     ],
     "samples": [
       "Think about repeat customers or a waiting list.",
       "Sole proprietorship, corporation, or not sure.",
+      "Yes, no, or not sure. Check BizPaL and your trade’s licensing body.",
       "Both, one of them, or neither yet.",
+      "For example: two months now, aiming for four before I cut my hours.",
       "Choose a month and put it in your calendar."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",

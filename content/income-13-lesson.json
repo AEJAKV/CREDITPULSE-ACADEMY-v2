@@ -12,32 +12,13 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "An incorporation certificate can feel like the finish line. It is actually the start of a company that needs its own records and a way to handle money. The portal may celebrate with a receipt, but your folder still has work to do."
+          "text": "A company certificate can feel like the finish line. It is the start of a company that needs its own records and its own way to handle money. The website may cheer with a receipt, but your folder still has work to do."
         },
         {
-          "type": "heading",
-          "text": "What you will learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Choose a filing route and prepare the company details.",
-              "text": ""
-            },
-            {
-              "title": "Understand who owns shares and who runs the company.",
-              "text": ""
-            },
-            {
-              "title": "Build a startup folder and a first 90-day plan.",
-              "text": ""
-            },
-            {
-              "title": "Keep registry filings separate from corporate tax filings.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Give your start a clear shape.",
+          "detail": "You can turn a pile of forms into a company folder where every page has a job, so a client, bank or accountant gets answers fast.",
+          "extra": "Section 05 walks you through that folder, one section at a time."
         }
       ]
     },
@@ -48,20 +29,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A corporation is a separate legal entity. It can own property and enter contracts in its own name. Registering a business name alone does not create one."
+          "text": "A corporation is a separate legal person. It can own things and sign contracts in its own name. Registering a business name on its own does not create one."
         },
         {
           "type": "paragraph",
-          "text": "People own pieces of the company called shares. Those owners are shareholders, while directors oversee the company and officers handle daily work. In a small company, one person may fill all three roles, but each role still matters."
+          "text": "People own pieces of the company called shares. Those owners are shareholders. Directors oversee the company, and officers run the daily work. In a small company, one person may hold all three roles, but each role still matters."
         },
         {
           "type": "paragraph",
-          "text": "This lesson follows the startup documents after you decide to incorporate. It does not promise tax savings or remove every personal risk. Use qualified legal and accounting help for choices that affect ownership or taxes."
-        },
-        {
-          "type": "transition",
-          "text": "Give your start a clear shape",
-          "detail": "You can turn a pile of forms into a company folder with a purpose for every document."
+          "text": "This lesson follows the paperwork after you decide to incorporate. It does not promise tax savings or remove every personal risk. Get a lawyer or accountant for choices that affect who owns what or how much tax you pay."
         }
       ]
     },
@@ -72,40 +48,65 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Choose federal incorporation through Corporations Canada or incorporation under a province or territory’s rules. Look at where you will operate and which ongoing filings apply. Check current portal fees before committing, rather than budgeting from an old screenshot."
+          "text": "You can incorporate federally with Corporations Canada, or under the rules of one province or territory. Think about where you will do business and which yearly filings each route brings. Check today’s fees on the official site before you commit, not an old screenshot."
         },
         {
           "type": "paragraph",
-          "text": "Corporations Canada offers a word name or an assigned numbered name. A numbered company may use an operating name, subject to registration rules. Put the legal name on your company documents so clients know who is making the agreement."
+          "text": "Corporations Canada lets you pick a word name or take a numbered name, such as 1234567 Canada Inc. A numbered company can trade under a different name if that name is registered where the rules require it. Put the legal name on your contracts and invoices so clients know who they are dealing with."
         },
         {
           "type": "spotlight",
-          "text": "Write down the filing jurisdiction before opening the application. Provincial incorporation and federal incorporation are different routes, and later registration in another jurisdiction may still be needed."
+          "text": "Write down where you are incorporating before you open the form. Federal and provincial companies follow different routes. A federal company may still need to register in each province where it does business."
         },
         {
           "type": "paragraph",
-          "text": "The formation document, called articles of incorporation, sets the company’s structure. Share classes can carry different rights. If two people will own the company, ask a lawyer about ownership rights and a shareholder agreement before choosing a template."
+          "text": "The main filing, called the articles of incorporation, sets up how the company is built. Share classes can carry different rights, such as votes or dividends. If two people will own the company, ask a lawyer about ownership and a shareholder agreement before you pick a template."
         },
         {
           "type": "paragraph",
-          "text": "Prepare the registered office and first director details using the chosen registry’s guidance. The registered office receives official documents, so pick an address that meets the rules and will be monitored. Check what information becomes public before filing."
+          "text": "Get the registered office and first director details ready using your registry’s guide. Official mail goes to the registered office, so pick an address that meets the rules and that someone checks. Find out which details become public before you file."
         },
         {
           "type": "spotlight",
-          "text": "A business partner’s friendly promise is not a share record. Agree on ownership before filing, then document the shares actually issued and the payment received."
+          "text": "A partner’s friendly promise is not a share record. Agree on who owns what before you file. Then record the shares the company issued and the money paid for them."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Once the certificate arrives, the corporation is fully organised.”",
-              "text": "Corporations Canada says internal organisation comes next. The company still needs decisions about officers, banking and issuing shares, with the required records."
+              "text": "Corporations Canada says setting up the company comes next. It still needs decisions about officers, banking and issuing shares, with the right records for each."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Save the certificate and filed articles together. Check the legal name and incorporation date against the confirmation. Keep filing access secure, and give an authorised helper appropriate access rather than circulating your login."
+          "text": "Keep the certificate and the filed articles together. Check the legal name and the date of incorporation against the confirmation. Keep your filing login safe, and give any helper their own access instead of sharing yours."
+        },
+        {
+          "type": "heading",
+          "text": "Federal costs and deadlines at a glance"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "FILING FEE",
+              "text": "Incorporating online with Corporations Canada costs $200. The name search is built into the online form. Provincial fees and steps differ, so check your registry."
+            },
+            {
+              "title": "ANNUAL RETURN",
+              "text": "File it each year within 60 days after the anniversary of your incorporation date. It costs $12 online. Federal companies file their significant-control details at the same time."
+            },
+            {
+              "title": "MISS IT AND LOSE IT",
+              "text": "Corporations Canada can dissolve a company that stops filing annual returns. A calendar reminder is cheaper than starting over."
+            },
+            {
+              "title": "CORPORATE TAX",
+              "text": "The T2 return is due six months after the tax year ends. Any tax owing is due sooner: two months after year-end, or three months for many small Canadian-controlled private companies."
+            }
+          ]
         }
       ]
     },
@@ -120,22 +121,23 @@
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
           "paragraphs": [
-            "Priya wanted her Calgary translation service company to be ready for its first business client. She made a folder called Company Start and pictured neat contracts beside the certificate. Being organised mattered because she still worked evenings around family life.",
-            "After incorporating federally, she received a client’s supplier form asking for the legal company name and banking details. Her folder held one certificate, while her draft invoice used her old service name. She had not decided how her personal laptop would be used by the company.",
-            "Priya opened more tabs and found three different lists of tasks. She almost copied a share template from a discussion board. Instead, she booked a short legal appointment and asked an accountant to review the money setup before she sent the supplier form.",
-            "With their help, she completed the company decisions and share records. She opened a corporate bank account and revised the client agreement to identify the company. Her folder now had labelled sections and a note beside each unfinished task.",
-            "The client then asked her to add a second translator before work began. Priya had assumed that person would be a co-owner, but they wanted a paid project role. She paused the ownership conversation and arranged a suitable service agreement instead.",
-            "The project started later than she had hoped, but the parties understood who was doing the work and who would be paid. At her next review, Priya could find each document without opening ten tabs. Company Start finally held a workable start."
+            "Priya ran a translation service in Calgary. She wanted her new company ready for its first business client. She made a folder called Company Start and pictured neat contracts beside the certificate. Staying organized mattered, because she worked evenings around family life.",
+            "Right after she incorporated federally, a client sent her a supplier form. It asked for the legal company name and the company’s bank details. Her folder held one certificate. Her draft invoice still used her old service name. And she had not decided how the company would use her personal laptop.",
+            "Priya opened more tabs and found three different task lists. She almost copied a share template from an online forum. Instead, she booked a short meeting with a lawyer. She also asked an accountant to check the money setup before she sent the form back.",
+            "With their help, she made the company decisions and filled in the share records. She opened a company bank account and changed the client agreement to name the company. Her folder now had labelled sections and a note beside each unfinished task.",
+            "Then the client asked her to add a second translator before work began. Priya had assumed that person would become a co-owner. But they wanted a paid role on the project, not shares. She paused the ownership talk and set up a simple service agreement instead.",
+            "The project started later than she had hoped. Still, everyone knew who was doing the work and who would be paid. At her next review, Priya found each document without opening ten tabs. Company Start finally held a real start."
           ]
         },
         {
-          "type": "transition",
-          "text": "A folder can give you breathing room",
-          "detail": "Clear company records help you answer a client’s questions without rebuilding your decisions from memory."
+          "type": "spotlight",
+          "text": "Priya’s story is made up. Her smart move was to pause an unclear deal before signing, then get help with the papers that mattered."
         },
         {
-          "type": "spotlight",
-          "text": "Priya’s story is a fictional example. Her useful move was pausing an unclear arrangement before signing, then getting help with the documents that mattered."
+          "type": "transition",
+          "text": "A folder can give you breathing room.",
+          "detail": "Clear company records let you answer a client’s questions in minutes, without rebuilding your decisions from memory.",
+          "extra": "Section 05 shows you what goes in each part of the folder."
         }
       ]
     },
@@ -146,57 +148,57 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This is an author-developed folder exercise, not an official filing schedule. Give each section a status: ready, waiting or needs advice. Add a person responsible and a review date for every unfinished item."
+          "text": "This folder is a practice tool, not an official filing schedule. Give each section a status: ready, waiting or needs advice. Add who is responsible and a review date for every open item."
         },
         {
           "type": "chips",
           "items": [
             {
               "title": "Formation: save the certificate, filed articles and registry confirmations. Record where incorporation occurred.",
-              "text": ""
+              "text": "Formation: save the certificate, the filed articles and the registry receipts. Note where the company was formed."
             },
             {
               "title": "Ownership and decisions: keep by-laws, organisational resolutions, officer appointments and share records. Corporations Canada says federal share issuance requires full payment and a recorded directors’ decision.",
-              "text": ""
+              "text": "Ownership and decisions: keep the by-laws, first resolutions, officer appointments and share records. Corporations Canada says a federal company can issue shares only once they are fully paid and the directors have approved it in writing."
             },
             {
               "title": "Money: open the corporate bank account and set up bookkeeping. Keep receipts from the first purchase, and have an accountant explain how to record money you put into the company.",
-              "text": ""
+              "text": "Money: open the company bank account and set up bookkeeping. Keep receipts from the first purchase. Ask an accountant how to record money you put into the company."
             },
             {
               "title": "Operations: check contracts and insurance in the company’s name. List existing equipment and agreements for advice about any transfer; incorporation does not automatically move them.",
-              "text": ""
+              "text": "Operations: put contracts and insurance in the company’s name. List the equipment and agreements you already have and get advice on moving them. Incorporating does not move them for you."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "The CRA says approved federal incorporation provides a business number and corporation income tax account. Verify the confirmation. GST/HST and payroll accounts require separate checks; do not assume every tax account is active."
+          "text": "The CRA says a federal company gets a business number and a corporate income tax account when it is approved. Check the confirmation. GST/HST and payroll accounts are separate. Do not assume every tax account is open."
         },
         {
           "type": "paragraph",
-          "text": "Add a permissions section before serving clients. Alberta’s registry guidance covers registration of corporations formed elsewhere, including federal companies. Check the rules wherever your company carries on business, and ask the municipality about local licences."
+          "text": "Add a section for permits before you serve clients. Alberta, for example, requires companies formed elsewhere, including federal ones, to register there. Check the rules in every province where you do business, and ask your city about local licences."
         },
         {
           "type": "spotlight",
-          "text": "For most private federal corporations under the CBCA, keep an individuals with significant control register. Corporations Canada requires ISC filing at incorporation, with the annual return and within 15 days of register changes. Protect the detailed internal record."
+          "text": "Most private federal companies must keep a register of individuals with significant control (ISC), meaning the people who own or control a large share. Corporations Canada requires you to file this at incorporation, with each annual return and within 15 days of any change to the register. Keep the full internal record safe."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Incorporation makes insurance and contract review unnecessary.”",
-              "text": "A personal guarantee can still create personal exposure, and directors can have legal duties. Review the actual agreement and coverage before signing."
+              "text": "A personal guarantee can still put your own money at risk, and directors have legal duties. Read the actual agreement and insurance before you sign."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "By day 90, review the folder and calendar. Corporations Canada’s annual registry return is separate from the CRA’s T2 tax return. Most resident corporations file a T2 each year, including inactive companies; the CRA’s filing deadline is six months after tax year-end."
+          "text": "By day 90, review the folder and your calendar. The yearly return to Corporations Canada is separate from the T2 tax return to the CRA. Most resident companies file a T2 every year, even if they had no activity."
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Put registry and tax reminders in separate calendar entries. Ask your accountant about tax payment dates too, because the filing deadline does not tell you when payment is due."
+          "text": "Insider tip: Put registry and tax reminders in separate calendar entries. The T2 filing date is not the payment date, so set a reminder for each."
         }
       ]
     },
@@ -225,7 +227,7 @@
             {
               "title": "Does a federal business number mean payroll is ready?",
               "detail": "No.",
-              "text": "Check which CRA program accounts the company actually needs and has opened."
+              "text": "Check which CRA program accounts the company needs and has opened."
             }
           ]
         },
@@ -271,12 +273,8 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "heading",
-          "text": "Chapter completion activity"
-        },
-        {
           "type": "paragraph",
-          "text": "Make a folder with the sections from the walkthrough. Place one document or a short task note in each section, then circle the task you will do next. Complete your name and email fields for the chapter completion step."
+          "text": "Make a folder with the sections from the walkthrough. Put one document or a short task note in each section, then circle the task you will do next. Use your answers below as your plan."
         },
         {
           "type": "checkin"
@@ -293,7 +291,7 @@
           "items": [
             {
               "title": "Corporation",
-              "text": "A company with a legal identity separate from its owners."
+              "text": "A company that is a legal person, separate from its owners."
             },
             {
               "title": "Shareholder",
@@ -301,26 +299,26 @@
             },
             {
               "title": "Director",
-              "text": "A person responsible for overseeing the company."
+              "text": "A person who oversees the company."
             },
             {
               "title": "Officer",
-              "text": "A person appointed to manage daily company work."
+              "text": "A person named to run the daily work of the company."
             },
             {
               "title": "Articles",
-              "text": "The formation document setting out the company structure."
+              "text": "The filing that sets out how the company is built."
             },
             {
               "title": "Resolution",
-              "text": "A formally recorded company decision."
+              "text": "A company decision that is written down and approved."
             }
           ]
         },
         {
           "type": "transition",
-          "text": "Next up",
-          "detail": "Module 2.4: Sole Proprietor Versus Corporation. Explore how ownership, personal risk and ongoing costs affect the choice of business structure."
+          "text": "Next up: Sole Proprietor Versus Corporation.",
+          "detail": "Compare how ownership, personal risk, tax and running costs shape the choice between the two."
         },
         {
           "type": "source",
@@ -366,14 +364,20 @@
   },
   "checkIn": {
     "questions": [
-      "Which incorporation route will you investigate first?",
-      "Which startup document needs your attention first?",
-      "What specific task will you complete next, and by what date?"
+      "Which route will you look into first: federal, or your province or territory?",
+      "Who will own shares, and who will be a director?",
+      "Which part of your startup folder needs attention first?",
+      "Which professional will you ask for help, and about what?",
+      "Which yearly dates will you put in your calendar?",
+      "What task will you finish next, and by what date?"
     ],
     "samples": [
-      "Federal, provincial or territorial, or not sure. Check the registry for the place where you plan to operate.",
-      "Articles and formation details, ownership and company decisions, banking and contracts, or not sure. Choose the folder section with the clearest gap.",
-      "For example: ask a lawyer about share classes by Friday. Write Not sure if you need to identify the task first."
+      "Federal, provincial or territorial, or not sure. Check the registry where you plan to do business.",
+      "For example: just me, as the only shareholder and director.",
+      "Formation, ownership and decisions, money, or operations.",
+      "For example: a lawyer about share classes, or an accountant about the money setup.",
+      "For example: the annual return after my anniversary date, and the T2 filing and payment dates.",
+      "For example: ask a lawyer about share classes by Friday."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

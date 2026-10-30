@@ -227,4 +227,36 @@ Six lessons had `ordered` lists corrupted at extraction (each item reduced to it
 | benefits-29 | Provincial Benefit Finders | done 2026-10-30 | 10.15 → 7.45 | 11.33 → 5.24 |
 | benefits-30 | How to Apply Without Getting Scammed | done 2026-10-30 | 9.75 → 7.49 | 10.93 → 5.44 |
 
-Untreated: health (29 lessons), income (20) and tax (20) have not been audited against this table yet.
+Untreated: health (29 lessons) and tax (20) have not been audited against this table yet.
+
+## v2 income-business rollout (`content/income-NN-lesson.json`)
+
+Completed 2026-10-30. All 20 lessons carry both banners (after section 01 and after the story section), no outcomes list, a six-question fill-out form with sample answers, teaching prose at or below grade 8.3 and stories at or below grade 6.2. Lessons 06 to 20 used a newer layout: the first banner sat in section 02 and the glossary ended with a "Next up: Module x.y" label; the banner now closes section 01, the label names the next lesson, and every "Section NN" pointer was checked against the real section order.
+
+Beyond the rewrite, each lesson was checked for accuracy and given added depth, most in the higher tiers. Figures were checked against official sources on 2026-10-30: Corporations Canada ($200 online incorporation, annual return within 60 days after the anniversary, $12 online), CRA (T2 due six months after year-end, balance due two months or three for qualifying CCPCs; 9% federal small business rate on the first $500,000; GST/HST small supplier $30,000 in a quarter or over four quarters, register within 29 days; instalments over $3,000, $1,800 in Quebec; ITC receipt tiers $100 and $500; records kept six years in Canada), Ontario ($60 business name registration, five years), Technical Safety BC (licence to be hired for electrical work, permit for EV chargers) and the Competition Bureau (drip pricing; Sirius XM $3.3 million settlement). Re-check these before each review.
+
+The corrupted `ordered` lists in income-01 to 04 were rebuilt from each lesson's own content and should be checked by the course owner.
+
+| Lesson | Course | Treatment | Teaching grade | Story grade |
+|---|---|---|---|---|
+| income-01 | Senior Companion Services | done 2026-10-30 (corrupted price list rebuilt; insurance and bonding; tax basics) | 12.03 → 8.00 | 9.41 → 5.65 |
+| income-02 | Online Tutoring | done 2026-10-30 (corrupted list rebuilt; CASL consent; tax basics) | 10.81 → 7.92 | 9.54 → 5.16 |
+| income-03 | Reselling Products | done 2026-10-30 (corrupted list rebuilt; personal vs business sales, platform reporting; tax basics) | 10.05 → 7.06 | 9.23 → 4.52 |
+| income-04 | Marketplace Flipping | done 2026-10-30 (corrupted list rebuilt; personal vs business sales; tax basics) | 9.93 → 7.20 | 8.31 → 4.81 |
+| income-05 | Getting Your First Customer | done 2026-10-30 (invoice and confirmation spotlight; tax basics) | 11.12 → 8.10 | 9.85 → 5.91 |
+| income-06 | Digital Products | done 2026-10-30 (new-format cleanup) | 7.98 → 7.76 | 5.87 → 5.83 |
+| income-07 | Affiliate Marketing | done 2026-10-30 (GST card corrected (single-quarter test, foreign commissions)) | 7.93 → 7.87 | 5.41 → 5.41 |
+| income-08 | Print on Demand | done 2026-10-30 (platform reporting spotlight) | 6.69 → 6.71 | 4.73 → 4.71 |
+| income-09 | Ecommerce | done 2026-10-30 (Quebec French-language and platform spotlights) | 7.13 → 7.14 | 4.68 → 4.68 |
+| income-10 | AI-Assisted Businesses | done 2026-10-30 (tool terms (ownership, training); GST card corrected) | 8.33 → 6.96 | 4.06 → 4.06 |
+| income-11 | Social-Media Management | done 2026-10-30 (pilot pricing and written-agreement cards) | 9.06 → 6.43 | 8.01 → 5.68 |
+| income-12 | Local Lead Generation | done 2026-10-30 (pay models and tax cards; CASL published-address conditions) | 8.32 → 6.24 | 7.47 → 5.53 |
+| income-13 | Starting a Small Corporation | done 2026-10-30 (federal fees and deadlines cards ($200 filing, annual return, T2 and balance-due dates)) | 10.24 → 7.89 | 8.37 → 6.17 |
+| income-14 | Sole Proprietor Versus Corporation | done 2026-10-30 (side-by-side cards: tax on profit, CPP, early losses, upkeep) | 8.84 → 7.30 | 8.16 → 5.50 |
+| income-15 | Canadian Business Registration | done 2026-10-30 (sales tax layer cards; Ontario $60 five-year name registration) | 9.94 → 7.50 | 8.44 → 5.95 |
+| income-16 | Basic Bookkeeping | done 2026-10-30 (owner draws and home office cards; cloud backup note) | 7.85 → 6.12 | 4.64 → 4.64 |
+| income-17 | GST/HST | done 2026-10-30 (HST rate card; story ITC timing corrected) | 6.62 → 5.73 | 5.27 → 4.40 |
+| income-18 | Pricing Services | done 2026-10-30 (unpaid time off and CPP spotlight; deposits) | 6.50 → 5.44 | 5.35 → 4.60 |
+| income-19 | Building Recurring Revenue | done 2026-10-30 (MRR and churn worked example; prepaid reserve) | 8.27 → 7.06 | 5.80 → 4.96 |
+| income-20 | Moving From Side Hustle to Business | done 2026-10-30 (trade licence spotlight (Technical Safety BC); before-you-cut-hours cards) | 8.06 → 7.19 | 5.61 → 6.09 |
+

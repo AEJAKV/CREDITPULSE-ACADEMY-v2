@@ -12,32 +12,13 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Bookkeeping is the quiet habit of recording the money that comes into your business and the money that goes out of it. It sounds dull, and honestly it is, but it is also the habit that separates a calm tax season from a frantic weekend with a shoebox. This module introduces a small system that takes about twenty minutes every week."
+          "text": "Bookkeeping is the quiet habit of writing down the money that comes into your business and the money that goes out. It sounds dull, and honestly it is. It is also the habit that turns tax season from a frantic weekend with a shoebox into a calm afternoon. This lesson sets up a small system that takes about twenty minutes a week."
         },
         {
-          "type": "heading",
-          "text": "What you’ll learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "What bookkeeping is, and what records the CRA expects you to keep",
-              "text": ""
-            },
-            {
-              "title": "How to set up a simple system with a bank account, a log, and a folder",
-              "text": ""
-            },
-            {
-              "title": "How long to keep your records, and where they must be stored",
-              "text": ""
-            },
-            {
-              "title": "How good records protect you if the CRA ever asks a question",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Spend twenty minutes a week and skip the tax-season panic.",
+          "detail": "A small, steady routine turns a messy pile of papers into numbers you can trust, and it shows you how your business is doing.",
+          "extra": "The weekly routine in Section 05 fits on a single sticky note."
         }
       ]
     },
@@ -48,21 +29,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Bookkeeping means recording every sale and every business expense at the time it happens, rather than reconstructing them months later. Your records include all of your accounting and financial documents, such as invoices, receipts, bank statements, and mileage notes, and the CRA says that these documents must be kept organized."
+          "text": "Bookkeeping means recording every sale and every business cost when it happens, not piecing them together months later. Your records include invoices, receipts, bank statements and mileage notes. The CRA says you must keep them organized."
         },
         {
           "type": "paragraph",
-          "text": "You can think of the system as three connected pieces. A separate bank account keeps your business money apart from your personal spending. A simple log, such as a spreadsheet, lists each sale and each cost, and a folder on paper or on your computer holds the proof behind every line."
+          "text": "Think of the system as three linked pieces. A separate bank account keeps business money apart from personal spending. A simple log, such as a spreadsheet, lists each sale and each cost. A folder, on paper or on your computer, holds the proof behind every line."
         },
         {
           "type": "paragraph",
-          "text": "You do not need accounting software on the first day, because what you really need is the habit. A spreadsheet that you update every week will always be more useful than an expensive program that you only open twice a year."
-        },
-        {
-          "type": "transition",
-          "text": "Spend twenty minutes a week and skip the tax-season panic.",
-          "detail": "A small, steady routine turns a messy pile of papers into numbers that you can trust, and it shows you how your business is genuinely performing.",
-          "extra": "The weekly routine in Section 04 fits on a single sticky note."
+          "text": "You do not need accounting software on day one. What you need is the habit. A spreadsheet you update every week beats a costly program you open twice a year."
         }
       ]
     },
@@ -118,24 +93,24 @@
         },
         {
           "type": "spotlight",
-          "text": "The six-year rule. The CRA says you must keep your records and supporting documents for six years from the end of the last tax year they relate to. For an individual, the tax year is the calendar year. If you file late, the six years count from the date you file."
+          "text": "The six-year rule. The CRA says you must keep your records and the papers behind them for six years from the end of the last tax year they relate to. For a person, the tax year is the calendar year. If you file late, the six years count from the date you file."
         },
         {
           "type": "paragraph",
-          "text": "Your records must be kept at your place of business or your residence in Canada. Records that are stored only outside the country, even when you can open them from here, are not considered to be kept in Canada. Electronic records are perfectly acceptable, as long as you keep a backup copy."
+          "text": "Keep your records at your place of business or your home in Canada. Records stored only outside Canada do not count as kept in Canada, even if you can open them from here. Electronic records are fine, as long as you keep a backup. If you use a cloud app, export a copy every month to a drive you keep at home."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A photo of a receipt on my phone is not good enough.”",
-              "text": "The CRA accepts electronic records, and its guidance covers converting paper into electronic files and backing those files up. Keep each photo clear and readable, store it safely, and make a second copy somewhere else."
+              "text": "The CRA accepts electronic records, and its guidance covers turning paper into files and backing them up. Keep each photo clear and readable, store it safely and make a second copy somewhere else."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Never destroy records early without asking. You need written permission from the CRA before you destroy records sooner than the required period. The request is made on Form T137 or in writing, and destroying records without permission can lead to prosecution."
+          "text": "Never destroy records early without asking. You need written permission from the CRA to destroy records before the six years are up. Ask on Form T137 or in a letter. Destroying records without permission can lead to charges."
         },
         {
           "type": "heading",
@@ -143,11 +118,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Once you are registered for GST/HST, the information on a receipt determines whether you can claim the tax back. Under $100, the receipt needs the supplier’s name, the date, and the total amount. From $100 to $499.99, it must also show the tax amount and the supplier’s registration number, and at $500 or more it needs your name, a description of the purchase, and the payment terms."
+          "text": "Once you are registered for GST/HST, what the receipt shows decides whether you can claim the tax back. Under $100, it needs the seller’s name, the date and the total. From $100 to $499.99, it must also show the tax and the seller’s GST/HST number. At $500 or more, it also needs your name, what you bought and the payment terms."
         },
         {
           "type": "spotlight",
-          "text": "Ask for the proper receipt on the spot. A card slip on its own often lacks the supplier’s registration number. Asking for a complete receipt at the counter takes about ten seconds, while chasing a supplier for one months later can take several weeks."
+          "text": "Ask for a full receipt on the spot. A card slip alone often leaves out the seller’s GST/HST number. Asking at the counter takes ten seconds. Chasing the seller months later can take weeks."
         }
       ]
     },
@@ -174,7 +149,7 @@
           "type": "transition",
           "text": "Proof beats memory, and a small habit makes proof easy.",
           "detail": "A weekly routine keeps your documentation in order, so that a question from the CRA becomes a short task instead of a crisis.",
-          "extra": "Section 04 gives you that routine in five short steps."
+          "extra": "Section 05 gives you that routine in six short steps."
         }
       ]
     },
@@ -188,7 +163,7 @@
           "items": [
             {
               "title": "Open a separate business account.",
-              "text": "Run every sale and every business cost through it. This is good practice, not a legal rule, and it makes everything easier."
+              "text": "Run every sale and business cost through it. It is good practice, not a legal rule, and it makes everything easier."
             },
             {
               "title": "Pick a regular time.",
@@ -196,11 +171,11 @@
             },
             {
               "title": "Update your log.",
-              "text": "For each sale or cost, record the date, the amount, who it was with, and what it was for."
+              "text": "For each sale or cost, write the date, the amount, who it was with and what it was for."
             },
             {
               "title": "File the proof.",
-              "text": "Save the receipt or invoice in a folder that is named by month, and photograph paper receipts the same day."
+              "text": "Save the receipt or invoice in a folder named by month. Photograph paper receipts the same day."
             },
             {
               "title": "Back it up.",
@@ -221,15 +196,23 @@
           "items": [
             {
               "title": "Income tax",
-              "text": "Business income and expenses go on Form T2125, which you attach to your personal return. Your records are what back up every number."
+              "text": "Business income and costs go on Form T2125, which you attach to your personal return. Your records back up every number on it."
             },
             {
               "title": "Quebec",
-              "text": "Revenu Québec runs QST and has its own rules, so check its guidance on records as well as the CRA’s."
+              "text": "Revenu Québec runs the QST and has its own rules, so check its guidance on records as well as the CRA’s."
             },
             {
               "title": "Meals",
-              "text": "Business meals are generally only partly deductible, so keep the receipt and write down who you met and why."
+              "text": "Business meals are generally only half deductible. Keep the receipt and write down who you met and why."
+            },
+            {
+              "title": "Paying yourself",
+              "text": "Money you move from the business account to your personal account is an owner draw, not a business cost. Log it as a draw so your profit stays accurate."
+            },
+            {
+              "title": "Home office",
+              "text": "You can claim part of your home costs if the space is your main place of business, or if you use it only for business and meet clients there regularly. Keep the floor measurements and the bills."
             }
           ]
         },
@@ -238,13 +221,13 @@
           "items": [
             {
               "title": "“If I lose a receipt, the expense is gone for good.”",
-              "text": "A bank or card statement can often fill the gap, and many suppliers will send you a copy if you ask. A missing receipt is a problem to fix early, and it is not automatically a reason to give up the claim."
+              "text": "A bank or card statement can often fill the gap, and many sellers will send a copy if you ask. A missing receipt is a problem to fix early, not a reason to give up the claim."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Photograph every receipt before you leave the shop. Thermal paper fades surprisingly quickly, and a clear photo taken the same day will outlast the original receipt."
+          "text": "Insider tip: Photograph every receipt before you leave the shop. Receipt paper fades fast, and a clear photo taken the same day will outlast the original."
         }
       ]
     },
@@ -333,7 +316,7 @@
           "items": [
             {
               "title": "Bookkeeping",
-              "text": "Recording each sale and cost as it happens."
+              "text": "Writing down each sale and cost when it happens."
             },
             {
               "title": "Record",
@@ -345,7 +328,7 @@
             },
             {
               "title": "Supporting document",
-              "text": "Proof behind a number, such as a receipt or a bank statement."
+              "text": "Proof behind a number, such as a receipt or bank statement."
             },
             {
               "title": "Business account",
@@ -359,8 +342,8 @@
         },
         {
           "type": "transition",
-          "text": "Next up: Module 2.7: GST/HST.",
-          "detail": "You can now keep proof of every dollar. Next, you will learn how sales tax works, when you must register, and how to get back the tax you pay on business costs."
+          "text": "Next up: GST/HST.",
+          "detail": "You can now keep proof of every dollar. Next, learn how sales tax works, when you must register and how to get back the tax you pay on business costs."
         },
         {
           "type": "source",
@@ -404,13 +387,17 @@
       "Do you have a bank account used only for your business?",
       "Where will you keep your log?",
       "Which twenty minutes each week will you set aside?",
-      "Where are your receipts right now?"
+      "Where are your receipts right now?",
+      "Where will you keep your backup copy?",
+      "What is the first thing you will record this week?"
     ],
     "samples": [
       "Yes, no, or not sure. A separate account makes everything simpler.",
       "A spreadsheet, accounting software, or not sure yet.",
       "For example: Sunday morning.",
-      "Organized, in a pile or box, or mostly lost. Be honest. Nobody is grading this."
+      "Organized, in a pile or box, or mostly lost. Be honest. Nobody is grading this.",
+      "For example: a drive at home, plus a cloud folder.",
+      "For example: last week’s sales and the receipts in my wallet."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

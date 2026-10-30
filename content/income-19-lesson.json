@@ -12,32 +12,13 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Recurring revenue is money that arrives on a regular schedule, such as a monthly retainer, a membership, or a yearly service plan. It makes a small business calmer, because you can predict next month’s income instead of hoping for it. This module shows you how to build it honestly, so that customers stay because they want to."
+          "text": "Recurring revenue is money that comes in on a set schedule, such as a monthly retainer, a membership or a yearly service plan. It makes a small business calmer, because you can count on next month’s income instead of hoping for it. This lesson shows you how to build it honestly, so customers stay because they want to."
         },
         {
-          "type": "heading",
-          "text": "What you’ll learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "What recurring revenue is, and which kinds of business can use it",
-              "text": ""
-            },
-            {
-              "title": "How to design a plan that customers understand and value",
-              "text": ""
-            },
-            {
-              "title": "What Canadian rules say about advertised prices and renewals",
-              "text": ""
-            },
-            {
-              "title": "How to handle sales tax and records on repeating payments",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Build income that arrives every month, without trapping anyone to get it.",
+          "detail": "A clear plan and an honest renewal process give you steady income and customers who recommend you. That is worth more than a long contract nobody likes.",
+          "extra": "Section 03 explains how to design a plan and which rules apply."
         }
       ]
     },
@@ -48,21 +29,32 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A one-time sale pays you once, and then you must find the next customer. A recurring sale pays you again each month or year for as long as the customer stays. Common examples include a monthly cleaning plan, a bookkeeping retainer, a seasonal lawn service, a coaching membership, and a subscription box."
+          "text": "A one-time sale pays you once, and then you must find the next customer. A recurring sale pays you again each month or year for as long as the customer stays. Common examples are a monthly cleaning plan, a bookkeeping retainer, a seasonal lawn service, a coaching membership and a subscription box."
         },
         {
           "type": "paragraph",
-          "text": "The two numbers to watch are your monthly recurring revenue and your churn. Monthly recurring revenue is the total that you expect to bill each month. Churn is the share of customers who cancel in a month, and it tells you how well your service holds on to people."
+          "text": "Two numbers matter most: monthly recurring revenue and churn. Monthly recurring revenue is the total you expect to bill each month. Churn is the share of customers who cancel in a month. It tells you how well your service keeps people."
         },
         {
           "type": "paragraph",
-          "text": "Recurring income is not automatically easy income. You still have to deliver the work every month, so the plan must be priced to cover your time as well as your costs."
+          "text": "Recurring income still takes work. You deliver the service every month, so the plan must be priced to cover your time as well as your costs."
         },
         {
-          "type": "transition",
-          "text": "Build income that arrives every month, without trapping anyone to get it.",
-          "detail": "A clear plan and an honest renewal process give you steady revenue and customers who recommend you, which is worth more than a long contract nobody likes.",
-          "extra": "Section 02 explains how to design a plan and which rules apply."
+          "type": "cards",
+          "items": [
+            {
+              "title": "MONTHLY RECURRING REVENUE",
+              "text": "31 customers × $90 a month = $2,790 you can expect to bill each month, before tax."
+            },
+            {
+              "title": "CHURN",
+              "text": "2 of 31 customers cancel this month. 2 ÷ 31 = about 6.5% churn."
+            },
+            {
+              "title": "WHY IT MATTERS",
+              "text": "At 6.5% a month, you need about two new customers every month just to stay level. Lower churn means less time spent chasing new sales."
+            }
+          ]
         }
       ]
     },
@@ -73,7 +65,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Start with a service that customers already need regularly. Then bundle it into a simple monthly or yearly plan with a clear price, a clear list of what is included, and a clear way to stop. Customers join plans that feel predictable and fair."
+          "text": "Start with a service customers already need on a regular basis. Bundle it into a simple monthly or yearly plan with a clear price, a clear list of what is included and a clear way to stop. Customers join plans that feel predictable and fair."
         },
         {
           "type": "lists",
@@ -114,24 +106,24 @@
         },
         {
           "type": "spotlight",
-          "text": "Advertise the price people will really pay. In June 2024, Sirius XM agreed to pay a $3.3 million penalty after the Competition Bureau found that a mandatory fee made its plans cost 10% to 20% more than the advertised price. A mandatory fixed fee belongs in the price that you advertise. Government taxes are the usual exception."
+          "text": "Advertise the price people will pay. In June 2024, Sirius XM agreed to pay a $3.3 million penalty to settle Competition Bureau concerns that a required fee made its plans cost 10% to 20% more than the advertised price. A fixed fee everyone must pay belongs in the price you advertise. Government taxes are the usual exception."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A free trial that renews automatically is just good business.”",
-              "text": "The Competition Bureau warns about subscription traps, where people give card details for a free or low-cost offer and are quietly locked into a monthly charge. Watch for pre-checked boxes, unclear cancellation terms, and hard-to-find return policies, because these practices damage trust and can cross legal lines."
+              "text": "The Competition Bureau warns about subscription traps, where people give card details for a free or cheap offer and end up locked into a monthly charge. Watch for pre-checked boxes, unclear cancellation terms and return policies that are hard to find. These practices damage trust and can break the law."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Provincial consumer protection laws also cover renewals and cancellation, and the rules differ across Canada. Before you launch, read the guidance from your own province’s consumer protection office. Quebec’s consumer law has special rules for contracts that involve ongoing service, so Quebec sellers and sellers who market to Quebecers should check these carefully."
+          "text": "Provincial consumer protection laws also cover renewals and cancelling, and the rules differ across Canada. Before you launch, read the guidance from your province’s consumer protection office. Quebec’s consumer law has special rules for contracts with ongoing service, so check them with care if you sell in Quebec or market to Quebecers."
         },
         {
           "type": "spotlight",
-          "text": "Write the terms where people can see them. State the price, the billing date, the renewal date, and how to cancel in plain words before the customer pays. Tell customers by email before each renewal, and make cancelling as easy as signing up."
+          "text": "Put the terms where people can see them. State the price, the billing date, the renewal date and how to cancel, in plain words, before the customer pays. Email customers before each renewal, and make cancelling as easy as signing up."
         },
         {
           "type": "heading",
@@ -139,11 +131,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Each billing is a taxable sale, so once you are registered for GST/HST, you charge the tax on every payment and report it on your return. Keep a record of each customer, the start date, the price, and every payment, because a repeating payment can create many small records."
+          "text": "Each billing is a taxable sale. Once you are registered for GST/HST, you charge tax on every payment and report it on your return. Keep a record of each customer, the start date, the price and every payment, because repeat billing creates many small records."
         },
         {
           "type": "spotlight",
-          "text": "A card chargeback costs more than a refund. If a customer cannot find a way to cancel, they may ask their card company to reverse the payment. A prompt, polite refund for a mistaken renewal usually costs less than a dispute, and it protects your reputation."
+          "text": "Prepaid money is a promise, not profit. When a customer pays for a year up front, you still owe them eleven months of work. Keep enough of it in reserve to deliver the rest of the plan, or to give back the unused part if you stop."
+        },
+        {
+          "type": "spotlight",
+          "text": "A chargeback costs more than a refund. If a customer can’t find a way to cancel, they may ask their card company to reverse the payment. A quick, polite refund for a renewal they didn’t want usually costs less than a dispute, and it protects your name."
         }
       ]
     },
@@ -158,19 +154,19 @@
           "detail": "STORY",
           "extra": "",
           "paragraphs": [
-            "Marisol Dubé ran a small lawn and snow-clearing business in Moncton, and she kept a paper calendar on her fridge. Every slow month had a red X. Her goal was to cover her truck payments in January and February, when the calendar was nearly all red.",
-            "She decided to offer a year-round plan for $90 a month, which included lawn care in summer and snow clearing in winter. Fourteen neighbours signed up in the first month. Marisol watched the red Xs on the calendar turn into green ticks and felt more hopeful than she had in a long time.",
-            "Then she hit a problem. A friend told her to tuck the auto-renewal into the fine print and make cancelling a little awkward, so that people would forget and stay. The plan would renew each year with no reminder, and customers would need to phone during office hours to leave.",
-            "She faced a choice. She could follow that advice and keep more customers on paper. Or she could do the opposite and send a clear email a month before each renewal, with a one-click link to cancel. She thought about her own phone bill and how much she hated being trapped. She chose the open way, and she added the HST at the true rate in every quote.",
-            "The twist surprised her. A few customers did cancel, but far more stayed, and several wrote back to say that the email made them trust her. Four of them told neighbours. Within a year she had thirty-one plans.",
-            "The red Xs mostly disappeared from the fridge calendar. Marisol made the truck payments every January that year, and in March she bought a second snow blower."
+            "Marisol Dubé ran a small lawn and snow-clearing business in Moncton. She kept a paper calendar on her fridge, and every slow month got a red X. Her goal was to cover her truck payments in January and February, when the calendar was nearly all red.",
+            "She decided to offer a year-round plan for $90 a month, plus HST. It covered lawn care in summer and snow clearing in winter. Fourteen neighbours signed up in the first month. Marisol watched the red Xs turn into green ticks and felt more hopeful than she had in a long time.",
+            "Then she hit a problem. A friend told her to tuck the auto-renewal into the fine print and make cancelling a little awkward, so people would forget and stay. The plan would renew each year with no reminder. Customers would have to phone during office hours to leave.",
+            "She faced a choice. She could take that advice and keep more customers on paper. Or she could send a clear email a month before each renewal, with a one-click link to cancel. She thought about her own phone bill and how much she hated feeling trapped. She chose the open way.",
+            "The result surprised her. A few customers did cancel, but far more stayed, and several wrote back to say the email made them trust her. Four of them told their neighbours. Within a year she had thirty-one plans.",
+            "Most of the red Xs vanished from the fridge calendar. Marisol made her truck payments that January without a worry, and in March she bought a second snow blower."
           ]
         },
         {
           "type": "transition",
           "text": "Honest renewals build the kind of customers who stay by choice.",
-          "detail": "Clear terms and easy cancelling cost you a few departures, and they win you many more referrals and a reputation that sells for you.",
-          "extra": "Section 04 gives you a short launch plan for your own recurring offer."
+          "detail": "Clear terms and easy cancelling cost you a few customers, and win you far more referrals and a name that sells for you.",
+          "extra": "Section 05 gives you a short launch plan for your own recurring offer."
         }
       ]
     },
@@ -184,27 +180,27 @@
           "items": [
             {
               "title": "Pick one recurring need.",
-              "text": "Choose a service that customers already buy again and again."
+              "text": "Choose a service customers already buy again and again."
             },
             {
               "title": "Write a simple plan.",
-              "text": "List the price, what is included, how often it is delivered, and how to cancel."
+              "text": "List the price, what is included, how often you deliver it and how to cancel."
             },
             {
               "title": "Price it to cover your time.",
-              "text": "Use the pricing steps from Module 2.8, and include every mandatory fee in the advertised price."
+              "text": "Use the steps from Pricing Services, and include every required fee in the advertised price."
             },
             {
               "title": "Show the terms up front.",
-              "text": "Put the billing date, renewal date, and cancellation steps before the customer pays."
+              "text": "Show the billing date, renewal date and how to cancel before the customer pays."
             },
             {
               "title": "Remind before you renew.",
-              "text": "Send an email before each renewal, and make cancelling simple."
+              "text": "Email before each renewal, and make cancelling simple."
             },
             {
               "title": "Track and report.",
-              "text": "Record each payment, charge sales tax if you are registered, and report the income on Form T2125."
+              "text": "Record each payment, charge sales tax if you are registered and report the income on Form T2125."
             }
           ]
         },
@@ -217,11 +213,11 @@
           "items": [
             {
               "title": "Sales tax",
-              "text": "Rates differ across Canada, for example 5% GST in Alberta, 13% HST in Ontario, and 15% HST in New Brunswick. Confirm the rate for your buyer’s location before you bill."
+              "text": "Rates differ across Canada, for example 5% GST in Alberta, 13% HST in Ontario and 15% HST in New Brunswick. Confirm the rate for your buyer’s location before you bill."
             },
             {
               "title": "Consumer rules",
-              "text": "Provincial laws on renewals and cancellation vary, so check your province’s consumer protection office."
+              "text": "Provincial laws on renewals and cancelling vary, so check your province’s consumer protection office."
             },
             {
               "title": "Quebec",
@@ -240,7 +236,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Look at your churn every month. If more than a few customers cancel, ask three of them why. Their answers will show you what to fix, and it will cost you nothing."
+          "text": "Insider tip: Check your churn every month. If more than a few customers cancel, ask three of them why. Their answers show you what to fix, and they cost you nothing."
         }
       ]
     },
@@ -341,22 +337,22 @@
             },
             {
               "title": "Auto-renewal",
-              "text": "A plan that continues automatically unless the customer cancels."
+              "text": "A plan that keeps going unless the customer cancels."
             },
             {
               "title": "Chargeback",
-              "text": "A reversal of a card payment that a customer asks their card company to make."
+              "text": "A card payment reversed at the customer’s request to their card company."
             },
             {
               "title": "Subscription trap",
-              "text": "A free or low-cost offer that quietly locks a customer into regular charges."
+              "text": "A free or cheap offer that locks a customer into regular charges."
             }
           ]
         },
         {
           "type": "transition",
-          "text": "Next up: Module 2.10: Moving From Side Hustle to Business.",
-          "detail": "You can now build steady income. Next, you will learn how to turn a side hustle into a real business, including when to register and when to think about incorporating."
+          "text": "Next up: Moving From Side Hustle to Business.",
+          "detail": "You can now build steady income. Next, learn how to turn a side hustle into a real business, including when to register and when to think about incorporating."
         },
         {
           "type": "source",
@@ -388,13 +384,17 @@
   "checkIn": {
     "questions": [
       "What service do customers already need again and again?",
+      "What would your plan include, and what would it cost?",
       "How would you bill it?",
+      "How many customers would you need to cover one month’s fixed costs?",
       "Will you email a reminder before each renewal?",
       "How easy will it be to cancel?"
     ],
     "samples": [
-      "Think about work that you repeat for the same people.",
+      "Think about work you repeat for the same people.",
+      "For example: two cleanings a month for $180, plus tax.",
       "Monthly, yearly, or not sure.",
+      "Divide your monthly costs by the plan price. For example: $900 ÷ $90 = 10 customers.",
       "Yes, no, or not sure.",
       "One click or email, a phone call, or not sure yet. Aim for as easy as signing up."
     ],

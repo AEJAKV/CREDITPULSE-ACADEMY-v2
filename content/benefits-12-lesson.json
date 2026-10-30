@@ -16,43 +16,18 @@
         },
         {
           "type": "paragraph",
-          "text": "Every province and territory designs its own disability-income and health-support programs. Ontario uses ODSP; Alberta operates AISH and ADAP; British Columbia requires a Persons with Disabilities designation; Quebec uses Social Solidarity and, for some long-term recipients, the Basic Income Program. These names describe distinct legal and financial tests—not regional nicknames for one national benefit."
+          "text": "Each province and territory runs its own disability income and health support. Ontario has ODSP. Alberta has AISH and ADAP. B.C. uses a Persons with Disabilities (PWD) status, and Quebec has Social Solidarity plus, for some long-term clients, the Basic Income Program. These are separate programs with their own rules, not local names for one national benefit."
         },
         {
           "type": "spotlight",
-          "text": "Federal DTC or CPP disability approval may help with some provincial routes, but it does not automatically establish eligibility everywhere. Each program decides which outside approvals it recognizes."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Identify the correct local disability program.",
-              "text": ""
-            },
-            {
-              "title": "Separate disability designation from financial eligibility.",
-              "text": ""
-            },
-            {
-              "title": "Organize functional, medical and financial evidence.",
-              "text": ""
-            },
-            {
-              "title": "Compare earnings, health and review rules.",
-              "text": ""
-            },
-            {
-              "title": "Complete a Provincial Disability Support Comparison File.",
-              "text": ""
-            }
-          ]
+          "text": "A federal DTC or CPP disability approval can help with some provincial programs, but it does not prove you qualify everywhere. Each program decides which outside approvals it will accept."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A disability-benefit approval transfers automatically when a person moves provinces.”",
-              "text": "The medical condition moves; the provincial entitlement generally does not. A new jurisdiction may require a new application, designation and financial review."
+              "text": "The condition moves with you. The provincial benefit usually does not. Your new province may ask for a new application, a new disability review and a new money check."
             }
           ]
         },
@@ -60,6 +35,12 @@
           "type": "source",
           "text": "Ontario: ODSP",
           "url": "https://www.ontario.ca/page/ontario-disability-support-program"
+        },
+        {
+          "type": "transition",
+          "text": "Knowing which rulebook applies keeps you from losing months to the wrong form.",
+          "detail": "Four checks show what your province needs before it pays anything, so you can gather the right papers the first time.",
+          "extra": "The four gates in Section 02 turn that check into a short list."
         }
       ]
     },
@@ -76,37 +57,37 @@
           "type": "cards",
           "items": [
             {
-              "title": "RESIDENCE AND AGE",
-              "text": "Confirm where the applicant lives, minimum age, legal-status rules and transition points for youth or seniors."
+              "title": "WHERE YOU LIVE AND YOUR AGE",
+              "text": "Check where you live, the youngest age that qualifies, any legal status rules and what changes when youth turn adults or adults turn 65."
             },
             {
-              "title": "DISABILITY DEFINITION",
-              "text": "Read the local duration, severity, functional impact and employability test. Do not paste CPP disability wording into an ODSP, AISH, ADAP, PWD or Social Solidarity application."
+              "title": "THE DISABILITY TEST",
+              "text": "Read your province’s own test for how long, how severe and how much the condition limits daily life and work. Do not copy CPP disability wording into an ODSP, AISH, ADAP, PWD or Social Solidarity form."
             },
             {
-              "title": "FINANCIAL ELIGIBILITY",
-              "text": "Income, partner income, assets, trusts, RDSPs, gifts and settlements may be treated differently. Medical approval alone may not produce a payment."
+              "title": "THE MONEY TEST",
+              "text": "Your income, a partner’s income, savings, trusts, RDSPs, gifts and settlements can each count in a different way. A medical approval alone may not lead to a payment."
             },
             {
-              "title": "ONGOING ADMINISTRATION",
-              "text": "Work income, monthly or annual reporting, medical reviews, travel, household changes and health-benefit continuation can affect support after approval."
+              "title": "AFTER YOU ARE APPROVED",
+              "text": "Work income, monthly or yearly reports, medical reviews, travel, changes at home and health benefits can all change your support later."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Ontario’s ODSP generally applies both a disability definition and financial eligibility. B.C. similarly separates PWD designation from the financial test for disability assistance."
+          "text": "Ontario’s ODSP usually checks both a disability test and a money test. B.C. also keeps PWD status separate from the money test for disability help."
         },
         {
           "type": "spotlight",
-          "text": "Alberta launched ADAP in July 2026 alongside AISH, using one combined Disability Income Assistance application. The two programs have different work-capacity focus and earnings treatment."
+          "text": "Alberta started ADAP in July 2026 next to AISH, with one shared Disability Income Assistance form. The two programs look at work ability in different ways and treat earnings differently."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Once the medical form is accepted, income and assets no longer matter.”",
-              "text": "Most provincial disability-income programs remain financially tested. A designation can survive a temporary loss of payment in some jurisdictions, but the person must verify the local rule."
+              "text": "Most provincial disability income programs still check your money. In some places your status can stay in place while a payment pauses, but check your own province’s rule."
             }
           ]
         },
@@ -119,37 +100,37 @@
     },
     {
       "id": "evidence",
-      "title": "Use the Province's Definition as the Filing Spine",
+      "title": "Build Your File Around Your Province’s Rules",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Begin with the current application guide. Build evidence under its actual headings: diagnosis and history, expected duration, treatment, daily function, assistance, work capacity and prognosis. The applicant explains lived impact; the authorized health professional supplies clinical evidence and judgment."
+          "text": "Start with your province’s current application guide. Sort your papers under its own headings: your health history, how long it will last, treatment, daily tasks, help you need, work ability and outlook. You describe how life is affected. Your doctor or other approved health worker gives the medical proof."
         },
         {
           "type": "spotlight",
-          "text": "B.C. permits some prescribed classes to obtain PWD designation through a streamlined route based on another recognized approval. This is a B.C. rule—not permission to assume reciprocity across Canada."
+          "text": "B.C. lets some groups get PWD status through a faster route if another program already approved them. That is a B.C. rule. It does not mean every province accepts every other approval."
         },
         {
           "type": "paragraph",
-          "text": "Next build the financial file: bank statements, housing costs, income, assets, partner information, trusts, RDSPs, settlements and benefits. Label every figure with the policy date and exemption source. Ask how employment income affects cash support, health coverage and reporting separately."
+          "text": "Next, build the money file: bank statements, rent or housing costs, income, savings, partner details, trusts, RDSPs, settlements and other benefits. Write the date of the rule beside each number. Ask how a paycheque would change your cash support, your health coverage and your reporting, one at a time."
         },
         {
           "type": "spotlight",
-          "text": "Examples of work treatment differ: Ontario exempts the first $1,000 of monthly earnings for an ODSP recipient with a disability, while B.C. uses an annual earnings exemption—$16,200 for a single PWD recipient in 2026."
+          "text": "Work rules differ. Ontario does not count the first $1,000 a month that an ODSP client with a disability earns. B.C. uses a yearly limit instead, which is $16,200 for a single PWD client in 2026."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Working always causes immediate loss of disability support and health benefits.”",
-              "text": "Programs may use earnings exemptions, partial reductions or extended health coverage. Report work accurately and request a written calculation before turning down employment based on folklore."
+              "text": "Many programs let you keep some earnings, cut support only part of the way or keep health coverage for a while. Report your work honestly, and ask for the math in writing before you turn down a job based on folklore."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Provincial disability support requires a local comparison: confirm the disability definition, financial test, work exemptions, health coverage and review duties before applying or changing income."
+          "text": "Before you apply or change your income, compare five things in your own province: the disability test, the money test, the work rules, the health coverage and the review dates."
         }
       ]
     },
@@ -164,15 +145,17 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Marcus Bell moved from Toronto to Calgary with an ODSP approval letter and assumed Alberta would simply change the logo. The letter crossed the country beautifully. The entitlement had neglected to book a seat.",
-            "The conflict was a different system. Alberta’s combined application assessed AISH and ADAP using Alberta definitions, finances and work-capacity rules. Marcus also needed to understand whether health coverage would continue during the transition.",
-            "He obtained the current Alberta application, reused relevant medical records without assuming they answered every local question and created a fresh functional chronology. He reported the move to Ontario and asked both programs for written transition instructions.",
-            "The process was not automatic, but it became manageable. Marcus replaced ‘transfer my benefit’ with four precise questions: which program, which definition, which financial test and what support covers the gap?"
+            "Marcus Bell gets ODSP in Toronto. His sister finds him a ground-floor apartment in Calgary, close to her and close to a job he can do three mornings a week. He packs his ODSP approval letter and assumes Alberta will change the logo. The letter crosses the country beautifully. The entitlement neglects to book a seat.",
+            "Two weeks before the move, he calls Alberta to ask where to send his letter. The worker is kind and clear. Ontario’s approval does not carry over. He has to apply for AISH or ADAP on Alberta’s form, under Alberta’s rules.",
+            "Then the dates start to pile up. His last ODSP payment covers May. His pills run out in June. The Calgary rent is due on June 1, and a new application can take months.",
+            "A friend tells him to cancel ODSP now and start fresh in Alberta. That feels tidy. Marcus thinks about the gap it would open, with no cheque and no drug coverage in either province. He decides not to cancel anything yet. He tells Ontario his move date, asks both programs what happens in between, and gets their answers in writing.",
+            "Alberta’s form asks about his work, so he adds his three mornings a week and the pay. He also learns that his old medical forms do not answer every Alberta question. His Calgary doctor fills in the new form, and Marcus writes his own page on how his days go.",
+            "The money does not arrive overnight. But Ontario covers his last month, Alberta’s emergency help covers his pills, and his application is complete the first time. Marcus did not just change the logo. He changed the whole plan, and this time the entitlement booked a seat."
           ]
         },
         {
           "type": "spotlight",
-          "text": "Before an interprovincial move, contact both jurisdictions about end dates, new applications, medication coverage, mobility equipment and emergency assistance. Do not rely on the payment calendar to coordinate itself."
+          "text": "Before you move to another province, call both programs. Ask about end dates, new applications, drug coverage, mobility equipment and emergency help. Do not expect two payment calendars to line up on their own."
         },
         {
           "type": "heading",
@@ -180,7 +163,13 @@
         },
         {
           "type": "paragraph",
-          "text": "Disability support is defined provincially. Confirm the local definition, the financial test and the transition plan before assuming an approval travels with you."
+          "text": "Disability support is set by each province. Check the local disability test, the money test and your plan for the gap before you assume an approval travels with you."
+        },
+        {
+          "type": "transition",
+          "text": "Marcus kept his Ontario support, his pills and his job by asking both provinces before he cancelled anything.",
+          "detail": "The same four questions can protect your own income and drug coverage if you move, take work or face a review.",
+          "extra": "The quick check in Section 05 tests whether you can spot the next move."
         }
       ]
     },
@@ -193,28 +182,28 @@
           "type": "accordions",
           "items": [
             {
-              "title": "Why can federal disability approval fail to settle provincial eligibility?",
-              "detail": "Each province decides which outside approvals it recognizes; federal DTC or CPP disability approval may help but does not automatically establish eligibility everywhere.",
+              "title": "Why might a federal disability approval not settle your provincial claim?",
+              "detail": "Each province decides which outside approvals it accepts. A federal DTC or CPP disability approval can help, but it does not prove you qualify everywhere.",
               "text": ""
             },
             {
               "title": "What four gates belong in the comparison?",
-              "detail": "Residence and age, disability definition, financial eligibility and ongoing administration.",
+              "detail": "Where you live and your age, the disability test, the money test and the rules after approval.",
               "text": ""
             },
             {
-              "title": "Why should medical and financial files be built separately?",
-              "detail": "The applicant explains lived impact and the authorized health professional supplies clinical evidence, while the financial file uses different documents and exemption rules; medical approval alone may not produce a payment.",
+              "title": "Why keep your medical file and your money file apart?",
+              "detail": "You describe daily life and your health worker gives the medical proof. The money file uses other papers and other rules, and a medical approval alone may not lead to a payment.",
               "text": ""
             },
             {
-              "title": "How can earnings rules differ between Ontario and B.C.?",
-              "detail": "Ontario exempts the first $1,000 of monthly earnings for an ODSP recipient with a disability, while B.C. uses an annual earnings exemption of $16,200 for a single PWD recipient in 2026.",
+              "title": "How do work earnings rules differ in Ontario and B.C.?",
+              "detail": "Ontario does not count the first $1,000 a month an ODSP client with a disability earns. B.C. uses a yearly limit, $16,200 for a single PWD client in 2026.",
               "text": ""
             },
             {
-              "title": "What should a learner verify before moving provinces?",
-              "detail": "Whether the new jurisdiction requires a new application, designation and financial review, and how end dates, medication coverage and emergency assistance are handled during the transition.",
+              "title": "What should you check before moving to another province?",
+              "detail": "Whether the new province needs a new application, disability review and money check, and how end dates, drug coverage and emergency help work during the move.",
               "text": ""
             }
           ]
@@ -223,19 +212,19 @@
     },
     {
       "id": "action",
-      "title": "Your Action: Complete Your Provincial Disability Support Comparison File",
+      "title": "Your Action (Fill Out Form): Provincial Disability Comparison File",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Record policy summaries and secure-document labels only. Keep medical records, bank statements and identification outside this workbook."
+          "text": "Write short notes only. Keep medical records, bank statements and ID somewhere safe, not in this form."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "Quebec’s Basic Income Program can automatically admit qualifying long-term Social Solidarity recipients after the required history; it is not a general first application for everyone with a disability."
+          "text": "Quebec’s Basic Income Program can move some long-term Social Solidarity clients over on its own once they have the needed history. It is not a first application for everyone with a disability."
         }
       ]
     },
@@ -249,11 +238,11 @@
           "items": [
             {
               "title": "Disability designation",
-              "text": "Formal provincial recognition under a local definition."
+              "text": "Official status from your province that you meet its disability test."
             },
             {
               "title": "Financial eligibility",
-              "text": "Income and asset test for benefit payment."
+              "text": "The income and savings test you must pass to get paid."
             },
             {
               "title": "ODSP",
@@ -261,19 +250,19 @@
             },
             {
               "title": "AISH / ADAP",
-              "text": "Alberta disability-income programs with different work-capacity focus."
+              "text": "Alberta’s two disability income programs. They look at work ability in different ways."
             },
             {
               "title": "PWD designation",
-              "text": "B.C. Persons with Disabilities status."
+              "text": "B.C.’s Persons with Disabilities status."
             },
             {
               "title": "Earnings exemption",
-              "text": "Work income excluded before benefit reduction under local rules."
+              "text": "Work income your program does not count before it lowers your support."
             },
             {
               "title": "Medical review",
-              "text": "Reassessment of continuing disability-program eligibility."
+              "text": "A later check that you still meet the program’s disability test."
             }
           ]
         }
@@ -290,24 +279,20 @@
   },
   "checkIn": {
     "questions": [
-      "My province or territory, program and official policy date are:",
-      "The residence, age and legal-status rules are:",
-      "The local disability definition and duration or work-capacity test are:",
-      "My medical and functional evidence still needed is:",
-      "My household income, assets and exemption questions are:",
-      "My work-income exemption, reporting rule and health-coverage effect are:",
-      "My application, decision, medical-review or reassessment deadlines are:",
-      "My reconsideration or appeal route and disability-navigation help are:"
+      "Which province or territory do you live in, or plan to move to? Name its disability program if you know it.",
+      "Do you already have a disability approval, such as the DTC, CPP disability or a program in another province? Write “none” if not.",
+      "Which papers do you still need for your application? For example, a doctor’s form or proof of rent.",
+      "About how much do you earn from work each month? An estimate is fine. Write “$0” if you do not work.",
+      "What will you ask your program about work income and health coverage?",
+      "What is your next important date, and who can help you? For example, a move date, a review or a renewal."
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Alberta. I will apply for AISH or ADAP on the shared form.",
+      "Yes, ODSP in Ontario. I also have the DTC.",
+      "A new doctor’s form and my Calgary lease.",
+      "About $600 a month from part-time work.",
+      "How much of my $600 can I keep, and will my drug coverage continue?",
+      "I move on June 1. My sister and a disability navigator will help me."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

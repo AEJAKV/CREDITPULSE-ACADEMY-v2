@@ -16,36 +16,11 @@
         },
         {
           "type": "paragraph",
-          "text": "The Canada Child Benefit pays eligible families a tax-free amount every month for each child under 18. Preview how the CRA sizes your payment, meet the two income thresholds that shrink it, and learn the paperwork mistake that pauses even an eligible family. The goal is a file you can defend, not a guess you hope survives contact with the CRA."
+          "text": "The Canada Child Benefit pays families who qualify a tax-free amount every month for each child under 18. See how the CRA sets your payment, meet the two income limits that shrink it, and learn the paperwork mistake that pauses even a family that qualifies. The goal is a file you can defend, not a guess you hope survives contact with the CRA."
         },
         {
           "type": "spotlight",
           "text": "The CCB is not added to your income and does not need to be reported as income on your tax return. It is calculated from your return, but it is not part of it."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Explain how the CRA turns last year's tax return into this year's monthly deposit.",
-              "text": ""
-            },
-            {
-              "title": "Estimate roughly where your family lands on the benefit's two income thresholds.",
-              "text": ""
-            },
-            {
-              "title": "Catch the myths that stop eligible parents from ever applying.",
-              "text": ""
-            },
-            {
-              "title": "Split a shared-custody claim correctly when a child has two homes.",
-              "text": ""
-            },
-            {
-              "title": "Build a simple benefit file so a late or missing payment is easy to trace and fix.",
-              "text": ""
-            }
-          ]
         },
         {
           "type": "myths",
@@ -101,7 +76,7 @@
         },
         {
           "type": "spotlight",
-          "text": "For the July 2026–June 2027 benefit year, the maximum is $8,157 a year ($679.75 a month) for a child under 6, and $6,883 a year ($573.58 a month) for a child aged 6 to 17. These figures are indexed every July — check canada.ca for the current numbers."
+          "text": "For the July 2026–June 2027 benefit year, the maximum is $8,157 a year ($679.75 a month) for a child under 6, and $6,883 a year ($573.58 a month) for a child aged 6 to 17. These figures are indexed every July. Check canada.ca for the current numbers."
         },
         {
           "type": "spotlight",
@@ -112,7 +87,7 @@
           "items": [
             {
               "title": "“Earning any amount over the threshold cuts off the whole benefit.”",
-              "text": "Income above the threshold shrinks the payment gradually. It almost never drops straight to zero unless household income is very high."
+              "text": "Income above the threshold shrinks the payment gradually. It almost never drops straight to zero unless household income is high."
             }
           ]
         },
@@ -134,13 +109,13 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Marcus Ferreira drove a delivery van in Hamilton and had his daughter Mia four nights out of every seven — real, close-to-equal parenting, not \"visits.\" His goal that October was small and specific: buy Mia a pair of winter boots without a crack across the toe. Her current pair let in slush like they were built for wading.",
-            "Marcus and Mia's mother, Priya, had split up eighteen months earlier. Priya had always handled \"the government stuff,\" so when a coworker mentioned the Canada Child Benefit, Marcus laughed it off. \"That goes to moms,\" he said. \"Everybody knows that.\"",
-            "His coworker, who shared custody of his own son, said that wasn't true. Marcus looked it up on his lunch break. The CRA page said the benefit went to whoever was primarily responsible for a child's care, and if two parents split time close to equally, each one could apply for half.",
-            "He almost closed the laptop right there. He hadn't filed a tax return the year before: three months between jobs, next to no income, and he'd figured a return with nothing on it wasn't worth the trouble. The page in front of him said something inconvenient: no return, no benefit, income or not.",
-            "He filed. Forty minutes and one annoyed phone call to his sister for an old T4 slip. He filled out the CRA's shared-custody form and checked his account two days later, expecting good news. It said his estimated payment was zero.",
-            "His first instinct was that the whole thing was a government-shaped practical joke. His second instinct, the useful one, was to call and ask why. The agent explained his address on file was three moves out of date, which had flagged his shared-custody claim for a manual review instead of an automatic approval.",
-            "He fixed the address. Nine days later, a payment landed — half of what Mia was worth on paper, backdated to cover the months the file had been stuck. He spent the first deposit on the boots. Purple, slightly ridiculous, completely waterproof. Mia wore them through every puddle on the walk to school, which is the universal sign of a satisfied customer."
+            "Marcus Ferreira drives a delivery van in Hamilton. His daughter Mia stays with him four nights out of every seven. That is real, close to equal parenting, not “visits.” His goal this October is small: buy Mia winter boots without a crack across the toe. Her old pair lets in slush like it was built for wading.",
+            "Marcus and Mia’s mother, Priya, split up a year and a half ago. Priya always handled “the government stuff.” When a coworker brings up the Canada Child Benefit, Marcus laughs. “That goes to moms,” he says. “Everybody knows that.”",
+            "His coworker shares custody of his own son, and he says that is not true. Marcus looks it up on his lunch break. The CRA page says the benefit goes to whoever mainly cares for the child. If two parents split time close to equally, each one can apply for half.",
+            "He almost closes the laptop. He did not file a tax return last year. He was between jobs for three months and earned almost nothing, so a return with nothing on it felt pointless. The page says something he does not want to hear: no return, no benefit, income or not.",
+            "He could let it go. The boots would wait, and taxes feel like a fight. Instead, he decides to file. It takes forty minutes and one annoyed call to his sister for an old T4 slip. He fills out the CRA’s shared custody form and checks his account two days later. It says his payment is zero.",
+            "His first thought is that the whole thing is a government-shaped joke. His second thought, the useful one, is to call and ask why. The agent tells him his address on file is three moves out of date. That sent his claim to a slow manual review.",
+            "He fixes the address. Nine days later, a payment lands. It is half of what Mia is worth on paper, backdated for the months the file was stuck. He spends the first deposit on the boots. Purple, a bit ridiculous, fully waterproof. Mia wears them through every puddle on the walk to school, which is the universal sign of a satisfied customer."
           ]
         },
         {
@@ -181,7 +156,7 @@
             },
             {
               "title": "PRIMARY CARE",
-              "text": "You're mainly responsible for their day-to-day care — meals, school, appointments, the whole job."
+              "text": "You’re mainly responsible for their day-to-day care: meals, school, appointments, the whole job."
             },
             {
               "title": "STATUS IN CANADA",
@@ -206,7 +181,7 @@
           "items": [
             {
               "title": "“Only mothers can get the Canada Child Benefit.”",
-              "text": "Whoever is primarily responsible for the child's day-to-day care can apply — any gender, any relationship to the child. Shared-custody parents can each get half."
+              "text": "Whoever mainly handles the child’s day-to-day care can apply, of any gender and any relationship to the child. Parents who share custody can each get half."
             },
             {
               "title": "“You need to be a Canadian citizen to receive it.”",
@@ -241,7 +216,7 @@
             },
             {
               "title": "Your child turns 6 partway through the benefit year. What changes?",
-              "detail": "The payment steps down to the 6-to-17 rate starting the month after the birthday. CRA adjusts it automatically — no form needed.",
+              "detail": "The payment steps down to the 6-to-17 rate starting the month after the birthday. The CRA adjusts it on its own, with no form needed.",
               "text": ""
             },
             {
@@ -265,7 +240,7 @@
     },
     {
       "id": "action",
-      "title": "Your Benefit File",
+      "title": "Your Action (Fill Out Form): Your Benefit File",
       "paragraphs": [],
       "blocks": [
         {
@@ -295,7 +270,7 @@
             },
             {
               "title": "Adjusted family net income (AFNI)",
-              "text": "The income number the CRA uses to size your payment — your net income plus your spouse or common-law partner's, with a few deductions applied."
+              "text": "The income number the CRA uses to set your payment. It is your net income plus your spouse or common-law partner’s, with a few deductions applied."
             },
             {
               "title": "Benefit year",
@@ -329,21 +304,19 @@
   "checkIn": {
     "questions": [
       "How many children live with you, and how old are they?",
-      "Roughly, what was your family's income last year?",
-      "Do you share custody of any child with someone you don't live with? (Yes / No / Not sure)",
-      "Have you, and your spouse or partner if you have one, filed last year's taxes? (Yes / No / Not sure)",
-      "What best describes your status in Canada? (Citizen / Permanent resident / Protected person / Temporary resident, 18+ months / Not sure)",
-      "Did a birthday, a new baby, or a custody change happen this year?",
-      "What's one thing you'll check or fix before you apply or call the CRA?"
+      "About what was your family’s income last year? An estimate is fine. Round to the nearest thousand if that’s easier.",
+      "Do you share custody of any child with someone you don’t live with? (Yes / No / Not sure)",
+      "Have you, and your spouse or partner if you have one, filed last year’s taxes? (Yes / No / Not sure)",
+      "Did a birthday, a new baby or a custody change happen this year? Write “no changes” if nothing is different.",
+      "What is one thing you will check or fix before you apply or call the CRA?"
     ],
     "samples": [
-      "One line is fine — e.g. \"2 kids, ages 4 and 9.\"",
-      "An estimate is fine. Round to the nearest thousand if that's easier.",
-      "",
-      "",
-      "",
-      "Write \"no changes\" if nothing's different.",
-      "One sentence is enough."
+      "Two kids, ages 4 and 9.",
+      "About $52,000.",
+      "Yes. My son is with me half the week.",
+      "Not sure. I need to check my CRA account.",
+      "My youngest turns 6 in March.",
+      "Update my address in CRA My Account."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

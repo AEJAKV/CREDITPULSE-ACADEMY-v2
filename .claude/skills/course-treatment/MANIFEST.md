@@ -185,3 +185,17 @@ Audited 2026-10-18 with `node scripts/readability.js money-NN --tells`. All 20 l
 Tally: 20 done, 0 not treated. Grades for money-01, 02, 08, 09 and 10 are current values only; the rest show before → after. Fill-out forms for money-08, 09 and 10 were shortened to 6 questions with sample answers on 2026-10-18 (they had been missed in the first audit). Lessons 16 to 20 also had their outcomes-list (chips) block removed.
 
 **v2 standard:** the "By the end, you will be able to" / "What you will leave with" outcomes list is removed from the start section of every credit lesson (decided 2026-10-15). Other `lists` blocks that carry teaching content stay.
+
+## v2 benefits-support rollout (`content/benefits-NN-lesson.json`)
+
+Pilot of three lessons, 2026-10-30, pending sign-off before the rest of the course. Audit at pilot start: 30 lessons, average teaching grade 10.36, 24 over 8.3, 6 with both banners. Measure with `node scripts/readability.js benefits-NN --breakdown --tells`.
+
+| Lesson | Course | Treatment | Teaching grade | Story grade |
+|---|---|---|---|---|
+| benefits-01 | Canada Child Benefit | done 2026-10-30 (pilot; light pass, banners already present) | 7.57 → 7.25 | 7.45 → 4.65 |
+| benefits-12 | Provincial Disability Programs | done 2026-10-30 (pilot) | 13.88 → 7.51 | 11.61 → 5.54 |
+| benefits-20 | Newcomer Settlement Supports | done 2026-10-30 (pilot) | 13.85 → 7.61 | 12.48 → 5.54 |
+
+benefits-20's "Stabilize, Connect, Then Build" ordered list had corrupted items (each step read "F" / "i"); the four steps were rebuilt from the lesson's own takeaway.
+
+Untreated: benefits-02 to 11, 13 to 19, 21 to 30. Health (29), income (20) and tax (20) lessons have not been audited against this table yet.

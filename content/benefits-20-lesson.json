@@ -12,47 +12,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Canada’s first-week checklist can look as if someone emptied an entire filing cabinet onto a welcome mat. The trick is not doing everything today; it is knowing what unlocks the next step."
+          "text": "Canada’s first-week checklist can look as if someone emptied a whole filing cabinet onto a welcome mat. The trick is not doing it all today. It is knowing which step opens the next one."
         },
         {
           "type": "paragraph",
-          "text": "Settlement organizations can help eligible newcomers understand housing, language learning, employment, education, health access, community connections and daily life. Many IRCC-funded services are free, but federal eligibility depends on immigration status and, for some economic-class permanent residents, time since becoming a permanent resident. Provinces, territories, municipalities and community agencies may offer additional services under different rules."
+          "text": "Settlement groups help newcomers who qualify with housing, language classes, jobs, school, health care, meeting people and daily life. Many services paid for by IRCC are free. Who qualifies for federal help depends on your immigration status and, for some economic-class permanent residents, how long ago you got that status. Provinces, territories, cities and local groups may offer more help under their own rules."
         },
         {
           "type": "spotlight",
-          "text": "Use IRCC’s service finder to locate funded providers by postal code and service type. A provider can assess needs and refer you instead of making you search every program alone."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Check federal and local service eligibility.",
-              "text": ""
-            },
-            {
-              "title": "Sort urgent needs from important later tasks.",
-              "text": ""
-            },
-            {
-              "title": "Connect language and employment supports.",
-              "text": ""
-            },
-            {
-              "title": "Protect documents and avoid unnecessary fees.",
-              "text": ""
-            },
-            {
-              "title": "Complete a First-Year Settlement Route Map.",
-              "text": ""
-            }
-          ]
+          "text": "Use IRCC’s service finder to look up funded helpers by postal code and type of help. A helper can check what you need and point you to the right place, so you do not have to search every program alone."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Newcomer help is only available from paid immigration consultants.”",
-              "text": "Settlement providers offer free practical supports to eligible clients. Immigration legal advice and settlement help are different services; verify who is authorized when legal representation is needed."
+              "text": "Settlement groups give free, practical help to people who qualify. Immigration legal advice is a different service. If you need someone to act for you legally, check that they are allowed to."
             }
           ]
         },
@@ -60,45 +35,51 @@
           "type": "source",
           "text": "IRCC: Find free newcomer services",
           "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/new-life-canada/find-newcomer-services.html"
+        },
+        {
+          "type": "transition",
+          "text": "Knowing which free help you qualify for saves you from paying for things a settlement worker does at no cost.",
+          "detail": "Your status and your permanent-resident date decide which door opens, and for how long it stays open.",
+          "extra": "Section 02 shows which door is yours."
         }
       ]
     },
     {
       "id": "lane",
-      "title": "Immigration Status Changes the Federal Door",
+      "title": "Your Immigration Status Decides the Federal Door",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The same welcome mat leads to different federal doors depending on immigration status."
+          "text": "The same welcome mat leads to different federal doors, depending on your immigration status."
         },
         {
           "type": "cards",
           "items": [
             {
-              "title": "GENERALLY ELIGIBLE",
-              "text": "Permanent residents, protected persons, resettled refugees, people selected to become permanent residents who have been notified by IRCC, and certain temporary residents in specified pathways or measures."
+              "title": "USUALLY QUALIFY",
+              "text": "Permanent residents, protected persons, resettled refugees, people IRCC has told they were picked to become permanent residents, and some temporary residents on special programs."
             },
             {
-              "title": "GENERALLY OUTSIDE STANDARD FEDERAL RULES",
-              "text": "Temporary residents, asylum claimants and Canadian citizens are generally outside the standard federal settlement-program rules, although local or provincial services may still help."
+              "title": "USUALLY OUTSIDE THE FEDERAL RULES",
+              "text": "Most temporary residents, refugee claimants and Canadian citizens fall outside the regular federal settlement rules. Local or provincial services may still help."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Since 1 April 2026, economic-class permanent residents and accompanying family members generally have six years from the permanent-residence date to use federally funded settlement services. The period becomes five years on 1 April 2027."
+          "text": "Since April 1, 2026, economic-class permanent residents and the family who came with them usually have six years from their permanent-resident date to use federally funded settlement help. That window drops to five years on April 1, 2027."
         },
         {
           "type": "spotlight",
-          "text": "Pre-arrival services are free for eligible people approved to immigrate who are still outside Canada. They can help with preparation, employment and referrals before the suitcase meets Canadian winter."
+          "text": "Pre-arrival help is free for people who are approved to move here but still live outside Canada. It can help you plan, look for work and find contacts before your suitcase meets Canadian winter."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Every newcomer has the same service eligibility for the same length of time.”",
-              "text": "Status, immigration class, date of permanent residence, citizenship, location and special public policies can change the service lane."
+              "text": "Your status, immigration class, permanent-resident date, citizenship, where you live and some special programs can all change which help you get."
             }
           ]
         },
@@ -111,54 +92,54 @@
     },
     {
       "id": "sequence",
-      "title": "Stabilize, Connect, Then Build",
+      "title": "Get Settled, Get Connected, Then Build",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The checklist is not a race—it is an order of operations."
+          "text": "The checklist is not a race. It is an order of steps."
         },
         {
           "type": "ordered",
           "items": [
             {
-              "title": "F",
-              "text": "i"
+              "title": "Get safe and settled",
+              "text": "Housing, food, urgent health care and a way to reach people come first. A settlement worker can help with each one."
             },
             {
-              "title": "F",
-              "text": "i"
+              "title": "Get your key papers",
+              "text": "Apply for your SIN and provincial health card, open a bank account and sign the children up for school or childcare."
             },
             {
-              "title": "F",
-              "text": "i"
+              "title": "Start language and job help",
+              "text": "Book a language test, join a free class, and ask about job search and how to get your training recognized."
             },
             {
-              "title": "F",
-              "text": "i"
+              "title": "File taxes and claim benefits",
+              "text": "File a tax return every year, even with little or no income, so benefits like the Canada Child Benefit can reach you."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "LINC and CLIC are free language classes for eligible adult newcomers. A language assessment normally comes first; schedules, child-minding, transport and delivery options vary by provider."
+          "text": "LINC and CLIC are free English and French classes for adult newcomers who qualify. You usually take a language test first. Class times, child-minding, travel help and online options depend on the provider."
         },
         {
           "type": "spotlight",
-          "text": "Foreign credential recognition is occupation- and province-specific. Identify the regulator before paying for an assessment or course; a handsome receipt is not professional licensure."
+          "text": "How your foreign training is recognized depends on your job and your province. Find the group that licenses your job before you pay for a review or a course. A handsome receipt is not a professional licence."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A foreign degree must always be replaced with a Canadian degree.”",
-              "text": "Some occupations are regulated and require assessment or licensing; others are not. The correct route may be credential assessment, bridging, certification, portfolio evidence or direct job search—not automatically another full degree."
+              "text": "Some jobs are regulated and need a review or a licence. Others are not. Your best route may be a review, a bridging program, a certificate, proof of your past work or a direct job search, not always a whole new degree."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Key takeaway: Check service eligibility first, then sequence settlement needs by what unlocks safety, documents, language, employment and benefits. Use free official and community help before paying, and review the route as status, province and family needs change."
+          "text": "Key takeaway: check what help you qualify for first. Then take each step in the order that opens the next one: safety, papers, language, work and benefits. Use free official and community help before you pay, and update your plan when your status, province or family changes."
         }
       ]
     },
@@ -173,15 +154,17 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Farah Haddad arrived in Winnipeg as an economic-class permanent resident with an engineering background, two children and a checklist long enough to qualify as hand luggage. She assumed every useful appointment required a fee.",
-            "The conflict appeared when a private service offered an expensive “Canadian certification package” before Farah had identified the provincial regulator. At the same time, she needed childcare to attend language and employment appointments.",
-            "Farah used IRCC’s finder and met a funded settlement worker. Together they confirmed her service window, booked a language assessment, located family supports and mapped the engineering regulator’s actual requirements. She filed her tax return and kept the paid package in the category labelled “not today.”",
-            "Within three months, Farah had a credential plan, a targeted job search and fewer appointments. The paperwork remained paperwork, but it had stopped forming its own government."
+            "Farah Haddad lands in Winnipeg as a permanent resident with an engineering degree, two children and a checklist long enough to count as hand luggage. Her goal is clear. She wants to work as an engineer again before her savings run out.",
+            "In week two, an ad finds her. A private company offers a “Canadian certification package” for $2,400. It promises a faster path to engineering work. Farah has not yet found out who licenses engineers in Manitoba.",
+            "Meanwhile, the list keeps growing. The kids need a school. She needs a health card. She cannot go to a single class or interview without someone to watch the children.",
+            "The deadline on the ad is Friday. Paying feels like progress, and she has the money. Farah opens the payment page, then closes it. She decides to spend one free hour with a settlement worker first.",
+            "The worker helps her check her service window, book a language test and find childcare for her classes. Then they look up Manitoba’s engineering regulator together. It wants an assessment through its own process. The $2,400 package is not part of it.",
+            "Three months later, Farah has a real plan to get licensed, a short list of jobs to apply for and fewer appointments. The package ad still turns up now and then. She keeps it in a folder called “not today.” The paperwork is still paperwork, but it has stopped forming its own government."
           ]
         },
         {
           "type": "spotlight",
-          "text": "In Quebec, settlement and integration services follow a distinct federal-provincial arrangement. Use Quebec’s official newcomer service route as well as federal immigration information."
+          "text": "In Quebec, settlement help works under a separate federal-provincial deal. Use Quebec’s official newcomer services as well as federal immigration information."
         },
         {
           "type": "heading",
@@ -189,7 +172,13 @@
         },
         {
           "type": "paragraph",
-          "text": "A paid package is not the same as an identified regulator. Confirm the service window and the real requirements before spending on either."
+          "text": "A paid package is not the same as finding your regulator. Check your service window and the real requirements before you spend money on either."
+        },
+        {
+          "type": "transition",
+          "text": "Farah kept $2,400 and found her real path to licensing by talking to a free settlement worker before she paid.",
+          "detail": "One free hour with the right helper can show you what to do first and what can wait.",
+          "extra": "The quick check in Section 05 tests whether you can spot the next step."
         }
       ]
     },
@@ -202,28 +191,28 @@
           "type": "accordions",
           "items": [
             {
-              "title": "Why should immigration status be checked before choosing a settlement service?",
-              "detail": "Federal eligibility depends on immigration status, and permanent-residence date can add a time limit for some economic-class permanent residents.",
+              "title": "Why check your immigration status before choosing a settlement service?",
+              "detail": "Federal help depends on your status. For some economic-class permanent residents, the date you got that status also sets a time limit.",
               "text": ""
             },
             {
-              "title": "What 2026 change affects many economic-class permanent residents?",
-              "detail": "Since 1 April 2026 they generally have six years from the permanent-residence date to use federally funded settlement services, narrowing to five years on 1 April 2027.",
+              "title": "What changed in 2026 for many economic-class permanent residents?",
+              "detail": "Since April 1, 2026, they usually have six years from their permanent-resident date to use federally funded settlement help. That drops to five years on April 1, 2027.",
               "text": ""
             },
             {
-              "title": "What should normally happen before LINC or CLIC classes?",
-              "detail": "A language assessment normally comes first, since schedules, child-minding, transport and delivery options vary by provider.",
+              "title": "What usually happens before a LINC or CLIC class?",
+              "detail": "You usually take a language test first. Class times, child-minding, travel help and online options depend on the provider.",
               "text": ""
             },
             {
-              "title": "Why identify an occupational regulator before paying for credential services?",
-              "detail": "Foreign credential recognition is occupation- and province-specific, so a receipt from the wrong body does not create professional licensure.",
+              "title": "Why find your job’s regulator before paying for a credential service?",
+              "detail": "How your training is recognized depends on your job and province. A receipt from the wrong group does not give you a professional licence.",
               "text": ""
             },
             {
-              "title": "Why can filing a tax return matter even when income is low?",
-              "detail": "It can be required to establish access to income-tested benefits, even when income is little or none.",
+              "title": "Why file a tax return even when your income is low?",
+              "detail": "You may need a filed return to get benefits that depend on income, even when you earned little or nothing.",
               "text": ""
             }
           ]
@@ -232,19 +221,19 @@
     },
     {
       "id": "action",
-      "title": "Your Action: Complete Your First-Year Settlement Route Map",
+      "title": "Your Action (Fill Out Form): First-Year Settlement Route Map",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Record categories and dates only. Keep passport, UCI, SIN, health-card, banking and immigration-document numbers inside secure official systems."
+          "text": "Write short notes only. Keep your passport, UCI, SIN, health card, bank and immigration numbers in safe official places, not in this form."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "A settlement plan is a sequence, not a race. Never share passwords or one-time security codes, and ask whether a document copy is necessary before handing one over."
+          "text": "A settlement plan is a set of steps, not a race. Never share passwords or one-time security codes, and ask whether a copy of a document is needed before you hand one over."
         }
       ]
     },
@@ -258,31 +247,31 @@
           "items": [
             {
               "title": "Settlement provider",
-              "text": "Organization helping newcomers adapt to life in Canada."
+              "text": "A group that helps newcomers settle into life in Canada."
             },
             {
               "title": "Permanent resident",
-              "text": "Person granted permanent resident status but not Canadian citizenship."
+              "text": "A person with permanent resident status who is not yet a Canadian citizen."
             },
             {
               "title": "Protected person",
-              "text": "Person receiving protection under Canadian immigration law."
+              "text": "A person given protection under Canadian immigration law."
             },
             {
               "title": "Pre-arrival service",
-              "text": "Eligible settlement help used before coming to Canada."
+              "text": "Settlement help you can use before you move to Canada."
             },
             {
               "title": "LINC/CLIC",
-              "text": "Federally funded English/French language instruction for eligible adult newcomers."
+              "text": "Free English or French classes for adult newcomers who qualify."
             },
             {
               "title": "Regulated occupation",
-              "text": "Work requiring recognition by a provincial or territorial authority."
+              "text": "A job that needs approval from a provincial or territorial body."
             },
             {
               "title": "Credential recognition",
-              "text": "Process of assessing education, training or experience earned elsewhere."
+              "text": "Checking school, training or work done in another country."
             }
           ]
         }
@@ -299,24 +288,20 @@
   },
   "checkIn": {
     "questions": [
-      "My status, immigration class, PR date and federal-service window are:",
-      "My urgent housing, food, health, safety or communication need is:",
-      "My IRCC-funded, provincial/territorial or community provider is:",
-      "My SIN, health coverage, banking, school or childcare next step is:",
-      "My language assessment and LINC/CLIC or other class route is:",
-      "My employment, credential, regulator and job-search route is:",
-      "My tax return, benefits and financial-orientation dates are:",
-      "My 30-, 60- and 90-day review appointments are:"
+      "What is your immigration status, and when did you get it? An approximate date is fine.",
+      "What is your most urgent need right now? For example, housing, food, health care or childcare.",
+      "Which settlement helper will you contact first? Write “not sure” if you have not found one yet.",
+      "Which papers do you still need? For example, a SIN, a health card or a bank account.",
+      "Do you plan to take a free language class? (Yes / No / Not sure)",
+      "What is one job or training step you will take in the next 30 days?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Permanent resident since March 2026.",
+      "Childcare, so I can go to classes.",
+      "The newcomer centre near my home. I found it with IRCC’s service finder.",
+      "A provincial health card for my youngest child.",
+      "Yes. I booked my language test for next week.",
+      "Look up my job’s regulator in Manitoba before I pay for anything."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

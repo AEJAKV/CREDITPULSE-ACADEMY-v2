@@ -144,10 +144,10 @@ export function TierProgress({ course, enrollment }: { course: Course; enrollmen
 }
 export function ReaderTools({
   sections,
-  numberFrom = 0,
+  numberFrom = 1,
 }: {
   sections: { id: string; title: string }[];
-  /** First section number in the rail; the draft lesson layout counts from 1. */
+  /** First section number in the rail, matching the "Section x of y" headers. */
   numberFrom?: number;
 }) {
   const [percent, setPercent] = useState(0),

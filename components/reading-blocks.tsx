@@ -462,116 +462,77 @@ export function ReadingBlocks({
               </div>
             );
           case 'myths':
-            if (b)
-              return (
-                <div className="b-myths" key={i}>
-                  {items.map((item) => (
-                    <article key={item.title}>
-                      <div className="b-myth">
-                        <span className="b-myth-tag">
-                          <X size={14} aria-hidden="true" /> Myth
-                        </span>
-                        <h3>{item.title}</h3>
-                      </div>
-                      <div className="b-fact">
-                        <span className="b-myth-tag">
-                          <Check size={14} aria-hidden="true" /> Fact
-                        </span>
-                        <p>{item.text}</p>
-                      </div>
-                    </article>
-                  ))}
-                </div>
-              );
             return (
-              <div className="myth-stack" key={i}>
+              <div className="b-myths" key={i}>
                 {items.map((item) => (
                   <article key={item.title}>
-                    <span className="eyebrow">MYTH</span>
-                    <h3>{item.title}</h3>
-                    <p>
-                      <Check size={17} />
-                      {item.text}
-                    </p>
+                    <div className="b-myth">
+                      <span className="b-myth-tag">
+                        <X size={14} aria-hidden="true" /> Myth
+                      </span>
+                      <h3>{item.title}</h3>
+                    </div>
+                    <div className="b-fact">
+                      <span className="b-myth-tag">
+                        <Check size={14} aria-hidden="true" /> Fact
+                      </span>
+                      <p>{item.text}</p>
+                    </div>
                   </article>
                 ))}
               </div>
             );
-          case 'story':
-            if (b && block.image)
-              return (
-                <article className="b-story" key={i}>
+          case 'story': {
+            const beats = block.paragraphs || [];
+            return (
+              <article className={`b-story${block.image ? '' : ' no-photo'}`} key={i}>
+                {block.image && (
                   <div
                     className="b-story-photo"
                     style={{ backgroundImage: `url(${block.image})` }}
                     aria-hidden="true"
                   />
-                  <div className="b-story-body">
-                    <span className="b-label">Real-life story · {block.detail}</span>
-                    <h3>{block.text}</h3>
-                    {block.paragraphs?.map((text, j) => (
+                )}
+                <div className="b-story-body">
+                  <span className="b-label">
+                    {!block.detail
+                      ? 'Story'
+                      : /story/i.test(block.detail)
+                        ? block.detail
+                        : `Story · ${block.detail}`}
+                  </span>
+                  <h3>{block.text}</h3>
+                  {beats.map((text, j) => (
+                    <Fragment key={j}>
                       <p
-                        key={j}
-                        className={j === (block.paragraphs?.length ?? 0) - 1 ? 'b-story-moral' : ''}
+                        className={
+                          // A closing line that states the lesson gets the highlight.
+                          j === beats.length - 1 && /^the (lesson|takeaway)\b/i.test(text)
+                            ? 'b-story-moral'
+                            : undefined
+                        }
                       >
                         {text}
                       </p>
-                    ))}
-                  </div>
-                </article>
-              );
-            if (block.image)
-              return (
-                <article className="reader-story photo-story" key={i}>
-                  <span
-                    className="story-photo"
-                    style={{ backgroundImage: `url(${block.image})` }}
-                    aria-hidden="true"
-                  />
-                  <div className="story-panel">
-                    <span className="eyebrow">{block.detail}</span>
-                    <h3>{block.text}</h3>
-                    {block.paragraphs?.map((text, j) => (
-                      <div key={j} className="story-beat">
-                        <p>{text}</p>
-                        {j === block.at && items.length > 0 && (
-                          <div className="story-timeline">
-                            {items.map((item, k) => (
-                              <Fragment key={item.title}>
-                                {k > 0 && <i aria-hidden="true" />}
-                                <span>
-                                  <b>{item.title}</b>
-                                  {item.text}
-                                </span>
-                              </Fragment>
-                            ))}
-                          </div>
-                        )}
-                      </div>
-                    ))}
-                  </div>
-                </article>
-              );
-            return (
-              <article className="reader-story" key={i}>
-                <div className="story-masthead">
-                  <span className="eyebrow">{block.detail}</span>
-                  <h3>{block.text}</h3>
-                  {block.extra === undefined && (
-                    <div className="story-illustration" aria-hidden="true">
-                      <span>
-                        74<small>%</small>
-                      </span>
-                      <i />
-                      <span className="snowflake">✧</span>
-                    </div>
-                  )}
+                      {j === block.at && items.length > 0 && (
+                        <div className="story-timeline">
+                          {items.map((item, k) => (
+                            <Fragment key={item.title}>
+                              {k > 0 && <i aria-hidden="true" />}
+                              <span>
+                                <b>{item.title}</b>
+                                {item.text}
+                              </span>
+                            </Fragment>
+                          ))}
+                        </div>
+                      )}
+                    </Fragment>
+                  ))}
                 </div>
-                {block.paragraphs?.map((text, j) => (
-                  <p key={j}>{text}</p>
-                ))}
               </article>
             );
+          }
           case 'ordered':
             return (
               <ol className={`priority-list${b ? ' b-steps' : ''}`} key={i}>

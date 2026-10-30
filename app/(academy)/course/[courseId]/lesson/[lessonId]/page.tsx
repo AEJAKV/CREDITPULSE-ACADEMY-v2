@@ -168,10 +168,7 @@ export default async function LessonPage({
         />
       </div>
       <div className={`lesson-layout ${variant === 'b' ? 'lesson-b' : ''}`}>
-        <ReaderTools
-          sections={content.sections.map((s) => ({ id: s.id, title: s.title }))}
-          numberFrom={variant === 'b' ? 1 : 0}
-        />
+        <ReaderTools sections={content.sections.map((s) => ({ id: s.id, title: s.title }))} />
         <article className="lesson-article" data-course={course.id}>
           {variant === 'b' ? (
             <header className="b-hero">
@@ -294,26 +291,17 @@ export default async function LessonPage({
               data-reveal
               className={`reading-section ${section.kind ? `callout ${section.kind}` : ''}`}
             >
-              {variant === 'b' ? (
-                <div className="b-section-head">
-                  <span className="b-section-num" aria-hidden="true">
-                    {String(content.sections.indexOf(section) + 1).padStart(2, '0')}
+              <div className="b-section-head">
+                <span className="b-section-num" aria-hidden="true">
+                  {String(content.sections.indexOf(section) + 1).padStart(2, '0')}
+                </span>
+                <div>
+                  <span className="b-section-of">
+                    Section {content.sections.indexOf(section) + 1} of {content.sections.length}
                   </span>
-                  <div>
-                    <span className="b-section-of">
-                      Section {content.sections.indexOf(section) + 1} of {content.sections.length}
-                    </span>
-                    <h2>{section.title}</h2>
-                  </div>
-                </div>
-              ) : (
-                <>
-                  <div className="reading-section-label">
-                    {String(content.sections.indexOf(section)).padStart(2, '0')} / {course.category}
-                  </div>
                   <h2>{section.title}</h2>
-                </>
-              )}
+                </div>
+              </div>
               {section.blocks && (
                 <ReadingBlocks
                   blocks={section.blocks}

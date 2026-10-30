@@ -7456,8 +7456,10 @@ body[data-large-text='true'] .reading-section .file-card p {
 
 /* ───────────────────────── Lesson layout B (draft, ?layout=b) ─────────────────────────
    One heading scale, one accent family, one button style. Section titles always
-   outrank callouts; callouts are calmer so the reading line stays the hero. */
-.lesson-b {
+   outrank callouts; callouts are calmer so the reading line stays the hero.
+   The section header, myth/fact pairs and story card below are live for every
+   lesson; the rest stays behind .lesson-b until approved. */
+.lesson-layout {
   --b-ink: #123b39;
   --b-muted: #4f6865;
   --b-line: #e0e8dc;
@@ -7657,7 +7659,7 @@ body[data-large-text='true'] .reading-section .file-card p {
   text-transform: uppercase;
   color: #5c7f6c;
 }
-.lesson-b .b-section-head h2 {
+.reading-section .b-section-head h2 {
   margin: 3px 0 0;
   font-size: clamp(1.75rem, 2.6vw, 2.25rem);
   font-weight: 700;
@@ -7838,13 +7840,13 @@ body[data-large-text='true'] .reading-section .file-card p {
 .b-fact .b-myth-tag {
   color: #2f7553;
 }
-.lesson-b .b-myth h3 {
+.reading-section .b-myth h3 {
   margin: 8px 0 0;
   font-size: 17px;
   line-height: 1.4;
   color: var(--b-ink);
 }
-.lesson-b .b-fact p {
+.reading-section .b-fact p {
   margin: 8px 0 0;
   font-size: 15px;
   line-height: 1.6;
@@ -7861,26 +7863,28 @@ body[data-large-text='true'] .reading-section .file-card p {
   box-shadow: 0 24px 50px -28px #153c3240;
 }
 .b-story-photo {
-  height: 260px;
+  aspect-ratio: 2.2 / 1;
+  max-width: 100%;
   background-size: cover;
-  background-position: center 30%;
+  /* Story photos are square with the subject near the middle; this keeps faces in frame. */
+  background-position: center 40%;
 }
 .b-story-body {
   padding: 32px 40px 36px;
 }
-.lesson-b .b-story h3 {
+.reading-section .b-story h3 {
   margin: 10px 0 18px;
   font-size: clamp(1.6rem, 2.4vw, 2rem);
   line-height: 1.15;
   letter-spacing: -0.03em;
   color: var(--b-ink);
 }
-.lesson-b .b-story p {
+.reading-section .b-story p {
   font-size: 17px;
   line-height: 1.75;
   color: #2f4a47;
 }
-.lesson-b .b-story .b-story-moral {
+.reading-section .b-story .b-story-moral {
   margin: 22px 0 0;
   padding: 18px 20px;
   border-radius: 14px;
@@ -8014,7 +8018,7 @@ body[data-large-text='true'] .reading-section .file-card p {
     border-radius: 13px;
     font-size: 14px;
   }
-  .lesson-b .b-section-head h2 {
+  .reading-section .b-section-head h2 {
     font-size: 1.55rem;
   }
   .lesson-b .reading-section + .reading-section {
@@ -8028,12 +8032,12 @@ body[data-large-text='true'] .reading-section .file-card p {
     border-bottom: 1px solid #f1dcd5;
   }
   .b-story-photo {
-    height: 180px;
+    aspect-ratio: 1.8 / 1;
   }
   .b-story-body {
     padding: 22px 20px 24px;
   }
-  .lesson-b .b-story p {
+  .reading-section .b-story p {
     font-size: 16px;
   }
   .lesson-b .reader-glossary {
@@ -8061,4 +8065,30 @@ body[data-large-text='true'] .reading-section .file-card p {
 .lesson-b .key-takeaway p {
   font-size: 15px;
   color: #c9dbd5;
+}
+/* "Text size" reader setting reaches the adopted story and myth blocks. */
+body[data-large-text='true'] .reading-section .b-story p,
+body[data-large-text='true'] .reading-section .b-fact p {
+  font-size: 19px;
+}
+body[data-large-text='true'] .reading-section .b-myth h3 {
+  font-size: 19px;
+}
+/* The story timeline was drawn for the old dark panel; restate it for the light card. */
+.b-story .story-timeline {
+  border-color: var(--b-line);
+  background: var(--b-tint);
+  border-radius: 14px;
+}
+.b-story .story-timeline > span {
+  color: var(--b-ink);
+  font-size: 13px;
+}
+.b-story .story-timeline b {
+  color: #2f7553;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+}
+.b-story .story-timeline i {
+  background: #9fd65f;
 }

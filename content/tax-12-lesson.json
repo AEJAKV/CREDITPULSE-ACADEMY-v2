@@ -16,11 +16,17 @@
         },
         {
           "type": "paragraph",
-          "text": "That’s not because your investments are free. It’s because most investment fees in Canada are built into the product itself, quietly subtracted before you ever see a return. No withdrawal from your account. No invoice. Just a slightly smaller number, every single day, that you were never shown being taken."
+          "text": "That’s not because your investments are free. Most investment fees in Canada are built into the product, taken out before you see a return. No withdrawal from your account. No invoice. Just a slightly smaller number, every day, that you never saw being taken."
         },
         {
           "type": "paragraph",
-          "text": "This module is about finding that invisible number, and understanding just how much it matters."
+          "text": "This lesson is about finding that hidden number, and seeing how much it matters."
+        },
+        {
+          "type": "transition",
+          "text": "Find the hidden fee in your investments and keep more of your own growth.",
+          "detail": "A few minutes of checking can save you thousands a year and six figures over a lifetime.",
+          "extra": "Section 04 shows how a small fee grows into a huge gap."
         }
       ]
     },
@@ -31,22 +37,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Almost every fund — mutual fund or ETF — charges a Management Expense Ratio, or MER. It’s a yearly percentage of your investment, taken automatically, whether the fund goes up or down that year."
+          "text": "Almost every fund, mutual fund or ETF, charges a Management Expense Ratio, or MER. It’s a yearly percentage of your investment, taken automatically, whether the fund goes up or down that year."
         },
         {
           "type": "paragraph",
-          "text": "A 1% MER on a $50,000 investment costs $500 a year. A 2% MER on the same amount costs $1,000. It doesn’t feel like much in a single year. Over decades, it becomes one of the biggest expenses in your entire financial life."
+          "text": "A 1% MER on a $50,000 investment costs $500 a year. A 2% MER on the same amount costs $1,000. That doesn’t feel like much in one year. Over decades, it becomes one of the biggest costs of your financial life."
         },
         {
           "type": "paragraph",
-          "text": "Here’s why it’s so easy to miss. The MER isn’t subtracted as a visible withdrawal. It’s baked into the fund’s daily returns. You simply earn a little less than the fund actually made — quietly, permanently, every single day the fund exists."
+          "text": "Here’s why it’s so easy to miss. The MER isn’t taken out as a withdrawal you can see. It’s built into the fund’s daily returns. You just earn a little less than the fund made, every day you own it."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If I’m not paying a visible fee, my investments must be free to hold.”",
-              "text": "Almost nothing in investing is free. The MER is deducted directly from the fund’s returns before you ever see them, which is exactly why it feels invisible. Check your fund’s fact sheet or your statement for the MER — it’s disclosed, just not obvious."
+              "text": "Almost nothing in investing is free. The MER comes out of the fund’s returns before you see them, which is why it feels invisible. Look for it on your fund’s fact sheet. It’s disclosed, just not obvious."
             }
           ]
         }
@@ -59,28 +65,30 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Both hold similar things — stocks, bonds, a mix of investments. The fee difference between them, on average, is not small."
+          "text": "Both hold similar things: stocks, bonds or a mix. But the fee difference between them, on average, is large."
         },
         {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "Typical yearly fees",
+          "detail": "MER, as a share of your balance",
           "items": [
             {
-              "title": "Bank-sold mutual funds (average, all series)",
-              "text": "Product type: Around 1.5% — Typical MER: "
+              "title": "Bank-sold mutual funds",
+              "text": "Around 1.5% to 2% — often including a fee paid to the seller."
             },
             {
               "title": "Broad-market index ETFs",
-              "text": "Product type: 0.06% to 0.25% — Typical MER: "
+              "text": "0.05% to 0.25% — for a fund that tracks a whole market."
             },
             {
               "title": "All-in-one balanced ETFs",
-              "text": "Product type: Around 0.20% — Typical MER: "
+              "text": "Around 0.20% to 0.25% — for a full mix of stocks and bonds in one fund."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "On a $100,000 portfolio, a 0.20% ETF costs roughly $200 a year. A 2% mutual fund costs roughly $2,000 a year, on the exact same balance. Same money invested. Ten times the annual cost."
+          "text": "On a $100,000 portfolio, a 0.20% ETF costs about $200 a year. A 2% mutual fund costs about $2,000 a year on the same balance. Same money invested, ten times the yearly cost."
         }
       ]
     },
@@ -95,7 +103,7 @@
         },
         {
           "type": "spotlight",
-          "text": "A fee difference that looks small in one year compounds into something enormous over a working lifetime, and almost nobody feels it happening. The reason is simple: the fee isn’t just costing you the fee amount. It’s costing you the growth that money would have earned, every single year afterward, compounding right alongside your investments. On a $200,000 portfolio held for 25 years, a 1.5% to 2% fee gap between a typical mutual fund and a low-cost ETF can compound into a difference of well over $200,000 in final wealth. Not a typo. Not a worst-case scenario. A realistic outcome of a fee gap that felt invisible every single year it was happening. This is the single most important number in this entire module. Fees don’t just cost you the fee. They cost you what the fee would have grown into."
+          "text": "A fee gap that looks small in one year grows into something huge over a working life, and almost nobody feels it happening. The fee doesn’t just cost you the fee. It also costs the growth that money would have earned every year after, compounding alongside your investments. Here’s an example: $200,000 held for 25 years, with the investments earning 6% a year before fees. At a 0.20% fee, it grows to about $820,000. At a 2% fee, it grows to about $533,000. That’s a gap of nearly $290,000, from a fee you never saw on a bill. This is the most important number in this lesson. Fees don’t just cost you the fee. They cost you what the fee would have grown into."
         }
       ]
     },
@@ -106,35 +114,35 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The MER isn’t one single charge. It’s several things bundled together."
+          "text": "The MER isn’t one single charge. It bundles several things together."
         },
         {
           "type": "chips",
           "items": [
             {
-              "title": "The management fee. What’s paid to whoever runs the fund — makes the buy and sell decisions.",
+              "title": "The management fee. Paid to whoever runs the fund and makes the buy and sell decisions.",
               "text": ""
             },
             {
-              "title": "Operating expenses. Administration, legal costs, audits — the overhead of running the fund.",
+              "title": "Operating costs. Administration, legal costs and audits: the overhead of running the fund.",
               "text": ""
             },
             {
-              "title": "A trailing commission, in many bank-sold mutual funds. A portion, often 0.5% to 1%, paid every year to whoever sold you the fund — whether or not they ever call you again.",
+              "title": "A trailing commission, in many bank-sold mutual funds. Often 0.5% to 1% a year, paid to whoever sold you the fund, whether or not they ever call you again.",
               "text": ""
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "That last one surprises people the most. It’s not a one-time sales commission. It’s an ongoing annual payment, buried in your MER, continuing for as long as you hold the fund — regardless of whether you’re receiving any actual advice or service in return."
+          "text": "That last one surprises people most. It isn’t a one-time sales fee. It’s a yearly payment, built into your MER, that keeps going as long as you hold the fund, whether or not you get any advice in return. Since June 2022, discount brokers, which give no advice, can no longer be paid trailing commissions, and funds can no longer charge a fee for selling early (a deferred sales charge)."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A higher MER usually means better investment performance.”",
-              "text": "There’s no reliable evidence this is true, and plenty showing the opposite. A higher fee is a guaranteed, certain cost. Better performance is never guaranteed. Paying more does not reliably buy you more — it just reliably costs you more."
+              "text": "There’s no reliable evidence of this, and plenty showing the opposite. A higher fee is a sure cost. Better performance is never sure. Paying more doesn’t reliably buy you more. It just reliably costs you more."
             }
           ]
         }
@@ -147,11 +155,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Since 2016, Canadian rules — known as CRM2 — have required your annual statement to show fees in actual dollars, not just a percentage. That statement is the place to look first."
+          "text": "Since 2016, your annual statement has shown some fees in dollars, mainly what you paid your dealer, including trailing commissions. But it left out the biggest cost: the fund’s own MER. New rules fix that. Starting with the 2026 year, your annual report must show the total dollar cost of your funds, MER included. The first of these reports arrive in early 2027."
         },
         {
           "type": "paragraph",
-          "text": "Beyond that, every fund has a fact sheet, usually a page or two, listing the MER plainly near the top. A quick search of your fund’s name plus “fact sheet” or “MER” will usually turn it up in seconds."
+          "text": "Until then, every fund has a fact sheet, usually a page or two, with the MER near the top. Search your fund’s name plus “fact sheet” or “MER,” and it will usually turn up in seconds."
         },
         {
           "type": "heading",
@@ -165,7 +173,7 @@
               "text": ""
             },
             {
-              "title": "I’ve checked my annual statement for the dollar amount of fees I paid, not just a percentage.",
+              "title": "I’ve checked my annual statement for the dollar fees I paid, and I’ll look for the full cost report in 2027.",
               "text": ""
             },
             {
@@ -195,10 +203,12 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Grant had held the same mutual fund for eleven years, set up by an advisor at his bank the week he opened his first account. He’d never once looked closely at the fee — it wasn’t a number that appeared anywhere obvious, and nobody had ever walked him through it.",
-            "A friend, mid-conversation about something else entirely, asked what MER he was paying. Grant didn’t know. He called his bank that afternoon and asked directly.",
-            "The fund’s MER was 2.1%. On his balance at the time, that worked out to several thousand dollars a year — money he’d been paying, invisibly, for over a decade, without ever seeing a bill or a withdrawal.",
-            "He didn’t panic, and he didn’t make any sudden moves. He spent a weekend researching low-cost alternatives, had one more conversation with his bank about his options, and eventually moved his holdings into a comparable all-in-one ETF charging a fraction of what he’d been paying. The twenty-minute phone call that started it all cost him nothing. Not asking, for eleven years, had cost him considerably more."
+            "Grant ran a small bakery in Moncton. Eleven years earlier, the week he opened his first bank account, an adviser at the branch had set him up in a mutual fund. He had added to it every month since and never looked at the fee. It wasn’t a number that appeared anywhere obvious.",
+            "One night, over a beer, his friend Nadia asked what MER he was paying. Grant shrugged. He had no idea. Nadia raised an eyebrow, and the question stuck with him all the next day.",
+            "That afternoon, between batches of bread, he called his bank. The fund’s MER was 2.1%. On his balance of $90,000, that was close to $1,900 a year, paid without a bill or a withdrawal he could ever see.",
+            "His first instinct was to sell everything that night and move it all. But he made himself slow down. He spent a weekend comparing low-cost options and asked the bank what, if anything, he was getting for that 2.1%. The answer was a yearly phone call he usually missed.",
+            "He also checked one thing Nadia had warned him about. His fund was inside an RRSP, so switching wouldn’t trigger any tax. He moved his savings into an all-in-one ETF with an MER of about 0.25%, saving roughly $1,650 a year on the same balance.",
+            "Grant still bakes bread at 4 a.m. Now, every January, he spends twenty minutes on one more job: checking what his investments cost him, before he checks what they earned."
           ]
         },
         {
@@ -207,12 +217,18 @@
         },
         {
           "type": "spotlight",
-          "text": "Grant’s move worked cleanly for one reason worth naming: his fund lived inside a registered account. Sell one fund and buy another inside an RRSP, TFSA, RESP, FHSA or RDSP, and nothing about that swap is taxed — nothing inside those accounts is taxed until money actually comes out, and for a TFSA or a qualifying FHSA withdrawal, not even then. The tax question only shows up in a non-registered account, where selling a fund that has grown in value can trigger capital gains tax on the way out. That is worth checking before you switch anything held outside a registered account, but it is not a reason to hesitate inside one. Most of the fee gap this module describes sits inside RRSPs and TFSAs, exactly where a switch costs nothing but the twenty minutes it takes to make the call."
+          "text": "Grant’s move was simple for one reason: his fund was inside a registered account. Sell one fund and buy another inside an RRSP, TFSA, RESP, FHSA or RDSP, and the swap isn’t taxed. Nothing inside those accounts is taxed until money comes out, and for a TFSA or a qualifying FHSA withdrawal, not even then. The tax question only comes up in a non-registered account, where selling a fund that has grown can trigger capital gains tax. Check that before you switch anything held outside a registered account. Before switching any fund, also ask whether there’s a fee for selling, and whether you’re giving up advice you value."
         },
         {
           "type": "takeaway",
-          "text": "Investment fees are almost always invisible, deducted from returns before you ever see them — not withdrawn as a visible charge. The MER is the number to find, and the gap between a typical mutual fund and a low-cost ETF is large enough to compound into six figures over a working lifetime. Check your own fund’s MER directly. A higher fee is a certain cost, never a certain benefit.",
+          "text": "Investment fees are almost always hidden, taken from returns before you see them. The MER is the number to find, and the gap between a typical mutual fund and a low-cost ETF can grow into six figures over a working life. Check your own fund’s MER. A higher fee is a sure cost, never a sure benefit.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "One phone call about fees can be worth more than any stock tip.",
+          "detail": "Knowing your MER lets you decide whether what you pay matches what you get.",
+          "extra": "Section 08 walks you through your own fee check."
         }
       ]
     },
@@ -226,15 +242,15 @@
           "items": [
             {
               "title": "Find the MER on every fund you currently hold. Check your statement, a fact sheet, or ask directly — don’t estimate.",
-              "text": ""
+              "text": "Find the MER on every fund you hold. Check the fact sheet or ask directly. Don’t estimate."
             },
             {
               "title": "Check your annual statement for the dollar amount of fees paid, not just a percentage. CRM2 rules require this to be disclosed clearly.",
-              "text": ""
+              "text": "Check your annual statement for the dollar fees you paid. From 2027, look for the new report that includes your funds’ MER in dollars."
             },
             {
               "title": "If your MER is well above 1%, research a comparable lower-cost alternative and ask your advisor or bank directly why the difference exists.",
-              "text": ""
+              "text": "If your MER is well above 1%, look up a similar lower-cost option and ask your adviser or bank why the difference exists."
             }
           ]
         },
@@ -244,7 +260,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Answer guidance: if question one is mostly blank, that’s this week’s task — nothing else in this module matters until you know your own numbers. If question three shows a meaningful gap, that’s worth a real conversation, not an immediate decision. Understand what you might be giving up — advice, service, a specific strategy — before switching anything."
+          "text": "Answer guidance: if you don’t know your MERs, that’s this week’s task. Nothing else in this lesson matters until you know your own numbers. If you find a big gap, have a real conversation before you decide. Understand what you might give up, such as advice, service or a specific strategy, before you switch."
         },
         {
           "type": "checkin"
@@ -261,25 +277,25 @@
           "items": [
             {
               "title": "MER",
-              "text": "Management Expense Ratio. The yearly percentage fee charged by a fund, deducted automatically from its returns."
+              "text": "Management Expense Ratio. A fund’s yearly fee, as a percentage, taken automatically from its returns."
             },
             {
               "title": "Trailing commission",
-              "text": "An ongoing annual payment, bundled into a mutual fund’s MER, paid to whoever sold you the fund."
+              "text": "A yearly payment, built into a mutual fund’s MER, paid to whoever sold you the fund."
             },
             {
               "title": "CRM2",
-              "text": "Canadian regulatory reforms requiring annual statements to disclose fees in actual dollars, not just percentages."
+              "text": "Rules from 2016 that made statements show some fees in dollars. Full fund costs are added from the 2026 year."
             },
             {
               "title": "Asset-weighted average",
-              "text": "An average that accounts for how much money is actually invested in each fund, not just a simple average across fund names."
+              "text": "An average that counts how much money sits in each fund, not just the number of funds."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Educational only, not investment advice. Figures shown are 2026 industry averages — confirm your own fund’s fee before assuming anything."
+          "text": "Educational only, not investment advice. Fee ranges are typical, not exact. Check your own fund’s fee before assuming anything."
         }
       ]
     }
@@ -294,12 +310,23 @@
   },
   "checkIn": {
     "questions": [
-      "The funds I hold, and each one’s MER:",
-      "The dollar amount of fees on my most recent annual statement:",
-      "Roughly what a comparable low-cost ETF would charge on the same balance:"
+      "Which funds do you hold, and what is each one’s MER?",
+      "What dollar fees did your last annual statement show?",
+      "Do any of your funds pay a trailing commission?",
+      "Roughly what would a similar low-cost ETF charge on the same balance?",
+      "Are your funds inside a registered account, or outside one?",
+      "What will you ask your bank or adviser about your fees?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "For example: Balanced Fund A, 2.1%. Write “not sure” if you need to look.",
+      "Look for a section on charges or fees, or write “not found.”",
+      "Yes, no, or not sure. The fund facts document says.",
+      "Multiply your balance by about 0.25%. For example: $50,000 × 0.25% = $125.",
+      "Registered (RRSP, TFSA and so on), non-registered, both, or not sure.",
+      "For example: “What do I get for the 2.1% I pay each year?”"
+    ]
   },
   "sources": []
 }

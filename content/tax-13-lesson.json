@@ -12,7 +12,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Buying individual stocks one at a time is slow, expensive, and risky — all your eggs in a handful of baskets."
+          "text": "Buying single stocks one at a time is slow, costly and risky. It puts all your eggs in a handful of baskets."
         },
         {
           "type": "paragraph",
@@ -20,7 +20,13 @@
         },
         {
           "type": "paragraph",
-          "text": "There are two main ways to do this in Canada: mutual funds and ETFs. They solve the same problem. They just work differently underneath — and Module 2.12 already showed you the biggest difference between them is often cost."
+          "text": "There are two main ways to do this in Canada: mutual funds and ETFs. They solve the same problem but work differently underneath, and the Investment Fees lesson showed that the biggest difference is often cost."
+        },
+        {
+          "type": "transition",
+          "text": "Own a slice of the whole market without paying for more than you need.",
+          "detail": "Knowing how funds are bought, priced and managed helps you choose one that fits your goals and your budget.",
+          "extra": "Section 05 introduces the simplest option for most beginners."
         }
       ]
     },
@@ -31,11 +37,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Both mutual funds and ETFs pool money from many investors into one fund. Both hold a mix of investments — stocks, bonds, or both. Both let you own a small slice of a large, diversified basket without buying each piece individually."
+          "text": "Mutual funds and ETFs both pool money from many investors into one fund. Both hold a mix of investments: stocks, bonds or both. Both let you own a small slice of a large, spread-out basket without buying each piece."
         },
         {
           "type": "paragraph",
-          "text": "The difference isn’t what they hold. It’s how you buy them, and how they’re priced."
+          "text": "The difference isn’t what they hold. It’s how you buy them, how they’re priced and, usually, how they’re managed."
         }
       ]
     },
@@ -46,38 +52,30 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "How you buy them. A mutual fund is usually bought directly through a bank or an advisor, at a price set once a day, after markets close. An ETF trades on a stock exchange, just like an individual stock. You can buy or sell it any time markets are open, at a price that moves throughout the day."
+          "text": "How you buy them. A mutual fund is usually bought through a bank or an adviser. An ETF trades on a stock exchange, like a single stock. You buy it through a brokerage account, any time the market is open."
         },
         {
           "type": "paragraph",
-          "text": "How they’re priced. Mutual funds have one price a day — the Net Asset Value, calculated after the market closes. Whether you place your order at 9am or 3pm, you get that same end-of-day price. ETFs have a price that moves constantly during market hours, the same way a stock does. Buy at 10am, and you might pay a different price than someone who bought the same ETF at 2pm."
+          "text": "How they’re priced. A mutual fund has one price a day, the Net Asset Value, worked out after the market closes. Whether you order at 9 a.m. or 3 p.m., you get that same end-of-day price. An ETF’s price moves all day, like a stock’s. Buy at 10 a.m., and you might pay a different price than someone who buys the same ETF at 2 p.m."
         },
         {
           "type": "paragraph",
-          "text": "How they’re managed. Many mutual funds are actively managed — a person or team decides what to buy and sell, trying to beat the market. Most ETFs are passively managed, simply tracking an index like the S&P 500, with no one trying to outguess the market."
+          "text": "How they’re managed. Many mutual funds are actively managed: a person or team picks what to buy and sell, trying to beat the market. Most ETFs are passive. They track an index, like the S&P 500 or the S&P/TSX Composite, with no one trying to outguess the market."
         },
         {
           "type": "paragraph",
-          "text": "This isn’t an absolute rule — actively managed ETFs exist, and passive index mutual funds exist too. But it’s the general pattern, and it’s a big part of why fees differ so much between the two."
+          "text": "This isn’t a fixed rule. Active ETFs exist, and so do low-cost index mutual funds. But it’s the general pattern, and it’s a big part of why fees differ so much."
         },
         {
           "type": "cards",
           "items": [
             {
-              "title": "Bought through",
-              "text": "Mutual Fund: Bank or advisor — ETF: A brokerage, like a stock"
+              "title": "A MUTUAL FUND",
+              "text": "Bought through a bank or adviser. Priced once a day, after the market closes. Usually actively managed. Typical MER around 1.5% to 2%."
             },
             {
-              "title": "Priced",
-              "text": "Mutual Fund: Once a day, after close — ETF: Continuously, during market hours"
-            },
-            {
-              "title": "Usually managed",
-              "text": "Mutual Fund: Actively — ETF: Passively"
-            },
-            {
-              "title": "Typical MER",
-              "text": "Mutual Fund: Around 1.5% — ETF: 0.06% to 0.25%"
+              "title": "AN ETF",
+              "text": "Bought through a brokerage, like a stock. Priced all day while the market is open. Usually passive. Typical MER 0.05% to 0.25%."
             }
           ]
         },
@@ -87,14 +85,14 @@
         },
         {
           "type": "spotlight",
-          "text": "Continuous pricing cuts both ways. A mutual fund buyer never has to think about this, since every order fills at the same end-of-day price. An ETF buyer does. A market order fills immediately at whatever price is available right now, which on a thinly traded ETF, or during a volatile few minutes, can be noticeably worse than the price you saw quoted a moment earlier. A limit order fixes that: you set the highest price you are willing to pay to buy, or the lowest you’ll accept to sell, and the order only fills at that price or better. It might not fill instantly, but it protects you from an unexpectedly bad fill. For a widely traded, broad-market ETF this rarely matters much. For anything less liquid, it is the one habit that separates a clean ETF purchase from a slightly expensive surprise — and it costs nothing extra to use."
+          "text": "All-day pricing cuts both ways. A mutual fund buyer never has to think about this, since every order fills at the same end-of-day price. An ETF buyer does. A market order fills right away at whatever price is on offer, which for a thinly traded ETF, or in a jumpy few minutes, can be worse than the price you just saw. A limit order fixes that. You set the highest price you’ll pay to buy, or the lowest you’ll take to sell, and the order only fills at that price or better. It might not fill instantly, but it protects you from a bad surprise. For a widely traded, broad-market ETF, this rarely matters much. For anything less traded, it’s a smart habit, and it costs nothing extra. Also check your brokerage’s trading fee. Many now charge $0 to buy ETFs."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Active management means someone is protecting my money from market drops.”",
-              "text": "Active managers try to beat the market, but decades of research show most fail to do so consistently, especially after fees are subtracted. Active management isn’t a safety net — it’s a bet that a manager can outguess the market, made at a meaningfully higher cost."
+              "text": "Active managers try to beat the market, but decades of research show most fail to do it over time, especially after fees. Active management isn’t a safety net. It’s a bet that a manager can outguess the market, made at a higher cost."
             }
           ]
         }
@@ -111,7 +109,7 @@
         },
         {
           "type": "spotlight",
-          "text": "The word passive undersells what’s actually happening. A passive index ETF isn’t unmanaged — it’s automatically and continuously rebalanced to match its target index, without a person making judgment calls about which stocks to favour. When a company grows, it naturally makes up more of the index and more of the fund. When a company shrinks, the same happens in reverse. All without anyone deciding to buy or sell. This isn’t a lesser version of active management. It’s a different philosophy entirely: rather than trying to guess which companies will outperform, you simply own the whole market, and let the market’s own math do the rebalancing. That philosophy is a large part of why passive funds tend to cost less — there’s no team of analysts to pay for picking stocks."
+          "text": "The word “passive” undersells what’s going on. A passive index ETF isn’t unmanaged. It is kept matched to its target index, without anyone making judgment calls about which stocks to favour. When a company grows, it makes up more of the index and more of the fund. When a company shrinks, the reverse happens. Nobody has to decide to buy or sell. This isn’t a weaker version of active management. It’s a different approach: instead of guessing which companies will do best, you own the whole market and let the market’s own math do the work. That’s a big part of why passive funds cost less. There’s no team of analysts to pay for picking stocks."
         }
       ]
     },
@@ -122,22 +120,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A newer category worth knowing about: all-in-one ETFs. Instead of buying separate ETFs for Canadian stocks, US stocks, international stocks and bonds, one single fund holds a pre-built mix of all of them."
+          "text": "A newer category worth knowing: all-in-one ETFs. Instead of buying separate ETFs for Canadian, U.S. and international stocks and bonds, one fund holds a ready-made mix of all of them."
         },
         {
           "type": "paragraph",
-          "text": "These funds come in different risk levels — some heavier in stocks, some heavier in bonds — and automatically rebalance to keep that mix steady over time. For someone who wants broad diversification without managing several separate funds, this is often the simplest starting point."
+          "text": "These funds come in different risk levels, some heavier in stocks and some heavier in bonds, and they rebalance on their own to keep that mix steady. If you want a broad spread without managing several funds, this is often the simplest place to start. Pick the risk level that matches the Risk Tolerance lesson, not the one with the best recent return."
         },
         {
           "type": "paragraph",
-          "text": "They typically charge a slightly higher MER than a single-index ETF, since they’re bundling several funds together — but still dramatically less than a typical mutual fund."
+          "text": "They usually charge a little more than a single-index ETF, since they bundle several funds together, but still far less than a typical mutual fund."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“ETFs are too complicated for a beginner investor.”",
-              "text": "A single all-in-one ETF can actually be simpler than a mutual fund portfolio, not more complicated. One purchase, automatic rebalancing, broad diversification, and a low fee — there’s an argument it’s the more beginner-friendly option, not the less friendly one."
+              "text": "A single all-in-one ETF can be simpler than a mutual fund portfolio. One purchase, automatic rebalancing, a broad spread and a low fee. There’s a good case that it’s the more beginner-friendly option."
             }
           ]
         }
@@ -152,7 +150,7 @@
           "type": "chips",
           "items": [
             {
-              "title": "I understand both hold similar underlying investments — the difference is structure, not necessarily what’s inside.",
+              "title": "I understand both hold similar investments. The difference is how they’re built, not what’s inside.",
               "text": ""
             },
             {
@@ -186,16 +184,24 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Wei had four separate mutual funds, each recommended over the years by a different advisor as her situation changed — one for Canadian stocks, one for US stocks, one for bonds, one balanced fund thrown in for good measure. She’d never sat down and looked at them together.",
-            "Curious after a conversation with a coworker, she built a simple spreadsheet: fund name, MER, and what each one actually held. It took an evening. The pattern that emerged surprised her — there was significant overlap between three of the four funds, all quietly charging her separate management fees to hold many of the same large companies.",
-            "She didn’t rush into anything. Over a few months, working with a fee-only advisor, she consolidated into a single all-in-one ETF that covered roughly the same overall mix she’d had before — at a fraction of the combined cost, and with far less to track.",
-            "Her portfolio didn’t get simpler by accident. It got simpler because she finally looked at what she actually owned, all in one place, instead of trusting that four separate recommendations, made at four separate times, had added up to a coherent whole."
+            "Wei worked as a dental hygienist in Markham. Over fifteen years, she had picked up four mutual funds, each suggested by a different bank adviser as her life changed: one for Canadian stocks, one for U.S. stocks, one for bonds and a balanced fund “for good measure.” She had never looked at them side by side.",
+            "After a coworker mentioned overlap between funds, Wei got curious. One evening she built a simple spreadsheet: fund name, MER and the top ten holdings of each. The pattern surprised her. Three of the four funds owned many of the same big banks and tech companies, and each one charged its own fee to hold them.",
+            "Her total fees came to about 1.9% a year. She felt a flash of anger, then a stronger urge to fix it all by Friday. She could sell everything at once, or she could get a second opinion first. She booked an hour with a fee-only planner, someone paid by her, not by the funds.",
+            "The planner checked two things before anything moved. All four funds sat inside her RRSP and TFSA, so switching wouldn’t trigger tax. And none of them charged a fee to sell. Then they matched her current mix of stocks and bonds to a single all-in-one ETF with an MER of 0.24%.",
+            "Over two weeks, Wei sold the four funds and bought the one ETF, using limit orders. Her yearly fees dropped from about $3,400 to about $430 on her $180,000 portfolio.",
+            "Wei kept the spreadsheet, though. It now has one row instead of four. She checks it every January, the same week she gets her own teeth cleaned."
           ]
         },
         {
           "type": "takeaway",
-          "text": "Mutual funds and ETFs both pool money into diversified baskets of investments — the real differences are how you buy them, how they’re priced, and typically how they’re managed. ETFs trade like stocks throughout the day; mutual funds price once daily. Passive index funds simply track the market rather than trying to beat it, which is a major reason they tend to cost far less.",
+          "text": "Mutual funds and ETFs both pool money into broad baskets of investments. The real differences are how you buy them, how they’re priced and, usually, how they’re managed. ETFs trade like stocks all day, while mutual funds are priced once a day. Passive index funds track the market instead of trying to beat it, which is a big reason they tend to cost far less.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Look at what you own in one place, and you may find you’re paying twice.",
+          "detail": "Lining up your funds side by side shows overlap and fees that separate statements hide.",
+          "extra": "Section 08 helps you build your own fund list."
         }
       ]
     },
@@ -209,15 +215,15 @@
           "items": [
             {
               "title": "List every fund you currently hold, and note whether each is a mutual fund or an ETF, and actively or passively managed.",
-              "text": ""
+              "text": "List every fund you hold, and note whether each one is a mutual fund or an ETF, and active or passive."
             },
             {
               "title": "Check for overlap between funds — are you paying multiple management fees to hold many of the same underlying companies?",
-              "text": ""
+              "text": "Check for overlap: are you paying several management fees to hold many of the same companies?"
             },
             {
               "title": "If you’re considering simplifying, research an all-in-one ETF at a risk level that matches your goals.",
-              "text": ""
+              "text": "If you want to simplify, look into an all-in-one ETF at a risk level that fits your goals."
             }
           ]
         },
@@ -227,7 +233,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Answer guidance: if question two has a lot of question marks, that’s normal — most fund fact sheets state this clearly near the top, and it’s worth five minutes to check each one. If question three turns up real overlap, that’s worth discussing with an advisor — you may be paying more than once for similar exposure."
+          "text": "Answer guidance: if you’re not sure whether a fund is active or passive, the fund facts sheet usually says near the top. It’s worth five minutes to check each one. If you find real overlap, talk it over with an adviser. You may be paying more than once for the same thing."
         },
         {
           "type": "checkin"
@@ -244,29 +250,29 @@
           "items": [
             {
               "title": "ETF",
-              "text": "Exchange-Traded Fund. A fund that trades on a stock exchange throughout the day, like a stock."
+              "text": "Exchange-Traded Fund. A fund that trades on a stock exchange all day, like a stock."
             },
             {
               "title": "Net Asset Value (NAV)",
-              "text": "The once-daily price at which mutual fund units are bought and sold."
+              "text": "The once-a-day price at which mutual fund units are bought and sold."
             },
             {
               "title": "Active management",
-              "text": "A fund manager making buy and sell decisions, trying to outperform the market."
+              "text": "A fund manager picking what to buy and sell, trying to beat the market."
             },
             {
               "title": "Passive management",
-              "text": "A fund simply tracking an index, without a manager picking individual investments."
+              "text": "A fund that tracks an index, with no manager picking individual investments."
             },
             {
               "title": "All-in-one ETF",
-              "text": "A single fund holding a pre-built, diversified mix across regions and asset types, automatically rebalanced."
+              "text": "A single fund holding a ready-made mix across regions and types of investment, rebalanced on its own."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Educational only, not investment advice. Builds directly on Module 2.12 — read that one first if you haven’t."
+          "text": "Educational only, not investment advice. This lesson builds on the Investment Fees lesson, so read that one first if you haven’t."
         }
       ]
     }
@@ -281,12 +287,23 @@
   },
   "checkIn": {
     "questions": [
-      "My funds, sorted by mutual fund or ETF:",
-      "Actively or passively managed — do I actually know, for each one?",
-      "Any obvious overlap between what different funds hold:"
+      "Which funds do you hold, and is each a mutual fund or an ETF?",
+      "Is each one actively or passively managed?",
+      "What does each one charge (its MER)?",
+      "Do any of your funds overlap in what they hold?",
+      "Are your funds in a registered account, so switching wouldn’t trigger tax?",
+      "What is one step you’ll take to simplify or lower your costs?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "For example: Canadian Equity Fund (mutual fund), XYZ ETF.",
+      "Active, passive, or not sure for each one.",
+      "For example: 2.0%, 0.25%. Check the fund facts sheet.",
+      "Yes, no, or not sure. Compare the top ten holdings.",
+      "Registered, non-registered, both, or not sure.",
+      "For example: book a fee-only planner, or compare an all-in-one ETF."
+    ]
   },
   "sources": []
 }

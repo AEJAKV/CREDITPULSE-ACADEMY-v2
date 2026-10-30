@@ -12,15 +12,21 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Fourteen modules back, this course started with a pay stub."
+          "text": "Fourteen lessons back, this course started with a pay stub."
         },
         {
           "type": "paragraph",
-          "text": "Since then, you’ve met the TFSA, the RRSP, the FHSA, the RESP, the RDSP, the RRIF. You’ve learned about fees, about ETFs, about risk. Every single one of those modules had one idea sitting quietly underneath it, never fully named."
+          "text": "Since then, you’ve met the TFSA, RRSP, FHSA, RESP, RDSP and RRIF. You’ve learned about fees, ETFs and risk. Every one of those lessons had one idea sitting quietly underneath it, never fully named."
         },
         {
           "type": "paragraph",
-          "text": "That idea is compound growth. It’s the reason starting early matters more than almost anything else in this course. It’s the reason a 1% fee difference turns into six figures. It’s the reason the whole system of tax-sheltered accounts exists in the first place. This module names it directly, and shows you exactly why it’s been the real engine behind everything else you’ve learned."
+          "text": "That idea is compound growth. It’s why starting early matters more than almost anything else in this course. It’s why a fee gap of a percent or two can turn into six figures. It’s why tax-sheltered accounts exist at all. This lesson names it and shows why it has been the engine behind everything else you’ve learned."
+        },
+        {
+          "type": "transition",
+          "text": "Put time on your side, and your money starts doing more of the work.",
+          "detail": "Once you see how growth builds on growth, starting early and keeping fees low stop being rules and start being obvious.",
+          "extra": "Section 03 shows it happening, year by year."
         }
       ]
     },
@@ -35,18 +41,18 @@
         },
         {
           "type": "paragraph",
-          "text": "Compound growth is different. You earn a return on your original amount, plus a return on all the growth that’s accumulated so far. Every year, the base you’re earning on gets a little bigger — not because you added more money, but because last year’s growth is now part of this year’s base."
+          "text": "Compound growth is different. You earn a return on your original amount plus a return on all the growth so far. Every year, the base you earn on gets a little bigger, not because you added money, but because last year’s growth is now part of this year’s base."
         },
         {
           "type": "paragraph",
-          "text": "That’s the whole mechanism. It sounds small. Over enough years, it isn’t."
+          "text": "That’s the whole idea. It sounds small. Over enough years, it isn’t."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Compound growth mostly just means my money grows steadily over time.”",
-              "text": "Steady growth and compound growth are different shapes entirely. Steady growth is a straight line. Compound growth curves upward, slowly at first, then dramatically — because the base it’s calculated on keeps getting bigger. Most of the real growth in a long-term investment happens in the later years, not the early ones."
+              "text": "Steady growth and compound growth are different shapes. Steady growth is a straight line. Compound growth curves upward, slowly at first, then steeply, because the base it’s worked out on keeps getting bigger. Most of the growth in a long-term investment happens in the later years, not the early ones."
             }
           ]
         }
@@ -59,32 +65,34 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Picture $10,000 invested, earning 7% a year, left completely untouched."
+          "text": "Picture $10,000 invested, earning 7% a year and left untouched."
         },
         {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "$10,000 at 7% a year, nothing added",
+          "detail": "Balance, and growth in that single year",
           "items": [
             {
               "title": "Start",
-              "text": "Year: $10,000 — Balance: —"
+              "text": "$10,000 — your original deposit."
             },
             {
               "title": "Year 10",
-              "text": "Year: $19,672 — Balance: $1,288"
+              "text": "$19,672 — that year’s growth: $1,288."
             },
             {
               "title": "Year 20",
-              "text": "Year: $38,697 — Balance: $2,532"
+              "text": "$38,697 — that year’s growth: $2,532."
             },
             {
               "title": "Year 30",
-              "text": "Year: $76,123 — Balance: $4,981"
+              "text": "$76,123 — that year’s growth: $4,981."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Look at that last column. The growth in a single year, by year thirty, is nearly four times what it was in year ten — on the exact same original $10,000, with nothing added the whole time. That’s not a bigger return rate. It’s the same 7%, working on a base that had quietly grown enormous in the background."
+          "text": "Look at the growth in a single year. By year thirty, it’s nearly four times what it was in year ten, on the same original $10,000, with nothing added. That’s not a higher return. It’s the same 7%, working on a base that quietly grew huge in the background."
         },
         {
           "type": "heading",
@@ -92,7 +100,7 @@
         },
         {
           "type": "spotlight",
-          "text": "There’s a shortcut worth carrying in your head for the rest of this: divide 72 by your expected annual return, and the answer is roughly how many years it takes your money to double. At 7%, that’s 72 divided by 7, or just over ten years — which is almost exactly what the table above shows. $10,000 grew to $19,672 by year ten, a hair under double, right on schedule. Run the same shortcut on a fee drag. A 2% fee knocking a 7% return down to 5% doesn’t just cost you 2% a year. It stretches the doubling time from about ten years to about fourteen and a half, using the same 72-divided-by-the-rate math. No calculator, no spreadsheet, just one number that turns Module 2.12’s fee comparison into something you can estimate on the back of a napkin."
+          "text": "Here’s a shortcut to carry with you: divide 72 by your yearly return, and the answer is roughly how many years it takes your money to double. At 7%, that’s 72 ÷ 7, just over ten years, which matches the table: $10,000 grew to $19,672 by year ten, a hair under double. Try it on a fee. A 2% fee that cuts a 7% return to 5% doesn’t just cost 2% a year. It stretches the doubling time from about ten years to about fourteen and a half. No calculator needed, just one number that turns the Investment Fees lesson into something you can work out on a napkin."
         }
       ]
     },
@@ -107,7 +115,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Here’s the part that catches people off guard: in the example above, the account barely looks impressive for a long stretch. It takes ten full years to grow by less than $10,000. To someone watching closely, that can feel disappointingly slow. But those quiet early years aren’t wasted time. They’re the years building the base that later growth compounds on top of. Skip them — wait ten years to start instead of starting now — and you don’t just lose ten years of contributions. You lose ten years of compounding on top of those contributions, which is a much larger loss than it first appears. This is why the single most repeated piece of advice across this entire course, in module after module, has been to open the account now, even with a small first deposit. Modules 2.5, 2.7, 2.8, and 2.9 all said some version of this. Now you know exactly why: the quiet early years are doing more work than they look like they’re doing."
+          "text": "Here’s what catches people off guard: in the example above, the account looks unimpressive for a long time. It takes ten full years to grow by less than $10,000, which can feel slow. But those quiet early years aren’t wasted. They build the base that later growth compounds on. Skip them, by starting ten years later, and you don’t just lose ten years of deposits. You lose ten years of compounding on those deposits, which is a much bigger loss than it looks. That’s why so many lessons in this course said to open the account now, even with a small first deposit. The TFSA, FHSA, RESP and RDSP lessons all said a version of it. Now you know why: the quiet early years do more work than they seem to."
         }
       ]
     },
@@ -118,22 +126,26 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "You can’t control the market’s return. But two things inside your control matter enormously to how compound growth plays out."
+          "text": "You can’t control the market’s return. But two things you do control matter a great deal to how compound growth plays out."
         },
         {
           "type": "paragraph",
-          "text": "Time. The longer money stays invested, the more years compounding has to work. This is why time horizon, covered in Module 2.14, is such a central question — it’s not just about risk, it’s about how much room compounding has to operate."
+          "text": "Time. The longer money stays invested, the more years compounding has to work. That’s why time horizon, from the Risk Tolerance lesson, is such a central question. It isn’t only about risk. It’s about how much room compounding has."
         },
         {
           "type": "paragraph",
-          "text": "Fees. Module 2.12 showed a 1.5% fee gap compounding into six figures over 25 years. That’s not a separate lesson from this one — it’s the exact same mechanism, working in reverse. A fee doesn’t just cost you the fee amount. It costs you every year of compounding that money would have gone on to earn."
+          "text": "Fees. The Investment Fees lesson showed a fee gap of under 2% growing into a gap of nearly $290,000 over 25 years. That’s the same idea as this lesson, working in reverse. A fee doesn’t just cost the fee. It costs every year of compounding that money would have earned."
+        },
+        {
+          "type": "spotlight",
+          "text": "Tax is a third lever. In a regular, taxable account, part of each year’s growth goes to tax, so less is left to compound. Inside a TFSA, RRSP or FHSA, the full amount keeps growing. That’s the real reason those accounts are worth opening early: they let compounding work on every dollar."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A slightly higher fee is a minor tradeoff if the fund performs a little better.”",
-              "text": "Because fees compound in reverse, a seemingly small ongoing fee difference can outweigh years of slightly better performance. The fee is certain and permanent; the extra performance is neither. This is the same math as Module 2.12, viewed from the growth side instead of the cost side."
+              "text": "Because fees compound in reverse, a small fee difference can outweigh years of slightly better results. The fee is certain and permanent. The extra performance is neither. It’s the same math as the Investment Fees lesson, seen from the growth side."
             }
           ]
         }
@@ -152,15 +164,15 @@
               "text": ""
             },
             {
-              "title": "I know that early years often look unimpressive, and that this is normal, not a sign something’s wrong.",
+              "title": "I know early years often look unimpressive, and that this is normal, not a sign something is wrong.",
               "text": ""
             },
             {
-              "title": "I’ve opened accounts I’m eligible for, even with small first contributions, rather than waiting until I feel ready.",
+              "title": "I’ve opened the accounts I qualify for, even with small first deposits, instead of waiting until I feel ready.",
               "text": ""
             },
             {
-              "title": "I understand why the fee comparison in Module 2.12 matters as much as it does — fees compound too, just in the wrong direction.",
+              "title": "I understand why the fee comparison in the Investment Fees lesson matters so much. Fees compound too, just in the wrong direction.",
               "text": ""
             },
             {
@@ -182,16 +194,24 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Two sisters, Elin and Karin, both eventually invested the same amount — $200 a month, for exactly twenty-five years each, at a similar average return.",
-            "Elin started at twenty-two, right out of school, with a modest first job and no real sense of urgency. Karin started at thirty-two, after a decade of telling herself she’d get to it once things settled down — which they eventually did.",
-            "By the time both had invested for their full twenty-five years, Elin’s account held nearly double Karin’s, despite both contributing the exact same monthly amount for the exact same number of years. The only difference was when those twenty-five years happened to fall — Elin’s compounding had a full decade’s head start on hers, quietly building a bigger base for every year that followed.",
-            "Karin didn’t do anything wrong. She simply started a decade later, in a system where the decade you start in matters almost as much as how much you contribute once you do."
+            "Elin and Karin were twin sisters who grew up in Thunder Bay. At twenty-two, Elin landed her first job at a credit union and set up an automatic $200 a month into her TFSA. Karin, working retail and saving for a trip to Iceland, said she would start once life settled down.",
+            "Every few years, Elin nudged her. Karin always had a reason to wait: the trip, then a car, then a move to Winnipeg. At thirty-two, newly promoted, she finally sat down to start.",
+            "That night she almost talked herself out of it again. Elin was ten years ahead. What was the point of starting now? Then Elin showed her the math on a napkin, and Karin made her choice. She set up the same $200 a month, and promised herself she would never stop it for twenty-five years.",
+            "Elin had her own decision to make. At forty-seven, after twenty-five years of saving, she had about $162,000, assuming 7% a year. She decided to stop adding money and leave the account alone.",
+            "Here was the twist. At fifty-seven, Karin finished her own twenty-five years with the same $200 a month and the same 7%, and her account held the same $162,000. But Elin’s, left untouched for ten more years, had grown to about $325,000. Same deposits, same years of saving. Elin’s money had a ten-year head start.",
+            "Karin wasn’t bitter. She framed the napkin and gave it to her niece on her eighteenth birthday, with a note that said: “Start at twenty-two. Ask your mother why.”"
           ]
         },
         {
           "type": "takeaway",
-          "text": "Compound growth means earning returns on your returns, not just on your original contributions — which is why growth accelerates dramatically in later years, after quietly building a base in the early ones. Time and fees are the two levers you actually control: more time means more years of compounding, and lower fees mean less of that compounding lost along the way. Starting now, even modestly, beats waiting for a better moment almost every time.",
+          "text": "Compound growth means earning returns on your returns, not just on your deposits. That’s why growth speeds up in later years, after quietly building a base in the early ones. Time and fees are the two levers you control: more time means more years of compounding, and lower fees mean less of it lost along the way. Starting now, even with a small amount, beats waiting for a better moment almost every time.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Start now, even small, and give your money the head start it needs.",
+          "detail": "Every year you begin earlier gives compounding another year to work on everything you’ve saved.",
+          "extra": "Section 08 helps you map your own compounding timeline."
         }
       ]
     },
@@ -205,15 +225,15 @@
           "items": [
             {
               "title": "If there’s an account from this course you haven’t opened yet, open it this week, even with a small first contribution. The account existing matters more right now than the amount inside it.",
-              "text": ""
+              "text": "If there’s an account from this course you haven’t opened yet, open it this week, even with a small first deposit. Having the account matters more right now than the amount inside it."
             },
             {
               "title": "Look back at Module 2.12’s fee comparison with this module’s math in mind — the same compounding that grows your money also amplifies the cost of unnecessary fees.",
-              "text": ""
+              "text": "Look back at the fee comparison in the Investment Fees lesson with this lesson’s math in mind. The same compounding that grows your money also grows the cost of high fees."
             },
             {
               "title": "If you’ve been waiting for a better time to start investing, treat this module as the reason that wait has a real, calculable cost.",
-              "text": ""
+              "text": "If you’ve been waiting for a better time to start investing, treat this lesson as proof that the wait has a real cost."
             }
           ]
         },
@@ -223,7 +243,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Answer guidance: if question two shows an account still unopened, that’s the single highest-value action available to you from this entire module — do it before anything else on this list. If question three is hard to answer, look back through your worksheets from earlier modules. The answer is very likely already sitting in one of them, waiting to be acted on."
+          "text": "Answer guidance: if there’s an account you still haven’t opened, that’s the most valuable action in this lesson. Do it before anything else on this list. If you’re not sure what to act on this month, look back through your answers from earlier lessons. The answer is probably already there, waiting."
         },
         {
           "type": "checkin"
@@ -240,15 +260,15 @@
           "items": [
             {
               "title": "Compound growth",
-              "text": "Growth calculated on both your original contributions and all previously accumulated growth, not on the original amount alone."
+              "text": "Growth worked out on your deposits plus all the growth so far, not on the original amount alone."
             },
             {
               "title": "Base",
-              "text": "The total amount growth is calculated on in a given year, which increases as prior growth accumulates."
+              "text": "The total that growth is worked out on in a given year. It rises as past growth adds up."
             },
             {
               "title": "Time horizon",
-              "text": "How long until money is needed, and therefore how many years compounding has to work with."
+              "text": "How long until you need the money, and so how many years compounding has to work."
             }
           ]
         },
@@ -259,15 +279,15 @@
               "title": "WHERE TO GET HELP",
               "text": "",
               "list": [
-                "A financial advisor: for help projecting how compounding might apply to your own specific savings timeline.",
-                "Your investment provider’s growth calculator: most major banks and brokerages offer a simple compound growth calculator online, useful for testing your own numbers."
+                "A licensed financial adviser, to project how compounding might work on your own savings and timeline.",
+                "The Financial Consumer Agency of Canada’s free compound interest calculator at canada.ca, to test your own numbers."
               ]
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "This module uses illustrative figures at a fixed 7% return to demonstrate the mechanism. Actual investment returns vary and are never guaranteed — nothing in this module should be read as a projection of real results."
+          "text": "This lesson uses example figures at a steady 7% return to show how compounding works. Real returns vary from year to year and are never guaranteed. Nothing here is a forecast of real results."
         }
       ]
     }
@@ -282,12 +302,23 @@
   },
   "checkIn": {
     "questions": [
-      "How many years until I’ll likely need each pool of money I’m investing?",
-      "Any account I’m eligible for but haven’t opened yet, and what’s stopped me:",
-      "What did I take away from this course that I’m going to actually act on this month?"
+      "How many years until you’ll need each pot of money you’re investing?",
+      "Is there an account you qualify for but haven’t opened? What has stopped you?",
+      "How much could you set up as an automatic monthly deposit?",
+      "Using the Rule of 72, how long would your money take to double at your expected return?",
+      "Are any of your investments paying fees that slow your compounding?",
+      "What is one thing from this course you’ll act on this month?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "For example: 5 years for a home, 30 years for retirement.",
+      "Name the account and the barrier, or write “none.”",
+      "For example: $50, $100 or $200 a month.",
+      "For example: 72 ÷ 6 = 12 years.",
+      "Yes, no, or not sure. Check your MERs.",
+      "For example: open an FHSA, or switch to a lower-fee fund."
+    ]
   },
   "sources": []
 }

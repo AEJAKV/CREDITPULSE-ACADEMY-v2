@@ -12,15 +12,21 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Ask someone about their “risk tolerance,” and you’ll usually get one answer to what’s actually two separate questions."
+          "text": "Ask someone about their “risk tolerance,” and you’ll usually get one answer to what are two separate questions."
         },
         {
           "type": "paragraph",
-          "text": "How much risk can you afford to take? And how much risk can you actually stomach, emotionally, without doing something you’ll regret?"
+          "text": "How much risk can you afford to take? And how much risk can you live with, without doing something you’ll regret?"
         },
         {
           "type": "paragraph",
-          "text": "Those aren’t the same thing. A lot of bad investment decisions come from confusing the two — someone who can technically afford more risk, panicking and selling at the worst possible moment because they never could emotionally handle it in the first place."
+          "text": "Those aren’t the same thing. Many bad investment choices come from mixing them up: someone who can afford more risk panics and sells at the worst moment, because they could never live with it in the first place."
+        },
+        {
+          "type": "transition",
+          "text": "Build a plan you can stick with when the market drops.",
+          "detail": "Knowing both what your money can handle and what you can handle keeps you from selling at the worst time.",
+          "extra": "Section 04 shows why a mismatch is the real danger."
         }
       ]
     },
@@ -31,11 +37,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This is about your actual situation. How many years until you need this money? Do you have a stable income? An emergency fund? Other assets to fall back on?"
+          "text": "This is about your real situation. How many years until you need this money? Is your income steady? Do you have an emergency fund? Other savings to fall back on?"
         },
         {
           "type": "paragraph",
-          "text": "Someone in their thirties, saving for a retirement decades away, has high risk capacity — time to recover from a downturn. Someone about to retire next year, relying on that money for living expenses, has low risk capacity, regardless of how they feel about risk emotionally."
+          "text": "Someone in their thirties saving for a retirement decades away has high risk capacity: time to recover from a downturn. Someone retiring next year, who will live on that money, has low risk capacity, however they feel about risk."
+        },
+        {
+          "type": "spotlight",
+          "text": "An emergency fund raises your capacity. With three to six months of costs set aside in cash, a job loss or a big repair doesn’t force you to sell investments while they’re down. That cushion is what lets the rest of your money ride out a bad year."
         }
       ]
     },
@@ -46,18 +56,37 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This is about how you actually react when your investments drop. Some people can watch a portfolio fall 20% and feel nothing more than mild curiosity. Others lose sleep over a 5% dip."
+          "text": "This is about how you react when your investments drop. Some people can watch a portfolio fall 20% and feel only mild curiosity. Others lose sleep over a 5% dip."
         },
         {
           "type": "paragraph",
-          "text": "Neither reaction is wrong. But it’s honest, useful information — and it matters just as much as the math."
+          "text": "Neither reaction is wrong. But it’s honest, useful information, and it matters as much as the math."
+        },
+        {
+          "type": "glasspanel",
+          "text": "How far mixes have fallen in a bad year",
+          "detail": "Rough, past examples only",
+          "items": [
+            {
+              "title": "Mostly bonds (about 20% stocks)",
+              "text": "About 5% to 12% — a smaller dip, though 2022 showed bonds can fall too."
+            },
+            {
+              "title": "Balanced (about 60% stocks)",
+              "text": "About 10% to 25% — a real drop, usually recovered within a few years."
+            },
+            {
+              "title": "All stocks",
+              "text": "About 30% to 50% — as in 2008, when markets fell by a third or more."
+            }
+          ]
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Risk tolerance is just about how brave or cautious a person is.”",
-              "text": "It’s really two separate things: what your situation can handle (capacity) and what you can handle emotionally (comfort). Someone with high capacity but low comfort needs a different plan than someone high on both — and pretending they’re the same person leads to bad advice."
+              "text": "It’s two separate things: what your situation can handle (capacity) and what you can handle emotionally (comfort). Someone with high capacity but low comfort needs a different plan from someone high on both. Treating them as the same person leads to bad advice."
             }
           ]
         }
@@ -70,15 +99,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The real risk in investing usually isn’t the market falling. It’s an investor panicking during a fall and selling at the bottom — locking in a loss that would have recovered if they’d simply stayed put."
+          "text": "The real risk in investing usually isn’t the market falling. It’s an investor panicking during a fall and selling at the bottom, locking in a loss that would have recovered if they had stayed put."
         },
         {
           "type": "paragraph",
-          "text": "That panic almost always comes from a mismatch: a portfolio built for someone’s risk capacity, without enough attention paid to their risk comfort. On paper, the portfolio was correct. In practice, it was more than the person could emotionally sit through."
+          "text": "That panic usually comes from a mismatch: a portfolio built for someone’s capacity, with too little attention paid to their comfort. On paper, the portfolio was right. In practice, it was more than the person could sit through."
         },
         {
           "type": "paragraph",
-          "text": "A portfolio you can’t stick with during a downturn is, in a very real sense, the wrong portfolio for you — even if the math behind it was sound."
+          "text": "A portfolio you can’t stick with through a downturn is the wrong portfolio for you, even if the math behind it was sound."
         },
         {
           "type": "heading",
@@ -86,7 +115,11 @@
         },
         {
           "type": "spotlight",
-          "text": "Two investors, same age, same income, same time horizon — identical risk capacity by every measure a calculator would use. One of them can watch a 30% market drop and feel nothing more than mild inconvenience. The other checks their account daily during a downturn, can’t sleep, and eventually sells everything at the worst possible moment, just to make the anxiety stop. The math said they should hold the same portfolio. Their actual behaviour proved otherwise. A slightly more conservative portfolio — one the second investor could genuinely stick with through a bad year — will very often outperform an aggressive one they abandon in a panic. The best portfolio isn’t the one with the highest theoretical return. It’s the one you’ll actually still be holding five years from now."
+          "text": "Two investors, same age, same income, same time horizon: identical risk capacity by every measure a calculator uses. One can watch a 30% market drop and feel mildly annoyed. The other checks their account every day during a downturn, can’t sleep and finally sells everything at the worst moment, just to make the worry stop. The math said they should hold the same portfolio. Their behaviour proved otherwise. A slightly more cautious mix, one the second investor could stick with through a bad year, will often end up ahead of a bold one they abandon in a panic. The best portfolio isn’t the one with the highest possible return. It’s the one you’ll still be holding five years from now."
+        },
+        {
+          "type": "spotlight",
+          "text": "Your adviser has to ask. Canadian rules require advisers to learn about your goals, time horizon, finances and comfort with risk before they recommend anything, and to check that each recommendation suits you. If no one has asked you how you’d feel about a 20% drop, ask them to."
         }
       ]
     },
@@ -97,35 +130,35 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "How long until you need this money is one of the biggest inputs into how much risk you can reasonably take on."
+          "text": "How long until you need this money is one of the biggest inputs into how much risk makes sense."
         },
         {
           "type": "chips",
           "items": [
             {
-              "title": "Money you need within a year or two. Very little room for risk. A market drop with no time to recover before you need the cash is a real problem, not a theoretical one.",
+              "title": "Money you need within a year or two. Very little room for risk. A drop with no time to recover before you need the cash is a real problem. Savings accounts and GICs fit here.",
               "text": ""
             },
             {
-              "title": "Money you need in five to ten years. Some room for risk, balanced against the shrinking runway to recover from a bad stretch.",
+              "title": "Money you need in five to ten years. Some room for risk, balanced against less time to recover from a bad stretch.",
               "text": ""
             },
             {
-              "title": "Money you won’t touch for decades, like early retirement savings. The most room for risk. Time to ride out multiple downturns, and historically the strongest case for holding more stocks.",
+              "title": "Money you won’t touch for decades, like retirement savings for a younger worker. The most room for risk, with time to ride out several downturns. This is where holding more stocks has historically made the most sense.",
               "text": ""
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "This is exactly why a TFSA earmarked for next year’s vacation should usually sit somewhere very different than an RRSP you won’t touch for thirty years — same account types covered elsewhere in this course, completely different risk answer depending on the goal attached."
+          "text": "That’s why a TFSA set aside for next year’s trip should usually be invested differently from an RRSP you won’t touch for thirty years. Same kinds of accounts, completely different risk answer, because the goal is different."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Younger investors should always take on maximum risk since they have time to recover.”",
-              "text": "Time horizon matters enormously, but it isn’t the only factor. A young investor with genuinely low risk comfort, who’ll panic-sell during every downturn, may do better long-term with a somewhat more conservative portfolio they can actually stick with, than an aggressive one they keep abandoning."
+              "text": "Time horizon matters a lot, but it isn’t the only factor. A young investor with low comfort, who will panic-sell in every downturn, may do better over time with a somewhat more cautious portfolio they can stick with than a bold one they keep abandoning."
             }
           ]
         }
@@ -144,15 +177,15 @@
               "text": ""
             },
             {
-              "title": "I know roughly when I’ll need each pool of money I’m investing — my time horizon for each goal.",
+              "title": "I know roughly when I’ll need each pot of money I’m investing: my time horizon for each goal.",
               "text": ""
             },
             {
-              "title": "I’ve honestly considered how I actually reacted the last time an investment I held dropped in value.",
+              "title": "I’ve been honest about how I reacted the last time an investment I held dropped.",
               "text": ""
             },
             {
-              "title": "I understand that a portfolio I can’t emotionally stick with is the wrong portfolio, even if the math looks right.",
+              "title": "I understand that a portfolio I can’t stick with is the wrong one, even if the math looks right.",
               "text": ""
             },
             {
@@ -174,10 +207,12 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Amara and Josh, siblings, both in their late twenties, both investing for retirement decades away. A financial planning tool suggested the same aggressive, mostly-stock portfolio for both of them — the math looked identical.",
-            "The market had a genuinely rough year. Amara barely noticed — she checked her account twice, shrugged, and kept contributing exactly as before. Josh checked daily, felt physically unwell some mornings, and came within a hair of selling everything, convinced it was the responsible thing to do.",
-            "He didn’t sell, in the end — mostly because a call with an advisor talked him through it in the moment. But the advisor’s actual advice afterward wasn’t to tell Josh he’d been wrong to feel that way. It was to rebuild his portfolio slightly more conservatively — enough that the next rough year wouldn’t put him one bad week away from a costly, panicked decision.",
-            "Amara kept her original aggressive portfolio. Josh’s became somewhat more balanced. Both were doing the right thing for themselves — not because the math changed, but because the plan finally matched the person holding it."
+            "Amara and Josh were siblings in their late twenties, both working in Halifax and both saving for a retirement decades away. They used the same online planning tool, answered its questions about age and income, and got the same suggestion: about 90% stocks.",
+            "Then the market had a rough year, and their accounts fell about 25%. Amara barely noticed. She checked twice, shrugged and kept adding money every month, just as before.",
+            "Josh checked every morning before work. Some days he felt sick. One Sunday night, he logged in, chose “sell all” and hovered over the button. It felt like the responsible thing to do.",
+            "Instead, he called his adviser first. She didn’t tell him his feelings were wrong. She asked him one question: if this happened again next year, would he sell? Josh admitted he probably would. That honest answer was what they needed to make a choice.",
+            "Josh stayed invested, but they rebuilt his mix to about 60% stocks: enough to keep growing, gentle enough that the next bad year wouldn’t put him one panicky night from a costly mistake. He also turned off the app’s daily alerts.",
+            "Two years later, both of their accounts were well above where they had started. Amara’s had grown a little more, and Josh had slept through the whole recovery. At a family dinner, he joked that his best investment move had been the one he didn’t make on a Sunday night."
           ]
         },
         {
@@ -186,12 +221,18 @@
         },
         {
           "type": "spotlight",
-          "text": "Josh’s daily checking was not just a symptom of his discomfort, it was actively making it worse. Checking a portfolio every day means seeing roughly as many down days as up days, and because a loss tends to feel worse than an equivalent gain feels good, frequent checking manufactures more pain than the underlying risk actually justifies. Checking monthly or quarterly instead does not change what the portfolio is doing, only how often the swings are visible, and it measurably reduces how volatile the same investment feels to hold. It costs nothing, requires no change to the portfolio itself, and for someone who recognizes a bit of Josh in themselves, it is often the single easiest adjustment available before touching the actual mix of investments."
+          "text": "Josh’s daily checking wasn’t just a sign of his worry. It made it worse. Check every day, and you see roughly as many down days as up days, and since a loss tends to feel worse than the same-sized gain feels good, frequent checking creates more pain than the real risk deserves. Checking monthly or quarterly doesn’t change what the portfolio does, only how often you see the swings, and it makes the same investment feel calmer to hold. It costs nothing and needs no change to your investments. For anyone who sees a bit of Josh in themselves, it’s often the easiest fix to try before changing the mix."
         },
         {
           "type": "takeaway",
-          "text": "Risk tolerance is really two questions: what your situation can afford, and what you can emotionally handle. A portfolio that’s mathematically correct but emotionally unbearable often leads to the exact panic-selling it was supposed to protect against. Time horizon matters enormously — but so does an honest look at how you’ve actually behaved the last time your investments dropped.",
+          "text": "Risk tolerance is two questions: what your situation can afford, and what you can handle emotionally. A portfolio that’s right on paper but unbearable in practice often leads to the panic-selling it was meant to avoid. Time horizon matters a lot, but so does an honest look at how you behaved the last time your investments dropped.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Choose a mix you can live with, and time will do the heavy lifting.",
+          "detail": "A plan that fits both your numbers and your nerves keeps you invested long enough to recover and grow.",
+          "extra": "Section 08 helps you build your own risk profile."
         }
       ]
     },
@@ -205,15 +246,15 @@
           "items": [
             {
               "title": "For each investment goal you have, write down your actual time horizon — when will you genuinely need this money?",
-              "text": ""
+              "text": "For each investment goal, write down your time horizon: when will you need this money?"
             },
             {
               "title": "Think honestly about how you reacted the last time an investment dropped, or imagine how you’d feel watching a portfolio fall 20% in a month.",
-              "text": ""
+              "text": "Be honest about how you reacted the last time an investment dropped, or picture watching a portfolio fall 20% in a month."
             },
             {
               "title": "If your current portfolio’s risk level came from a generic questionnaire, consider whether it actually matches your emotional comfort, not just your time horizon.",
-              "text": ""
+              "text": "If your portfolio’s risk level came from a quick online questionnaire, ask whether it matches your comfort, not just your time horizon."
             }
           ]
         },
@@ -223,7 +264,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Answer guidance: if question two reveals a pattern of panic during past drops, that’s genuinely useful information — not a character flaw to hide from an advisor, but a fact your portfolio should be built around. If question three shows a mismatch, that’s worth a conversation with an advisor before the next downturn happens, not during one."
+          "text": "Answer guidance: if you’ve panicked during past drops, that’s useful information, not a flaw to hide from an adviser. Your portfolio should be built around it. If your portfolio doesn’t match your comfort, talk to an adviser before the next downturn, not during one."
         },
         {
           "type": "checkin"
@@ -240,19 +281,19 @@
           "items": [
             {
               "title": "Risk capacity",
-              "text": "How much investment risk your actual financial situation can withstand."
+              "text": "How much investment risk your financial situation can handle."
             },
             {
               "title": "Risk comfort (or tolerance)",
-              "text": "How much investment risk you can handle emotionally without making impulsive decisions."
+              "text": "How much investment risk you can live with emotionally without acting on impulse."
             },
             {
               "title": "Time horizon",
-              "text": "How long until you’ll actually need a given pool of invested money."
+              "text": "How long until you’ll need a given pot of invested money."
             },
             {
               "title": "Panic-selling",
-              "text": "Selling investments during a downturn out of fear, often locking in losses that would otherwise have recovered."
+              "text": "Selling investments during a downturn out of fear, often locking in losses that would have recovered."
             }
           ]
         },
@@ -273,12 +314,23 @@
   },
   "checkIn": {
     "questions": [
-      "My time horizon for each major investment goal:",
-      "Honestly, how have I reacted to past investment drops?",
-      "Does my current portfolio’s risk level match both my capacity and my comfort?"
+      "What is your time horizon for each major investment goal?",
+      "How have you reacted to past drops in your investments?",
+      "Do you have an emergency fund, so you won’t need to sell in a downturn?",
+      "How much of a drop could you sit through without selling?",
+      "Does your current mix match both your capacity and your comfort?",
+      "How often do you check your investments, and would checking less help?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "For example: house down payment in 4 years, retirement in 30 years.",
+      "For example: I held on, I sold some, or I’ve never been through one.",
+      "Yes, partly, or not yet.",
+      "For example: 10%, 20%, 30%, or not sure.",
+      "Yes, no, or not sure.",
+      "For example: daily now; I’ll switch to once a month."
+    ]
   },
   "sources": []
 }

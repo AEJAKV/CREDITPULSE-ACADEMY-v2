@@ -16,43 +16,18 @@
         },
         {
           "type": "paragraph",
-          "text": "The Disability Tax Credit, or DTC, is a non-refundable tax credit. It can lower the income tax of an approved person or, in some cases, a family member who supports them. It recognizes severe and long-lasting impairments. It is not a monthly disability payment, and approval is not based on a diagnosis alone."
+          "text": "The Disability Tax Credit, or DTC, is a tax credit that cannot be paid out as a refund on its own. It can lower the income tax of the approved person or, in some cases, a family member who supports them. It is for severe, long-lasting conditions. It is not a monthly disability payment, and a diagnosis alone does not get you approved."
         },
         {
           "type": "spotlight",
-          "text": "DTC categories include walking, speaking, hearing, vision, feeding, dressing, eliminating (using the washroom) and the mental functions needed for everyday life. Life-sustaining therapy and cumulative effects have their own routes."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Tell a diagnosis apart from how a condition affects daily life.",
-              "text": ""
-            },
-            {
-              "title": "Organize your evidence around frequency, time, support and duration.",
-              "text": ""
-            },
-            {
-              "title": "Explain the jobs of the applicant, the practitioner and the CRA.",
-              "text": ""
-            },
-            {
-              "title": "Choose the current application route.",
-              "text": ""
-            },
-            {
-              "title": "Build a short record of daily impact to bring to your practitioner.",
-              "text": ""
-            }
-          ]
+          "text": "DTC areas include walking, speaking, hearing, seeing, eating, dressing, using the washroom and the mental skills needed for daily life. Life-sustaining therapy and the combined effect of several limits each have their own routes."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Only visible or physical disabilities can qualify.”",
-              "text": "DTC categories cover physical, sensory and mental functions. The test is the certified effect on daily function under the law, not whether a stranger can spot the impairment."
+              "text": "The DTC covers physical, sensory and mental functions. The test is how much the condition limits daily life, as certified under the law, not whether a stranger can see it."
             }
           ]
         },
@@ -71,47 +46,47 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A marked restriction generally means you can't do an activity, or it takes about three times as long as it would for a person of similar age without the impairment, even with the right therapy, devices and medication. It must be present all or substantially all of the time, generally at least 90%, and last or be expected to last at least 12 months in a row."
+          "text": "A marked restriction usually means you cannot do an activity, or it takes about three times as long as it would for someone your age without the condition. That is true even with the right therapy, devices and medicine. It must be there all or almost all of the time, usually at least 90%, and last or be expected to last at least 12 months in a row."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "FUNCTION",
-              "text": "Describe the everyday activity that's affected and what happens in ordinary life."
+              "text": "Name the everyday task that is affected and what happens in ordinary life."
             },
             {
               "title": "FREQUENCY",
-              "text": "Note how often the problem happens, including the pattern across better and harder days."
+              "text": "Note how often the problem happens, on better days and on harder days."
             },
             {
               "title": "TIME",
-              "text": "Explain how much longer the activity takes compared with a person of similar age, where that test applies."
+              "text": "Explain how much longer the task takes than it would for someone your age, where that test applies."
             },
             {
               "title": "SUPPORT",
-              "text": "List the therapy, medication, devices, reminders, supervision or hands-on help you already use."
+              "text": "List the therapy, medicine, devices, reminders, supervision or hands-on help you already use."
             },
             {
               "title": "DURATION",
-              "text": "Say when the pattern began and whether it has lasted, or is expected to last, at least 12 months in a row."
+              "text": "Say when the pattern began and whether it has lasted, or will last, at least 12 months in a row."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Two or more significant limitations can sometimes combine into the equivalent of a marked restriction. Each limitation must meet the CRA’s cumulative-effect conditions, and minor inconveniences do not become eligibility by committee."
+          "text": "Two or more serious limits can sometimes add up to the same thing as a marked restriction. Each limit must meet the CRA’s rules for combined effects, and small hassles do not add up to eligibility by committee."
         },
         {
           "type": "spotlight",
-          "text": "For qualifying life-sustaining therapy, the test looks at the purpose, frequency and time rules. People with type 1 diabetes are considered to meet the therapy criterion for 2021 and later years."
+          "text": "For life-sustaining therapy, the test looks at why you need it, how often and how much time it takes. People with type 1 diabetes are treated as meeting the therapy test for 2021 and later years."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A medical diagnosis guarantees DTC approval.”",
-              "text": "A practitioner certifies the impairment and its effects, but the CRA decides eligibility using the legal criteria. Specific, truthful detail about daily function helps more than a diagnosis name travelling alone."
+              "text": "A health practitioner certifies the condition and its effects, but the CRA decides who qualifies under the legal rules. Clear, honest detail about daily life helps more than a diagnosis name travelling alone."
             }
           ]
         }
@@ -119,7 +94,7 @@
     },
     {
       "id": "route",
-      "title": "Give Each Person the Correct Job",
+      "title": "Give Each Person the Right Job",
       "paragraphs": [],
       "blocks": [
         {
@@ -131,32 +106,32 @@
             },
             {
               "title": "MEDICAL PRACTITIONER",
-              "text": "Fills in Part B for the right category using professional judgment. A fee may be charged, so ask ahead of time."
+              "text": "Fills in Part B for the right area using their own judgment. They may charge a fee, so ask first."
             },
             {
               "title": "CRA",
-              "text": "Reviews the certification and decides whether the rules and years are met. The CRA may ask for more information."
+              "text": "Reviews the form and decides whether the rules and years are met. The CRA may ask for more information."
             },
             {
               "title": "AFTER THE DECISION",
-              "text": "Read the notice carefully. Check the approved years and tax instructions, or use the explanation and official review options."
+              "text": "Read the notice with care. Check the approved years and tax steps, or ask for an explanation or an official review."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "The CRA’s online DTC form is the preferred route. For paper, use the latest T2201. From 8 September 2026, versions issued before 2023 are no longer accepted."
+          "text": "The CRA prefers its online DTC form. For paper, use the latest T2201. From September 8, 2026, versions from before 2023 are no longer accepted."
         },
         {
           "type": "spotlight",
-          "text": "From 14 July 2026, don't use the CRA’s general Submit Documents service for a new DTC application unless the CRA specifically asks you for more information."
+          "text": "From July 14, 2026, do not use the CRA’s general Submit Documents service for a new DTC application unless the CRA asks you for more information."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A non-refundable credit is useless if the approved person owes no tax.”",
-              "text": "A family member who supports you may sometimes claim unused amounts, and approval can matter for other programs. Each claim and program has its own conditions."
+              "text": "A family member who supports you may sometimes claim the part you cannot use, and approval can matter for other programs. Each claim and program has its own rules."
             }
           ]
         },
@@ -166,7 +141,7 @@
         },
         {
           "type": "paragraph",
-          "text": "DTC eligibility depends on severe and long-lasting effects on daily function, not diagnosis alone. Build specific, truthful evidence, let your practitioner certify within their role and let the CRA decide."
+          "text": "The DTC depends on severe, long-lasting effects on daily life, not a diagnosis alone. Build clear, honest evidence, let your practitioner certify within their role and let the CRA decide."
         }
       ]
     },
@@ -192,11 +167,7 @@
         },
         {
           "type": "spotlight",
-          "text": "A short diary can show a pattern that memory squeezes flat. Record typical days, supports and time demands. Do not exaggerate, play things down or coach a practitioner toward an answer you've already picked."
-        },
-        {
-          "type": "paragraph",
-          "text": "Studio note: humour belongs with the paperwork, never with a person’s disability, pain or need for support."
+          "text": "A short diary can show a pattern that memory squeezes flat. Note your usual days, the help you use and how long things take. Do not exaggerate, play things down or steer a practitioner toward an answer you have already picked."
         },
         {
           "type": "transition",
@@ -215,28 +186,28 @@
           "type": "accordions",
           "items": [
             {
-              "title": "Why isn't a diagnosis alone enough for the DTC?",
-              "detail": "The CRA decides using severe and prolonged effects on daily function under the legal criteria, not the name of the diagnosis alone.",
+              "title": "Why is a diagnosis alone not enough for the DTC?",
+              "detail": "The CRA decides based on severe, long-lasting effects on daily life under the legal rules, not the name of the diagnosis.",
               "text": ""
             },
             {
-              "title": "What five evidence lenses belong in a daily-impact record?",
+              "title": "What five lenses belong in a record of daily impact?",
               "detail": "Function, frequency, time, support and duration.",
               "text": ""
             },
             {
-              "title": "What does ‘all or substantially all of the time’ generally mean?",
-              "detail": "Generally at least 90% of the time.",
+              "title": "What does “all or almost all of the time” usually mean?",
+              "detail": "Usually at least 90% of the time.",
               "text": ""
             },
             {
               "title": "Who certifies the effects, and who decides eligibility?",
-              "detail": "A medical practitioner certifies the impairment and its effects. The CRA decides eligibility.",
+              "detail": "A health practitioner certifies the condition and its effects. The CRA decides who qualifies.",
               "text": ""
             },
             {
-              "title": "Which application version and submission cautions apply in 2026?",
-              "detail": "Use the preferred online form or the latest T2201. From 8 September 2026, versions from before 2023 are not accepted. From 14 July, don't use the general Submit Documents service for a new application unless the CRA asks.",
+              "title": "Which form version and sending rules apply in 2026?",
+              "detail": "Use the online form or the latest T2201. From September 8, 2026, versions from before 2023 are not accepted. From July 14, do not use the general Submit Documents service for a new application unless the CRA asks.",
               "text": ""
             }
           ]
@@ -245,19 +216,19 @@
     },
     {
       "id": "action",
-      "title": "Your Daily Impact Evidence File",
+      "title": "Your Action (Fill Out Form): Your Daily Impact Evidence File",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Short answers, plain language. Please don't enter your health card number, SIN, medical records or practitioner login details here. This is preparation, not tax or medical advice."
+          "text": "Short answers in plain words. Please do not enter your health card number, SIN, medical records or practitioner login details here. This is preparation, not tax or medical advice."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "Keep copies of your application, reference number, practitioner submission and CRA notice. A tidy file can't decide eligibility, but it can head off avoidable paperwork confusion."
+          "text": "Keep copies of your application, reference number, practitioner’s form and CRA notice. A tidy file cannot decide who qualifies, but it can head off paperwork mix-ups you could avoid."
         }
       ]
     },
@@ -271,11 +242,11 @@
           "items": [
             {
               "title": "DTC",
-              "text": "Disability Tax Credit. A non-refundable credit that can lower income tax."
+              "text": "Disability Tax Credit. A credit that can lower your income tax."
             },
             {
               "title": "Marked restriction",
-              "text": "You can't do an activity, or it takes about three times as long as it would for others your age."
+              "text": "You cannot do a task, or it takes about three times as long as it would for others your age."
             },
             {
               "title": "Prolonged",
@@ -283,11 +254,11 @@
             },
             {
               "title": "Cumulative effect",
-              "text": "Several significant limits that together meet the test, even if none meets it alone."
+              "text": "Several serious limits that together meet the test, even if none meets it alone."
             },
             {
               "title": "Life-sustaining therapy",
-              "text": "Therapy you need to keep a vital function going, under specific rules."
+              "text": "Therapy you need to keep a vital body function going, under set rules."
             },
             {
               "title": "T2201",
@@ -312,22 +283,20 @@
   },
   "checkIn": {
     "questions": [
-      "Which everyday activity is hardest for you, or for the person you're helping?",
+      "Which everyday task is hardest for you, or for the person you are helping?",
       "Has this been going on for 12 months or more? (Yes / No / Not sure)",
-      "On an ordinary day, how does it show up?",
-      "How often does it happen? (Every day or almost every day / A few times a week / Now and then / Not sure)",
-      "What help, treatment or tools do you already use?",
-      "Have you talked to a medical practitioner about the DTC? (Yes / Not yet / Not sure)",
-      "What's one thing you'll do before you apply or call the CRA?"
+      "On an ordinary day, how does it show up, and how often? (Every day or almost every day / A few times a week / Now and then / Not sure)",
+      "What help, treatment or tools do you already use? Write “none” if there are none.",
+      "Have you talked to a health practitioner about the DTC? (Yes / Not yet / Not sure)",
+      "What is one thing you will do before you apply or call the CRA?"
     ],
     "samples": [
-      "One line is fine, e.g. \"Getting dressed in the morning.\"",
-      "",
-      "A sentence or two is fine.",
-      "",
-      "For example: medication, a cane, reminders from a family member. Write \"none\" if there are none.",
-      "",
-      "One sentence is enough."
+      "Getting dressed in the morning.",
+      "Yes, about three years.",
+      "Almost every day. Buttons and socks take me close to half an hour.",
+      "A dressing aid, pain medicine and help from my partner.",
+      "Not yet.",
+      "Keep a two-week diary to bring to my appointment."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not an eligibility or tax determination."

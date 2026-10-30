@@ -23,31 +23,6 @@
           "text": "You can qualify for OAS even if you never worked in Canada, and you can keep working after 65. Employment history is not the test. Residence and income still matter."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Trace your years of residence in Canada after age 18.",
-              "text": ""
-            },
-            {
-              "title": "Tell a full pension from a partial pension.",
-              "text": ""
-            },
-            {
-              "title": "Compare starting at 65 with delaying up to age 70.",
-              "text": ""
-            },
-            {
-              "title": "See how income and the recovery tax can affect your payment.",
-              "text": ""
-            },
-            {
-              "title": "Fill in a simple residence and start-date map.",
-              "text": ""
-            }
-          ]
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -161,11 +136,11 @@
           "extra": "",
           "paragraphs": [
             "Elena Rossi was 64, lived in Calgary and planned to retire at 65. Her goal was a clear number she could put in a budget. On Friday she was going to give notice at work. Then she opened a letter about her Old Age Security.",
-            "The letter listed her years of residence in Canada after age 18, and the total was lower than her own estimate. She had lived in Italy for seven years in her twenties, then come home, and she had assumed decades of tax filing would politely fill the gap.",
-            "Her kitchen table held a shoebox of papers. The box offered enthusiasm but little order. She also wondered whether an international social-security agreement could help, and whether her pension would be full or partial.",
-            "Giving notice on Friday meant a clean start at 65. Waiting meant three weeks of digging through that box and a call to Service Canada, with her manager asking questions. Elena almost sent the notice anyway. Then she thought about retiring on a pension smaller than the one she had budgeted for. She put the notice in a drawer.",
+            "The letter listed her years in Canada after age 18. The total was lower than her own count. She had lived in Italy for seven years in her twenties, then come home. She had assumed decades of tax filing would politely fill the gap.",
+            "Her kitchen table held a shoebox of papers. The box offered enthusiasm but little order. She also wondered if a social security deal between Canada and Italy could help, and if her pension would be full or partial.",
+            "Giving notice on Friday meant a clean start at 65. Waiting meant three weeks of digging through that box and a call to Service Canada, with her manager asking questions. Elena almost sent the notice anyway. Then she pictured retiring on a pension smaller than the one she had planned for. She put the notice in a drawer.",
             "She rebuilt her record month by month, using old leases, tax slips and immigration papers. She wrote down the dates she was sure of and the ones she was not. For one summer she wrote, \"Month unknown, document requested.\"",
-            "The twist came on the phone. Service Canada's record showed her leaving Canada a year earlier than she had left, because an old address change was never updated. Her lease and her son's school records proved the right dates, and her timeline showed which months still needed proof.",
+            "The twist came on the phone. Service Canada’s record showed her leaving Canada a year earlier than she did. An old address change had never been updated. Her lease and her son’s school records proved the right dates, and her timeline showed which months still needed proof.",
             "Once the record was fixed, she compared starting at 65 with waiting, including her taxes and her possible GIS position. She chose to start at 65 and wrote her notice date on the calendar. The shoebox went back on the shelf, this time with a folder inside it."
           ]
         },
@@ -224,7 +199,7 @@
     },
     {
       "id": "action",
-      "title": "Your Residence and Start-Date Map",
+      "title": "Your Action (Fill Out Form): Your Residence and Start-Date Map",
       "paragraphs": [],
       "blocks": [
         {
@@ -291,22 +266,20 @@
   },
   "checkIn": {
     "questions": [
-      "How old are you, or how old is the person you're helping?",
+      "How old are you, or how old is the person you are helping? A rough age is fine.",
       "Are you a Canadian citizen or permanent resident? (Citizen / Permanent resident / Something else / Not sure)",
-      "Roughly how many years have you lived in Canada since you turned 18?",
-      "Have you lived outside Canada for a year or more since age 18? (Yes / No / Not sure)",
+      "About how many years have you lived in Canada since you turned 18? Round to the nearest five years if that is easier.",
+      "Have you lived outside Canada for a year or more since age 18? If yes, where and roughly when?",
       "When are you thinking of starting OAS? (At 65 / Later, up to age 70 / Not sure yet)",
-      "Have you received a letter from Service Canada about OAS? (Yes / No / Not sure)",
-      "What's one thing you'll check or gather before you apply?"
+      "What is one thing you will check or gather before you apply?"
     ],
     "samples": [
-      "A rough age is fine.",
-      "",
-      "An estimate is fine. Round to the nearest five years if that's easier.",
-      "",
-      "",
-      "",
-      "One sentence is enough."
+      "64.",
+      "Citizen.",
+      "About 40 years.",
+      "Yes, Italy, from about 1984 to 1991.",
+      "At 65.",
+      "Old leases that show when I moved back to Canada."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not an eligibility or payment determination."

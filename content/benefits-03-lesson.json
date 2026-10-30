@@ -23,31 +23,6 @@
           "text": "For the 2025 tax year, the published maximum basic CWB is $1,633 for a single person and $2,813 for a family. Income limits and calculations differ in Alberta, Quebec and Nunavut, and a maximum is never a personal quote."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Tell working income apart from adjusted net income.",
-              "text": ""
-            },
-            {
-              "title": "Check the main eligibility rules without promising yourself a result.",
-              "text": ""
-            },
-            {
-              "title": "Explain the basic amount, the disability supplement and advance payments.",
-              "text": ""
-            },
-            {
-              "title": "Match an RC210 statement to your yearly claim.",
-              "text": ""
-            },
-            {
-              "title": "Fill in a simple CWB and ACWB review sheet.",
-              "text": ""
-            }
-          ]
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -220,7 +195,7 @@
     },
     {
       "id": "action",
-      "title": "Your CWB and ACWB Review Sheet",
+      "title": "Your Action (Fill Out Form): Your CWB and ACWB Review Sheet",
       "paragraphs": [],
       "blocks": [
         {
@@ -288,21 +263,19 @@
   "checkIn": {
     "questions": [
       "Which province or territory do you live in, and do you file alone or with a spouse or partner?",
-      "Roughly, how much did you earn from work last year?",
+      "About how much did you earn from work last year? An estimate is fine. Round to the nearest thousand if that is easier.",
       "Are you approved for the Disability Tax Credit? (Yes / No / Not sure)",
-      "Did you get ACWB deposits from the CRA this year? (Yes / No / Not sure)",
-      "Do you have your RC210 statement? (Yes / No / Not sure)",
-      "Did your income, marital status or address change this year?",
-      "What's one thing you'll check or fix before you file your return?"
+      "Did you get ACWB advance deposits from the CRA this year, and do you have your RC210 statement? (Yes / No / Not sure)",
+      "Did your income, marital status or address change this year? Write “no changes” if nothing is different.",
+      "What is one thing you will check or fix before you file your return?"
     ],
     "samples": [
-      "One line is fine, e.g. \"Nova Scotia, filing alone.\"",
-      "An estimate is fine. Round to the nearest thousand if that's easier.",
-      "",
-      "",
-      "",
-      "Write \"no changes\" if nothing's different.",
-      "One sentence is enough."
+      "Nova Scotia, filing alone.",
+      "About $24,000.",
+      "No.",
+      "Yes, three deposits. My RC210 is in my CRA account.",
+      "I picked up more shifts in the fall.",
+      "Count my advance payments before I plan my refund."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not an eligibility or payment determination."

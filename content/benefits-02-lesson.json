@@ -23,31 +23,6 @@
           "text": "The last regular GST/HST Credit payment came in April 2026. Payments from July 2026 show up as the Canada Groceries and Essentials Benefit. Old notices still matter when you trace earlier periods."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Explain how the GST/HST Credit became the CGEB.",
-              "text": ""
-            },
-            {
-              "title": "Spot the tax return and family facts that decide what you get.",
-              "text": ""
-            },
-            {
-              "title": "Map your four payments for the year.",
-              "text": ""
-            },
-            {
-              "title": "Pick the right application form if you're new to Canada.",
-              "text": ""
-            },
-            {
-              "title": "Fill in a simple payment file you can check any CRA notice against.",
-              "text": ""
-            }
-          ]
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -105,7 +80,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Most people don't send in a separate CGEB application. Filing a tax return gives the CRA what it needs, even when your income is zero and the return feels like a very formal blank page."
+          "text": "Most people don't send in a separate CGEB application. Filing a tax return gives the CRA what it needs, even when your income is zero and the return feels like a formal blank page."
         },
         {
           "type": "myths",
@@ -256,7 +231,7 @@
     },
     {
       "id": "action",
-      "title": "Your Payment File",
+      "title": "Your Action (Fill Out Form): Your Payment File",
       "paragraphs": [],
       "blocks": [
         {
@@ -324,21 +299,19 @@
   "checkIn": {
     "questions": [
       "Who lives in your household, and how old are the children, if any?",
-      "Roughly, what was your household income last year?",
+      "About what was your household income last year? An estimate is fine. Round to the nearest thousand if that is easier.",
       "Have you, and your spouse or partner if you have one, filed your 2025 tax return? (Yes / No / Not sure)",
-      "How did your benefit get started? (Automatically after I filed taxes / I applied with form RC66 for the CCB / I applied with form RC151 as a newcomer / Not sure)",
-      "Did your address, marital status or custody situation change this year?",
+      "Did your address, marital status or custody situation change this year? Write “no changes” if nothing is different.",
       "When does your CRA notice say your payments arrive? (July, October, January and April / All at once in July / Not sure)",
       "What is one thing you will check or fix before you call the CRA?"
     ],
     "samples": [
-      "One line is fine, e.g. \"Me and a partner, two kids ages 4 and 9.\"",
-      "An estimate is fine. Round to the nearest thousand if that is easier.",
-      "",
-      "",
-      "Write \"no changes\" if nothing is different.",
-      "",
-      "One sentence is enough."
+      "Me and my partner, plus two kids ages 4 and 9.",
+      "About $46,000.",
+      "Yes, we both filed in April.",
+      "I moved in with my partner in May.",
+      "July, October, January and April.",
+      "Update my marital status in CRA My Account."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

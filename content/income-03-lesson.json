@@ -12,47 +12,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Reselling can begin with one useful product and a sensible margin. It can also begin with 80 novelty mugs arriving at your door like a ceramic intervention. This course builds the first version."
+          "text": "Reselling can start with one useful product and a fair margin. It can also start with 80 novelty mugs arriving at your door like a ceramic intervention. This course builds the first version."
         },
         {
           "type": "paragraph",
-          "text": "A reseller buys or acquires products and sells them for more than the full cost of getting them ready for a customer. The work is not simply finding a low purchase price. It includes checking demand, authenticity, safety, condition, fees, packaging, delivery, returns and records. A profitable listing is a calculation—not a hopeful adjective."
+          "text": "A reseller buys products and sells them for more than the full cost of getting them to a customer. The work is not just finding a low price. It also means checking demand, whether the item is genuine, safety, condition, fees, packaging, delivery, returns and records. A profitable listing is a calculation, not a hopeful adjective."
         },
         {
           "type": "spotlight",
-          "text": "Choose one narrow category first. Familiarity makes it easier to recognize normal prices, defects, counterfeits, recalls and slow-moving stock."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Select a product category and buyer.",
-              "text": ""
-            },
-            {
-              "title": "Verify demand, authenticity and safety.",
-              "text": ""
-            },
-            {
-              "title": "Calculate profit after every unit cost.",
-              "text": ""
-            },
-            {
-              "title": "Run a small test batch with a stop rule.",
-              "text": ""
-            },
-            {
-              "title": "Complete a Product-to-Profit Test Card.",
-              "text": ""
-            }
-          ]
+          "text": "Pick one narrow category first. Knowing it well makes it easier to spot normal prices, defects, fakes, recalls and stock that will not move."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Anything bought cheaply can be resold profitably.”",
-              "text": "A bargain without demand is inventory wearing a party hat. Profit depends on what actually sells, how quickly it sells and what the full transaction costs."
+              "text": "A bargain nobody wants is inventory wearing a party hat. Profit depends on what sells, how fast it sells and what the whole sale costs."
             }
           ]
         },
@@ -60,6 +35,12 @@
           "type": "source",
           "text": "CRA: Peer-to-peer sales and tax",
           "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/business-professional-income.html"
+        },
+        {
+          "type": "transition",
+          "text": "Testing a product before you buy in bulk keeps your savings out of boxes nobody wants.",
+          "detail": "Real sold prices, safety checks and every hidden cost decide whether a bargain is a business.",
+          "extra": "Section 02 starts with evidence instead of a shopping mood."
         }
       ]
     },
@@ -76,37 +57,37 @@
           "type": "cards",
           "items": [
             {
-              "title": "DEFINE THE BUYER",
-              "text": "Name the person, need and price range. A category such as tested entry-level kitchen appliances is easier to research than “things people might enjoy.”"
+              "title": "NAME THE BUYER",
+              "text": "Name the person, the need and the price range. “Tested entry-level kitchen appliances” is easier to research than “things people might enjoy.”"
             },
             {
-              "title": "STUDY COMPLETED DEMAND",
-              "text": "Compare recent sold results where available, not only asking prices. Note typical condition, selling time, delivery method and seasonal changes."
+              "title": "STUDY WHAT SOLD",
+              "text": "Compare recent sold prices where you can, not only asking prices. Note the usual condition, how long items took to sell, how they were delivered and seasonal changes."
             },
             {
-              "title": "VERIFY THE SOURCE",
-              "text": "Keep purchase records and check brands, model numbers, packaging and serial information. If authenticity is doubtful, do not advertise the item as genuine."
+              "title": "CHECK THE SOURCE",
+              "text": "Keep purchase records and check brands, model numbers, packaging and serial numbers. If you are not sure an item is genuine, do not advertise it as genuine."
             },
             {
               "title": "CHECK SAFETY",
-              "text": "Search Health Canada recalls and current product requirements. Used products are still consumer products; a recalled or dangerous item does not become safe because it has a charming vintage description."
+              "text": "Search Health Canada recalls and current product rules. Used products are still consumer products. A recalled or dangerous item does not become safe because it has a charming vintage description."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Health Canada’s consumer-product rules can apply to used goods. Never sell a recalled product unless the corrective action has been completed and resale is permitted."
+          "text": "Health Canada’s consumer product rules can apply to used goods. Never sell a recalled product unless the fix has been done and resale is allowed."
         },
         {
           "type": "spotlight",
-          "text": "Counterfeit goods can create legal, safety and refund problems. A low price and a heroic story about a cousin’s warehouse are not proof of authenticity."
+          "text": "Fake goods can cause legal, safety and refund problems. A low price and a heroic story about a cousin’s warehouse are not proof that something is genuine."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If another seller lists it for $100, mine is worth $100.”",
-              "text": "A listing shows an invitation, not a completed sale. Compare actual sold evidence, condition and time-to-sale before choosing a price."
+              "text": "A listing is an invitation, not a sale. Compare real sold prices, condition and how long items took to sell before you choose your price."
             }
           ]
         },
@@ -124,55 +105,84 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Estimate unit profit by starting with the expected selling price, then subtract purchase cost, platform and payment fees, cleaning or repair, packaging, shipping or delivery, advertising and a reasonable allowance for returns or losses."
+          "text": "To find profit per item, start with the price you expect to sell at. Then subtract what you paid, platform and payment fees, cleaning or repair, packaging, shipping or delivery, ads and a fair allowance for returns or losses."
         },
         {
           "type": "ordered",
           "items": [
             {
-              "title": "S",
-              "text": "e"
+              "title": "Start from the sold price",
+              "text": "Use a cautious price from recent sales of the same item in the same condition, not the highest listing you can find."
             },
             {
-              "title": "T",
-              "text": "e"
+              "title": "Take off every cost",
+              "text": "Subtract fees, shipping, packaging, cleaning, repairs, ads and an allowance for returns."
             },
             {
-              "title": "W",
-              "text": "r"
+              "title": "Work out profit per item",
+              "text": "What is left is your profit per item. Divide it by the hours you spent to see what you earn per hour."
             },
             {
-              "title": "D",
-              "text": "e"
+              "title": "Decide your maximum buy price",
+              "text": "Work backward from your target profit to the most you will pay. Write it down before you shop."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Revenue is the money received; profit is what remains after costs. Your bank balance may look enthusiastic before fees, inventory and tax have had their turn."
+          "text": "Revenue is the money you take in. Profit is what is left after costs. Your bank balance may look enthusiastic before fees, inventory and tax have had their turn."
         },
         {
           "type": "spotlight",
-          "text": "Inventory records support cost-of-goods-sold calculations. Track the item, purchase date, source, cost, sale date, selling price and related expenses."
+          "text": "Inventory records help you work out the cost of what you sold. Track the item, the date you bought it, where from, the cost, the date you sold it, the price and related costs."
+        },
+        {
+          "type": "spotlight",
+          "text": "Selling your own used things, like an old couch or last year’s skates, is generally not taxable, especially when you sell for less than you paid. Buying items so you can sell them for a profit is a business, and that profit is taxable income. Some online marketplaces now also report seller names and sales totals to the CRA each year, unless you made fewer than 30 sales totalling $2,800 or less on that platform."
+        },
+        {
+          "type": "heading",
+          "text": "Tax basics for your first year"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "REPORT IT",
+              "text": "Business income goes on Form T2125 with your personal tax return, whether clients pay by cash, cheque or e-transfer."
+            },
+            {
+              "title": "PAY BOTH HALVES OF CPP",
+              "text": "Self-employed people pay the worker and employer shares of CPP, 11.9% of net business income above the basic amount, on Schedule 8 of the return."
+            },
+            {
+              "title": "SET MONEY ASIDE",
+              "text": "Nobody takes tax off your pay. Move a share of every payment into a separate account. If you owe more than $3,000 ($1,800 in Quebec) this year and in either of the last two years, the CRA will ask for quarterly instalments."
+            },
+            {
+              "title": "KEEP RECORDS SIX YEARS",
+              "text": "Keep invoices, receipts, mileage and bank records for six years from the end of the tax year they belong to."
+            }
+          ]
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Small online sales do not need to be reported.”",
-              "text": "CRA says income earned from peer-to-peer sales must be reported. Use Form T2125 for self-employment business income and keep supporting records."
+              "text": "The CRA says income from selling through online platforms must be reported. Use Form T2125 for business income and keep your records."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Key takeaway: A repeatable resale business begins only after demand, legitimacy, safety and full unit economics are verified. Test small, record actual results and reorder from evidence—not excitement."
+          "text": "Key takeaway: a repeatable resale business starts only after you check demand, legitimacy, safety and every cost per item. Test small, record real results and reorder based on evidence, not excitement."
         }
       ]
     },
     {
       "id": "story",
-      "title": "Priya's Thirty-Tumbler Test",
+      "title": "Priya’s Thirty-Tumbler Test",
       "paragraphs": [],
       "blocks": [
         {
@@ -181,15 +191,18 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Priya Desai saw insulated tumblers listed for $38 and bought 30 at $19 each. By Tuesday, the boxes had formed a small municipal council in her hallway. Her spreadsheet, unfortunately, had only two columns: “cost” and “future riches.”",
-            "The conflict appeared after her first sales. Payment fees, packaging and delivery reduced the margin; two lids leaked; and the $38 competitors were mostly asking prices, not sold prices. Priya also lacked clear supplier documents for the brand claim.",
-            "She paused the listings, refunded the affected customers and verified the product source and safety. For her next category, she bought six unbranded desk organizers, calculated every cost, set a 30-day stop rule and recorded actual selling time. Four sold at the target margin, so she reordered ten—not 100.",
-            "Priya did not abandon reselling. She replaced warehouse optimism with a controlled experiment, and her hallway returned to civilian government."
+            "Priya Desai wants to earn an extra $500 a month to pay down her credit card. She sees insulated tumblers listed online for $38 and buys 30 at $19 each. By Tuesday, the boxes have formed a small municipal council in her hallway.",
+            "Her spreadsheet has two columns: “cost” and “future riches.” The first sales come in, and the riches shrink. Payment fees, packaging and delivery eat most of the margin. Two lids leak.",
+            "Then she looks closer at the competition. The $38 tumblers were asking prices, not sold prices. Most sold for $26. She also has no paperwork showing the brand is real.",
+            "Priya could keep selling and hope the next batch is better. Instead, she decides to stop. She pauses the listings, refunds the two customers with leaky lids and writes down what the tumblers cost her.",
+            "For her next try, she buys just six plain desk organizers. She works out every cost first, sets a 30-day stop rule and tracks how long each one takes to sell.",
+            "Four sell at her target margin within three weeks. She reorders ten, not 100. Two months later, she is making about $300 a month, slower than she hoped, but real.",
+            "Priya did not give up on reselling. She swapped warehouse optimism for a small, careful test, and her hallway returned to civilian government."
           ]
         },
         {
           "type": "spotlight",
-          "text": "A test batch answers three questions cheaply: will it sell, at what true profit and with what problems? Reordering is earned by results."
+          "text": "A test batch answers three questions cheaply: will it sell, at what real profit, and with what problems? A bigger order is earned by results."
         },
         {
           "type": "heading",
@@ -197,7 +210,13 @@
         },
         {
           "type": "paragraph",
-          "text": "A hopeful bulk order became a disciplined test batch once the real costs and sold evidence were checked."
+          "text": "A hopeful bulk order became a careful test batch once she checked the real costs and real sold prices."
+        },
+        {
+          "type": "transition",
+          "text": "Priya turned a hallway of unsold tumblers into steady monthly profit by testing small first.",
+          "detail": "A six-item test with a stop rule can protect your own savings before you scale up.",
+          "extra": "The quick check in Section 05 tests whether you can spot the next move."
         }
       ]
     },
@@ -210,28 +229,28 @@
           "type": "accordions",
           "items": [
             {
-              "title": "Why should a reseller study sold results instead of asking prices?",
-              "detail": "A listing price is only an invitation to buy; sold results show what buyers actually paid, in what condition and how quickly.",
+              "title": "Why study sold prices instead of asking prices?",
+              "detail": "An asking price is only an invitation. Sold prices show what buyers paid, in what condition and how fast.",
               "text": ""
             },
             {
-              "title": "Which costs belong in a true unit-profit calculation?",
-              "detail": "Purchase cost, platform and payment fees, cleaning or repair, packaging, shipping or delivery, advertising and a reasonable allowance for returns or losses.",
+              "title": "Which costs belong in your profit per item?",
+              "detail": "What you paid, platform and payment fees, cleaning or repair, packaging, shipping or delivery, ads and an allowance for returns or losses.",
               "text": ""
             },
             {
-              "title": "What should happen before a used product is offered for sale?",
-              "detail": "Its safety, recall status and authenticity should be checked—a recalled or dangerous item is not safe simply because it looks vintage.",
+              "title": "What should happen before you list a used product?",
+              "detail": "Check its safety, its recall status and whether it is genuine. A recalled or dangerous item is not safe just because it looks vintage.",
               "text": ""
             },
             {
-              "title": "Why does a small test batch reduce risk?",
-              "detail": "It answers whether the product will sell, at what true profit and with what problems, before committing to a larger order.",
+              "title": "Why does a small test batch lower your risk?",
+              "detail": "It shows whether the product will sell, at what real profit and with what problems, before you commit to a large order.",
               "text": ""
             },
             {
-              "title": "When can GST/HST registration become required?",
-              "detail": "Generally after taxable supplies exceed $30,000 in one calendar quarter or across four consecutive calendar quarters.",
+              "title": "When might you have to register for GST/HST?",
+              "detail": "Generally once your taxable sales pass $30,000 in one calendar quarter or over four quarters in a row.",
               "text": ""
             }
           ]
@@ -240,19 +259,19 @@
     },
     {
       "id": "action",
-      "title": "Your Action: Complete Your Product-to-Profit Test Card",
+      "title": "Your Action (Fill Out Form): Product-to-Profit Test Card",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use general product descriptions and rounded figures on this worksheet."
+          "text": "Use general product descriptions and rounded numbers."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "GST/HST registration is generally required after taxable supplies exceed $30,000 in one calendar quarter or over four consecutive calendar quarters. Confirm timing and what counts for your business."
+          "text": "You generally have to register for GST/HST once your taxable sales pass $30,000 in one calendar quarter or over four quarters in a row. Check the timing and what counts for your business."
         }
       ]
     },
@@ -266,7 +285,7 @@
           "items": [
             {
               "title": "Cost of goods sold",
-              "text": "Inventory cost connected with products sold during the period."
+              "text": "The cost of the inventory you sold in a period."
             },
             {
               "title": "Gross revenue",
@@ -274,23 +293,23 @@
             },
             {
               "title": "Unit profit",
-              "text": "Expected sale price minus all costs attached to one item."
+              "text": "The expected sale price minus every cost for one item."
             },
             {
               "title": "Sell-through",
-              "text": "Share of available inventory sold during a period."
+              "text": "The share of your stock that sold in a period."
             },
             {
               "title": "Test batch",
-              "text": "Small first order used to measure real demand and problems."
+              "text": "A small first order to measure real demand and problems."
             },
             {
               "title": "Recall",
-              "text": "Official action concerning a product with a safety issue."
+              "text": "Official action about a product with a safety problem."
             },
             {
               "title": "Counterfeit",
-              "text": "Unauthorized imitation presented as a genuine product."
+              "text": "A fake copy sold as the real product."
             }
           ]
         }
@@ -307,24 +326,20 @@
   },
   "checkIn": {
     "questions": [
-      "My narrow category, buyer and problem solved are:",
-      "My sold-price, selling-time and seasonality evidence are:",
-      "My source, receipt, authenticity and supplier checks are:",
-      "My safety, recall, condition and prohibited-product checks are:",
-      "My expected price and full unit costs are:",
-      "My target profit, maximum buy cost and minimum acceptable margin are:",
-      "My test-batch size, measures, review date and stop rule are:",
-      "My inventory, income, tax, permit and GST/HST review process is:"
+      "Which narrow product category will you test, and who is the buyer?",
+      "What did similar items actually sell for, and how long did they take to sell?",
+      "How will you check that the product is genuine, safe and not recalled?",
+      "What is your expected selling price, and what are all your costs per item?",
+      "What is the most you will pay per item, and what profit per item do you need?",
+      "How many will you buy for your test, and what is your stop rule?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Plain desk organizers for home offices.",
+      "About $24, usually within two weeks.",
+      "Buy from a supplier with an invoice and search Health Canada recalls.",
+      "$24. Costs: $9 item, $3 fees, $4 shipping, $1 packaging.",
+      "$9 per item, for at least $6 profit each.",
+      "Six. If fewer than four sell in 30 days, I stop."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

@@ -15,29 +15,10 @@
           "text": "An online store is a shop that never closes and never sleeps. That sounds wonderful until a customer emails at 3:07 a.m. about a parcel that is still “in transit.” This module shows you how to build a shop that runs smoothly, treats buyers fairly, and keeps you on the right side of Canadian rules."
         },
         {
-          "type": "heading",
-          "text": "What you’ll learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "How an online shop works, and the main ways to stock one",
-              "text": ""
-            },
-            {
-              "title": "Which costs beyond the product itself can eat your profit",
-              "text": ""
-            },
-            {
-              "title": "How to price honestly and design a clear checkout",
-              "text": ""
-            },
-            {
-              "title": "What privacy, email, and tax rules mean for a small Canadian shop",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "See the whole shop before you spend a dollar on it.",
+          "detail": "A one-page cost sketch shows whether your idea can still make money after fees, shipping, and returns.",
+          "extra": "The checkout checklist in Section 04 is a good place to start."
         }
       ]
     },
@@ -48,7 +29,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Ecommerce simply means selling goods online. You handle five things, which are the product, the store, the payment, the shipping, and the customer service. Every shop, from a tiny candle seller to a national chain, has to cover the same five jobs."
+          "text": "Ecommerce means selling goods online. You handle five things: the product, the store, the payment, the shipping and the customer service. Every shop, from a tiny candle seller to a national chain, has to cover the same five jobs."
         },
         {
           "type": "paragraph",
@@ -57,12 +38,6 @@
         {
           "type": "paragraph",
           "text": "Each method trades control for convenience. Making things gives you the most control but takes the most time, while dropshipping needs the least upfront money but gives you the least say over speed and quality."
-        },
-        {
-          "type": "transition",
-          "text": "See the whole shop before you spend a dollar on it.",
-          "detail": "A one-page cost sketch shows whether your idea can still make money after fees, shipping, and returns.",
-          "extra": "The checkout checklist in Section 04 is a good place to start."
         }
       ]
     },
@@ -128,6 +103,10 @@
         {
           "type": "spotlight",
           "text": "Say “no” to false urgency. Honest delivery promises build repeat customers. If your supplier ships from abroad, tell buyers the real timeline instead of promising a two-day delivery that you cannot control."
+        },
+        {
+          "type": "spotlight",
+          "text": "Selling to customers in Quebec? Quebec’s Charter of the French Language requires product labels, catalogues and commercial websites aimed at Quebec customers to be available in French. Check the Office québécois de la langue française before you launch there."
         },
         {
           "type": "myths",
@@ -224,6 +203,10 @@
         },
         {
           "type": "spotlight",
+          "text": "If you sell through an online marketplace, it may report your name and yearly sales to the CRA. The exception is sellers with fewer than 30 sales totalling $2,800 or less on that platform. Your own records should match what the platform reports."
+        },
+        {
+          "type": "spotlight",
           "text": "Insider tip: Before launch, buy your own product and time how long it takes to arrive. Then promise a delivery date that is one day later than the real one, so that you can delight people instead of apologizing."
         }
       ]
@@ -295,7 +278,7 @@
     },
     {
       "id": "action",
-      "title": "Your Action",
+      "title": "Your Action (Fill Out Form): Your Shop Setup Check",
       "paragraphs": [],
       "blocks": [
         {
@@ -339,7 +322,7 @@
         },
         {
           "type": "transition",
-          "text": "Next up: Module 3.5: AI-Assisted Businesses.",
+          "text": "Next up: AI-Assisted Businesses.",
           "detail": "You now know how a shop is built and protected. Next, you will learn how to use AI tools to work faster without giving up your judgement."
         },
         {
@@ -386,16 +369,20 @@
   },
   "checkIn": {
     "questions": [
-      "What would you sell, in a few words?",
-      "How would products reach your buyers?",
-      "Do you know every fee a buyer would pay at checkout?",
-      "How would you ask for email permission?"
+      "What will you sell, in a few words? One product line is enough.",
+      "How will products reach your buyers? (I ship them / A supplier ships them / Not sure)",
+      "List every fee a buyer pays at checkout. Is each mandatory fee in your advertised price?",
+      "What will your sign-up form say, and is the box unticked?",
+      "What personal information will you collect, and why do you need each piece?",
+      "Will you sell to customers in Quebec? (Yes / No / Not sure) If yes, is your site and labelling ready in French?"
     ],
     "samples": [
-      "Keep it simple. One product line is enough.",
-      "I ship them, a supplier ships them, or not sure.",
-      "Yes, no, or not sure. Think about shipping, handling, and taxes.",
-      "An unticked box, I will not email, or not sure yet."
+      "Hand-poured soy candles.",
+      "I ship them.",
+      "Shipping is shown before checkout. No handling fee. Sales tax is added at checkout.",
+      "“Yes, send me new scents and offers by email.” The box starts unticked.",
+      "Name, address and email to ship the order. Nothing else.",
+      "Yes. My site and labels are in French and English."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

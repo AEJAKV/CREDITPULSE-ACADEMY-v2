@@ -15,29 +15,10 @@
           "text": "Print on demand lets you put your design on a mug, a T-shirt, or a tote bag. A printing partner makes and ships each item only after someone buys it, so you never hold stock. You also never see the parcel, which means that every “where is my order?” email lands in your inbox instead of theirs."
         },
         {
-          "type": "heading",
-          "text": "What you’ll learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "How print on demand works and who does which job",
-              "text": ""
-            },
-            {
-              "title": "How to use designs that you truly have the right to sell",
-              "text": ""
-            },
-            {
-              "title": "How to work out your real profit after fees and shipping",
-              "text": ""
-            },
-            {
-              "title": "What customs, taxes, and honest pricing mean for Canadian buyers",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Knowing your real profit before you list a design keeps every sale worth making.",
+          "detail": "A quick margin check and a clear shipping promise protect you from selling a product that quietly costs you money.",
+          "extra": "Section 04 includes a checklist that you can run on every new design."
         }
       ]
     },
@@ -57,12 +38,6 @@
         {
           "type": "paragraph",
           "text": "Here is a simple example. Suppose you sell a T-shirt for $30, and the printer charges $15 to make it. Payment fees take about $1, and shipping is charged separately to the buyer, so you keep about $14. Your real numbers will differ, which is why the margin check matters."
-        },
-        {
-          "type": "transition",
-          "text": "Know your real profit before you list a single design.",
-          "detail": "A quick margin check and a clear shipping promise protect you from selling a product that quietly costs you money.",
-          "extra": "Section 04 includes a checklist that you can run on every new design."
         }
       ]
     },
@@ -103,7 +78,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Show the price a buyer will actually pay. Since June 23, 2022, the Competition Act has treated drip pricing as a harmful practice, meaning an advertised price that leaves out mandatory fixed fees. Only government charges, such as sales tax, can be added later. In 2024, Cineplex was ordered to pay $38.9 million over a $1.50 online booking fee, and the company appealed the decision."
+          "text": "Show the price a buyer will pay. Since June 23, 2022, the Competition Act has treated drip pricing as a harmful practice, meaning an advertised price that leaves out mandatory fixed fees. Only government charges, such as sales tax, can be added later. In 2024, Cineplex was ordered to pay $38.9 million over a $1.50 online booking fee, and the company appealed the decision."
         }
       ]
     },
@@ -119,9 +94,9 @@
           "extra": "",
           "paragraphs": [
             "Tomás Rivera drove a city bus in Kelowna, and on his breaks he drew birds. His goal was to replace his drawing tablet, which had a cracked corner and a pen that drifted. A new one cost about $600, and he did not want to use the grocery money.",
-            "A coworker admired his sketches and asked for a shirt. So Tomás opened a print on demand shop with twelve bird designs. He chose a printer in the United States because it was $3 cheaper per shirt.",
+            "A coworker admired his sketches and asked for a shirt. Tomás opened a print on demand shop with twelve bird designs. He chose a printer in the United States because it was $3 cheaper per shirt.",
             "The first orders arrived, and he was thrilled. Then the emails started. Buyers in Canada had been charged fees at the door, and they were not happy. Two asked for refunds, and one left a one-star review that read, “Nobody told me about the extra charges.”",
-            "Tomás faced a choice. He could keep the cheaper printer and hope people read the fine print, or he could switch Canadian orders to a Canadian printer that cost $3 more per shirt. He did the maths on his break. The extra cost was small next to refunds and angry reviews. So he switched, raised his prices a little, and put the full price and shipping time on every product page.",
+            "Tomás faced a choice. He could keep the cheaper printer and hope people read the fine print, or he could switch Canadian orders to a Canadian printer that cost $3 more per shirt. He did the maths on his break. The extra cost was small next to refunds and angry reviews. He switched, raised his prices a little, and put the full price and shipping time on every product page.",
             "Sales rose, because “no border fees” became his best selling point. Then came a twist. A message arrived from a sports team’s lawyers. One of his bird designs looked too much like the team’s logo. He had never meant to copy it, but the resemblance was clear. He removed the design that day and drew a new bird from scratch.",
             "By spring Tomás had paid for his new tablet, with a little left over. The old one sat in a drawer, cracked corner and all, as a reminder to check the details before he clicked publish."
           ]
@@ -129,7 +104,7 @@
         {
           "type": "transition",
           "text": "A clear price and an original design protect both your profit and your shop.",
-          "detail": "When buyers know the full cost and your art is truly yours, you spend your time selling instead of fixing problems.",
+          "detail": "When buyers know the full cost and your art is your own, you spend your time selling instead of fixing problems.",
           "extra": "Section 04 gives you a six-step checklist and a provincial sales tax guide."
         }
       ]
@@ -211,6 +186,10 @@
         },
         {
           "type": "spotlight",
+          "text": "If you sell through an online marketplace, it may report your name and yearly sales to the CRA. The exception is sellers with fewer than 30 sales totalling $2,800 or less on that platform. Your own records should match what the platform reports."
+        },
+        {
+          "type": "spotlight",
           "text": "Check the font licence. Many free fonts allow personal use only. Before you print words on products that you sell, confirm that the licence allows commercial use."
         },
         {
@@ -286,7 +265,7 @@
     },
     {
       "id": "action",
-      "title": "Your Action",
+      "title": "Your Action (Fill Out Form): Your First Print-on-Demand Product",
       "paragraphs": [],
       "blocks": [
         {
@@ -330,7 +309,7 @@
         },
         {
           "type": "transition",
-          "text": "Next up: Module 3.4: Ecommerce.",
+          "text": "Next up: Ecommerce.",
           "detail": "You have launched products without stock. Next, you will look at the whole online shop, including checkout, privacy, and email rules."
         },
         {
@@ -367,16 +346,20 @@
   },
   "checkIn": {
     "questions": [
-      "What would your first design be about?",
-      "Where would your first printer ship from?",
-      "Do you own or have a licence for every image, font, and phrase you plan to use?",
-      "Estimate your profit on one item."
+      "What would your first design be about, and who would buy it?",
+      "Do you own or have a licence for every image, font and phrase on it? (Yes, all / Some / Not sure) If you used a free font, check that it allows commercial use.",
+      "Where would your printer ship from? (Canada / United States / Not sure)",
+      "What is your selling price, the printer’s base cost and the fees? Work out your profit on one item.",
+      "Will you order a sample before you sell? (Yes / No / Not sure)",
+      "What will your product page say about the full price, shipping time and returns?"
     ],
     "samples": [
-      "A few words is fine.",
-      "Canada, the United States, or not sure.",
-      "Yes, all of them, some of them, or not sure. If you used a free font, check that it allows commercial use.",
-      "Selling price minus printer cost minus fees. A rough number is fine."
+      "A hand-drawn loon on a tote bag, for cottage and canoe lovers.",
+      "Yes, all. My own drawing and a font licensed for commercial use.",
+      "Canada.",
+      "$32 price, $16 base cost, $1.50 fees. About $14.50 profit.",
+      "Yes.",
+      "$32 plus shipping shown before checkout, 7 to 10 business days, returns for print errors."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

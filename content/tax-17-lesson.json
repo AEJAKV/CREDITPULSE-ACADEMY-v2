@@ -12,53 +12,30 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "An estate plan is the paperwork that lets other people act when you can't — while you're alive and unable to manage things, and after you're gone. It isn't about controlling every last detail. It's about cutting down on confusion, delay, arguments and unnecessary cost for whoever gets left holding the job."
+          "text": "An estate plan is the paperwork that lets other people act for you when you can’t: while you’re alive but unable to manage, and after you’re gone. It isn’t about controlling every last detail. It’s about cutting confusion, delay, arguments and needless cost for whoever is left holding the job."
         },
         {
           "type": "paragraph",
-          "text": "Paperwork has terrible timing. It shows up exactly when nobody wants to deal with it. A clear plan means your family spends less time hunting for account numbers and more time handling what actually matters."
+          "text": "Paperwork has terrible timing. It shows up just when nobody wants to deal with it. A clear plan means your family spends less time hunting for account numbers and more time on what matters."
         },
         {
           "type": "paragraph",
-          "text": "This topic deserves care, so we'll keep the language plain. Estate law runs by province and territory, and your own circumstances can change the outcome — treat this as a starting point, and use a lawyer or notary qualified where you live for personal advice and document preparation."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Explain the jobs of a will, an executor or liquidator, and incapacity documents.",
-              "text": ""
-            },
-            {
-              "title": "Tell a beneficiary apart from an estate representative.",
-              "text": ""
-            },
-            {
-              "title": "Identify which accounts need a beneficiary or successor review.",
-              "text": ""
-            },
-            {
-              "title": "Spot common conflicts between account forms and a will.",
-              "text": ""
-            },
-            {
-              "title": "Build an organized estate information file.",
-              "text": ""
-            },
-            {
-              "title": "Recognize which questions actually need provincial legal advice.",
-              "text": ""
-            }
-          ]
+          "text": "This topic deserves care, so we’ll keep the language plain. Estate law is set by each province and territory, and your own situation can change the outcome. Treat this as a starting point, and use a lawyer or notary where you live for personal advice and documents."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A will keeps my estate out of probate entirely.”",
-              "text": "A will names your instructions and your representative — it doesn't guarantee a court will skip its confirmation step. Probate can still apply depending on the property, the institution and where you live."
+              "text": "A will sets out your wishes and names who will carry them out, but it doesn’t promise a court will skip its approval step. Probate can still apply, depending on the property, the bank and where you live."
             }
           ]
+        },
+        {
+          "type": "transition",
+          "text": "Spare the people you love a paperwork mess at the hardest time of their lives.",
+          "detail": "A few documents that agree with each other can save your family months of delay, cost and conflict.",
+          "extra": "Section 04 shows the account forms that a will can’t reach."
         }
       ]
     },
@@ -69,29 +46,29 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A will matters, but it's only one piece of a bigger machine. A complete basic system is really nine smaller jobs working together."
+          "text": "A will matters, but it’s one piece of a bigger machine. A complete basic plan is nine smaller jobs working together."
         },
         {
           "type": "chips",
           "items": [
             {
-              "title": "A valid will, prepared and signed under the law that applies where you live.",
+              "title": "A valid will, made and signed under the law where you live.",
               "text": ""
             },
             {
-              "title": "An estate representative — an executor, estate trustee, personal representative or liquidator.",
+              "title": "An estate representative: an executor, estate trustee, personal representative or, in Quebec, a liquidator.",
               "text": ""
             },
             {
-              "title": "Incapacity documents that work while you're still alive.",
+              "title": "Incapacity documents that work while you’re still alive.",
               "text": ""
             },
             {
-              "title": "Beneficiary or successor instructions, kept current on every account where the law allows them.",
+              "title": "Beneficiary or successor instructions, kept up to date on every account that allows them.",
               "text": ""
             },
             {
-              "title": "A plain-language inventory of your assets and debts.",
+              "title": "A plain-language list of what you own and what you owe.",
               "text": ""
             },
             {
@@ -99,7 +76,7 @@
               "text": ""
             },
             {
-              "title": "Guardianship or tutorship planning, where minor children are involved.",
+              "title": "A guardianship plan if you have children under 18.",
               "text": ""
             },
             {
@@ -107,29 +84,29 @@
               "text": ""
             },
             {
-              "title": "A secure location the right people can actually find.",
+              "title": "A safe place the right people can find.",
               "text": ""
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Each piece runs on a different timeline. A will generally kicks in after death. A power of attorney — whatever your province calls it — works while you're alive, under its own rules, and that authority ends the moment you die. From there, the estate representative's job takes over."
+          "text": "Each piece works on a different timeline. A will takes effect after death. A power of attorney, whatever your province calls it, works while you’re alive, under its own rules, and ends the moment you die. From there, the estate representative takes over."
         },
         {
           "type": "spotlight",
-          "text": "Naming the same trusted person for every role isn't automatically simplest — financial decisions, health decisions, child care and estate administration all call for different skills."
+          "text": "Naming the same trusted person for every role isn’t always simplest. Money decisions, health decisions, child care and running an estate each call for different skills."
         },
         {
           "type": "paragraph",
-          "text": "The plan should also note what skips the estate altogether. Joint ownership, insurance, pensions, trusts and valid beneficiary designations can all move property a different way — the details depend on the asset, the contract and your province."
+          "text": "The plan should also note what skips the estate altogether. Joint ownership, insurance, pensions, trusts and valid beneficiary forms can all pass property in a different way. The details depend on the asset, the contract and your province."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Adding my adult kid as joint owner is basically the same as estate planning.”",
-              "text": "Joint ownership can trigger its own tax, creditor, control and family complications. What it actually does often depends on the intention behind it and your province's law — get advice before changing ownership."
+              "text": "Joint ownership can bring its own tax, creditor, control and family problems. What it does often depends on why it was set up and on your province’s law. Get advice before you change who owns something."
             }
           ]
         }
@@ -145,38 +122,38 @@
           "items": [
             {
               "title": "WHAT A WILL CAN DO",
-              "text": "A will can say who gets what, name the person responsible for running the estate, set up trusts, and give instructions for beneficiaries who are still minors. It can share wishes about guardianship too, though a court usually keeps the final say when a child is involved."
+              "text": "A will can say who gets what, name the person who runs the estate, set up trusts and give instructions for beneficiaries under 18. It can also share your wishes about who should raise your children, though a court usually has the final say."
             },
             {
               "title": "WHAT A WILL DOESN'T CONTROL",
-              "text": "Insurance policies, pensions, registered accounts and other contracts can carry their own valid designations that route money outside the estate. Jointly owned property can follow its own path as well. A will simply doesn't reach everything."
+              "text": "Insurance policies, pensions, registered accounts and other contracts can name their own beneficiaries and send money around the estate. Property owned jointly can follow its own path too. A will doesn’t reach everything."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Die without a valid will — \"dying intestate\" — and provincial or territorial law decides who administers the estate and how it's split. Those default rules don't know your actual relationships. An unmarried partner, a stepchild, a close friend or a favourite charity can walk away with nothing unless a valid document says otherwise."
+          "text": "If you die without a valid will, called “dying intestate,” provincial or territorial law decides who runs the estate and how it’s split. Those default rules don’t know your real relationships. An unmarried partner, a stepchild, a close friend or a favourite charity can end up with nothing unless a valid document says otherwise."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“The oldest child should automatically be the executor.”",
-              "text": "Age isn't a job qualification. Pick the person based on ability, availability, trust, location and how the family actually gets along."
+              "text": "Age isn’t a job qualification. Choose based on ability, time, trust, where the person lives and how the family gets along."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "The person who settles an estate goes by different names — executor, estate trustee, administrator, personal representative, or in Quebec, liquidator. The job covers finding the will, tracking down property and debts, protecting assets, notifying institutions, filing tax returns, paying real obligations, keeping records, talking to beneficiaries, and distributing what's left."
+          "text": "The person who settles an estate goes by different names: executor, estate trustee, administrator or, in Quebec, liquidator. The job means finding the will, tracking down property and debts, protecting assets, telling banks and agencies, filing tax returns, paying real debts, keeping records, talking with beneficiaries and handing out what’s left. It can take a year or more."
         },
         {
           "type": "paragraph",
-          "text": "Look for someone organized, trustworthy, comfortable asking for professional help, and able to handle conflict. Talk to them before you name them, and name a backup in case the first choice can't do it. Being good at family dinners is not proof of being good at estate accounting — use the actual job description."
+          "text": "Look for someone organized, trustworthy, willing to ask for professional help and able to handle conflict. Talk to them before you name them, and name a backup in case your first choice can’t do it. Being great at family dinners isn’t proof of being great at estate paperwork, so use the real job description."
         },
         {
           "type": "spotlight",
-          "text": "An executor can also be a beneficiary — that's fine, but they still need to keep their personal interest separate from their duties, with careful records."
+          "text": "An executor can also be a beneficiary. That’s fine, but they must keep their own interest separate from their duties, with careful records."
         }
       ]
     },
@@ -187,35 +164,35 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A beneficiary is whoever is meant to receive the money or property — not automatically the executor, and an executor isn't automatically an heir. These instructions can live on life insurance, TFSAs, RRSPs, RRIFs, pensions and annuities, and what they actually do depends on the plan and your province. Trust the record the institution has on file, not a note in a personal folder."
+          "text": "A beneficiary is whoever is meant to receive the money or property. A beneficiary isn’t automatically the executor, and an executor isn’t automatically an heir. Beneficiary instructions can sit on life insurance, TFSAs, RRSPs, RRIFs, pensions and annuities, and what they do depends on the plan and your province. Trust the record the institution has on file, not a note in a personal folder."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "TFSA: SUCCESSOR HOLDER VS. BENEFICIARY",
-              "text": "Where it's allowed, a spouse or common-law partner can be named successor holder — they become the new account holder, and the TFSA keeps its tax-free status. A beneficiary instead receives proceeds, not the account, and tax can apply to income earned after death. Quebec doesn't recognize TFSA successor-holder designations, so Quebec residents need advice on using a will instead."
+              "text": "Where it’s allowed, a spouse or common-law partner can be named successor holder. They take over the account, and the TFSA keeps its tax-free status. A beneficiary gets the money instead of the account, and growth after death can be taxed. In Quebec, you can’t name a successor holder or beneficiary on the TFSA form itself, so it has to be done in your will."
             },
             {
               "title": "RRSP AND RRIF DESIGNATIONS",
-              "text": "The usual rule pulls the full value of an RRSP or RRIF into the deceased's income right before death. Rollovers may be available for a spouse, common-law partner, or a financially dependent child or grandchild — but the conditions, forms and deadlines all matter. Naming a beneficiary doesn't make that tax bill disappear; the person who gets the account and the estate that pays the tax may not be the same person."
+              "text": "Under the usual rule, the full value of an RRSP or RRIF is added to the person’s income in the year they die. A tax-free rollover may be possible to a spouse or common-law partner, or to a financially dependent child or grandchild, but the conditions, forms and deadlines matter. Naming a beneficiary doesn’t make that tax disappear. The person who gets the account and the estate that pays the tax may not be the same."
             },
             {
               "title": "PENSIONS AND LIFE INSURANCE",
-              "text": "Workplace pensions can include survivor benefits under their own rules. A form signed years ago might not reflect a relationship that has since changed. Life insurance can carry both primary and contingent beneficiaries — ask the insurer or plan administrator to confirm, in writing, what's currently on file."
+              "text": "Workplace pensions can include survivor benefits under their own rules. A form signed years ago might not reflect a relationship that has since changed. Life insurance can have both a first and a backup beneficiary. Ask the insurer or plan administrator to confirm, in writing, what’s on file."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Divorce, separation, marriage or a new will do not automatically update every beneficiary form. Check each account directly after any major life event."
+          "text": "A new will, a wedding or a divorce doesn’t change your account forms on its own. Check each one after any big life event."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A new will automatically updates every account.”",
-              "text": "Account contracts and direct designations can run on their own track, separate from the will. Review both together, account by account."
+              "text": "Account contracts and beneficiary forms can run on their own track, separate from the will. Review both together, account by account."
             }
           ]
         }
@@ -228,23 +205,23 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Priya",
+          "text": "Priya makes the records agree",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Priya owns a home, has a workplace pension, one RRSP, two TFSAs at different banks, and a life insurance policy. Her will names her sister Meena as executor and splits the estate between her two adult kids.",
-            "During an annual check, Priya asks every institution to confirm what's actually on file. One TFSA still lists a former partner. Her pension has no alternate contact. The life insurance form names only one child.",
-            "She doesn't rush to fix anything online. She brings her statements, her will and her family's goals to an estate lawyer and a tax professional, who explain which forms she can update directly, which instructions belong in the will, and how tax on the registered accounts could hit the estate.",
-            "Priya talks it through with Meena, names a backup executor, and builds a secure estate information file. Her kids don't get account balances or passwords — they get something more useful right now: who to call, and where the plan lives."
+            "Priya, 58, lived in Kamloops. She owned her home, had a workplace pension, an RRSP, two TFSAs at different banks and a life insurance policy. Her will named her sister Meena as executor and split everything between her two adult children, Arjun and Lena.",
+            "One January, after a friend’s family spent months untangling an estate, Priya decided to check her own. She called each bank and the insurer and asked them to confirm, in writing, who was named on each account.",
+            "The answers stopped her cold. One TFSA still named her former partner, from a relationship that ended twelve years earlier. Her pension had no survivor contact at all. And the life insurance named only Lena, because Arjun hadn’t been born when she signed the form.",
+            "Her first impulse was to log in that night and change everything online. Then she paused. A quick fix might clash with her will, or with the tax on her RRSP. She booked an estate lawyer and an accountant instead, and brought her statements, her will and a list of what she wanted for her children.",
+            "They showed her which forms she could update directly and which wishes belonged in her will. The accountant pointed out a surprise: if her RRSP went straight to Lena, the estate would still owe the tax on it, which would shrink Arjun’s share. Priya rebalanced her plan so both children would end up treated fairly.",
+            "Then she called Meena, named a backup executor and built a short estate file. She gave her children something more useful than balances or passwords: who to call, and where the plan lives. She set a reminder to check the forms every January, the same week she renews her car insurance."
           ]
         },
         {
-          "type": "heading",
-          "text": "What actually fixed things?"
-        },
-        {
-          "type": "paragraph",
-          "text": "A yearly check found the mismatches while Priya could still fix them. The improvement wasn't new money — it was coordinating what she already had."
+          "type": "transition",
+          "text": "One yearly check can catch the mistakes that would cost your family the most.",
+          "detail": "Making your will and your account forms agree, while you still can, turns good intentions into a plan that works.",
+          "extra": "Section 07 shows how to build your own estate file."
         }
       ]
     },
@@ -255,23 +232,23 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Estate planning usually gets attention after a health scare, but incapacity documents solve a different problem: they let someone else make specific decisions for you while you're still alive, if you can't."
+          "text": "People often think about estate plans after a health scare. Incapacity papers solve a different problem: they let someone make set choices for you while you’re alive but can’t make them yourself."
         },
         {
           "type": "paragraph",
-          "text": "The names change across the country. A financial version might be called an enduring power of attorney, a continuing power of attorney, a mandate, or another provincial term. A health or personal-care version might be a personal directive, a representation agreement, a power of attorney for personal care, an advance health care directive, or a protection mandate."
+          "text": "The names change across the country. The money version may be called a power of attorney for property, an enduring power of attorney or a mandate. The health version may be called a personal directive, a power of attorney for personal care or an advance directive."
         },
         {
           "type": "paragraph",
-          "text": "A basic power of attorney can stop working the moment someone becomes mentally incapable — an enduring or continuing version is built to keep working through incapacity, if it meets your province's requirements. Don't trust a downloaded form just because of its title. Confirm what it actually does, when it starts, and whether it survives incapacity where you live."
+          "text": "A basic power of attorney can stop working the moment someone loses mental capacity. An enduring or continuing version is built to keep working through incapacity, if it meets your province’s rules. Don’t trust a downloaded form just because of its title. Check what it does, when it starts and whether it lasts through incapacity where you live."
         },
         {
           "type": "paragraph",
-          "text": "Pick decision-makers with the same care you'd use for an executor. Whoever handles finances should understand record-keeping and conflicts of interest. Whoever handles health or personal care should understand your values and be able to speak up under pressure. Talk to them before signing, give them what they need to act, and keep the sensitive records protected."
+          "text": "Choose decision-makers with the same care you’d use for an executor. Whoever handles money should understand record-keeping and conflicts of interest. Whoever handles health or personal care should know your values and be able to speak up under pressure. Talk to them before you sign, give them what they need to act and keep sensitive records protected."
         },
         {
           "type": "spotlight",
-          "text": "A power of attorney ends at death — it doesn't let anyone keep paying bills or handing out property as if they were the executor."
+          "text": "A power of attorney ends at death. It doesn’t let anyone keep paying bills or handing out property as if they were the executor."
         }
       ]
     },
@@ -282,36 +259,40 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "An estate file is a map, not a vault for every secret. It should tell your representative what exists, where the real records live, and who to call."
+          "text": "An estate file is a map, not a vault for every secret. It tells your representative what exists, where the real records are and who to call."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "IDENTITY & LEGAL DOCUMENTS",
-              "text": "Your full legal name, province or territory, marital status and key contacts. Note where the original will and incapacity documents actually sit, plus your lawyer or notary's contact info. Don't leave the only original will somewhere nobody can reach — a safe deposit box can be surprisingly hard to open quickly."
+              "text": "Your full legal name, province or territory, marital status and key contacts. Note where the original will and incapacity documents are, plus your lawyer’s or notary’s contact details. Don’t leave the only original will somewhere nobody can reach. A safe deposit box can be hard to open quickly."
             },
             {
               "title": "ASSETS & DEBTS",
-              "text": "Financial institutions, account types, the last four digits of account numbers, property addresses, pensions, insurance policies, business interests, loans, credit cards and anything valuable. Update it whenever an account opens, closes or moves."
+              "text": "Banks, account types, the last four digits of account numbers, property addresses, pensions, insurance policies, business interests, loans, credit cards and anything valuable. Update it whenever an account opens, closes or moves."
             },
             {
               "title": "DIGITAL & PASSWORDS",
-              "text": "Skip writing full passwords into the inventory. Use a reputable password manager with emergency access, or leave instructions your lawyer has approved. Note how to find online businesses, domains, subscriptions, loyalty points, cloud storage, crypto and social accounts."
+              "text": "Don’t write full passwords into the list. Use a trusted password manager with emergency access, or leave instructions your lawyer has approved. Note how to find online businesses, websites, subscriptions, loyalty points, cloud storage, crypto and social media accounts."
             },
             {
               "title": "TAX & GOVERNMENT INFO",
-              "text": "Your representative will likely need old tax returns, notices of assessment, property records, benefit info and your SIN. CRA won't hand over tax records without proof — usually registration through Represent a Client plus a death certificate and the document naming the executor or liquidator."
+              "text": "Your representative will likely need past tax returns, notices of assessment, property records, benefit details and your SIN. The CRA won’t share tax records without proof. That usually means a death certificate and the paper that names the executor or liquidator."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "The representative also has to file a final T1 return, possibly a T3 return for the estate, and may need a CRA clearance certificate before handing anything out — distributing assets while tax is still owing can leave them personally on the hook, up to what they handed out."
+          "text": "The representative must also file a final tax return for the year of death. It’s due April 30 of the next year, or six months after death if the person died in November or December. They may also need a T3 return for the estate and a CRA clearance certificate before handing anything out. Giving out property while tax is still owing can make them personally responsible, up to the amount they gave out."
+        },
+        {
+          "type": "spotlight",
+          "text": "At death, the tax rules treat most investments and property as if they were sold that day, so any gain is taxed on the final return. Property left to a spouse or common-law partner can usually roll over without tax until they sell or die, and your main home is generally covered by the principal residence exemption. A tax professional can show what your estate may owe, so you can plan for it."
         },
         {
           "type": "paragraph",
-          "text": "Add practical notes too — pets, personal items, funeral wishes, charitable intentions, and who should be told. These aren't legally binding on their own, but they help your representative guess less. Keep them consistent with the will."
+          "text": "Add practical notes too: pets, personal items, funeral wishes, gifts to charity and who should be told. These aren’t legally binding on their own, but they help your representative guess less. Keep them consistent with the will."
         },
         {
           "type": "spotlight",
@@ -326,14 +307,14 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Estate and incapacity law is mostly provincial or territorial, so the same document can behave differently depending on your address."
+          "text": "Most estate law is set by each province or territory. The same paper can work in a different way, depending on where you live."
         },
         {
           "type": "ordered",
           "items": [
             {
               "title": "How a will must be signed and witnessed",
-              "text": "Requirements differ by province or territory."
+              "text": "The rules are different in each province or territory."
             },
             {
               "title": "Whether electronic wills are allowed",
@@ -345,15 +326,15 @@
             },
             {
               "title": "Rights of spouses, partners, dependants and children",
-              "text": "Some family members can have legal claims regardless of what the will says."
+              "text": "Some family members can have legal claims, whatever the will says."
             },
             {
               "title": "What happens without a valid will",
-              "text": "Default distribution rules may not match your actual relationships."
+              "text": "The default rules may not match your real relationships."
             },
             {
               "title": "Probate or estate administration procedures",
-              "text": "Court processes and charges vary by jurisdiction."
+              "text": "Court steps and fees vary. Ontario, for example, charges $15 for every $1,000 of estate value above $50,000."
             },
             {
               "title": "Rules for beneficiary designations and joint property",
@@ -361,7 +342,7 @@
             },
             {
               "title": "Documents used during incapacity",
-              "text": "Financial and health decision-making forms carry different names and rules."
+              "text": "Money and health decision forms have different names and rules."
             },
             {
               "title": "Family claims that can change a distribution",
@@ -371,11 +352,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Ontario tends to use \"estate trustee\" and \"continuing power of attorney.\" British Columbia runs on its Wills, Estates and Succession Act and offers a Wills Registry to record where a will lives. Quebec follows civil law, uses \"succession\" and \"liquidator,\" and recognizes notarized, witnessed and even handwritten wills under its own rules — a non-notarial Quebec will generally needs verification after death, and Quebec treats things like TFSA designations differently too."
+          "text": "Ontario tends to use “estate trustee” and “continuing power of attorney.” British Columbia follows its Wills, Estates and Succession Act, accepts electronic wills and has a Wills Registry where you can record where your will is kept. Quebec follows civil law and uses the words “succession” and “liquidator.” It accepts notarial wills, wills signed before witnesses and handwritten wills, each with its own rules. A Quebec will that isn’t notarial generally needs to be verified after death, and a notarial one doesn’t."
         },
         {
           "type": "paragraph",
-          "text": "These are flavour, not a province-by-province guide. Use your jurisdiction's official legal-information service, and have documents reviewed locally. Moving provinces, marrying, separating, divorcing, having a kid, starting a business, or buying property outside Canada are all good reasons for a fresh look."
+          "text": "These are examples, not a full guide. Use your province’s free legal help line or website, and have your papers checked where you live. Moving provinces, marrying, separating, divorcing, having a child, starting a business or buying property outside Canada are all good reasons for a fresh look."
         },
         {
           "type": "heading",
@@ -383,11 +364,11 @@
         },
         {
           "type": "paragraph",
-          "text": "A basic estate plan is coordinated instructions — the will, the representative appointments, the beneficiary records, the incapacity documents, the tax plan and the estate file all need to agree with each other. Clear documents matter, but organized information is what actually makes them usable."
+          "text": "A basic estate plan is a set of papers that agree with each other: the will, the people you’ve named, the account forms, the health and money papers, the tax plan and the estate file. Clear documents matter, but organized information is what makes them usable."
         },
         {
           "type": "spotlight",
-          "text": "Run a one-page alignment check: write the name on your will, then on every insurance policy, registered account, pension and incapacity document. Flag anything that doesn't match, and skip account values on this page."
+          "text": "Run a one-page check: write the names on your will, then on every insurance policy, registered account, pension and incapacity document. Flag anything that doesn’t match. Leave account values off this page."
         }
       ]
     },
@@ -401,27 +382,27 @@
           "items": [
             {
               "title": "When does a power of attorney's authority end?",
-              "detail": "At death. What it can do while you're alive depends on the document and your province's rules.",
+              "detail": "At death. What it can do while you’re alive depends on the document and your province’s rules.",
               "text": ""
             },
             {
-              "title": "What's the actual difference between an executor and a beneficiary?",
-              "detail": "The executor administers the estate. A beneficiary just receives money or property from it.",
+              "title": "What’s the difference between an executor and a beneficiary?",
+              "detail": "The executor runs the estate. A beneficiary receives money or property from it.",
               "text": ""
             },
             {
               "title": "Why treat a TFSA successor holder differently from a TFSA beneficiary?",
-              "detail": "A successor holder generally becomes the new account holder where that's allowed. A beneficiary receives proceeds instead, under different tax and account rules.",
+              "detail": "Where allowed, a successor holder takes over the account itself. A beneficiary receives the money instead, under different tax and account rules.",
               "text": ""
             },
             {
               "title": "Give two reasons to review an account designation alongside the will.",
-              "detail": "A designation can route money outside the estate entirely, and the person who receives the account may not be the one whose estate pays the related tax. Old designations can also clash with what you actually want now.",
+              "detail": "A beneficiary form can send money around the estate entirely, and the person who gets the account may not be the one whose estate pays the tax on it. Old forms can also clash with what you want now.",
               "text": ""
             },
             {
               "title": "Why might a representative wait for a CRA clearance certificate before distributing anything?",
-              "detail": "It lets them distribute without risking personal liability for unpaid CRA amounts the certificate covers.",
+              "detail": "It shows the tax is paid, so they won’t have to pay it out of their own pocket later.",
               "text": ""
             }
           ]
@@ -440,14 +421,14 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Don't change any legal documents or beneficiary forms for this exercise — just collect the facts first. This is preparation, not legal, tax or financial advice."
+          "text": "Don’t change any legal documents or beneficiary forms for this exercise. Just collect the facts first. This is preparation, not legal, tax or financial advice."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "This is a fact-finding pass, not a legal filing — skip passwords, full account numbers, your SIN, or copies of actual legal documents in this form."
+          "text": "This is a fact-finding pass, not a legal filing. Leave passwords, full account numbers, your SIN and copies of legal documents out of this form."
         }
       ]
     },
@@ -461,47 +442,47 @@
           "items": [
             {
               "title": "Administrator",
-              "text": "A person appointed to administer an estate when there is no executor able to act, often through a court process."
+              "text": "A person appointed, often by a court, to run an estate when no executor can act."
             },
             {
               "title": "Beneficiary",
-              "text": "A person or organization intended to receive money, property or a benefit."
+              "text": "A person or organization meant to receive money, property or a benefit."
             },
             {
               "title": "Clearance certificate",
-              "text": "A CRA certificate that can protect a legal representative from personal liability for covered unpaid tax amounts before distributing property."
+              "text": "A CRA letter that says the tax is paid, so the person running the estate isn’t on the hook for it later."
             },
             {
               "title": "Estate",
-              "text": "The property, rights, debts and obligations dealt with after a person's death."
+              "text": "The property, rights, debts and duties left to deal with after a person dies."
             },
             {
               "title": "Executor",
-              "text": "A person named in a will to administer an estate. Other jurisdictions may use estate trustee, personal representative or liquidator."
+              "text": "A person named in a will to run an estate. Other places may say estate trustee, personal representative or liquidator."
             },
             {
               "title": "Intestate",
-              "text": "Dying without a valid will that disposes of the relevant estate property."
+              "text": "Dying without a valid will that covers the property."
             },
             {
               "title": "Liquidator",
-              "text": "The term commonly used in Quebec for the person who settles a succession."
+              "text": "The usual term in Quebec for the person who settles an estate."
             },
             {
               "title": "Power of attorney",
-              "text": "A legal document giving another person authority to act in specified matters while the person granting authority is alive."
+              "text": "A legal document that lets someone act for you in set matters while you’re alive."
             },
             {
               "title": "Probate",
-              "text": "A court process that confirms authority to administer an estate or validates a will for estate administration. Names and procedures vary."
+              "text": "A court process that confirms someone’s authority to run an estate or confirms a will. Names and steps vary."
             },
             {
               "title": "Successor holder",
-              "text": "Where permitted, a spouse or common-law partner named to become the holder of a TFSA after the original holder's death."
+              "text": "Where allowed, a spouse or common-law partner named to take over a TFSA after the holder dies."
             },
             {
               "title": "Will",
-              "text": "A legal document that gives instructions for property and estate administration after death."
+              "text": "A legal document with instructions for your property and estate after death."
             }
           ]
         }
@@ -518,20 +499,20 @@
   },
   "checkIn": {
     "questions": [
-      "The date and storage location of my current will (or “No current will”) is:",
-      "My named executor or liquidator, and their alternate, are:",
-      "Accounts or policies that may hold a beneficiary, successor or survivor instruction:",
-      "My current financial and personal-care incapacity documents are (or aren't):",
-      "My asset and debt inventory is stored:",
-      "One mismatch or missing document to take to a professional — finishing “The first estate-planning item I will verify is ___ with ___ by ___”:"
+      "When was your current will signed, and where is it kept?",
+      "Who is your executor or liquidator, and who is the backup?",
+      "Which accounts or policies have a beneficiary, successor or survivor named?",
+      "Do you have financial and personal-care incapacity documents?",
+      "Where is your list of what you own and owe kept?",
+      "What is the first item you’ll check, with whom, and by when?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: 2019, in my lawyer’s office. Or write “no current will.”",
+      "For example: my sister, with my cousin as backup.",
+      "For example: TFSA, RRSP, workplace pension, life insurance.",
+      "Yes, no, or not sure, for each one.",
+      "For example: a folder in my filing cabinet, or not started yet.",
+      "For example: confirm my TFSA beneficiary with the bank by March 31."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

@@ -12,47 +12,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "An apprentice learns to measure twice and cut once. Funding deserves the same courtesy—especially when an old web page is still enthusiastically offering a grant that has closed."
+          "text": "An apprentice learns to measure twice and cut once. Funding deserves the same courtesy, especially when an old web page is still cheerfully offering a grant that has closed."
         },
         {
           "type": "paragraph",
-          "text": "Apprenticeship is administered by provinces and territories. Funding can combine wages, Employment Insurance during referred technical training, the interest-free Canada Apprentice Loan, provincial assistance, employer or union support and tax measures. The right package depends on trade, registration, training block and jurisdiction."
+          "text": "Provinces and territories run apprenticeships. Your funding can mix wages, Employment Insurance during approved school training, the interest-free Canada Apprentice Loan, provincial help, employer or union support and tax breaks. The right mix depends on your trade, your registration, your training block and where you live."
         },
         {
           "type": "spotlight",
-          "text": "The federal Apprenticeship Incentive Grant and Apprenticeship Completion Grant closed on 31 March 2025. They are not active 2026 funding sources."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Confirm registered-apprentice status and training dates.",
-              "text": ""
-            },
-            {
-              "title": "Separate grants, EI, loans and tax relief.",
-              "text": ""
-            },
-            {
-              "title": "Prepare the EI referral and ROE path.",
-              "text": ""
-            },
-            {
-              "title": "Budget wages lost during technical training.",
-              "text": ""
-            },
-            {
-              "title": "Complete an Apprenticeship Training-Block Funding Map.",
-              "text": ""
-            }
-          ]
+          "text": "The federal Apprenticeship Incentive Grant and Apprenticeship Completion Grant closed on March 31, 2025. They are not open for 2026."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Every Red Seal apprentice still receives federal progress and completion grants.”",
-              "text": "Those individual grants closed in 2025. Current support uses other routes; an archived success story cannot fund Tuesday's tools."
+              "text": "Those grants closed in 2025. Help today comes through other routes. An archived success story cannot pay for Tuesday’s tools."
             }
           ]
         },
@@ -60,53 +35,59 @@
           "type": "source",
           "text": "Canada: Apprenticeship grants status",
           "url": "https://www.canada.ca/en/employment-social-development/services/apprentices.html"
+        },
+        {
+          "type": "transition",
+          "text": "Knowing which funding is open today lets you plan your school block without counting on money that is gone.",
+          "detail": "Your wages, EI, a loan and local help each arrive on a different timeline.",
+          "extra": "Section 02 shows who holds your apprenticeship file."
         }
       ]
     },
     {
       "id": "routes",
-      "title": "The Province or Territory Holds the Apprenticeship File",
+      "title": "Your Province or Territory Holds Your Apprenticeship File",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Confirm the trade, registration number, employer or sponsor, accumulated hours, technical-training level and approved school dates with the provincial or territorial apprenticeship authority. Not every designated trade is a Red Seal trade, and registration rules vary."
+          "text": "Confirm your trade, registration number, employer or sponsor, your hours so far, your training level and your school dates with your provincial or territorial apprenticeship office. Not every listed trade is a Red Seal trade, and the rules for signing up vary."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "WAGES",
-              "text": "Paid on-the-job training remains the foundation. Ask how the wage changes by level and what stops during classroom training."
+              "text": "Paid training on the job is still the base. Ask how your wage changes at each level and what stops while you are in class."
             },
             {
               "title": "EI FOR APPRENTICES",
-              "text": "Eligible apprentices in approved full-time technical training may receive EI. Obtain the 16-digit referral code from the authority or training institution."
+              "text": "Apprentices in approved full-time school training may get EI. Get the 16-digit referral code from your apprenticeship office or school."
             },
             {
               "title": "CANADA APPRENTICE LOAN",
-              "text": "Eligible Red Seal apprentices can request up to $4,000 interest-free for each period of technical training, subject to a $20,000 lifetime maximum."
+              "text": "Red Seal apprentices who qualify can ask for up to $4,000, interest-free, for each block of school training, up to $20,000 over a lifetime."
             },
             {
-              "title": "LOCAL AND WORKPLACE SUPPORT",
-              "text": "Check tuition, travel, childcare, tools, living allowance, union trust, employer top-up and tax measures separately."
+              "title": "LOCAL AND WORKPLACE HELP",
+              "text": "Check tuition, travel, childcare, tools, living allowances, union funds, employer top-ups and tax breaks one by one."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Provinces and territories control apprenticeship registration and certification. The Red Seal Program creates interprovincial standards; it does not replace the local authority."
+          "text": "Provinces and territories control apprenticeship sign-up and certificates. The Red Seal Program sets standards across provinces. It does not replace your local office."
         },
         {
           "type": "spotlight",
-          "text": "The Canada Apprentice Loan may be used for tuition, tools, equipment, living expenses, foregone wages or family support during technical training."
+          "text": "The Canada Apprentice Loan can pay for tuition, tools, equipment, living costs, lost wages or family needs during school training."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A Canada Apprentice Loan is a grant because it is interest-free.”",
-              "text": "It is borrowed money. Interest-free is a useful feature, not a ceremonial cancellation of repayment."
+              "text": "It is borrowed money. Having no interest is a useful feature, not a ceremonial cancellation of repayment."
             }
           ]
         },
@@ -119,58 +100,58 @@
     },
     {
       "id": "launch",
-      "title": "Fund the Gap Between Last Paycheque and First Benefit",
+      "title": "Cover the Gap Between Your Last Paycheque and Your First Benefit",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Before training starts, confirm four things in writing rather than from memory."
+          "text": "Before training starts, confirm four things in writing, not from memory."
         },
         {
           "type": "ordered",
           "items": [
             {
-              "title": "R",
-              "text": "e"
+              "title": "Registration",
+              "text": "Your apprenticeship office shows you as a registered apprentice, at the right level, for this block."
             },
             {
-              "title": "R",
-              "text": "O"
+              "title": "Record of Employment",
+              "text": "Your employer will issue an ROE with Code J, the reason used when an apprentice leaves for school training."
             },
             {
-              "title": "S",
-              "text": "c"
+              "title": "School dates",
+              "text": "Your class start and end dates, and the date tuition is due."
             },
             {
-              "title": "F",
-              "text": "i"
+              "title": "Final pay",
+              "text": "The date and amount of your last paycheque before class, so you know how long you must cover on your own."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Apply for EI and provide the 16-digit referral code. If the code is missing, contact the apprenticeship authority or school and give it to Service Canada as soon as possible."
+          "text": "Apply for EI and give your 16-digit referral code. If you do not have the code, contact your apprenticeship office or school and give it to Service Canada as soon as you can."
         },
         {
           "type": "paragraph",
-          "text": "The Canada Apprentice Loan can be requested as early as three months before technical training and can arrive from the first day of training when approved. This can bridge timing, but it should be borrowed against a written gap—not treated as an automatic $4,000 tool-shopping festival."
+          "text": "You can ask for the Canada Apprentice Loan up to three months before school training starts, and if approved, it can arrive on your first day. It can bridge the timing gap. Borrow it against a written budget, not as an automatic $4,000 tool-shopping festival."
         },
         {
           "type": "spotlight",
-          "text": "Federal sources announced a new Apprenticeship Training Grant for 2026–27. Verify that applications, eligibility and delivery are officially open before adding any top-up to the budget."
+          "text": "The federal government announced a new Apprenticeship Training Grant for 2026–27. Check that it is officially open, and who qualifies, before you add any money from it to your budget."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“EI begins automatically when the employer issues the ROE.”",
-              "text": "The apprentice must apply, provide referral information and complete reports. The ROE is evidence, not a small electronic application elf."
+              "text": "You must apply, give your referral details and send your reports. The ROE is evidence, not a small electronic application elf."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Key takeaway: Build apprenticeship funding one training block at a time. Verify active programs, obtain the referral code, apply for EI and loans on schedule, and budget the timing gap without relying on closed or merely announced funding."
+          "text": "Key takeaway: plan apprenticeship funding one training block at a time. Check which programs are open, get your referral code, apply for EI and loans on time, and budget for the timing gap without counting on closed or just-announced funding."
         }
       ]
     },
@@ -185,15 +166,18 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Owen MacLeod, an electrical apprentice in Halifax, planned his second training block around a $1,000 federal incentive grant. His cousin had received it in 2024. The grant had since retired, apparently without updating the family group chat.",
-            "The conflict left a tuition and living-cost gap. Owen still had active routes: EI with a referral code, a Canada Apprentice Loan and provincial or employer support. But each had a different application and arrival date.",
-            "He confirmed training with the apprenticeship authority, obtained the code, checked the employer’s ROE and applied for EI. He borrowed only the loan amount needed after mapping tuition, rent, tools and the expected timing of his final pay.",
-            "Owen entered class without the old grant and without a surprise. His funding plan was less nostalgic and considerably more solvent."
+            "Owen MacLeod is an electrical apprentice in Halifax. His second school block starts in eight weeks. His goal is to get through it without falling behind on rent.",
+            "He builds his budget around a $1,000 federal grant. His cousin got the same grant in 2024. Owen adds it to his plan, along with his last paycheque and some savings.",
+            "Then he goes to apply. The page says the grant closed on March 31, 2025. It had retired, apparently without updating the family group chat. His budget now has a $1,000 hole, and tuition is due in three weeks.",
+            "His first idea is to take the full $4,000 Canada Apprentice Loan and figure it out later. A new drill set is calling his name. Then he decides to map the gap first and borrow only what the map says.",
+            "He confirms his school dates with his apprenticeship office and gets his 16-digit referral code. He asks his boss to issue his ROE with Code J, and he applies for EI the week class starts.",
+            "The twist is in the dates. His EI will not arrive until three weeks into class, and his last paycheque comes before the first day. That three-week stretch is the real gap.",
+            "Owen borrows $2,300 to cover tuition and those three weeks. He walks into class without the old grant and without a surprise. His plan is less nostalgic and considerably more solvent. The drill set can wait for his next raise."
           ]
         },
         {
           "type": "spotlight",
-          "text": "Search results often preserve closed apprenticeship grants. Read the current-status banner and page date before using any amount or deadline."
+          "text": "Search results often show apprenticeship grants that have closed. Read the status note and the page date before you count on any amount or deadline."
         },
         {
           "type": "heading",
@@ -201,7 +185,13 @@
         },
         {
           "type": "paragraph",
-          "text": "A grant that closed in 2025 cannot fund a 2026 training block. Verify active status, then build the plan from the routes still open."
+          "text": "A grant that closed in 2025 cannot pay for a 2026 training block. Check that a program is open, then build your plan from the routes still available."
+        },
+        {
+          "type": "transition",
+          "text": "Owen covered his school block by borrowing $2,300 for the real gap instead of the full $4,000.",
+          "detail": "Mapping when each payment arrives keeps your own loan small and your rent paid.",
+          "extra": "The quick check in Section 05 tests whether you can spot the next move."
         }
       ]
     },
@@ -214,28 +204,28 @@
           "type": "accordions",
           "items": [
             {
-              "title": "Who administers apprenticeship registration and certification?",
-              "detail": "The province or territory holds the apprenticeship file through its provincial or territorial apprenticeship authority.",
+              "title": "Who runs apprenticeship sign-up and certificates?",
+              "detail": "Your province or territory, through its apprenticeship office.",
               "text": ""
             },
             {
-              "title": "Which two former federal grants are closed?",
-              "detail": "The Apprenticeship Incentive Grant and the Apprenticeship Completion Grant closed on 31 March 2025.",
+              "title": "Which two old federal grants are closed?",
+              "detail": "The Apprenticeship Incentive Grant and the Apprenticeship Completion Grant closed on March 31, 2025.",
               "text": ""
             },
             {
-              "title": "What is the Canada Apprentice Loan limit per training period?",
-              "detail": "Up to $4,000 interest-free for each period of technical training, subject to a $20,000 lifetime maximum.",
+              "title": "What is the Canada Apprentice Loan limit for each training block?",
+              "detail": "Up to $4,000 interest-free for each block of school training, up to $20,000 over a lifetime.",
               "text": ""
             },
             {
-              "title": "Why is the 16-digit reference code important?",
-              "detail": "It is the referral code Service Canada needs to process an apprentice's EI application for approved technical training.",
+              "title": "Why does the 16-digit code matter?",
+              "detail": "It is the referral code Service Canada needs to process your EI claim for approved school training.",
               "text": ""
             },
             {
-              "title": "What should be verified before budgeting a newly announced program?",
-              "detail": "That applications, eligibility and delivery are officially open—an announced program is not yet a confirmed cash-flow source.",
+              "title": "What should you check before you budget a newly announced program?",
+              "detail": "That it is officially open and who qualifies. An announced program is not yet money you can count on.",
               "text": ""
             }
           ]
@@ -244,19 +234,19 @@
     },
     {
       "id": "action",
-      "title": "Your Action: Complete Your Apprenticeship Training-Block Funding Map",
+      "title": "Your Action (Fill Out Form): Apprenticeship Training-Block Funding Map",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use document labels rather than apprenticeship, EI, loan or banking numbers. Keep protected information in the official portals."
+          "text": "Use short labels, not apprenticeship, EI, loan or bank numbers. Keep private details in the official websites."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "Keep technical-training completion documents. They support progression, employer records, provincial funding, future certification and any active program that asks for proof. Mark every source ACTIVE, APPLIED, APPROVED or CLOSED—“I heard about it” is not a cash-flow category."
+          "text": "Keep proof that you finished each school block. It helps you move up a level and supports employer records, provincial funding, your future certificate and any program that asks for proof. Mark every source OPEN, APPLIED, APPROVED or CLOSED. “I heard about it” is not a cash-flow category."
         }
       ]
     },
@@ -270,31 +260,31 @@
           "items": [
             {
               "title": "Registered apprentice",
-              "text": "Person formally registered with a provincial or territorial authority."
+              "text": "A person officially signed up with a provincial or territorial apprenticeship office."
             },
             {
               "title": "Technical training",
-              "text": "Approved classroom component of apprenticeship."
+              "text": "The approved classroom part of an apprenticeship."
             },
             {
               "title": "Referral code",
-              "text": "Sixteen-digit proof of approved training for EI."
+              "text": "A 16-digit code that proves your school training is approved, for EI."
             },
             {
               "title": "Code J",
-              "text": "ROE reason used for apprentice training interruptions."
+              "text": "The ROE reason used when an apprentice leaves work for school training."
             },
             {
               "title": "Canada Apprentice Loan",
-              "text": "Interest-free federal loan for eligible technical-training periods."
+              "text": "An interest-free federal loan for approved school training blocks."
             },
             {
               "title": "Red Seal",
-              "text": "Interprovincial standard and endorsement for designated trades."
+              "text": "A standard and certificate for certain trades that is recognized across provinces."
             },
             {
               "title": "Journeyperson",
-              "text": "Person certified to practise a trade under jurisdictional rules."
+              "text": "A person certified to work in a trade under local rules."
             }
           ]
         }
@@ -311,24 +301,20 @@
   },
   "checkIn": {
     "questions": [
-      "My jurisdiction, authority, trade and registration status are:",
-      "My training level, school dates and tuition deadline are:",
-      "My final wage, employer top-up and ROE Code J status are:",
-      "My 16-digit referral code and EI application date are:",
-      "My Canada Apprentice Loan request and lifetime balance are:",
-      "My provincial, union, travel, childcare or tool support is:",
-      "My training-period costs, confirmed funding and cash gap are:",
-      "My reports, return-to-work, hours and certification checkpoints are:"
+      "Which province or territory and trade are you in, and are you a registered apprentice? (Yes / No / Not sure)",
+      "When does your next school block start and end, and when is tuition due?",
+      "Do you have your 16-digit referral code for EI? (Yes / Not yet / Not sure)",
+      "When will your last paycheque arrive before class, and about how much will it be?",
+      "About how much will tuition, tools and living costs be during the block? An estimate is fine.",
+      "Which funding will you apply for, and when? List each one."
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Nova Scotia, electrician. Yes.",
+      "January 6 to March 14. Tuition is due December 15.",
+      "Yes. My school sent it last week.",
+      "December 31, about $1,400.",
+      "About $5,500, including rent.",
+      "EI on January 6. The Canada Apprentice Loan now, for about $2,300."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

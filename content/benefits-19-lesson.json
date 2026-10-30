@@ -12,47 +12,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Searching for one universal “Indigenous benefit” is a little like asking for one weather forecast for all of Canada: confident, convenient and almost certainly missing several jackets."
+          "text": "Searching for one “Indigenous benefit” for everyone is a little like asking for one weather forecast for all of Canada. It sounds confident and handy. It is also almost certainly missing several jackets."
         },
         {
           "type": "paragraph",
-          "text": "First Nations, Inuit and Métis are distinct Peoples with different rights, governments, organizations and program routes. A service may be federal, provincial or territorial, community-administered, distinctions-based or available to the general public. Eligibility can depend on registration or recognition, Nation or community connection, residence, age, income, health need and the program’s own rules."
+          "text": "First Nations, Inuit and Métis are distinct Peoples. Each has its own rights, governments, groups and program routes. A service may be federal, provincial or territorial. It may be run by a community, designed for one of the three Peoples or open to everyone. Who qualifies can depend on registration or recognition, your Nation or community, where you live, your age, income and health needs, and the program’s own rules."
         },
         {
           "type": "spotlight",
-          "text": "Start with identity and service need, not a benefit name. The best route may be a First Nation office, Inuit organization, Métis government, friendship centre, provincial program or Indigenous Services Canada."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Distinguish First Nations, Inuit and Métis program routes.",
-              "text": ""
-            },
-            {
-              "title": "Identify the level and administrator of a service.",
-              "text": ""
-            },
-            {
-              "title": "Screen health, child, education, income and tax supports.",
-              "text": ""
-            },
-            {
-              "title": "Protect personal and community information.",
-              "text": ""
-            },
-            {
-              "title": "Complete a Nation, Status and Service Route Card.",
-              "text": ""
-            }
-          ]
+          "text": "Start with who you are and what you need, not a benefit name. The best route may be a First Nation office, an Inuit organization, a Métis government, a friendship centre, a provincial program or Indigenous Services Canada."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“All Indigenous people qualify for the same federal benefits.”",
-              "text": "Programs are distinctions-based and rule-specific. Identity alone does not create identical eligibility, and a generic search result cannot make that decision."
+              "text": "Programs are designed for each People and have their own rules. Identity alone does not mean the same eligibility, and a general search result cannot make that call."
             }
           ]
         },
@@ -60,53 +35,59 @@
           "type": "source",
           "text": "ISC: Benefits and services",
           "url": "https://www.canada.ca/en/indigenous-services-canada.html"
+        },
+        {
+          "type": "transition",
+          "text": "Finding the office that runs a program gets you help faster than searching for one national benefit.",
+          "detail": "The same need, like health or school, can have several different front doors.",
+          "extra": "Section 02 shows how one need can have more than one door."
         }
       ]
     },
     {
       "id": "doors",
-      "title": "One Need May Have More Than One Administrator",
+      "title": "One Need May Have More Than One Front Door",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The same word—health, education, income—can point to several different doors depending on who delivers the program."
+          "text": "The same word, like health, education or income, can point to different doors, depending on who runs the program."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "HEALTH",
-              "text": "NIHB provides eligible First Nations and Inuit clients with specified health benefits not otherwise covered, including pharmacy, dental, vision, mental-health counselling, medical supplies and equipment, and medical transportation."
+              "text": "NIHB covers some health costs that other plans do not, for First Nations and Inuit clients who qualify. That includes drugs, dental, vision and mental health counselling. It also covers medical supplies, equipment and travel to medical care."
             },
             {
               "title": "CHILDREN AND YOUTH",
-              "text": "Jordan's Principle helps First Nations children living in Canada access needed products, services and supports without jurisdictional delay. Requests can be individual or group-based."
+              "text": "Jordan’s Principle helps First Nations children living in Canada get the products, services and supports they need without delays over which government pays. Requests can be for one child or a group."
             },
             {
               "title": "EDUCATION",
-              "text": "Post-secondary support may flow through a First Nation, designated organization, Inuit organization or Métis Nation body. Application dates, priorities and available funding vary."
+              "text": "Help for college or university may come through a First Nation, an Inuit group or a Métis Nation body. It may also come through another group chosen to run it. Dates, priorities and money vary."
             },
             {
               "title": "INCOME AND DAILY LIVING",
-              "text": "On-reserve income assistance and assisted-living services are commonly delivered through First Nations or other administrators. Provincial and territorial programs may apply elsewhere."
+              "text": "On-reserve income assistance and assisted living are often run by First Nations or other groups. Provincial and territorial programs may apply elsewhere."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "NIHB eligibility is not the same as provincial health-card eligibility. Ask the provider which program is billed first and whether prior approval or predetermination is required."
+          "text": "Qualifying for NIHB is not the same as qualifying for a provincial health card. Ask your provider which program they bill first and whether you need approval before the service."
         },
         {
           "type": "spotlight",
-          "text": "Jordan’s Principle centres the needs of First Nations children. A request can cover health, social or educational support when the current system does not provide what the child needs."
+          "text": "Jordan’s Principle puts the needs of First Nations children first. A request can cover health, social or school support when the current system does not provide what the child needs."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A program listed online must be applied for directly through Ottawa.”",
-              "text": "Many federal dollars are administered by First Nations, tribal councils, Inuit or Métis organizations and local service providers. The local administrator may be the real front door."
+              "text": "Many federal dollars are run by First Nations, tribal councils, Inuit or Métis organizations and local providers. The local office may be the real front door."
             }
           ]
         },
@@ -124,53 +105,53 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Ask these before relying on any program, not after a claim is denied."
+          "text": "Ask these before you count on any program, not after a claim is turned down."
         },
         {
           "type": "ordered",
           "items": [
             {
-              "title": "W",
-              "text": "h"
+              "title": "Who runs this program here?",
+              "text": "Find the office or group that takes requests and makes decisions for your community or area."
             },
             {
-              "title": "W",
-              "text": "h"
+              "title": "Who qualifies?",
+              "text": "Ask for the written rules: which Peoples, which communities, where you must live and any age or income limits."
             },
             {
-              "title": "W",
-              "text": "h"
+              "title": "What does it cover, and what does it not?",
+              "text": "Ask about limits, how often it pays and whether you need approval before the service."
             },
             {
-              "title": "W",
-              "text": "h"
+              "title": "What do you need from me?",
+              "text": "Ask which papers and consent forms they need, and send only those."
             },
             {
-              "title": "W",
-              "text": "h"
+              "title": "What is the deadline, and how do I ask for a review?",
+              "text": "Write down the date, the next step and how to challenge a decision you think is wrong."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Post-secondary support is not an automatic cheque. Funding may be limited, locally prioritized and administered under community or organizational policy, so apply early and request the written rules."
+          "text": "Help with college or university is not an automatic cheque. Money may be limited and given out by local priority. Each community or group runs it under its own rules, so apply early and ask for the written rules."
         },
         {
           "type": "spotlight",
-          "text": "A status card can support access to some services, but it does not prove eligibility for every program or create one tax rule for every purchase and every type of income."
+          "text": "A status card can help you get some services. It does not prove you qualify for every program. It also does not create one tax rule for every purchase or kind of income."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Indigenous people do not pay tax.”",
-              "text": "Section 87 of the Indian Act is specific. It can exempt certain property, including income, situated on a reserve for a person registered or entitled to be registered under the Act. Connecting factors and transaction rules matter; many amounts remain taxable."
+              "text": "Section 87 of the Indian Act is narrow. It can exempt certain property, including income, that is located on a reserve, for a person who is registered or entitled to be registered under the Act. The facts that link the income to a reserve, and the rules for each transaction, matter. Many amounts are still taxed."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Key takeaway: There is no single Indigenous-benefits lane. Identify the person, Nation or distinctions-based route, the specific need and the actual administrator; then confirm the written eligibility, coverage and review process before relying on support."
+          "text": "Key takeaway: there is no single lane for Indigenous benefits. Identify the person, the Nation or People, the specific need and the office that runs the program. Then check the written rules, coverage and review process before you count on support."
         }
       ]
     },
@@ -185,15 +166,18 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Talia Cardinal, a First Nations student in Saskatoon, found a page describing federal post-secondary support and assumed an online federal application would appear. It did not. The website had supplied a program name and then wandered off like it had another meeting.",
-            "The conflict was timing. Her tuition deposit was due, her dental estimate also needed attention and neither request belonged in the same file. A campus adviser helped her separate the routes.",
-            "Talia contacted her First Nation’s education office for its funding policy and deadline. For dental care, she asked the clinic to verify NIHB eligibility, coverage and predetermination before treatment. She recorded both administrators and kept only the documents each requested.",
-            "The conclusion was not one giant benefit package. It was two accurate routes, two follow-up dates and no assumption that one office knew the other file existed."
+            "Talia Cardinal is a First Nations student in Saskatoon. Her goal is to start her second year of social work in September. Her tuition deposit is due in three weeks. A cracked tooth has her chewing on one side.",
+            "She finds a federal page about help for students and waits for an online form to appear. It never does. The website gave her a program name and then wandered off like it had another meeting.",
+            "Talia wants to put the tooth off until school starts, and to email Ottawa about the tuition. One big email to one big office feels simpler.",
+            "Instead, she books ten minutes with a campus adviser. The adviser asks a different question: who runs each program for you? Talia decides to treat the tuition and the tooth as two separate files.",
+            "For school, she calls her First Nation’s education office and asks for its funding rules and deadline. For the tooth, she asks the dental clinic to check her NIHB coverage and get approval before the work.",
+            "The twist comes from the education office. Its deadline for fall funding was last week. But the worker tells her there is a late-request process, and she fills it in that day.",
+            "Talia does not end up with one giant benefit package. She ends up with two accurate routes, two follow-up dates, a fixed tooth and no assumption that one office knew the other file existed."
           ]
         },
         {
           "type": "spotlight",
-          "text": "When two needs involve different administrators, create two records. Combining them can hide deadlines, consents and missing documents."
+          "text": "When two needs go to different offices, keep two records. Mixing them can hide deadlines, consent forms and missing papers."
         },
         {
           "type": "heading",
@@ -201,7 +185,13 @@
         },
         {
           "type": "paragraph",
-          "text": "One program name is not one application. Route each need to its actual administrator and keep separate records."
+          "text": "One program name is not one application. Send each need to the office that runs it, and keep separate records."
+        },
+        {
+          "type": "transition",
+          "text": "Talia got both her tuition and her dental care moving by sending each one to the office that runs it.",
+          "detail": "Asking who runs each program can save you weeks of waiting on the wrong door.",
+          "extra": "The quick check in Section 05 tests whether you can spot the next move."
         }
       ]
     },
@@ -214,28 +204,28 @@
           "type": "accordions",
           "items": [
             {
-              "title": "Why should First Nations, Inuit and Métis routes not be combined?",
-              "detail": "They are distinct Peoples with different rights, governments, organizations and program routes, so eligibility and administration differ by route.",
+              "title": "Why should First Nations, Inuit and Métis routes not be lumped together?",
+              "detail": "They are distinct Peoples, each with its own rights, governments, groups and program routes. Who qualifies, and who runs each program, can differ.",
               "text": ""
             },
             {
-              "title": "What does NIHB generally supplement?",
-              "detail": "Specified health benefits not otherwise covered for eligible First Nations and Inuit clients, such as pharmacy, dental, vision, mental-health counselling, medical supplies and transportation.",
+              "title": "What does NIHB usually add to?",
+              "detail": "Some health costs that other plans do not cover, for First Nations and Inuit clients who qualify. Examples are drugs, dental, vision, counselling, medical supplies and medical travel.",
               "text": ""
             },
             {
-              "title": "What problem is Jordan's Principle designed to prevent?",
-              "detail": "Jurisdictional delay in getting First Nations children the products, services and supports they need.",
+              "title": "What problem is Jordan’s Principle meant to prevent?",
+              "detail": "Delays over which government pays when First Nations children need products, services and supports.",
               "text": ""
             },
             {
-              "title": "Why should a post-secondary applicant contact the local administrator early?",
-              "detail": "Funding may be limited, locally prioritized and administered under community or organizational policy with its own deadlines.",
+              "title": "Why should a student contact the local office early?",
+              "detail": "Money may be limited and given out by local priority. Each community or group runs it under its own rules and deadlines.",
               "text": ""
             },
             {
               "title": "Why is “Indigenous people do not pay tax” an unsafe statement?",
-              "detail": "Section 87 exemptions are specific to certain property situated on a reserve for a registered or entitled person; connecting factors and transaction rules matter, and many amounts remain taxable.",
+              "detail": "Section 87 only covers certain property located on a reserve, for a person who is registered or entitled to be registered. The facts that link it to a reserve and the rules for each transaction matter, and many amounts are still taxed.",
               "text": ""
             }
           ]
@@ -244,19 +234,19 @@
     },
     {
       "id": "action",
-      "title": "Your Action: Complete Your Nation, Status and Service Route Card",
+      "title": "Your Action (Fill Out Form): Nation, Status and Service Route Card",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use general descriptions. Do not write registration numbers, health numbers, banking details, passwords, medical records or identity-document copies on this worksheet."
+          "text": "Use general descriptions. Do not write registration numbers, health numbers, bank details, passwords, medical records or copies of ID on this form."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "For a denied or incomplete request, ask for the reason in writing, the missing evidence, the review or appeal route and the deadline. “No” is a decision to understand, not a filing cabinet to fear."
+          "text": "If a request is turned down or incomplete, ask for the reason in writing, what proof is missing, how to ask for a review or appeal, and the deadline. “No” is a decision to understand, not a filing cabinet to fear."
         }
       ]
     },
@@ -274,11 +264,11 @@
             },
             {
               "title": "Administrator",
-              "text": "Organization that receives, decides or delivers a program request."
+              "text": "The office or group that takes, decides or delivers a program request."
             },
             {
               "title": "NIHB",
-              "text": "Non-Insured Health Benefits program for eligible First Nations and Inuit clients."
+              "text": "Non-Insured Health Benefits program for First Nations and Inuit clients who qualify."
             },
             {
               "title": "Jordan's Principle",
@@ -286,15 +276,15 @@
             },
             {
               "title": "Prior approval",
-              "text": "Permission required before a product or service is provided."
+              "text": "Permission needed before a product or service is given."
             },
             {
               "title": "Predetermination",
-              "text": "Advance review of whether and how much a proposed service may be covered."
+              "text": "A review ahead of time of whether, and how much, a planned service may be covered."
             },
             {
               "title": "Section 87",
-              "text": "Indian Act tax exemption applying in specified circumstances."
+              "text": "The Indian Act tax exemption that applies in set situations."
             }
           ]
         }
@@ -311,24 +301,20 @@
   },
   "checkIn": {
     "questions": [
-      "The person, distinctions-based or community route I am checking is:",
-      "The immediate need and deadline are:",
-      "The likely federal, provincial/territorial, community or public program is:",
-      "The administrator and verified contact channel are:",
-      "The written eligibility and coverage rules are:",
-      "The documents, consent and privacy questions are:",
-      "The application, prior-approval or referral step is:",
-      "The reference, follow-up, correction or review date is:"
+      "What do you need help with right now? For example, school, a health cost or a child’s support.",
+      "Is there a deadline? Write the date if you know it.",
+      "Which office or group do you think runs this program for you? Write “not sure” if you do not know yet.",
+      "Have you asked for the written rules on who qualifies and what is covered? (Yes / Not yet / Not sure)",
+      "Do you have more than one need that might go to different offices? List them.",
+      "What is one call or email you will make this week?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Tuition for my second year of university.",
+      "The deposit is due August 15.",
+      "My First Nation’s education office.",
+      "Not yet.",
+      "Yes. Tuition, and a dental repair through NIHB.",
+      "Call the education office and ask for the funding rules and deadline."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

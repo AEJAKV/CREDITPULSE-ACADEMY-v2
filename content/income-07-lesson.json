@@ -15,29 +15,10 @@
           "text": "Affiliate marketing is a fancy name for a simple deal: a company pays you a thank-you when someone buys through your special link. It is word of mouth with a tracking code attached. The catch is that it only works when people trust you, and Canadian law cares a great deal about how you explain that you are being paid."
         },
         {
-          "type": "heading",
-          "text": "What you’ll learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "How affiliate programs pay, and how to read the fine print",
-              "text": ""
-            },
-            {
-              "title": "How to choose offers that truly fit the people who follow you",
-              "text": ""
-            },
-            {
-              "title": "What you must disclose under Canadian advertising rules",
-              "text": ""
-            },
-            {
-              "title": "How your commissions and free products are taxed",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Earning from trust, without losing it, lets a small audience pay for something real.",
+          "detail": "You will learn to choose offers your audience needs and to say you are paid, so your advice stays believable.",
+          "extra": "Section 04 includes a disclosure line that you can copy and adjust."
         }
       ]
     },
@@ -57,12 +38,6 @@
         {
           "type": "paragraph",
           "text": "None of this requires a big audience, but it does require honesty. A friendly mention to a small group is still marketing once money is involved, so the same rules apply to a tiny blog and to a famous creator."
-        },
-        {
-          "type": "transition",
-          "text": "Learn to earn from trust without losing it.",
-          "detail": "You will learn how to choose offers your audience truly needs and how to say that you are paid, so your recommendations stay believable.",
-          "extra": "Section 04 includes a disclosure line that you can copy and adjust."
         }
       ]
     },
@@ -140,7 +115,7 @@
         },
         {
           "type": "transition",
-          "text": "Honesty is not a cost. It is the thing you are really selling.",
+          "text": "Honesty is not a cost. It is the thing you are selling.",
           "detail": "Clear disclosure and fair reviews keep you on the right side of the law and keep the audience that earns you commissions.",
           "extra": "Section 04 shows where the disclosure belongs and what to track for the CRA."
         }
@@ -219,7 +194,7 @@
           "items": [
             {
               "title": "GST/HST",
-              "text": "The CRA says online content is generally a taxable supply, so once your taxable sales pass $30,000 over four calendar quarters, you must register, collect, and send the tax. Below that limit, you do not have to register."
+              "text": "The CRA says online content is generally a taxable supply. Once your taxable sales pass $30,000 in one calendar quarter or over four quarters in a row, you must register, collect and send the tax. Commissions from companies outside Canada still count toward that $30,000, even when you charge no tax on them."
             },
             {
               "title": "Pension plan",
@@ -304,7 +279,7 @@
     },
     {
       "id": "action",
-      "title": "Your Action",
+      "title": "Your Action (Fill Out Form): Your Honest Affiliate Plan",
       "paragraphs": [],
       "blocks": [
         {
@@ -348,7 +323,7 @@
         },
         {
           "type": "transition",
-          "text": "Next up: Module 3.3: Print on Demand.",
+          "text": "Next up: Print on Demand.",
           "detail": "You have learned to recommend other people’s products. Next, you will put your own designs on products without ever holding stock."
         },
         {
@@ -390,16 +365,20 @@
   },
   "checkIn": {
     "questions": [
-      "Name one product you really use and could honestly recommend.",
-      "Does the program ask you to pay a fee to join?",
+      "Name one product you use and could honestly recommend. Pick something you would mention to a friend even without a commission.",
+      "Who in your audience would it help, and who is it not for?",
+      "What does the program pay, how long is the cookie window and when do you get paid?",
+      "Does the program ask you to pay a fee to join? (Yes / No / Not sure) If yes, treat it as a warning sign.",
       "Write your one-line disclosure.",
-      "Where will you keep track of payouts and free items?"
+      "Where will you track payouts and the value of free items?"
     ],
     "samples": [
-      "Pick something you would mention to a friend even without a commission.",
-      "Yes, no, or not sure. If yes, treat it as a warning sign and look again.",
-      "Keep it short and plain, such as “I earn a commission if you buy through my link.”",
-      "A spreadsheet, a notes app, or not sure yet."
+      "The rain shell I wear on every hike.",
+      "Weekend hikers in wet weather. Not for winter mountaineering.",
+      "8% of each sale, a 30-day cookie, paid monthly once I reach $50.",
+      "No.",
+      "I earn a commission if you buy through my link, and I only recommend gear I use.",
+      "A spreadsheet with each payout and each free item’s value."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

@@ -12,57 +12,30 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Good records tell the story of a transaction without asking the owner to remember what happened eleven months ago. They connect money received or spent to an invoice, receipt, contract, log, bookkeeping entry and tax return. When those links agree, tax preparation becomes a review instead of a reconstruction."
+          "text": "Good records tell the story of a sale or purchase without asking you to remember what happened eleven months ago. They link money in or out to an invoice, receipt, contract, log, bookkeeping entry and tax return. When those links agree, tax time becomes a quick review instead of a rebuild."
         },
         {
           "type": "paragraph",
-          "text": "This is the final Advanced Tax and Wealth course, and it brings the earlier lessons together through evidence. Retirement decisions need source documents. Estate files need current records. Self-employment and GST/HST calculations need transactions that can be traced. The record system is where every confident number earns the right to be confident."
+          "text": "This is the last lesson in the Tax and Wealth course, and it ties the earlier lessons together through proof. Retirement choices need source documents. Estate files need current records. Self-employment and GST/HST numbers need sales and costs you can trace. Your record system is where every confident number earns the right to be confident."
         },
         {
           "type": "paragraph",
-          "text": "This is general Canadian education, not personal tax, legal, accounting, payroll, privacy or records-management advice. Retention periods and record requirements vary by tax, entity, transaction, dispute and province or territory — confirm anything time-sensitive with the CRA, Revenu Québec where it applies, and qualified professionals. You'll follow one transaction through five links, aiming for a system another competent person could understand without opening a folder called \"miscellaneous important things.\""
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Explain what makes a record useful to the CRA.",
-              "text": ""
-            },
-            {
-              "title": "Build a five-link evidence chain for income and expenses.",
-              "text": ""
-            },
-            {
-              "title": "Identify records needed for income tax, GST/HST, payroll, assets and vehicles.",
-              "text": ""
-            },
-            {
-              "title": "Complete a simple monthly reconciliation.",
-              "text": ""
-            },
-            {
-              "title": "Protect electronic records through readable formats, backups and access controls.",
-              "text": ""
-            },
-            {
-              "title": "Apply the general six-year retention rule without treating it as universal.",
-              "text": ""
-            },
-            {
-              "title": "Create a one-page records-control map.",
-              "text": ""
-            }
-          ]
+          "text": "This is general Canadian education, not personal tax or legal advice. Which records you keep, and for how long, depends on the tax, your business, the sale, any dispute and where you live. Check anything time-sensitive with the CRA, Revenu Québec where it applies, or a qualified professional. You’ll follow one sale through five links, aiming for a system another capable person could follow without opening a folder called “miscellaneous important things.”"
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A bank statement is enough proof.”",
-              "text": "A statement can show that money moved. It may not show what was purchased, who supplied it, the business purpose, or the GST/HST information needed for an input tax credit. The statement is one witness, not the entire cast."
+              "text": "A statement can show that money moved. It may not show what you bought, who sold it, why the business needed it or the GST/HST details you need to claim the tax back. The statement is one witness, not the whole cast."
             }
           ]
+        },
+        {
+          "type": "transition",
+          "text": "Answer any CRA question in minutes, with proof already in hand.",
+          "detail": "Records that link every amount to its source turn a review letter from a crisis into a short reply.",
+          "extra": "Section 02 walks through the five links that make a record useful."
         }
       ]
     },
@@ -73,40 +46,40 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A record is more than a receipt — it can be an invoice, agreement, statement, image, log, return, voucher, electronic file, or anything else that supports what happened. The useful question isn't \"do I have paperwork,\" it's \"can I trace this amount from the real transaction to the filed return?\""
+          "text": "A record is more than a receipt. It can be an invoice, agreement, statement, photo, log, return, electronic file or anything else that shows what happened. The useful question isn’t “do I have paperwork?” It’s “can I trace this amount from the real sale or purchase to the return I filed?”"
         },
         {
           "type": "ordered",
           "items": [
             {
               "title": "TRANSACTION",
-              "text": "A sale, purchase, payment, refund, payroll event, asset purchase or transfer occurs."
+              "text": "A sale, purchase, payment, refund, payroll run, equipment purchase or transfer happens."
             },
             {
               "title": "SOURCE DOCUMENT",
-              "text": "An invoice, receipt, contract, platform report, mileage log, deposit record or other evidence captures the event."
+              "text": "An invoice, receipt, contract, platform report, mileage log, deposit record or other proof captures it."
             },
             {
               "title": "BOOKKEEPING ENTRY",
-              "text": "The transaction gets recorded with the correct date, amount, account, tax treatment and business purpose."
+              "text": "The transaction is recorded with the right date, amount, account, tax treatment and business purpose."
             },
             {
               "title": "RECONCILIATION",
-              "text": "The entry is compared against bank, credit-card, platform, payroll or government-account records."
+              "text": "The entry is checked against bank, credit card, platform, payroll or government records."
             },
             {
               "title": "RETURN OR REPORT",
-              "text": "The supported totals flow into an income tax return, GST/HST return, payroll remittance, information slip or financial statement."
+              "text": "The checked totals flow into an income tax return, GST/HST return, payroll remittance, tax slip or financial statement."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "If one link is missing, mark it for follow-up. Don't invent it — a note explaining what happened and what evidence remains is more useful than a beautifully categorized guess."
+          "text": "If a link is missing, flag it for follow-up. Don’t invent it. A note explaining what happened and what proof is left is more useful than a beautifully sorted guess."
         },
         {
           "type": "spotlight",
-          "text": "Give every transaction a stable reference number. Put the same number on the source document and the bookkeeping entry. Search then becomes a direct route instead of a scavenger hunt designed by your past self."
+          "text": "Give every transaction a reference number that never changes. Put the same number on the source document and the bookkeeping entry. Searching then becomes a straight path instead of a scavenger hunt designed by your past self."
         },
         {
           "type": "heading",
@@ -114,7 +87,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Income records should identify the date, amount and source. Expense evidence should normally identify the date, seller or supplier, buyer, description, amount and other required information. GST/HST claims can require the supplier's business number and purchaser details, depending on the amount and circumstances. The exact record depends on the transaction — a signed contract may explain a deposit, a vehicle log explains kilometres, an email may confirm a price change. Keep the evidence that makes the number understandable."
+          "text": "Income records should show the date, amount and who paid. Expense records should usually show the date, seller, buyer, description and amount. GST/HST claims can also need the seller’s GST/HST number and your name, depending on the amount. The right record depends on the transaction: a signed contract may explain a deposit, a vehicle log explains kilometres and an email may confirm a price change. Keep whatever makes the number easy to understand."
         }
       ]
     },
@@ -125,23 +98,23 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Waiting until year-end makes small gaps expensive. Capture the record when the sale, purchase or payment occurs."
+          "text": "Waiting until year-end turns small gaps into expensive ones. Capture the record when the sale, purchase or payment happens."
         },
         {
           "type": "paragraph",
-          "text": "For income, keep sequential sales invoices, cash-register totals, e-commerce and marketplace reports, payment-processor statements, deposit records, contracts and credit notes. Record gross income before platform fees or other deductions — cash, property, services, foreign currency and crypto-assets can all need their own records and valuation."
+          "text": "For income, keep numbered sales invoices, cash register totals, online store and marketplace reports, payment processor statements, deposit records, contracts and credit notes. Record your full sales before platform fees or other deductions. Payment in cash, goods, services, foreign money or crypto can each need its own records and value."
         },
         {
           "type": "paragraph",
-          "text": "For expenses, get a receipt or voucher and add the business purpose when it isn't obvious. A restaurant receipt can show food and tax while saying nothing about who attended or why the meeting related to business — add that context while the meeting is still a memory rather than a historical theory."
+          "text": "For expenses, get a receipt and add the business reason when it isn’t obvious. A restaurant receipt shows food and tax but says nothing about who was there or why the meeting was for business. Add that while the meeting is still a memory, not a historical theory."
         },
         {
           "type": "paragraph",
-          "text": "If a supplier doesn't provide a receipt, the CRA directs businesses to record the supplier's name and address, amount, date and transaction details in an expense journal, plus whatever other support exists. That doesn't guarantee deductibility — it preserves the facts for review."
+          "text": "If a supplier doesn’t give you a receipt, the CRA says to write down their name and address, the amount, the date and what you bought in an expense journal, along with any other proof you have. That doesn’t guarantee you can deduct it, but it keeps the facts for review."
         },
         {
           "type": "spotlight",
-          "text": "Use a mobile capture routine with three steps: photograph, label, file. Include the date, supplier, amount and purpose in the filename or record. \"IMG_8472\" is a camera's opinion, not an accounting description."
+          "text": "Use a three-step phone routine: photograph, label, file. Put the date, supplier, amount and purpose in the file name or record. “IMG_8472” is a camera’s opinion, not an accounting description."
         },
         {
           "type": "heading",
@@ -149,7 +122,7 @@
         },
         {
           "type": "paragraph",
-          "text": "A separate business bank account and business credit card can reduce mixed transactions. When a cost has both business and personal use, keep the full source document plus the calculation supporting the claimed business portion — don't edit a receipt image to show only the claimed amount. Preserve the original and attach the calculation, so the audit trail shows the whole event and the method used to reach the reported part. Refunds, rebates, chargebacks, store credits and cancelled transactions need records too — keeping the original purchase while losing the refund creates an expense that no longer matches reality. Pair both sides."
+          "text": "A separate business bank account and credit card cut down on mixed transactions. When a cost is partly personal, keep the full receipt plus the math behind the business share you claim. Don’t edit a receipt photo to show only the business part. Keep the original and attach your calculation, so the record shows the whole purchase and how you got your number. Refunds, rebates, chargebacks, store credits and cancelled orders need records too. Keeping the purchase while losing the refund leaves an expense that no longer matches reality, so keep both sides together."
         }
       ]
     },
@@ -160,32 +133,32 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Monthly closing turns a pile of documents into reliable records. Pick a fixed date and work through the accounts in the same order every time."
+          "text": "Closing each month turns a pile of papers into records you can trust. Pick a fixed date and go through your accounts in the same order every time."
         },
         {
           "type": "paragraph",
-          "text": "Start by reconciling every business bank and credit-card account — match the opening balance, transactions, transfers, fees and closing balance. Then reconcile payment processors and sales platforms, so gross sales, platform fees, refunds and net deposits all connect."
+          "text": "Start with each business bank and card account. Match the starting balance, each item, transfers, fees and the end balance. Then check payment processors and sales platforms, so total sales, platform fees, refunds and net deposits all connect."
         },
         {
           "type": "paragraph",
-          "text": "Review accounts receivable and accounts payable. Confirm which invoices remain unpaid and which bills are outstanding, and check that customer deposits, owner contributions, owner's withdrawals, loan proceeds and transfers aren't mistaken for sales or expenses."
+          "text": "Review money owed to you and money you owe. Confirm which invoices are unpaid and which bills are outstanding. Check that customer deposits, money you put in, money you took out, loans and transfers aren’t mistaken for sales or expenses."
         },
         {
           "type": "paragraph",
-          "text": "If you're registered for GST/HST, compare taxable sales and tax charged with the GST/HST payable records, and review the purchase documents supporting your ITCs. If there are employees, reconcile gross payroll, deductions, employer contributions, net pay, remittances and payroll records."
+          "text": "If you’re registered for GST/HST, compare your taxable sales and tax charged with your GST/HST records, and review the receipts behind your ITC claims. If you have employees, check gross pay, deductions, employer contributions, net pay and remittances against your payroll records."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Filing the return proves the records are complete.”",
-              "text": "Electronic filing confirms that numbers were submitted. It doesn't certify that every sale was captured, every expense was supported, or every account was reconciled. A confirmation number is useful — it is not a bookkeeping diploma."
+              "text": "Filing online confirms that numbers were sent. It doesn’t prove every sale was captured, every expense was supported or every account was checked. A confirmation number is useful, but it isn’t a bookkeeping diploma."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Keep a monthly close note — the accounts reconciled, missing items, corrections made, unusual transactions, and who reviewed the period. A two-minute note can save an hour of future explanation."
+          "text": "Keep a short note for each month: accounts checked, missing items, corrections made, anything unusual and who reviewed it. Two minutes now can save an hour of explaining later."
         },
         {
           "type": "heading",
@@ -193,7 +166,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Correct errors through an audit trail. Don't delete a finalized invoice or overwrite a reconciled entry without a record of the change — use credit notes, adjusting entries and dated explanations according to the accounting system and professional advice. A correction should show the original amount, corrected amount, reason, date and person making the change. The records don't need to pretend nobody made a mistake — they need to show how the mistake was fixed."
+          "text": "Fix errors in a way that leaves a trail. Don’t delete a finished invoice or overwrite a checked entry without a record of the change. Use credit notes, adjusting entries and dated explanations. A correction should show the original amount, the new amount, the reason, the date and who made it. Your records don’t need to pretend nobody made a mistake. They need to show how it was fixed."
         }
       ]
     },
@@ -204,23 +177,23 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Noelle",
+          "text": "Noelle rescues the missing quarter",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Noelle owns a small event-floral business in New Brunswick. Her sales run through invoices, e-transfers, card payments and a marketplace. She keeps paper receipts in envelopes and assumes the bank feed has captured everything else.",
-            "During a GST/HST review, Noelle notices the spring marketplace deposits are lower than the sales reports. She first suspects missing revenue — then she follows the evidence chain instead of guessing.",
-            "The marketplace report shows gross sales, refunds, commissions and HST. The bank shows only the net deposits. Her bookkeeping had recorded those net deposits as sales, so revenue and fees were both understated. Two refunds were also missing, and several purchase receipts didn't have enough information to support the ITCs claimed.",
-            "Noelle doesn't patch the quarter with one mystery adjustment. She exports the original marketplace data, matches each payout to the bank, records gross sales and fees separately, attaches refund reports, and requests corrected supplier invoices where possible. Her bookkeeper reviews the entries and documents the correction — then Noelle builds a monthly close checklist so marketplace totals must reconcile before a period closes."
+            "Noelle ran a small wedding-flower business in Fredericton. Customers paid her by invoice, e-transfer, card and through an online marketplace. She kept paper receipts in envelopes and trusted that her bank feed had caught everything else.",
+            "One fall, the CRA sent a letter asking her to back up her spring GST/HST return. Noelle opened her books and frowned. The marketplace deposits in her bank were lower than the sales on the marketplace’s own reports. Had she been underreporting sales?",
+            "Her first instinct was to add one big adjustment to make the numbers match and send it off. It would be quick. But she couldn’t have explained that number to anyone. Instead, she decided to follow each sale through the chain, one link at a time.",
+            "The marketplace report showed full sales, refunds, commissions and HST. Her bank showed only the money left over after all that. Her bookkeeping had recorded those smaller deposits as sales, so both her sales and her fees were too low. Two refunds were missing, and a few receipts didn’t have the supplier’s GST/HST number.",
+            "Noelle downloaded the original marketplace data, matched every payout to the bank and recorded sales and fees separately. She attached the refund reports and asked her suppliers for corrected invoices. Her bookkeeper reviewed the changes and wrote down what had been fixed and why. The CRA accepted her reply with one small adjustment.",
+            "Then Noelle made one more change. She added a monthly close day, and a quarter can’t be marked done until the marketplace totals match the bank. The envelopes are gone. In their place is a folder with a note on the front: “Sales are not deposits.”"
           ]
         },
         {
-          "type": "heading",
-          "text": "What actually got fixed?"
-        },
-        {
-          "type": "paragraph",
-          "text": "The repaired quarter isn't flawless — it's traceable. Noelle can now explain the difference between a sale and a deposit without performing live mathematics in front of a government letter."
+          "type": "transition",
+          "text": "Records you can trace turn a stressful letter into a simple reply.",
+          "detail": "Following each amount back to its source lets you explain your numbers with confidence, and fix them cleanly when needed.",
+          "extra": "Section 06 shows how to organize each type of record."
         }
       ]
     },
@@ -231,26 +204,26 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "One document can support more than one obligation, but the filing system should show where it's actually used. Build sections for each of these record groups."
+          "text": "One document can support more than one tax duty, but your filing system should show where each is used. Build a section for each of these groups."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "INCOME TAX & FINANCIAL RECORDS",
-              "text": "Sales and income evidence, expense documents, journals, ledgers, bank and credit-card statements, loan agreements, contracts, year-end adjustments, financial statements, tax-return working papers, filed returns, notices of assessment, instalment records and correspondence. Property records need special care — purchase and sale documents, legal costs, improvements, CCA details and anything affecting adjusted cost base may need to be kept well past the ordinary period."
+              "text": "Keep proof of sales and costs. Keep your ledgers, bank and card statements, loans and contracts. Keep year-end notes, tax working papers, filed returns, notices of assessment, instalment proof and CRA letters. Property needs extra care. Keep the papers for buying, selling and fixing it up until long after you sell it."
             },
             {
               "title": "GST/HST RECORDS",
-              "text": "Sales and purchase invoices, tax charged, place-of-supply support, exemption or zero-rating evidence, credit and debit notes, ITC calculations, elections, reporting-period working papers, filed returns, payment confirmations and CRA correspondence. Keep the working copy behind an electronically filed return too."
+              "text": "Keep sales and purchase bills and the tax charged. Keep proof of where each sale was made and why any sale had no tax. Keep credit notes, ITC math, working papers, filed returns, payment proof and CRA letters. Keep the working copy behind a return you filed online too."
             },
             {
               "title": "PAYROLL RECORDS",
-              "text": "Employee identity, hours, remuneration, taxable benefits, pensionable and insurable amounts, CPP or QPP, EI, income tax withheld, employer contributions, remittances, TD1 forms, information slips, returns and letters of authority. This information is sensitive — a shared folder called 'everyone can edit' is not a control, it's an invitation written in cheerful software."
+              "text": "Employee identity, hours, pay, taxable benefits, CPP or QPP, EI, tax withheld, employer contributions, remittances, TD1 forms, tax slips, returns and authorization letters. This information is sensitive. A shared folder called “everyone can edit” isn’t a control. It’s an invitation written in cheerful software."
             },
             {
               "title": "VEHICLES & MIXED-USE ASSETS",
-              "text": "Trip dates, destinations, purposes, business kilometres, total kilometres, operating costs and odometer readings, plus purchase, lease, financing and sale documents. For home offices, phones, internet and other mixed-use items, keep the source document and the method used to calculate business use, applied consistently and documented when it changes."
+              "text": "Trip dates, destinations, reasons, business and total kilometres, running costs and odometer readings, plus purchase, lease, loan and sale papers. For home offices, phones, internet and other mixed-use items, keep the bill and the method you used to work out business use. Use it the same way each year, and write it down when it changes."
             }
           ]
         },
@@ -259,7 +232,7 @@
           "items": [
             {
               "title": "“My accountant or payroll company is responsible for keeping everything.”",
-              "text": "A third party can maintain records, but the taxpayer or employer remains responsible for adequate, accessible records. Know what the provider holds, how to export it, and what happens when the service ends."
+              "text": "Someone else can keep your records, but you or your business stay responsible for having them ready. Know what your provider holds, how to download it and what happens if the service ends."
             }
           ]
         }
@@ -272,23 +245,23 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Electronic filing doesn't remove the record-retention duty. If records are created or maintained electronically, the CRA can require them in an electronically readable and usable format even when paper copies exist."
+          "text": "Filing online doesn’t end your duty to keep records. If your records are created or kept electronically, the CRA can ask for them in a readable, usable electronic form, even if you also have paper copies."
         },
         {
           "type": "paragraph",
-          "text": "Export data from bookkeeping, payroll, e-commerce, payment, scheduling, mileage and crypto-asset platforms regularly. Keep reports that preserve transaction-level detail, not only screenshots of dashboard totals — a screenshot can show what a screen looked like, but it may not give you the data needed to sort, trace or recalculate the entries."
+          "text": "Download your data from bookkeeping, payroll, online store, payment, booking, mileage and crypto platforms on a regular basis. Keep reports that show every transaction, not just screenshots of dashboard totals. A screenshot shows what a screen looked like, but it may not give you the data to sort, trace or recheck the entries."
         },
         {
           "type": "spotlight",
-          "text": "Test the restore process. A backup is only a theory until a file can be recovered, opened and read. Pick one sample invoice, one bookkeeping export and one return working paper, then restore all three."
+          "text": "Test that you can restore your files. A backup is only a theory until a file can be recovered, opened and read. Pick one sample invoice, one bookkeeping export and one return working paper, and restore all three."
         },
         {
           "type": "paragraph",
-          "text": "Use at least two protected backup locations, with one separated from the main device and business location. Encrypt sensitive records, use unique passwords and multi-factor authentication, limit permissions by role, and remove access promptly when a worker or provider leaves."
+          "text": "Keep backups in at least two protected places, with one away from your main device and business location. Encrypt sensitive records, use unique passwords and two-step login, limit access by role and remove access right away when a worker or provider leaves."
         },
         {
           "type": "paragraph",
-          "text": "Keep a system map naming each platform, what records it holds, how often data is exported, backup location, file format, account owner and recovery method. Store access instructions securely, without placing passwords in an ordinary course worksheet."
+          "text": "Keep a system map: each platform, what records it holds, how often you download them, where backups go, the file format, the account owner and how to recover it. Store login instructions securely, never in an ordinary worksheet."
         },
         {
           "type": "heading",
@@ -296,7 +269,7 @@
         },
         {
           "type": "paragraph",
-          "text": "The CRA generally requires records to be kept at the business or residence in Canada unless written permission allows another location. Records stored outside Canada and merely accessed online from here aren't considered kept in Canada under CRA guidance. Ask any cloud provider where data is actually stored, how it can be exported, and how long it stays available after cancellation — get professional advice when the system relies on storage outside Canada."
+          "text": "The CRA generally requires records to be kept at your business or home in Canada, unless it gives written permission to keep them elsewhere. Records stored only outside Canada and viewed online from here don’t count as kept in Canada. Ask any cloud provider where your data is stored, how to download it and how long it stays available after you cancel. Get professional advice if your system depends on storage outside Canada, and keep a copy you control here."
         }
       ]
     },
@@ -307,32 +280,32 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The general CRA rule is to keep required records and supporting documents for six years from the end of the last tax year they relate to. That's the starting point, not an automatic destruction date."
+          "text": "The general CRA rule is to keep records and the papers behind them for six years from the end of the last tax year they relate to. That’s a starting point, not an automatic shred date."
         },
         {
           "type": "paragraph",
-          "text": "Different timing can apply. Late-filed returns can shift the six-year period. Records connected to an objection or appeal must be kept until the dispute and further appeal periods are resolved. The CRA can require longer retention, and historical ownership, property and corporate records may need to be kept indefinitely or under separate rules."
+          "text": "Other timing can apply. If you file late, the six years count from the date you filed. Records linked to an objection or appeal must be kept until the dispute is settled and the appeal time has passed. The CRA can ask you to keep records longer, and records about property ownership and company history may need to be kept much longer or forever."
         },
         {
           "type": "paragraph",
-          "text": "If a business closes, record duties can continue — corporate dissolution, non-incorporated businesses, trusts, estates, charities and other organizations all follow specific requirements, and provincial employment, sales-tax, privacy, limitation-period, professional, insurance and corporate laws may require longer retention still."
+          "text": "The duty to keep records can go on after a business closes. Companies, trusts, estates and charities each have their own rules. Some provincial laws may ask you to keep records even longer."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Everything can be destroyed exactly six years after the purchase date.”",
-              "text": "The ordinary rule is measured from the end of the last tax year the record relates to, and several exceptions can extend it. Shredders are efficient employees. They still need authorization."
+              "text": "The usual rule counts from the end of the last tax year the record relates to, and several exceptions can make it longer. Shredders are efficient employees. They still need authorization."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Add a \"destroy after review\" date, not an automatic deletion date. Before destruction, check for late filing, reassessment, objection, property history, payroll, GST/HST, provincial rules, litigation, insurance and written CRA directions."
+          "text": "Give each box or folder a “check before you shred” date, not a date to delete on its own. Before you shred, check a few things. Was the return late? Is there a dispute or a lawsuit? Does it touch property, payroll or GST/HST? Did the CRA ask you to keep it?"
         },
         {
           "type": "paragraph",
-          "text": "Written CRA permission is required to destroy records before the applicable retention period ends — Form T137 can be used to request early destruction for relevant records. Permission from the CRA doesn't cancel duties imposed by another law or regulator."
+          "text": "You need written CRA permission to destroy records before the six years are up. Ask using Form T137. Permission from the CRA doesn’t cancel duties under other laws."
         },
         {
           "type": "heading",
@@ -340,7 +313,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Federal CRA rules are only one layer. Quebec businesses may need records supporting Revenu Québec income tax, QST and source-deduction obligations. British Columbia, Saskatchewan and Manitoba businesses may need separate provincial sales-tax records, and payroll, workers' compensation, employment standards, corporate registries, professional regulators and privacy laws all vary across Canada. Build a jurisdiction list showing the province or territory of the business, employees, property, customers, registrations and professional licences — an online business can acquire provincial duties without acquiring a provincial office."
+          "text": "CRA rules are only one layer. Quebec businesses may need records for Revenu Québec tax, QST and payroll. Businesses in B.C., Saskatchewan and Manitoba may need records for their own sales tax. Payroll, job safety, work, company and privacy rules also change from place to place. Make a list of each province or territory where your business, staff, property, customers, registrations and licences are. An online business can pick up provincial duties without opening a provincial office."
         },
         {
           "type": "heading",
@@ -348,11 +321,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Strong CRA records form an evidence chain: capture the transaction, preserve the source, record it accurately, reconcile the account, and connect the supported total to the return. Keep electronic records readable and restorable, retain them for the correct period, and preserve corrections instead of hiding them. The best record system isn't the one with the most folders — it's the one that answers the next reasonable question."
+          "text": "Strong records form a chain: capture the transaction, keep the source, record it accurately, check the account and link the checked total to the return. Keep electronic records readable and restorable, keep them for the right length of time and show your corrections instead of hiding them. The best record system isn’t the one with the most folders. It’s the one that can answer the next reasonable question."
         },
         {
           "type": "spotlight",
-          "text": "Create a yearly \"proof package\" after every return is filed — the final return, confirmation, working papers, reconciled trial balance or income-and-expense summary, major elections, tax payments, assessment, list of source folders, software exports, and unresolved follow-up items. Keep the detail in its normal folders; the proof package is just the map."
+          "text": "After every return, create a yearly “proof package”: the final return, the filing confirmation, working papers, an income and expense summary, major elections, tax payments, the assessment, a list of source folders, software exports and any open follow-up items. The details stay in their usual folders. The proof package is just the map."
         }
       ]
     },
@@ -366,27 +339,27 @@
           "items": [
             {
               "title": "What are the five links in the evidence chain?",
-              "detail": "The transaction, the source document, the bookkeeping entry, the reconciliation, and the filed return or report.",
+              "detail": "The transaction, the source document, the bookkeeping entry, the check against outside records and the return or report you filed.",
               "text": ""
             },
             {
               "title": "Why can a bank statement be insufficient support for an expense?",
-              "detail": "It may show that money moved without identifying the item, supplier, business purpose, or required GST/HST information.",
+              "detail": "It may show money moved without showing the item, the supplier, the business reason or the GST/HST details you need.",
               "text": ""
             },
             {
               "title": "What should a monthly close note record?",
-              "detail": "The accounts reconciled, missing items, corrections, unusual transactions, and who reviewed the period.",
+              "detail": "The accounts checked, missing items, corrections, anything unusual and who reviewed the month.",
               "text": ""
             },
             {
               "title": "Why should data be exported from cloud accounting or platform services?",
-              "detail": "The business stays responsible for accessible records, and service access, formats or providers can change — exports preserve transaction-level evidence.",
+              "detail": "You stay responsible for having records, and services, formats or providers can change. Downloads keep the full transaction detail.",
               "text": ""
             },
             {
               "title": "Why isn't the general six-year retention rule an automatic destruction date?",
-              "detail": "The period is measured from the relevant tax year, and late filing, disputes, property history, CRA directions, other laws and special entity rules can all extend it.",
+              "detail": "It counts from the end of the tax year, not the day you bought something. Late returns, disputes, property and other laws can make it longer.",
               "text": ""
             }
           ]
@@ -405,14 +378,14 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Complete these seven steps. This is a fact-finding exercise, not a filing."
+          "text": "Answer these six questions. This is fact-finding, not a filing."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "Skip passwords, full account numbers, employee identifiers, customer personal information or confidential tax documents in this form — this is a map of where records live, not the records themselves."
+          "text": "Leave passwords, full account numbers, employee details, customer personal information and tax documents out of this form. This is a map of where your records live, not the records themselves."
         }
       ]
     },
@@ -426,35 +399,35 @@
           "items": [
             {
               "title": "Audit trail",
-              "text": "A traceable history connecting an original transaction, later entries, corrections and reported totals."
+              "text": "A clear path from the first sale or purchase to each later entry, fix and total."
             },
             {
               "title": "Backup",
-              "text": "A separate copy of electronic information that can be restored after loss, damage or system failure."
+              "text": "A separate copy of electronic files that can be restored after loss, damage or a system failure."
             },
             {
               "title": "Books and records",
-              "text": "Accounting information and supporting documents needed to determine and verify tax obligations and entitlements."
+              "text": "Accounting information and the papers behind it, needed to work out and check your taxes."
             },
             {
               "title": "Reconciliation",
-              "text": "A comparison of two record sources, such as a ledger and a bank statement, to identify and explain differences."
+              "text": "Comparing two sets of records, such as your ledger and your bank statement, to find and explain any differences."
             },
             {
               "title": "Retention period",
-              "text": "The length of time a record must remain available under the applicable rule."
+              "text": "How long a record must be kept available."
             },
             {
               "title": "Source document",
-              "text": "Original evidence of a transaction, such as an invoice, receipt, contract, statement or log."
+              "text": "The original proof of a transaction, such as an invoice, receipt, contract, statement or log."
             },
             {
               "title": "T137",
-              "text": "The CRA form used to request permission to destroy certain records before the required retention period ends."
+              "text": "The CRA form to ask permission to destroy records before the six years are up."
             },
             {
               "title": "Usable electronic format",
-              "text": "A format that can be accessed, read and processed for review rather than merely viewed as an inaccessible backup or obsolete file."
+              "text": "A file format that can be opened, read and processed for review, not just viewed in a locked or outdated file."
             }
           ]
         }
@@ -471,22 +444,20 @@
   },
   "checkIn": {
     "questions": [
-      "Every place income, expenses, payroll, GST/HST and asset information gets created:",
-      "The source document that supports each major transaction type:",
-      "Who enters, reconciles, reviews and files the information:",
-      "My monthly close date and the accounts I'll reconcile:",
-      "Export format, backup location and last restore-test date for each electronic system:",
-      "My general retention review date, and any reason records may need to be kept longer:",
-      "One missing link to repair this month — finishing “The record link I will repair first is ___, and I will confirm it by ___ using ___”:"
+      "Where are your income, expense, payroll, GST/HST and equipment records created?",
+      "Which source document backs up each main type of transaction?",
+      "Who enters, checks, reviews and files the information?",
+      "What is your monthly close date, and which accounts will you check?",
+      "Where are your electronic records backed up, and when did you last test a restore?",
+      "What is one missing link you’ll fix this month, and how?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: invoices in my bookkeeping app, sales on a marketplace, receipts on my phone.",
+      "For example: sales by invoice, supplies by receipt, driving by logbook.",
+      "For example: I enter and check; my bookkeeper reviews; my accountant files.",
+      "For example: the 5th of each month; business chequing, credit card and marketplace.",
+      "For example: a home drive and a cloud folder; restore tested in March.",
+      "For example: download last spring’s marketplace reports by Friday and match them to my bank."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

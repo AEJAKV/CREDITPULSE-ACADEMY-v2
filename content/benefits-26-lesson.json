@@ -24,7 +24,13 @@
         },
         {
           "type": "paragraph",
-          "text": "Small employers use these programs every year to hire people they could not otherwise afford, and they also get squeezed every July by employers who planned the subsidy as a discount instead of a rebate. This module sorts which program fits which hire, what actually gets reimbursed, and how to survive the gap between paying payroll and getting money back."
+          "text": "Small employers use these programs every year to hire people they could not otherwise afford. Every July, they also get squeezed when they planned the subsidy as a discount instead of a rebate. This module sorts out which program fits which hire, what gets paid back and how to survive the gap between paying staff and getting money back."
+        },
+        {
+          "type": "transition",
+          "text": "Planning a wage subsidy as a late rebate, not a discount, lets you hire without running out of cash in July.",
+          "detail": "The person you hire picks the program, and the timing of the refund decides whether it helps or squeezes.",
+          "extra": "Section 02 asks three questions before you post the job."
         }
       ]
     },
@@ -173,22 +179,22 @@
         },
         {
           "type": "paragraph",
-          "text": "First, total government assistance generally cannot exceed one hundred percent of the wages actually paid. Stacking two subsidies on the same employee’s same hours is the classic disqualifier, and it is usually discovered at audit rather than at application."
+          "text": "First, all government help together usually cannot be more than one hundred percent of the wages you paid. Stacking two subsidies on the same person’s same hours is the classic way to lose both, and it is usually found at audit, not when you apply."
         },
         {
           "type": "paragraph",
-          "text": "Second, government assistance reduces what you can claim elsewhere. If a subsidised employee’s work would otherwise qualify for research and development credits, only your net out-of-pocket wage cost counts toward that claim. The subsidy is still worth more than the credit it displaces almost every time, but a budget built on getting both in full is a wrong budget."
+          "text": "Second, government help lowers what you can claim elsewhere. If a subsidized worker’s job would also count for research and development credits, only the wage cost you paid yourself counts toward that claim. The subsidy is still worth more than the credit it replaces almost every time, but a budget that counts both in full is wrong."
         },
         {
           "type": "paragraph",
-          "text": "The subsidy itself is generally taxable income to the business, or it reduces the deductible wage expense, depending on how it is structured. Ask the program which, and tell your accountant before year-end rather than after."
+          "text": "The subsidy itself is usually taxable income to the business, or it lowers the wage expense you can deduct, depending on how it is set up. Ask the program which one applies, and tell your accountant before year-end, not after."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Once the subsidy is approved, the position is funded.”",
-              "text": "Approval is conditional on the placement running as described, the documentation being complete, and the claim arriving inside the deadline, often as short as thirty days after the job ends. Money already advanced can be clawed back when reporting is missed. The application is the beginning of the obligation, not the end of it."
+              "text": "Approval depends on the job running as described, the paperwork being complete and the claim arriving before the deadline, often just thirty days after the job ends. Money already paid in advance can be taken back if a report is missed. The application is the start of your duties, not the end."
             }
           ]
         }
@@ -230,7 +236,7 @@
         },
         {
           "type": "paragraph",
-          "text": "That fifth line is not pedantry. Extending an offer before the agreement is signed is one of the most common ways employers disqualify themselves, and it is also how a small business ends up honouring a job offer with no subsidy behind it."
+          "text": "That fifth line is not fussiness. Making the job offer before the agreement is signed is one of the most common ways employers rule themselves out. It is also how a small business ends up keeping a job offer with no subsidy behind it."
         }
       ]
     },
@@ -245,7 +251,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Treated as a discount, a wage subsidy saves you some money on a summer position and is forgotten by September. Treated as a recruiting instrument, it is the cheapest hiring pipeline available to a small Canadian employer. The people who use these programs well hire the same way every year, keep the good ones on afterward, and build a relationship with the delivery partner or the local employment office, which is how they hear about intakes early and how their applications get stronger each cycle. A student placement program in particular is a low-risk sixteen-week interview for a role you would otherwise fill by guessing from a resume. Weigh that against the cost of a bad permanent hire: the recruitment, the ramp-up, the severance, the six months spent hoping it improves. A subsidised placement is not a saving on wages. It is risk reduction with a rebate attached."
+          "text": "Treated as a discount, a wage subsidy saves you some money on a summer job and is forgotten by September. Treated as a way to recruit, it is the cheapest hiring pipeline a small Canadian employer has. Employers who use these programs well hire the same way every year, keep the good ones and build a relationship with the program partner or the local employment office. That is how they hear about intakes early, and how their applications get stronger each year. A student placement is a low-risk, sixteen-week interview for a job you would otherwise fill by guessing from a resume. Weigh that against a bad permanent hire: the recruiting, the training, the severance and six months of hoping it improves. A subsidized placement is not a saving on wages. It is less risk, with a rebate attached."
         },
         {
           "type": "story",
@@ -253,22 +259,31 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Dev runs a six-person landscaping company outside Kamloops. He had used the summer jobs program twice before and treated the subsidy as a discount, which worked fine both times because both times he had a cushion. In the third year the cushion was gone. He had bought a second truck in April, and by mid-June he was covering two subsidised wages plus payroll costs, with the reimbursement not due until September.",
-            "What saved it was a question he had never thought to ask. Chasing something else with the program contact, he mentioned the cash-flow squeeze, and she told him that many funded employers can request an advance, and that a surprising number never do. He asked. It was not the full amount and it did not arrive instantly, but it moved enough money forward to keep him off the business credit card for the summer.",
-            "The second thing he changed was the calendar. The following year he submitted the final claim the same week the placements ended, rather than in the general September pile of things he intended to get to. The money arrived roughly a month earlier than it had the year before, for no reason other than that he had sent it earlier.",
-            "He also kept one of the students. She had spent sixteen weeks demonstrating she could handle irrigation systems and difficult customers, which is more than any interview had ever told him about anyone. Her wage in year two was not subsidised at all, and Dev has since described that as the best return the program ever gave him."
+            "Dev runs a six-person landscaping company outside Kamloops. He has used the summer jobs program twice, and both times he treated the subsidy like a discount. It worked, because both times he had a cushion. His goal this year is the same: two summer students to keep up with the season.",
+            "This year the cushion is gone. He bought a second truck in April. By mid-June he is paying two wages plus payroll costs, and the refund is not due until September.",
+            "Dev looks at the business credit card. Putting the summer payroll on it would keep things moving. It would also cost him a lot by September.",
+            "While calling the program contact about something else, he mentions the cash squeeze. She tells him many funded employers can ask for an advance, and a surprising number never do. Dev decides to ask. The advance covers part of the payroll and takes a couple of weeks to arrive. It moves enough money forward to keep him off the card for the summer.",
+            "He changes one more thing the next year. He sends the final claim the same week the placements end, not in the September pile of things he means to get to. The money arrives about a month earlier, for no reason except that he sent it earlier.",
+            "The twist is the best part. Dev keeps one of the students. She spent sixteen weeks proving she could handle irrigation systems and difficult customers, which is more than any interview ever told him about anyone.",
+            "Her wage in year two is not subsidized at all. Dev calls her the best return the program ever gave him."
           ]
         },
         {
           "type": "takeaway",
-          "text": "A wage subsidy is a partial reimbursement arriving late, not a discount applied up front. Only hire someone you would hire anyway, sign the funding agreement before you extend the offer, model carrying full payroll until the money lands, ask about advances and interim claims, and file the claim the week the placement ends.",
+          "text": "A wage subsidy is a partial refund that arrives late, not a discount up front. Only hire someone you would hire anyway, sign the funding agreement before you make the offer, plan to carry full payroll until the money arrives, ask about advances and interim claims, and send the claim the week the placement ends.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Dev kept his summer payroll off the credit card by asking for an advance, and hired a great worker for good.",
+          "detail": "One question about advances, and a claim sent on time, can protect your own cash flow too.",
+          "extra": "Your action this week, in Section 08, starts with the person you want to hire."
         }
       ]
     },
     {
       "id": "action",
-      "title": "Your action this week",
+      "title": "Your Action (Fill Out Form): Your Hire",
       "paragraphs": [],
       "blocks": [
         {
@@ -311,31 +326,31 @@
           "items": [
             {
               "title": "MERCs",
-              "text": "Mandatory employment-related costs. The employer’s share of CPP, EI, vacation pay and similar. Reimbursed by some programs and not others."
+              "text": "Mandatory employment-related costs: your share of CPP, EI, vacation pay and similar. Some programs pay these back and others do not."
             },
             {
               "title": "Displacement rule",
-              "text": "The prohibition on using a subsidised hire to replace an existing or recently laid-off employee."
+              "text": "You cannot use a subsidized hire to replace a current worker or someone recently laid off."
             },
             {
               "title": "Interim claim",
-              "text": "A partial reimbursement filed during a placement rather than after it. Where offered, it materially shortens the cash-flow gap."
+              "text": "A partial refund you claim during a placement instead of after it. Where offered, it shortens the cash gap a lot."
             },
             {
               "title": "Delivery partner",
-              "text": "The sector organization that administers a federal program on the government’s behalf. For several programs you apply to them, not to Ottawa."
+              "text": "The industry group that runs a federal program for the government. For several programs, you apply to them, not to Ottawa."
             },
             {
               "title": "Stacking cap",
-              "text": "The limit, usually one hundred percent of wages paid, on combined government assistance for the same hours."
+              "text": "The limit, usually one hundred percent of wages paid, on all government help for the same hours."
             },
             {
               "title": "AJCTC",
-              "text": "Apprenticeship Job Creation Tax Credit. A non-refundable federal credit on apprentice wages in Red Seal trades. No tax payable means no benefit."
+              "text": "Apprenticeship Job Creation Tax Credit. A federal credit on apprentice wages in Red Seal trades. If you owe no tax, it does not help."
             },
             {
               "title": "Clawback",
-              "text": "Recovery of funds already paid, typically triggered by missed reporting or a placement that did not run as described."
+              "text": "Paying back money you already got, usually because a report was missed or a placement did not run as described."
             }
           ]
         },
@@ -371,13 +386,23 @@
   },
   "checkIn": {
     "questions": [
-      "Who am I hiring, and which program matches that person?",
-      "Full cost per pay period, including employer CPP, EI, vacation and premiums:",
-      "Weeks between first payroll and expected reimbursement, and how I carry it:",
-      "Application deadline, claim deadline, and who is responsible for reporting:"
+      "Who do you want to hire? (Summer student / College or university student / Apprentice / Young person in a tech role / Person with a disability / Not sure)",
+      "Which program matches that person? Write “not sure yet” if you have not found one.",
+      "What is the full cost of the job each pay period, including your share of CPP, EI, vacation pay and premiums? An estimate is fine.",
+      "About how many weeks will pass between your first payroll and the refund, and how will you carry it?",
+      "What are the application deadline and the claim deadline?",
+      "Who in your business will do the reports?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "Two summer students.",
+      "Canada Summer Jobs.",
+      "About $1,500 for each student every two weeks.",
+      "About 20 weeks. I will ask for an advance.",
+      "Applications close in January. The claim is due 30 days after the job ends.",
+      "Me. I will send the claim the week the placement ends."
+    ]
   },
   "sources": []
 }

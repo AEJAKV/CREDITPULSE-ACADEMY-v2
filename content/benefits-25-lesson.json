@@ -24,13 +24,19 @@
         },
         {
           "type": "paragraph",
-          "text": "The Canadian small-business funding landscape has at least five different financial instruments, and almost everyone calls all five a grant. This module sorts what each one actually costs you, what a legitimate application needs, and the order that gets you funded instead of stalled."
+          "text": "Small businesses in Canada can get at least five different kinds of money, and almost everyone calls all five a grant. This module sorts out what each one costs you, what a real application needs, and the order that gets you funded instead of stuck."
+        },
+        {
+          "type": "transition",
+          "text": "Knowing which “grant” is a loan keeps your business from signing up for debt it did not plan for.",
+          "detail": "Five kinds of money look alike in an ad, and each one costs you something different.",
+          "extra": "Section 02 sorts the five kinds of money."
         }
       ]
     },
     {
       "id": "instruments",
-      "title": "Five kinds of money, and what each one actually costs you",
+      "title": "Five Kinds of Money, and What Each One Costs You",
       "paragraphs": [],
       "blocks": [
         {
@@ -91,7 +97,7 @@
           "items": [
             {
               "title": "“There is a big pot of free government money for anyone starting a business.”",
-              "text": "There is a large pot of funding, and most of it is repayable, sector-specific, or tied to a defined project rather than to starting up in general. Programs also close: the Canada Digital Adoption Program, heavily advertised for years, closed in 2024 and is still cited by consultants. If a page selling you something does not carry a recent date, treat it as fiction."
+              "text": "There is a large pot of funding, but most of it must be paid back, is for certain industries or is tied to a set project, not to starting a business in general. Programs also close. The Canada Digital Adoption Program, heavily advertised for years, closed in 2024 and is still cited by consultants. If a page selling you something has no recent date, treat it as fiction."
             }
           ]
         }
@@ -108,7 +114,7 @@
         },
         {
           "type": "spotlight",
-          "text": "A whole industry exists between you and this money. Some of it is legitimate: experienced grant writers who charge a fair fee for genuine work on complex applications. Some of it is not. The pattern to recognize is a cold approach, by email, phone or social media, promising access to funding you have not heard of, followed by an up-front fee, a percentage of any money awarded, or both. Common tells: they will not name the specific program before you pay, they claim a relationship with a government department, they guarantee approval, or they charge you to be told about programs that are listed publicly on the Business Benefits Finder for free. Before paying anyone, run the program name through the federal Business Benefits Finder and your regional development agency’s site. If the program exists, you can apply yourself or get free help from a Small Business Enterprise Centre or Community Futures office. If it does not exist, you have your answer. A legitimate consultant will have no problem with you doing this first."
+          "text": "A whole industry stands between you and this money. Some of it is honest: experienced grant writers who charge a fair fee for real work on hard applications. Some of it is not. The pattern to watch for is a cold approach by email, phone or social media, promising funding you have never heard of, followed by a fee up front, a cut of any money awarded, or both. Warning signs: they will not name the program before you pay, they claim a link to a government department, they promise approval, or they charge you to learn about programs listed for free on the Business Benefits Finder. Before you pay anyone, look up the program name on the federal Business Benefits Finder and your regional development agency’s site. If the program exists, you can apply yourself or get free help from a Small Business Enterprise Centre or a Community Futures office. If it does not exist, you have your answer. An honest consultant will have no problem with you checking first."
         }
       ]
     },
@@ -119,7 +125,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Funding applications fail at the document stage far more often than at the merit stage. Assemble this once, and every application after it takes a fraction of the time."
+          "text": "Funding applications fail at the paperwork stage far more often than on merit. Gather these once, and every application after that takes a fraction of the time."
         },
         {
           "type": "chips",
@@ -152,14 +158,14 @@
         },
         {
           "type": "paragraph",
-          "text": "That fourth item deserves its own sentence. The most common shock in this course is discovering that an approved grant does not arrive as a cheque before the work. It arrives as a reimbursement after you have paid the invoices, submitted the claim and waited. A business that cannot float the project cannot use the grant, no matter how well it applied."
+          "text": "That fourth item deserves its own sentence. The most common shock in this course is learning that an approved grant does not arrive as a cheque before the work. It arrives as a refund after you have paid the bills, sent the claim and waited. A business that cannot carry the project until then cannot use the grant, no matter how well it applied."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“I will apply now and figure out the matching contribution later.”",
-              "text": "Matching funds are usually a condition of approval, not a formality after it. Applying without knowing where your share comes from wastes weeks of your time and burns a relationship with a program officer you may want again next year."
+              "text": "Your matching share is usually a condition of approval, not a detail after it. Applying without knowing where your share comes from wastes weeks and strains a relationship with a program officer you may want again next year."
             }
           ]
         }
@@ -176,7 +182,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Say yes to a repayable contribution, and three things change at once, none of which appear in the announcement. First, you have taken on a liability, and your lender will see it the next time you apply for credit. Second, most non-repayable contributions are taxable to the business or reduce the cost base of whatever they funded, so part of that money goes back at tax time. Budget for it rather than being surprised. Third, government assistance generally reduces the expenditure pool for other credits: a wage subsidy on a researcher’s salary lowers the amount of that salary you can claim for research credits. None of this makes the funding a bad idea. It makes stacking an arithmetic exercise rather than an act of collecting. Before you sign, ask the program officer directly: is this taxable to us, does it reduce any other credit we claim, and when exactly does repayment begin. Write the answers down. Program officers answer this question all day and are rarely asked it."
+          "text": "Say yes to a contribution you must repay, and three things change at once. None of them appear in the announcement. First, you have taken on a debt, and your lender will see it the next time you apply for credit. Second, most grants you do not repay are taxable to the business or lower the cost base of what they paid for, so part of that money goes back at tax time. Budget for it. Third, government help usually lowers what you can claim for other credits. A wage subsidy on a researcher’s pay lowers the part of that pay you can claim for research credits. None of this makes the funding a bad idea. It makes combining programs a math problem, not a collection. Before you sign, ask the program officer: is this taxable to us, does it reduce any other credit we claim, and when does repayment start? Write the answers down. Program officers hear these questions rarely and answer them gladly."
         }
       ]
     },
@@ -190,7 +196,7 @@
           "items": [
             {
               "title": "Run the Business Benefits Finder first",
-              "text": "It is the federal government’s own cross-program questionnaire, it is free, and it surfaces programs no consultant needed to tell you about."
+              "text": "It is the federal government’s own questionnaire across many programs. It is free, and it finds programs no consultant needed to tell you about."
             },
             {
               "title": "Call your regional agency and your local support office",
@@ -198,7 +204,7 @@
             },
             {
               "title": "Classify every option by instrument",
-              "text": "Grant, repayable contribution, loan, tax credit or advisory. Write the classification next to the name so future-you does not have to re-establish it."
+              "text": "Grant, repayable contribution, loan, tax credit or advice. Write the label next to each name, so future-you does not have to work it out again."
             },
             {
               "title": "Define the project before you shop for money",
@@ -210,7 +216,7 @@
             },
             {
               "title": "Set up the reporting on day one",
-              "text": "Most agreements require progress and financial reporting, and missed reports can claw back money already paid."
+              "text": "Most agreements need progress and money reports, and a missed report can mean paying back money you already got."
             }
           ]
         }
@@ -227,22 +233,31 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Sylvie runs a bakery in Trois-Rivieres with four employees and a fifteen-year-old oven that had started making a noise nobody wanted to identify. The replacement was going to cost more than the business had. Then an email arrived offering to secure government funding for equipment upgrades, from a firm with a professional website and a logo that sat suspiciously close to a federal wordmark.",
-            "The fee was eleven hundred dollars up front, plus a percentage of anything awarded. They would not name the program before she paid, which they explained was to protect their proprietary research. Sylvie, who has run a business through two recessions and a pandemic, found this a slightly odd way to protect anything.",
-            "She called the local Community Futures office instead, which cost nothing and took twenty minutes. The counsellor named two programs in the first five minutes: a regional development agency stream with a repayable component, and a provincial energy-efficiency rebate on commercial equipment that nobody had thought to mention, because Sylvie had been thinking about ovens rather than electricity. He also told her the thing that mattered most: the contribution reimbursed after purchase, so she needed bridge financing for roughly four months.",
-            "She got the oven. The funding covered a meaningful share, the rebate covered more of it than she expected, and her credit union financed the gap at a rate that did not frighten anyone. The eleven hundred dollars stayed in the account, which in a bakery is a lot of flour."
+            "Sylvie runs a bakery in Trois-Rivières with four employees and a fifteen-year-old oven. Lately the oven makes a noise nobody wants to identify. Her goal is to replace it before it dies in the middle of the Christmas rush.",
+            "The new oven costs more than the business has. Then an email arrives. A firm offers to find her government money for new equipment. It has a slick website and a logo that sits suspiciously close to a federal wordmark.",
+            "The fee is $1,100 up front, plus a cut of anything she gets. They will not name the program before she pays. They say it protects their research. Sylvie has run a business through two recessions and a pandemic. She finds this a slightly odd way to protect anything.",
+            "Still, the oven is getting louder. Paying feels faster than searching. Sylvie decides to make one free call first. She phones her local Community Futures office.",
+            "In twenty minutes, the counsellor names two programs. One is a regional fund that is partly paid back. The other is a provincial rebate on energy-saving equipment that nobody had mentioned. Sylvie had been thinking about ovens, not power bills.",
+            "He also tells her the catch that matters most. The fund pays her back after she buys the oven, so she will need about four months of bridge money. Her credit union covers the gap at a rate that does not frighten anyone.",
+            "Sylvie gets the oven before the rush. The funding covers a real share, and the rebate covers more than she expected. The $1,100 stays in the account, which in a bakery is a lot of flour."
           ]
         },
         {
           "type": "takeaway",
-          "text": "Before anything else, classify the money: grant, repayable contribution, loan, tax credit or advice. Run the Business Benefits Finder and call your regional agency yourself before paying anyone a fee. Define a dated project with a budget rather than a need for funding. And confirm in writing whether the money reimburses after you spend, because a grant you cannot float is a grant you cannot use.",
+          "text": "Before anything else, sort the money: grant, repayable contribution, loan, tax credit or advice. Use the Business Benefits Finder and call your regional agency yourself before you pay anyone a fee. Define a dated project with a budget, not just a need for money. And confirm in writing whether the money pays you back after you spend, because a grant you cannot carry is a grant you cannot use.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Sylvie found two programs and kept $1,100 by making one free call before paying a consultant.",
+          "detail": "Checking the program yourself first can save your own business the fee and find money nobody mentioned.",
+          "extra": "Your action this week, in Section 08, starts with the Business Benefits Finder."
         }
       ]
     },
     {
       "id": "action",
-      "title": "Your action this week",
+      "title": "Your Action (Fill Out Form): Your Funding Map",
       "paragraphs": [],
       "blocks": [
         {
@@ -285,35 +300,35 @@
           "items": [
             {
               "title": "Non-repayable contribution",
-              "text": "An actual grant. Usually reimbursed after you spend, and often taxable to the business."
+              "text": "A real grant. Usually paid back to you after you spend, and often taxable to the business."
             },
             {
               "title": "Repayable contribution",
-              "text": "Project funding you pay back, frequently interest-free with a delayed start. A liability, not a grant."
+              "text": "Project money you pay back, often with no interest and a delayed start. It is debt, not a grant."
             },
             {
               "title": "Conditionally repayable",
-              "text": "Repayment triggered only if defined conditions or revenue thresholds are met."
+              "text": "You only pay it back if set conditions or sales targets are met."
             },
             {
               "title": "Regional development agency",
-              "text": "The federal bodies delivering regional business funding: ACOA, CED, FedDev, FedNor, PrairiesCan, PacifiCan, CanNor."
+              "text": "The federal bodies that give out regional business funding: ACOA, CED, FedDev, FedNor, PrairiesCan, PacifiCan and CanNor."
             },
             {
               "title": "Community Futures",
-              "text": "The network of local non-profit offices delivering business advice and lending in rural and small-town Canada."
+              "text": "Local non-profit offices that give business advice and loans in rural and small-town Canada."
             },
             {
               "title": "Matching contribution",
-              "text": "The share of project cost you must fund yourself. Usually a condition of approval, not a detail."
+              "text": "The share of project cost you must pay yourself. Usually a condition of approval, not a detail."
             },
             {
               "title": "SR&ED",
-              "text": "The federal research and development tax credit program, claimed on the corporate return rather than applied for."
+              "text": "The federal research and development tax credit, claimed on the business tax return, not applied for."
             },
             {
               "title": "Business Benefits Finder",
-              "text": "The Government of Canada’s free cross-program discovery questionnaire. The first stop, and the reason most consultant fees are unnecessary."
+              "text": "The Government of Canada’s free questionnaire for finding programs. The first stop, and the reason most consultant fees are not needed."
             }
           ]
         },
@@ -349,13 +364,23 @@
   },
   "checkIn": {
     "questions": [
-      "My project in one sentence, with a start date and a total budget:",
-      "Programs found, and the instrument each one actually is:",
-      "My matching contribution, where is it coming from?",
-      "If this reimburses after I spend, how do I bridge the gap, and what does that cost?"
+      "What is your project, in one sentence, with a start date and a total budget?",
+      "Which programs did you find, and what kind of money is each one? (Grant / Repayable contribution / Loan / Tax credit / Advice)",
+      "How much of the cost must you cover yourself, and where will it come from?",
+      "Does the money arrive before you spend, or after? (Before / After / Not sure)",
+      "If it arrives after, how will you cover the gap, and about what will that cost?",
+      "Has anyone asked you for a fee to find funding? (Yes / No) If yes, have you looked up the program yourself?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "Replace our bakery oven by November 1. About $28,000.",
+      "A regional development fund, partly repayable. A provincial energy rebate.",
+      "About 30%, from our savings.",
+      "After.",
+      "A four-month loan from our credit union, about $400 in interest.",
+      "Yes. I called Community Futures instead."
+    ]
   },
   "sources": []
 }

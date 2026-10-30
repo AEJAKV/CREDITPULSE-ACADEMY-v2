@@ -50,24 +50,24 @@
           "type": "chips",
           "items": [
             {
-              "title": "Publish an owner-approved business page with the actual service area and offer.",
-              "text": "Publish a business page the owner approved, with the real service area and offer."
+              "title": "Publish a business page the owner approved, with the real service area and offer.",
+              "text": ""
             },
             {
-              "title": "Invite interested people to a short request form; referrers can share its public link.",
-              "text": "Invite people to a short request form. Others can share its public link."
+              "title": "Invite people to a short request form. Others can share its public link.",
+              "text": ""
             },
             {
-              "title": "Explain who receives the request and why before asking for permission.",
-              "text": "Say who gets the request and why before you ask for permission."
+              "title": "Say who gets the request and why before you ask for permission.",
+              "text": ""
             },
             {
-              "title": "Check the agreed lead rules, send eligible requests and record the handoff.",
-              "text": "Check the agreed lead rules, send the requests that fit and record each handoff."
+              "title": "Check the agreed lead rules, send the requests that fit and record each handoff.",
+              "text": ""
             },
             {
-              "title": "Ask the client for outcome updates, then report what happened.",
-              "text": "Ask the client what happened with each lead, then report it."
+              "title": "Ask the client what happened with each lead, then report it.",
+              "text": ""
             }
           ]
         },

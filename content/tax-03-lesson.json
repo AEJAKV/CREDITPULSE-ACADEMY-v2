@@ -79,16 +79,16 @@
           "type": "chips",
           "items": [
             {
-              "title": "Late February. T4 and other tax slips arrive, either by mail or in your CRA account. NETFILE, the online filing system, opens around this time too.",
-              "text": "Late February. T4s and other tax slips arrive by mail or in your CRA account. NETFILE, the online filing system, opens around the same time."
+              "title": "Late February. T4s and other tax slips arrive by mail or in your CRA account. NETFILE, the online filing system, opens around the same time.",
+              "text": ""
             },
             {
               "title": "April 30. The deadline for most Canadians to file, and to pay anything owed.",
               "text": ""
             },
             {
-              "title": "June 15. The filing deadline if you or your spouse are self-employed. But watch closely — any money owed is still due April 30, even with the later filing date.",
-              "text": "June 15. The filing deadline if you or your spouse are self-employed. But any money owed is still due April 30, even with the later filing date."
+              "title": "June 15. The filing deadline if you or your spouse are self-employed. But any money owed is still due April 30, even with the later filing date.",
+              "text": ""
             }
           ]
         },
@@ -174,8 +174,8 @@
           "type": "chips",
           "items": [
             {
-              "title": "I have all my tax slips — T4, T5, tuition receipts, anything else that applies to me.",
-              "text": "I have all my tax slips: T4, T5, tuition receipts and anything else that applies to me."
+              "title": "I have all my tax slips: T4, T5, tuition receipts and anything else that applies to me.",
+              "text": ""
             },
             {
               "title": "I know whether I’m filing by April 30 or June 15.",

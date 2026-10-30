@@ -157,20 +157,20 @@
           "type": "chips",
           "items": [
             {
-              "title": "Business facts: record the structure, Ontario location, operating name and home organizing scope. Note whether you will sell goods or hire employees.",
-              "text": "Business facts: write down the structure, the Ontario location, the business name and the home organizing work. Note whether you will sell goods or hire staff."
+              "title": "Business facts: write down the structure, the Ontario location, the business name and the home organizing work. Note whether you will sell goods or hire staff.",
+              "text": ""
             },
             {
-              "title": "Registry: Ontario’s Business Names Act requires an individual using a name other than their own to register it. Use the Ontario Business Registry process; save the submitted details and receipt.",
-              "text": "Registry: Ontario’s Business Names Act says a person using a name other than their own must register it. Register through the Ontario Business Registry. It costs $60 and lasts five years, so note the renewal date. Save the details you sent and the receipt."
+              "title": "Registry: Ontario’s Business Names Act says a person using a name other than their own must register it. Register through the Ontario Business Registry. It costs $60 and lasts five years, so note the renewal date. Save the details you sent and the receipt.",
+              "text": ""
             },
             {
-              "title": "CRA: check existing BN records before requesting a number. Review the accounts needed for your activities, and save confirmation for each account actually opened.",
-              "text": "CRA: check whether you already have a BN before you ask for one. Review the accounts your work needs, and save the confirmation for each account you open."
+              "title": "CRA: check whether you already have a BN before you ask for one. Review the accounts your work needs, and save the confirmation for each account you open.",
+              "text": ""
             },
             {
-              "title": "Permissions: run a BizPaL search for your location and work. Ask the municipality about your home office and service activities; save answers and any required approvals separately.",
-              "text": "Permits: run a BizPaL search for your location and work. Ask the city about your home office and services. Save the answers and any approvals in their own section."
+              "title": "Permits: run a BizPaL search for your location and work. Ask the city about your home office and services. Save the answers and any approvals in their own section.",
+              "text": ""
             }
           ]
         },

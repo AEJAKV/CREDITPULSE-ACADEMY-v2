@@ -172,24 +172,24 @@
           "type": "chips",
           "items": [
             {
-              "title": "I know my current RRSP room, checked in my CRA account, not estimated.",
-              "text": "I know my RRSP deduction limit, checked on my Notice of Assessment, not estimated."
+              "title": "I know my RRSP deduction limit, checked on my Notice of Assessment, not estimated.",
+              "text": ""
             },
             {
               "title": "I know roughly which shelf I’m on this year, and whether that makes an RRSP deduction especially valuable right now.",
               "text": ""
             },
             {
-              "title": "I understand withdrawals are taxed as income later — this isn’t free money, just deferred tax.",
-              "text": "I understand withdrawals are taxed as income later. This is deferred tax, not free money."
+              "title": "I understand withdrawals are taxed as income later. This is deferred tax, not free money.",
+              "text": ""
             },
             {
               "title": "If I’m contributing in January or February, I know I can choose which tax year it applies to.",
               "text": ""
             },
             {
-              "title": "I haven’t confused my RRSP with my TFSA — they work in opposite directions.",
-              "text": "I won’t mix up my RRSP and my TFSA. They work in opposite directions."
+              "title": "I won’t mix up my RRSP and my TFSA. They work in opposite directions.",
+              "text": ""
             }
           ]
         }

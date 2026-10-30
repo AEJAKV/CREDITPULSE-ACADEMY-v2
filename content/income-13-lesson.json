@@ -154,20 +154,20 @@
           "type": "chips",
           "items": [
             {
-              "title": "Formation: save the certificate, filed articles and registry confirmations. Record where incorporation occurred.",
-              "text": "Formation: save the certificate, the filed articles and the registry receipts. Note where the company was formed."
+              "title": "Formation: save the certificate, the filed articles and the registry receipts. Note where the company was formed.",
+              "text": ""
             },
             {
-              "title": "Ownership and decisions: keep by-laws, organisational resolutions, officer appointments and share records. Corporations Canada says federal share issuance requires full payment and a recorded directors’ decision.",
-              "text": "Ownership and decisions: keep the by-laws, first resolutions, officer appointments and share records. Corporations Canada says a federal company can issue shares only once they are fully paid and the directors have approved it in writing."
+              "title": "Ownership and decisions: keep the by-laws, first resolutions, officer appointments and share records. Corporations Canada says a federal company can issue shares only once they are fully paid and the directors have approved it in writing.",
+              "text": ""
             },
             {
-              "title": "Money: open the corporate bank account and set up bookkeeping. Keep receipts from the first purchase, and have an accountant explain how to record money you put into the company.",
-              "text": "Money: open the company bank account and set up bookkeeping. Keep receipts from the first purchase. Ask an accountant how to record money you put into the company."
+              "title": "Money: open the company bank account and set up bookkeeping. Keep receipts from the first purchase. Ask an accountant how to record money you put into the company.",
+              "text": ""
             },
             {
-              "title": "Operations: check contracts and insurance in the company’s name. List existing equipment and agreements for advice about any transfer; incorporation does not automatically move them.",
-              "text": "Operations: put contracts and insurance in the company’s name. List the equipment and agreements you already have and get advice on moving them. Incorporating does not move them for you."
+              "title": "Operations: put contracts and insurance in the company’s name. List the equipment and agreements you already have and get advice on moving them. Incorporating does not move them for you.",
+              "text": ""
             }
           ]
         },

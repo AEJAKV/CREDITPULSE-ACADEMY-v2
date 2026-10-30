@@ -54,20 +54,20 @@
           "type": "chips",
           "items": [
             {
-              "title": "Ownership and control: will you work alone, or invite another owner? If considering shares, discuss who can make which decisions.",
-              "text": "Ownership and control: will you work alone, or bring in another owner? If shares come into it, agree who can make which decisions."
+              "title": "Ownership and control: will you work alone, or bring in another owner? If shares come into it, agree who can make which decisions.",
+              "text": ""
             },
             {
-              "title": "Risk: could a job damage property, expose private records, or involve disputed instructions? List the actual work before asking about protection.",
-              "text": "Risk: could a job damage property, expose private papers or lead to a dispute about instructions? List the real tasks before you ask about protection."
+              "title": "Risk: could a job damage property, expose private papers or lead to a dispute about instructions? List the real tasks before you ask about protection.",
+              "text": ""
             },
             {
-              "title": "Administration: price the bookkeeping, tax preparation, registry obligations, and your own time for each option.",
-              "text": "Running costs: price the bookkeeping, tax filing, registry filings and your own time for each option."
+              "title": "Running costs: price the bookkeeping, tax filing, registry filings and your own time for each option.",
+              "text": ""
             },
             {
-              "title": "Cash: how much must reach your household, and how much could stay available for business plans?",
-              "text": "Cash: how much must reach your household each month, and how much could stay in the business for future plans?"
+              "title": "Cash: how much must reach your household each month, and how much could stay in the business for future plans?",
+              "text": ""
             }
           ]
         },

@@ -195,20 +195,20 @@
           "type": "chips",
           "items": [
             {
-              "title": "The beneficiary is approved for the Disability Tax Credit, or we’ve started that application.",
-              "text": "The person is approved for the Disability Tax Credit, or we’ve started the application."
+              "title": "The person is approved for the Disability Tax Credit, or we’ve started the application.",
+              "text": ""
             },
             {
               "title": "We’ve opened the account, even if we can’t contribute regularly right now.",
               "text": ""
             },
             {
-              "title": "We’ve checked whether family income qualifies for the bond, which needs no contribution.",
-              "text": "We’ve checked whether family income qualifies for the bond, which needs no deposit."
+              "title": "We’ve checked whether family income qualifies for the bond, which needs no deposit.",
+              "text": ""
             },
             {
-              "title": "We’ve looked at the Statement of Entitlement to see what carried-forward room exists.",
-              "text": "We’ve asked our provider how much carried-forward grant and bond room is left."
+              "title": "We’ve asked our provider how much carried-forward grant and bond room is left.",
+              "text": ""
             },
             {
               "title": "We understand the 10-year holdback rule before planning any withdrawals.",

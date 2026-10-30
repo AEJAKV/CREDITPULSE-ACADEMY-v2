@@ -72,7 +72,7 @@
           "items": [
             {
               "title": "Collect approved hours, service details, booking links and the shop’s tone of voice.",
-              "text": "Collect approved hours, service details, booking links and the shop’s tone of voice."
+              "text": ""
             },
             {
               "title": "Agree on four posts over two weeks, one revision round and weekday reply checks.",
@@ -83,8 +83,8 @@
               "text": ""
             },
             {
-              "title": "Record topics you can answer and issues the owner must handle.",
-              "text": "Write down the topics you can answer and the issues the owner must handle."
+              "title": "Write down the topics you can answer and the issues the owner must handle.",
+              "text": ""
             }
           ]
         },
@@ -163,12 +163,12 @@
           "type": "chips",
           "items": [
             {
-              "title": "Create a batch sheet with draft text, visual, facts checked, approver, status and planned date.",
-              "text": "Make a batch sheet with the draft text, image, facts checked, approver, status and planned date."
+              "title": "Make a batch sheet with the draft text, image, facts checked, approver, status and planned date.",
+              "text": ""
             },
             {
-              "title": "Review each image for customer details and content-use permission.",
-              "text": "Check each image for customer details and permission to use it."
+              "title": "Check each image for customer details and permission to use it.",
+              "text": ""
             },
             {
               "title": "Send the complete batch on Tuesday; ask for approval by Thursday.",
@@ -179,8 +179,8 @@
               "text": ""
             },
             {
-              "title": "Check replies during the agreed weekday window and log issues sent to the owner.",
-              "text": "Check replies during the agreed weekday hours and log every issue sent to the owner."
+              "title": "Check replies during the agreed weekday hours and log every issue sent to the owner.",
+              "text": ""
             }
           ]
         },

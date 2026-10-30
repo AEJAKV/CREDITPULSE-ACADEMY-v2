@@ -43,12 +43,12 @@
           "type": "chips",
           "items": [
             {
-              "title": "You’re a Canadian resident, 18 or older. The usual baseline for a registered account.",
-              "text": "You live in Canada and you’re 18 or older. That’s the usual starting point for a registered account."
+              "title": "You live in Canada and you’re 18 or older. That’s the usual starting point for a registered account.",
+              "text": ""
             },
             {
-              "title": "You’re a first-time home buyer. Meaning you haven’t owned and lived in a home — as your principal residence — in the current calendar year or the four before it. This applies to your spouse or partner too, if you have one.",
-              "text": "You’re a first-time home buyer. That means you haven’t lived in a home that you owned, or your spouse or partner owned, at any time this year or in the four years before."
+              "title": "You’re a first-time home buyer. That means you haven’t lived in a home that you owned, or your spouse or partner owned, at any time this year or in the four years before.",
+              "text": ""
             }
           ]
         },
@@ -177,12 +177,12 @@
           "type": "chips",
           "items": [
             {
-              "title": "I haven’t owned and lived in a home, as a principal residence, in the current year or the prior four.",
-              "text": "I haven’t lived in a home I or my spouse owned, this year or in the four years before."
+              "title": "I haven’t lived in a home I or my spouse owned, this year or in the four years before.",
+              "text": ""
             },
             {
               "title": "I have an FHSA open, even if I’m not close to buying yet.",
-              "text": "I have an FHSA open, even if I’m not close to buying yet."
+              "text": ""
             },
             {
               "title": "I know my current contribution room, not just the annual limit.",
@@ -193,8 +193,8 @@
               "text": ""
             },
             {
-              "title": "I know the account has to close within 15 years, or by the year I turn 71.",
-              "text": "I know the account must close within 15 years, or by the end of the year I turn 71."
+              "title": "I know the account must close within 15 years, or by the end of the year I turn 71.",
+              "text": ""
             }
           ]
         }

@@ -172,8 +172,8 @@
           "type": "chips",
           "items": [
             {
-              "title": "I know my actual available TFSA room, checked in my CRA account, not estimated from memory.",
-              "text": "I know my real TFSA room: the CRA’s January 1 figure, minus what I’ve put in this year."
+              "title": "I know my real TFSA room: the CRA’s January 1 figure, minus what I’ve put in this year.",
+              "text": ""
             },
             {
               "title": "If I withdrew money this year, I know it won’t count as available room again until next January 1.",

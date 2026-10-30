@@ -12,15 +12,21 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Nowhere else in personal finance can you put in a dollar and have the government hand you back twenty cents, guaranteed, no market risk involved."
+          "text": "Nowhere else in personal finance can you put in a dollar and have the government add twenty cents, guaranteed, with no market risk."
         },
         {
           "type": "paragraph",
-          "text": "That’s exactly what happens with an RESP — a Registered Education Savings Plan — for anyone saving toward a child’s future education. And yet a meaningful share of eligible families never claim it, simply because nobody explained how the matching actually works."
+          "text": "That’s what happens with an RESP, a Registered Education Savings Plan, when you save for a child’s education after high school. Yet many eligible families never claim it, because nobody explained how the matching works."
         },
         {
           "type": "paragraph",
-          "text": "This module fixes that."
+          "text": "This lesson fixes that."
+        },
+        {
+          "type": "transition",
+          "text": "Collect every dollar of free education money your child is entitled to.",
+          "detail": "A few well-timed deposits can add thousands in government grants to your child’s school fund.",
+          "extra": "Section 03 shows the deposit that earns the full grant each year."
         }
       ]
     },
@@ -31,15 +37,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "An RESP is an account you open for a child — usually a parent or grandparent does this. You contribute money. It grows inside the account, sheltered from tax. And the government adds free money on top, through a grant called the CESG."
+          "text": "An RESP is an account you open for a child, usually as a parent or grandparent. You put money in. It grows inside the account, sheltered from tax. And the government adds money on top, through a grant called the CESG."
         },
         {
           "type": "paragraph",
-          "text": "When the child heads off to college, university, or an apprenticeship program, the money comes out to help pay for it."
+          "text": "When the child goes to college, university or a trade program, the money comes out to help pay for it. The growth and grants are then taxed in the student’s hands, and most students pay little or no tax."
         },
         {
           "type": "paragraph",
-          "text": "Contributions themselves aren’t tax-deductible, unlike an RRSP. But growth inside the account is tax-sheltered, and the CESG is where the real value lives."
+          "text": "Unlike an RRSP, contributions aren’t tax-deductible. But growth inside the account is sheltered, and the grants are where the real value is."
         }
       ]
     },
@@ -50,34 +56,36 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The Canada Education Savings Grant matches 20% of what you contribute, up to a limit."
+          "text": "The Canada Education Savings Grant matches 20% of what you put in, up to a limit."
         },
         {
           "type": "paragraph",
-          "text": "Contribute $2,500 in a year, and the government adds $500 on top. That’s the sweet spot — the most CESG you can earn in a single year from a normal contribution."
+          "text": "Put in $2,500 in a year, and the government adds $500. That’s the sweet spot: the most grant a normal year can earn."
         },
         {
           "type": "paragraph",
-          "text": "There’s a lifetime cap too. Once a child has received $7,200 in CESG, the grants stop, no matter how much more you contribute after that."
+          "text": "There’s a lifetime cap too. Once a child has received $7,200 in CESG, the grant stops, however much more you put in."
         },
         {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "RESP grant numbers",
+          "detail": "Per child",
           "items": [
             {
-              "title": "CESG match rate",
-              "text": "Question: 20% of contributions — Answer: "
+              "title": "Grant match",
+              "text": "20% — on the first $2,500 you put in each year."
             },
             {
-              "title": "Contribution that earns the full annual grant",
-              "text": "Question: $2,500 (earns $500 CESG) — Answer: "
+              "title": "Full yearly grant",
+              "text": "$500 — earned by a $2,500 deposit."
             },
             {
-              "title": "Lifetime CESG cap per child",
-              "text": "Question: $7,200 — Answer: "
+              "title": "Lifetime grant cap",
+              "text": "$7,200 — after that, deposits earn no more grant."
             },
             {
-              "title": "Lifetime RESP contribution limit per child",
-              "text": "Question: $50,000 — Answer: "
+              "title": "Lifetime deposit limit",
+              "text": "$50,000 — the most anyone can put in for one child."
             }
           ]
         },
@@ -86,7 +94,7 @@
           "items": [
             {
               "title": "“Contributing a big lump sum early gets you more grant money faster.”",
-              "text": "It’s the opposite. The CESG only matches the first $2,500 contributed per year. Deposit $15,000 in one year, and you still only earn $500 in grant — the same as depositing $2,500. The other $12,500 earned nothing. Spreading contributions out over several years is how you actually capture the full $7,200."
+              "text": "It’s the opposite. The CESG only matches the first $2,500 put in each year. Deposit $15,000 in one year, and you still earn $500 in grant that year. The other $12,500 earns no grant. Spreading deposits over the years is how you collect the full $7,200."
             }
           ]
         },
@@ -96,7 +104,11 @@
         },
         {
           "type": "spotlight",
-          "text": "The base 20% isn’t the whole match for every family. Households below certain income thresholds qualify for the Additional CESG — an extra 10% or 20% on top of the base rate, but only on the first $500 contributed in a year. For a lower-income family, that can push the effective match on that first slice to 30% or 40%, not the usual 20%. It doesn’t change the $7,200 lifetime cap or the $500-per-year base grant most families plan around, but it means the first $500 you put in each year can be worth noticeably more than the standard math suggests. Check your eligibility with the RESP provider when you open the account — it’s applied automatically once income is on file, not something you have to separately request each year."
+          "text": "The base 20% isn’t the whole match for every family. Households below certain income limits get the Additional CESG: an extra 10% or 20%, but only on the first $500 put in each year. For a lower-income family, that lifts the match on that first $500 to 30% or 40%. It doesn’t change the $7,200 lifetime cap, but it makes the first $500 each year worth more. Your RESP provider applies it based on your family income, so ask about it when you open the account."
+        },
+        {
+          "type": "spotlight",
+          "text": "Don’t wait until the teen years. The grant stops at the end of the year the child turns 17. A child aged 16 or 17 only qualifies if at least $2,000 was put in before they turned 16, or at least $100 a year in any four years before then. Starting early keeps the door open."
         }
       ]
     },
@@ -107,15 +119,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Missed a few years, or started late? The unused grant room doesn’t just vanish."
+          "text": "Missed a few years, or started late? The unused grant room doesn’t vanish."
         },
         {
           "type": "paragraph",
-          "text": "It carries forward. You can catch up by contributing more in a single year — up to $5,000 — which earns up to $1,000 in CESG that year instead of the usual $500. One year of current room, plus one year of carried-forward room, combined."
+          "text": "It carries forward. You can catch up by putting in up to $5,000 in one year, which earns up to $1,000 in grant instead of the usual $500: one year of current room plus one year carried forward."
         },
         {
           "type": "paragraph",
-          "text": "You can’t catch up faster than that, even with years of room built up. The most CESG any single year can earn is $1,000, regardless of how far behind you are."
+          "text": "You can’t catch up faster than that, even with years of room built up. The most grant any single year can earn is $1,000."
         },
         {
           "type": "heading",
@@ -123,7 +135,7 @@
         },
         {
           "type": "spotlight",
-          "text": "There’s a second grant worth knowing about, separate from the CESG, and it requires nothing from you except opening the account. The Canada Learning Bond is aimed at lower-income families and pays money into an RESP without any contribution needed at all. If your family income falls under the threshold, the government deposits money simply because the account exists and the child qualifies. This is the RESP equivalent of money sitting on the sidewalk. Families sometimes assume RESPs are only worth opening if they can contribute regularly — but for lower-income households, opening the account alone can be worth real money, whether or not a single dollar of your own goes in."
+          "text": "There’s a second payment worth knowing about, and it needs nothing from you except opening the account. The Canada Learning Bond is for lower-income families, and it pays into an RESP with no deposit required. For each eligible child born in 2004 or later, it pays $500 the first year and $100 for each later year the family qualifies, up to $2,000 by age 15. Families sometimes think an RESP is only worth opening if they can save regularly. For a lower-income household, opening the account alone can be worth real money. Young adults aged 18 to 20 who missed out can apply for themselves."
         }
       ]
     },
@@ -134,26 +146,26 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This is the question that stops some families from opening an RESP in the first place. It’s worth answering clearly."
+          "text": "This question stops some families from opening an RESP at all, so it’s worth a clear answer."
         },
         {
           "type": "paragraph",
-          "text": "Your own contributions always come back to you, tax-free, regardless of what happens. That part is never at risk."
+          "text": "Your own deposits always come back to you, tax-free, whatever happens. That part is never at risk."
         },
         {
           "type": "paragraph",
-          "text": "The government grants are different — if the beneficiary doesn’t end up pursuing a qualifying program, the CESG and other grants have to be repaid to the government. Investment growth can sometimes be transferred into your own RRSP instead, if you have the room, or withdrawn with additional tax owing."
+          "text": "The government money is different. If the child doesn’t go on to a qualifying program, the grants and bonds go back to the government. The growth can move into your own RRSP, up to $50,000, if you have the room and the plan meets the conditions. Otherwise it is taxed as your income, plus an extra 20% tax."
         },
         {
           "type": "paragraph",
-          "text": "In practice, RESPs are flexible. A qualifying program covers a wide range — university, college, trade school, and apprenticeships. Plans can also be transferred between siblings in many cases. The all-or-nothing fear is usually bigger than the real risk."
+          "text": "In practice, RESPs are flexible. Qualifying programs include university, college, trade school and apprenticeships, full-time or part-time. A family plan can also be shared among siblings, and you can keep the plan open for many years in case a child starts school later. The all-or-nothing fear is usually bigger than the real risk."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If my child doesn’t go to university, I lose everything I put into the RESP.”",
-              "text": "Your own contributions come back to you either way, tax-free. It’s only the government grants that need repaying if the child never pursues a qualifying program — and “qualifying” covers far more than a four-year degree, including trades and apprenticeships."
+              "text": "Your own deposits come back to you either way, tax-free. Only the government money needs repaying if the child never takes a qualifying program, and “qualifying” covers far more than a four-year degree, including trades and apprenticeships."
             }
           ]
         }
@@ -173,11 +185,11 @@
             },
             {
               "title": "I’m contributing close to $2,500 a year, if I can, to capture the full annual CESG.",
-              "text": ""
+              "text": "I’m putting in close to $2,500 a year, if I can, to collect the full yearly grant."
             },
             {
               "title": "I know my family’s income might qualify for the Canada Learning Bond, at no contribution required.",
-              "text": ""
+              "text": "I know whether my family’s income qualifies for the Canada Learning Bond, which needs no deposit."
             },
             {
               "title": "If I’m behind on contributions, I know the catch-up rule and its $1,000-per-year cap.",
@@ -185,7 +197,7 @@
             },
             {
               "title": "I’m not assuming a lump-sum contribution is more efficient than spreading it out — it isn’t, for CESG purposes.",
-              "text": ""
+              "text": "I’m not assuming one big deposit earns more grant than spreading it out. It doesn’t."
             }
           ]
         }
@@ -202,16 +214,24 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "When their daughter was born, the Okafors received a small windfall from a relative — six thousand dollars, earmarked loosely for “the baby’s future.” Their instinct was to deposit the whole amount into a new RESP right away, get it working, and move on.",
-            "A friend who worked in banking asked one question before they did: how much of that six thousand did they plan to contribute every year after this one? The Okafors hadn’t really thought that far ahead.",
-            "She walked them through the CESG math. Depositing all six thousand in year one would earn $500 in grant — the annual cap — and leave $3,500 sitting there having earned nothing extra. Spreading it instead, at $2,500 this year and holding the rest for future years, would eventually pull in more total grant money over time.",
-            "They split it: $2,500 in the first year, and the rest held back to fund $2,500 contributions in each of the following two years. Small change in behaviour. Real difference in how much free government money their daughter’s education fund actually captured."
+            "When their daughter Ada was born in Calgary, the Okafors got a surprise gift from her great-aunt: $6,000, labelled in shaky handwriting “for the baby’s future.” Their first thought was to open an RESP and drop it all in at once, then cross it off the list.",
+            "At the bank, the adviser asked one question before they signed: how much would they be able to add in the next few years? Chidi and Grace looked at each other. With daycare costs coming, the honest answer was “not much.”",
+            "She showed them the grant math. All $6,000 in this year would earn $500 in grant, the most one year allows. The rest would still grow, but it would earn no grant, and with money tight, they might never catch up later.",
+            "They had a choice. Putting it all in now meant more time for the money to grow. Spreading it out meant more free grant money. They chose to spread it: $2,500 this year, $2,500 next year and $1,000 the year after, keeping the rest in a savings account until then.",
+            "That plan earned $1,200 in grants instead of $500. Then the adviser added a twist they hadn’t expected. Because their family income was below the limit, the first $500 they put in each year also earned the Additional CESG, a little extra on top.",
+            "Grace taped the great-aunt’s note inside Ada’s baby book. Under it, she wrote the three deposit dates, so “the baby’s future” would get every dollar it was owed."
           ]
         },
         {
           "type": "takeaway",
-          "text": "The CESG matches 20% of RESP contributions, up to $500 a year and $7,200 over a child’s lifetime — but only on the first $2,500 contributed annually, so spreading contributions out captures more grant than one large deposit. Lower-income families may also qualify for the Canada Learning Bond with no contribution required. And your own contributions are never at risk, even if the child’s path changes.",
+          "text": "The CESG matches 20% of RESP deposits, up to $500 a year and $7,200 per child, but only on the first $2,500 each year, so spreading deposits out earns more grant than one big deposit. Lower-income families may also get the Canada Learning Bond with no deposit at all. And your own deposits are never at risk, even if your child’s path changes.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "A simple deposit schedule can turn one gift into far more for your child’s education.",
+          "detail": "Spacing your deposits to match the grant rules collects the free money each year and keeps your own savings safe.",
+          "extra": "Section 08 helps you plan your own deposits."
         }
       ]
     },
@@ -225,15 +245,15 @@
           "items": [
             {
               "title": "If you don’t have an RESP open for a child in your life, look into opening one — even a modest amount starts capturing grant money.",
-              "text": ""
+              "text": "If you don’t have an RESP for a child in your life, look into opening one. Even a small amount starts earning grant money."
             },
             {
               "title": "Check whether your family income might qualify for the Canada Learning Bond, which requires no contribution at all.",
-              "text": ""
+              "text": "Check whether your family’s income might qualify for the Canada Learning Bond. It needs no deposit."
             },
             {
               "title": "If you have a lump sum earmarked for education savings, plan how to spread it across years rather than depositing it all at once.",
-              "text": ""
+              "text": "If you have a lump sum set aside for education, plan how to spread it across years instead of depositing it all at once."
             }
           ]
         },
@@ -260,15 +280,15 @@
             },
             {
               "title": "CESG",
-              "text": "Canada Education Savings Grant. A 20% government match on RESP contributions, up to annual and lifetime limits."
+              "text": "Canada Education Savings Grant. A 20% government match on RESP deposits, up to yearly and lifetime limits."
             },
             {
               "title": "Canada Learning Bond",
-              "text": "A grant for lower-income families, paid with no contribution required."
+              "text": "Money for lower-income families’ RESPs, paid with no deposit required."
             },
             {
               "title": "Subscriber",
-              "text": "The person who opens and contributes to the RESP, usually a parent or grandparent."
+              "text": "The person who opens the RESP and puts money in, usually a parent or grandparent."
             },
             {
               "title": "Beneficiary",
@@ -276,13 +296,13 @@
             },
             {
               "title": "Qualifying program",
-              "text": "An eligible post-secondary path, including university, college, trade school, and apprenticeships."
+              "text": "An eligible program after high school, including university, college, trade school and apprenticeships."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Educational only, not investment advice. Figures shown are current as of 2026 — confirm before contributing."
+          "text": "Educational only, not investment advice. Figures are current for 2026. Confirm them before you contribute."
         }
       ]
     }
@@ -297,12 +317,23 @@
   },
   "checkIn": {
     "questions": [
-      "Do I have an RESP open? If not, what’s stopping me?",
-      "My current annual contribution, compared to the $2,500 sweet spot:",
-      "Do I know if my family qualifies for the Canada Learning Bond?"
+      "Do you have an RESP open? If not, what’s stopping you?",
+      "How much do you put in each year, compared with the $2,500 sweet spot?",
+      "Might your family qualify for the Canada Learning Bond or the Additional CESG?",
+      "How old is the child, and how many years of grant are left?",
+      "Do you have missed years you could catch up on?",
+      "What is one deposit you could set up this month?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "Write “open” or name the barrier.",
+      "For example: $100 a month, which is $1,200 a year.",
+      "Yes, no, or not sure. Your RESP provider can check.",
+      "The grant ends the year the child turns 17.",
+      "Yes, no, or not sure. You can catch up $500 of grant a year.",
+      "For example: $209 a month by automatic transfer, just over $2,500 a year."
+    ]
   },
   "sources": []
 }

@@ -24,7 +24,13 @@
         },
         {
           "type": "paragraph",
-          "text": "There are three kinds of help: money back at tax time, grants and loans from your province or city, and a certificate that quietly unlocks more of both. This module walks through all three, in the order that actually works."
+          "text": "There are three kinds of help: money back at tax time, grants and loans from your province or city, and a certificate that quietly unlocks more of both. This module walks through all three, in the order that works."
+        },
+        {
+          "type": "transition",
+          "text": "Using all three layers of help can cover much more of a safer home than any single program.",
+          "detail": "A tax credit, a local grant and one certificate each pay at a different time and in a different way.",
+          "extra": "Section 02 starts with money back at tax time."
         }
       ]
     },
@@ -43,7 +49,7 @@
         },
         {
           "type": "paragraph",
-          "text": "The Multigenerational Home Renovation Tax Credit (MHRTC) is a different animal. It helps pay to build a small, separate apartment, complete with its own front door, kitchen, bathroom and bedroom, so a senior can live with family. A nicely finished spare room does not count. It needs its own door."
+          "text": "The Multigenerational Home Renovation Tax Credit (MHRTC) is a different animal. It helps pay to build a small, separate apartment with its own front door, kitchen, bathroom and bedroom, so a senior can live with family. A nicely finished spare room does not count. It needs its own door."
         },
         {
           "type": "paragraph",
@@ -75,7 +81,7 @@
           "items": [
             {
               "title": "“These are grants, they will pay for my renovation.”",
-              "text": "Neither one pays a contractor. Both are tax credits claimed after the fact, and the amount depends on your tax rate, which has moved in the last two years. Budget the full cost up front and treat the credit like a rebate arriving next spring."
+              "text": "Neither one pays a contractor. Both are tax credits you claim after the fact, and the amount depends on the tax rate, which has changed in the last two years. Budget the full cost up front, and treat the credit like a rebate that arrives next spring."
             }
           ]
         },
@@ -85,7 +91,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Refundable and non-refundable are not fine print. They decide whether a senior gets money, or gets nothing. A non-refundable credit can only lower tax you already owe, and many people living on Old Age Security and the Guaranteed Income Supplement owe little or none, so the Home Accessibility Credit may be worth far less than it sounds. A refundable credit, like the Multigenerational credit, pays out regardless. So it often makes more sense for the person actually paying the bill to claim the non-refundable one, and for the senior’s name to go on the refundable one. Decide this before the invoice is written, not after."
+          "text": "Refundable and non-refundable are not fine print. They decide whether a senior gets money or gets nothing. A non-refundable credit can only lower tax you already owe. Many people living on Old Age Security and the Guaranteed Income Supplement owe little or no tax, so the Home Accessibility Credit may be worth far less than it sounds. A refundable credit, like the Multigenerational credit, pays out either way. That is why the family member paying the bill often claims the non-refundable credit, and the senior’s name goes on the refundable one. Decide this before the invoice is written, not after."
         }
       ]
     },
@@ -96,11 +102,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This is the layer most people never find, because it has no single name and no single website. These are the programs that pay you before the work starts, usually as a grant or a loan you never have to repay, and most of them check your income first."
+          "text": "This is the layer most people never find, because it has no single name and no single website. These programs pay before the work starts, usually as a grant or a loan you never have to repay. Most of them check your income first."
         },
         {
           "type": "paragraph",
-          "text": "Some are run by the province. Many are actually run by your city or region on the province’s behalf, which is why the same program can look different one town over. A couple are even delivered by a non-profit instead of a government office."
+          "text": "Some are run by the province. Many are run by your city or region for the province, which is why the same program can look different one town over. A couple are run by a non-profit instead of a government office."
         },
         {
           "type": "lists",
@@ -165,7 +171,7 @@
           "items": [
             {
               "title": "“Grants are only for people with almost no income.”",
-              "text": "Grant programs almost always check income, but the cut-off is often higher than people expect, well above what many fixed-income seniors receive. The tax credits do not check income at all. Assuming you make too much is how people skip both."
+              "text": "Grant programs almost always check income, but the limit is often higher than people expect, well above what many seniors on a fixed income get. The tax credits do not check income at all. Assuming you make too much is how people skip both."
             }
           ]
         }
@@ -178,15 +184,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The Disability Tax Credit (DTC) is not a renovation program by itself. It is a certificate. Your doctor fills out a form confirming a serious, long-term health condition. And a surprising amount of the money in this course sits underneath it."
+          "text": "The Disability Tax Credit (DTC) is not a renovation program on its own. It is a certificate. Your doctor fills in a form that confirms a serious, long-term health condition. A surprising amount of the money in this course sits underneath it."
         },
         {
           "type": "paragraph",
-          "text": "Being approved for the DTC opens the Home Accessibility Credit at any age, not just 65. It can make someone a qualifying person for the Multigenerational credit. It helps, or is required for, several provincial grants. It can even be backdated to past tax years, sometimes producing a refund large enough to help fund the renovation outright."
+          "text": "DTC approval opens the Home Accessibility Credit at any age, not just 65. It can make someone a qualifying person for the Multigenerational credit. It helps with, or is required for, several provincial grants. It can even be backdated to past tax years, sometimes producing a refund large enough to help pay for the renovation outright."
         },
         {
           "type": "paragraph",
-          "text": "It also gets turned down the first time fairly often, then approved later once the doctor adds more detail. If anyone in the home has a long-term mobility, vision, hearing or memory problem and has never applied. That is the single best use of an hour in this whole course."
+          "text": "It is also turned down the first time fairly often, then approved later once the doctor adds more detail. If anyone in the home has a long-term problem with moving, seeing, hearing or memory and has never applied, that is the best use of an hour in this whole course."
         }
       ]
     },
@@ -283,7 +289,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Every program in this course pays you back later, but the contractor wants paying now. That gap tempts people toward the fastest loan in the room, and the fastest loan in the room is almost always the worst one. Contractor financing, rent-to-own equipment and high-rate second mortgages get marketed hardest to exactly the households these programs are meant to help. Cheaper options usually exist: a line of credit from your regular bank, a documented family loan, splitting the work into two phases across two tax years, or simply waiting for the next grant window."
+          "text": "Every program in this course pays you back later, but the contractor wants to be paid now. That gap tempts people toward the fastest loan in the room, and the fastest loan in the room is almost always the worst one. Contractor financing, rent-to-own equipment and high-rate second mortgages are marketed hardest to the households these programs are meant to help. Cheaper options usually exist: a line of credit from your own bank, a written family loan, splitting the work across two tax years, or waiting for the next grant window."
         },
         {
           "type": "paragraph",
@@ -302,22 +308,31 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Bernice is eighty-two and has lived in the same house in Moncton since 1974. Her daughters, Colette and Anne-Marie, agreed the bathtub had to go. Colette got three quotes. Anne-Marie, who actually reads things, got the application forms.",
-            "They nearly made the classic mistake. The contractor had a cancellation and could start Monday. That one sentence has cost Canadian families more grant money than any other. Anne-Marie went back to the guidelines and found, in paragraph nine, that work started before written approval simply would not count. They rebooked. It cost six weeks and one slightly annoyed contractor.",
-            "They also got the arithmetic right. Bernice lives on Old Age Security, the Guaranteed Income Supplement and a small pension, so she pays almost no tax. A non-refundable credit in her name would have been close to worthless. So Colette paid for the work and claimed the Home Accessibility Credit herself, against her own tax bill. Anne-Marie applied for the provincial grant in Bernice’s name instead, where the income test actually worked in their favour.",
-            "The walk-in shower went in that March. Between the grant and the credit, the family paid roughly half of the first quote. Nothing clever happened. Two people read the rules, split the paperwork, and decided who was paying before anyone bought tile."
+            "Bernice is eighty-two and has lived in the same house in Moncton since 1974. Her daughters, Colette and Anne-Marie, agree the bathtub has to go before Bernice slips getting out of it. Colette gets three quotes. Anne-Marie, who reads things, gets the application forms.",
+            "Then the contractor calls. He has a cancellation and can start Monday. Colette is ready to say yes. Their mother’s safety feels more urgent than any form.",
+            "That one sentence has cost Canadian families more grant money than any other. Anne-Marie goes back to the guidelines. In paragraph nine, she finds the rule: work started before written approval will not count.",
+            "The sisters have to choose. Start Monday and lose the grant, or wait six weeks for approval. They pick the wait. Anne-Marie puts a non-slip mat and a grab bar in the old tub for now. The contractor is slightly annoyed.",
+            "They also get the math right. Bernice lives on Old Age Security, the Guaranteed Income Supplement and a small pension, so she pays almost no tax. A non-refundable credit in her name would be close to worthless. Colette pays for the work and claims the Home Accessibility Credit on her own return. Anne-Marie applies for the provincial grant in Bernice’s name, where the income test works in their favour.",
+            "The walk-in shower goes in that March. Between the grant and the credit, the family pays about half of the first quote.",
+            "Nothing clever happened. Two people read the rules, split the paperwork and decided who was paying before anyone bought tile."
           ]
         },
         {
           "type": "takeaway",
-          "text": "Three layers, and you wear all three: a federal credit claimed at tax time, a provincial or city grant applied for before the work starts, and the Disability Tax Credit sitting underneath both. Decide who pays and who claims before the first invoice, and never let a contractor’s free Monday beat a program’s start-work rule.",
+          "text": "Three layers, and you wear all three: a federal credit you claim at tax time, a provincial or city grant you apply for before work starts, and the Disability Tax Credit underneath both. Decide who pays and who claims before the first invoice, and never let a contractor’s free Monday beat a program’s start-work rule.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Bernice’s family paid about half of the first quote by waiting for approval and choosing who claimed which credit.",
+          "detail": "Reading the start-work rule and deciding who claims what can save your family the same.",
+          "extra": "Your action this week, in Section 08, takes one phone call."
         }
       ]
     },
     {
       "id": "action",
-      "title": "Your action this week",
+      "title": "Your Action (Fill Out Form): Your Three Layers",
       "paragraphs": [],
       "blocks": [
         {
@@ -380,11 +395,11 @@
             },
             {
               "title": "Service manager",
-              "text": "The municipal or regional office that actually runs a provincial housing program and takes your application."
+              "text": "The city or regional office that runs a provincial housing program and takes your application."
             },
             {
               "title": "Self-contained unit",
-              "text": "A living space with its own entrance, kitchen, bathroom and sleeping area — the test for the multigenerational credit."
+              "text": "A living space with its own entrance, kitchen, bathroom and sleeping area. This is the test for the multigenerational credit."
             },
             {
               "title": "Start-work rule",
@@ -424,13 +439,23 @@
   },
   "checkIn": {
     "questions": [
-      "Which federal credit fits my project, and is it refundable?",
-      "What is my province or city program’s name, its intake window, and its start-work rule?",
-      "Is anyone in the household DTC-eligible, and has anyone applied?",
-      "Who is paying the invoice, and whose tax return will claim the credit?"
+      "What work does the home need? For example, a walk-in shower, grab bars or a ramp.",
+      "Is the person it is for 65 or older, or approved for the Disability Tax Credit? (65 or older / DTC approved / Both / Neither / Not sure)",
+      "Which province and city do you live in? Name a local program if you know one.",
+      "Has the work started yet? (Not yet / Yes / Not sure)",
+      "Who will pay the contractor, and who will claim the tax credit?",
+      "What is one call you will make this week? For example, 211 or your city’s housing office."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "A walk-in shower to replace the tub.",
+      "65 or older.",
+      "Moncton, New Brunswick.",
+      "Not yet. We are waiting for written approval.",
+      "My sister pays and claims the credit. Mom applies for the grant.",
+      "Call 211 and ask about home adaptation grants and the start-work rule."
+    ]
   },
   "sources": []
 }

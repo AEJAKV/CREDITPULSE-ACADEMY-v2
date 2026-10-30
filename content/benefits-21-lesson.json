@@ -25,12 +25,18 @@
         {
           "type": "paragraph",
           "text": "VAC publishes every program and every rule. The hard part is finding the right door after a long week. This module gives you the map: what may fit, what to apply for first and who can help for free."
+        },
+        {
+          "type": "transition",
+          "text": "Knowing that your service counts can turn years of quiet pain into treatment and support you have earned.",
+          "detail": "Most Veterans who screen themselves out never deployed and assume that settles it. It does not.",
+          "extra": "Section 02 shows who VAC counts as a Veteran."
         }
       ]
     },
     {
       "id": "eligibility",
-      "title": "Who VAC actually counts as a Veteran",
+      "title": "Who VAC Counts as a Veteran",
       "paragraphs": [],
       "blocks": [
         {
@@ -81,7 +87,7 @@
         },
         {
           "type": "spotlight",
-          "text": "An approved disability benefit, PSC or a Disability Pension, is more than a payment. It can unlock the Treatment Benefits Program and the health care card for that condition: hearing aids, physiotherapy and prescriptions."
+          "text": "An approved disability benefit, Pain and Suffering Compensation or a Disability Pension, is more than a payment. It can unlock the Treatment Benefits Program and the health care card for that condition: hearing aids, physiotherapy and prescriptions."
         },
         {
           "type": "paragraph",
@@ -390,22 +396,31 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Dennis is sixty-one, lives outside Sudbury, and spent twelve years as a Reserve combat engineer: weekends, summer taskings, two Class B stints he mostly remembers for the food. Tinnitus he blames on demolition training, two knees he blames on everything else. He never applied, because a guy at the arena told him the process was a nightmare. The guy at the arena had never applied either.",
-            "His daughter sat him down with the Benefits Navigator on a Tuesday. Twenty minutes later he learned two things that had never occurred to him in thirty years: Reserve service counts, and he did not need a deployment to have a service-related injury. Finding his service number took longer than the questionnaire. It was on the back of a photograph, in a box, in the garage, behind the snowblower.",
-            "He did the rest in the right order. Hearing test and a doctor’s visit first, so the file had something current in it. Then the Legion Service Officer in town, free of charge, who told him to submit the Veterans Independence Program application at the same time, because he has a long driveway, front stairs and a Sudbury winter arriving on schedule.",
-            "The decision came back approved for the tinnitus and deferred on the knees pending a specialist report. The tinnitus entitlement got him the health care card, which covered hearing aids he had been putting off for three years, and the letter told him exactly which report the knee claim was missing. What nearly stopped all of it was not the paperwork or the wait times. It was a man deciding on his own, without asking anyone, that his twelve years did not count."
+            "Dennis is sixty-one and lives outside Sudbury. He spent twelve years as a Reserve combat engineer: weekends, summer taskings and two Class B stints he mostly remembers for the food. He has ringing in his ears from demolition training and two bad knees he blames on everything else.",
+            "His goal is modest. He wants to keep shovelling his own driveway and hear his grandkids at dinner. He has never applied to VAC. A guy at the arena told him the process was a nightmare. The guy at the arena had never applied either.",
+            "His daughter sits him down with the Benefits Navigator on a Tuesday. In twenty minutes he learns two things he never knew in thirty years. Reserve service counts. And he does not need a deployment to have a service injury.",
+            "Then he hits a wall. The form wants his service number, and he has no idea where it is. Dennis is ready to close the laptop and go back to the arena guy’s version. His daughter waits. Dennis decides to look for one more hour. The number turns up on the back of a photo, in a box, in the garage, behind the snowblower.",
+            "He does the rest in order. First a hearing test and a doctor’s visit, so the file has something current in it. Then the Legion Service Officer in town, free of charge. The officer tells him to send the Veterans Independence Program form at the same time, because of the long driveway, the front stairs and a Sudbury winter arriving on schedule.",
+            "The decision comes back. The ringing ears are approved. The knees are put on hold until a specialist report arrives. The approval gets him the health care card, and it pays for hearing aids he had put off for three years. The letter also names the exact report the knee claim is missing.",
+            "What nearly stopped all of it was not the paperwork or the wait. It was a man deciding on his own, without asking anyone, that his twelve years did not count. At dinner that Sunday, he hears every word his grandkids say."
           ]
         },
         {
           "type": "takeaway",
           "text": "Completed basic training and released honourably? Do not screen yourself out. Find the anchor entitlement, apply side by side where possible and have a free Service Officer check the file.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Dennis got hearing aids and a clear next step for his knees by applying instead of screening himself out.",
+          "detail": "A free Service Officer and the right order of steps can do the same for your own file.",
+          "extra": "Your action this week, in Section 08, starts with one free login."
         }
       ]
     },
     {
       "id": "action",
-      "title": "Your action this week",
+      "title": "Your Action (Fill Out Form): Your Entitlement Map",
       "paragraphs": [],
       "blocks": [
         {
@@ -525,13 +540,23 @@
   },
   "checkIn": {
     "questions": [
-      "Which rooms am I in? (injury / income / health coverage / staying at home / education / emergency)",
-      "What is my anchor, the one approval that unlocks the most for me?",
-      "What can go in at the same time, rather than after?",
-      "What one document is missing from my file, and who is helping me get it?"
+      "Which kinds of help might fit you? (Injury / Income / Health coverage / Staying at home / Education / Emergency / Not sure)",
+      "What service-related condition do you live with today? A plain description is fine.",
+      "Have you set up My VAC Account and run the Benefits Navigator? (Yes / Not yet / Not sure)",
+      "Which programs could you apply for at the same time, instead of one after another?",
+      "What one document is missing from your file, and where might it be?",
+      "Who will help you for free? For example, a Legion or War Amps Service Officer, or VAC."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "Injury and staying at home.",
+      "Ringing in my ears from demolition training, and two bad knees.",
+      "Not yet.",
+      "A disability benefit for my ears and the Veterans Independence Program.",
+      "My service number. Probably in a box in the garage.",
+      "The Legion Service Officer in town."
+    ]
   },
   "sources": []
 }

@@ -16,7 +16,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Training money in Canada comes from four separate places, and they barely acknowledge one another."
+          "text": "Training money in Canada comes from four separate places, and they barely know each other exists."
         },
         {
           "type": "heading",
@@ -25,6 +25,12 @@
         {
           "type": "paragraph",
           "text": "The lane you are standing in decides who applies, who receives the money, and whether it arrives before or after you pay tuition. This module sorts the four lanes, in the order that keeps a claim alive."
+        },
+        {
+          "type": "transition",
+          "text": "Finding your lane first can turn a “no” from one office into training you do not pay for alone.",
+          "detail": "Who applies, who gets the money and when it arrives all depend on which of four lanes you are in.",
+          "extra": "Section 02 helps you find your lane."
         }
       ]
     },
@@ -82,7 +88,7 @@
         },
         {
           "type": "paragraph",
-          "text": "In lane two, provincial programs can fund tuition, books and a living allowance while you retrain. They are selective, usually want an eligibility interview, and tend to look for a labour-market reason rather than a personal interest. Applying takes weeks, so this lane rewards starting early too."
+          "text": "In lane two, provincial programs can pay tuition, books and a living allowance while you retrain. They are picky, usually want an eligibility interview, and tend to look for a job-market reason rather than a personal interest. Applying takes weeks, so this lane rewards starting early too."
         }
       ]
     },
@@ -97,7 +103,7 @@
         },
         {
           "type": "paragraph",
-          "text": "The Canada Training Credit is a refundable credit that builds quietly in the background. If you file a return, fall within the age band and meet the income conditions, an amount is added to your training credit limit every year, up to a lifetime cap. Refundable matters here: you get it even if you owe no tax."
+          "text": "The Canada Training Credit is a refundable credit that builds quietly in the background. If you file a return, are in the right age range and meet the income rules, an amount is added to your training credit limit every year, up to a lifetime cap. Refundable matters here: you get it even if you owe no tax."
         },
         {
           "type": "paragraph",
@@ -129,7 +135,7 @@
           "items": [
             {
               "title": "“Nobody is going to fund a course that is not a full diploma.”",
-              "text": "The Canada Training Credit applies to eligible tuition and fees, including many short professional courses and licensing programs, not only degrees. Provincial job grants routinely fund a few days of certification. The bias toward long programs is in our heads, not in the rules."
+              "text": "The Canada Training Credit covers eligible tuition and fees, including many short work courses and licensing programs, not only degrees. Provincial job grants often pay for a few days of certification. The bias toward long programs is in our heads, not in the rules."
             }
           ]
         }
@@ -142,11 +148,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This lane changed materially, and most of what you will read online is wrong about it. The Apprenticeship Incentive Grant and the Apprenticeship Completion Grant, the two federal cash grants paid directly to apprentices, both ended on 31 March 2025 and are no longer accepted."
+          "text": "This lane changed a lot, and most of what you will read online is wrong about it. The Apprenticeship Incentive Grant and the Apprenticeship Completion Grant, the two federal cash grants paid straight to apprentices, both ended on March 31, 2025. They no longer take applications."
         },
         {
           "type": "paragraph",
-          "text": "What remains is real, and in some ways better. Apprentices can claim Employment Insurance while attending in-class technical training, and the Canada Apprentice Loan offers interest-free borrowing you can apply for months before training starts, with funds available from day one while an EI claim is still processing. Employers have their own incentive too: a federal tax credit tied to apprentice wages, worth knowing if you need to make the case to a hesitant sponsor."
+          "text": "What is left is real, and in some ways better. Apprentices can claim Employment Insurance while they attend school training. The Canada Apprentice Loan offers interest-free borrowing you can apply for months before training starts, and the money is there from day one, even while an EI claim is still being processed. Employers have their own incentive too: a federal tax credit tied to apprentice wages, worth knowing if you need to win over an unsure sponsor."
         },
         {
           "type": "paragraph",
@@ -228,7 +234,7 @@
             },
             {
               "title": "Confirm the training provider qualifies before you pay a deposit",
-              "text": "Most programs restrict funding to recognized institutions or approved provider lists. A deposit paid to an ineligible school is not recoverable."
+              "text": "Most programs only pay for recognized schools or approved provider lists. A deposit paid to a school that does not qualify is gone for good."
             },
             {
               "title": "Keep the receipts, and tell your tax preparer what you took",
@@ -241,7 +247,7 @@
           "items": [
             {
               "title": "“I will just enrol now and sort out the funding once I have started.”",
-              "text": "Provincial retraining programs generally will not fund a course you have already begun, and several require the eligibility assessment first. Tax credits do not care about sequence, but everything else in this module does."
+              "text": "Provincial retraining programs usually will not pay for a course you have already started, and several want the eligibility check first. Tax credits do not care about the order, but everything else in this module does."
             }
           ]
         }
@@ -258,7 +264,7 @@
         },
         {
           "type": "spotlight",
-          "text": "The tuition is rarely what sinks a career change. The months without full income are. Before enrolling, work out one figure: total months of reduced income, multiplied by the gap between what you will earn during training and what you need for fixed costs. Compare that to what you actually have available: savings, a partner’s income, a living allowance if your provincial program offers one, EI if you qualify while in approved training. If the number is uncomfortable, the answer is usually not to abandon the plan. It is to change its shape, a part-time program over eighteen months instead of full-time over eight, or a short certification that moves you sideways into a better-paying role first. People who take on high-interest debt to bridge a training period often finish the program and start the new job already behind. The credential was fine. The financing was the problem."
+          "text": "The tuition is rarely what sinks a career change. The months without full income are. Before enrolling, work out one figure: total months of reduced income, multiplied by the gap between what you will earn during training and what you need for fixed costs. Compare that to what you have available: savings, a partner’s income, a living allowance if your provincial program offers one, EI if you qualify while in approved training. If the number is uncomfortable, the answer is usually not to abandon the plan. It is to change its shape, a part-time program over eighteen months instead of full-time over eight, or a short certification that moves you sideways into a better-paying role first. People who take on high-interest debt to bridge a training period often finish the program and start the new job already behind. The credential was fine. The financing was the problem."
         },
         {
           "type": "story",
@@ -266,22 +272,31 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Marcus is forty-four and drove a delivery route in Regina for eleven years until his back stopped cooperating with the loading. He decided on a dispatch and logistics certificate, found the program at a local college, and looked at the tuition on a Sunday night. Then he did what most people do, which is nothing, for four months.",
-            "When he finally called the college’s financial aid office they were helpful and told him about student loans. That is the answer a college gives, because it is the answer a college has. He filled in a loan application, felt worse about the whole thing, and stalled again.",
-            "What changed it was a conversation at a walk-in employment centre, which he only visited to ask about something else. The counsellor’s first question was not what do you want to study. It was whether he was currently working, and whether he was leaving a physically demanding trade for medical reasons. Both answers put him in a lane he did not know existed: provincial retraining support, which in his case covered tuition and provided a modest allowance during the program.",
-            "The second thing she told him was to look at his Notice of Assessment, where he found a training credit limit that had been accumulating since he was in his thirties. He had not asked the wrong question. He had asked the right question of an organization that could only ever give him one answer."
+            "Marcus is forty-four and drove a delivery route in Regina for eleven years, until his back stopped cooperating with the loading. His goal is a desk job that pays the mortgage. He picks a dispatch and logistics certificate at a local college.",
+            "He looks at the tuition on a Sunday night. Then he does what most people do, which is nothing, for four months.",
+            "When he finally calls the college’s aid office, they are helpful and tell him about student loans. That is the answer a college gives, because it is the answer a college has. He fills in a loan form, feels worse about the whole thing and stalls again.",
+            "A few weeks later, he drops into an employment centre to ask about something else. He almost leaves without mentioning school. Then he decides to ask one more question: is there any help for someone like me?",
+            "The counsellor does not ask what he wants to study. She asks if he is working, and if he is leaving a physical job for medical reasons. Both answers put him in a lane he never knew existed. Provincial retraining support will cover his tuition and pay a small allowance while he studies.",
+            "There is one more surprise. She tells him to check his Notice of Assessment. He finds a training credit limit that has been building since his thirties.",
+            "Marcus cancels the loan application. He had not asked the wrong question. He had asked the right question of an office that could only ever give him one answer."
           ]
         },
         {
           "type": "takeaway",
-          "text": "Four lanes, and the lane decides everything: employer-applied job grants, provincial retraining programs, tax-based tools you claim yourself, and the separate apprenticeship system. Check your Notice of Assessment before you do anything else, confirm the program is open today rather than famous, and never assume the first organization you called had the whole picture.",
+          "text": "Four lanes, and the lane decides everything: job grants your employer applies for, provincial retraining programs, tax tools you claim yourself and the separate apprenticeship system. Check your Notice of Assessment first, confirm the program is open today rather than famous, and never assume the first office you called had the whole picture.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Marcus got his tuition covered, and found a credit he never knew he had, by asking one more office one more question.",
+          "detail": "Knowing your lane can turn a loan you dread into training that is paid for.",
+          "extra": "Your action this week, in Section 08, starts with your Notice of Assessment."
         }
       ]
     },
     {
       "id": "action",
-      "title": "Your action this week",
+      "title": "Your Action (Fill Out Form): Your Lane",
       "paragraphs": [],
       "blocks": [
         {
@@ -324,31 +339,31 @@
           "items": [
             {
               "title": "Canada Training Credit",
-              "text": "A refundable federal credit that accumulates annually on your tax file and is claimed against eligible tuition and fees."
+              "text": "A refundable federal credit that builds up each year on your tax file and is used against eligible tuition and fees."
             },
             {
               "title": "Lifelong Learning Plan",
-              "text": "A tax-free RRSP withdrawal to fund full-time training, repaid on a set schedule."
+              "text": "A tax-free RRSP withdrawal to pay for full-time training, paid back on a set schedule."
             },
             {
               "title": "Job Grant",
-              "text": "The family of provincial programs that fund employer-purchased training for existing staff. The employer applies, not the employee."
+              "text": "Provincial programs that pay for training an employer buys for its staff. The employer applies, not the employee."
             },
             {
               "title": "Labour Market Transfer Agreements",
-              "text": "The federal-provincial arrangements that fund most retraining programs. The reason the money is federal and the program name is provincial."
+              "text": "The federal-provincial deals that pay for most retraining programs. That is why the money is federal and the program name is provincial."
             },
             {
               "title": "Canada Apprentice Loan",
-              "text": "Interest-free borrowing for registered apprentices during technical training, available before an EI claim is processed."
+              "text": "Interest-free borrowing for registered apprentices during school training, available before an EI claim is processed."
             },
             {
               "title": "Red Seal trade",
-              "text": "A trade with a national standard and interprovincial certification. Many apprenticeship supports are limited to these."
+              "text": "A trade with a national standard and a certificate recognized across provinces. Many apprenticeship supports are limited to these."
             },
             {
               "title": "Notice of Assessment",
-              "text": "The CRA summary issued after you file. Where your training credit limit appears."
+              "text": "The CRA summary you get after you file. It shows your training credit limit."
             }
           ]
         },
@@ -384,13 +399,23 @@
   },
   "checkIn": {
     "questions": [
-      "Which lane am I in? Employed, between jobs, self-funding, or apprentice?",
-      "Who has to submit the application? Me, my employer, or a provincial office?",
-      "My accumulated training credit limit, and the date I checked it:",
-      "Months of reduced income this will cost me, and how am I covering them?"
+      "Which lane are you in? (Working, training for my job / Out of work or leaving my industry / Paying for my own training / Apprentice / Not sure)",
+      "What training do you want, and when does it start?",
+      "Who has to apply for the money? (Me / My employer / A provincial office / Not sure)",
+      "What training credit limit does your Notice of Assessment show, and on what date did you check?",
+      "How many months will your income be lower while you train, and how will you cover them?",
+      "What is one call or visit you will make this week?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "Out of work, leaving a physical job for medical reasons.",
+      "A dispatch and logistics certificate. It starts in January.",
+      "A provincial office.",
+      "$1,250. I checked on October 30.",
+      "About eight months. A living allowance and my partner’s income.",
+      "Visit the employment centre and ask which programs I can be assessed for."
+    ]
   },
   "sources": []
 }

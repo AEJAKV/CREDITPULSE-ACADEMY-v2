@@ -24,7 +24,13 @@
         },
         {
           "type": "paragraph",
-          "text": "Energy rebates changed twice in the last two years, and most of what you find online is out of date. This module sorts what is actually open right now, the order that keeps a claim valid, and how to keep a salesperson from ending up on your property title."
+          "text": "Energy rebates changed twice in the last two years, and most of what you find online is out of date. This module sorts out what is open right now, the order that keeps a claim valid, and how to keep a salesperson from ending up on your property title."
+        },
+        {
+          "type": "transition",
+          "text": "Knowing what is open today, and in what order to act, protects both your rebate and your home.",
+          "detail": "The old federal grants closed, new programs replaced them, and the order of steps decides whether you get paid.",
+          "extra": "Section 02 sorts what is open from what is closed."
         }
       ]
     },
@@ -35,7 +41,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Most of what you find searching this topic is confidently out of date. Here is where things actually stand."
+          "text": "Most of what you find when you search this topic is confidently out of date. Here is where things stand."
         },
         {
           "type": "cards",
@@ -46,7 +52,7 @@
             },
             {
               "title": "OPEN: What replaced them",
-              "text": "The Canada Greener Homes Affordability Program installs retrofits at no cost to the household, for low-to-median-income homeowners and, for the first time, tenants too. It only exists where your province has signed on. The Oil to Heat Pump Affordability program remains open and remains the single largest incentive for a household heating with oil. Every province also runs its own programs, which for many households are now the main event."
+              "text": "The Canada Greener Homes Affordability Program installs upgrades at no cost to the household. It is for homeowners with low to middle incomes and, for the first time, tenants too. It only exists where your province has signed on. The Oil to Heat Pump Affordability program is still open, and it is still the largest single incentive for a home heated with oil. Every province also runs its own programs, which for many households are now the main event."
             }
           ]
         },
@@ -91,7 +97,7 @@
             },
             {
               "title": "Confirm what stacks before you choose equipment",
-              "text": "Federal, provincial and utility incentives can often combine on the same upgrade, but each has its own equipment list."
+              "text": "Federal, provincial and utility rebates can often be combined on the same upgrade. Each one has its own list of approved equipment."
             },
             {
               "title": "Use a contractor from the program’s list",
@@ -198,7 +204,7 @@
           "items": [
             {
               "title": "“There is a thirty percent federal tax credit for home solar.”",
-              "text": "There is a thirty percent Clean Technology Investment Tax Credit, and it is available to taxable Canadian corporations, not to individuals installing panels on their own roof. This one circulates constantly in homeowner forums. Read who the claimant has to be before you build a budget on it."
+              "text": "There is a thirty percent Clean Technology Investment Tax Credit. It is for taxable Canadian corporations, not for people putting panels on their own roof. This one circulates constantly in homeowner forums. Read who is allowed to claim it before you build a budget on it."
             }
           ]
         }
@@ -211,7 +217,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A rebate is not a discount. On most programs you pay the contractor in full, then wait, often several months, for a cheque. The exception is the federal affordability program, where the delivery organization pays the contractor directly and the household pays nothing."
+          "text": "A rebate is not a discount. With most programs, you pay the contractor in full and then wait, often several months, for a cheque. The exception is the federal affordability program. There, the program pays the contractor and the household pays nothing."
         },
         {
           "type": "heading",
@@ -230,7 +236,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "For years, door-to-door equipment sales in Ontario followed a pattern: an uninvited salesperson would arrange a rental or financing agreement for a water heater or furnace, then register a notice of security interest against the title of the home. Many owners only found out when they went to sell."
+          "text": "For years, door-to-door sales of home equipment in Ontario followed a pattern. A salesperson who showed up uninvited would set up a rental or financing deal for a water heater or furnace. Then they would register a notice of security interest against the title of the home. Many owners only found out when they tried to sell."
         },
         {
           "type": "heading",
@@ -286,22 +292,31 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Priya’s father-in-law lives with them in Brampton and answers the door, because he is retired and considers it his job. The man on the step in March had a lanyard, a tablet, and the name of a federal program Priya had actually read about. He wanted to check the furnace, and he mentioned the funding was almost gone.",
-            "Her father-in-law was polite and let him talk. Priya asked for a business card and said they would call back, a sentence with no downside that is far harder to say than it looks when someone helpful is standing in your doorway.",
-            "She spent twenty minutes that evening on the Natural Resources Canada site and found the notice sitting right there: no third party is authorized to make unsolicited contact about the program, and evaluations are booked by homeowners only. She also learned the federal grant he had half-named had closed the year before, and that Ontario had not signed on to the program that replaced it.",
-            "What they did next was less dramatic and more useful. Priya looked up Ontario’s actual rebate program, found that the single-upgrade path needed no assessment, and booked a registered contractor from the program list to replace the twenty-two-year-old furnace with a cold-climate heat pump. The rebate arrived that summer. The man with the lanyard never called back, which told them everything they needed to know about how badly he wanted the work."
+            "Priya lives in Brampton with her husband and his father. The furnace is twenty-two years old and loud. Her goal is to replace it before next winter without going into debt.",
+            "One morning in March, a man knocks. He has a lanyard, a tablet and the name of a federal program Priya has read about. He wants to check the furnace now, because the funding is almost gone.",
+            "Her father-in-law answers the door, because he is retired and considers it his job. He is polite and lets the man talk. The man says they can sign today and lock in the rebate.",
+            "Priya feels the pull. The furnace is old, and the man seems to know the program. She makes a choice. She asks for a business card and says they will call back. It is a sentence with no downside, and it is far harder to say than it looks when someone helpful is standing in your doorway.",
+            "That evening, she spends twenty minutes on the Natural Resources Canada site. She finds a notice in plain words: no outside company is allowed to contact you about the program, and only homeowners book the home check. She also learns the grant he half-named closed the year before, and Ontario has not signed on to the program that replaced it.",
+            "The twist is good news. Ontario’s own program has a single-upgrade path that needs no home check at all. Priya picks a contractor from the program’s list and replaces the furnace with a cold-climate heat pump.",
+            "The rebate arrives that summer. The man with the lanyard never calls back, which tells them everything they need to know about how badly he wanted the work."
           ]
         },
         {
           "type": "takeaway",
-          "text": "Everything legitimate in this module starts with you picking up the phone. Check what is actually open this month rather than what a blog says, start with your province and your utility rather than Ottawa, complete the assessment before anyone touches the house, and never sign for home equipment without asking in writing what gets registered against your title.",
+          "text": "Everything real in this module starts with you picking up the phone. Check what is open this month, not what a blog says. Start with your province and your utility, not Ottawa. Finish the home check before anyone touches the house. Never sign for home equipment without asking, in writing, what gets registered against your title.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Priya got a new heat pump and a real rebate by checking the program herself instead of signing at the door.",
+          "detail": "Twenty minutes on an official website can protect your own home and your claim.",
+          "extra": "Your action this week, in Section 08, starts with today’s date."
         }
       ]
     },
     {
       "id": "action",
-      "title": "Your action this week",
+      "title": "Your Action (Fill Out Form): Your Retrofit Plan",
       "paragraphs": [],
       "blocks": [
         {
@@ -348,23 +363,23 @@
             },
             {
               "title": "Registered energy advisor",
-              "text": "The certified professional who performs the evaluation, working through a licensed service organization."
+              "text": "The certified expert who does the home check, working through a licensed company."
             },
             {
               "title": "CGHAP",
-              "text": "Canada Greener Homes Affordability Program. Federal no-cost retrofits for low-to-median-income households and tenants, delivered by participating provinces."
+              "text": "Canada Greener Homes Affordability Program. Free federal home upgrades for households with low to middle incomes and tenants, run by provinces that signed on."
             },
             {
               "title": "OHPA",
-              "text": "Oil to Heat Pump Affordability. Federal support for households moving off oil heating, often topped up provincially."
+              "text": "Oil to Heat Pump Affordability. Federal help for homes switching off oil heat, often topped up by the province."
             },
             {
               "title": "Stacking",
-              "text": "Combining federal, provincial, utility and municipal incentives on the same upgrade, where each program's rules allow it."
+              "text": "Combining federal, provincial, utility and city rebates on the same upgrade, where each program allows it."
             },
             {
               "title": "Single-upgrade vs bundled path",
-              "text": "One measure with no assessment required, compared with several measures that need pre- and post-retrofit evaluations and pay a larger total."
+              "text": "One upgrade with no home check, compared with several upgrades that need a home check before and after and pay more in total."
             },
             {
               "title": "Cold-climate heat pump",
@@ -372,7 +387,7 @@
             },
             {
               "title": "NOSI",
-              "text": "Notice of security interest. A registration against a property title tied to financed or rented equipment. Banned for consumer goods in Ontario since June 2024; rules differ elsewhere."
+              "text": "Notice of security interest. A note on a property title tied to equipment you financed or rented. Banned for consumer goods in Ontario since June 2024. Rules differ elsewhere."
             }
           ]
         },
@@ -409,13 +424,23 @@
   },
   "checkIn": {
     "questions": [
-      "Which programs apply where I live, and what date did I check?",
-      "Single-upgrade path or bundled path, and what does the bundle premium come to?",
-      "When may work begin, in the program’s own words?",
-      "How am I paying between the invoice and the rebate, and what does that cost me?"
+      "Which province do you live in, and how do you heat your home? (Oil / Natural gas / Electric / Other / Not sure)",
+      "Which rebate programs did you find for your area, and on what date did you check?",
+      "Single upgrade or bundled path? (Single upgrade / Bundled / Not sure yet)",
+      "When does your program say work may begin? Copy the sentence in its own words.",
+      "How will you pay between the contractor’s invoice and the rebate? For example, savings, on-bill financing or the program paying the contractor.",
+      "Has anyone come to your door or called you about a rebate? (Yes / No) If yes, did you check them yourself?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "Ontario. An old gas furnace.",
+      "The provincial rebate page and my gas company’s page. Checked October 30.",
+      "Single upgrade.",
+      "No home check is needed for the single upgrade path.",
+      "From savings. The rebate should arrive in about three months.",
+      "Yes. I asked for a card and looked the program up myself."
+    ]
   },
   "sources": []
 }

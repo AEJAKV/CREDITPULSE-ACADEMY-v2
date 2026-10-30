@@ -14,25 +14,42 @@ export function ExperienceMotion() {
     const animations: Animation[] = [];
     const observer = new IntersectionObserver(
       (entries) =>
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
+        // Items that arrive together cascade in rather than landing as one block.
+        entries
+          .filter((entry) => entry.isIntersecting)
+          .forEach((entry, index) => {
             animations.push(
               (entry.target as HTMLElement).animate(
                 [
-                  { opacity: 0.45, transform: 'translateY(14px)' },
+                  { opacity: 0.3, transform: 'translateY(18px)' },
                   { opacity: 1, transform: 'translateY(0)' },
                 ],
-                { duration: 600, easing: 'cubic-bezier(.2,.65,.3,1)' },
+                {
+                  duration: 650,
+                  delay: Math.min(index, 6) * 70,
+                  easing: 'cubic-bezier(.2,.65,.3,1)',
+                  fill: 'backwards',
+                },
               ),
             );
             observer.unobserve(entry.target);
-          }
-        }),
+          }),
       { threshold: 0.06 },
     );
     document.querySelectorAll<HTMLElement>('[data-reveal]').forEach((el) => observer.observe(el));
+    // Cards marked data-spotlight get a soft light that follows the pointer (see .spotlight CSS).
+    const spotlight = (e: PointerEvent) => {
+      if (e.pointerType === 'touch') return;
+      const card = (e.target as Element | null)?.closest<HTMLElement>('[data-spotlight]');
+      if (!card) return;
+      const r = card.getBoundingClientRect();
+      card.style.setProperty('--spot-x', `${e.clientX - r.left}px`);
+      card.style.setProperty('--spot-y', `${e.clientY - r.top}px`);
+    };
+    document.addEventListener('pointermove', spotlight, { passive: true });
     return () => {
       observer.disconnect();
+      document.removeEventListener('pointermove', spotlight);
       animations.forEach((animation) => animation.cancel());
     };
   }, [pathname]);

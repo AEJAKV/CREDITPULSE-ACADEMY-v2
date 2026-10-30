@@ -1,7 +1,15 @@
 import { courseView } from '@/lib/view';
 import Link from 'next/link';
 import { redirect } from 'next/navigation';
-import { BookOpen, Check, Clock3, LockKeyhole, ChevronDown, Sparkles } from 'lucide-react';
+import {
+  ArrowRight,
+  BookOpen,
+  CalendarClock,
+  Check,
+  LockKeyhole,
+  ChevronDown,
+  Sparkles,
+} from 'lucide-react';
 import { requireAccount } from '@/lib/auth';
 import {
   getCourse,
@@ -13,9 +21,10 @@ import {
   courseComplete,
 } from '@/lib/catalog';
 import { getContents, getSettings } from '@/lib/store';
-import { Ladder, Progress, SavingsPanel, TierBadge } from '@/components/ui';
+import { Progress, SavingsPanel, TierBadge } from '@/components/ui';
 import { TierProgress } from '@/components/experience';
-import { CourseArtwork, ProgressOrbit } from '@/components/visuals';
+import { CourseArtwork, ProgressOrbit, TierMedal } from '@/components/visuals';
+import { CountUp, Tilt } from '@/components/motion';
 import { AmbientBackground } from '@/components/ambient-background';
 export const metadata = { title: 'My learning' };
 export default async function Dashboard() {
@@ -33,12 +42,15 @@ export default async function Dashboard() {
   const currentDone = segmentComplete(course, enrollment.tier, enrollment.completed);
   const finished = courseComplete(course, enrollment.completed);
   const content = await getContents(course.lessons.map((l) => l.id));
+  const daysLeft = enrollment.deadline
+    ? Math.max(0, Math.ceil((new Date(enrollment.deadline).getTime() - Date.now()) / 86400000))
+    : 0;
   const published = Object.fromEntries(course.lessons.map((l) => [l.id, content[l.id].published]));
   return (
     <>
-      <div className="page-heading">
+      <div className="page-heading dash-heading">
         <div>
-          <div className="eyebrow">YOUR LEARNING JOURNEY</div>
+          <div className="eyebrow">WELCOME BACK, {user.name.split(' ')[0].toUpperCase()}</div>
           <h1>
             {course.title}
             <span className="heading-dot">.</span>
@@ -50,7 +62,7 @@ export default async function Dashboard() {
       <div className="dashboard-feature-grid">
         <section className="continue-panel" data-reveal>
           <AmbientBackground effects={['pulse']} placement="contained" />
-          <div className="continue-art">
+          <Tilt className="continue-art" max={10}>
             <CourseArtwork
               index={Math.max(
                 0,
@@ -64,7 +76,7 @@ export default async function Dashboard() {
                 ].indexOf(course.id),
               )}
             />
-          </div>
+          </Tilt>
           <div className="panel-kicker">
             <span className="status-dot" />
             <span>
@@ -97,7 +109,7 @@ export default async function Dashboard() {
             </div>
           </div>
           <Link
-            className="button primary"
+            className="button primary continue-cta"
             href={
               finished
                 ? `/course/${course.id}/finished`
@@ -111,6 +123,7 @@ export default async function Dashboard() {
               : currentDone
                 ? 'Celebrate this level'
                 : 'Continue lesson'}
+            <ArrowRight size={18} aria-hidden="true" />
           </Link>
           <div className="continue-progress">
             <div>
@@ -124,39 +137,65 @@ export default async function Dashboard() {
         </section>
         <SavingsPanel tier={enrollment.tier} copy={settings.savingsCopy} />
       </div>
-      <div className="segment-status">
-        <div>
-          <Clock3 size={21} />
-          <span>
+      <div className="dash-stats">
+        <article className="dash-stat glow-card" data-spotlight data-reveal>
+          <ProgressOrbit completed={enrollment.completed.length} total={course.total} />
+          <div>
+            <span className="dash-stat-label">Course progress</span>
+            <strong>
+              <CountUp value={enrollment.completed.length} /> of {course.total} lessons
+            </strong>
+            <small>Small steps add up. Your next chapter is in sight.</small>
+          </div>
+        </article>
+        <article className="dash-stat glow-card" data-spotlight data-reveal>
+          <TierMedal tier={enrollment.tier} state="current" size={64} />
+          <div>
+            <span className="dash-stat-label">{tiers[enrollment.tier]} level</span>
+            <strong>
+              <CountUp value={done} /> of {currentLessons.length} done
+            </strong>
+            <span
+              className="dash-stat-bar"
+              role="progressbar"
+              aria-label={`${tiers[enrollment.tier]} lessons complete`}
+              aria-valuenow={done}
+              aria-valuemin={0}
+              aria-valuemax={currentLessons.length}
+            >
+              <span style={{ width: `${(done / currentLessons.length) * 100}%` }} />
+            </span>
+            <small>
+              {currentDone
+                ? 'Level complete. Nicely done.'
+                : `${currentLessons.length - done} ${currentLessons.length - done === 1 ? 'lesson' : 'lessons'} to finish ${tiers[enrollment.tier]}`}
+            </small>
+          </div>
+        </article>
+        <article className="dash-stat glow-card" data-spotlight data-reveal>
+          <span className="dash-stat-icon">
+            <CalendarClock size={26} />
+          </span>
+          <div>
+            <span className="dash-stat-label">
+              {enrollment.deadline ? 'Your target' : 'Your pace'}
+            </span>
             <strong>
               {enrollment.deadline
-                ? `Your target: ${new Date(enrollment.deadline).toLocaleDateString('en-CA', { month: 'short', day: 'numeric', timeZone: 'UTC' })}`
+                ? new Date(enrollment.deadline).toLocaleDateString('en-CA', {
+                    month: 'short',
+                    day: 'numeric',
+                    timeZone: 'UTC',
+                  })
                 : 'Learn at your pace'}
             </strong>
             <small>
               {enrollment.deadline
-                ? `${Math.max(0, Math.ceil((new Date(enrollment.deadline).getTime() - Date.now()) / 86400000))} days in this window · Your access stays open`
+                ? `${daysLeft} ${daysLeft === 1 ? 'day' : 'days'} in this window · Your access stays open`
                 : 'Your course administrator has not set a target window.'}
             </small>
-          </span>
-        </div>
-        <span>
-          {done}/{currentLessons.length} {tiers[enrollment.tier]} lessons complete
-        </span>
-      </div>
-      <div className="learning-snapshot" data-reveal>
-        <ProgressOrbit completed={enrollment.completed.length} total={course.total} />
-        <div>
-          <span className="eyebrow">SMALL STEPS ADD UP</span>
-          <h2>{enrollment.completed.length} useful lessons. A stronger next move.</h2>
-          <p>
-            {course.lessons.filter((l) => l.tier <= enrollment.tier).length} lessons available at
-            your {tiers[enrollment.tier]} level. Your next chapter is already in sight.
-          </p>
-        </div>
-        <a href="#curriculum" className="text-link">
-          Explore the curriculum ↓
-        </a>
+          </div>
+        </article>
       </div>
       <TierProgress course={course} enrollment={enrollment} />
       <section id="curriculum" className="curriculum">
@@ -207,7 +246,23 @@ export default async function Dashboard() {
                     <span>{course.segmentNames[i]}</span>
                   </span>
                   <span className="segment-meta">
-                    {lessons.length} lessons
+                    {locked ? (
+                      `${lessons.length} lessons`
+                    ) : (
+                      <span className="segment-mini">
+                        <span>
+                          {lessons.filter((l) => enrollment.completed.includes(l.id)).length}/
+                          {lessons.length}
+                        </span>
+                        <span className="segment-mini-bar" aria-hidden="true">
+                          <span
+                            style={{
+                              width: `${(lessons.filter((l) => enrollment.completed.includes(l.id)).length / lessons.length) * 100}%`,
+                            }}
+                          />
+                        </span>
+                      </span>
+                    )}
                     <ChevronDown size={17} />
                   </span>
                 </summary>
@@ -220,7 +275,7 @@ export default async function Dashboard() {
                           ? `/course/${course.id}/segment/${i + 1}`
                           : `/course/${course.id}/lesson/${l.id}`
                       }
-                      className="lesson-row"
+                      className={`lesson-row ${!finished && !currentDone && l.id === next.id ? 'is-next' : ''}`}
                       key={l.id}
                     >
                       <span
@@ -246,7 +301,10 @@ export default async function Dashboard() {
                           ? 'Preview'
                           : enrollment.completed.includes(l.id)
                             ? 'Review'
-                            : 'Open'}
+                            : !finished && !currentDone && l.id === next.id
+                              ? 'Up next'
+                              : 'Open'}
+                        <ArrowRight size={14} aria-hidden="true" />
                       </span>
                     </Link>
                   ))}

@@ -10,6 +10,7 @@ import {
   Check,
   LockKeyhole,
 } from 'lucide-react';
+import { CountUp } from './motion';
 export function CourseIcon({ index, size = 28 }: { index: number; size?: number }) {
   const Icon = [Landmark, Wallet, HeartHandshake, ChartNoAxesCombined, BriefcaseBusiness, Activity][
     index % 6
@@ -178,7 +179,7 @@ export function ProgressOrbit({ completed, total }: { completed: number; total: 
       </svg>
       <div>
         <strong>
-          {value}
+          <CountUp value={value} />
           <small>%</small>
         </strong>
         <span>course complete</span>

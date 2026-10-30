@@ -1,7 +1,7 @@
 import { courseView } from '@/lib/view';
 import Link from 'next/link';
 import { notFound, redirect } from 'next/navigation';
-import { LockKeyhole, BookOpen, Check, ShieldCheck } from 'lucide-react';
+import { ArrowRight, LockKeyhole, BookOpen, Check, ShieldCheck } from 'lucide-react';
 import { requireAccount } from '@/lib/auth';
 import {
   getCourse,
@@ -12,6 +12,8 @@ import {
   segmentComplete,
 } from '@/lib/catalog';
 import { TierBadge } from '@/components/ui';
+import { TierMedal } from '@/components/visuals';
+import { CountUp } from '@/components/motion';
 export default async function Segment({
   params,
 }: {
@@ -26,7 +28,9 @@ export default async function Segment({
   if (!enrollment) redirect('/courses');
   const locked = index > enrollment.tier,
     lessons = segmentLessons(course, index),
-    next = index === enrollment.tier + 1;
+    next = index === enrollment.tier + 1,
+    doneCount = lessons.filter((l) => enrollment.completed.includes(l.id)).length,
+    upNext = lessons.find((l) => !enrollment.completed.includes(l.id));
   return (
     <>
       <div className="breadcrumb">
@@ -35,35 +39,103 @@ export default async function Segment({
         <span>{tiers[index]}</span>
       </div>
       <section className={`segment-preview ${locked ? 'locked-preview' : ''}`}>
-        <div className="preview-heading">
-          <TierBadge tier={index} />
-          <span className="chip">
-            {locked ? <LockKeyhole size={15} /> : <BookOpen size={15} />}{' '}
-            {locked ? (next ? 'Your next level' : 'A future level') : 'Unlocked for you'}
-          </span>
-        </div>
-        <div className="eyebrow">SEGMENT {index + 1} OF 6</div>
-        <h1>{course.segmentNames[index]}</h1>
-        <p className="lead">{course.segmentDescriptions[index]}</p>
-        <div className="preview-lessons">
-          <h2>What this level reveals</h2>
-          {lessons.map((l) => (
-            <div key={l.id} className="preview-row">
-              <span>{String(l.number).padStart(2, '0')}</span>
-              {locked ? (
-                <strong>{l.title}</strong>
-              ) : (
-                <Link href={`/course/${course.id}/lesson/${l.id}`}>{l.title}</Link>
-              )}
-              {enrollment.completed.includes(l.id) ? (
-                <Check size={18} />
-              ) : locked ? (
-                <LockKeyhole size={16} />
-              ) : (
-                <BookOpen size={16} />
-              )}
+        <div className="segment-hero">
+          <div>
+            <div className="preview-heading">
+              <TierBadge tier={index} />
+              <span className="chip">
+                {locked ? <LockKeyhole size={15} /> : <BookOpen size={15} />}{' '}
+                {locked ? (next ? 'Your next level' : 'A future level') : 'Unlocked for you'}
+              </span>
             </div>
-          ))}
+            <div className="eyebrow">LEVEL {index + 1} OF 6</div>
+            <h1>{course.segmentNames[index]}</h1>
+            <p className="lead">{course.segmentDescriptions[index]}</p>
+          </div>
+          <div className={`segment-hero-medal ${locked ? 'is-locked' : ''}`} aria-hidden="true">
+            <TierMedal
+              tier={index}
+              state={
+                segmentComplete(course, index, enrollment.completed)
+                  ? 'earned'
+                  : locked
+                    ? next
+                      ? 'next'
+                      : 'locked'
+                    : 'current'
+              }
+              size={112}
+            />
+            {!locked && (
+              <span>
+                <CountUp value={doneCount} /> of {lessons.length} complete
+              </span>
+            )}
+          </div>
+        </div>
+        {!locked && (
+          <span
+            className="segment-progress"
+            role="progressbar"
+            aria-label={`${tiers[index]} lessons complete`}
+            aria-valuenow={doneCount}
+            aria-valuemin={0}
+            aria-valuemax={lessons.length}
+          >
+            <span style={{ width: `${(doneCount / lessons.length) * 100}%` }} />
+          </span>
+        )}
+        <div className="preview-lessons">
+          <h2>{locked ? 'What this level reveals' : 'Lessons in this level'}</h2>
+          <ol className="segment-lessons">
+            {lessons.map((l) => {
+              const done = enrollment.completed.includes(l.id);
+              const isNext = !locked && l.id === upNext?.id;
+              const body = (
+                <>
+                  <span className="segment-lesson-num">
+                    {done ? <Check size={18} /> : String(l.number).padStart(2, '0')}
+                  </span>
+                  <span className="segment-lesson-text">
+                    <strong>{l.title}</strong>
+                    <small>Lesson {l.number}</small>
+                  </span>
+                  <span className="segment-lesson-status">
+                    {locked ? (
+                      <>
+                        <LockKeyhole size={14} /> Locked
+                      </>
+                    ) : done ? (
+                      'Review'
+                    ) : isNext ? (
+                      'Up next'
+                    ) : (
+                      'Open'
+                    )}
+                  </span>
+                  {!locked && <ArrowRight className="segment-lesson-arrow" size={18} />}
+                </>
+              );
+              return (
+                <li
+                  key={l.id}
+                  className={`segment-lesson ${done ? 'is-done' : ''} ${isNext ? 'is-next' : ''} ${locked ? 'is-locked' : ''}`}
+                >
+                  {locked ? (
+                    <div>{body}</div>
+                  ) : (
+                    <Link
+                      href={`/course/${course.id}/lesson/${l.id}`}
+                      data-spotlight
+                      className="glow-card"
+                    >
+                      {body}
+                    </Link>
+                  )}
+                </li>
+              );
+            })}
+          </ol>
         </div>
         {locked ? (
           <div className="preview-footer">
@@ -90,10 +162,15 @@ export default async function Segment({
           </div>
         ) : (
           <Link
-            className="button primary"
-            href={`/course/${course.id}/lesson/${lessons.find((l) => !enrollment.completed.includes(l.id))?.id || lessons[0].id}`}
+            className="button primary continue-cta"
+            href={`/course/${course.id}/lesson/${(upNext || lessons[0]).id}`}
           >
-            Continue this segment
+            {upNext
+              ? doneCount
+                ? 'Continue this level'
+                : 'Start this level'
+              : 'Review this level'}
+            <ArrowRight size={18} aria-hidden="true" />
           </Link>
         )}
       </section>

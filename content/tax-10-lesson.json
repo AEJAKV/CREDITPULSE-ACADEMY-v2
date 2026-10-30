@@ -16,11 +16,17 @@
         },
         {
           "type": "paragraph",
-          "text": "They hold the same kinds of investments. They both shelter growth from tax. The difference is direction: with an RRSP you put money in, and with a RRIF you must take money out."
+          "text": "They hold the same kinds of investments, and both shelter growth from tax. The difference is direction: you put money into an RRSP, and you must take money out of a RRIF."
         },
         {
           "type": "paragraph",
-          "text": "At the end of the year you turn 71, that switch happens whether you’re ready or not. Understanding it in advance is what separates a smooth transition from an expensive one."
+          "text": "At the end of the year you turn 71, that switch happens whether you’re ready or not. Knowing how it works in advance is what makes the move smooth instead of costly."
+        },
+        {
+          "type": "transition",
+          "text": "Keep more of your retirement savings by planning the switch before it’s forced on you.",
+          "detail": "A few choices made years before 71 can lower your lifetime tax and protect your Old Age Security.",
+          "extra": "Section 05 covers three choices to make before you convert."
         }
       ]
     },
@@ -37,29 +43,29 @@
           "type": "chips",
           "items": [
             {
-              "title": "Convert it to a RRIF. What most Canadians do. You keep your investments, keep the tax shelter, and start taking mandatory withdrawals.",
+              "title": "Convert it to a RRIF. This is what most Canadians do. You keep your investments and the tax shelter, and start taking yearly withdrawals.",
               "text": ""
             },
             {
-              "title": "Buy an annuity. Guaranteed income for life, but you give up flexibility and control.",
+              "title": "Buy an annuity. You get guaranteed income for life, but you give up flexibility and control.",
               "text": ""
             },
             {
-              "title": "Withdraw everything in cash. Almost never the right choice. The entire balance becomes taxable income in one year, usually at the highest rate you’ll ever pay.",
+              "title": "Take it all out in cash. This is almost never the right choice. The whole balance becomes taxable income in one year, usually at the highest rate you’ll ever pay.",
               "text": ""
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Miss the deadline entirely and the third option happens by default. That’s the outcome worth planning to avoid."
+          "text": "Miss the deadline, and the RRSP can be closed and the whole balance taxed that year. Some providers move it into a RRIF for you, but don’t count on it. That’s the outcome to plan around."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A RRIF is a completely different investment than my RRSP.”",
-              "text": "It’s the same account contents, under new rules. Your stocks, funds and GICs can carry straight over. What changes is that contributions stop, and mandatory annual withdrawals begin."
+              "text": "It holds the same things under new rules. Your stocks, funds and GICs can move straight over. What changes is that deposits stop and yearly minimum withdrawals begin."
             }
           ]
         }
@@ -72,44 +78,46 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Every year, you must withdraw at least a set percentage of your RRIF’s value as of January 1."
+          "text": "Every year, you must take out at least a set percentage of what your RRIF was worth on January 1."
         },
         {
           "type": "paragraph",
-          "text": "The percentage is set by federal regulation and rises with your age. At 71 it’s 5.28%. At 75, 5.82%. At 80, 6.82%. By 95 and beyond, it’s 20%."
+          "text": "The percentage is set by federal rules and rises with your age. At 71 it’s 5.28%. At 75, 5.82%. At 80, 6.82%. At 95 and over, it’s 20%."
         },
         {
           "type": "paragraph",
-          "text": "There’s no maximum — you can always take out more than the minimum. And in the calendar year you actually open the RRIF, there’s no required withdrawal at all."
+          "text": "There’s no maximum, so you can always take out more than the minimum. And in the calendar year you open the RRIF, there’s no required withdrawal at all."
         },
         {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "RRIF minimum withdrawals",
+          "detail": "Share of your January 1 balance",
           "items": [
             {
-              "title": "65",
-              "text": "Age on January 1: 4.00% — Minimum you must withdraw: "
+              "title": "Age 65",
+              "text": "4.00% — if you open a RRIF early."
             },
             {
-              "title": "71",
-              "text": "Age on January 1: 5.28% — Minimum you must withdraw: "
+              "title": "Age 71",
+              "text": "5.28% — the first year most people must withdraw."
             },
             {
-              "title": "75",
-              "text": "Age on January 1: 5.82% — Minimum you must withdraw: "
+              "title": "Age 75",
+              "text": "5.82% — on a $300,000 balance, about $17,460."
             },
             {
-              "title": "80",
-              "text": "Age on January 1: 6.82% — Minimum you must withdraw: "
+              "title": "Age 80",
+              "text": "6.82% — and it keeps climbing each year."
             },
             {
-              "title": "95 and over",
-              "text": "Age on January 1: 20.00% — Minimum you must withdraw: "
+              "title": "Age 95 and over",
+              "text": "20.00% — the rate stays here."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Every dollar withdrawn is fully taxable as regular income in the year you take it. That’s the key thing to plan around — and it’s what the rest of this module is about."
+          "text": "Every dollar you take out is taxed as regular income in the year you take it. That’s the key thing to plan around, and it’s what the rest of this lesson is about. Your provider holds back tax only on amounts above the minimum, so you may owe more at tax time."
         }
       ]
     },
@@ -124,7 +132,7 @@
         },
         {
           "type": "spotlight",
-          "text": "RRIF withdrawals count as income. That matters beyond just the tax bill itself. Old Age Security starts getting clawed back once your net income crosses a threshold — roughly $91,000 in 2026. Large mandatory RRIF withdrawals, stacked on top of CPP and any pension income, can push a retiree over that line and trigger an extra 15% recovery tax on their OAS. The frustrating part is that the withdrawal wasn’t optional. The minimum is mandatory, and the percentage climbs every year regardless of whether you need the money. This is why many Canadians plan their drawdown long before 71 — taking money out of an RRSP during lower-income early retirement years, when the tax cost is smaller, to reduce the balance that will eventually force those larger mandatory withdrawals."
+          "text": "RRIF withdrawals count as income, and that matters beyond the tax bill. Old Age Security starts getting clawed back once your net income passes a threshold: $95,323 for 2026. You repay 15% of every dollar above that line. Large RRIF withdrawals, stacked on CPP and any pension, can push a retiree over it. The frustrating part is that the withdrawal wasn’t optional. The minimum is required, and the percentage climbs every year whether or not you need the money. That’s why many Canadians plan their drawdown well before 71, taking money out of an RRSP in lower-income early retirement years, when the tax cost is smaller, to shrink the balance that will later force bigger withdrawals."
         }
       ]
     },
@@ -135,22 +143,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "You can use your younger spouse’s age. If your spouse is younger, you can elect to base your minimum withdrawals on their age instead of yours. Lower percentage, smaller mandatory withdrawal, more money left growing tax-deferred. This election is made when the RRIF is set up, so it’s worth raising before conversion rather than after."
+          "text": "You can use a younger spouse’s age. If your spouse or partner is younger, you can base your minimum withdrawals on their age instead of yours. That means a lower percentage, a smaller required withdrawal and more money left growing. You choose this when you set up the RRIF, before the first payment, so raise it before you convert."
         },
         {
           "type": "paragraph",
-          "text": "Converting at 65 opens two doors. You don’t have to wait until 71. Converting some or all of an RRSP at 65 can qualify you for the pension income tax credit, and allows pension income splitting with a spouse — both of which can reduce a household’s total tax."
+          "text": "Converting at 65 opens two doors. You don’t have to wait until 71. RRIF payments you receive at 65 or older count as pension income. They can qualify for the pension income credit, on up to $2,000 a year, and can be split with a spouse on your tax returns. Both can lower a household’s total tax."
         },
         {
           "type": "paragraph",
-          "text": "Withdrawing more than the minimum is sometimes smart. In a low-income year, taking out more than required and moving the surplus into a TFSA can smooth your lifetime tax bill. Money in a TFSA grows tax-free and, unlike a RRIF withdrawal, doesn’t count as income later."
+          "text": "Taking out more than the minimum is sometimes smart. In a low-income year, taking out more than required and moving the extra into a TFSA can smooth your lifetime tax bill. Money in a TFSA grows tax-free and, unlike a RRIF withdrawal, doesn’t count as income later."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“I should always withdraw the bare minimum to keep taxes low.”",
-              "text": "Not always. Minimum withdrawals leave a larger balance behind, which forces bigger mandatory withdrawals later — and whatever remains at death is generally taxed heavily unless it goes to a spouse. Sometimes taking more in a low-income year costs less over a lifetime than taking the minimum every year."
+              "text": "Not always. Taking the minimum leaves a bigger balance behind, which forces bigger withdrawals later. Whatever is left at death is generally taxed heavily unless it goes to a spouse. Sometimes taking more in a low-income year costs less over a lifetime than taking the minimum every year."
             }
           ]
         },
@@ -160,7 +168,7 @@
         },
         {
           "type": "spotlight",
-          "text": "There’s a fourth thing worth knowing, and it rarely comes up until it’s urgent. Without any planning, a RRIF’s full value generally gets added to your income on your final tax return the year you die — often the single largest tax bill your estate will ever face. There’s a fix, and it mirrors the TFSA successor idea from Module 2.5. Name a spouse or common-law partner as successor annuitant, not merely a beneficiary, and the RRIF simply continues in their name. No deemed withdrawal, no tax triggered, nothing collapses — the account just carries on as though ownership quietly changed hands. If there’s a financially dependent child or grandchild with a disability instead, the money can often roll into their RDSP or RRSP rather than becoming an immediate taxable lump sum. Check the designation on file with your RRIF provider; a plain beneficiary and a successor annuitant sound similar and are treated very differently."
+          "text": "There’s a fourth thing to know, and it rarely comes up until it’s urgent. With no planning, the full value of a RRIF is generally added to your income on your final tax return in the year you die. It’s often the largest tax bill your estate will ever face. There’s a fix, and it mirrors the TFSA successor holder from the TFSA Basics lesson. Name a spouse or common-law partner as successor annuitant, not just a beneficiary, and the RRIF continues in their name. No tax is triggered, and nothing closes. If you leave it to a financially dependent child or grandchild with a disability instead, the money can often move into their RDSP rather than becoming one big taxable lump sum. Check the form on file with your RRIF provider. A beneficiary and a successor annuitant sound alike but are treated differently."
         }
       ]
     },
@@ -185,7 +193,7 @@
               "text": ""
             },
             {
-              "title": "If my spouse is younger, I know I can base minimum withdrawals on their age — but only if elected at setup.",
+              "title": "If my spouse is younger, I know I can base my minimum withdrawals on their age, but only if I choose it at setup.",
               "text": ""
             },
             {
@@ -207,16 +215,24 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Bernard retired at sixty-three with a healthy RRSP and no immediate need to touch it. His instinct was to leave it alone — let it grow, untouched, until the rules forced him to act at seventy-one.",
-            "His advisor ran the numbers differently. Between sixty-three and seventy, Bernard’s income would be relatively low: no employment income, CPP not yet started, OAS still ahead. Those were the cheapest years he would ever have to pull money out of an RRSP.",
-            "Leaving the balance untouched meant a much larger account at seventy-one, which meant larger mandatory withdrawals every year afterward, stacked on top of CPP and OAS — and quite possibly enough to trigger the OAS clawback in his late seventies.",
-            "Bernard started drawing modest amounts at sixty-four, paying tax at a low rate, and moving what he didn’t need into his TFSA. By seventy-one his RRIF was smaller, his mandatory minimums were manageable, and his OAS stayed intact. Nothing dramatic happened. He just started seven years earlier than the rules required."
+            "Bernard retired from his job as a high school shop teacher in Sudbury at sixty-three. He had a healthy RRSP, a teacher’s pension and no need to touch his savings. His plan was simple: leave the RRSP alone and let it grow until the rules forced him to act at seventy-one.",
+            "His daughter, an accountant, asked to see the numbers over Thanksgiving dinner. Between sixty-three and seventy, she pointed out, his income would be at its lowest: no salary, CPP and OAS not started yet. Those were the cheapest years he would ever have to take money out of an RRSP.",
+            "Bernard frowned. Paying tax on money he didn’t need felt backward. But she kept going. If he waited, his RRSP would be much larger at seventy-one. The required withdrawals would stack on top of his pension, CPP and OAS, and could push him past the OAS clawback line in his late seventies.",
+            "He slept on it. The next week, Bernard made his choice. Starting at sixty-four, he would take out a modest amount each year, pay tax at a low rate and move whatever he didn’t spend into his TFSA. He also named his wife, Claudette, as successor annuitant when he set up the RRIF.",
+            "The twist came later. At seventy-two, Bernard’s required withdrawal was small enough that his income stayed below the clawback line. His full OAS cheque arrived every month. Meanwhile, his TFSA had quietly grown into a tax-free fund he could tap for anything.",
+            "That Thanksgiving, he handed his daughter the turkey carving knife. “You earned it,” he said. “You carved seven years off my tax problem.”"
           ]
         },
         {
           "type": "takeaway",
-          "text": "Your RRSP must become a RRIF, an annuity, or cash by December 31 of the year you turn 71 — and cashing out is almost never right. RRIF withdrawals are mandatory, rise as a percentage with age, and are fully taxable as income. Because they can push you into OAS clawback territory, many Canadians benefit from drawing down an RRSP in lower-income years well before 71.",
+          "text": "Your RRSP must become a RRIF, an annuity or cash by December 31 of the year you turn 71, and cashing out is almost never right. RRIF withdrawals are required, rise as a percentage with age and are taxed as income. Because they can push you into OAS clawback territory, many Canadians benefit from drawing down an RRSP in lower-income years, well before 71.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "A few low-tax years before 71 can protect your income for decades after.",
+          "detail": "Planning your withdrawals early keeps more of your savings, your pension and your Old Age Security.",
+          "extra": "Section 08 helps you map your own conversion plan."
         }
       ]
     },
@@ -230,15 +246,15 @@
           "items": [
             {
               "title": "If you’re within ten years of 71, map out what your RRSP balance is likely to be at conversion, and what the minimum withdrawal would be on that amount.",
-              "text": ""
+              "text": "If you’re within ten years of 71, estimate your RRSP balance at conversion and the minimum withdrawal on that amount."
             },
             {
               "title": "If you’re already retired but not yet 71, look at whether these are low-income years worth using for early drawdown.",
-              "text": ""
+              "text": "If you’re retired but not yet 71, ask whether these are low-income years worth using to draw down early."
             },
             {
               "title": "If you have a younger spouse, raise the younger-spouse election with your advisor before you convert, not after.",
-              "text": ""
+              "text": "If you have a younger spouse or partner, raise the younger-spouse option with your adviser before you convert, not after."
             }
           ]
         },
@@ -261,29 +277,29 @@
           "items": [
             {
               "title": "RRIF",
-              "text": "Registered Retirement Income Fund. The account an RRSP converts into, with mandatory annual withdrawals."
+              "text": "Registered Retirement Income Fund. The account an RRSP turns into, with required yearly withdrawals."
             },
             {
               "title": "Minimum withdrawal",
-              "text": "The percentage of your January 1 balance you must take out each year, rising with age."
+              "text": "The share of your January 1 balance you must take out each year. It rises with age."
             },
             {
               "title": "OAS clawback",
-              "text": "The recovery tax on Old Age Security once net income crosses a threshold."
+              "text": "The 15% recovery tax on Old Age Security once net income passes a threshold."
             },
             {
               "title": "Younger-spouse election",
-              "text": "Basing your minimum withdrawals on a younger spouse’s age, reducing the required amount."
+              "text": "Basing your minimum withdrawals on a younger spouse’s age, which lowers the amount required."
             },
             {
               "title": "Pension income splitting",
-              "text": "Sharing eligible pension income with a spouse to reduce a household’s total tax."
+              "text": "Sharing eligible pension income with a spouse on your tax returns to lower your household’s total tax."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Educational only, not financial advice. Figures shown are 2026 rules — confirm before making decisions."
+          "text": "Educational only, not financial advice. Figures are 2026 rules. Confirm them before making decisions."
         }
       ]
     }
@@ -298,12 +314,23 @@
   },
   "checkIn": {
     "questions": [
-      "What year do I turn 71, and what’s my conversion deadline?",
-      "Roughly what would my minimum withdrawal be, based on my current balance?",
-      "Am I in a low-income window right now that might be worth using for early drawdown?"
+      "What year do you turn 71, and what is your conversion deadline?",
+      "Roughly what would your first minimum withdrawal be?",
+      "Are you in a low-income window now that might be worth using to draw down early?",
+      "Could your income in your 70s reach the OAS clawback line?",
+      "Do you have a younger spouse or partner whose age you could use?",
+      "Have you named a successor annuitant or beneficiary on your RRSP or RRIF?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "For example: I turn 71 in 2034, so the deadline is December 31, 2034.",
+      "Multiply your balance by 5.28%. For example: $200,000 × 5.28% = $10,560.",
+      "Yes, no, or not sure.",
+      "Add your expected pension, CPP, OAS and RRIF minimum, then compare with $95,323.",
+      "Yes, no, or not applicable.",
+      "Successor annuitant, beneficiary, neither, or not sure."
+    ]
   },
   "sources": []
 }

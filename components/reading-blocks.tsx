@@ -1,4 +1,4 @@
-import { Fragment } from 'react';
+import { Fragment, type CSSProperties } from 'react';
 import {
   ArrowRight,
   ArrowUpRight,
@@ -38,6 +38,7 @@ import {
   X,
 } from 'lucide-react';
 import type { ReadingBlock } from '@/lib/types';
+import { imageRatio } from '@/lib/image-ratio';
 import {
   ScoreExplorer,
   UtilizationCalculator,
@@ -88,6 +89,25 @@ const tileIcons = {
   activity: Activity,
   tree: TreePine,
 } as const;
+// The story banner crops a mostly portrait photo to a wide strip (2:1 on desktop,
+// 3:2 on phones). `focus` is the face's vertical centre as a percentage of the photo's
+// height; this turns it into a background position that centres the face in the strip,
+// clamped so the crop never runs past the photo's edges.
+const STORY_BANNER = { desktop: 2, phone: 1.5 };
+function storyPhotoPosition(src: string, focus?: number): CSSProperties {
+  const ratio = imageRatio(src);
+  if (focus === undefined || !ratio) return {};
+  const y = (aspect: number) => {
+    const visible = ratio / aspect; // share of the photo's height the strip shows
+    if (visible >= 1) return '50%';
+    const top = focus / 100 - 0.5 * visible;
+    return `${Math.round(Math.min(1, Math.max(0, top / (1 - visible))) * 100)}%`;
+  };
+  return {
+    '--photo-y': y(STORY_BANNER.desktop),
+    '--photo-y-phone': y(STORY_BANNER.phone),
+  } as CSSProperties;
+}
 export function ReadingBlocks({
   blocks,
   checkIn,
@@ -455,7 +475,10 @@ export function ReadingBlocks({
                 {block.image && (
                   <div
                     className="story-card-photo"
-                    style={{ backgroundImage: `url(${block.image})` }}
+                    style={{
+                      backgroundImage: `url(${block.image})`,
+                      ...storyPhotoPosition(block.image, block.focus),
+                    }}
                     aria-hidden="true"
                   />
                 )}

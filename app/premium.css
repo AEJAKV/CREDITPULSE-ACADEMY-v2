@@ -7560,11 +7560,13 @@ body[data-large-text='true'] .reading-section .file-card p {
   box-shadow: 0 24px 50px -28px #153c3240;
 }
 .story-card-photo {
-  aspect-ratio: 2.2 / 1;
+  /* Aspect ratios match STORY_BANNER in reading-blocks.tsx, which turns each story's
+     face position into --photo-y / --photo-y-phone. 40% is the fallback for a story
+     with no focus set. */
+  aspect-ratio: 2 / 1;
   max-width: 100%;
   background-size: cover;
-  /* Story photos are square with the subject near the middle; this keeps faces in frame. */
-  background-position: center 40%;
+  background-position: center var(--photo-y, 40%);
 }
 .story-card-body {
   padding: 32px 40px 36px;
@@ -7608,7 +7610,8 @@ body[data-large-text='true'] .reading-section .file-card p {
     border-bottom: 1px solid #f1dcd5;
   }
   .story-card-photo {
-    aspect-ratio: 1.8 / 1;
+    aspect-ratio: 3 / 2;
+    background-position: center var(--photo-y-phone, var(--photo-y, 40%));
   }
   .story-card-body {
     padding: 22px 20px 24px;

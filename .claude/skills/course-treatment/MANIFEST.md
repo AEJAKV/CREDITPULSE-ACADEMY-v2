@@ -227,7 +227,7 @@ Six lessons had `ordered` lists corrupted at extraction (each item reduced to it
 | benefits-29 | Provincial Benefit Finders | done 2026-10-30 | 10.15 → 7.45 | 11.33 → 5.24 |
 | benefits-30 | How to Apply Without Getting Scammed | done 2026-10-30 | 9.75 → 7.49 | 10.93 → 5.44 |
 
-Untreated: health (29 lessons) and tax (20) have not been audited against this table yet.
+Untreated: health (29 lessons) has not been audited against this table yet.
 
 ## v2 income-business rollout (`content/income-NN-lesson.json`)
 
@@ -260,3 +260,35 @@ The corrupted `ordered` lists in income-01 to 04 were rebuilt from each lesson's
 | income-19 | Building Recurring Revenue | done 2026-10-30 (MRR and churn worked example; prepaid reserve) | 8.27 → 7.06 | 5.80 → 4.96 |
 | income-20 | Moving From Side Hustle to Business | done 2026-10-30 (trade licence spotlight (Technical Safety BC); before-you-cut-hours cards) | 8.06 → 7.19 | 5.61 → 6.09 |
 
+## v2 tax-wealth rollout (`content/tax-NN-lesson.json`)
+
+Completed 2026-10-30. All 20 lessons carry both banners (after section 01 and after the story section), no outcomes list, a six-question fill-out form with sample answers, teaching prose at or below grade 8.3 and stories at or below grade 6.5, each rebuilt with a decision beat. Lessons 01 to 15 keep their story near the end, so the second banner points to Your Action; lessons 16 to 20 keep the story mid-lesson. tax-01 reads at grade 4.0, which is the original author's short, punchy voice, left as is.
+
+Two-column tables from extraction were broken in lessons 01 to 15 (column labels swapped, values blank, such as "Income on this shelf: 14% — Rate on this shelf:"). They were rebuilt as `glasspanel` rate panels or plain comparison cards. Em dashes inside glasspanel items are the figure separator the renderer splits on.
+
+Checklist `chips` and `ordered` items without detail render only their `title`; edits must go there. A save-time guard in the treatment helper now moves `text` into `title` for chips.
+
+Figures checked against official sources on 2026-10-30: CRA 2026 payroll (CPP 5.95% to $74,600, CPP2 4% to $85,000, EI 1.63% to $68,900), federal brackets ($58,523 / $117,045 / $181,440 / $258,482) and BPA $16,452; TFSA $7,000 ($109,000 total); RRSP $33,810; CRA TFSA room updates once a year; OAS recovery threshold $95,323 for 2026; DTC $10,341 and Canada Disability Benefit $204.20/month (July 2026 to June 2027); RDSP qualifying family member rule ends December 31, 2026; Canada Learning Bond $500 + $100/year to $2,000, apply to age 20; SimpleFile; CSA total cost reporting from the 2026 year. Re-check these before each review.
+
+| Lesson | Course | Treatment | Teaching grade | Story grade |
+|---|---|---|---|---|
+| tax-01 | Understanding a Canadian Paycheque | done 2026-10-30 (CPP described as a pension, not savings; EI employer share 1.4x; clawback note; deductions panel rebuilt) | 4.74 → 3.99 | 4.61 → 4.89 |
+| tax-02 | Marginal Tax Rates | done 2026-10-30 (bracket panel rebuilt; taxable income vs salary; income-tested benefit clawbacks) | 5.46 → 4.98 | 5.51 → 5.17 |
+| tax-03 | Filing an Income-Tax Return | done 2026-10-30 (SimpleFile; payment arrangements; ten-year change window) | 6.47 → 5.72 | 6.14 → 5.26 |
+| tax-04 | Common Tax Deductions and Credits | done 2026-10-30 (credit math exact (14%); FHSA deduction and home buyers’ amount; RRSP carry-forward story) | 8.24 → 6.12 | 8.38 → 5.02 |
+| tax-05 | TFSA Basics | done 2026-10-30 (CRA account TFSA room lags a year (corrected); U.S. dividends and trading; spousal beneficiary; Quebec) | 7.04 → 5.26 | 9.89 → 5.08 |
+| tax-06 | RRSP Basics | done 2026-10-30 (early-withdrawal withholding and lost room; $2,000 buffer; age-71 end date; per-dollar saving no longer overstated) | 7.02 → 5.29 | 7.03 → 5.29 |
+| tax-07 | FHSA Basics | done 2026-10-30 (qualifying-withdrawal conditions; calendar-year room; story carry-forward math) | 7.39 → 5.34 | 9.76 → 4.73 |
+| tax-08 | RESP Basics | done 2026-10-30 (story arithmetic fixed; grant ends at 17 rule; exact Learning Bond; accumulated-income tax) | 8.29 → 6.21 | 8.73 → 5.73 |
+| tax-09 | RDSP Basics | done 2026-10-30 (grant/bond rates and catch-up; DTC gateway (CDB $204.20/month); qualifying family member ends 2026; unverified stat removed) | 9.56 → 7.06 | 7.49 → 5.67 |
+| tax-10 | RRIF Basics | done 2026-10-30 (OAS threshold corrected to $95,323; RRIF minimum panel; withholding only above minimum) | 7.99 → 6.16 | 9.15 → 5.24 |
+| tax-11 | Tax-Free Versus Tax-Deferred Growth | done 2026-10-30 (garbled table rebuilt; emergency-fund step; benefit effects of RRSP/RRIF income) | 6.91 → 5.53 | 8.07 → 6.16 |
+| tax-12 | Investment Fees | done 2026-10-30 (CRM2 claim corrected (total cost reporting from 2026, first reports 2027); gap math shown; 2022 trailer and DSC bans) | 7.42 → 5.11 | 8.42 → 4.68 |
+| tax-13 | ETFs and Mutual Funds | done 2026-10-30 (comparison rebuilt; brokerage fees; story tax and sell-fee checks) | 8.24 → 5.23 | 10.64 → 4.84 |
+| tax-14 | Risk Tolerance | done 2026-10-30 (drop ranges by mix incl. 2022 bonds; adviser KYC duty) | 10.20 → 6.93 | 9.22 → 5.46 |
+| tax-15 | Compound Growth | done 2026-10-30 (twins story corrected (same-age comparison); tax as third lever; FCAC calculator) | 7.18 → 4.98 | 10.93 → 4.94 |
+| tax-16 | Canadian Retirement Planning | done 2026-10-30 (stray mortgage paragraph removed; OAS residency; OAS +10% at 75; timing panel; dental plan) | 10.54 → 7.65 | 8.76 → 5.49 |
+| tax-17 | Estate and Beneficiary Basics | done 2026-10-30 (final return dates; deemed disposition; Ontario estate administration tax; Quebec TFSA rule) | 10.93 → 8.02 | 8.36 → 6.46 |
+| tax-18 | Self-Employment Taxes | done 2026-10-30 (self-employed CPP panel with worked example; instalment test, dates and reminder safe harbour) | 11.28 → 8.11 | 9.23 → 6.21 |
+| tax-19 | GST/HST for Small Businesses | done 2026-10-30 (quarter arithmetic in story; ITC receipt tiers; Quick Method $400,000) | 11.77 → 8.03 | 11.41 → 5.57 |
+| tax-20 | Keeping CRA Records | done 2026-10-30 (late-filing retention timing; Canadian copy of cloud records; seven-question form cut to six) | 12.57 → 7.85 | 10.15 → 6.06 |

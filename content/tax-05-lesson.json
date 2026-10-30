@@ -16,11 +16,17 @@
         },
         {
           "type": "paragraph",
-          "text": "It’s actually much more flexible than that. You can hold stocks, bonds, mutual funds, and cash inside a TFSA — not just a savings balance earning a small interest rate. And every dollar of growth inside it, forever, is untouched by tax."
+          "text": "It’s much more flexible than that. A TFSA can hold stocks, bonds, funds and cash, not just a savings balance earning a little interest. And the growth inside it is free of Canadian tax for life."
         },
         {
           "type": "paragraph",
-          "text": "The name is technically accurate. It’s also the reason a lot of Canadians underuse one of the best tools available to them."
+          "text": "The name is accurate. It’s also the reason a lot of Canadians underuse one of the best tools they have."
+        },
+        {
+          "type": "transition",
+          "text": "Let your savings grow for decades without handing a share to the tax bill.",
+          "detail": "Knowing how TFSA room builds and comes back lets you use the account fully without a costly penalty.",
+          "extra": "Section 04 shows the one timing rule that trips people up."
         }
       ]
     },
@@ -31,11 +37,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "You contribute money that’s already been taxed — no deduction here, unlike an RRSP. But once it’s inside the account, everything that happens next is tax-free. Growth, dividends, interest, and every withdrawal. None of it gets taxed, ever, no matter how large the account grows."
+          "text": "You put in money that has already been taxed. Unlike an RRSP, there’s no deduction going in. But once it’s inside, everything that happens next is tax-free: growth, interest, dividends and every withdrawal, no matter how large the account grows."
         },
         {
           "type": "paragraph",
-          "text": "That’s the whole mechanism. Simple to describe. The details that trip people up are all about room and timing."
+          "text": "That’s the whole idea, simple to describe. The details that trip people up are all about room and timing."
+        },
+        {
+          "type": "spotlight",
+          "text": "Two limits on “tax-free.” Dividends from U.S. stocks usually have 15% held back by the U.S., and a TFSA can’t get that back. And if you trade so often that the CRA sees it as a business, the profits can be taxed. For long-term saving, neither one gets in the way."
         }
       ]
     },
@@ -46,34 +56,36 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Every year, if you’re 18 or older and a Canadian resident, you get new TFSA room. For 2026, that’s $7,000."
+          "text": "Every year you’re 18 or older and a resident of Canada, you get new TFSA room. For 2026, that’s $7,000."
         },
         {
           "type": "paragraph",
-          "text": "Room builds whether or not you open an account. It builds whether or not you have any income at all — unlike an RRSP, a TFSA doesn’t care what you earned."
+          "text": "Room builds whether or not you open an account. It builds whether or not you have any income. Unlike an RRSP, a TFSA doesn’t care what you earned."
         },
         {
           "type": "paragraph",
-          "text": "Room also carries forward. Never contributed before, and you’ve been eligible since the TFSA started in 2009? Your total room by 2026 sits at $109,000. Miss a year, or several, and that room just waits for you — it doesn’t expire, and it doesn’t shrink."
+          "text": "Room also carries forward. Never contributed, and eligible since the TFSA started in 2009? Your total room in 2026 is $109,000. Miss a year, or several, and that room waits for you. It doesn’t expire, and it doesn’t shrink."
         },
         {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "TFSA room in 2026",
+          "detail": "For residents 18 and over",
           "items": [
             {
-              "title": "Annual room added",
-              "text": "Question: $7,000 — 2026 answer: "
+              "title": "New room this year",
+              "text": "$7,000 — added on January 1, 2026."
             },
             {
-              "title": "Max cumulative room, if eligible since 2009",
-              "text": "Question: $109,000 — 2026 answer: "
+              "title": "Total room since 2009",
+              "text": "$109,000 — if you were 18 or older in 2009 and have never contributed."
             },
             {
-              "title": "Does unused room expire?",
-              "text": "Question: No, it carries forward indefinitely — 2026 answer: "
+              "title": "Unused room",
+              "text": "Never expires — it carries forward to future years."
             },
             {
-              "title": "Does room depend on income?",
-              "text": "Question: No — 2026 answer: "
+              "title": "Room and income",
+              "text": "Not linked — you get room even with no income."
             }
           ]
         },
@@ -82,7 +94,7 @@
           "items": [
             {
               "title": "“If I don’t use my TFSA room this year, I lose it.”",
-              "text": "The opposite is true. Unused room carries forward forever, with no expiry. Someone who’s never contributed at all still has every dollar of room they’ve accumulated since they turned 18 or since 2009, whichever came later."
+              "text": "The opposite is true. Unused room carries forward forever. Someone who has never contributed still has all the room they’ve built up since they turned 18, or since 2009, whichever came later."
             }
           ]
         }
@@ -95,15 +107,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Take money out of a TFSA, and it’s yours — no tax, no penalty, no questions asked."
+          "text": "Take money out of a TFSA, and it’s yours: no tax, no penalty, no questions asked."
         },
         {
           "type": "paragraph",
-          "text": "Here’s the part that catches people. That withdrawn amount does get added back to your room. But not immediately. Not even that same year. It comes back on January 1 of the following year."
+          "text": "Here’s the part that catches people. The amount you take out is added back to your room, but not right away, and not that same year. It comes back on January 1 of the next year."
         },
         {
           "type": "paragraph",
-          "text": "Withdraw $5,000 in June this year, and you might assume you can put it right back in August. You can’t — not unless you have other unused room sitting there already. That $5,000 doesn’t reappear as available room until next January 1."
+          "text": "Take out $5,000 in June, and you might think you can put it back in August. You can’t, unless you already have other unused room. That $5,000 doesn’t return as room until next January 1."
         },
         {
           "type": "heading",
@@ -111,7 +123,11 @@
         },
         {
           "type": "spotlight",
-          "text": "This is, by a wide margin, the most common TFSA error — and it happens to people who are otherwise being careful with their money. Someone maxes out their TFSA. Then, mid-year, they withdraw a chunk for an emergency or a big purchase. A few months later, feeling flush again, they put that same amount back in — not realizing the room hasn’t actually returned yet. The result is an over-contribution. And the CRA charges a real penalty for that: 1% of the excess amount, every single month it stays over the limit. The fix is simple once you know it. Before recontributing anything you withdrew this calendar year, check your actual available room — not just what you remember withdrawing. Your CRA My Account shows your real, current number."
+          "text": "This is the most common TFSA mistake, and it happens to people who are otherwise careful with money. Someone maxes out their TFSA. Mid-year, they take out a chunk for an emergency or a big purchase. A few months later, feeling flush, they put the same amount back, not knowing the room hasn’t returned yet. That’s an over-contribution, and the CRA charges 1% of the excess for every month it stays in. The fix: before you put back anything you took out this year, work out your room yourself."
+        },
+        {
+          "type": "spotlight",
+          "text": "Don’t trust the room figure in your CRA account mid-year. The CRA updates it once a year, in the spring, after banks report the year before. It doesn’t show what you put in or took out this year. To find your real room, start from the amount the CRA shows on January 1, then subtract every dollar you’ve put into any TFSA since then. Withdrawals from this year don’t count until next January."
         }
       ]
     },
@@ -122,26 +138,26 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Both are excellent tools. They’re just built for different moments."
+          "text": "Both are excellent tools, built for different moments."
         },
         {
           "type": "paragraph",
-          "text": "An RRSP gives you a deduction now, and you pay tax later, when you withdraw — usually in retirement, when your income and your tax shelf are often lower."
+          "text": "An RRSP gives you a deduction now, and you pay tax later, when you take the money out. That’s usually in retirement, when your income and tax shelf are often lower."
         },
         {
           "type": "paragraph",
-          "text": "A TFSA gives you no deduction now, but you never pay tax on it again — not on the growth, not on the withdrawal, ever."
+          "text": "A TFSA gives you no deduction now, but you never pay tax on it again: not on the growth and not on withdrawals."
         },
         {
           "type": "paragraph",
-          "text": "A rough rule of thumb: if you’re on a low shelf right now, a TFSA often makes more sense, since the RRSP deduction isn’t saving you much anyway. If you’re on a high shelf, the RRSP deduction is doing real work, and may be worth prioritizing. Many Canadians end up using both, just leaning toward one or the other depending on where they sit in a given year."
+          "text": "A rough rule of thumb: if you’re on a low shelf now, a TFSA often makes more sense, since the RRSP deduction isn’t saving you much. If you’re on a high shelf, the RRSP deduction is doing real work and may come first. A TFSA also has a quiet bonus: withdrawals don’t count as income, so they don’t shrink benefits like Old Age Security or the Guaranteed Income Supplement later. Many Canadians use both and lean one way or the other depending on the year."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A TFSA is only useful for short-term savings, like an emergency fund.”",
-              "text": "That’s one good use for it, but far from the only one. A TFSA can hold long-term investments — stocks, ETFs, mutual funds — and let decades of growth compound completely tax-free. Treating it only as a savings account is leaving a much bigger tool on the table."
+              "text": "That’s one good use, but far from the only one. A TFSA can hold long-term investments, like stocks, ETFs and mutual funds, and let decades of growth compound tax-free. Treating it only as a savings account leaves a much bigger tool on the table."
             }
           ]
         }
@@ -157,7 +173,7 @@
           "items": [
             {
               "title": "I know my actual available TFSA room, checked in my CRA account, not estimated from memory.",
-              "text": ""
+              "text": "I know my real TFSA room: the CRA’s January 1 figure, minus what I’ve put in this year."
             },
             {
               "title": "If I withdrew money this year, I know it won’t count as available room again until next January 1.",
@@ -190,10 +206,12 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Owen had maxed out his TFSA every year since he opened it. Disciplined, consistent, proud of it. In June, he pulled fifteen thousand dollars out for a kitchen renovation — a completely reasonable use of the account.",
-            "In August, a bonus landed, and Owen did what felt like the obvious thing: put fifteen thousand dollars back into the TFSA, restoring it to where it had been before the renovation.",
-            "He got a letter from the CRA the following spring. The bonus contribution had been an over-contribution — his withdrawn room wasn’t due back until the following January 1, and he’d had no other room sitting unused. The penalty had been quietly accumulating, 1% a month, for the five months the excess sat in the account.",
-            "It wasn’t a huge sum in the end, but it was money lost to a rule Owen had simply never been told about. He checks his actual available room in his CRA account now, every single time, before putting anything back in — no exceptions, no relying on memory."
+            "Owen drove a delivery van in Kelowna and was proud of one thing above all: he had maxed out his TFSA every year since he opened it. In June, he took out $15,000 to redo his kitchen, which was exactly the kind of thing the account was for.",
+            "In August, a $15,000 bonus landed. Owen grinned. He would put it straight back and the TFSA would look the way it had before the renovation.",
+            "He paused with the transfer ready. A coworker had once mentioned a rule about TFSA withdrawals, but Owen couldn’t remember what it was. He logged into his CRA account and saw plenty of room listed. That settled it. He hit Transfer.",
+            "The next spring, a letter arrived from the CRA. The room in his account hadn’t counted anything from that year. His withdrawn $15,000 wouldn’t come back as room until January 1, and he’d had no other room left. For the five months the money sat there, the CRA charged 1% a month on the excess: $750.",
+            "Owen sat at his new kitchen table, staring at the letter. He could have paid it and moved on. Instead, he asked the CRA to waive the penalty, explaining that it was an honest mistake and that he had already taken the extra money out. The CRA can cancel a penalty in cases like his, but it isn’t guaranteed.",
+            "He paid the $750 while he waited for an answer. Now Owen keeps a simple note on his phone: the January room figure, minus every deposit he makes. He checks it every time, before he touches the transfer button."
           ]
         },
         {
@@ -202,12 +220,18 @@
         },
         {
           "type": "spotlight",
-          "text": "One more mechanic worth setting up before you ever need it, and it costs nothing to do today. If you have a spouse or common-law partner, you can name them as your TFSA’s successor holder, not merely a beneficiary. The difference is bigger than it sounds. A beneficiary receives the money in your TFSA tax-free, but the account itself closes — the funds become ordinary cash or investments outside any TFSA, and none of your own contribution room transfers with it. A successor holder simply becomes the new owner of the account on the date you die. It keeps its TFSA status without interruption, the tax-free growth never stops, and it doesn’t touch or use up any of their own contribution room. Most people set a beneficiary and assume they’ve covered it. If you’re married or common-law, check your TFSA paperwork for the word successor — it’s usually one form, and it’s the difference between your spouse inheriting a TFSA and inheriting the bill that comes from losing one."
+          "text": "If you have a spouse or common-law partner, name them as your TFSA’s successor holder, not just its beneficiary, where your province allows it. A successor holder takes over the account itself when you die. It stays a TFSA, keeps growing tax-free and uses none of their own room. A beneficiary gets the money tax-free, but the account closes. A spouse can often still move it into their own TFSA, but only with extra forms and a deadline. In Quebec, this choice is usually made in your will. Check your TFSA paperwork for the word “successor.” It’s usually one form."
         },
         {
           "type": "takeaway",
-          "text": "A TFSA lets your money grow and come out completely tax-free — no deduction going in, no tax ever again. Room builds every year regardless of income and never expires. But a withdrawal doesn’t restore your room until January 1 of the next year, and recontributing too soon is the single most common, and costly, TFSA mistake.",
+          "text": "A TFSA lets your money grow and come out tax-free, with no deduction going in and no tax after. Room builds every year whatever your income, and it never expires. But a withdrawal doesn’t restore your room until January 1 of the next year, and putting money back too soon is the most common, and costly, TFSA mistake.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Track your own room, and the TFSA rewards you for decades.",
+          "detail": "A two-line note of what you put in this year protects you from penalties the CRA’s figure won’t warn you about.",
+          "extra": "Section 08 walks you through your own TFSA check-in."
         }
       ]
     },
@@ -221,15 +245,15 @@
           "items": [
             {
               "title": "Log into your CRA My Account and check your actual current TFSA room — don’t rely on memory or estimates.",
-              "text": ""
+              "text": "Find the room the CRA showed for January 1 this year, then subtract everything you’ve put into any TFSA since then."
             },
             {
               "title": "If you’ve withdrawn from your TFSA this year, note the date and the amount, so you know exactly when that room comes back.",
-              "text": ""
+              "text": "If you took money out of your TFSA this year, write down the date and amount, so you know when that room comes back."
             },
             {
               "title": "If your TFSA is sitting mostly in cash, consider whether it should hold longer-term investments instead — that’s a conversation worth having with a financial advisor if you’re unsure.",
-              "text": ""
+              "text": "If your TFSA is mostly cash, think about whether it should hold longer-term investments. A licensed adviser can help if you’re unsure."
             }
           ]
         },
@@ -239,7 +263,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Answer guidance: if question one is a guess rather than a checked number, that’s the single most valuable five minutes in this module — do it before contributing anything else this year. If question two shows a withdrawal this year, mark next January 1 on a calendar as the date that room genuinely returns. If question three is entirely cash, that’s not wrong, but it may be worth understanding what else the account could hold."
+          "text": "Answer guidance: if your room is a guess, working it out is the most valuable five minutes in this lesson. Do it before you put in another dollar this year. If you made a withdrawal this year, mark next January 1 on your calendar as the day that room returns. If your TFSA is all cash, that’s not wrong, but it may be worth learning what else it could hold."
         },
         {
           "type": "checkin"
@@ -256,25 +280,25 @@
           "items": [
             {
               "title": "Contribution room",
-              "text": "The amount you’re allowed to put into your TFSA, building up each year."
+              "text": "The amount you may put into your TFSA. It builds up every year."
             },
             {
               "title": "Over-contribution",
-              "text": "Putting in more than your available room, triggering a 1% monthly penalty on the excess."
+              "text": "Putting in more than your room, which triggers a 1% monthly tax on the excess."
             },
             {
               "title": "Qualified investment",
-              "text": "The kinds of assets a TFSA can hold: cash, stocks, bonds, mutual funds and more."
+              "text": "The kinds of assets a TFSA can hold: cash, stocks, bonds, funds and more."
             },
             {
               "title": "Non-resident",
-              "text": "Someone who has moved outside Canada. Room stops building while non-resident, and new contributions trigger their own penalty."
+              "text": "Someone who has moved out of Canada. Room stops building, and new contributions bring their own penalty."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Educational only, not investment advice. Figures shown are 2026 limits — confirm current amounts before contributing."
+          "text": "Educational only, not investment advice. Figures are 2026 limits. Confirm current amounts before you contribute."
         }
       ]
     }
@@ -289,12 +313,23 @@
   },
   "checkIn": {
     "questions": [
-      "My current available TFSA room, checked directly in my CRA account:",
-      "Any withdrawals I’ve made this year, and the date that room returns:",
-      "What’s actually inside my TFSA right now — cash, or investments?"
+      "What was your TFSA room on January 1, according to the CRA?",
+      "How much have you put into all your TFSAs since January 1?",
+      "Have you taken money out this year? If so, how much and when?",
+      "What is inside your TFSA right now: cash, investments or both?",
+      "Is a TFSA or an RRSP a better fit for you this year?",
+      "If you have a spouse or partner, have you named them successor holder?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "Look in your CRA account, or write “not sure.”",
+      "Add up every deposit, across every bank or brokerage.",
+      "For example: $2,000 in March. That room comes back next January 1.",
+      "Cash, investments, both, or not sure.",
+      "TFSA, RRSP, both, or not sure. Think about which shelf you’re on.",
+      "Yes, no, not sure, or not applicable."
+    ]
   },
   "sources": []
 }

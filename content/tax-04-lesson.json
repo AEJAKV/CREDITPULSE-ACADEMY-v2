@@ -16,15 +16,21 @@
         },
         {
           "type": "paragraph",
-          "text": "People use them interchangeably all the time. They are not the same thing, and mixing them up is one of the most common sources of tax confusion in this whole course."
+          "text": "People use the two words as if they mean the same thing. They don’t, and mixing them up is one of the most common sources of tax confusion in this course."
         },
         {
           "type": "paragraph",
-          "text": "Here’s the short version. A deduction shrinks the income you get taxed on. A credit shrinks the tax bill itself, after that math is already done."
+          "text": "Here’s the short version. A deduction shrinks the income you are taxed on. A credit shrinks the tax bill itself, after that math is done."
         },
         {
           "type": "paragraph",
-          "text": "Once that distinction clicks, almost everything else in this module gets easier."
+          "text": "Once that clicks, almost everything else in this lesson gets easier."
+        },
+        {
+          "type": "transition",
+          "text": "Claim what you’re owed, and know which claims will put money back in your pocket.",
+          "detail": "When you can tell a deduction from a credit, and a refundable credit from one that isn’t, you stop leaving money on the table.",
+          "extra": "Section 04 explains the one line that matters most."
         }
       ]
     },
@@ -35,42 +41,38 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Deductions come first. A deduction is subtracted from your income, before tax gets calculated at all."
+          "text": "Deductions come first. A deduction is taken off your income before tax is worked out."
         },
         {
           "type": "paragraph",
-          "text": "Say you earned $60,000, and you had a $5,000 deduction. Your taxable income drops to $55,000. Tax gets calculated on that smaller number."
+          "text": "Say you earned $60,000 and had a $5,000 deduction. Your taxable income drops to $55,000, and tax is worked out on that smaller number."
         },
         {
           "type": "paragraph",
-          "text": "The value of a deduction depends on your tax bracket — the shelf idea from Module 2.2. A deduction is worth more to someone on a higher shelf, because it’s shielding income that would otherwise have been taxed at a higher rate."
+          "text": "A deduction is worth your marginal rate, the shelf idea from the Marginal Tax Rates lesson. It’s worth more to someone on a higher shelf, because it shields income that would have been taxed at a higher rate."
         },
         {
           "type": "paragraph",
-          "text": "Credits come after. A credit works differently. Tax gets calculated first, on your full taxable income. Then the credit is subtracted directly from the tax bill itself."
+          "text": "Credits come after. Tax is worked out first, on your full taxable income. Then the credit comes straight off the tax bill."
         },
         {
           "type": "paragraph",
-          "text": "Most credits in Canada are non-refundable, meaning they can only bring your tax bill down to zero — they can’t push you into a refund beyond what you already paid in. A smaller number of credits are refundable, meaning you get the money regardless of how much tax you owed in the first place."
+          "text": "Most credits in Canada are non-refundable. They can bring your tax bill down to zero, but no lower. A smaller number are refundable, which means you get the money even if you owed no tax at all."
         },
         {
           "type": "paragraph",
-          "text": "That refundable-versus-non-refundable line matters enormously, and we’ll come back to it."
+          "text": "That line between refundable and non-refundable matters a lot, and we’ll come back to it."
         },
         {
           "type": "cards",
           "items": [
             {
-              "title": "Applied to",
-              "text": "Deduction: Your income, before tax is calculated — Credit: Your tax bill, after it’s calculated"
+              "title": "A DEDUCTION",
+              "text": "Comes off your income, before tax is worked out. Worth more to higher earners on a higher shelf. Example: an RRSP contribution."
             },
             {
-              "title": "Worth more to",
-              "text": "Deduction: Higher earners, on a higher shelf — Credit: Depends on refundable vs non-refundable"
-            },
-            {
-              "title": "Example",
-              "text": "Deduction: RRSP contribution — Credit: Basic Personal Amount"
+              "title": "A CREDIT",
+              "text": "Comes off your tax bill, after tax is worked out. Its value depends on the credit rate and whether it is refundable. Example: the Basic Personal Amount."
             }
           ]
         },
@@ -79,7 +81,7 @@
           "items": [
             {
               "title": "“A $1,000 deduction and a $1,000 credit save you the same amount of tax.”",
-              "text": "They usually don’t. A $1,000 deduction saves you $1,000 times your marginal rate — more for higher earners, less for lower ones. A $1,000 credit typically saves a flat amount, calculated at the lowest tax rate, regardless of your income. They’re built on completely different math."
+              "text": "They usually don’t. A $1,000 deduction saves $1,000 times your marginal rate, so more for higher earners and less for lower ones. Most federal credits are worked out at the lowest rate, 14%, so a $1,000 credit amount saves about $140 of federal tax, whatever you earn."
             }
           ]
         }
@@ -95,19 +97,23 @@
           "items": [
             {
               "title": "RRSP contributions.",
-              "text": "The best-known deduction. Money you put into a registered retirement account comes off your taxable income for that year."
+              "text": "The best-known deduction. Money you put into a registered retirement savings plan comes off your taxable income."
             },
             {
               "title": "Union and professional dues.",
-              "text": "If your job requires membership dues, they’re often deductible — check your T4 slip, which usually lists them."
+              "text": "If your job requires membership dues, they’re usually deductible. Check box 44 of your T4."
             },
             {
               "title": "Child care expenses.",
-              "text": "Daycare, camps, and caregivers, generally claimed by the lower-earning spouse."
+              "text": "Daycare, day camps and caregivers, generally claimed by the spouse with the lower income."
             },
             {
               "title": "Moving expenses.",
-              "text": "If you moved at least 40 kilometres closer to a new job or school."
+              "text": "If you moved at least 40 kilometres closer to a new job or to full-time school."
+            },
+            {
+              "title": "FHSA contributions.",
+              "text": "Money you put into a First Home Savings Account is also deductible, up to $8,000 a year."
             }
           ]
         }
@@ -124,7 +130,7 @@
         },
         {
           "type": "spotlight",
-          "text": "This is the single most important distinction in this entire module, and it comes up again and again across this course. A non-refundable credit can only reduce tax you actually owe. If your tax bill is already near zero — a common situation for lower-income or part-time earners — claiming more non-refundable credits doesn’t put extra money in your pocket. There’s simply no tax bill left to reduce. A refundable credit is different. You get it regardless of how much tax you owed. The GST/HST credit and the Canada Workers Benefit are both refundable, which is exactly why they matter so much for lower-income households. Before assuming any credit is or isn’t worth claiming, check which kind it is. The paperwork is often identical. The payoff is not."
+          "text": "This is the most important idea in this lesson, and it comes up again and again in this course. A non-refundable credit can only reduce tax you owe. If your tax bill is already near zero, which is common for lower-income or part-time earners, more non-refundable credits put nothing extra in your pocket. There’s no tax left to reduce. A refundable credit is different: you get it whatever tax you owed. The Canada Workers Benefit and the Canada Training Credit are refundable, and the GST/HST credit is paid to you as a benefit. That is why they matter so much for lower-income households. Before you decide a claim isn’t worth it, check which kind it is. The paperwork is often the same. The payoff is not."
         }
       ]
     },
@@ -138,36 +144,40 @@
           "items": [
             {
               "title": "Basic Personal Amount.",
-              "text": "Automatic, and covered in Module 2.1 — the first slice of your income that’s never taxed."
+              "text": "Automatic, and covered in the paycheque lesson. The first slice of your income is never taxed."
             },
             {
               "title": "Canada employment amount.",
-              "text": "A small automatic credit for anyone with employment income, meant to offset basic work-related costs."
+              "text": "A small automatic credit for anyone with job income, meant to offset basic work costs."
             },
             {
               "title": "Tuition credit.",
-              "text": "For eligible tuition paid to a recognized institution. Unused amounts carry forward, or can be transferred to a spouse or parent."
+              "text": "For eligible tuition paid to a recognized school. Unused amounts carry forward, or up to $5,000 can be passed to a spouse, parent or grandparent."
             },
             {
               "title": "Charitable donation credit.",
-              "text": "A percentage of eligible donations, with the rate increasing for larger annual totals."
+              "text": "15% federally on the first $200 you give in a year, and 29% on the rest, with a higher rate for top earners."
             },
             {
               "title": "Medical expense credit.",
-              "text": "Eligible costs above a threshold, for you, your spouse, and dependants."
+              "text": "Eligible costs above 3% of your net income or a set dollar amount, whichever is less, for you, your spouse and dependants."
+            },
+            {
+              "title": "First-time home buyers’ amount.",
+              "text": "A $10,000 credit amount, worth up to $1,500 federally, in the year you buy your first home."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "This is the everyday list — the ones most Canadians touch at some point. Module 1.8 in the Platinum tier goes deeper into the credits people commonly forget entirely, like caregiving support and medical travel."
+          "text": "This is the everyday list, the ones most Canadians use at some point. The Benefits course lesson Tax Credits People Commonly Miss goes deeper into the ones people forget, like caregiving and medical travel."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Claiming more deductions and credits always means a bigger refund.”",
-              "text": "Not always. Deductions and non-refundable credits only help you if you have income or tax to offset in the first place. Piling up claims beyond what your income or tax bill can use doesn’t create extra refund out of nowhere — it just goes unused, or in some cases carries forward to a future year."
+              "text": "Not always. Deductions and non-refundable credits only help if you have income or tax to offset. Piling up claims beyond what your tax bill can use doesn’t create a refund. The extra goes unused, or in some cases carries forward to a later year."
             }
           ]
         }
@@ -216,10 +226,12 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Farida’s coworker told her, with total confidence, that maxing out her RRSP every year was simply what smart people did. Farida, twenty-four and in her first year out of school, took the advice and put in three thousand dollars — money she’d been saving for a car.",
-            "At tax time, the deduction barely moved her tax bill. Her income that year was low enough that she was sitting on the bottom shelf already. The deduction had shielded income that was barely being taxed to begin with.",
-            "Her coworker wasn’t wrong, exactly. He was just describing his own situation — a decade further into his career, sitting on a much higher shelf, where the same deduction would have saved him far more. Farida’s tax preparer explained the difference in about two minutes: the RRSP deduction is worth more in your highest-earning years, not necessarily your earliest ones.",
-            "Farida kept the RRSP contribution room for later. She bought a slightly older car instead. Both were fine choices — she just wanted to make them with the actual math in hand, not someone else’s math borrowed for a very different income."
+            "Farida was twenty-four, a year out of college and working her first full-time job at a Winnipeg nonprofit. She had $3,000 saved toward a used car, so she could stop biking to work through prairie winters.",
+            "One day at lunch, a coworker told her, with total confidence, that smart people maxed out their RRSP every year. Farida felt a pang of guilt. She had already put $1,000 into an RRSP in February, and now she wondered whether the car money belonged there too.",
+            "She opened her banking app and got as far as the transfer screen. Then she stopped. Her coworker had been working for fifteen years and earned far more than she did. Before she moved the money, she wanted to know if the same advice fit her income.",
+            "At tax time she asked the volunteer at a free tax clinic. He showed her the shelves. Her income was low enough that she sat on the bottom one, so an RRSP deduction this year would save her little. The same deduction would be worth much more once her pay went up.",
+            "Then he told her something that surprised her. She didn’t have to claim the $1,000 she had already put in. She could leave it unclaimed on her return and use the deduction in a future year, when her shelf was higher. The money would keep growing in the RRSP in the meantime.",
+            "Farida kept her car money and bought a used hatchback in October. Her $1,000 deduction is waiting for a better year. On the first snowy morning, she drove past the bike rack and smiled."
           ]
         },
         {
@@ -228,12 +240,18 @@
         },
         {
           "type": "spotlight",
-          "text": "Farida’s tax preparer left out one option worth knowing on its own. You don’t have to claim an RRSP deduction the same year you make the contribution. The contribution and the claim are two separate steps, and the CRA lets you carry an unclaimed contribution forward indefinitely, with no deadline. If Farida had already made the contribution before learning about the shelf effect, she wouldn’t have needed to undo anything — she could simply leave that year’s contribution unclaimed on her return and use it in a future year when her income, and her shelf, are higher. This is especially useful around a raise, a new job, or the end of a parental leave: contribute when you have the cash on hand, and time the actual deduction for the year it saves you the most."
+          "text": "You don’t have to claim an RRSP deduction in the year you contribute. The contribution and the claim are separate steps, and you can carry an unclaimed contribution forward with no deadline. If you contribute in a low-income year, you can hold the deduction for a year when your income and your shelf are higher. This helps most around a raise, a new job or the end of a parental leave: contribute when you have the cash, and time the deduction for the year it saves the most."
         },
         {
           "type": "takeaway",
-          "text": "Deductions shrink your income before tax is calculated; credits shrink your tax bill after. A deduction is worth more to higher earners; a credit’s value often depends on whether it’s refundable. Know which is which for every claim you make, and remember that piling on claims only helps if you actually have income or tax owing left to offset.",
+          "text": "Deductions shrink your income before tax is worked out. Credits shrink your tax bill afterward. A deduction is worth more to higher earners, and a credit’s value often depends on whether it’s refundable. Know which is which for every claim, and remember that piling on claims only helps if you have income or tax left to offset.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Time your claims to the year they save you the most.",
+          "detail": "A little planning around your shelf can turn the same contribution into a much bigger tax saving.",
+          "extra": "Section 08 helps you sort your own claims."
         }
       ]
     },
@@ -247,15 +265,15 @@
           "items": [
             {
               "title": "Look at last year’s tax return and sort your claims into two piles: deductions and credits.",
-              "text": ""
+              "text": "Look at last year’s return and sort your claims into two piles: deductions and credits."
             },
             {
               "title": "Check your T4 for union or professional dues, a commonly missed deduction hiding in plain sight.",
-              "text": ""
+              "text": "Check box 44 of your T4 for union or professional dues, a commonly missed deduction hiding in plain sight."
             },
             {
               "title": "If you have unused tuition credits, figure out whether carrying them forward or transferring them makes more sense this year.",
-              "text": ""
+              "text": "If you have unused tuition amounts, decide whether to carry them forward or transfer them this year."
             }
           ]
         },
@@ -265,7 +283,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Answer guidance: if question two is hard to sort, that’s normal on a first pass — go back to the definitions above and work through each claim one at a time. If question three shows you’re on a low shelf this year, a big RRSP contribution may be worth saving for a higher-earning year instead."
+          "text": "Answer guidance: if sorting your claims is hard, that’s normal on a first pass. Go back to the definitions above and work through one claim at a time. If you’re on a low shelf this year, a big RRSP deduction may be worth saving for a higher-earning year."
         },
         {
           "type": "checkin"
@@ -282,29 +300,29 @@
           "items": [
             {
               "title": "Deduction",
-              "text": "An amount subtracted from your income before tax is calculated."
+              "text": "An amount taken off your income before tax is worked out."
             },
             {
               "title": "Credit",
-              "text": "An amount subtracted from your tax bill, after tax is calculated."
+              "text": "An amount taken off your tax bill after tax is worked out."
             },
             {
               "title": "Refundable credit",
-              "text": "Paid to you regardless of how much tax you owed."
+              "text": "Paid to you even if you owed no tax."
             },
             {
               "title": "Non-refundable credit",
-              "text": "Can only reduce tax owing to zero; cannot create a refund beyond that."
+              "text": "Can reduce the tax you owe to zero, but cannot create a refund."
             },
             {
               "title": "Taxable income",
-              "text": "Your income after deductions are subtracted. What your tax bracket actually applies to."
+              "text": "Your income after deductions come off. This is what your tax bracket applies to."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Educational only, not tax advice. This module covers the mechanics — for a deeper list of missed credits, see the Platinum tier module on the same topic."
+          "text": "Educational only, not tax advice. This lesson covers how claims work. For a longer list of missed credits, see the Benefits course lesson Tax Credits People Commonly Miss."
         }
       ]
     }
@@ -319,12 +337,23 @@
   },
   "checkIn": {
     "questions": [
-      "Deductions I claimed or plan to claim this year:",
-      "Credits I claimed or plan to claim, sorted by refundable and non-refundable:",
-      "Which shelf am I on this year, and does that change how valuable a deduction is to me?"
+      "Which deductions did you claim, or plan to claim, this year?",
+      "Which credits did you claim, or plan to claim?",
+      "Which of those credits are refundable?",
+      "Which shelf are you on this year?",
+      "Do you have unclaimed RRSP contributions or unused tuition amounts?",
+      "What is one claim you’ll check before you file next year?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "For example: RRSP, union dues, child care. Write “none” if that’s the case.",
+      "For example: tuition, donations, medical expenses.",
+      "For example: the Canada Workers Benefit. Write “not sure” if you need to check.",
+      "Use the federal shelf table from the Marginal Tax Rates lesson.",
+      "Yes, no, or not sure. Your Notice of Assessment shows both.",
+      "For example: box 44 of my T4 for union dues."
+    ]
   },
   "sources": []
 }

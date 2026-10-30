@@ -20,7 +20,13 @@
         },
         {
           "type": "paragraph",
-          "text": "So this final module is not really about fraud in general. It is about the specific moment where everything else in this course becomes usable against you, and the handful of habits that close that door regardless of which program’s name gets borrowed next."
+          "text": "This final module is not about fraud in general. It is about the moment when everything else in this course can be used against you, and the few habits that close that door no matter which program’s name gets borrowed next."
+        },
+        {
+          "type": "transition",
+          "text": "One simple habit can protect every benefit in this course from people who borrow its name.",
+          "detail": "Scams copy real programs, real numbers and real deadlines, so knowing the program is not enough on its own.",
+          "extra": "Section 02 gives you the one fact that ends most scams."
         }
       ]
     },
@@ -31,7 +37,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "No government department in Canada, not the CRA, not Veterans Affairs, not Natural Resources Canada, not Employment and Social Development Canada, will call, text or email you demanding immediate payment, threatening arrest, or asking for banking details, a credit card number or your full Social Insurance Number over the phone. This is not a guideline with exceptions. It is stated flatly, in writing, by every one of these departments."
+          "text": "No government department in Canada will call, text or email you to demand payment now, threaten arrest, or ask for bank details, a credit card number or your full Social Insurance Number over the phone. That includes the CRA, Veterans Affairs, Natural Resources Canada and Employment and Social Development Canada. This is not a guideline with exceptions. Every one of these departments says so, in writing."
         },
         {
           "type": "paragraph",
@@ -46,7 +52,7 @@
           "items": [
             {
               "title": "“If they knew my name, my address and mentioned a real program, it must be legitimate.”",
-              "text": "Scammers increasingly do their homework, and spoofed caller ID can display a real government phone number. Knowing personal details or a real program name is evidence someone did research, not evidence of who they work for. Verify through a channel you control, a number you looked up yourself, regardless of how much the caller already seems to know."
+              "text": "Scammers do more homework now, and fake caller ID can show a real government number. Knowing your details or a real program name shows someone did research, not who they work for. Check through a channel you control, using a number you looked up yourself, no matter how much the caller seems to know."
             }
           ]
         }
@@ -74,7 +80,7 @@
             },
             {
               "title": "A link instead of a login",
-              "text": "An email or text urging you to click through to claim your refund or verify your account, rather than telling you to log into an account you already have, the way you normally would."
+              "text": "An email or text pushing you to click a link to claim a refund or check your account. A real program tells you to log in to an account you already have, the way you normally would."
             },
             {
               "title": "A fee to access something free",
@@ -99,7 +105,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Do not call the number the caller gave you. Do not click the link in the text or email. Instead, independently look up the department’s number, from a bill you already have or a search you run, and contact them that way. If the approach was real, this costs a few minutes and confirms it. If it was fake, you have closed the door without giving up anything. It works whether the borrowed name is the CRA, Veterans Affairs, or a small-business grant. It is worth being the one rule you actually memorize word for word."
+          "text": "Do not call the number the caller gave you. Do not click the link in the text or email. Instead, look up the department’s number yourself, from a bill you already have or a search you run, and contact them that way. If the contact was real, this costs a few minutes and confirms it. If it was fake, you have closed the door without giving anything up. It works whether the borrowed name is the CRA, Veterans Affairs or a small-business grant. It is the one rule worth memorizing word for word."
         }
       ]
     },
@@ -110,22 +116,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Across the nine modules in this course, legitimate programs asked for identity documents, income figures, medical certification, and banking details for direct deposit, always through a form you accessed yourself, on a site you navigated to directly, never dictated over an unsolicited phone call."
+          "text": "Across the nine modules in this course, real programs asked for ID, income figures, medical forms and bank details for direct deposit. They always did it through a form you opened yourself, on a site you went to on your own. None of them asked for it on a phone call you did not expect."
         },
         {
           "type": "paragraph",
-          "text": "Your Social Insurance Number deserves particular care. It is required by some legitimate applications, and it is also one of the most valuable pieces of information to a fraudster building a false identity. Give it only when you initiated the contact, on an official government site or form, and never in response to an email, text or unsolicited call, regardless of how official the request sounds. If you are ever unsure whether a document truly needs it, ask the organization directly, through a number you looked up yourself, before providing it."
+          "text": "Your Social Insurance Number needs special care. Some real applications require it. It is also one of the most valuable things a fraudster can get to build a fake identity. Give it only when you started the contact, on an official government site or form. Never give it in reply to an email, text or call you did not expect, however official it sounds. If you are not sure a form needs it, ask the organization first, using a number you looked up yourself."
         },
         {
           "type": "paragraph",
-          "text": "The fee-taking helper showed up back in Module 1.5 for small-business grants, and it applies just as much to a veteran’s disability claim, a senior’s renovation grant, or a training credit. Anyone charging an up-front fee or a percentage of an award to help you apply for something that is free to apply for on your own is not offering a shortcut. Every legitimate free-help channel named across this course, Service Officers, Community Futures, Small Business Enterprise Centres, employment counsellors, 211, exists precisely so nobody has to pay for this."
+          "text": "The paid “helper” showed up in Module 1.5 for small-business grants, and it applies just as much to a veteran’s disability claim, a senior’s renovation grant or a training credit. Anyone charging a fee up front, or a cut of an award, to help you apply for something that is free to apply for is not offering a shortcut. Every free helper named in this course exists so nobody has to pay for this: Service Officers, Community Futures, Small Business Enterprise Centres, employment counsellors and 211."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A grant consultant with a professional website and a logo must be legitimate.”",
-              "text": "A website costs very little to build, and a logo can be designed to sit close to an official one without technically copying it. Neither is evidence of a government relationship. The evidence that matters is whether the program exists on the official page, and whether you can apply to it yourself for nothing."
+              "text": "A website costs little to build, and a logo can be made to look close to an official one without copying it. Neither proves a link to government. The proof that matters is whether the program is on the official page, and whether you can apply to it yourself for free."
             }
           ]
         }
@@ -142,7 +148,7 @@
         },
         {
           "type": "spotlight",
-          "text": "This happens to careful people. The response matters more than the mistake, and speed matters more than shame. If money moved, contact your bank or card issuer immediately: some transactions can still be stopped or reversed in the first hours. If you shared your SIN, banking details or other identifying information, contact the relevant department directly through a number you look up yourself, and ask specifically about fraud alerts on your account. Report the incident to the Canadian Anti-Fraud Centre regardless of whether money was lost. They track patterns across many reports, and a report that seems small on its own can be the piece that helps them stop the next one. Nobody who reports this is required to justify how they were caught out. These approaches are built by people who do this for a living, refined against thousands of targets, and are designed specifically to work on careful, intelligent people under time pressure. Being targeted is not a judgment on you."
+          "text": "This happens to careful people. What you do next matters more than the mistake, and speed matters more than shame. If money moved, call your bank or card company right away. Some payments can still be stopped or reversed in the first few hours. If you shared your SIN, bank details or other personal information, contact the department yourself, using a number you look up, and ask about fraud alerts on your account. Report it to the Canadian Anti-Fraud Centre whether or not you lost money. They track patterns across many reports, and a report that seems small can be the piece that helps them stop the next one. Nobody who reports has to explain how they were fooled. These scams are built by people who do this for a living, tested on thousands of people and designed to work on careful, smart people under time pressure. Being targeted is not a judgment on you."
         },
         {
           "type": "heading",
@@ -194,22 +200,31 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Harold is sixty-eight and lives in Winnipeg. The call came on a Tuesday afternoon: a man identifying himself as being with the Canada Revenue Agency, stating that Harold owed several thousand dollars in back taxes tied to a benefit overpayment, and that a warrant would be issued within the hour unless it was resolved immediately. The caller ID showed a number that, when Harold glanced at it, looked plausibly official.",
-            "The man was patient, which in hindsight was itself a kind of pressure. He stayed on the line, walked Harold through exactly what to say to a courier who would arrive to collect payment in cash, and reassured him repeatedly that this was routine and that he was helping Harold avoid a much worse outcome. Harold, who describes himself as not usually anxious about much, felt his hands shaking.",
-            "What stopped it was a single sentence his daughter had said to him months earlier, after watching a news segment about exactly this scam: if anyone ever calls saying they are the CRA and you owe money, hang up and call the real number yourself. He remembered it mid-call, told the man he needed to call him back, hung up, and dialled the number from a previous year’s Notice of Assessment, not the number the caller had given him.",
-            "The real CRA had no record of any debt, any warrant, or any call. Harold reported the incident to the Canadian Anti-Fraud Centre that afternoon. Nothing was lost except twenty minutes and a genuinely unpleasant hour."
+            "Harold is sixty-eight and lives in Winnipeg. His goal this year is to stay on top of his bills on a fixed income. Then his phone rings on a Tuesday afternoon.",
+            "The man says he is with the Canada Revenue Agency. Harold owes several thousand dollars in back taxes from a benefit overpayment, he says, and a warrant will be issued within the hour unless it is paid now. The caller ID shows a number that looks official.",
+            "The man is patient, which in hindsight is its own kind of pressure. He stays on the line. He explains exactly what to say to a courier who will come to collect the cash. He keeps saying this is routine and that he is helping Harold avoid something much worse. Harold is not usually anxious about much, but his hands are shaking.",
+            "Then Harold remembers one sentence. Months earlier, after a news story about this exact scam, his daughter told him: if anyone calls saying they are the CRA and you owe money, hang up and call the real number yourself.",
+            "Harold makes his choice. He tells the man he needs to call him back. He hangs up. Then he dials the number on last year’s Notice of Assessment, not the number the caller gave him.",
+            "The real CRA has no record of any debt, any warrant or any call. That afternoon, Harold reports it to the Canadian Anti-Fraud Centre. The next weekend, he tells his neighbour the same sentence his daughter told him.",
+            "Nothing is lost except twenty minutes and one unpleasant hour."
           ]
         },
         {
           "type": "takeaway",
-          "text": "No government department demands immediate payment by phone, text or email, or accepts gift cards, cryptocurrency or courier cash. Verify any unexpected contact through a number you look up yourself, never the one the caller gives you. Nothing in this entire course requires paying a fee to a third party. Every legitimate program is free to learn about and free to apply for. And if something does get through, report it and move fast. Speed matters far more than embarrassment.",
+          "text": "No government department demands payment now by phone, text or email, or accepts gift cards, cryptocurrency or cash by courier. Check any contact you did not expect through a number you look up yourself, never the one the caller gives you. Nothing in this course requires paying a fee to a third party. Every real program is free to learn about and free to apply for. If something does get through, report it and move fast. Speed matters far more than embarrassment.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Harold kept his savings by hanging up and calling the real CRA number himself.",
+          "detail": "The same one sentence can protect you, and anyone you pass it on to.",
+          "extra": "Your action this week, in Section 08, starts with saving the real numbers."
         }
       ]
     },
     {
       "id": "action",
-      "title": "Your action this week",
+      "title": "Your Action (Fill Out Form): Your Verification Habit",
       "paragraphs": [],
       "blocks": [
         {
@@ -252,19 +267,19 @@
           "items": [
             {
               "title": "Spoofed caller ID",
-              "text": "A technique that displays a false number, including real government numbers, on a recipient’s phone."
+              "text": "A trick that shows a fake number on your phone, including real government numbers."
             },
             {
               "title": "Phishing",
-              "text": "An email or text designed to look official, aimed at getting you to click a link or share information."
+              "text": "An email or text made to look official, meant to get you to click a link or share information."
             },
             {
               "title": "CAFC",
-              "text": "Canadian Anti-Fraud Centre. The national body, run jointly by the RCMP, the Ontario Provincial Police and the Competition Bureau, that collects fraud reports across Canada."
+              "text": "Canadian Anti-Fraud Centre. The national body that collects fraud reports across Canada. The RCMP, the Ontario Provincial Police and the Competition Bureau run it together."
             },
             {
               "title": "Verification through an independent channel",
-              "text": "Contacting an organization using a number or address you found yourself, not one supplied by the person contacting you."
+              "text": "Contacting an organization with a number or address you found yourself, not one given by the person contacting you."
             }
           ]
         },
@@ -300,13 +315,23 @@
   },
   "checkIn": {
     "questions": [
-      "Where are the real contact numbers for the programs I use, and can I find them quickly?",
-      "Who in my life would I want to have this module’s one rule, and have I told them?",
-      "Has anything in the last year felt like this, that I have not yet reported?",
-      "What is my plan if I am ever unsure mid-call, what do I say to buy time?"
+      "Where have you saved the real phone numbers for the CRA, Service Canada and your provincial benefits office? Write “not yet” if you have not.",
+      "Have you ever had a call, text or email that felt like a scam? (Yes / No / Not sure)",
+      "If yes, did you report it to the Canadian Anti-Fraud Centre? (Yes / Not yet / Not sure)",
+      "What will you say to end a suspicious call and buy time?",
+      "Who in your life will you share this module’s one rule with?",
+      "Is there any app, account or login where you have shared your SIN or bank details recently and want to double-check? Write “none” if not."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "On a card on my fridge and in my phone contacts.",
+      "Yes. A text about a tax refund last spring.",
+      "Not yet. I will report it this week.",
+      "“I need to call you back.”",
+      "My sister and my neighbour.",
+      "None."
+    ]
   },
   "sources": []
 }

@@ -20,29 +20,35 @@
         },
         {
           "type": "paragraph",
-          "text": "A benefit finder is a short questionnaire, age, province, income range, household situation, a few checkboxes, that returns a personalized list of programs you may be eligible for, federal and provincial together. None of them replace this course. What they do is turn everything the last eight modules taught you into a habit you can repeat every year in fifteen minutes, long after the details of Module 1.3 have faded."
+          "text": "A benefit finder is a short questionnaire. It asks your age, province, income range and household situation, plus a few checkboxes. Then it returns a list of programs you may qualify for, federal and provincial together. None of them replace this course. What they do is turn everything the last eight modules taught you into a fifteen-minute habit you can repeat every year, long after the details of Module 1.3 have faded."
+        },
+        {
+          "type": "transition",
+          "text": "A fifteen-minute check each year can catch programs you qualify for that nobody will ever mail you.",
+          "detail": "Four free tools ask the questions for you, and each one finds things the others miss.",
+          "extra": "Section 02 shows what each tool is good for."
         }
       ]
     },
     {
       "id": "toolkit",
-      "title": "Four tools, and what each one is actually good for",
+      "title": "Four Tools, and What Each One Is Good For",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Eight modules of programs, layers, lanes and instruments is a great deal to carry around, and nobody is expected to hold it all in their head at tax time, during a renovation, or the week after a layoff. What is worth carrying around is much shorter."
+          "text": "Eight modules of programs, layers, lanes and money types is a lot to carry. Nobody is expected to hold it all in their head at tax time, during a renovation or the week after a layoff. What is worth carrying is much shorter."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "The federal Benefits Finder",
-              "text": "Run by the Government of Canada at canada.ca, this is the broadest net. Answer a short questionnaire and it returns a personalized list spanning federal, provincial and territorial programs. No account required, and it does not track you beyond the session. A reasonable place to start, precisely because it does not assume you already know which government is responsible for what."
+              "text": "Run by the Government of Canada at canada.ca, this casts the widest net. Answer a short questionnaire, and it returns a list of federal, provincial and territorial programs for you. You do not need an account, and it does not track you after the session. It is a good place to start, because it does not assume you know which government is in charge of what."
             },
             {
               "title": "Your provincial government’s own benefits page",
-              "text": "Every province and territory maintains one, usually found by searching your province’s name plus benefits or find services. British Columbia calls its version a Benefits Connector. These tend to be more current on provincial specifics than the federal tool, because the province is the one updating its own programs."
+              "text": "Every province and territory has one. You can usually find it by searching your province’s name plus “benefits” or “find services.” British Columbia calls its version a Benefits Connector. These tend to be more current on provincial details than the federal tool, because the province updates its own programs."
             },
             {
               "title": "211",
@@ -50,7 +56,7 @@
             },
             {
               "title": "The Benefits Wayfinder",
-              "text": "Built by Prosper Canada, a national charity, not a government department. Designed in plain language for people on low and modest incomes, usable alone or with a front-line worker. Where the federal tool is broadest, this one is built for depth on exactly the population this course spends the most time on."
+              "text": "Built by Prosper Canada, a national charity, not a government department. It is written in plain language for people with low and modest incomes, and you can use it alone or with a support worker. The federal tool casts the widest net. This one goes deepest for the people this course spends the most time on."
             }
           ]
         },
@@ -59,7 +65,7 @@
           "items": [
             {
               "title": "“These tools all show the same results, so it does not matter which one I use.”",
-              "text": "They pull from overlapping but not identical sources. A provincial tool will often surface a local program the federal one never mentions, while the federal tool catches cross-border programs a provincial one has no reason to list. Running more than one is not redundant. It is closer to how you would search for anything else you actually wanted to find completely."
+              "text": "They pull from similar, but not identical, sources. A provincial tool will often find a local program the federal one never mentions. The federal tool catches programs a provincial one has no reason to list. Running more than one is not a waste. It is how you would search for anything else you wanted to find completely."
             }
           ]
         },
@@ -80,7 +86,7 @@
         },
         {
           "type": "spotlight",
-          "text": "The single most valuable habit in this module is not any individual tool. It is treating the exercise as recurring rather than one-time. Eligibility changes constantly and quietly: a birthday that crosses an age threshold, a change in household income, a new child, a diagnosis, a move to a different province, a program that launched last month that did not exist when you last checked. Someone who ran a benefits finder three years ago and concluded they qualified for nothing is not wrong about three years ago. They may be very wrong about right now. Set a recurring reminder, tax season is a natural anchor since you already have your income figures in front of you, and run the federal tool plus your provincial one every year, even in years where nothing feels like it has changed. The tools take fifteen minutes. Missing a program for three straight years because nobody re-checked costs considerably more than that."
+          "text": "The most valuable habit in this module is not any one tool. It is doing the check every year, not just once. Who qualifies changes all the time, and quietly: a birthday that crosses an age limit, a change in household income, a new child, a diagnosis, a move to another province, or a program that launched last month. Someone who ran a benefit finder three years ago and found nothing is not wrong about three years ago. They may be wrong about now. Set a yearly reminder. Tax season works well, since your income numbers are already in front of you. Run the federal tool and your province’s tool every year, even when nothing feels different. The tools take fifteen minutes. Missing a program for three years because nobody checked again costs much more."
         }
       ]
     },
@@ -91,11 +97,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "It returns a list, not an approval. Every result still requires you to read the actual eligibility rules, gather documents, and apply through the real program, everything this course has spent nine modules teaching you to do properly. Treat the finder as the map, not the destination."
+          "text": "It gives you a list, not an approval. Every result still means reading the real eligibility rules, gathering papers and applying through the real program, which is everything this course has spent nine modules teaching you to do well. Treat the finder as the map, not the destination."
         },
         {
           "type": "paragraph",
-          "text": "It also cannot know what it was not told. If a questionnaire asks about income and you round generously, or skip a question about disability status because it feels intrusive, the results reflect the version of your situation you gave it, not your actual situation. These tools do not verify anything and, per their own privacy statements, generally do not retain your answers, which means there is little reason to under-report on a form that cannot be checked against you later, and every reason to answer completely."
+          "text": "It also cannot know what you do not tell it. If you round your income up, or skip a question about disability because it feels personal, the results match the version of your life you gave it, not your real life. These tools do not check anything. Their privacy notes say they usually do not keep your answers. That leaves little reason to hold back on a form that cannot be used against you later, and every reason to answer in full."
         },
         {
           "type": "heading",
@@ -143,21 +149,31 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Walter is seventy-three, lives alone outside Saskatoon, and has never in his life described himself as someone who applies for things. He worked, he paid his taxes, and when his wife passed three years ago he assumed whatever support existed for that had already found him, the way his pension had.",
-            "His niece sat with him at the library one Saturday, mostly to help him print something else, and asked on a whim whether he had ever run the federal Benefits Finder. He had not heard of it. Fifteen minutes and a short questionnaire later, the list included two things he recognized and three he did not, among them a provincial home support program for seniors and a survivor-related supplement he had never been told about, because nobody mails a letter announcing a benefit exists. You have to go looking, or answer a questionnaire that goes looking for you.",
-            "He called 211 the following Monday to confirm the provincial program was real and current, which it was, and applied within the week."
+            "Walter is seventy-three and lives alone outside Saskatoon. He has never in his life thought of himself as someone who applies for things. He worked and he paid his taxes. When his wife died three years ago, he assumed any help for that had already found him, the way his pension had.",
+            "His goal these days is simple: stay in the house he and his wife built, even as the stairs get harder.",
+            "One Saturday, his niece sits with him at the library to help him print a form. On a whim, she asks if he has ever run the federal Benefits Finder. He has not heard of it.",
+            "The questionnaire asks if he is a widower, and whether he has trouble getting around his home. Walter almost skips both. They feel private. Then he decides to answer every question honestly, since the form cannot be checked against him anyway.",
+            "Fifteen minutes later, the list shows two programs he knows and three he does not. One is a provincial home support program for seniors. Another is a survivor supplement nobody ever told him about. Nobody mails a letter announcing that a benefit exists. You have to go looking, or answer a questionnaire that looks for you.",
+            "On Monday, he calls 211 to check that the provincial program is real and still open. It is.",
+            "Walter applies within the week. By winter, someone comes twice a week to help around the house, and he is still in the home he and his wife built."
           ]
         },
         {
           "type": "takeaway",
-          "text": "Run the federal Benefits Finder and your province’s own tool, not just one, and call 211 for anything local a web form would not know about. Answer every question completely, since the tools cannot check anything you do not tell them. Treat every result as a lead to verify against the real program, and run the whole exercise again next year, because eligibility changes quietly and constantly.",
+          "text": "Run the federal Benefits Finder and your province’s own tool, not just one. Call 211 for anything local a web form would not know about. Answer every question in full, since the tools cannot check anything you do not tell them. Treat every result as a lead to check against the real program, and do it all again next year, because who qualifies changes quietly and often.",
           "detail": ""
+        },
+        {
+          "type": "transition",
+          "text": "Walter found a home support program and a survivor supplement by answering every question, even the private ones.",
+          "detail": "Fifteen honest minutes with a benefit finder can uncover help nobody will ever mail you.",
+          "extra": "Your action this week, in Section 06, takes fifteen minutes."
         }
       ]
     },
     {
       "id": "action",
-      "title": "Your action this week",
+      "title": "Your Action (Fill Out Form): Your Benefit-Finder Results",
       "paragraphs": [],
       "blocks": [
         {
@@ -200,7 +216,7 @@
           "items": [
             {
               "title": "Benefits Finder",
-              "text": "The federal government’s own questionnaire tool at canada.ca, returning federal, provincial and territorial results together."
+              "text": "The federal government’s questionnaire at canada.ca. It shows federal, provincial and territorial results together."
             },
             {
               "title": "Benefits Connector",
@@ -208,11 +224,11 @@
             },
             {
               "title": "Benefits Wayfinder",
-              "text": "A plain-language finder built by the charity Prosper Canada, aimed at people on low and modest incomes."
+              "text": "A plain-language finder built by the charity Prosper Canada, for people with low and modest incomes."
             },
             {
               "title": "211",
-              "text": "A free phone and, in many provinces, web service connecting callers to local, provincial and some federal social and government services."
+              "text": "A free phone line and, in many provinces, a website that connects you to local, provincial and some federal social and government services."
             }
           ]
         },
@@ -248,13 +264,23 @@
   },
   "checkIn": {
     "questions": [
-      "Programs the federal tool returned that I recognized:",
-      "Programs either tool returned that I had never heard of:",
-      "Which of these am I verifying first, and with whom?",
-      "Date of this check, and date of my next scheduled one:"
+      "Which benefit finders did you run? (Federal Benefits Finder / My province’s tool / Benefits Wayfinder / Called 211)",
+      "Which programs did the tools show that you already knew about?",
+      "Which programs did the tools show that you had never heard of?",
+      "Which one will you check first, and who will you call to confirm it?",
+      "What date did you run the check?",
+      "When will you run it again? Tax season is a good time."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
-    "acknowledgment": "I understand this is educational information."
+    "acknowledgment": "I understand this is educational information.",
+    "samples": [
+      "The federal Benefits Finder and my province’s tool.",
+      "My CPP and OAS.",
+      "A provincial home support program and a survivor supplement.",
+      "The home support program. I will call 211 on Monday.",
+      "October 30.",
+      "Next March, when I do my taxes."
+    ]
   },
   "sources": []
 }

@@ -188,14 +188,43 @@ Tally: 20 done, 0 not treated. Grades for money-01, 02, 08, 09 and 10 are curren
 
 ## v2 benefits-support rollout (`content/benefits-NN-lesson.json`)
 
-Pilot of three lessons, 2026-10-30, pending sign-off before the rest of the course. Audit at pilot start: 30 lessons, average teaching grade 10.36, 24 over 8.3, 6 with both banners. Measure with `node scripts/readability.js benefits-NN --breakdown --tells`.
+Completed 2026-10-30. All 30 lessons carry both banners (after section 01 and after the story section), no outcomes list, a six-question fill-out form with sample answers, teaching prose at or below grade 8.3 and stories at or below grade 6. Audit at start: average teaching grade 10.36, 24 of 30 over 8.3, 6 with both banners. Measure with `node scripts/readability.js benefits-NN --breakdown --tells`.
+
+Lessons 21 to 30 use `chips` blocks as teaching checklists ("Your starter file", "Does this apply to me?"); those stay, since only the start-section outcomes list is removed. Em dashes in their two-column comparison cards are column separators, not prose. benefits-13 keeps one flagged filler ("waiting perfectly in the wrong place"), which is the original author's joke.
+
+Six lessons had `ordered` lists corrupted at extraction (each item reduced to its first letter, also broken in `extracted/*.md`): benefits-11, 15, 16, 18, 19 and 20. Each list was rebuilt from its own lesson's content and should be checked by the course owner. The same corruption exists in income-01 to income-04.
 
 | Lesson | Course | Treatment | Teaching grade | Story grade |
 |---|---|---|---|---|
-| benefits-01 | Canada Child Benefit | done 2026-10-30 (pilot; light pass, banners already present) | 7.57 → 7.25 | 7.45 → 4.65 |
-| benefits-12 | Provincial Disability Programs | done 2026-10-30 (pilot) | 13.88 → 7.51 | 11.61 → 5.54 |
-| benefits-20 | Newcomer Settlement Supports | done 2026-10-30 (pilot) | 13.85 → 7.61 | 12.48 → 5.54 |
+| benefits-01 | Canada Child Benefit | done 2026-10-30 (light pass; banners already present) | 7.57 → 7.25 | 7.45 → 4.65 |
+| benefits-02 | GST/HST Credit | done 2026-10-30 (light pass) | 6.89 → 6.87 | 4.75 → 4.75 |
+| benefits-03 | Canada Workers Benefit | done 2026-10-30 (light pass) | 7.99 → 7.99 | 4.11 → 4.11 |
+| benefits-04 | Disability Tax Credit | done 2026-10-30 (light pass; authoring note removed) | 9.22 → 7.33 | 5.40 → 5.40 |
+| benefits-05 | Registered Disability Savings Plan | done 2026-10-30 (light pass) | 9.32 → 7.25 | 4.84 → 4.84 |
+| benefits-06 | Old Age Security | done 2026-10-30 (light pass) | 8.17 → 8.17 | 6.70 → 5.65 |
+| benefits-07 | Guaranteed Income Supplement | done 2026-10-30 | 11.25 → 7.34 | 10.77 → 4.49 |
+| benefits-08 | Canada Pension Plan | done 2026-10-30 | 10.97 → 6.07 | 9.86 → 4.69 |
+| benefits-09 | CPP Disability Benefits | done 2026-10-30 | 12.62 → 7.51 | 13.43 → 5.54 |
+| benefits-10 | Employment Insurance | done 2026-10-30 | 10.57 → 6.16 | 8.25 → 4.41 |
+| benefits-11 | Provincial Income Support | done 2026-10-30 (corrupted list rebuilt) | 13.08 → 7.83 | 10.65 → 4.56 |
+| benefits-12 | Provincial Disability Programs | done 2026-10-30 | 13.88 → 7.51 | 11.61 → 5.50 |
+| benefits-13 | Rent Assistance | done 2026-10-30 | 11.62 → 7.14 | 11.84 → 4.96 |
+| benefits-14 | Utility Assistance | done 2026-10-30 | 12.53 → 7.86 | 11.10 → 4.55 |
+| benefits-15 | Dental-Care Benefits | done 2026-10-30 (corrupted list rebuilt) | 10.60 → 6.38 | 9.18 → 4.29 |
+| benefits-16 | Prescription Assistance | done 2026-10-30 (corrupted list rebuilt) | 12.93 → 7.55 | 12.55 → 5.47 |
+| benefits-17 | Student Grants | done 2026-10-30 | 11.12 → 6.94 | 8.74 → 5.06 |
+| benefits-18 | Apprenticeship Funding | done 2026-10-30 (corrupted list rebuilt) | 11.54 → 7.46 | 9.09 → 4.40 |
+| benefits-19 | Indigenous Benefits and Programs | done 2026-10-30 (corrupted list rebuilt) | 12.78 → 7.51 | 9.94 → 5.80 |
+| benefits-20 | Newcomer Settlement Supports | done 2026-10-30 (corrupted list rebuilt) | 13.85 → 7.61 | 12.48 → 5.54 |
+| benefits-21 | Veteran Benefits | done 2026-10-30 | 7.69 → 7.50 | 9.14 → 5.38 |
+| benefits-22 | Senior Home-Renovation Programs | done 2026-10-30 | 8.14 → 7.70 | 6.89 → 5.64 |
+| benefits-23 | Energy-Efficiency Rebates | done 2026-10-30 | 8.73 → 7.33 | 10.04 → 5.27 |
+| benefits-24 | Training Grants | done 2026-10-30 | 9.26 → 8.29 | 9.02 → 5.62 |
+| benefits-25 | Small-Business Grants | done 2026-10-30 | 9.12 → 7.35 | 11.60 → 5.63 |
+| benefits-26 | Wage Subsidies | done 2026-10-30 | 9.09 → 7.88 | 8.52 → 5.16 |
+| benefits-27 | First-Time Home Buyer Programs | done 2026-10-30 | 8.91 → 7.22 | 11.42 → 5.65 |
+| benefits-28 | Tax Credits People Commonly Miss | done 2026-10-30 | 11.49 → 8.24 | 11.39 → 5.41 |
+| benefits-29 | Provincial Benefit Finders | done 2026-10-30 | 10.15 → 7.45 | 11.33 → 5.24 |
+| benefits-30 | How to Apply Without Getting Scammed | done 2026-10-30 | 9.75 → 7.49 | 10.93 → 5.44 |
 
-benefits-20's "Stabilize, Connect, Then Build" ordered list had corrupted items (each step read "F" / "i"); the four steps were rebuilt from the lesson's own takeaway.
-
-Untreated: benefits-02 to 11, 13 to 19, 21 to 30. Health (29), income (20) and tax (20) lessons have not been audited against this table yet.
+Untreated: health (29 lessons), income (20) and tax (20) have not been audited against this table yet.

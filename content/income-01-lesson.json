@@ -12,47 +12,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A good companion can make an afternoon brighter. A vague service agreement can make the same afternoon include three pharmacies, a ladder and somebody’s online-banking password. We are choosing the first version."
+          "text": "A good companion can make an afternoon brighter. A vague service agreement can make the same afternoon include three pharmacies, a ladder and somebody’s online banking password. We are choosing the first version."
         },
         {
           "type": "paragraph",
-          "text": "Senior companion services are non-medical supports such as conversation, walks, errands, appointment accompaniment, light meal preparation and social activities. The opportunity is built on trust, but trust needs clear boundaries. The provider must define what is included, confirm local business requirements, plan for safety and refuse tasks that require regulated health, personal-care, legal or financial authority."
+          "text": "Senior companion services are non-medical help: conversation, walks, errands, going along to appointments, light meal help and social outings. The business is built on trust, and trust needs clear limits. You must define what you include, check local business rules, plan for safety and turn down tasks that need health, personal care, legal or money authority."
         },
         {
           "type": "spotlight",
-          "text": "Sell a defined visit, not “anything you need.” A written scope protects the client, family and provider from mismatched expectations."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Define companion work and firm exclusions.",
-              "text": ""
-            },
-            {
-              "title": "Screen clients, homes and travel conditions.",
-              "text": ""
-            },
-            {
-              "title": "Price time, travel and administration.",
-              "text": ""
-            },
-            {
-              "title": "Build privacy, payment and emergency safeguards.",
-              "text": ""
-            },
-            {
-              "title": "Complete a Safe Service Launch Plan.",
-              "text": ""
-            }
-          ]
+          "text": "Sell a defined visit, not “anything you need.” A written list of what you do protects the client, the family and you from mismatched expectations."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Being kind is the only qualification needed.”",
-              "text": "Kindness is essential, but reliability, boundaries, screening, communication, safety planning and appropriate insurance keep kindness from being assigned a snow shovel at midnight."
+              "text": "Kindness matters most, but reliability, limits, screening, clear communication, a safety plan and the right insurance keep kindness from being assigned a snow shovel at midnight."
             }
           ]
         },
@@ -60,6 +35,12 @@
           "type": "source",
           "text": "Canada: Starting a business",
           "url": "https://www.canada.ca/en/services/business/start.html"
+        },
+        {
+          "type": "transition",
+          "text": "A clear, written service lets you build a caring business that families trust and recommend.",
+          "detail": "Deciding what you do, what you never do and what to charge protects your client and your income.",
+          "extra": "Section 02 helps you write that line before your first visit."
         }
       ]
     },
@@ -76,37 +57,41 @@
           "type": "cards",
           "items": [
             {
-              "title": "USUALLY WITHIN SCOPE",
-              "text": "Conversation, reading, games, walks, friendly check-ins, simple meal support, errands and accompaniment when the agreement allows them."
+              "title": "USUALLY INCLUDED",
+              "text": "Conversation, reading, games, walks, friendly check-ins, simple meal help, errands and going along to appointments, when your agreement allows them."
             },
             {
-              "title": "REQUIRES A SEPARATE DECISION",
-              "text": "Driving, use of the provider’s vehicle, handling keys, pet care, lifting, bathing, medication reminders, food preparation and entering an empty home all create extra risk or training needs."
+              "title": "NEEDS A SEPARATE DECISION",
+              "text": "Driving, using your own car, holding keys, pet care, lifting, bathing, medication reminders, cooking and entering an empty home. Each adds risk or needs training."
             },
             {
-              "title": "OUTSIDE A BASIC COMPANION SCOPE",
-              "text": "Medication administration, wound care, transfers beyond safe ability, legal advice, banking, signing documents, controlling passwords or acting under a power of attorney."
+              "title": "OUTSIDE A BASIC COMPANION SERVICE",
+              "text": "Giving medication, wound care, transfers beyond what you can do safely, legal advice, banking, signing papers, holding passwords or acting under a power of attorney."
             },
             {
-              "title": "EMERGENCY LINE",
-              "text": "A companion observes and calls the agreed contact or emergency service. They do not diagnose, promise clinical monitoring or improvise a treatment plan."
+              "title": "IN AN EMERGENCY",
+              "text": "A companion watches and calls the agreed contact or 911. They do not diagnose, promise medical monitoring or make up a treatment plan."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "A vulnerable sector check is different from an ordinary criminal record check. The police service determines the process, and an organization may need to identify a qualifying position of trust."
+          "text": "A vulnerable sector check is different from a regular criminal record check. Your local police service sets the process, and a client or agency may need to confirm the job is a position of trust."
         },
         {
           "type": "spotlight",
-          "text": "If driving is offered, verify licence class, vehicle condition, commercial-use coverage, passenger limits and who pays mileage. Personal auto insurance may not cover every business use."
+          "text": "If you offer rides, check your licence class, your car’s condition, insurance for business use, how many passengers you can take and who pays for mileage. Personal car insurance may not cover business driving."
+        },
+        {
+          "type": "spotlight",
+          "text": "Ask an insurance broker about general liability insurance before your first client. If you will hold keys or enter empty homes, ask about bonding too. Many families and agencies will ask for proof."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A companion can handle a client’s bank card if the family gives permission.”",
-              "text": "Financial access creates serious exploitation and misunderstanding risks. Use receipts, pre-approved small purchases and payment methods that do not expose a PIN, password or broad authority."
+              "text": "Access to money creates serious risk of abuse and misunderstanding. Use receipts, small purchases approved ahead of time and ways to pay that never expose a PIN, password or broad authority."
             }
           ]
         },
@@ -124,49 +109,74 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A visit rate must cover preparation, travel, parking, communication, recordkeeping, supplies, insurance, cancellations and unpaid gaps between clients. Start with a minimum visit length and a service area."
+          "text": "Your visit rate must cover planning, travel, parking, messages, record keeping, supplies, insurance, cancellations and unpaid gaps between clients. Start with a minimum visit length and a service area."
         },
         {
           "type": "ordered",
           "items": [
             {
-              "title": "I",
-              "text": "n"
+              "title": "Set a minimum visit",
+              "text": "Two hours is common. A 30-minute visit across town can cost you more in travel than it pays."
             },
             {
-              "title": "A",
-              "text": "g"
+              "title": "Add travel and parking",
+              "text": "Charge a travel fee outside your service area, and track your kilometres for your taxes."
             },
             {
-              "title": "V",
-              "text": "i"
+              "title": "Write a cancellation rule",
+              "text": "For example, 24 hours’ notice or a half-visit fee. A late cancellation is an unpaid gap in your day."
             },
             {
-              "title": "B",
-              "text": "u"
+              "title": "Count insurance and tax",
+              "text": "Add your insurance cost to your rate, and set aside part of every payment for income tax and CPP."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Self-employed income is reported even when clients pay by cash or e-transfer. Keep invoices, receipts, mileage records and a separate record of business activity."
+          "text": "Self-employment income must be reported even when clients pay by cash or e-transfer. Keep invoices, receipts, mileage records and a separate record of your business."
         },
         {
           "type": "spotlight",
-          "text": "The general GST/HST small-supplier threshold is based on more than $30,000 of worldwide taxable supplies in one calendar quarter or across four consecutive quarters. Service tax treatment still needs confirmation."
+          "text": "You generally do not have to charge GST/HST until your taxable sales pass $30,000 in one calendar quarter or over four quarters in a row. Check how your services are taxed before you hit that mark."
+        },
+        {
+          "type": "heading",
+          "text": "Tax basics for your first year"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "REPORT IT",
+              "text": "Business income goes on Form T2125 with your personal tax return, whether clients pay by cash, cheque or e-transfer."
+            },
+            {
+              "title": "PAY BOTH HALVES OF CPP",
+              "text": "Self-employed people pay the worker and employer shares of CPP, 11.9% of net business income above the basic amount, on Schedule 8 of the return."
+            },
+            {
+              "title": "SET MONEY ASIDE",
+              "text": "Nobody takes tax off your pay. Move a share of every payment into a separate account. If you owe more than $3,000 ($1,800 in Quebec) this year and in either of the last two years, the CRA will ask for quarterly instalments."
+            },
+            {
+              "title": "KEEP RECORDS SIX YEARS",
+              "text": "Keep invoices, receipts, mileage and bank records for six years from the end of the tax year they belong to."
+            }
+          ]
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If the client pays cash, it is casual help rather than business income.”",
-              "text": "Payment method does not rename income. A toonie jar is charming; it is not an accounting exemption."
+              "text": "How you are paid does not change what the income is. A toonie jar is charming. It is not an accounting exemption."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Key takeaway: A companion business succeeds by being specific: define non-medical tasks, screen the environment, price the full visit, protect money and personal information, and use a written emergency and escalation plan."
+          "text": "Key takeaway: a companion business succeeds by being specific. Define your non-medical tasks, check the home, price the full visit, protect money and personal information, and use a written plan for emergencies."
         }
       ]
     },
@@ -181,15 +191,18 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Nadia Singh launched a companionship service in Mississauga. Her first client, Mr. Chen, wanted weekly walks and grocery trips. His daughter asked Nadia to keep his debit card “for convenience.” Convenience had arrived wearing a tiny financial-risk hat.",
-            "The conflict was practical: groceries needed paying for, but Nadia did not want access to Mr. Chen’s PIN or account. Her agreement also did not cover medication administration, although an unlabelled pill organizer sat beside the shopping list.",
-            "Nadia proposed a safer routine: the family placed a fixed grocery amount on a store card, Nadia returned every receipt and the daughter handled medication with the pharmacy. Nadia kept an emergency contact card and documented the visit without recording medical speculation.",
-            "Mr. Chen got his groceries and conversation. Nadia kept the client relationship—and did not become an accidental bank branch with sensible shoes."
+            "Nadia Singh starts a companion service in Mississauga. Her goal is three regular clients by spring, so she can leave her part-time retail job.",
+            "Her first client, Mr. Chen, wants weekly walks and grocery trips. On the first visit, his daughter hands Nadia his debit card and his PIN, “for convenience.” Convenience has arrived wearing a tiny financial-risk hat.",
+            "Then Nadia spots an unlabelled pill organizer beside the shopping list. The daughter asks her to “just make sure Dad takes the blue ones.”",
+            "Nadia feels the pull to say yes to both. She needs this client, and saying no on day one feels rude. Instead, she decides to offer a different plan before she leaves.",
+            "She suggests a store gift card the family loads with a set grocery amount. Nadia will bring back every receipt. For the pills, she explains that the pharmacy can blister-pack them, and the daughter can set reminders. Nadia will only note that a dose was missed and call the family.",
+            "The twist comes a month later. The daughter tells Nadia that a previous helper had used her dad’s card for her own shopping. The clear plan is why she trusts Nadia.",
+            "Mr. Chen gets his groceries and his conversation. Nadia keeps the client, gains two referrals from the family and never becomes an accidental bank branch with sensible shoes."
           ]
         },
         {
           "type": "spotlight",
-          "text": "Use the least-authority payment method that works: client checkout, store card, prepaid amount or family reimbursement with receipts. Never store a client’s PIN or online-banking credentials."
+          "text": "Use the payment method that gives you the least access and still works: the client pays at checkout, a store card, a set prepaid amount, or the family pays you back with receipts. Never keep a client’s PIN or online banking login."
         },
         {
           "type": "heading",
@@ -197,7 +210,13 @@
         },
         {
           "type": "paragraph",
-          "text": "Convenience is not a payment plan. Choose the least-authority payment method that still gets groceries paid for."
+          "text": "Convenience is not a payment plan. Choose the payment method with the least access that still gets the groceries paid for."
+        },
+        {
+          "type": "transition",
+          "text": "Nadia kept her first client and gained two referrals by turning down the debit card and the pills.",
+          "detail": "Offering a safer option, instead of a flat no, protects your clients and your reputation.",
+          "extra": "The quick check in Section 05 tests whether you can spot the next move."
         }
       ]
     },
@@ -210,28 +229,28 @@
           "type": "accordions",
           "items": [
             {
-              "title": "Why should a companion service use written exclusions?",
-              "detail": "Written exclusions define what is included and what requires a separate decision or falls outside scope, protecting the client, family and provider from mismatched expectations.",
+              "title": "Why should a companion service write down what it does not do?",
+              "detail": "A written list of included and excluded tasks protects the client, the family and you from mismatched expectations.",
               "text": ""
             },
             {
-              "title": "When might a vulnerable sector check be relevant?",
-              "detail": "When the role is a qualifying position of trust; the police service determines the process, which differs from an ordinary criminal record check.",
+              "title": "When might a vulnerable sector check be needed?",
+              "detail": "When the job is a position of trust with vulnerable people. Your local police service sets the process, which is different from a regular record check.",
               "text": ""
             },
             {
-              "title": "Why should banking and passwords remain outside the service?",
-              "detail": "Financial access creates serious exploitation and misunderstanding risks; safer options include receipts, pre-approved purchases and payment methods that do not expose a PIN or password.",
+              "title": "Why should banking and passwords stay out of your service?",
+              "detail": "Access to money creates serious risk of abuse and misunderstanding. Safer options are receipts, approved purchases and ways to pay that never expose a PIN or password.",
               "text": ""
             },
             {
-              "title": "Which costs belong in the visit price besides face-to-face time?",
-              "detail": "Preparation, travel, parking, communication, recordkeeping, supplies, insurance, cancellations and unpaid gaps between clients.",
+              "title": "Which costs belong in your visit price besides time with the client?",
+              "detail": "Planning, travel, parking, messages, record keeping, supplies, insurance, cancellations, unpaid gaps between clients, and money set aside for tax and CPP.",
               "text": ""
             },
             {
-              "title": "What should a companion do during a medical emergency?",
-              "detail": "Observe and call the agreed contact or emergency service—not diagnose, promise clinical monitoring or improvise a treatment plan.",
+              "title": "What should a companion do in a medical emergency?",
+              "detail": "Watch and call the agreed contact or 911. Do not diagnose, promise medical monitoring or make up a treatment plan.",
               "text": ""
             }
           ]
@@ -240,19 +259,19 @@
     },
     {
       "id": "action",
-      "title": "Your Action: Complete Your Safe Service Launch Plan",
+      "title": "Your Action (Fill Out Form): Safe Service Launch Plan",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use service descriptions only. Do not record client health numbers, banking details, passwords, access codes or full medical histories on this worksheet."
+          "text": "Describe services only. Do not write client health numbers, bank details, passwords, door codes or medical histories here."
         },
         {
           "type": "checkin"
         },
         {
           "type": "spotlight",
-          "text": "Working alone in a private home needs a check-in plan. Share the visit window with a designated contact and create an overdue or emergency response—without broadcasting the client’s private details."
+          "text": "Working alone in a private home needs a check-in plan. Share your visit times with a trusted contact and agree what happens if you do not check in, without sharing the client’s private details."
         }
       ]
     },
@@ -266,31 +285,31 @@
           "items": [
             {
               "title": "Companion service",
-              "text": "Non-medical social and practical support."
+              "text": "Non-medical social and practical help."
             },
             {
               "title": "Scope of service",
-              "text": "Written list of included and excluded tasks."
+              "text": "The written list of tasks you include and exclude."
             },
             {
               "title": "Vulnerable sector check",
-              "text": "Special police-record screening for qualifying positions of trust."
+              "text": "A special police record check for positions of trust."
             },
             {
               "title": "Incident record",
-              "text": "Factual note about an unexpected or safety-related event."
+              "text": "A short, factual note about something unexpected or unsafe."
             },
             {
               "title": "Working alone plan",
-              "text": "Check-in and response process for a worker without nearby help."
+              "text": "A check-in and response plan for someone working with no help nearby."
             },
             {
               "title": "Minimum visit",
-              "text": "Shortest billable appointment offered."
+              "text": "The shortest appointment you charge for."
             },
             {
               "title": "Self-employment income",
-              "text": "Business income earned by a person working for themselves."
+              "text": "Business income you earn working for yourself."
             }
           ]
         }
@@ -307,24 +326,20 @@
   },
   "checkIn": {
     "questions": [
-      "My ideal client and clearly defined companion service are:",
-      "The tasks I include and the tasks I refuse or refer are:",
-      "My registration, permit, screening and insurance checks are:",
-      "My service area, minimum visit, rate, travel and cancellation terms are:",
-      "My client intake, home, pet, mobility and working-alone checks are:",
-      "My payment, receipt, key and privacy safeguards are:",
-      "My emergency contacts, call order and incident record are:",
-      "My first three referral sources and follow-up date are:"
+      "Who is your ideal client, and what will a visit include? A sentence or two is fine.",
+      "Which tasks will you always say no to or refer elsewhere? For example, giving medication or banking.",
+      "What will you charge, how long is your minimum visit, and what is your cancellation rule?",
+      "Do you have insurance, and have you started a vulnerable sector check? (Both / One / Neither yet / Not sure)",
+      "How will groceries and errands be paid for without you holding a card or PIN?",
+      "Who is your check-in contact for visits, and where will you find your first three clients?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Seniors living alone in my area. Walks, chats, errands and appointments.",
+      "Giving medication, bathing, banking and signing papers.",
+      "$34 an hour, two-hour minimum, 24 hours’ notice to cancel.",
+      "Neither yet. I am calling a broker and my police service this week.",
+      "A store card the family loads, and I return every receipt.",
+      "My sister. A seniors’ centre, my church and a local pharmacy board."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

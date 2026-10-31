@@ -1,6 +1,6 @@
 {
   "title": "Yoga",
-  "summary": "Advanced Fitness and Healthy Living · 1.6",
+  "summary": "Choose the class → Use support → Small moves → Pause",
   "subtitle": "Make room for comfortable movement and a quieter pause in your day.",
   "minutes": 30,
   "published": true,
@@ -15,29 +15,10 @@
           "text": "Some yoga booking pages explain the password rules in more detail than the class itself. You can start by asking about pace and support, without learning every pose name first."
         },
         {
-          "type": "heading",
-          "text": "What you will learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Understand yoga’s roots and the purpose of a gentle practice.",
-              "text": ""
-            },
-            {
-              "title": "Choose instruction and a pace that fit your starting point.",
-              "text": ""
-            },
-            {
-              "title": "Adjust a practice without chasing a deeper stretch.",
-              "text": ""
-            },
-            {
-              "title": "Write a realistic plan with clear reasons to pause.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Find a calmer, steadier body, starting from wherever you are.",
+          "detail": "Knowing how to adapt a pose lets you practise with confidence, with no flexibility needed to begin.",
+          "extra": "Section 03 shows how to choose a class that fits you."
         }
       ]
     },
@@ -48,7 +29,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Yoga brings together body positions, attention and breathing practices. It has roots in ancient India and a rich history that extends beyond exercise. This course focuses on a gentle movement practice while respecting that wider tradition."
+          "text": "Yoga brings together body positions, attention and breathing. It has roots in ancient India and a rich history that goes well beyond exercise. This lesson focuses on a gentle movement practice while respecting that wider tradition."
         },
         {
           "type": "paragraph",
@@ -56,16 +37,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Research suggests yoga may support stress management and balance, though results vary. It is not a cure or a replacement for medical care. Your starting point can be a supported position and ordinary breathing, without needing to touch your toes."
+          "text": "Research suggests yoga may help with stress, balance and flexibility, and for some people with long-lasting low back pain, though results vary. It isn’t a cure or a replacement for medical care. You can start in a supported position with ordinary breathing, without touching your toes."
         },
         {
           "type": "paragraph",
-          "text": "This is general learning, not personal medical advice. Before becoming more active, use CSEP’s Get Active Questionnaire and follow its guidance. Discuss individual needs with a qualified professional if you are unsure about your readiness."
-        },
-        {
-          "type": "transition",
-          "text": "A comfortable starting point",
-          "detail": "Knowing how to adapt a pose helps you practise with confidence. You can build familiarity without making flexibility an entrance requirement."
+          "text": "This is general learning, not personal medical advice. Before you get more active, use CSEP’s Get Active Questionnaire and follow its advice. If you’re unsure whether you’re ready, talk to a qualified professional about your needs."
         }
       ]
     },
@@ -76,15 +52,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Class names do not tell the whole story. A beginner class may still move quickly or involve frequent floor changes. Ask about the pace, room temperature, use of chairs and time available for questions before paying or booking."
+          "text": "Class names don’t tell the whole story. A beginner class may still move quickly or switch between floor and standing often. Before you pay or book, ask about the pace, the room temperature, whether chairs are used and whether there’s time for questions."
         },
         {
           "type": "spotlight",
-          "text": "Ask, ‘Can I stay seated or skip floor positions?’ A clear answer tells you more about access than a photo of a perfect pose. Also ask about the instructor’s training and experience with new learners."
+          "text": "Ask, “Can I stay seated or skip floor positions?” A clear answer tells you more about access than a photo of a perfect pose. Also ask about the instructor’s training and experience with beginners. Many yoga teachers complete a 200-hour training program, so it’s fair to ask what theirs was."
         },
         {
           "type": "paragraph",
-          "text": "For a first experience, choose gentle instruction in an unheated space. Leave headstands, shoulder stands, extreme positions and forceful breathing out of your starter practice. Hot studios bring extra concerns about overheating and dehydration."
+          "text": "For a first class, choose gentle instruction in an unheated room. Leave headstands, shoulder stands, extreme positions and forceful breathing out of your starter practice. Hot studios add the risk of overheating and dehydration."
         },
         {
           "type": "heading",
@@ -92,28 +68,28 @@
         },
         {
           "type": "paragraph",
-          "text": "A firm chair without wheels can offer a seated option. For standing movements, a wall or secure chair may help with steadiness. Keep the space clear, and check that any support stays in place before leaning on it."
+          "text": "A firm chair without wheels gives you a seated option. For standing moves, a wall or a steady chair can help. Keep the space clear, and check that any support stays put before you lean on it."
         },
         {
           "type": "spotlight",
-          "text": "A smaller movement can make the instruction easier to learn. If an arm reach feels crowded, raise your arms only partway or leave them by your sides. You can still practise paying attention."
+          "text": "A smaller move can make the instruction easier to learn. If an arm reach feels crowded, raise your arms partway or leave them at your sides. You can still practise paying attention."
         },
         {
           "type": "paragraph",
-          "text": "Move smoothly within a comfortable range and keep breathing normally. Do not bounce into a stretch or hold your breath to stay in a position. Sharp pain is a reason to stop, rather than a sign that the pose is working."
+          "text": "Move smoothly within a comfortable range and keep breathing normally. Don’t bounce into a stretch or hold your breath to stay in a pose. Sharp pain means stop. It isn’t a sign that the pose is working."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Yoga only counts if you match the instructor’s shape.”",
-              "text": "Bodies and starting points differ. A supported version or a rest is a valid choice, and an instructor can help you find a suitable option."
+              "text": "Bodies and starting points differ. A supported version or a rest is a real choice, and an instructor can help you find an option that suits you."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Notice whether you can follow a cue without rushing. If a sequence feels confusing, stop and ask for one movement at a time. Watching part of a class can also help you decide whether its teaching style fits."
+          "text": "Notice whether you can follow a cue without rushing. If a sequence feels confusing, stop and ask for one move at a time. Watching part of a class first can help you decide whether the teaching style fits."
         }
       ]
     },
@@ -128,22 +104,23 @@
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
           "paragraphs": [
-            "Marion, an office administrator in Victoria, wanted a short pause between work and caring for her father. Her evening began with bus schedules and meal reminders, so a long class rarely fit. She hoped yoga could give that crowded hour a calmer start.",
-            "A community notice offered an introductory class nearby. Marion arrived with a borrowed mat, but the first few instructions moved from standing to the floor faster than she expected. She spent more time working out where to put her feet than noticing how she felt.",
-            "At the break, she considered leaving without saying anything. Instead, she told the instructor that repeated floor changes did not suit her and asked about a slower option. The instructor suggested a chair-based class on another day, without promising it would solve her stress.",
-            "Marion tried that class and chose a chair near the window. She learned a small seated reach and practised resting her hands whenever she wanted. At home, she planned a ten-minute pause before checking the evening bus times.",
-            "On the next practice day, her father called earlier than usual because his appointment time had changed. The ten-minute space disappeared, and Marion nearly abandoned the plan. She realised the chair was already there, so she used a brief seated pause after the call instead of squeezing in a rushed sequence.",
-            "Over the following weeks, Marion kept the short version on busy days and returned to the class when her schedule allowed. Some evenings still felt hectic, but she knew which movements she could choose comfortably. The chair by the window had become a place to pause, rather than another appointment she could miss."
+            "Marion, an office manager in Victoria, wanted a short pause between work and caring for her father. Her evenings started with bus schedules and meal reminders, so a long class rarely fit. She hoped yoga could give that crowded hour a calmer start.",
+            "A notice at the community centre offered an intro class nearby. Marion arrived with a borrowed mat, but the teacher moved from standing to the floor faster than she expected. She spent more time figuring out where her feet went than noticing how she felt.",
+            "At the break, she thought about slipping out without a word. Instead, she told the teacher that all the floor changes didn’t suit her and asked about a slower option. The teacher suggested a chair-based class on another day, without promising it would fix her stress.",
+            "Marion tried that class and chose a chair by the window. She learned a small seated reach and rested her hands whenever she wanted. At home, she planned a ten-minute pause before checking the evening bus times.",
+            "On her next practice day, her father called early because his appointment had moved. The ten minutes vanished, and Marion almost gave up on the plan. Then she noticed the chair was already there, so she took a short seated pause after the call instead of rushing through a full routine.",
+            "Over the next few weeks, she used the short version on busy days and went to class when her schedule allowed. Some evenings were still hectic, but she knew which moves felt comfortable. The chair by the window had become a place to pause, not another appointment she could miss."
           ]
         },
         {
-          "type": "transition",
-          "text": "Keep a useful option within reach",
-          "detail": "An adaptable practice gives you a choice when your day changes. A shorter session can help you stay familiar with the movements without turning a busy evening into a test."
+          "type": "spotlight",
+          "text": "Marion changed the setting and pace first. When a class doesn’t fit, asking for another format is a practical next step."
         },
         {
-          "type": "spotlight",
-          "text": "Marion changed the setting and pace first. When a class does not fit, asking for another format is a practical next step."
+          "type": "transition",
+          "text": "Keep a short version ready, and a busy day can still include a pause.",
+          "detail": "An adaptable practice gives you a choice when your day changes, so the habit survives the hectic evenings.",
+          "extra": "Section 05 gives you a ten-minute practice you can do in a chair."
         }
       ]
     },
@@ -154,7 +131,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Choose a clear space and a steady chair, then review movements with an instructor if they are new to you. Pregnancy, injuries or other health needs may call for different choices. This adjustable example is for learning, not an individual exercise prescription."
+          "text": "Choose a clear space and a steady chair, and go over new moves with an instructor first. Pregnancy, injuries or other health needs may call for different choices. This example is for learning, not a personal exercise prescription."
         },
         {
           "type": "heading",
@@ -195,28 +172,28 @@
         },
         {
           "type": "paragraph",
-          "text": "You can leave out a movement and use that time to rest. If standing feels unsteady, choose the seated option. Do not force deeper or faster breaths, and do not add breath holds to this practice."
+          "text": "You can leave out a move and rest instead. If standing feels unsteady, choose the seated option. Don’t force deeper or faster breaths, and don’t add breath holds to this practice."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Longer holds always mean better progress.”",
-              "text": "A hold that makes you strain or stop breathing is a poor fit. Repeat a comfortable level, and change only one feature when you are ready."
+              "text": "A hold that makes you strain or stop breathing is a poor fit. Repeat a comfortable level, and change only one thing when you’re ready."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Stop for pain, dizziness or unusual breathlessness and seek appropriate advice. Chest pain or fainting needs urgent help; call 9-1-1 for an emergency."
+          "text": "Stop for pain, dizziness or unusual breathlessness, and get advice. Chest pain or fainting needs urgent help. Call 911 in an emergency."
         },
         {
           "type": "paragraph",
-          "text": "Canadian weather can affect your space choice. In wet or icy weather, an indoor practice avoids a slippery outdoor surface. Let the room feel comfortable rather than adding heat to make stretching seem easier."
+          "text": "Canadian weather can affect where you practise. In wet or icy weather, practising indoors avoids slippery ground. Keep the room comfortable, rather than adding heat to make stretching feel easier."
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Keep a short list of movements your instructor has helped you learn. If a video moves beyond that list, pause it instead of trying an unfamiliar pose to keep up."
+          "text": "Insider tip: Keep a short list of the moves your instructor has helped you learn. If a video goes beyond that list, pause it instead of trying an unfamiliar pose to keep up."
         }
       ]
     },
@@ -292,15 +269,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Write a small plan you could use when you are ready. Choose a setting and one learning step without sharing private health details."
-        },
-        {
-          "type": "heading",
-          "text": "Chapter completion: My gentle yoga plan"
+          "text": "Write a small plan you could use when you’re ready. Choose a setting and one first step, without sharing private health details."
         },
         {
           "type": "paragraph",
-          "text": "Complete the three action questions in your own words and review your plan. Add your name and email to identify your completed chapter activity."
+          "text": "Answer the questions below in your own words, then review your plan."
         },
         {
           "type": "checkin"
@@ -343,8 +316,8 @@
         },
         {
           "type": "transition",
-          "text": "Next up: 1.7 Pilates",
-          "detail": "Pilates introduces controlled movement and support from the muscles around your trunk. You will learn how mat and reformer formats differ and how to choose a manageable starting point."
+          "text": "Next up: Pilates.",
+          "detail": "Learn controlled movement and support from the muscles around your trunk, and how mat and reformer classes differ."
         },
         {
           "type": "source",
@@ -385,14 +358,20 @@
   },
   "checkIn": {
     "questions": [
-      "Where would you learn first?",
-      "What will you ask before joining?",
-      "What is your first step and pause rule?"
+      "Where would you like to learn first?",
+      "What will you ask before you join?",
+      "Which support will you use?",
+      "What will your short version be on a busy day?",
+      "What is your first step, and when?",
+      "Which sign means you should pause or stop?"
     ],
     "samples": [
-      "Gentle unheated class, chair-based class, instructor-supported home learning, or not sure. Choose an accessible setting.",
-      "Ask about pace or supports.",
-      "Write a readiness step and one stop signal."
+      "Gentle unheated class, chair-based class, learning at home with an instructor’s help, or not sure.",
+      "For example: “Can I stay seated, and how fast does the class move?”",
+      "For example: a firm chair without wheels.",
+      "For example: three minutes of seated breathing and a small reach.",
+      "For example: call the community centre about the chair class this week.",
+      "For example: sharp pain, dizziness or unusual breathlessness."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

@@ -1,6 +1,6 @@
 {
   "title": "Habit Building",
-  "summary": "Advanced Fitness and Healthy Living · 1.12",
+  "summary": "Pick a cue → Start small → Count fairly → Return after a miss",
   "subtitle": "Make a useful action easier to return to when life gets busy.",
   "minutes": 30,
   "published": true,
@@ -12,32 +12,13 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A fitness app may announce a fresh start before you have found both socks. A useful routine needs a starting point that fits your day. Practise one small action without judging a missed chance."
+          "text": "A fitness app may announce a fresh start before you’ve found both socks. A useful routine needs a starting point that fits your day. Practise one small action, and don’t judge yourself for a missed chance."
         },
         {
-          "type": "heading",
-          "text": "What you will learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Choose a cue you can notice in your day.",
-              "text": ""
-            },
-            {
-              "title": "Set a small action and an easier version.",
-              "text": ""
-            },
-            {
-              "title": "Remove a barrier and count planned chances fairly.",
-              "text": ""
-            },
-            {
-              "title": "Return after a missed chance without doubling the work.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Make healthy actions feel automatic, one small step at a time.",
+          "detail": "A clear cue and a small first step cut down the decisions you face when your day is already full.",
+          "extra": "Section 03 shows how to build a routine you can repeat."
         }
       ]
     },
@@ -48,20 +29,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Reaching for your keys when you leave may take little thought. A familiar event can become linked with what you do next. That event is a cue, and a learned response to it is a habit."
+          "text": "Grabbing your keys on the way out takes little thought. A familiar event can become linked with what you do next. That event is a cue, and the learned response to it is a habit."
         },
         {
           "type": "paragraph",
-          "text": "A plan is a useful beginning, but it does not mean an action is already a habit. Repeating a small action around a steady cue gives you chances to learn the link."
+          "text": "A plan is a good start, but it doesn’t mean an action is already a habit. Repeating a small action after a steady cue gives your brain the chance to learn the link."
         },
         {
           "type": "paragraph",
-          "text": "This course teaches everyday planning, not treatment. For a new movement routine, use CSEP’s Get Active Questionnaire and follow its advice about further help. Choose an action that fits your abilities and any existing care advice."
-        },
-        {
-          "type": "transition",
-          "text": "Make starting easier",
-          "detail": "A clear cue and a small first step reduce the decisions you make when your day is already full."
+          "text": "This lesson teaches everyday planning, not treatment. For a new movement routine, use CSEP’s Get Active Questionnaire and follow its advice about getting more help. Choose an action that fits your abilities and any care advice you already have."
         }
       ]
     },
@@ -72,40 +48,40 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Choose one action with a benefit you care about. “Move more” leaves the next step open; “walk indoors for three comfortable minutes after lunch on workdays” tells you what to try. A short action can be a starting point without meeting all your activity needs."
+          "text": "Choose one action with a benefit you care about. “Move more” leaves the next step open. “Walk indoors for three comfortable minutes after lunch on workdays” tells you what to try. A short action can be a starting point without covering all your activity needs."
         },
         {
           "type": "paragraph",
-          "text": "Choose a cue that already happens on the days you plan to practise. Finishing lunch might be more reliable than a clock time when shifts move around. Check that the cue leaves you a safe chance to act; serving someone else lunch may not leave you free."
+          "text": "Choose a cue that already happens on the days you plan to practise. Finishing lunch may be more reliable than a clock time when your shifts move around. Check that the cue leaves you free to act. Serving someone else lunch may not."
         },
         {
           "type": "spotlight",
-          "text": "Test the cue before adding reminders. For two days, notice whether the event happens and whether you have room to act afterward. A cue you rarely encounter needs changing."
+          "text": "Test the cue before adding reminders. For two days, notice whether the event happens and whether you have room to act afterward. A cue you rarely meet needs changing."
         },
         {
           "type": "paragraph",
-          "text": "Write an if/then line: “If I put my lunch dish in the sink on a workday, then I will walk the clear hallway for three minutes.” An easier version might be one comfortable minute. Decide in advance that either version counts as practice, and record which you used."
+          "text": "Write an if/then line: “If I put my lunch dish in the sink on a workday, then I’ll walk the clear hallway for three minutes.” An easier version might be one comfortable minute. Decide ahead of time that either version counts, and write down which one you did."
         },
         {
           "type": "paragraph",
-          "text": "Set up the space so the first step is easy to find. Keep safe footwear where you will notice it, while leaving exits and walkways clear. If the barrier is lack of care coverage, equipment alone cannot solve it; a support arrangement may be needed."
+          "text": "Set up your space so the first step is easy to find. Keep safe shoes where you’ll see them, while keeping exits and walkways clear. If the real barrier is that nobody can cover your care duties, equipment won’t solve it. You may need a support arrangement."
         },
         {
           "type": "spotlight",
-          "text": "Keep tracking small: mark full version, easier version, or missed. The record should help you choose your next step. It does not need a rating of your mood or a public streak."
+          "text": "Keep tracking simple: mark full version, easier version or missed. The record should help you choose your next step. It doesn’t need a mood rating or a public streak."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“After 21 or 30 days, every action becomes automatic.”",
-              "text": "Habit research finds wide differences between people and actions. A calendar deadline cannot promise that a routine will happen without thought."
+              "text": "Habit research finds big differences between people and actions. In one well-known study, it took a median of 66 days for a new action to feel automatic, with a range from 18 to 254 days. No calendar deadline can promise a routine will happen without thought."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "When you miss a chance, return at the next planned cue. If misses keep happening, ask whether the cue, action size, or available support needs changing. A useful plan can be revised without erasing the practice you have already done."
+          "text": "When you miss a chance, return at the next planned cue. If misses keep happening, ask whether the cue, the size of the action or your support needs changing. You can revise a plan without erasing the practice you’ve already done."
         }
       ]
     },
@@ -120,22 +96,23 @@
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
           "paragraphs": [
-            "Theo worked as a home caregiver in Halifax and helped his father at home. He wanted a movement break before evening tasks. His walking shoes sat beside a tea tin, but he usually went from the kettle to the laundry.",
-            "One Thursday, he found an old note: “Walk at five.” That week, no two shifts had ended at five. His plan depended on a time his work could not protect, and the blank calendar squares made him want to quit.",
-            "He considered more alarms, then chose a different starting point. After putting his work bag beside the tea tin, he would walk indoors for three minutes once his father’s immediate needs were covered. His easier version was one minute, with four planned chances that week.",
-            "On Monday and Tuesday he used the full version. Wednesday’s late visit left him only enough room for the easier version. He marked each honestly rather than writing three identical ticks, and he left Thursday unmarked when an urgent household task took the whole evening.",
-            "On Friday, his father had moved the tea tin to a high shelf to clear the counter. Theo reached for his work bag and still remembered the walk. The useful cue had been setting down the bag, not seeing the tin, so he placed a small reminder beside the bag’s usual spot.",
-            "At his review, Theo counted three completed chances out of four planned, including one easier version. He kept the same amount for another week and asked his sister about covering one evening task. The tea tin returned to the counter, but his plan no longer depended on where someone stored the tea."
+            "Theo was a home caregiver in Halifax who also helped his father at home. He wanted a movement break before his evening tasks. His walking shoes sat beside the tea tin, but he usually went straight from the kettle to the laundry.",
+            "One Thursday, he found an old note that said, “Walk at five.” That week, not one shift had ended at five. His plan depended on a time his work couldn’t protect, and the blank boxes on his calendar made him want to quit.",
+            "He thought about adding more alarms. Instead, he chose a new starting point. After putting his work bag by the tea tin, he would walk indoors for three minutes, once his father was settled. His easier version was one minute. He planned four chances that week.",
+            "On Monday and Tuesday he did the full version. Wednesday’s late visit left room for only the easier one. He marked each day honestly, not as three matching ticks, and left Thursday blank when an urgent task took the whole evening.",
+            "On Friday, his father moved the tea tin to a high shelf to clear the counter. Theo set down his work bag and still remembered the walk. The real cue had been putting down the bag, not seeing the tin. He stuck a small reminder where the bag always went.",
+            "At his review, Theo counted three of four planned chances done, including one easier version. He kept the same amount for another week and asked his sister to cover one evening task. The tea tin came back to the counter, but his plan no longer depended on where anyone kept the tea."
           ]
         },
         {
-          "type": "transition",
-          "text": "Keep a way back",
-          "detail": "An easier version and an honest review help you return to your routine after a crowded day without starting the whole plan over."
+          "type": "spotlight",
+          "text": "Theo changed a cue that didn’t fit his shifts. His plan worked, even though it still took some thought."
         },
         {
-          "type": "spotlight",
-          "text": "Theo changed a cue that did not fit his shifts. His plan worked, though it still needed thought."
+          "type": "transition",
+          "text": "Keep a way back, and a busy day never ends the habit.",
+          "detail": "An easier version and an honest review help you return after a crowded day, without starting the whole plan over.",
+          "extra": "Section 05 gives you a one-week plan to try."
         }
       ]
     },
@@ -146,7 +123,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use this adjustable example to test your setup, not to prove your fitness. Choose a comfortable indoor route or a familiar seated movement suited to you. Keep any movement within your abilities; these amounts are learning examples, not a personal medical prescription."
+          "text": "Use this example to test your setup, not to prove your fitness. Choose a comfortable indoor route or a familiar seated move that suits you. Keep any movement within your abilities. These amounts are examples, not a personal medical prescription."
         },
         {
           "type": "heading",
@@ -179,36 +156,36 @@
         },
         {
           "type": "paragraph",
-          "text": "In this example, Monday and Thursday are full versions, Tuesday is an easier version, and Friday is missed. That is three completions out of four planned opportunities, with nine movement minutes in total: four plus one plus four. Wednesday and the weekend were not planned, so they are not missed chances."
+          "text": "In this example, Monday and Thursday are full versions, Tuesday is the easier version and Friday is missed. That’s three of four planned chances, with nine minutes of movement in total: four plus one plus four. Wednesday and the weekend weren’t planned, so they aren’t missed chances."
         },
         {
           "type": "spotlight",
-          "text": "Write the planned days before the week starts. Keep the original count visible if life changes, and note what changed. This makes the review useful without quietly removing difficult days."
+          "text": "Write down your planned days before the week starts. Keep the original count visible if life changes, and note what changed. That keeps your review honest without quietly dropping the hard days."
         },
         {
           "type": "paragraph",
-          "text": "For another week, repeat the same level if it still takes effort. If you choose to increase, change one thing, such as adding one comfortable minute to the full version while keeping the same days. There is no deadline to increase, and a shorter plan may suit you better."
+          "text": "For the next week, repeat the same level if it still takes effort. If you choose to increase, change one thing, like adding one comfortable minute to the full version on the same days. There’s no deadline to increase, and a shorter plan may suit you better."
         },
         {
           "type": "spotlight",
-          "text": "Check the indoor backup before bad weather arrives. A building hallway must be clear and available for your use; a small room or seated option may be more practical."
+          "text": "Check your indoor backup before bad weather arrives. A building hallway must be clear and open to you. A small room or a seated option may be more practical."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Missing Friday means I should double Monday’s activity.”",
-              "text": "Return to the planned amount. Extra work is not a penalty you owe for a missed chance."
+              "text": "Go back to the planned amount. Extra work isn’t a penalty you owe for a missed chance."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Stop for pain, faintness, chest symptoms, or extreme breathlessness; seek urgent help for possible heart-attack symptoms. Choose safe seasonal conditions. In winter, your plan can use the indoor route instead of an icy entrance."
+          "text": "Stop for pain, feeling faint, chest symptoms or extreme breathlessness, and get urgent help for possible heart attack symptoms. Choose safe conditions for the season. In winter, use the indoor route instead of an icy entrance."
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Put one review question beside your tracker: “What made starting hard?” Answer it before buying a new tool. A smaller action or better support may address the actual barrier."
+          "text": "Insider tip: Put one review question beside your tracker: “What made starting hard?” Answer it before you buy a new tool. A smaller action or better support may fix the real barrier."
         }
       ]
     },
@@ -256,7 +233,7 @@
             {
               "title": "You planned five chances, used the full version twice and the easier version twice, and missed once. How do you report it? A. Four of five, naming both versions. · B. Two of five. · C. Five of five because you meant to act.",
               "detail": "A.",
-              "text": "Both agreed versions count. Naming them shows what actually happened."
+              "text": "Both agreed versions count. Naming them shows what happened."
             },
             {
               "title": "You still need a reminder after 30 days. What is a useful next step? A. Assume you failed. · B. Remove all reminders. · C. Review the cue and keep practising a manageable action.",
@@ -287,12 +264,8 @@
           "text": "Write your one-week plan using these questions. Name the days before you begin, and keep private health details out."
         },
         {
-          "type": "heading",
-          "text": "Chapter completion activity"
-        },
-        {
           "type": "paragraph",
-          "text": "Write an if/then sentence and a review date. Add a return step after a missed chance. At review, you can keep the same amount."
+          "text": "Include an if/then sentence, a review date and a way back after a missed chance. At your review, keeping the same amount is a fine choice."
         },
         {
           "type": "checkin"
@@ -331,8 +304,8 @@
         },
         {
           "type": "transition",
-          "text": "Next up",
-          "detail": "Module 1.13: Stress Management explores ways to respond to pressure. You will also consider when to ask for support."
+          "text": "Next up: Stress Management.",
+          "detail": "Explore ways to respond to pressure, and when to ask for support."
         },
         {
           "type": "source",
@@ -374,13 +347,19 @@
   "checkIn": {
     "questions": [
       "What event will start your action?",
-      "What will you do, including an easier version?",
-      "What support will you prepare first?"
+      "What will you do, and what is your easier version?",
+      "Write your if/then line.",
+      "Which days will you practise this week?",
+      "What support or setup will you prepare first?",
+      "How will you return after a missed chance?"
     ],
     "samples": [
-      "Name something you already do and the days you will practise.",
-      "Give a short action and a clear amount for each version.",
-      "Clear a space, arrange practical help, set a simple reminder, or not sure. Choose one, then add a detail if useful."
+      "Name something you already do, such as putting your lunch dish in the sink.",
+      "For example: three minutes of walking, or one minute on a busy day.",
+      "For example: If I put my work bag down, then I’ll walk the hallway for three minutes.",
+      "For example: Monday, Tuesday, Thursday and Friday.",
+      "Clear a space, arrange help, set a simple reminder, or not sure.",
+      "For example: I’ll start again at the next planned cue, with no extra minutes."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

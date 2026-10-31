@@ -12,36 +12,17 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This course provides general education, not personal medical care. Body-weight change can be affected by health conditions, medicines, pregnancy, menopause, disability, sleep, stress, food access, and other factors. Speak with a physician, nurse practitioner, registered dietitian, or other qualified professional when these apply. Do not start a restrictive weight-loss plan if you are pregnant, breastfeeding, under 18, medically underweight, recovering from illness, or living with an eating disorder unless your care team recommends it. Seek help promptly for fainting, chest pain, severe weakness, repeated vomiting, or thoughts and behaviours linked to an eating disorder."
+          "text": "This lesson is general education, not personal medical care. Body weight can be affected by health conditions, medicines, pregnancy, menopause, disability, sleep, stress, access to food and more. Talk to a doctor, nurse practitioner, registered dietitian or other qualified professional when any of these apply. Don’t start a strict weight-loss plan if you’re pregnant, breastfeeding, under 18, underweight, recovering from illness or living with an eating disorder, unless your care team recommends it. Get help quickly for fainting, chest pain, severe weakness, repeated vomiting, or thoughts and behaviours linked to an eating disorder."
         },
         {
           "type": "paragraph",
-          "text": "Every idea in this course passes through four questions: Is it safe? Can it fit real life? Can it be repeated? Does it improve more than one health signal? Fat loss does not require a fridge full of foods that introduce themselves as “guilt-free.”"
+          "text": "Every idea in this lesson passes four questions: Is it safe? Can it fit real life? Can it be repeated? Does it improve more than one health signal? Fat loss doesn’t need a fridge full of foods that introduce themselves as “guilt-free.”"
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "What body-fat loss means and why day-to-day weight changes can mislead.",
-              "text": ""
-            },
-            {
-              "title": "How food patterns, activity, sleep, stress, and environment affect progress.",
-              "text": ""
-            },
-            {
-              "title": "How to create a modest, sustainable change without extreme restriction.",
-              "text": ""
-            },
-            {
-              "title": "Which progress signals matter beyond the scale.",
-              "text": ""
-            },
-            {
-              "title": "When personal guidance is the safer next step.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Lose fat in a way you can keep up, and keep the results.",
+          "detail": "Small, steady changes to food, movement and sleep add up, without the crash diets that end in rebound.",
+          "extra": "Section 05 shows how to find the easy wins in your own routine."
         }
       ]
     },
@@ -56,11 +37,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Salt intake, carbohydrate intake, digestion, menstrual cycles, exercise, travel, illness, and hydration can shift water weight. A sudden change over one or two days is usually not a precise report on body fat. The scale is a measuring tool, not a tiny judge who lives beside the shower."
+          "text": "Salt, carbs, digestion, periods, exercise, travel, illness and how much you drink can all shift water weight. A sudden change over a day or two usually isn’t a true report on body fat. The scale is a measuring tool, not a tiny judge who lives beside the shower."
         },
         {
           "type": "paragraph",
-          "text": "Health goals may include easier movement, better fitness, improved blood pressure or blood sugar, more energy, or fewer physical limitations. Some of these can improve before a large weight change appears. Some people may benefit from weight stability rather than loss."
+          "text": "Health goals may include moving more easily, better fitness, healthier blood pressure or blood sugar, more energy or fewer limits in daily life. Some of these can improve before your weight changes much. For some people, keeping weight steady is a better goal than losing it."
         },
         {
           "type": "spotlight",
@@ -92,19 +73,23 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The body uses energy to stay alive, digest food, move, work, think, repair tissue, and regulate temperature. Food and drinks provide energy. When energy intake remains below energy use over time, stored body energy may decrease."
+          "text": "Your body uses energy to stay alive, digest food, move, work, think, repair itself and stay warm. Food and drinks supply that energy. When you take in less than you use over time, your body draws on stored energy."
         },
         {
           "type": "paragraph",
-          "text": "That principle is simple. Applying it is personal. Appetite, portion size, food type, activity, muscle mass, sleep, medicines, stress, hormones, health conditions, and the food environment can all influence the two sides. This is why a universal menu or calorie target is not appropriate course material."
+          "text": "The idea is simple. Living it is personal. Appetite, portions, the type of food, activity, muscle, sleep, medicines, stress, hormones, health conditions and the food around you can all affect both sides. That’s why this lesson doesn’t give one menu or calorie target for everyone."
         },
         {
           "type": "paragraph",
-          "text": "A sustainable approach usually creates a modest difference through several ordinary choices. It might combine more filling meals, fewer automatic extras, more daily movement, and better sleep. It should still provide enough food and nutrients for health, work, training, and concentration."
+          "text": "A lasting approach usually makes a modest gap through several ordinary choices: more filling meals, fewer extras you eat without thinking, more daily movement and better sleep. It should still give you enough food and nutrients for your health, work, training and focus."
         },
         {
           "type": "spotlight",
           "text": "A small change practised most days can matter more than a strict plan followed briefly. Consistency is quieter than a transformation video, but it has better attendance."
+        },
+        {
+          "type": "spotlight",
+          "text": "Slow is the safer speed. For adults with weight to lose, many health guidelines suggest about 0.5 to 1 kg (1 to 2 lb) a week, at most. Eating enough protein and keeping up strength training help you hold on to muscle while you lose fat, so more of what you lose is fat."
         }
       ]
     },
@@ -115,15 +100,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Canada's Food Guide recommends eating a variety of healthy foods each day, including vegetables and fruits, whole-grain foods, and protein foods. It also recommends making water the drink of choice and being mindful of eating habits."
+          "text": "Canada’s Food Guide recommends eating a variety of healthy foods each day, including vegetables and fruits, whole grains and protein foods. It also recommends making water your drink of choice and paying attention to how you eat."
         },
         {
           "type": "paragraph",
-          "text": "Use those ideas as flexible building blocks. Include a protein food, foods with fibre, and enough total food to feel reasonably satisfied. Beans, lentils, eggs, fish, poultry, tofu, yogurt, nuts, seeds, whole grains, vegetables, and fruit can fit according to culture, budget, allergies, values, and availability."
+          "text": "Use those ideas as flexible building blocks. Include a protein food, foods with fibre and enough food overall to feel satisfied. Beans, lentils, eggs, fish, chicken, tofu, yogurt, nuts, seeds, whole grains, vegetables and fruit can all fit your culture, budget, allergies, values and what’s available."
         },
         {
           "type": "paragraph",
-          "text": "Eat slowly enough to notice hunger, taste, and fullness. Reduce distractions when practical. Plan for foods you enjoy instead of treating them as evidence in a criminal trial. A pattern that includes pleasure and flexibility is easier to maintain than one built around fear."
+          "text": "Eat slowly enough to notice hunger, taste and fullness. Cut distractions when you can. Plan for foods you enjoy instead of treating them as evidence in a criminal trial. A pattern with pleasure and flexibility is easier to keep than one built on fear."
         },
         {
           "type": "myths",
@@ -143,15 +128,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Begin with observation, not punishment. For several days, note when, where, and why you eat or drink. You do not have to count calories. Look for choices that happen without much hunger or enjoyment."
+          "text": "Start by watching, not punishing. For a few days, note when, where and why you eat or drink. You don’t have to count calories. Look for choices that happen without much hunger or enjoyment."
         },
         {
           "type": "paragraph",
-          "text": "Common examples include large sweetened drinks, frequent alcohol, bites while cooking, oversized takeout portions, or snacks eaten because they are visible. None is morally bad. The question is whether the pattern helps your goal."
+          "text": "Common examples are large sugary drinks, frequent alcohol, bites while cooking, oversized takeout portions or snacks eaten just because they’re in sight. None of these is morally bad. The question is whether the pattern helps your goal."
         },
         {
           "type": "paragraph",
-          "text": "Choose one adjustment. Drink water with one routine meal. Plate a snack instead of eating from the package. Add a vegetable or protein food before reducing anything. Keep a suitable portion for tomorrow. Buy the package size that fits your household rather than the package that appears ready to survive a prairie winter."
+          "text": "Choose one change. Drink water with one regular meal. Put a snack on a plate instead of eating from the bag. Add a vegetable or protein food before cutting anything. Save part of a portion for tomorrow. Buy the package size that fits your household, not the one that looks ready to survive a prairie winter."
         },
         {
           "type": "heading",
@@ -187,15 +172,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Physical activity supports heart health, fitness, strength, mood, mobility, sleep, and daily function. It also contributes to energy use, but exercise should not be treated as punishment for eating."
+          "text": "Physical activity supports your heart, fitness, strength, mood, mobility, sleep and daily life. It also burns energy, but exercise should never be punishment for eating."
         },
         {
           "type": "paragraph",
-          "text": "Canadian movement guidance encourages adults to accumulate moderate-to-vigorous aerobic activity, strengthen the major muscle groups at least twice a week, limit sedentary time, and protect sleep. Build toward the guidance from your current ability. Some movement is better than none."
+          "text": "Canada’s movement guidelines encourage adults to build up to 150 minutes a week of moderate-to-vigorous activity, strengthen the major muscle groups at least twice a week, sit less and sleep 7 to 9 hours. Work toward them from where you are now. Some movement is better than none."
         },
         {
           "type": "paragraph",
-          "text": "Combine structured exercise with ordinary movement: walking during a break, active transportation, stairs when suitable, household work, gardening, play, or brief movement breaks. The best option is one your body, schedule, location, and finances can support."
+          "text": "Mix planned exercise with everyday movement: a walk on your break, walking or cycling to places, stairs when it suits you, housework, gardening, play or short movement breaks. The best choice is one your body, schedule, location and budget can support."
         },
         {
           "type": "myths",
@@ -215,27 +200,27 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Amira",
+          "text": "Amira replaces the perfect plan",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Amira, 41, lived in Winnipeg and worked rotating shifts. Every few months, she started a strict meal plan and a daily workout challenge. By the second week, one night shift and an empty lunch container had defeated the entire operation.",
-            "This time, Amira observed her routine first. She noticed that she skipped a meal before evening shifts, became very hungry, bought a large takeout meal, and then blamed herself. Her problem was not a mysterious lack of discipline. Her plan had forgotten that she worked for a living.",
-            "She packed a simple meal with a protein food, vegetables, and a whole-grain option before three shifts each week. She kept fruit and yogurt available for a break, walked for fifteen minutes after two daytime meals, and completed two short strength sessions at home. She also weighed less often because daily changes were affecting her mood.",
-            "After ten weeks, Amira's clothes felt more comfortable, her walks became easier, and her weekly weight trend had moved gradually. More importantly, she could explain exactly which habits were helping."
+            "Amira, 41, was a nurse in Winnipeg who worked rotating shifts. Every few months she started a strict meal plan and a daily workout challenge. By week two, one night shift and an empty lunch container had defeated the whole operation.",
+            "In January, a coworker shared a new 1,200-calorie challenge, and Amira almost signed up. Then she stopped and asked herself why the last five plans had failed. She decided to spend one week just watching her routine before changing anything.",
+            "The pattern was clear. Before evening shifts, she skipped a meal, got hungry, bought a large takeout meal on her break and then blamed herself. Her problem wasn’t a lack of discipline. Her plans had forgotten that she worked for a living.",
+            "So she fixed that one gap first. Before three shifts a week, she packed a simple meal with a protein food, vegetables and a whole grain. She kept fruit and yogurt in her locker, walked for fifteen minutes after two daytime meals and did two short strength sessions at home.",
+            "The twist came in week three, when her daily weigh-ins started ruining her mood, even on good days. She switched to weighing once a week and added two other signals: how her walks felt and how her uniform fit.",
+            "After ten weeks, her uniform felt looser, her walks felt easier and her weekly weight trend had moved down slowly. Best of all, she could explain exactly which habits were helping, and none of them depended on a perfect week."
           ]
         },
         {
-          "type": "heading",
-          "text": "What Amira did well"
-        },
-        {
-          "type": "paragraph",
-          "text": "She investigated the routine, fixed one predictable gap, used ordinary food, combined movement types, and measured several outcomes. Her plan could survive a difficult week."
-        },
-        {
           "type": "spotlight",
-          "text": "Missed meals, poor access, shift work, fatigue, and an unsupportive environment are design problems. Change the setup where possible."
+          "text": "Missed meals, poor access to food, shift work, tiredness and a hard environment are design problems, not character flaws. Change the setup where you can."
+        },
+        {
+          "type": "transition",
+          "text": "Fix the gap in your real routine, and the results follow.",
+          "detail": "Plans that fit your work, sleep and budget survive the hard weeks, and those are the weeks that count.",
+          "extra": "Section 08 covers the sleep and stress that quietly shape your progress."
         }
       ]
     },
@@ -246,15 +231,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Short or irregular sleep can affect appetite, food choices, energy, and willingness to move. Stress can also change eating and activity. These responses are human, not personal failures."
+          "text": "Short or irregular sleep can change your appetite, food choices, energy and drive to move. Stress can change eating and activity too. These are human responses, not personal failures."
         },
         {
           "type": "paragraph",
-          "text": "Choose a realistic sleep window, reduce late caffeine when appropriate, and create a short wind-down cue. During stressful periods, protect the smallest useful habits rather than demanding perfect performance. A prepared meal, a ten-minute walk, or an earlier bedtime can keep the plan connected."
+          "text": "Pick a realistic sleep window, cut back on late caffeine when it helps and create a short wind-down routine. In stressful times, protect your smallest useful habits instead of expecting perfection. A packed meal, a ten-minute walk or an earlier bedtime can keep the plan going."
         },
         {
           "type": "paragraph",
-          "text": "If eating is regularly used to manage overwhelming emotions, or if restriction and overeating cycle together, qualified mental-health and nutrition support may help. This section is humour-free because eating disorders and severe distress require respectful care."
+          "text": "If you often use food to cope with overwhelming feelings, or if restricting and overeating keep cycling, support from a mental-health professional and a dietitian can help. This section has no humour, because eating disorders and severe distress deserve respectful care."
         }
       ]
     },
@@ -265,28 +250,28 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Choose two to four signals that match your goal. Options include a weight trend, waist or clothing fit, walking pace, strength, energy, sleep consistency, blood pressure, blood sugar, or another clinical measure chosen with a professional."
+          "text": "Choose two to four signals that match your goal: a weight trend, waist or clothing fit, walking pace, strength, energy, steady sleep, blood pressure, blood sugar or another measure chosen with a professional."
         },
         {
           "type": "paragraph",
-          "text": "Measurements have limits. Body mass index is a population screening tool and does not directly measure body fat, health, fitness, culture, disability, or individual risk. Waist measurements and consumer body-composition devices also have error. Use any measure as one piece of information."
+          "text": "Every measure has limits. Body mass index (BMI) is a screening tool for large groups. It doesn’t directly measure body fat, health, fitness or your personal risk. Waist measurements and home body-fat scales also have errors. Treat any measure as one piece of information."
         },
         {
           "type": "paragraph",
-          "text": "Review every two to four weeks. If useful habits are consistent but nothing is changing, check portions, drinks, weekend patterns, activity, sleep, and medicines with curiosity. Adjust one item, then observe. If progress is very rapid, energy falls, training worsens, or symptoms appear, stop and seek guidance."
+          "text": "Review every two to four weeks. If your habits are steady but nothing is changing, look at portions, drinks, weekends, activity, sleep and medicines with curiosity. Change one thing, then watch. If you’re losing fast, your energy drops, your training gets worse or symptoms appear, stop and get advice."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Faster weight loss proves a better plan.”",
-              "text": "Rapid change can include water and lean tissue and may increase health or rebound risks. Safe progress should preserve nourishment, function, and recovery."
+              "text": "Fast change can include water and muscle, and it can raise health risks and the chance of regaining. Safe progress protects your nutrition, daily function and recovery."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Record the walks, planned meals, strength sessions, or sleep routine you completed. Outcomes can be slow; behaviours show whether the plan is being practised."
+          "text": "Record the walks, planned meals, strength sessions or sleep routine you did. Results can be slow, but your habits show whether you’re following the plan."
         }
       ]
     },
@@ -297,11 +282,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Food prices, recreation services, primary care, and dietitian access differ by province, territory, and community. Public-health units, community health centres, Indigenous health organizations, recreation programs, campus services, and provincial telehealth or dietitian services may offer support. Ask whether a registered dietitian is available through primary care, a community program, or employee benefits. Eligibility and fees vary."
+          "text": "Food prices, rec services, family doctors and dietitians differ across Canada. Public health units, community health centres, Indigenous health organizations, rec programs, campus services and provincial health lines may offer help. Ask whether a registered dietitian is available through your doctor’s office, a community program or your work benefits. Eligibility and fees vary."
         },
         {
           "type": "paragraph",
-          "text": "Avoid programs that promise extreme loss, require long-term dependence on branded products, shame body size, or discourage medical care. Prescription medicines and bariatric procedures require individual assessment and follow-up; they are not do-it-yourself shortcuts."
+          "text": "Avoid programs that promise extreme loss, make you depend on their branded products, shame people about body size or steer you away from medical care. Prescription weight-loss medicines and weight-loss surgery need a medical assessment and follow-up. They aren’t do-it-yourself shortcuts."
         },
         {
           "type": "heading",
@@ -309,7 +294,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Sustainable fat loss may occur when food, movement, sleep, and environment create a modest energy difference over time. Protect nutrition and function, track several health signals, and make one evidence-based adjustment at a time."
+          "text": "Lasting fat loss can happen when food, movement, sleep and your surroundings create a modest energy gap over time. Protect your nutrition and daily function, track several health signals and make one change at a time, based on what you see."
         },
         {
           "type": "spotlight",
@@ -426,24 +411,20 @@
   },
   "checkIn": {
     "questions": [
-      "My health or daily-life goal is:",
-      "Two progress signals beyond daily weight are:",
-      "One food pattern I will keep is:",
-      "One useful food I can add is:",
-      "One automatic choice I can adjust is:",
-      "My realistic movement plan is:",
-      "My smallest habit for a difficult week is:",
-      "A qualified support I can contact is:"
+      "What do you want to improve in your daily life or health?",
+      "Which two signals, besides daily weight, will you track?",
+      "Which food pattern will you keep, and which useful food will you add?",
+      "Which automatic choice could you adjust?",
+      "What is your realistic movement plan for the next two weeks?",
+      "What is your smallest habit for a hard week?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: walk to work without getting winded.",
+      "For example: how my clothes fit and how long I can walk.",
+      "For example: keep Sunday family dinner, add a packed lunch with protein.",
+      "For example: the large sweet coffee on my way to work.",
+      "For example: three 15-minute walks and two short strength sessions a week.",
+      "For example: a packed lunch and a ten-minute walk."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not personal medical care."

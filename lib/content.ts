@@ -127,6 +127,7 @@ import health16Lesson from '@/content/health-16-lesson.json';
 import health17Lesson from '@/content/health-17-lesson.json';
 import health18Lesson from '@/content/health-18-lesson.json';
 import health19Lesson from '@/content/health-19-lesson.json';
+import health20Lesson from '@/content/health-20-lesson.json';
 import health21Lesson from '@/content/health-21-lesson.json';
 import health22Lesson from '@/content/health-22-lesson.json';
 import health23Lesson from '@/content/health-23-lesson.json';
@@ -271,6 +272,7 @@ export const seededContent: Record<string, LessonContent> = {
   'health-17': health17Lesson as LessonContent,
   'health-18': health18Lesson as LessonContent,
   'health-19': health19Lesson as LessonContent,
+  'health-20': health20Lesson as LessonContent,
   'health-21': health21Lesson as LessonContent,
   'health-22': health22Lesson as LessonContent,
   'health-23': health23Lesson as LessonContent,

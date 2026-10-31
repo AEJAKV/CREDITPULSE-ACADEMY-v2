@@ -1,0 +1,381 @@
+{
+  "title": "Kickboxing Fitness",
+  "summary": "Steady base → Knee lifts → Low kicks → Planned breaks",
+  "subtitle": "Add low, controlled kicks to your non-contact practice.",
+  "minutes": 30,
+  "published": true,
+  "quiz": {
+    "question": "Your standing leg wobbles during a kick. What is the best choice?",
+    "choices": [
+      "Kick faster to finish the round.",
+      "Make the kick smaller or go back to knee lifts.",
+      "Let go of the support."
+    ],
+    "answer": 1
+  },
+  "checkIn": {
+    "questions": [
+      "What will you try first?",
+      "Where will you practise, and what support will you hold?",
+      "How high will your kicks go?",
+      "What will your session look like, and how long will it take?",
+      "How will you make it easier if you need to?",
+      "When will you practise next?"
+    ],
+    "samples": [
+      "Knee lifts only, low front kicks with support, adapted instruction first, or not sure.",
+      "For example: my kitchen, holding the back of a sturdy chair, in running shoes.",
+      "For example: knee height or lower.",
+      "For example: 4-minute warm-up, three 2-minute rounds, 4-minute cool-down. Total: 14 minutes.",
+      "For example: knee lifts instead of kicks, or fewer rounds.",
+      "For example: Thursday evening."
+    ],
+    "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
+    "acknowledgment": "I understand this is educational information."
+  },
+  "sources": [],
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A cardio kickboxing video can make kicks look effortless, right up until you try one in socks on a kitchen floor. Kickboxing fitness can start with far less: punches in the air, a steady base and a low kick you can control. This lesson builds on Boxing Fitness and adds the lower body, one safe step at a time."
+        },
+        {
+          "type": "transition",
+          "text": "Add power to your workout with kicks you can control.",
+          "detail": "Low, supported kicks work your legs, hips and balance as well as your heart, without the risks of high or fast kicks.",
+          "extra": "Section 03 shows you how to build a steady base before your first kick."
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Start with the basics",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Kickboxing fitness mixes boxing-style punches with kicks, done as exercise to music or a timer. In this lesson, nobody hits anyone, and there’s no sparring. Every punch and kick goes into empty air."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kicks ask more of your body than punches. You balance on one leg while the other moves, and your hips, knees and ankles all have to work together. That’s why kicks can build leg strength, balance and coordination, and also why they need a slower start."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fill out CSEP’s Get Active Questionnaire before you start. A yes answer means follow its extra guidance, not that you’re banned. Get advice first if you have a hip or knee replacement, osteoporosis, a recent leg or back injury, balance problems or falls, or if you’re pregnant. Standing on one leg and swinging the other can be the wrong move for those situations without a plan made for you."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Higher kicks mean a better workout.”",
+              "text": "A kick at knee height or lower can work your legs, hips and heart hard. High kicks need years of flexibility and control, and they raise the risk of strains and falls. Height is a skill, not a fitness requirement."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Keep every kick at hip height or lower. For most beginners, knee height is plenty."
+        }
+      ]
+    },
+    {
+      "id": "base",
+      "title": "Build a steady base",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start in a comfortable fighting stance. Stand with your feet about hip-width apart, one foot a half step ahead of the other, knees soft and weight even. Hold your hands up near your chin with relaxed shoulders. This is your home position, and you return to it after every move."
+        },
+        {
+          "type": "heading",
+          "text": "Learn the knee lift first"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stand beside a sturdy chair, counter or wall and rest one hand on it. Shift your weight onto the leg closest to the support. Lift the other knee to a comfortable height, pause, then lower the foot with control. Switch sides. The knee lift is the first half of every front kick, and it’s a good workout on its own."
+        },
+        {
+          "type": "heading",
+          "text": "Add a low front kick"
+        },
+        {
+          "type": "paragraph",
+          "text": "When the knee lift feels steady, add a small push. Lift the knee, push your heel forward a short way at knee height or lower, pull the foot back toward you, then set it down. Keep a slight bend in the kicking knee. Never snap it straight. Think “lift, push, pull back, step down,” slowly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep holding the support while you learn. Kicking in the air with no target to stop your leg is harder on the knee and hip than it looks, so control matters more than speed."
+        },
+        {
+          "type": "spotlight",
+          "text": "If your standing leg wobbles or your back leans hard, make the kick smaller or go back to knee lifts. Balance is the skill you’re building."
+        },
+        {
+          "type": "heading",
+          "text": "Judge effort by your breathing"
+        },
+        {
+          "type": "paragraph",
+          "text": "At moderate effort, you breathe harder but can still talk, though singing gets difficult. Kickboxing raises the heart rate quickly, because the big leg muscles join in. Start easy, and rest when talking gets hard."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“You should kick barefoot or in socks to feel the floor.”",
+              "text": "Socks on a smooth floor are slippery. Wear secure, flat-soled shoes, or use a non-slip mat if your instructor allows bare feet. Your standing foot needs grip more than feel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: Rosa’s chair kicks",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Rosa’s chair kicks",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Rosa, 55, lived in Sudbury and had finished the boxing fitness lesson in her living room. Her daughter Elena taught a cardio kickboxing class at the YMCA on Thursday nights and kept inviting her. Rosa wanted to go, but every video she watched showed people kicking above their heads.",
+            "One Saturday she tried a few of those kicks in her kitchen, in socks. On the third one, her standing foot slid and she grabbed the counter just in time. Her heart was pounding, and not from the workout.",
+            "She had a choice. She could give up on kicks and stick with punches, or she could learn them the slow way. She called Elena, who laughed kindly and told her to start with a chair, shoes and knee lifts.",
+            "For two weeks, Rosa practised beside a kitchen chair twice a week: knee lifts, then small front kicks at knee height, holding on the whole time. She wrote down how steady her standing leg felt, from shaky to solid.",
+            "The twist came at her first class. Elena led the group through high kicks, then turned to the room and said, “If you want the knee-height version, watch my mom.” Rosa found herself showing six people the chair version, a little shy and a lot proud.",
+            "She still kicks at knee height. Some Thursdays she lets go of the wall for a round or two. The kitchen chair stays where it is, just in case."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Rosa built balance first and height never. Track how steady your standing leg feels, not how high your foot goes."
+        },
+        {
+          "type": "transition",
+          "text": "Build balance first, and every kick gets safer and stronger.",
+          "detail": "Practising with support and a low target lets you join any class at a level you can control.",
+          "extra": "Section 05 gives you a fourteen-minute practice to start with."
+        }
+      ]
+    },
+    {
+      "id": "practice",
+      "title": "Build a short practice",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose a clear indoor space with good footing, room to swing a leg in every direction and a sturdy chair or counter within reach. Wear secure shoes. Move pets, rugs and loose objects out of the way. A cat is not a training partner for this part."
+        },
+        {
+          "type": "heading",
+          "text": "Adjustable example: 14 minutes"
+        },
+        {
+          "type": "paragraph",
+          "text": "This example isn’t a personal prescription or an officially endorsed plan. Shorten it, or get adapted instruction to suit your needs. Keep the kicks low and hold your support."
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Warm-up, 4 minutes: march in place, roll your shoulders, circle your arms gently and do slow knee lifts while holding your support.",
+              "text": ""
+            },
+            {
+              "title": "Practice, 6 minutes: three rounds. Each round is 30 seconds of small air punches, 30 seconds of supported knee lifts or low front kicks (switch legs halfway), then 1 minute of easy marching or rest.",
+              "text": ""
+            },
+            {
+              "title": "Cool-down, 4 minutes: slow walking, gentle leg swings while holding your support, then let your breathing settle. Total: 4 + 6 + 4 = 14 minutes.",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The practice block has 3 minutes of work and 3 minutes of recovery. Recovery is planned time, so don’t skip it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop for chest pain or pressure, feeling faint, or severe or unusual breathlessness. Call 911 for chest pain, fainting or severe trouble breathing. Stop if a hip, knee or back hurts in a sharp or growing way, or if you lose your balance, and get advice before you try again."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once a session feels manageable, repeat it before you change anything. Then change one thing: an extra round, a slightly brisker pace or letting go of the support for a few kicks when your standing leg is steady. There’s no deadline to make it harder."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Faster kicks burn more and build more.”",
+              "text": "Speed without control strains joints and makes falls more likely. Slow, controlled kicks work your muscles hard and teach the skill properly."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Put a strip of tape on the wall at knee height. It gives you a target for kick height, and it’s much cheaper than a physiotherapy visit."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you want to kick pads or a bag, find a qualified kickboxing or martial arts coach first. Contact work needs proper technique, wraps and equipment, which a video can’t give you."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Check yourself",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "How high should a beginner’s kick go?",
+              "text": "Knee height is plenty for most beginners.",
+              "detail": "Hip height or lower."
+            },
+            {
+              "title": "What are the four steps of a low front kick?",
+              "text": "",
+              "detail": "Lift the knee, push the heel forward, pull the foot back, step down."
+            },
+            {
+              "title": "What should you wear on a smooth floor?",
+              "text": "Your standing foot needs grip.",
+              "detail": "Secure, flat-soled shoes, not socks."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Knowledge Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Your standing leg wobbles during a kick. What is the best choice? A. Kick faster to finish the round. · B. Make the kick smaller or go back to knee lifts. · C. Let go of the support.",
+              "text": "Balance is the skill you are building; a smaller kick keeps you in control.",
+              "detail": "B."
+            },
+            {
+              "title": "A class leader starts high, fast kicks. What fits this lesson? A. Match their height. · B. Do the knee-height version with support. · C. Skip the class.",
+              "text": "Choosing a manageable version lets you take part safely.",
+              "detail": "B."
+            },
+            {
+              "title": "You want to start kicking a heavy bag. What comes next? A. Find a qualified coach for technique and equipment. · B. Kick it as hard as you can. · C. Copy a short video.",
+              "text": "Contact work needs coached technique, wraps and the right equipment.",
+              "detail": "A."
+            },
+            {
+              "title": "Write one sentence describing your next practice and one way you could make it easier.",
+              "text": "I will do three supported rounds of air punches and knee-height kicks beside my kitchen chair, and switch to knee lifts if my balance feels shaky.",
+              "detail": "Sample:"
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Build a steady base, keep kicks low and supported, and change one thing at a time. Get a qualified coach before any contact work.",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Your Action",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Write a short practice plan in your own words. Name your support, your kick height and the recovery you’ll use, with a place and a realistic time to try it."
+        },
+        {
+          "type": "checkin"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "title": "Glossary of terms",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "title": "Non-contact",
+              "text": "Activity where nobody hits another person or a target."
+            },
+            {
+              "title": "Stance",
+              "text": "Your ready position, with feet apart, knees soft and hands up."
+            },
+            {
+              "title": "Knee lift",
+              "text": "Raising one knee with control while standing on the other leg."
+            },
+            {
+              "title": "Front kick",
+              "text": "A kick that pushes the heel forward, then pulls back."
+            },
+            {
+              "title": "Standing leg",
+              "text": "The leg that holds you up while the other leg kicks."
+            },
+            {
+              "title": "Recovery",
+              "text": "A planned period of easier movement or rest."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Next up: Yoga.",
+          "detail": "Build calm, controlled movement and a quieter pause in your day."
+        },
+        {
+          "type": "source",
+          "text": "CSEP: Get Active Questionnaire and companion reference document",
+          "url": "https://csep.ca/2021/01/20/pre-screening-for-physical-activity/"
+        },
+        {
+          "type": "source",
+          "text": "CSEP: Canadian 24-Hour Movement Guidelines for Adults 18–64",
+          "url": "https://csepguidelines.ca/guidelines/adults-18-64/"
+        },
+        {
+          "type": "source",
+          "text": "HealthLink BC: How to Exercise Safely",
+          "url": "https://www.healthlinkbc.ca/living-well/physical-activity/preventing-injuries/how-exercise-safely"
+        },
+        {
+          "type": "source",
+          "text": "Public Health Agency of Canada: Physical Activity Tips for Adults (18–64 years)",
+          "url": "https://www.canada.ca/en/public-health/services/publications/healthy-living/physical-activity-tips-adults-18-64-years.html"
+        },
+        {
+          "type": "source",
+          "text": "Public Health Agency of Canada: Safe practices for physical activity",
+          "url": "https://www.canada.ca/en/public-health/services/being-active/play-safe.html"
+        }
+      ]
+    }
+  ]
+}

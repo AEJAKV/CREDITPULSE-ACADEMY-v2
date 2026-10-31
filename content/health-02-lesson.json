@@ -12,36 +12,17 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This course is general education, not personal medical care. Complete CSEP’s Get Active Questionnaire before a major change in activity. Use CSEP’s pregnancy or postpartum questionnaire when relevant. Seek qualified advice for a medical condition, recent surgery or birth, injury, pelvic heaviness or leakage, unexplained symptoms, or medicines that affect exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
+          "text": "This lesson is general education, not personal medical care. Fill out CSEP’s Get Active Questionnaire before a big change in activity, or its pregnancy or postpartum version when it fits. Get qualified advice if you have a health condition, recent surgery or birth, an injury, pelvic heaviness or leaking, symptoms you can’t explain, or medicines that affect exercise. Stop and get urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
         },
         {
           "type": "paragraph",
-          "text": "Instead of squeezing life around a rigid workout calendar, you will map four things: energy, time, access, and support. Then you will build three session sizes. This course assumes women are not one body type, one age, or one life stage. Revolutionary, we know."
+          "text": "Instead of squeezing your life around a rigid workout calendar, you’ll map four things: energy, time, access and support. Then you’ll build three session sizes. This lesson assumes women are not one body type, one age or one life stage. Revolutionary, we know."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "How to start with current capacity rather than an old standard or online comparison.",
-              "text": ""
-            },
-            {
-              "title": "How strength, cardio, balance, mobility, recovery, and less sitting work together.",
-              "text": ""
-            },
-            {
-              "title": "How to make a full-body routine easier or harder without changing its purpose.",
-              "text": ""
-            },
-            {
-              "title": "How pregnancy, postpartum recovery, menopause, bone health, disability, and pelvic-floor concerns can change the plan when relevant.",
-              "text": ""
-            },
-            {
-              "title": "How to keep moving through busy weeks without using guilt as equipment.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Get stronger on the weeks life is easy, and keep going on the weeks it isn’t.",
+          "detail": "A plan with three session sizes fits your real energy, so a busy week shrinks the workout instead of cancelling it.",
+          "extra": "Section 05 gives you a starter circuit with an easier and harder version of every move."
         }
       ]
     },
@@ -109,7 +90,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Canadian guidance asks adults to think beyond workouts. Over time, work toward at least 150 minutes of moderate-to-vigorous activity per week, muscle-strengthening work at least twice weekly, several hours of light activity, less sedentary time, and consistent sleep. Older adults also benefit from activities that challenge balance."
+          "text": "Canada’s guidelines ask adults to think beyond workouts. Over time, work toward at least 150 minutes a week of moderate-to-vigorous activity, muscle-strengthening work at least twice a week, several hours of light movement, less sitting and 7 to 9 hours of sleep. Adults 65 and older also gain from activities that challenge balance."
         },
         {
           "type": "paragraph",
@@ -193,7 +174,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Every movement needs an easier version and a harder version. Knowing both lets you adapt to sleep, symptoms, confidence, and available equipment without abandoning the session."
+          "text": "Every move needs an easier version and a harder one. Knowing both lets you adjust for sleep, symptoms, confidence and equipment without giving up on the session."
         },
         {
           "type": "heading",
@@ -248,32 +229,32 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Nadia",
+          "text": "Nadia builds three doors into one routine",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Nadia, 44, lived in Halifax and managed a busy dental office. She cared for her mother twice a week and had begun noticing that poor sleep made hard workouts feel worse. She kept downloading thirty-day plans. By day six, each plan had become an archived historical document.",
-            "Nadia stopped planning for her best week. She built three doors into the same routine. The green-door session was a thirty-minute circuit and walk. The amber-door session was one circuit set and ten minutes of walking. The red-door choice was rest, gentle movement, or a health appointment when symptoms called for it.",
-            "She booked green sessions on Saturday morning and Wednesday after work. Tuesday and Friday were amber opportunities, not obligations. She asked her sister to join the Saturday walk, which solved both accountability and catch-up time.",
-            "After a month, Nadia had exercised in three different session sizes. She did not “make up” missed workouts. She simply used the next door. The chair squat became smoother, her regular walk felt easier, and the course calendar stopped behaving like a courtroom exhibit."
+            "Nadia, 44, managed a busy dental office in Halifax and cared for her mother twice a week. Poor sleep had started making hard workouts feel even harder. She kept downloading thirty-day plans. By day six, each one had become an archived historical document.",
+            "One Sunday, she opened a new plan and felt the familiar dread. She could start it Monday and hope this time was different. Or she could stop planning for her best week and plan for her real one. She closed the app.",
+            "Instead, she built three doors into the same routine. The green door was a thirty-minute circuit and a walk. The amber door was one round of the circuit and ten minutes of walking. The red door was rest, gentle movement or a health appointment when her body asked for it.",
+            "She booked green sessions for Saturday morning and Wednesday after work. Tuesday and Friday became amber chances, not orders. She asked her sister to join the Saturday walk, which solved accountability and catching up at the same time.",
+            "The test came in week three, when her mother had a fall and the whole week went sideways. The old Nadia would have quit and waited for a fresh Monday. This time, she walked through the amber door twice and the red door once, and called it a win.",
+            "After a month, Nadia had trained in all three sizes and never once tried to “make up” a missed day. Her chair squat felt smoother, her usual walk felt easier, and the calendar on her fridge stopped looking like a courtroom exhibit."
           ]
-        },
-        {
-          "type": "heading",
-          "text": "What Nadia did well"
-        },
-        {
-          "type": "paragraph",
-          "text": "She designed for variable energy, used support, kept the movements consistent, and changed session size instead of cancelling the habit. Her plan became more flexible and more dependable at the same time."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If hormones, age, or a busy season affect performance, the routine is failing.”",
-              "text": "Capacity can vary. Adjusting effort, exercise choice, or recovery is skilled training. Persistent or concerning changes deserve clinical attention, not self-blame."
+              "text": "Your energy and strength can change from week to week. Adjusting effort, exercises or rest is skilled training. Changes that last or worry you deserve a visit to a health professional, not self-blame."
             }
           ]
+        },
+        {
+          "type": "transition",
+          "text": "A routine that bends doesn’t break.",
+          "detail": "Matching the session to your energy keeps the habit alive through busy weeks, sick days and life stages.",
+          "extra": "Section 08 shows how life stages can change the route."
         }
       ]
     },
@@ -291,7 +272,7 @@
           "items": [
             {
               "title": "PREGNANCY AND POSTPARTUM",
-              "text": "For healthy pregnancies receiving prenatal care, Canadian guidance encourages physical activity, but screening and individual advice matter. Use the CSEP Get Active Questionnaire for Pregnancy. After birth, return gradually. Birth complications, surgery, pain, bleeding concerns, pelvic heaviness, leakage, abdominal symptoms, or other warning signs need qualified assessment. Use the postpartum questionnaire and advice from your care team."
+              "text": "If your pregnancy is healthy and you get prenatal care, Canadian guidelines encourage you to stay active, but check with your care team first. Use the CSEP Get Active Questionnaire for Pregnancy. After birth, return gradually. Birth complications, surgery, pain, bleeding concerns, pelvic heaviness, leakage, abdominal symptoms, or other warning signs need qualified assessment. Use the postpartum questionnaire and advice from your care team."
             },
             {
               "title": "PERIMENOPAUSE, MENOPAUSE, AND BONES",
@@ -299,7 +280,7 @@
             },
             {
               "title": "DISABILITY, CHRONIC CONDITIONS, AND PAIN",
-              "text": "Use adapted equipment, seated or supported options, extra recovery, or condition-specific guidance as needed. Access needs do not make the work less valid. A physiotherapist, occupational therapist, CSEP professional, or relevant clinical team can help define safe options within their scope."
+              "text": "Use adapted equipment, seated or supported moves, extra rest or advice for your condition as needed. Needing an adapted version doesn’t make the work count less. A physiotherapist, occupational therapist, CSEP professional, or relevant clinical team can help define safe options within their scope."
             }
           ]
         }
@@ -365,7 +346,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Programs, fees, and facilities differ by province, territory, municipality, and community. Municipal recreation departments may offer beginner, women-only, adapted, prenatal, postpartum, older-adult, aquatic, or low-cost programs. Friendship centres, settlement organizations, campus facilities, neighbourhood groups, and community health centres may also offer options."
+          "text": "Programs, fees and places to train differ across Canada. Your city’s recreation department may offer classes for beginners, women only, prenatal or postpartum, older adults, pools, adapted programs or low-cost options. Friendship centres, settlement organizations, campus facilities, neighbourhood groups, and community health centres may also offer options."
         },
         {
           "type": "paragraph",
@@ -419,7 +400,7 @@
             },
             {
               "title": "Give one reason to use an easier exercise version.",
-              "detail": "Examples: learning control, responding to fatigue or symptoms, working around pain or disability, or matching available equipment.",
+              "detail": "For example: to learn control, on a tired day, to work around pain or a disability, or to match the equipment you have.",
               "text": ""
             },
             {
@@ -434,7 +415,7 @@
             },
             {
               "title": "Name one useful functional progress signal.",
-              "detail": "Examples include steadier movement, less support, easier stairs, improved carrying, better recovery, or more completed sessions.",
+              "detail": "For example: steadier moves, less support, easier stairs, carrying more, bouncing back faster or finishing more sessions.",
               "text": ""
             }
           ]
@@ -481,7 +462,7 @@
             },
             {
               "title": "Pelvic floor",
-              "text": "Muscles and connective tissues that support pelvic organs and contribute to bladder, bowel, and sexual function."
+              "text": "The muscles at the base of the pelvis that support the bladder, the bowel and, where present, the uterus, and help control them."
             },
             {
               "title": "Progression",
@@ -510,24 +491,20 @@
   },
   "checkIn": {
     "questions": [
-      "My small session is:",
-      "My medium session is:",
-      "My full session is:",
-      "My two likely green windows are:",
-      "My easiest amber option is:",
-      "My main friction point is:",
-      "One person, place, or service that can help is:",
-      "One symptom or recovery sign that means “reduce or stop” is:"
+      "What is your small session?",
+      "What is your medium session?",
+      "What is your full session?",
+      "When are your two likely green windows each week?",
+      "What is your main friction point, and how will you solve it?",
+      "What sign means you should reduce or stop?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: ten minutes of walking.",
+      "For example: a short warm-up, one round of the circuit and a fifteen-minute walk.",
+      "For example: the medium session plus a second round of the circuit.",
+      "For example: Saturday morning and Wednesday after work.",
+      "For example: no child care. I’ll do the small session at home during nap time.",
+      "For example: sharp pain, pelvic heaviness or leaking, or feeling dizzy."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not personal medical care."

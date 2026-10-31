@@ -16,32 +16,13 @@
         },
         {
           "type": "paragraph",
-          "text": "You'll build a small routine through seven decisions. Each section adds one layer: safety, movement, strength, cardio, recovery, progression, then your own plan. No dramatic \"new life starts Monday\" speech required. Monday has heard enough promises."
+          "text": "You’ll build a small routine through seven decisions. Each section adds one layer: safety, movement, strength, cardio, recovery, progress, then your own plan. No dramatic “new life starts Monday” speech required. Monday has heard enough promises."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Start at a level your body can actually repeat.",
-              "text": ""
-            },
-            {
-              "title": "See how cardio, strength, mobility, balance, sleep and less sitting fit together.",
-              "text": ""
-            },
-            {
-              "title": "Perform a simple full-body routine at home or in a gym.",
-              "text": ""
-            },
-            {
-              "title": "Judge effort without a watch, app or laboratory.",
-              "text": ""
-            },
-            {
-              "title": "Progress without turning every workout into a test of character.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Build a body that feels stronger and moves easier, with a plan you’ll still be doing in three months.",
+          "detail": "Starting smaller than you think lets you train often enough for real change, without the soreness that ends most comebacks.",
+          "extra": "Section 05 gives you a six-move circuit you can start today."
         }
       ]
     },
@@ -60,7 +41,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Canada's movement guidance treats the full day as a system. Over time, adults should work toward at least 150 minutes of moderate-to-vigorous activity a week, muscle-strengthening work at least twice weekly, several hours of light activity, less sedentary time, and consistent sleep. Those are destinations, not the price of admission."
+          "text": "Canada’s movement guidelines treat the whole day as one system. Over time, adults should work toward at least 150 minutes a week of moderate-to-vigorous activity, muscle-strengthening work at least twice a week, several hours of light movement, less sitting and 7 to 9 hours of sleep. Those are destinations, not the price of admission."
         },
         {
           "type": "myths",
@@ -92,7 +73,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Fitness can sound like a warehouse of equipment and abbreviations. The beginner version really only has four jobs."
+          "text": "Fitness can sound like a warehouse of equipment and abbreviations. The beginner version has only four jobs."
         },
         {
           "type": "cards",
@@ -153,7 +134,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Good form isn't one perfect shape for every body. It means the movement is controlled, comfortable and suited to your own range. Start with a version you can actually own."
+          "text": "Good form isn't one perfect shape for every body. It means the movement is controlled, comfortable and suited to your own range. Start with a version you can own."
         },
         {
           "type": "paragraph",
@@ -282,23 +263,23 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Marcus",
+          "text": "Marcus and the heroic first Tuesday",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Marcus, 38, worked at a desk in Mississauga and played occasional pickup basketball. He decided his comeback needed urgency. On Tuesday he ran hard, did five rounds of exercises from a video, and finished with burpees because the video host appeared personally offended by rest.",
-            "By Thursday, Marcus was too sore to play with his son. He didn't need more toughness. He needed a smaller dose.",
-            "He restarted with two twenty-minute strength sessions and three short walks a week: counter push-up, chair squat, band row, hip hinge, march, and carry. He wrote down only the session and how it felt: easy, steady, or too much.",
-            "After three weeks, \"steady\" sessions felt easier. Marcus added two repetitions to a few movements and five minutes to one walk. He missed one Friday, moved the session to Saturday, and carried on. Eight weeks later, he had more energy for basketball and no longer treated one missed day as a cancelled season."
+            "Marcus, 38, worked at a desk in Mississauga and played pickup basketball when his knees allowed. His son had just joined a youth league, and Marcus wanted to keep up in the driveway. He decided his comeback needed urgency.",
+            "On Tuesday he ran hard, did five rounds from an online workout and finished with burpees, because the video host seemed personally offended by rest. By Thursday, he could barely get down the stairs. When his son asked him to shoot hoops, Marcus said, “Maybe next week.”",
+            "That stung more than his legs. He had two choices: rest a week and go even harder next time, or start over with a smaller dose. He chose smaller. He signed up for two twenty-minute strength sessions and three short walks a week, and wrote down one word after each: easy, steady or too much.",
+            "Three weeks in, the sessions felt steady, and Marcus felt the old urge to add everything at once. Instead, he changed one thing: two more reps on a few moves. The next week, five more minutes on one walk.",
+            "Then a work deadline ate his Friday session. The old Marcus would have called the whole thing off. This time, he did his ten-minute floor version on Saturday morning and carried on.",
+            "Eight weeks later, his son challenged him to a game of one-on-one. Marcus lost, but he played the whole game, and he was back in the driveway the next night."
           ]
         },
         {
-          "type": "heading",
-          "text": "What Marcus did well"
-        },
-        {
-          "type": "paragraph",
-          "text": "He kept the goal, changed the dose, tracked useful information, and progressed only after the routine became repeatable. Competence wasn't pretending the first plan worked. It was adjusting quickly."
+          "type": "transition",
+          "text": "Small, steady sessions beat one heroic workout every time.",
+          "detail": "Changing one thing at a time keeps you training long enough to see the results you started for.",
+          "extra": "Section 08 shows you how to progress without getting hurt."
         }
       ]
     },
@@ -380,7 +361,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Track sessions completed, minutes walked, or one exercise that feels easier. Pick one signal. A dashboard with seventeen numbers is how a walk becomes quarterly reporting."
+          "text": "Track sessions done, minutes walked or one exercise that feels easier. Pick one signal. A dashboard with seventeen numbers is how a walk becomes quarterly reporting."
         }
       ]
     },
@@ -470,7 +451,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Choose a week you can actually live. A sample week is two non-consecutive strength days, two or three easy-to-moderate cardio days, brief mobility or balance practice, and lighter movement on the other days. Shape it around work, caregiving, health, culture, weather and access."
+          "text": "Choose a week you can live. A sample week is two non-consecutive strength days, two or three easy-to-moderate cardio days, brief mobility or balance practice, and lighter movement on the other days. Shape it around work, caregiving, health, culture, weather and access."
         },
         {
           "type": "paragraph",
@@ -523,7 +504,7 @@
             },
             {
               "title": "Sedentary behaviour",
-              "text": "Waking activity done sitting, reclining, or lying with very low energy use."
+              "text": "Waking activity done sitting, reclining, or lying with low energy use."
             }
           ]
         }
@@ -540,20 +521,20 @@
   },
   "checkIn": {
     "questions": [
-      "My two possible strength days are:",
-      "My easiest cardio option is:",
-      "My ten-minute floor session is:",
-      "My support, location, or equipment is:",
-      "The sign that I should reduce the dose is:",
-      "The one signal I will track for two weeks is:"
+      "Which two days could you do strength training?",
+      "What is your easiest cardio option?",
+      "What will your ten-minute floor session be?",
+      "Where will you train, and what support or equipment will you use?",
+      "What sign will tell you to reduce the dose?",
+      "What one signal will you track for two weeks?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Pick two days with at least one day between, such as Monday and Thursday.",
+      "For example: a brisk walk around the block after dinner.",
+      "For example: a five-minute walk plus one round of the starter circuit.",
+      "For example: my living room, a sturdy chair and a resistance band.",
+      "For example: sharp pain, sleep getting worse or being too sore for daily tasks.",
+      "For example: number of sessions done each week."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not personal medical care."

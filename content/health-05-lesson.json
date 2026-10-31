@@ -12,36 +12,17 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This course provides general education, not personal medical care. Complete CSEP's Get Active Questionnaire before a major increase in activity and follow its directions. Seek qualified advice for relevant medical conditions, recent surgery, pregnancy or postpartum recovery, injury, unexplained symptoms, or medicines that affect exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
+          "text": "This lesson is general education, not personal medical care. Fill out CSEP’s Get Active Questionnaire before a big increase in activity and follow what it says. Get qualified advice for health conditions, recent surgery, pregnancy or postpartum recovery, injury, symptoms you can’t explain, or medicines that affect exercise. Stop and get urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
         },
         {
           "type": "paragraph",
           "text": "You will build a program in layers: purpose, movements, dose, technique, recovery, and progression. Strength training can be simple. The weights do not need dramatic lighting or names such as Thunder Block 9000."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "What strength means beyond lifting the heaviest load.",
-              "text": ""
-            },
-            {
-              "title": "How to choose exercises that cover the major muscle groups.",
-              "text": ""
-            },
-            {
-              "title": "How sets, repetitions, resistance, rest, and effort work together.",
-              "text": ""
-            },
-            {
-              "title": "How to record and progress a routine safely.",
-              "text": ""
-            },
-            {
-              "title": "When to adjust, stop, or seek qualified help.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Make everyday tasks easier, from stairs to groceries, with two short sessions a week.",
+          "detail": "A small plan that covers the whole body and grows one step at a time builds real strength without the guesswork.",
+          "extra": "Section 04 explains the five dials that control every exercise."
         }
       ]
     },
@@ -52,7 +33,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Strength is the ability to produce force. In daily life, it helps with rising from a chair, carrying bags, climbing stairs, lifting at work, transferring, pushing a door, and keeping balance when something shifts."
+          "text": "Strength is the ability to produce force. In daily life, it helps you rise from a chair, carry bags, climb stairs, lift at work, help someone move, push a heavy door and keep your balance when something shifts."
         },
         {
           "type": "paragraph",
@@ -60,7 +41,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Canadian movement guidance recommends muscle-strengthening activities using the major muscle groups at least twice a week for adults. That is a weekly direction, not an order to train every muscle as hard as possible on day one."
+          "text": "Canada’s movement guidelines recommend activities that strengthen the major muscle groups at least twice a week for adults. That’s a weekly direction, not an order to train every muscle as hard as possible on day one. Strength work also helps protect bones and balance as you age."
         },
         {
           "type": "spotlight",
@@ -70,7 +51,7 @@
           "type": "myths",
           "items": [
             {
-              "title": "“Strength only means lifting a very heavy weight once.”",
+              "title": "“Strength only means lifting a heavy weight once.”",
               "text": "Strength appears in many forms, including controlling body weight, carrying a load, repeating a task, and producing force safely. The pickle jar does not ask for your one-repetition maximum."
             }
           ]
@@ -189,7 +170,11 @@
         },
         {
           "type": "paragraph",
-          "text": "For a new movement, begin with one controlled set. Choose a resistance that lets you complete several smooth repetitions while breathing normally. End the set before technique changes or you need to strain for one more repetition. Exact numbers depend on the person, exercise, goal, and professional guidance."
+          "text": "For a new move, start with one controlled set. Pick a resistance that lets you do several smooth reps while breathing normally. End the set before your form changes or you have to strain for one more rep."
+        },
+        {
+          "type": "spotlight",
+          "text": "A common starting range is 8 to 15 reps per set, stopping when you could still do 2 or 3 more good reps. If you can do more than 15 with ease, the resistance is too light. If you can’t reach 8 with good form, it’s too heavy. Your own numbers may differ with your goals, age or advice from a professional."
         },
         {
           "type": "heading",
@@ -277,23 +262,17 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Priya",
+          "text": "Priya stops changing the plan",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Priya, 52, lived in Surrey and wanted stairs and garden work to feel easier. She attended different online strength classes every week. Each class was energetic, but she could not tell whether anything was improving because the movements kept changing.",
-            "She built a six-exercise plan: chair squat, hip bridge, counter push-up, band row, supported step-up, and a balanced carry. She completed one set twice a week and labelled each exercise easy, steady, or too much.",
-            "The supported step-up felt too much, so Priya lowered the step and used the railing. The counter push-up felt easy after three sessions, so she used a slightly lower surface. She did not change the other movements.",
-            "After six weeks, Priya used less hand support for chair squats and carried two garden containers more comfortably. She had not performed a surprise exercise called the rotating bear tornado. Somehow, strength still occurred."
+            "Priya, 52, lived in Surrey and wanted stairs and garden work to feel easier. Every week she tried a different online strength class. Each one was full of energy, but the moves kept changing, and after two months she couldn’t tell whether anything was improving.",
+            "One spring morning, she struggled to lift a bag of soil into the wheelbarrow. She had a choice. She could try yet another exciting new class. Or she could pick a few moves and stick with them long enough to see what happened. She chose the second.",
+            "She built a six-exercise plan: chair squat, hip bridge, counter push-up, band row, supported step-up and a balanced carry. She did one set of each twice a week and labelled every exercise easy, steady or too much.",
+            "The step-up felt like too much, so she lowered the step and held the railing. The counter push-up felt easy after three sessions, so she moved to a slightly lower surface. She left everything else alone.",
+            "In week four, a friend sent her a viral video of a dramatic new routine. It was tempting. Priya watched it, laughed and went back to her six moves.",
+            "After six weeks, she needed less hand support for chair squats and could carry two full garden containers. That June, she lifted the bag of soil into the wheelbarrow on the first try. She hadn’t done a single surprise exercise called the rotating bear tornado. Somehow, strength still happened."
           ]
-        },
-        {
-          "type": "heading",
-          "text": "What Priya did well"
-        },
-        {
-          "type": "paragraph",
-          "text": "She tied training to useful tasks, repeated a balanced plan, adjusted one difficult movement, and progressed one easy movement. Her log showed what changed and why."
         },
         {
           "type": "myths",
@@ -303,6 +282,12 @@
               "text": "Muscles do not need suspense. Repeating movements long enough to improve skill and gradually increase challenge is useful training."
             }
           ]
+        },
+        {
+          "type": "transition",
+          "text": "Repeat the same moves long enough, and you can measure your progress.",
+          "detail": "A steady plan with one change at a time shows you what’s working, and keeps you safe while it does.",
+          "extra": "Section 08 gives you a simple rule for when and how to progress."
         }
       ]
     },
@@ -567,24 +552,20 @@
   },
   "checkIn": {
     "questions": [
-      "My useful strength goal is:",
-      "My six movement-family exercises are:",
-      "My two possible training days are:",
-      "My starting number of sets is:",
-      "My effort label after each exercise will be:",
-      "The first movement likely to progress is:",
-      "The signal that means reduce or stop is:",
-      "The person or service I can ask for help is:"
+      "What do you want strength training to make easier?",
+      "Which six exercises will you use, one from each movement family?",
+      "Which two days will you train?",
+      "How many sets and reps will you start with?",
+      "Which move is most likely to progress first?",
+      "What sign means you should reduce or stop?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: carrying groceries up the stairs without stopping.",
+      "For example: chair squat, hip bridge, counter push-up, band row, supported step-up, balanced carry.",
+      "Pick two days with at least one day between, such as Tuesday and Friday.",
+      "For example: one set of 8 to 12 reps, stopping with 2 or 3 good reps left.",
+      "For example: the counter push-up.",
+      "For example: sharp pain, form breaking down or soreness that gets in the way of daily tasks."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not personal medical care."

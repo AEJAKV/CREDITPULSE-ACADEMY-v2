@@ -12,36 +12,17 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This course provides general education, not diagnosis, treatment, or rehabilitation. Complete CSEP's Get Active Questionnaire before a major increase in activity and follow its directions. Seek qualified advice for recent abdominal, pelvic, spinal, or hip surgery; pregnancy or postpartum concerns; a hernia; osteoporosis; persistent back or pelvic pain; unexplained weakness or numbness; or a condition that changes exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, sudden neurological symptoms, loss of bladder or bowel control, or severe pain after a fall."
+          "text": "This lesson is general education, not diagnosis, treatment or rehab. Fill out CSEP’s Get Active Questionnaire before a big increase in activity and follow what it says. Get qualified advice for recent belly, pelvic, spine or hip surgery; pregnancy or postpartum concerns; a hernia; osteoporosis; back or pelvic pain that won’t go away; weakness or numbness you can’t explain; or a condition that changes how you exercise. Stop and get urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, sudden nerve symptoms, losing control of your bladder or bowels, or severe pain after a fall."
         },
         {
           "type": "paragraph",
-          "text": "You will test how your trunk supports five ordinary jobs: breathing, resisting unwanted movement, transferring force, carrying, and changing position. No heroic plank face is required. Your eyebrows may remain relaxed."
+          "text": "You’ll test how your trunk supports five everyday jobs: breathing, resisting unwanted movement, passing force between your upper and lower body, carrying and changing position. No heroic plank face required. Your eyebrows may stay relaxed."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "What the core includes and what core strength actually does.",
-              "text": ""
-            },
-            {
-              "title": "How breathing and bracing work together.",
-              "text": ""
-            },
-            {
-              "title": "How to train stability through different movement directions.",
-              "text": ""
-            },
-            {
-              "title": "How to progress from floor exercises to useful standing tasks.",
-              "text": ""
-            },
-            {
-              "title": "When pain or other symptoms need professional assessment.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Carry, lift and move with more control in everyday life.",
+          "detail": "A core trained for real tasks makes groceries, stairs and lifting feel steadier, not just your plank time longer.",
+          "extra": "Section 05 shows how to train your trunk in more than one direction."
         }
       ]
     },
@@ -52,26 +33,26 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The core includes muscles around the abdomen, sides, back, pelvis, hips, and breathing system. These muscles help control the trunk while the arms and legs move. They contribute to lifting, carrying groceries, climbing stairs, changing direction, getting out of bed, and maintaining balance."
+          "text": "Your core includes the muscles around your belly, sides, back, pelvis, hips and breathing. These muscles steady your trunk while your arms and legs move. They help you lift, carry groceries, climb stairs, change direction, get out of bed and keep your balance."
         },
         {
           "type": "paragraph",
-          "text": "Core strength is not one muscle and it is not one shape. During a suitcase carry, the trunk limits side-bending. During a push-up, it helps the ribs, pelvis, and legs move as a unit. During a step, it transfers force between the upper and lower body."
+          "text": "Core strength isn’t one muscle or one shape. During a one-handed suitcase carry, your trunk stops you leaning sideways. During a push-up, it helps your ribs, pelvis and legs move as one piece. During a step, it passes force between your upper and lower body."
         },
         {
           "type": "paragraph",
-          "text": "Choose one task you want to support. “Carry two grocery bags without leaning” gives training a clearer purpose than “get a stronger core.”"
+          "text": "Pick one task you want to support. “Carry two grocery bags without leaning” gives your training a clearer purpose than “get a stronger core.”"
         },
         {
           "type": "spotlight",
-          "text": "Decide whether the task asks you to resist bending, resist twisting, transfer force, balance, or change position."
+          "text": "Decide whether the task asks you to resist bending, resist twisting, pass force, balance or change position."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Core training means doing abdominal crunches.”",
-              "text": "Crunches train one movement. A complete plan also practises resisting movement, carrying, breathing, balance, and force transfer."
+              "text": "Crunches train one movement. A complete plan also practises resisting movement, carrying, breathing, balance and passing force."
             }
           ]
         },
@@ -92,19 +73,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Breathing changes pressure and muscle activity around the trunk. Start in a comfortable position. Breathe in without forcing the belly out or lifting the shoulders. Breathe out slowly and notice the abdominal wall becoming gently active."
+          "text": "Breathing changes the pressure and muscle activity around your trunk. Start in a comfortable position. Breathe in without forcing your belly out or lifting your shoulders. Breathe out slowly and notice your belly muscles gently switching on."
         },
         {
           "type": "paragraph",
-          "text": "A brace is a controlled increase in trunk tension for a task. Imagine preparing to move a moderately heavy box, not preparing for a surprise snowbank. The tension should match the demand."
+          "text": "A brace is a controlled tightening of your trunk for a task. Imagine getting ready to move a moderately heavy box, not bracing for a surprise snowbank. The tension should match the job."
         },
         {
           "type": "paragraph",
-          "text": "Practise breathing while maintaining light tension. If you must hold your breath during an easy exercise, reduce the difficulty. Some heavy lifting methods use deliberate breath-holding, but that technique needs suitable coaching and may not fit people with certain health concerns."
+          "text": "Practise breathing while keeping light tension. If you have to hold your breath during an easy exercise, make it easier. Some heavy lifting uses deliberate breath-holding, but that needs good coaching and may not suit people with certain health concerns, such as high blood pressure."
         },
         {
           "type": "spotlight",
-          "text": "Walking needs less bracing than a demanding lift. More tension is not automatically better."
+          "text": "Walking needs less bracing than a heavy lift. More tension isn’t always better."
         }
       ]
     },
@@ -115,22 +96,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Use a stable position and a small challenge. A heel slide, supported dead bug, bridge, bird dog variation, or elevated front support can teach the trunk to stay controlled while a limb moves."
+          "text": "Use a stable position and a small challenge. A heel slide, supported dead bug, bridge, bird dog or plank against a counter can teach your trunk to stay steady while an arm or leg moves."
         },
         {
           "type": "paragraph",
-          "text": "Choose a version that allows normal breathing and a steady position. Move slowly. Stop the set when the back arches or presses forcefully, the pelvis twists, the shoulders creep upward, or breathing becomes strained."
+          "text": "Choose a version that lets you breathe normally and hold steady. Move slowly. Stop the set when your back arches or presses down hard, your pelvis twists, your shoulders creep up or your breathing gets strained."
         },
         {
           "type": "paragraph",
-          "text": "The exercise does not need to create shaking worthy of a weather alert. A clean repetition provides better information than a dramatic one."
+          "text": "The exercise doesn’t need to cause shaking worthy of a weather alert. A clean rep tells you more than a dramatic one."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If the exercise burns, the form must be working.”",
-              "text": "Effort can occur with useful or poor technique. Judge the repetition by breathing, control, symptoms, and whether the intended task improves."
+              "text": "You can feel effort with good or poor form. Judge each rep by your breathing, control, symptoms and whether your chosen task improves."
             }
           ]
         }
@@ -143,19 +124,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The trunk manages force from several directions. Anti-extension work limits excessive arching. Anti-rotation work limits twisting. Anti-lateral-flexion work limits side-bending. Controlled flexion, extension, and rotation may also belong in an appropriate plan."
+          "text": "Your trunk handles force from several directions. Some exercises stop too much arching (planks, dead bugs). Some stop twisting (bird dogs, band press-outs). Some stop leaning sideways (side planks, one-handed carries). Controlled bending, arching and turning can also belong in a good plan."
         },
         {
           "type": "paragraph",
-          "text": "You do not need an exercise for every possible angle in one session. Choose two patterns that match your goal. A supported dead bug and suitcase carry may suit general lifting. A bird dog and band press-out may suit rotational control."
+          "text": "You don’t need an exercise for every angle in one session. Pick two that match your goal. A supported dead bug and a one-handed carry may suit general lifting. A bird dog and a band press-out may suit twisting control. A side plank from the knees is a simple way to start training the sides."
         },
         {
           "type": "paragraph",
-          "text": "Use positions that fit your body and experience. Kneeling, standing, seated, wall-supported, or elevated options can replace floor work."
+          "text": "Use positions that fit your body and experience. Kneeling, standing, seated, wall-supported or raised options can replace floor work."
         },
         {
           "type": "spotlight",
-          "text": "Add one different force direction while keeping the setup familiar."
+          "text": "Add one new direction while keeping the setup familiar."
         }
       ]
     },
@@ -166,22 +147,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Progress can come from a longer lever, less hand support, a slightly heavier load, a longer carry, a more upright position, or a more complex limb movement. Change one feature and keep several good repetitions in reserve."
+          "text": "You can progress with a longer lever, less hand support, a slightly heavier load, a longer carry, a more upright position or a harder arm or leg movement. Change one thing and stop with several good reps left in reserve."
         },
         {
           "type": "paragraph",
-          "text": "More time is not always better. A shorter hold with steady breathing may provide a better training dose than a long hold that turns into survival paperwork."
+          "text": "More time isn’t always better. Several short holds of about 10 seconds, with steady breathing, often train better than one long hold that turns into survival paperwork."
         },
         {
           "type": "paragraph",
-          "text": "Record the variation, repetitions or time, and how the target task feels. Mild muscle effort is expected. Sharp, spreading, or worsening pain; numbness; weakness; pelvic pressure; or a new bulge needs a different response and may require assessment."
+          "text": "Write down the version, reps or time, and how your target task feels. Mild muscle effort is expected. Sharp, spreading or worsening pain, numbness, weakness, pelvic pressure or a new bulge needs a different response and may need a professional’s check."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A stronger core prevents every episode of back pain.”",
-              "text": "Back pain has many possible contributors. Core training may support function, but it cannot guarantee prevention or replace assessment and individualized care."
+              "text": "Back pain has many possible causes. Core training may help you function, but it can’t guarantee you’ll never have back pain or replace a proper assessment."
             }
           ]
         }
@@ -194,27 +175,27 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Andre",
+          "text": "Andre builds strength for the laundry stairs",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Andre, 41, lived in Halifax and wanted to carry a full laundry basket down one flight of stairs with better control. He had been holding long planks because they appeared on every core list he found. His plank improved. The basket remained unimpressed.",
-            "Andre tested the real task with a light basket and the railing available. He noticed that he leaned and rushed when the load blocked his view. His trainer helped him practise controlled step-downs, offset carries beside his body, and a standing band press-out. He also divided large loads while learning the pattern.",
-            "Twice a week, he progressed one feature: a little more load, one more stair, or less side lean. He kept the railing available and did not train on the stairs when fatigued.",
-            "After six weeks, Andre carried a moderate basket with better posture and a steady pace. The plank was not useless. It simply needed coworkers."
+            "Andre, 41, lived in a Halifax duplex with the laundry in the basement. He wanted to carry a full basket down the stairs without wobbling, so he had been holding long planks, since they showed up on every exercise list he found online. His plank time improved. The basket stayed unimpressed.",
+            "One Sunday, he caught himself leaning hard to one side halfway down the stairs, with no free hand for the railing. It frightened him. He could keep adding plank time, or he could investigate what the staircase was demanding of his body. He booked a session with a trainer at his rec centre.",
+            "They tested the real task with a light basket and the railing in reach. Andre leaned and rushed when the basket blocked his view of his feet. The trainer had him practise controlled step-downs, carries with a load at one side and a standing band press-out. She also told him to split big loads while he learned.",
+            "Twice a week, he progressed one thing: a little more weight, one more step or less lean to the side. He kept the railing in reach and never practised on the stairs when he was tired.",
+            "In week four, he felt strong and tried a full basket on a busy evening. He noticed himself rushing, stopped, set the basket down on the landing, divided the laundry into two smaller loads and made two separate trips. It was the right call.",
+            "After six weeks, Andre carried a full basket down the stairs with steady steps and a hand free for the rail. The plank wasn’t useless. It just needed coworkers."
           ]
         },
         {
-          "type": "heading",
-          "text": "What Andre did well"
-        },
-        {
-          "type": "paragraph",
-          "text": "He matched training to the task, used a safe modification, trained standing control, and progressed gradually."
-        },
-        {
           "type": "spotlight",
-          "text": "A floor drill builds a skill. A suitable carry, step, reach, or lift teaches that skill where life uses it."
+          "text": "A floor drill builds a skill. A carry, step, reach or lift teaches that skill where life uses it."
+        },
+        {
+          "type": "transition",
+          "text": "Train your core for the task, and the task gets easier.",
+          "detail": "Practising the real movement, with one change at a time, builds control you can count on when it matters.",
+          "extra": "Section 08 shows how to build a short core sequence into your workouts."
         }
       ]
     },
@@ -225,15 +206,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Begin with one breathing-and-bracing practice. Add one controlled limb movement and one standing or carrying task. Two or three focused exercises can fit inside a full-body workout."
+          "text": "Start with one breathing-and-bracing practice. Add one controlled arm or leg move and one standing or carrying task. Two or three focused exercises fit easily into a full-body workout."
         },
         {
           "type": "paragraph",
-          "text": "Train the whole body as well. Squats, hinges, pushes, pulls, steps, and carries already ask the core to work. Separate core exercises can address a specific need, but they do not need to occupy the entire calendar."
+          "text": "Train the whole body too. Squats, hinges, pushes, pulls, steps and carries already ask your core to work. Separate core exercises can target a specific need, but they don’t need to take over your calendar."
         },
         {
           "type": "paragraph",
-          "text": "Allow recovery and repeat the same sequence long enough to learn it. Variety is useful when it solves a problem, not when the routine becomes a weekly scavenger hunt."
+          "text": "Allow for recovery, and repeat the same sequence long enough to learn it. Variety helps when it solves a problem, not when your routine becomes a weekly scavenger hunt."
         }
       ]
     },
@@ -244,24 +225,24 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Exercise may feel challenging, but it should remain controlled. Stop for sharp pain, worsening back or pelvic symptoms, numbness, progressive weakness, dizziness, unusual shortness of breath, pelvic heaviness, urine leakage that concerns you, or a new abdominal bulge. Seek qualified assessment when symptoms persist or affect daily life."
+          "text": "Exercise can feel challenging, but it should stay controlled. Stop for sharp pain, worsening back or pelvic symptoms, numbness, weakness that keeps getting worse, dizziness, unusual shortness of breath, pelvic heaviness, leaking urine that worries you or a new bulge in your belly. Get a qualified check when symptoms last or affect your daily life."
         },
         {
           "type": "paragraph",
-          "text": "This section is deliberately humour-free. Symptoms involving neurological function, pelvic health, recent surgery, or significant pain deserve clear guidance."
+          "text": "This section has no humour on purpose. Symptoms involving nerves, pelvic health, recent surgery or significant pain deserve clear guidance."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Everyone should flatten the lower back during every core exercise.”",
-              "text": "Spinal position depends on the exercise, body, goal, and professional guidance. The useful position is controlled, tolerable, and appropriate for the task."
+              "text": "The right spine position depends on the exercise, your body, your goal and any professional advice. The useful position is controlled, comfortable and right for the task."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Record both the drill and the daily activity it is meant to support."
+          "text": "Write down both the drill and the daily task it’s meant to support."
         }
       ]
     },
@@ -272,11 +253,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Core-training support may be available through CSEP-qualified exercise professionals, physiotherapists, kinesiologists, recreation centres, community health programs, pelvic-health physiotherapy, campuses, Indigenous health organizations, and adapted exercise services. Coverage, referrals, professional regulation, eligibility, and wait times vary by province and territory."
+          "text": "Help with core training may be available from CSEP professionals, physiotherapists, kinesiologists, rec centres, community health programs, pelvic-health physiotherapy, campuses, Indigenous health organizations and adapted exercise services. Coverage, referrals, regulation, eligibility and wait times vary by province and territory."
         },
         {
           "type": "paragraph",
-          "text": "A physiotherapist can assess pain and movement problems. A pelvic-health physiotherapist can help with pelvic-floor or abdominal concerns within their scope. An occupational therapist can help adapt daily tasks and environments."
+          "text": "A physiotherapist can assess pain and movement problems. A pelvic-health physiotherapist can help with pelvic-floor or belly concerns, including after pregnancy. An occupational therapist can help adapt daily tasks and spaces."
         },
         {
           "type": "heading",
@@ -284,11 +265,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Core strength is the ability to control and transfer force through the trunk for a real task. Coordinate breathing, practise more than one direction, progress one feature, and connect drills to standing movement."
+          "text": "Core strength is the ability to control and pass force through your trunk for a real task. Coordinate your breathing, train more than one direction, progress one thing at a time and connect your drills to standing movement."
         },
         {
           "type": "spotlight",
-          "text": "Place a light object on your lower ribs during an easy floor drill. If it repeatedly launches toward the next postal code, reduce the range and restore control."
+          "text": "Rest a light object on your lower ribs during an easy floor drill. If it keeps launching toward the next postal code, shrink the range and regain control."
         }
       ]
     },
@@ -405,24 +386,20 @@
   },
   "checkIn": {
     "questions": [
-      "My practical target is:",
-      "The trunk job involved is:",
-      "My breathing-and-bracing practice is:",
-      "My controlled limb exercise is:",
-      "My standing or carrying exercise is:",
-      "The first progression I will use is:",
-      "My task retest date is:",
-      "A symptom that means stop or seek advice is:"
+      "What do you want your core to support you in doing?",
+      "Which trunk job does that task need most?",
+      "What is your breathing-and-bracing practice?",
+      "Which controlled drill and which standing or carrying exercise will you use?",
+      "What is the first progression you’ll try, and when will you retest?",
+      "Which symptom means you should stop or get advice?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: carrying the laundry basket downstairs.",
+      "For example: resisting leaning to one side.",
+      "For example: five slow breaths on my back, with a gentle brace on each out-breath.",
+      "For example: side plank from the knees and a one-handed carry.",
+      "For example: a slightly heavier carry, retested in two weeks.",
+      "For example: pelvic heaviness, a new bulge or numbness."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not personal medical care."

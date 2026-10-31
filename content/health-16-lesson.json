@@ -12,32 +12,13 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A fitness app can announce a personal best before you have found both shoes. Its enthusiasm is free, but it cannot decide which effort fits your day. This course helps you choose intervals with a clear purpose and enough recovery."
+          "text": "A fitness app can announce a personal best before you’ve found both shoes. Its enthusiasm is free, but it can’t decide which effort fits your day. This lesson helps you choose intervals with a clear purpose and enough recovery."
         },
         {
-          "type": "heading",
-          "text": "What you will learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Tell moderate intervals apart from HIIT.",
-              "text": ""
-            },
-            {
-              "title": "Use your own effort and breathing to guide your pace.",
-              "text": ""
-            },
-            {
-              "title": "Read a session plan and adjust its recovery.",
-              "text": ""
-            },
-            {
-              "title": "Write a realistic next step with clear stop rules.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Get fitter in less time, at a pace that fits you.",
+          "detail": "Knowing the difference between moderate intervals and HIIT lets you pick a session that matches your energy and builds fitness without burning out.",
+          "extra": "Section 05 walks you through a full session, minute by minute."
         }
       ]
     },
@@ -48,20 +29,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "An interval is a planned stretch of activity followed by an easier stretch. You might walk briskly for a short time, then slow down before repeating. Alternating speeds alone does not make a session high intensity."
+          "text": "An interval is a planned stretch of activity followed by an easier stretch. You might walk briskly for a short time, then slow down before repeating. Switching speeds alone doesn’t make a session high intensity."
         },
         {
           "type": "paragraph",
-          "text": "High-intensity interval training, or HIIT, combines short periods of vigorous effort with easier recovery. Vigorous means hard for the person doing it, rather than a fixed speed everyone must reach. HIIT does not require all-out sprinting."
+          "text": "High-intensity interval training, or HIIT, mixes short bursts of vigorous effort with easier recovery. Vigorous means hard for you, not a fixed speed everyone must reach. HIIT doesn’t require all-out sprinting. Research, including work at McMaster University in Hamilton, shows HIIT can improve heart and lung fitness as much as longer moderate sessions, in less time. It’s harder, though, and you don’t need it to be healthy."
         },
         {
           "type": "paragraph",
-          "text": "This is general adult education, not a personal prescription. Complete CSEP’s Get Active Questionnaire; a yes answer means follow its companion guidance, not an automatic ban. Keep private health answers off this course worksheet."
-        },
-        {
-          "type": "transition",
-          "text": "Make effort a choice",
-          "detail": "Knowing the difference between moderate intervals and HIIT helps you choose a session that fits your current ability and available energy."
+          "text": "This is general adult education, not a personal prescription. Fill out CSEP’s Get Active Questionnaire. A yes answer means follow its extra guidance, not that you’re banned. Keep private health answers off this worksheet."
         }
       ]
     },
@@ -72,7 +48,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Begin with an activity you can control, such as walking on a clear, level route or using a stationary bike. A bike can raise effort without jumping, but its seat and controls still need to fit you. Low impact describes the movement, not how hard your heart and lungs work."
+          "text": "Start with an activity you can control, such as walking on a clear, level route or riding a stationary bike. A bike raises effort without jumping, but the seat and controls still need to fit you. Low impact describes the movement, not how hard your heart and lungs work."
         },
         {
           "type": "heading",
@@ -80,36 +56,36 @@
         },
         {
           "type": "paragraph",
-          "text": "During moderate activity, you can usually talk but not sing comfortably. Vigorous activity makes breathing faster and conversation harder. These are clues, not a medical test; unusual symptoms belong under the stop rules in Section 04."
+          "text": "During moderate activity, you can usually talk but not sing comfortably. Vigorous activity makes your breathing faster and talking harder. These are clues, not a medical test. Unusual symptoms fall under the stop rules in Section 05."
         },
         {
           "type": "spotlight",
-          "text": "Use your pace. The same walking speed may feel easy to one person and demanding to another. Choose effort from your response rather than a neighbour’s speed or an app’s leaderboard."
+          "text": "Use your own pace. The same walking speed may feel easy to one person and hard to another. Choose your effort by how your body responds, not by a neighbour’s speed or an app’s leaderboard."
         },
         {
           "type": "paragraph",
-          "text": "Recovery means slowing enough to regain control before the next effort. If you still feel rushed when the timer sounds, extend the easy stretch or end the rounds. A countdown is a planning tool, and it has never met your knees."
+          "text": "Recovery means slowing down enough to regain control before the next effort. If you still feel rushed when the timer goes off, stretch the easy part or end the rounds. A countdown is a planning tool, and it has never met your knees."
         },
         {
           "type": "spotlight",
-          "text": "Check the whole session. Count the warm-up, every recovery and the cool-down when booking time. Six short efforts can require a much longer visit than the headline suggests."
+          "text": "Count the whole session. Include the warm-up, every recovery and the cool-down when you book time. Six short efforts can need a much longer visit than the headline suggests."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A session only counts if it leaves me exhausted.”",
-              "text": "Moderate activity also supports fitness. Finishing with control is a useful aim, and HIIT is an option rather than a requirement."
+              "text": "Moderate activity builds fitness too. Finishing with control is a good aim, and HIIT is an option, not a requirement."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "If you are new to exercise or returning after a long break, choose easy or moderate activity first. Before considering HIIT, build a steady routine and seek qualified guidance when readiness is unclear. A course called Advanced Fitness does not assign anyone an advanced starting point."
+          "text": "If you’re new to exercise or coming back after a long break, start with easy or moderate activity. Build a steady routine before you try HIIT, and get qualified advice if you’re not sure you’re ready. Being in an advanced lesson doesn’t mean you start at an advanced level."
         },
         {
           "type": "paragraph",
-          "text": "For adults aged 18–64, Canadian guidelines include at least 150 minutes of moderate-to-vigorous activity weekly and muscle strengthening at least twice weekly. A short interval session is one possible part of a broader routine, not the entire plan."
+          "text": "For adults aged 18 to 64, Canada’s guidelines include at least 150 minutes of moderate-to-vigorous activity a week and muscle strengthening at least twice a week. A short interval session is one part of a broader routine, not the whole plan."
         }
       ]
     },
@@ -124,22 +100,23 @@
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
           "paragraphs": [
-            "Omar, a library assistant in Winnipeg, wanted a fitness routine that would fit his lunch break. He hoped to have more energy for evening walks with his partner, without giving up their time together. His phone kept advertising a ten-minute workout while his lunch container waited on the counter.",
-            "When the library offered a recreation-centre discount, Omar booked an introductory visit. He had been walking regularly, but had never tried intervals. The bike display showed a bright race mode, and he nearly chose it because it seemed like the proper way to start.",
-            "A qualified trainer asked what he wanted and reviewed his readiness before they discussed harder exercise. Omar noticed that the race programme gave him little room to settle between efforts. He faced a choice: chase its score or learn a pace he could manage.",
-            "He chose a moderate interval session on the stationary bike. After an easy start, he alternated short, purposeful pedalling with longer easy stretches, then cooled down. He recorded that he could talk during the efforts and felt ready before each repeat.",
-            "The surprise came when he checked the clock. Changing clothes, warming up and cooling down made the visit longer than the advertised workout. Instead of cutting recovery, he moved the gym visit to a less crowded afternoon and kept lunch breaks for walks.",
-            "Over several visits, Omar repeated the same moderate plan while learning the bike controls. He decided to discuss vigorous intervals later rather than setting a deadline. His phone still offered ten-minute miracles, but now his calendar included the whole visit and a proper place for lunch."
+            "Omar worked at a library in Winnipeg. He wanted a workout that fit his lunch break and gave him more energy for evening walks with his partner. His phone kept advertising a ten-minute workout while his lunch sat waiting on the counter.",
+            "When the library offered a deal at the rec centre, Omar booked a first visit. He walked a lot but had never tried intervals. The bike screen showed a bright Race Mode, and he almost picked it, since it looked like the right way to start.",
+            "A trainer asked about his goals and checked that he was ready before they talked about harder work. Omar saw that Race Mode gave him almost no time to catch his breath. He had a choice: chase the score, or learn a pace he could manage.",
+            "He chose the easier plan. After a slow start, he pedalled hard for short bursts with longer easy stretches in between, then cooled down. He could still talk during the hard parts and felt ready before each one.",
+            "The surprise came when he checked the clock. Changing, warming up and cooling down made the visit far longer than the ten minutes in the ad. Instead of cutting his rest, he moved his gym visits to quiet afternoons and kept his lunch breaks for walks.",
+            "For several visits, Omar repeated the same plan while he learned the bike. He decided to talk about harder intervals later, with no deadline. His phone still offered ten-minute miracles, but now his calendar showed the whole visit, and his lunch got eaten."
           ]
         },
         {
-          "type": "transition",
-          "text": "Keep the whole plan workable",
-          "detail": "Allowing time for recovery and preparation makes it easier to fit movement into a real day and return to a session you can manage."
+          "type": "spotlight",
+          "text": "Write down one useful detail: whether recovery felt long enough and whether the session fit your day. Those notes will help you choose better next time than a score alone."
         },
         {
-          "type": "spotlight",
-          "text": "Record a useful detail. Write whether recovery felt sufficient and whether the session fit your day. Those notes help you make a better choice next time than a score alone."
+          "type": "transition",
+          "text": "Plan the whole visit, and the habit will stick.",
+          "detail": "Leaving time for warm-up and recovery makes your sessions fit a real day, so you keep coming back.",
+          "extra": "Section 05 gives you a starter session you can try this week."
         }
       ]
     },
@@ -150,7 +127,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Choose a clear space, familiar equipment and enough time before starting. Check current local conditions; unsafe ice, heat or smoke may call for an indoor option with good air. Keep water available and learn how to slow or stop the equipment."
+          "text": "Choose a clear space, familiar equipment and enough time before you start. Check local conditions. Ice, heat or wildfire smoke may call for an indoor option with good air. Keep water nearby and learn how to slow or stop the machine."
         },
         {
           "type": "heading",
@@ -158,7 +135,7 @@
         },
         {
           "type": "paragraph",
-          "text": "This editorial example teaches timing and is not an individual prescription. Use comfortable walking or a stationary bike, with the efforts kept moderate. It is an interval starter, not HIIT."
+          "text": "This example teaches timing and isn’t a personal prescription. Use comfortable walking or a stationary bike, with moderate efforts. It’s an interval starter, not HIIT."
         },
         {
           "type": "chips",
@@ -187,7 +164,7 @@
         },
         {
           "type": "paragraph",
-          "text": "If this is too much, use fewer rounds or remain easy throughout. Longer recovery also changes the total: four rounds with 30 seconds moderate and 2 minutes easy make a 20-minute session, including the same warm-up and cool-down. You may repeat a comfortable version without a deadline."
+          "text": "If it’s too much, do fewer rounds or stay easy the whole time. Longer recovery also changes the total: four rounds of 30 seconds moderate and 2 minutes easy make a 20-minute session with the same warm-up and cool-down. You can repeat a comfortable version with no deadline."
         },
         {
           "type": "heading",
@@ -195,18 +172,18 @@
         },
         {
           "type": "paragraph",
-          "text": "Someone already active and ready for vigorous exercise could discuss a HIIT version with a qualified exercise professional. Changing those short work periods to controlled vigorous effort changes the intensity, even if the clock stays the same. Avoid all-out exertion and allow easier days between demanding sessions."
+          "text": "Someone already active and ready for vigorous exercise could talk with a qualified exercise professional about a HIIT version. Turning the short work periods into controlled vigorous effort changes the intensity, even if the clock stays the same. One well-studied example from McMaster University is 10 rounds of 1 minute hard and 1 minute easy, with a warm-up and cool-down. Avoid all-out effort, and leave easier days between hard sessions."
         },
         {
           "type": "spotlight",
-          "text": "Change one thing. After a version feels manageable over repeated sessions, discuss changing effort, round count or duration. Keep the other parts steady so you can judge the response."
+          "text": "Change one thing. Once a version feels manageable over several sessions, think about changing the effort, the number of rounds or the length. Keep everything else the same so you can judge how you respond."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Less recovery always makes a better workout.”",
-              "text": "If the next effort starts before you regain control, extra recovery or fewer rounds may be the useful adjustment."
+              "text": "If the next effort starts before you’ve regained control, more recovery or fewer rounds may be the useful change."
             }
           ]
         },
@@ -216,7 +193,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Stop for chest pain or pressure, faintness, or severe or unusual breathlessness; call 911 for chest pain, fainting, or severe breathing trouble. Stop movement-changing pain and seek appropriate advice."
+          "text": "Stop for chest pain or pressure, feeling faint, or severe or unusual breathlessness. Call 911 for chest pain, fainting or severe trouble breathing. Stop for pain that changes how you move, and get advice."
         }
       ]
     },
@@ -292,15 +269,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Write your own plan with a clear starting point and recovery decision. If readiness is unclear, make seeking guidance your next step."
-        },
-        {
-          "type": "heading",
-          "text": "Chapter completion activity"
+          "text": "Write your own plan with a clear starting point and a recovery rule. If you’re not sure you’re ready, make getting advice your next step."
         },
         {
           "type": "paragraph",
-          "text": "Check your written plan’s timing and explain your effort choice. Complete the details for course administration."
+          "text": "Check your plan’s total time and explain why you chose your effort level."
         },
         {
           "type": "checkin"
@@ -343,8 +316,8 @@
         },
         {
           "type": "transition",
-          "text": "Next up",
-          "detail": "Module 1.2: Walking Programs. You will use walking to build a practical routine and choose a pace that fits you."
+          "text": "Next up: Walking Programs.",
+          "detail": "Use walking to build a practical routine and choose a pace that fits you."
         },
         {
           "type": "source",
@@ -386,13 +359,19 @@
   "checkIn": {
     "questions": [
       "What will you try first?",
-      "What is your session plan?",
-      "How will you make it easier?"
+      "Which activity and place will you use?",
+      "What is your session plan, and its total time?",
+      "How will you know your effort is moderate?",
+      "How will you make it easier if you need to?",
+      "When will your first session be?"
     ],
     "samples": [
-      "Easy or moderate activity, discuss HIIT with a qualified professional, or not sure. Choose the step that fits now. No private medical details are needed.",
-      "Write the activity, place, warm-up, rounds, recovery and cool-down. Check the total.",
-      "Write an adjustment rule and refer to the stop rules in Section 04."
+      "Easy or moderate activity, talk to a professional about HIIT, or not sure. No private health details needed.",
+      "For example: a stationary bike at the rec centre.",
+      "For example: 5 minutes easy, 4 rounds of 30 seconds moderate and 90 seconds easy, 5 minutes easy. Total: 18 minutes.",
+      "For example: I can talk in sentences but not sing.",
+      "For example: longer recovery or fewer rounds. Stop for chest pain, faintness or severe breathlessness.",
+      "For example: Thursday afternoon."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

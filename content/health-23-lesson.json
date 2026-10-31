@@ -1,6 +1,6 @@
 {
   "title": "Desk-Worker Mobility",
-  "summary": "Advanced Fitness and Healthy Living · 1.8",
+  "summary": "Fit the desk → Bring work closer → Pause → Change position",
   "subtitle": "Build comfortable movement into your workday.",
   "minutes": 30,
   "published": true,
@@ -12,32 +12,13 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The calendar happily books back-to-back meetings, as though shoulders came with a mute button. A workable movement plan starts with noticing where your day leaves room to change position."
+          "text": "Your calendar happily books back-to-back meetings, as if shoulders came with a mute button. A workable movement plan starts by noticing where your day leaves room to change position."
         },
         {
-          "type": "heading",
-          "text": "What you will learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Understand mobility and why position changes matter.",
-              "text": ""
-            },
-            {
-              "title": "Check whether your workspace fits your tasks.",
-              "text": ""
-            },
-            {
-              "title": "Try an adjustable workday reset when ready.",
-              "text": ""
-            },
-            {
-              "title": "Write a movement plan that fits your work schedule.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Finish the workday feeling less stiff.",
+          "detail": "One practical change to how you sit, move or organize a task can make long desk days far more comfortable.",
+          "extra": "Section 03 shows how to fit your desk and chair to you."
         }
       ]
     },
@@ -48,20 +29,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Mobility means being able to move your joints through a range you can comfortably control. At a desk, that could mean turning toward a nearby colleague or moving your ankles while seated. It does not mean reaching a dramatic stretch or proving how flexible you are."
+          "text": "Mobility means moving your joints through a range you can comfortably control. At a desk, that could mean turning toward a coworker or moving your ankles while seated. It doesn’t mean a dramatic stretch or proving how flexible you are."
         },
         {
           "type": "paragraph",
-          "text": "CCOHS explains that no single working posture suits someone for a long time, so changing position matters. Ergonomics means fitting work and equipment to the person doing the task."
+          "text": "The Canadian Centre for Occupational Health and Safety (CCOHS) says no single working position suits anyone for long, so changing position matters. Ergonomics means fitting the work and equipment to the person doing it. Canada’s movement guidelines also suggest sitting no more than 8 hours a day in total and breaking up long stretches of sitting as often as you can."
         },
         {
           "type": "paragraph",
-          "text": "This lesson offers general learning examples, not treatment for an injury. If movement brings pain, numbness or dizziness, stop; ask a health professional about new, ongoing or worsening symptoms before choosing movements that might aggravate them."
-        },
-        {
-          "type": "transition",
-          "text": "A workday with options",
-          "detail": "You can identify one practical change that gives you more choice about how you sit, move or organize a task. Small planning decisions can make that choice easier to use."
+          "text": "This lesson offers general examples, not treatment for an injury. If movement brings pain, numbness or dizziness, stop. Ask a health professional about new, ongoing or worsening symptoms before choosing moves that might make them worse."
         }
       ]
     },
@@ -72,7 +48,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Start with the task you do most often. After an adjustment, try that task and notice whether you can do it without reaching or leaning awkwardly."
+          "text": "Start with the task you do most. After you adjust something, try that task and notice whether you can do it without reaching or leaning awkwardly."
         },
         {
           "type": "heading",
@@ -80,11 +56,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Use the chair controls to find support for your lower back and enough room for your legs. Your feet should have support from the floor or a suitable footrest. If raising the chair helps you reach a high desk but leaves your feet hanging, that is a reason to review the whole setup."
+          "text": "Use the chair controls to support your lower back and leave room for your legs. Your feet should rest on the floor or a footrest. If raising the chair helps you reach a high desk but leaves your feet dangling, review the whole setup."
         },
         {
           "type": "spotlight",
-          "text": "At a shared desk, take time to learn the controls before starting work. A setting that suits the previous user may not suit you, and a label such as ergonomic does not remove the need to adjust it."
+          "text": "At a shared desk, take a minute to learn the controls before you start. A setting that suited the last person may not suit you, and a label like “ergonomic” doesn’t remove the need to adjust it."
         },
         {
           "type": "heading",
@@ -92,28 +68,28 @@
         },
         {
           "type": "paragraph",
-          "text": "Keep items used often within easy reach, with room to change position. Clear bags from the space under the desk. If the layout keeps forcing a long reach, ask for help changing the layout rather than trying to stretch away the problem."
+          "text": "Keep things you use often within easy reach, with room to shift position. Clear bags from under the desk. If the layout keeps forcing a long reach, ask for help changing it instead of trying to stretch away the problem."
         },
         {
           "type": "paragraph",
-          "text": "Place your main screen where you can read it without constantly turning or craning your head. About an arm’s length is a starting point, with adjustments for your vision and task. Larger text may help you read without leaning forward; people using reading lenses may need a lower screen."
+          "text": "Put your main screen where you can read it without constantly turning or craning your neck. About an arm’s length away is a starting point, adjusted for your eyesight and task. Larger text can help you read without leaning in. People who wear reading lenses or bifocals may need a lower screen."
         },
         {
           "type": "spotlight",
-          "text": "A laptop joins the screen and keyboard together. If it is your regular workstation, discuss suitable separate equipment with your workplace rather than assuming one laptop angle can meet both needs."
+          "text": "A laptop joins the screen and keyboard together. If it’s your everyday workstation, ask your workplace about a separate keyboard, mouse or screen, instead of assuming one laptop angle can work for both."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A standing desk means you should stand all day.”",
-              "text": "Long periods of standing can also cause discomfort. A sit/stand desk provides another position choice, and still needs to fit you in both positions."
+              "text": "Standing for long periods can cause discomfort too. A sit/stand desk gives you another position to choose, and it still needs to fit you both sitting and standing."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Note one issue before shopping for equipment. A workplace ergonomics contact or supervisor may help you test an adjustment."
+          "text": "Write down one problem before you shop for equipment. A workplace ergonomics contact or supervisor may help you test a change."
         }
       ]
     },
@@ -128,22 +104,23 @@
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
           "paragraphs": [
-            "Nadia, a payroll clerk in Calgary, wanted to finish Friday’s pay run without taking another stack of corrections home. She had a careful checklist and a calendar full of short calls. By Wednesday afternoon, her shoulders felt tight after hours of checking entries on two screens.",
-            "She first blamed the busiest week of the month. Then a teammate borrowed her desk and asked why the payroll screen was far off to the left. Nadia had moved it there months ago to leave space for a paper tray, and had stopped noticing how often she turned toward it.",
-            "She worried that rearranging the desk would waste time before the deadline. Buying a standing desk also seemed easier than explaining the problem to her supervisor. Instead, she asked for ten minutes to review the setup and how the team handled movement between checks.",
-            "They moved the main screen in front of her and found a nearby shelf for the tray. Her supervisor helped plan task changes away from the workstation during the day. Nadia also placed a small note beside her checklist to pause at a completed batch, rather than waiting until every record was done.",
-            "On Thursday, she discovered that the paper tray contained forms another team had stopped using. The tray could leave altogether, giving her more space than the rearrangement alone. Nobody needed an expensive desk to solve that part of the problem.",
-            "Friday still brought a late correction, and Nadia did not feel comfortable every minute. She finished the pay run at work and wrote down the setup changes worth keeping. Her checklist now included a place to change tasks, so the calendar no longer made every decision about her day."
+            "Nadia worked as a payroll clerk in Calgary and wanted to finish Friday’s pay run without taking a pile of corrections home. She had a careful checklist and a calendar full of short calls. By Wednesday afternoon, her shoulders ached from hours of checking entries on two screens.",
+            "At first she blamed the busiest week of the month. Then a teammate borrowed her desk and asked why the payroll screen was way off to the left. Months ago, Nadia had moved it to make room for a paper tray, and she had stopped noticing how often she turned toward it.",
+            "She worried that fixing the desk would waste time before the deadline. Buying a standing desk also felt easier than explaining the problem to her supervisor. Instead, she asked for ten minutes to look at her setup and how the team handled breaks between checks.",
+            "They moved the main screen in front of her and found a nearby shelf for the tray. Her supervisor helped plan a few tasks away from the desk during the day. Nadia also stuck a note beside her checklist to pause after each finished batch, instead of waiting until every record was done.",
+            "On Thursday, she discovered that the tray held forms another team had stopped using months ago. The tray could go altogether, giving her even more space. Nobody needed an expensive desk to solve that part.",
+            "Friday still brought a late correction, and Nadia wasn’t comfortable every minute. But she finished the pay run at work and wrote down the changes worth keeping. Her checklist now had a spot for a pause, so the calendar no longer made every decision about her day."
           ]
         },
         {
-          "type": "transition",
-          "text": "Keep the useful change",
-          "detail": "A clear description of one workspace problem can help you ask for practical support. Testing that change gives you a better basis for your next decision."
+          "type": "spotlight",
+          "text": "How often you can move depends partly on how work is organized. If calls, deadlines or coverage get in the way, talk about the task schedule with the person who can help change it."
         },
         {
-          "type": "spotlight",
-          "text": "Movement opportunities depend partly on how work is organized. If calls, deadlines or coverage make them difficult, discuss the task schedule with the person who can help change it."
+          "type": "transition",
+          "text": "Name one problem clearly, and the fix is often simpler than you think.",
+          "detail": "A clear description of one workspace problem helps you ask for practical support, and testing the change shows you what to keep.",
+          "extra": "Section 05 gives you a two-minute reset for your workday."
         }
       ]
     },
@@ -154,7 +131,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Choose a natural pause, such as finishing a document, and check that you have clear space. The following two-minute reset is an original learning example, not a rehabilitation program or a required workplace break. Use only comfortable movements and breathe normally."
+          "text": "Choose a natural pause, such as finishing a document, and check that you have clear space. This two-minute reset is a learning example, not a rehab program or a required workplace break. Use only comfortable moves and breathe normally."
         },
         {
           "type": "heading",
@@ -183,36 +160,36 @@
         },
         {
           "type": "paragraph",
-          "text": "Four blocks of 30 seconds total 120 seconds, or two minutes. You can replace any block with quiet rest or stop the reset early. There is no target number of movements, and no need to fill every second with activity."
+          "text": "Four 30-second blocks add up to two minutes. You can swap any block for quiet rest or stop early. There’s no target number of moves, and no need to fill every second."
         },
         {
           "type": "spotlight",
-          "text": "CCOHS recommends 5–10 minutes away from the workstation for each hour spent there, ideally with walking or another change of position. This short reset is an extra option; it does not replace that broader guidance."
+          "text": "CCOHS recommends 5 to 10 minutes away from your workstation for every hour you spend there, ideally walking or changing position. This short reset is an extra option. It doesn’t replace that advice."
         },
         {
           "type": "paragraph",
-          "text": "For a seated option, keep the final block as a small supported position change. If standing is suitable, use a stable surface for balance as needed, never a rolling chair. Avoid bouncing or forcing a stretch, and stop any movement that causes pain or severe discomfort."
+          "text": "For a seated option, make the last block a small, supported change of position. If standing suits you, hold a steady surface for balance as needed, never a rolling chair. Don’t bounce or force a stretch, and stop any move that causes pain or severe discomfort."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A stretch only counts if you push farther each day.”",
-              "text": "Comfortable movement does not require a daily range goal. You can repeat the same gentle option or leave it out when it does not suit you."
+              "text": "Comfortable movement doesn’t need a daily range goal. You can repeat the same gentle option, or skip it when it doesn’t suit you."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "A movement plan needs a safe location. During icy Canadian weather, choose a clear indoor route rather than making an outdoor walk the only option, and check for wet floors near entrances."
+          "text": "A movement plan needs a safe place. In icy weather, choose a clear indoor route instead of relying on an outdoor walk, and watch for wet floors near entrances."
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Write your cue beside a task you already finish, such as saving a report. If you keep missing it, change the cue or discuss a better work pause instead of adding a louder reminder."
+          "text": "Insider tip: Write your cue beside a task you already finish, like saving a report. If you keep missing it, change the cue or talk about a better work pause, instead of adding a louder reminder."
         },
         {
           "type": "paragraph",
-          "text": "When ready to adjust the plan, change one thing, such as the cue, before changing the movements. Keep the version that fits your day, and repeat it without a deadline to progress. Ongoing discomfort calls for advice about the task and your symptoms, not a harder reset."
+          "text": "When you’re ready to adjust the plan, change one thing, such as the cue, before changing the moves. Keep the version that fits your day, and repeat it with no deadline to progress. Ongoing discomfort needs advice about the task and your symptoms, not a harder reset."
         }
       ]
     },
@@ -288,15 +265,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Write a small plan using the questions below. If you are unsure whether a movement suits you, make getting advice your first step."
-        },
-        {
-          "type": "heading",
-          "text": "Complete this chapter"
+          "text": "Write a small plan using the questions below. If you’re unsure whether a move suits you, make getting advice your first step."
         },
         {
           "type": "paragraph",
-          "text": "Write your plan in your own words using your answers below, then add your name and email. Keep the plan about work habits; it does not need private health details."
+          "text": "Write your plan in your own words below. Keep it about work habits. It doesn’t need private health details."
         },
         {
           "type": "checkin"
@@ -339,8 +312,8 @@
         },
         {
           "type": "transition",
-          "text": "Next up",
-          "detail": "Module 1.9: Healthy Meal Planning. Next, practise planning meals that fit your time, food preferences and budget."
+          "text": "Next up: Healthy Meal Planning.",
+          "detail": "Plan meals that fit your time, tastes and budget."
         },
         {
           "type": "source",
@@ -382,13 +355,19 @@
   "checkIn": {
     "questions": [
       "Which work task needs a setup check?",
+      "What will you check first: chair, screen, reach or laptop?",
       "Which cue could remind you to pause?",
-      "What will you change or ask about first?"
+      "What will your pause look like?",
+      "Who could help you test a change?",
+      "What will you change or ask about first, and when?"
     ],
     "samples": [
-      "Name one task and the item you will review, such as the screen used for reports.",
-      "Finishing a document, between suitable calls, an agreed task change, or not sure. Choose a real point in your workday.",
-      "Write one adjustment or support request, and when you will review it."
+      "Name one task, such as reading reports on my main screen.",
+      "For example: my screen, which sits off to the side.",
+      "Finishing a document, between calls, an agreed task change, or not sure.",
+      "For example: the two-minute reset, or a short walk to refill my water.",
+      "For example: my supervisor or our health and safety rep.",
+      "For example: move my screen in front of me on Monday."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

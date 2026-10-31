@@ -12,36 +12,17 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This course provides general education, not diagnosis or rehabilitation. Complete CSEP's Get Active Questionnaire before a major increase in activity and follow its directions. Seek qualified advice for a recent injury or surgery, pregnancy or postpartum recovery, unstable health condition, repeated falls, unexplained pain, or medicines that affect exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
+          "text": "This lesson is general education, not diagnosis or rehab. Fill out CSEP’s Get Active Questionnaire before a big increase in activity and follow what it says. Get qualified advice for a recent injury or surgery, pregnancy or postpartum recovery, a health condition that isn’t stable, repeated falls, pain you can’t explain, or medicines that affect exercise. Stop and get urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
         },
         {
           "type": "paragraph",
-          "text": "You will choose movement by matching four features: support, range, pace, and recovery. Low impact describes how force reaches the body. It does not mean the workout must whisper or wear beige."
+          "text": "You’ll choose movement by matching four features: support, range, pace and recovery. Low impact describes how force reaches your body. It doesn’t mean the workout has to whisper or wear beige."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "What low-impact exercise means and how it differs from low intensity.",
-              "text": ""
-            },
-            {
-              "title": "How to adjust support, range, pace, and duration.",
-              "text": ""
-            },
-            {
-              "title": "How to combine aerobic, strength, balance, and mobility work.",
-              "text": ""
-            },
-            {
-              "title": "How to read normal effort, joint responses, and warning signs.",
-              "text": ""
-            },
-            {
-              "title": "How to progress a routine without a sudden jump in impact.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Get fitter without pounding your joints.",
+          "detail": "Low-impact training can work your heart and muscles hard while keeping the stress on your knees, hips and back in check.",
+          "extra": "Section 03 shows the four dials you can adjust on any move."
         }
       ]
     },
@@ -52,7 +33,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Low-impact activity usually keeps at least one foot supported or uses equipment or water to reduce landing forces. Walking, cycling, swimming, water exercise, elliptical training, rowing, chair exercise, and many strength movements can be low impact."
+          "text": "Low-impact activity usually keeps at least one foot on the ground, or uses equipment or water to soften landings. Walking, cycling, swimming, water exercise, the elliptical, rowing, chair exercise and many strength moves can be low impact."
         },
         {
           "type": "paragraph",
@@ -60,11 +41,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Low-impact options may suit beginners, older adults, people in larger bodies, people returning after a break, and some people living with arthritis, disability, pain, or injury. The correct choice still depends on the person and condition."
+          "text": "Low-impact options may suit beginners, older adults, people in larger bodies, people coming back after a break and some people living with arthritis, disability, pain or injury. The right choice still depends on the person and their condition."
         },
         {
           "type": "spotlight",
-          "text": "You may need less landing force, more balance support, a smaller range, or a slower build-up. “Low impact” is useful only when it matches the need."
+          "text": "You may need softer landings, more balance support, a smaller range or a slower build-up. “Low impact” is only useful when it matches what you need."
         },
         {
           "type": "myths",
@@ -81,7 +62,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Finish this sentence: “I want a lower-impact option so I can ___.” Examples include exercise more comfortably, return gradually, protect a sensitive joint, improve fitness, or reduce fall worry."
+          "text": "Finish this sentence: “I want a lower-impact option so I can ___.” For example: exercise more comfortably, ease back in, protect a sore joint, get fitter or worry less about falling."
         }
       ]
     },
@@ -95,19 +76,19 @@
           "items": [
             {
               "title": "SUPPORT",
-              "text": "Changes how much balance and body weight the movement requires. Options include a wall, railing, sturdy chair, machine, walking aid, pool, or seated position. Use supports as designed and keep the area clear."
+              "text": "How much balance and body weight the move asks of you. Options include a wall, railing, sturdy chair, machine, walking aid, pool or a seated position. Use supports the way they’re meant to be used, and keep the area clear."
             },
             {
               "title": "RANGE",
-              "text": "How far a joint moves. A smaller comfortable range can make an exercise suitable while control develops. More range is not automatically better."
+              "text": "How far a joint moves. A smaller, comfortable range can make a move suitable while your control builds. More range isn’t always better."
             },
             {
               "title": "PACE",
-              "text": "Changes both effort and control. Slower movement can help technique. A brisker pace can increase aerobic demand when the movement remains comfortable and stable."
+              "text": "Changes both effort and control. Slower moves help your form. A brisker pace can raise the effort on your heart and lungs, as long as the move stays comfortable and steady."
             },
             {
               "title": "RECOVERY",
-              "text": "Includes easier periods within a session and time between sessions. A one-minute activity followed by a rest can be a valid interval. The body counts completed work, even when the calendar does not call it a boot camp."
+              "text": "The easier periods within a session and the time between sessions. One minute of activity followed by a rest is a real interval. Your body counts the work you finish, even if the calendar doesn’t call it boot camp."
             }
           ]
         },
@@ -124,15 +105,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Aerobic activity raises breathing and heart rate for a period of time. Choose a mode that fits your joints, balance, equipment, weather, and access."
+          "text": "Aerobic activity raises your breathing and heart rate for a while. Choose a type that fits your joints, balance, equipment, the weather and what you can get to."
         },
         {
           "type": "paragraph",
-          "text": "Walking can be adjusted through surface, speed, route, poles, a mobility aid, or shorter bouts. Stationary cycling removes repeated foot strike and allows resistance changes. Pool activity uses buoyancy for support, although pool entry and wet surfaces require planning. Seated aerobic movement can raise heart rate through repeated arm and leg patterns."
+          "text": "You can adjust walking by changing the surface, speed or route, using poles or a mobility aid, or walking in shorter bouts. A stationary bike takes away the pounding of each step and lets you change the resistance. A pool supports your weight in water, though getting in and out and wet floors need planning. Seated cardio can raise your heart rate with repeated arm and leg moves."
         },
         {
           "type": "paragraph",
-          "text": "Begin with a duration that leaves you able to recover normally. Use the talk test: at moderate effort, you can speak in sentences but would not comfortably sing. At vigorous effort, only a few words may be comfortable. Individual conditions and medicines can change the response, so follow professional guidance where needed."
+          "text": "Start with an amount that still lets you recover normally. Use the talk test: at moderate effort, you can speak in sentences but couldn’t comfortably sing. At vigorous effort, only a few words come easily. Some health conditions and medicines change how you respond, so follow professional advice where needed."
         },
         {
           "type": "myths",
@@ -152,7 +133,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Low-impact strength work can train the major muscle groups with body weight, resistance bands, machines, free weights, or water resistance. Useful patterns include a supported chair rise, wall or counter push-up, seated row, hip bridge, calf raise with support, and a controlled carry."
+          "text": "Low-impact strength work can train the major muscle groups with body weight, bands, machines, free weights or water. Useful moves include a supported chair rise, wall or counter push-up, seated row, hip bridge, calf raise with support and a controlled carry."
         },
         {
           "type": "paragraph",
@@ -160,7 +141,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Canadian guidance recommends muscle-strengthening activities using the major muscle groups at least twice a week for adults. Build gradually. A person with pain, neurological symptoms, significant weakness, or rehabilitation needs may require exercises chosen by a physiotherapist or another qualified professional."
+          "text": "Canada’s guidelines recommend muscle-strengthening activities for the major muscle groups at least twice a week for adults. Build up slowly. Someone with pain, nerve symptoms, major weakness or rehab needs may need exercises chosen by a physiotherapist or another qualified professional."
         },
         {
           "type": "spotlight",
@@ -175,15 +156,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Balance training helps the body manage changes in position and surface. Begin beside a stable support. Options may include weight shifts, narrow-stance holds, supported marching, heel-to-toe positions, or tai chi adapted to your ability."
+          "text": "Balance training helps your body handle changes in position and surface. Start beside a sturdy support. Try weight shifts, standing with your feet close together, supported marching, standing heel-to-toe or tai chi adapted to your level."
         },
         {
           "type": "paragraph",
-          "text": "Mobility work uses comfortable movement through available ranges. Try gentle ankle, hip, upper-back, and shoulder movements that support your chosen activities. Mobility should prepare or restore movement, not force a joint into pain."
+          "text": "Mobility work means moving gently through the range you have. Try gentle ankle, hip, upper-back and shoulder moves that help your chosen activities. Mobility should prepare or restore movement, not force a joint into pain."
         },
         {
           "type": "paragraph",
-          "text": "For adults aged 65 and older, Canadian guidance includes physical activities that challenge balance. Anyone with falls, dizziness, new weakness, or major balance change should seek assessment before practising unsupported drills."
+          "text": "For adults 65 and older, Canada’s guidelines include activities that challenge balance. Anyone with falls, dizziness, new weakness or a big change in balance should get checked before trying unsupported balance drills."
         },
         {
           "type": "myths",
@@ -203,27 +184,27 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Miguel",
+          "text": "Miguel builds from the bike seat",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Miguel, 57, lived in Halifax and wanted to become active after a long break. His knees became sore when he tried a running program. He assumed the only alternatives were slow stretching or a pool membership across town.",
-            "At his community centre, Miguel learned to adjust a stationary bike so his knees and hips felt comfortable. He started with eight minutes at an easy pace, followed by supported chair rises, wall push-ups, and a seated band row. He finished with gentle ankle and hip movement.",
-            "He recorded session time, talk-test effort, and how his knees felt later that day and the next morning. After two weeks, recovery was steady, so he added two minutes to the bike. Later, he increased resistance slightly while keeping the duration stable.",
-            "After eight weeks, Miguel could cycle for twenty minutes, use more resistance, and walk farther during errands. He had not returned to running. His cardiovascular system did not send a formal complaint about the missing pavement."
+            "Miguel, 57, lived in Halifax and wanted to get active again after a long break. He tried a running program, but his knees ached for days afterward. He figured his only options left were slow stretching or a pool membership across town.",
+            "He almost gave up on exercise altogether. Then a staff member at his community centre asked if he’d tried the stationary bike. Miguel was skeptical, since it looked too easy to count. But he agreed to try one session before deciding.",
+            "She showed him how to set the seat so his knees and hips felt comfortable. He started with eight minutes at an easy pace, then did supported chair rises, wall push-ups and a seated band row. He finished with gentle ankle and hip moves.",
+            "He wrote down his time, his talk-test effort and how his knees felt later that day and the next morning. After two weeks of steady recovery, he added two minutes to the bike. Later, he raised the resistance slightly and kept the time the same.",
+            "In week five, he got excited and added time and resistance on the same day. His knee grumbled the next morning. Miguel didn’t quit. He went back to the last easy dose for a few days, then changed just one thing.",
+            "After eight weeks, he could cycle for twenty minutes against more resistance and walk farther on his errands. He never went back to running, and his heart didn’t send a single complaint about the missing pavement."
           ]
         },
         {
-          "type": "heading",
-          "text": "What Miguel did well"
-        },
-        {
-          "type": "paragraph",
-          "text": "He changed the activity mode, adjusted the equipment, started below his maximum, tracked the delayed joint response, and progressed one feature at a time."
-        },
-        {
           "type": "spotlight",
-          "text": "A joint may feel acceptable during activity and react afterwards. Record comfort during the session, later the same day, and the next morning."
+          "text": "A joint can feel fine during exercise and react afterward. A common rule: if a joint hurts more two hours after exercise than before you started, do less next time. Check how it feels during the session, later that day and the next morning."
+        },
+        {
+          "type": "transition",
+          "text": "Change one thing at a time, and your joints will tell you what works.",
+          "detail": "Tracking how you feel the next morning lets you build fitness steadily while keeping flare-ups rare and short.",
+          "extra": "Section 08 gives you a simple traffic-light check for every session."
         }
       ]
     },
@@ -237,21 +218,21 @@
           "items": [
             {
               "title": "GREEN",
-              "text": "Normal warmth, increased breathing, manageable muscle effort, and symptoms that settle back to the usual level. Continue or repeat the dose."
+              "text": "Normal warmth, faster breathing, manageable muscle effort and symptoms that settle back to your usual level. Keep going or repeat this dose."
             },
             {
               "title": "YELLOW",
-              "text": "Technique changes, unusual fatigue, a noticeable symptom increase, or discomfort that lasts longer than expected. Reduce support demands, range, pace, resistance, or duration. Reassess before progressing."
+              "text": "Your form changes, you feel unusually tired, a symptom flares noticeably or discomfort lasts longer than expected. Reduce the balance demand, range, pace, resistance or time. Check again before you progress."
             },
             {
               "title": "RED",
-              "text": "Chest pressure or pain, fainting, severe or unusual shortness of breath, sudden neurological symptoms, a new inability to bear weight, a hot and markedly swollen joint, or a serious fall. Stop. Seek urgent or qualified medical care as appropriate."
+              "text": "Chest pressure or pain, fainting, severe or unusual shortness of breath, sudden nerve symptoms, suddenly being unable to put weight on a leg, a hot and swollen joint, or a serious fall. Stop. Get urgent or qualified medical care as needed."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "This lesson is humour-free because these warning signs require clear action."
+          "text": "This section has no humour, because these warning signs need clear action."
         }
       ]
     },
@@ -262,28 +243,28 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Repeat the same routine until it feels predictable and recovery is acceptable. Then change one feature. Add a few minutes, a small amount of resistance, a slightly brisker interval, another set, or a little less support where safe."
+          "text": "Repeat the same routine until it feels predictable and you recover well. Then change one feature: a few more minutes, a little more resistance, a slightly brisker interval, another set or a little less support where it’s safe."
         },
         {
           "type": "paragraph",
-          "text": "Do not increase duration, pace, resistance, range, and balance demand together. That creates a new workout with no clear clue about which change caused the response. Progress should look like a staircase, not a trapdoor."
+          "text": "Don’t raise time, pace, resistance, range and balance demand all at once. That creates a brand-new workout with no clue about which change caused the reaction. Progress should look like a staircase, not a trapdoor."
         },
         {
           "type": "paragraph",
-          "text": "If symptoms rise after a change, return to the last manageable dose. After illness, travel, a flare, or a longer break, use a return week with less work. A qualified professional can help distinguish a temporary adjustment from a problem that requires care."
+          "text": "If symptoms rise after a change, go back to the last dose that felt fine. After illness, travel, a flare-up or a longer break, take an easier week first. A qualified professional can help you tell a short-term adjustment from a problem that needs care."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A low-impact plan never needs recovery days.”",
-              "text": "Muscles, joints, and the cardiovascular system still respond to training stress. Recovery depends on intensity, duration, health, and the person's starting point."
+              "text": "Your muscles, joints and heart still respond to training stress. How much rest you need depends on how hard and long you train, your health and where you started."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "More time, control, or resistance may improve fitness without adding jumping or running. Impact is an option, not a graduation ceremony."
+          "text": "More time, control or resistance can improve your fitness without adding jumping or running. Impact is an option, not a graduation ceremony."
         }
       ]
     },
@@ -294,11 +275,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Low-impact activity may be available through municipal recreation centres, YMCAs, community halls, pools, walking programs, friendship or wellness centres, campuses, seniors' centres, rehabilitation services, and virtual classes. Ask about accessible entrances, pool lifts, change-room access, quieter hours, adapted equipment, chair-based classes, fee assistance, and instructor credentials. Services and eligibility vary."
+          "text": "Low-impact activity may be offered at city rec centres, YMCAs, community halls, pools, walking groups, friendship centres, campuses, seniors’ centres, rehab services and online classes. Ask about accessible entrances, pool lifts, change rooms, quieter hours, adapted equipment, chair-based classes, help with fees and instructor training. What’s offered varies."
         },
         {
           "type": "paragraph",
-          "text": "Weather and air quality can change outdoor plans. Indoor walking routes, malls where permitted, home circuits, community spaces, and seated options can provide alternatives. Check local public-health advice during extreme heat, cold, smoke, or poor air quality."
+          "text": "Weather and air quality can change outdoor plans. Indoor walking routes, malls where it’s allowed, home circuits, community spaces and seated options can stand in. Check local public-health advice in extreme heat, cold, smoke or poor air quality."
         },
         {
           "type": "heading",
@@ -306,11 +287,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Low-impact fitness can improve aerobic capacity, strength, balance, and mobility. Match support, range, pace, and recovery to your current needs, monitor the response beyond the session, and progress one feature at a time."
+          "text": "Low-impact fitness can improve your heart and lungs, strength, balance and mobility. Match support, range, pace and recovery to what you need now, check how you feel after each session, not just during it, and change one thing at a time."
         },
         {
           "type": "spotlight",
-          "text": "Set up the environment before the timer starts. Adjust the seat, test the railing, clear the floor, and place water nearby. Equipment instructions are far more interesting before you are balancing on the equipment."
+          "text": "Set up before you start the timer. Adjust the seat, test the railing, clear the floor and put water nearby. Equipment instructions are far more interesting before you’re balancing on the equipment."
         }
       ]
     },
@@ -431,24 +412,20 @@
   },
   "checkIn": {
     "questions": [
-      "My reason for choosing lower impact is:",
-      "My preferred aerobic activity is:",
-      "The support I will use is:",
-      "My comfortable starting range or duration is:",
-      "My talk-test effort will be:",
-      "My two strength movements are:",
-      "My later-day or next-morning check is:",
-      "The red-light sign I need to remember is:"
+      "Why are you choosing lower impact?",
+      "Which aerobic activity will you start with, and for how long?",
+      "Which support will you use?",
+      "Which two strength moves will you start with?",
+      "How will you check your joints later that day and the next morning?",
+      "Which red-light sign do you need to remember?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: my knees ache after running.",
+      "For example: the stationary bike, eight minutes at an easy pace.",
+      "For example: a railing, a sturdy chair or the pool wall.",
+      "For example: supported chair rise and seated band row.",
+      "For example: rate my knee from 0 to 10 before, two hours after and the next morning.",
+      "For example: chest pain or a hot, very swollen joint means stop and get help."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not personal medical care."

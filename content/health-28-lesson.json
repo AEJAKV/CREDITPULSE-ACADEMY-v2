@@ -1,6 +1,6 @@
 {
   "title": "Stress Management",
-  "summary": "Advanced Fitness and Healthy Living · 1.13",
+  "summary": "Name the demand → Pause → One next step → Ask for help",
   "subtitle": "Make room to respond when daily demands pile up.",
   "minutes": 30,
   "published": true,
@@ -15,29 +15,10 @@
           "text": "A calendar can announce three urgent meetings without offering three extra versions of you. When demands pile up, pause to notice what is happening and choose a workable next step."
         },
         {
-          "type": "heading",
-          "text": "What you will learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Recognize stress and name the demand behind it",
-              "text": ""
-            },
-            {
-              "title": "Try grounding or comfortable breathing without forcing calm",
-              "text": ""
-            },
-            {
-              "title": "Choose one practical step and ask for useful support",
-              "text": ""
-            },
-            {
-              "title": "Know when everyday tools are not enough",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Handle pressure with a clearer head.",
+          "detail": "Naming the demand helps you choose a useful response, so you can work on one next step without carrying everything around you.",
+          "extra": "Section 03 shows you how to match the tool to what you need."
         }
       ]
     },
@@ -48,24 +29,23 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Stress is your response to a demand or pressure. It can show up as tense shoulders, worry, or trouble focusing, and a brief response can help you handle a challenge."
+          "text": "Stress is your body and mind responding to a demand or pressure. It can show up as tense shoulders, worry or trouble focusing. A short burst of stress can even help you rise to a challenge."
         },
         {
           "type": "paragraph",
-          "text": "When pressure keeps returning, your usual rest may not feel like enough. Notice changes in how you feel or manage daily tasks, rather than trying to prove that your situation is stressful enough to count."
+          "text": "When pressure keeps coming back, your usual rest may not feel like enough. Notice changes in how you feel or how you manage daily tasks, instead of trying to prove your situation is stressful enough to count."
         },
         {
           "type": "paragraph",
-          "text": "A late bus, rising rent, or a heavy workload is an outside demand. Your next call or request may be a choice, but you cannot personally control every cause or carry every solution."
+          "text": "A late bus, rising rent or a heavy workload is an outside demand. Your next call or request may be in your control, but you can’t personally control every cause or carry every solution."
         },
         {
           "type": "paragraph",
-          "text": "This lesson teaches everyday coping, not diagnosis or treatment. Contact a care provider if ongoing stress disrupts sleep or daily life; seek medical help for severe unexplained symptoms instead of assuming they are stress."
+          "text": "This lesson teaches everyday coping, not diagnosis or treatment. Talk to a care provider if ongoing stress disrupts your sleep or daily life. Get medical help for severe symptoms you can’t explain, instead of assuming they’re stress."
         },
         {
-          "type": "transition",
-          "text": "Give yourself room",
-          "detail": "Naming the demand can help you choose a useful response. You can work on one next step without taking responsibility for everything around you."
+          "type": "spotlight",
+          "text": "Help is available any time. If you’re thinking about suicide or worried about someone, call or text 9-8-8, the Suicide Crisis Helpline, any time, day or night. For local services like housing, food or counselling, call 2-1-1. Indigenous people can reach the Hope for Wellness Helpline at 1-855-242-3310, and young people can call Kids Help Phone at 1-800-668-6868 or text 686868."
         }
       ]
     },
@@ -76,7 +56,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Start by naming the situation in plain words: “Two people need the same report today.” Then notice your response, such as rereading the same email, without treating that observation as a medical diagnosis."
+          "text": "Start by naming the situation in plain words: “Two people need the same report today.” Then notice your response, such as rereading the same email, without treating it as a medical diagnosis."
         },
         {
           "type": "heading",
@@ -84,15 +64,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Grounding means bringing attention back to your present surroundings. With your eyes open, notice the chair supporting you and find three ordinary objects nearby; there is no need to shut out the room."
+          "text": "Grounding means bringing your attention back to what’s around you right now. With your eyes open, notice the chair holding you up and find three ordinary objects nearby. There’s no need to shut out the room."
         },
         {
           "type": "spotlight",
-          "text": "Choose a detail that feels neutral, such as a door frame or the colour of a mug. If focusing on your body feels uncomfortable, keep your attention on objects around you."
+          "text": "Choose a detail that feels neutral, like a door frame or the colour of a mug. If focusing on your body feels uncomfortable, keep your attention on the objects around you."
         },
         {
           "type": "paragraph",
-          "text": "You can also let your breathing settle at a comfortable pace while sitting with support. Avoid breath holds or forcing deep or rapid breaths, and stop the exercise if it makes you dizzy or more distressed."
+          "text": "You can also let your breathing settle at a comfortable pace while you sit with support. Don’t hold your breath or force deep or fast breaths, and stop if it makes you dizzy or more upset."
         },
         {
           "type": "heading",
@@ -100,7 +80,7 @@
         },
         {
           "type": "paragraph",
-          "text": "After the pause, separate what you can act on from what needs help or time. For the report problem, one step might be asking which deadline matters most, rather than trying to finish both at once."
+          "text": "After the pause, separate what you can act on from what needs help or time. For the report problem, one step might be asking which deadline matters most, instead of trying to finish both at once."
         },
         {
           "type": "spotlight",
@@ -108,20 +88,20 @@
         },
         {
           "type": "paragraph",
-          "text": "Support might come from a trusted person, a supervisor, or a community service that fits the problem. If a conversation feels unsafe, seek support through a safer route instead of forcing a direct confrontation."
+          "text": "Support might come from someone you trust, a supervisor or a community service that fits the problem. Many workplaces also offer a free, confidential employee assistance program (EAP). If a conversation feels unsafe, find a safer route to support instead of forcing a face-to-face confrontation."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If I relax properly, the source of stress will disappear.”",
-              "text": "A pause may help you respond, but workload, debt, and housing problems often need practical changes and outside support."
+              "text": "A pause may help you respond, but workload, debt and housing problems often need practical changes and outside help."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Sleep opportunities, enjoyable activities, and manageable movement can support daily coping. They cannot replace safe working conditions, enough resources, or care for a health concern."
+          "text": "Sleep, enjoyable activities and manageable movement can help you cope day to day. Regular physical activity is one of the best-studied ways to ease stress and low mood. But none of these can replace safe working conditions, enough money or care for a health problem."
         }
       ]
     },
@@ -136,23 +116,23 @@
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
           "paragraphs": [
-            "Anika coordinated an office team in Ottawa and wanted to leave on time for her weekly pottery class. Her calendar looked tidy until a room change arrived on Tuesday, when two teams expected her to prepare separate meetings at four o’clock.",
-            "One meeting needed printed packs, while the other needed a video link tested. Anika kept switching between them, worried that an error would let colleagues down, and soon she had checked the same attachment four times.",
-            "Her first thought was to cancel pottery and finish everything after hours. Instead, she put both feet on the floor, noticed the window frame, and wrote down the problem: two setups, one person, the same start time.",
-            "She asked her manager to choose a priority and arrange help for the other meeting. She explained what each setup required and offered to prepare the printed packs while someone else tested the video link.",
-            "During that conversation, her manager found that the room change had created a duplicate booking. One team had already moved its meeting to Thursday, but the old invitation was still active; extra work would not have fixed the calendar.",
-            "They corrected the invitation and agreed on one place to record future changes. Anika finished the remaining setup, left on time, and made it to pottery, where the bowl she shaped leaned slightly to one side.",
-            "By Friday, another late request needed a priority check, and she still felt some tension while asking. The calendar had not learned to supply extra versions of her, but she had a clearer way to question a clash before giving up her evening."
+            "Anika coordinated an office team in Ottawa and wanted to leave on time for her weekly pottery class. Her calendar looked tidy until Tuesday. A room change meant two teams now expected her to set up their meetings at four o’clock.",
+            "One meeting needed printed packages, and the other needed a video link tested. Anika kept jumping between them, worried a mistake would let people down. Soon she had checked the same attachment four times.",
+            "Her first thought was to skip pottery and finish everything after hours. Instead, she put both feet on the floor, looked at the window frame and wrote the problem down: two setups, one person, the same start time.",
+            "She asked her manager to choose a priority and find help for the other meeting. She explained what each setup needed and offered to prepare the printed packages while someone else tested the video link.",
+            "As they talked, her manager spotted the real problem: the room change had booked the slot twice. One team had already moved its meeting to Thursday, but the old invitation was still live. No amount of extra work would have fixed the calendar.",
+            "They cleared the old invitation and agreed on one place to record future changes. Anika finished the remaining setup, left on time and made it to pottery, where the bowl she shaped leaned a little to one side. By Friday, another late request needed a priority check. Asking still felt tense. But now she knew how to question a clash before giving up her evening."
           ]
         },
         {
-          "type": "transition",
-          "text": "Ask for what would help",
-          "detail": "A specific support request gives another person something concrete to respond to. It can open a path to changing the demand while you practise your coping tools."
+          "type": "spotlight",
+          "text": "Anika used the pause to prepare a question, not to accept an impossible workload. The real fix came from checking the booking and sharing the work."
         },
         {
-          "type": "spotlight",
-          "text": "Anika used the pause to prepare a question, not to accept an impossible workload. The practical change came from checking the booking and sharing responsibility."
+          "type": "transition",
+          "text": "A clear request can change the demand, not just your reaction to it.",
+          "detail": "Asking for something specific gives others a way to help, and opens a path to fixing the problem while you practise your coping tools.",
+          "extra": "Section 05 gives you an eight-minute pause and support plan."
         }
       ]
     },
@@ -163,7 +143,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Choose a safe place where you do not need to drive or watch machinery. This adjustable example is a learning exercise, not a personal treatment plan, and it does not promise calm by the end."
+          "text": "Choose a safe place where you don’t need to drive or operate machinery. This example is a learning exercise, not a personal treatment plan, and it doesn’t promise you’ll feel calm by the end."
         },
         {
           "type": "heading",
@@ -196,40 +176,40 @@
         },
         {
           "type": "paragraph",
-          "text": "The parts add up to eight minutes: one plus two plus two plus two plus one. If that is too much today, spend one minute noticing the room and writing one next step, then arrange time for the support request."
+          "text": "The parts add up to eight minutes: one plus two plus two plus two plus one. If that’s too much today, spend one minute noticing the room and writing one next step, then set a time for your support request."
         },
         {
           "type": "spotlight",
-          "text": "For a delayed repair, a next step could be gathering the previous messages and asking for an update. The pause does not make the repair happen, but it can help you prepare a clear request."
+          "text": "For a delayed repair, a next step could be gathering your earlier messages and asking for an update. The pause won’t make the repair happen, but it can help you prepare a clear request."
         },
         {
           "type": "paragraph",
-          "text": "Adapt the sequence to your needs, and skip breathing practice if it feels unpleasant. Stop if you feel dizzy, distressed, or unwell; return to ordinary breathing and seek advice if symptoms persist."
+          "text": "Adapt the steps to your needs, and skip the breathing practice if it feels unpleasant. Stop if you feel dizzy, upset or unwell. Go back to normal breathing and get advice if symptoms last."
         },
         {
           "type": "paragraph",
-          "text": "Severe unexplained physical symptoms need medical attention, even during a stressful day. New chest pressure with shortness of breath can be an emergency; call 9-1-1 rather than trying to breathe it away."
+          "text": "Severe physical symptoms you can’t explain need medical attention, even on a stressful day. New chest pressure with shortness of breath can be an emergency. Call 911 instead of trying to breathe it away."
         },
         {
           "type": "spotlight",
-          "text": "A winter break can happen indoors beside a window or in a safe hallway. You do not need to walk on ice, face severe cold, or find a perfectly quiet room to try this sequence."
+          "text": "A winter break can happen indoors, beside a window or in a safe hallway. You don’t need to walk on ice, face severe cold or find a silent room to try this."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Needing help means my coping skills failed.”",
-              "text": "A demand may exceed one person’s time or resources, and useful support can be part of the plan."
+              "text": "A demand can be bigger than one person’s time or resources, and getting support can be part of the plan."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Draft the request before the conversation: name the problem and ask for a specific change. Choose a review time too, so an unanswered request has a next step."
+          "text": "Insider tip: Draft your request before the conversation. Name the problem and ask for a specific change. Choose a review time too, so an unanswered request still has a next step."
         },
         {
           "type": "paragraph",
-          "text": "Repeat this level whenever it is useful, with no deadline to advance. Adjust one part at a time and check whether the change fits your day."
+          "text": "Repeat this whenever it helps, with no deadline to move on. Adjust one part at a time and check whether the change fits your day."
         }
       ]
     },
@@ -305,15 +285,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Write a small plan you could try during an ordinary busy day. Use general words and keep private diagnoses or health details out of these fields."
-        },
-        {
-          "type": "heading",
-          "text": "Chapter completion activity"
+          "text": "Write a small plan you could try on an ordinary busy day. Use general words, and keep private diagnoses or health details out of these fields."
         },
         {
           "type": "paragraph",
-          "text": "Write your pause, next step, and support request together in a short plan. Add a time to review the result, and revise the plan if the first option does not help."
+          "text": "Put your pause, next step and support request together in a short plan. Add a time to review it, and change the plan if the first option doesn’t help."
         },
         {
           "type": "checkin"
@@ -356,8 +332,8 @@
         },
         {
           "type": "transition",
-          "text": "Next up",
-          "detail": "Module 1.14: Thirty-Day Challenges turns one manageable behaviour into a short learning experiment. You will plan opportunities, use an easier option, and review what fits your life without a perfect streak."
+          "text": "Next up: Thirty-Day Challenges.",
+          "detail": "Turn one manageable habit into a short experiment, with planned chances, an easier option and an honest review, no perfect streak required."
         },
         {
           "type": "source",
@@ -398,14 +374,20 @@
   },
   "checkIn": {
     "questions": [
+      "What demand is putting you under pressure right now?",
       "Which pause will you try?",
-      "When will you try it?",
-      "What support will you request?"
+      "When and where will you try it?",
+      "What one part can you act on?",
+      "What support will you ask for, and from whom?",
+      "When will you review how it went?"
     ],
     "samples": [
-      "Notice nearby objects, comfortable breathing, or not sure. Choose one comfortable option.",
-      "Name a safe moment, such as after sitting down at lunch.",
-      "Write one practical request and a role or service, such as a supervisor checking priorities."
+      "Name it in plain words, like “two deadlines on the same afternoon.”",
+      "Noticing nearby objects, comfortable breathing, or not sure.",
+      "For example: after I sit down at lunch, at my desk.",
+      "For example: asking which deadline comes first.",
+      "For example: my supervisor, to set priorities. Or 2-1-1 for local services.",
+      "For example: Friday afternoon."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

@@ -12,36 +12,17 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This course provides general education, not diagnosis, treatment, or rehabilitation. Seek qualified advice before stretching an acutely injured area, a recently operated joint, an unstable joint, or an area with unexplained pain, numbness, weakness, or swelling. Follow condition-specific guidance for osteoporosis, joint replacement, hypermobility, neurological conditions, pregnancy, or disability. Stop and seek urgent medical help for sudden neurological symptoms, a serious fall, a visibly deformed joint, or a new inability to bear weight."
+          "text": "This lesson is general education, not diagnosis, treatment or rehab. Get qualified advice before stretching a fresh injury, a joint that was recently operated on, a joint that gives way, or an area with pain, numbness, weakness or swelling you can’t explain. Follow advice for your condition if you have osteoporosis, a joint replacement, loose joints, a nerve condition, a pregnancy or a disability. Stop and get urgent medical help for sudden nerve symptoms, a serious fall, a joint that looks out of shape, or suddenly being unable to put weight on a leg."
         },
         {
           "type": "paragraph",
-          "text": "Before stretching, you will answer four questions: What is the goal? Which area limits it? What type of stretch fits? How did the body respond? This protects learners from collecting stretches as if the human body awards loyalty points."
+          "text": "Before stretching, you’ll answer four questions. What’s the goal? Which area is limiting it? What type of stretch fits? How did your body respond? This keeps you from collecting stretches as if the body gave out loyalty points."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "What flexibility is and how it relates to mobility.",
-              "text": ""
-            },
-            {
-              "title": "When dynamic movement or static stretching may fit.",
-              "text": ""
-            },
-            {
-              "title": "How intensity, duration, breathing, and frequency shape a stretch.",
-              "text": ""
-            },
-            {
-              "title": "When stretching is unlikely to solve the problem.",
-              "text": ""
-            },
-            {
-              "title": "How to measure useful changes without chasing extreme range.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Spend less time stretching and get more out of every minute.",
+          "detail": "Picking the right stretch for a real goal, at the right dose and time, gives you comfort and range you can use.",
+          "extra": "Section 04 shows how long and how hard to stretch."
         }
       ]
     },
@@ -52,15 +33,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Flexibility describes the available range at a joint or the ability of muscles and other tissues to tolerate lengthening. It can support comfort and movement when a task requires more range than is currently available."
+          "text": "Flexibility is the range a joint can move through, or how well muscles and other tissues handle being lengthened. It can make a task more comfortable when that task needs more range than you have right now."
         },
         {
           "type": "paragraph",
-          "text": "Choose a specific reason: reaching overhead, taking a longer walking stride, using a work position, performing a sport skill, or reducing the restricted feeling after prolonged sitting. The desired range should match the activity."
+          "text": "Choose a specific reason: reaching overhead, taking a longer stride when you walk, holding a work position, a sports skill, or easing the stiff feeling after sitting for a long time. The range you aim for should match the activity."
         },
         {
           "type": "paragraph",
-          "text": "Flexibility is not a complete fitness program. Strength, balance, aerobic capacity, coordination, sleep, and daily movement still matter. A person can touch their toes and remain unprepared to carry the recycling downstairs."
+          "text": "Flexibility isn’t a complete fitness program. Strength, balance, stamina, coordination, sleep and daily movement still matter. You can touch your toes and still be unprepared to carry the recycling downstairs."
         },
         {
           "type": "spotlight",
@@ -71,7 +52,7 @@
           "items": [
             {
               "title": "“Everyone should be able to touch their toes.”",
-              "text": "Body proportions, joint structure, nerve sensitivity, movement skill, and training history differ. Toe touching is one movement, not a health certificate."
+              "text": "Body proportions, joint shape, nerve sensitivity, skill and training history all differ. Touching your toes is one movement, not a health certificate."
             }
           ]
         },
@@ -92,19 +73,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Dynamic flexibility uses controlled movement through a comfortable range. Leg swings performed with control, arm movements, walking lunges, and gentle trunk rotations are examples. Dynamic work can prepare the movements and temperature needed for activity."
+          "text": "Dynamic flexibility uses controlled movement through a comfortable range. Examples are controlled leg swings, arm circles, walking lunges and gentle trunk turns. Dynamic work warms you up and rehearses the moves you’re about to use."
         },
         {
           "type": "paragraph",
-          "text": "Static stretching holds a position for a period of time. It can be used in a separate flexibility session or after activity when the goal is to practise relaxed range. The position should allow normal breathing and should not create sharp pain or neurological symptoms."
+          "text": "Static stretching holds a position for a while. Use it in a separate flexibility session or after activity, when the goal is to practise relaxed range. You should be able to breathe normally, with no sharp pain or nerve symptoms."
         },
         {
           "type": "paragraph",
-          "text": "Before strength, speed, or sport activity, begin with easy whole-body movement and task-related dynamic practice. Long, intense static stretching immediately before maximum efforts may temporarily change force or power for some activities. Timing should serve the next task."
+          "text": "Before strength work, sprinting or sport, start with easy whole-body movement and dynamic moves that match the task. Long, intense static stretches right before an all-out effort may briefly reduce force or power for some activities. Short holds of under a minute have little effect. Time your stretching to suit what comes next."
         },
         {
           "type": "spotlight",
-          "text": "Use movement to prepare for movement. Use longer holds when improving or maintaining range is the main job."
+          "text": "Use movement to prepare for movement. Use longer holds when gaining or keeping range is the main job."
         }
       ]
     },
@@ -115,22 +96,41 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Move slowly into a mild-to-moderate stretch sensation. Stop before sharp pain, pinching, burning, numbness, tingling, or joint instability. Breathe normally and avoid bouncing."
+          "text": "Move slowly into a mild-to-moderate stretch feeling. Stop before sharp pain, pinching, burning, numbness, tingling or a joint feeling unstable. Breathe normally and don’t bounce."
         },
         {
           "type": "paragraph",
-          "text": "A short hold repeated several times can be useful. Exact duration and frequency depend on the person, tissue, goal, and professional guidance. The stretch should be repeatable and should not disrupt the activity that follows."
+          "text": "A short hold repeated a few times can help. The best length and frequency depend on you, the tissue, your goal and any advice you’ve had. The stretch should be repeatable and shouldn’t get in the way of whatever you do next."
+        },
+        {
+          "type": "glasspanel",
+          "text": "A common starting dose",
+          "detail": "For most healthy adults",
+          "items": [
+            {
+              "title": "Hold",
+              "text": "10 to 30 seconds — at a mild-to-moderate stretch feeling."
+            },
+            {
+              "title": "Repeat",
+              "text": "2 to 4 times — for about 60 seconds in total per stretch."
+            },
+            {
+              "title": "How often",
+              "text": "At least 2 or 3 days a week — daily practice works best for gaining range."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Progress through a slightly longer comfortable hold, another repetition, improved position, or an appropriate increase in frequency. Change one feature at a time. The muscle does not need a surprise party."
+          "text": "Progress with a slightly longer comfortable hold, another repeat, a better position or stretching more often. Change one thing at a time. The muscle doesn’t need a surprise party."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A stretch only works if it hurts.”",
-              "text": "Pain can trigger guarding and may signal irritation or injury. A tolerable stretch sensation is enough for practice."
+              "text": "Pain can make muscles tense up to protect you, and it may signal irritation or injury. A tolerable stretch feeling is enough."
             }
           ]
         }
@@ -143,19 +143,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Small setup changes can move a stretch from the intended muscle into a joint or another body region. Use support and stable alignment. Keep the movement within the joint's comfortable path."
+          "text": "Small setup changes can shift a stretch away from the muscle you want and into a joint or another area. Use support and steady alignment. Keep the movement in the joint’s comfortable path."
         },
         {
           "type": "paragraph",
-          "text": "For a calf stretch, foot direction and heel contact matter. For the hip, pelvis and trunk position matter. For the chest, shoulder position matters. For the back of the thigh, bending from the hip differs from rounding the whole spine."
+          "text": "For a calf stretch, the direction of your foot and keeping your heel down matter. For the hip, your pelvis and trunk position matter. For the chest, your shoulder position matters. For the back of the thigh, bending from the hip is different from rounding your whole spine."
         },
         {
           "type": "paragraph",
-          "text": "Do not copy the deepest-looking version. Choose the version that creates the intended sensation without joint pressure or loss of control. The internet's most flexible person is not present to complete your consent form."
+          "text": "Don’t copy the deepest-looking version. Choose the one that gives the feeling you want without joint pressure or losing control. The internet’s most flexible person isn’t there to sign your consent form."
         },
         {
           "type": "spotlight",
-          "text": "Adjust the stance, support, or angle. Better positioning often creates a clearer stretch with less effort."
+          "text": "Adjust your stance, support or angle. A better position often gives a clearer stretch with less effort."
         }
       ]
     },
@@ -166,22 +166,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A restricted feeling is not always a flexibility problem. Muscle fatigue, weakness, joint irritation, nerve sensitivity, swelling, stress, poor sleep, prolonged position, or unfamiliar activity can feel like tightness."
+          "text": "A tight feeling isn’t always a flexibility problem. Tired or weak muscles, an irritated joint, a sensitive nerve, swelling, stress, poor sleep, holding one position for a long time or new activity can all feel like tightness."
         },
         {
           "type": "paragraph",
-          "text": "If a few gentle movements improve the feeling, movement variety may be enough. If the same area repeatedly feels tight during a task, check technique, workload, strength, and setup. If symptoms include tingling, numbness, weakness, significant swelling, instability, or pain that worsens, seek assessment."
+          "text": "If a few gentle moves ease the feeling, more variety in your movement may be enough. If the same spot keeps feeling tight during a task, check your technique, workload, strength and setup. If you have tingling, numbness, weakness, a lot of swelling, a joint giving way or pain that’s getting worse, get it checked."
         },
         {
           "type": "paragraph",
-          "text": "Hypermobility means some joints move beyond a typical range. A person with symptomatic hypermobility may need control, strength, pacing, and individualized care rather than more stretching."
+          "text": "Hypermobility means some joints move further than usual. People with hypermobility who have symptoms may need control, strength, pacing and personal care, rather than more stretching."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Every tight feeling should be stretched.”",
-              "text": "The sensation may reflect several causes. Stretching is useful only when limited tissue tolerance or range is part of the actual problem."
+              "text": "The feeling can have several causes. Stretching only helps when limited range or tissue tolerance is part of the real problem."
             }
           ]
         }
@@ -194,27 +194,27 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Sophie",
+          "text": "Sophie stops stretching everything",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Sophie, 44, lived in Montreal and worked at a computer. Her neck and shoulders felt tight by late afternoon, so she followed a fifteen-minute full-body stretch video every evening. Some stretches felt pleasant, but the same discomfort returned before dinner.",
-            "She used the Stretch Decision Guide. Her goal was to finish work with less neck and shoulder discomfort. She noticed that the problem grew after long, uninterrupted screen periods. Her desk setup placed the screen to one side, and her upper-back endurance faded as the day continued.",
-            "Sophie moved the screen in front of her, used brief movement breaks, practised gentle upper-back rotation and shoulder movement, and added a light row twice a week. She kept one chest stretch that felt useful and removed several unrelated stretches.",
-            "After six weeks, she reported fewer uncomfortable afternoons and could work longer before needing a break. Her routine fell from fifteen minutes to four. The other eleven minutes returned to civilian life."
+            "Sophie, 44, worked at a computer in Montreal. By late afternoon her neck and shoulders felt tight, so every evening she followed a fifteen-minute full-body stretching video. Some stretches felt nice, but the same discomfort was back before dinner the next day.",
+            "One Friday, her physiotherapist friend asked a simple question: when does it start? Sophie realized she had never checked. She could keep stretching harder, or she could spend one week watching for the pattern. She chose to watch.",
+            "The pattern was clear. The discomfort grew after long, unbroken stretches at the screen. Her monitor sat off to one side, so she turned her head all day, and her upper back tired out as the hours went by.",
+            "Sophie moved the monitor straight in front of her and set a reminder for short movement breaks. She practised gentle upper-back turns and shoulder moves, and added a light band row twice a week. She kept one chest stretch that helped and dropped the rest.",
+            "In week three, a deadline glued her to the desk for two days and the tightness came roaring back. It was tempting to restart the long video. Instead, she went back to the breaks, and within a few days the afternoons settled again.",
+            "After six weeks, she had fewer uncomfortable afternoons and could work longer before needing a break. Her routine shrank from fifteen minutes to four. The other eleven minutes went back to civilian life."
           ]
         },
         {
-          "type": "heading",
-          "text": "What Sophie did well"
-        },
-        {
-          "type": "paragraph",
-          "text": "She defined the task, examined the environment and workload, combined movement with strength, and kept only the stretch that served the goal."
-        },
-        {
           "type": "spotlight",
-          "text": "If a stretch has no clear target, no useful response, and no effect on the chosen task, it may not belong in the routine."
+          "text": "If a stretch has no clear target, no useful effect and doesn’t help your chosen task, it may not belong in your routine."
+        },
+        {
+          "type": "transition",
+          "text": "Find the real cause of the tightness, and you can fix it in minutes a day.",
+          "detail": "Matching the tool to the problem, whether that’s a stretch, a strength move or a better setup, saves time and works better.",
+          "extra": "Section 08 explains when to protect an area instead of stretching it."
         }
       ]
     },
@@ -225,15 +225,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Stretching should not force a healing injury, unstable joint, or painful surgical area. Follow the restrictions and progression given by the treating professional. Scar, tendon, joint, muscle, and nerve conditions can require different approaches."
+          "text": "Stretching should never force a healing injury, a joint that gives way or a sore surgical area. Follow the limits and plan from your treating professional. Scars, tendons, joints, muscles and nerves can each need a different approach."
         },
         {
           "type": "paragraph",
-          "text": "Numbness, tingling, electric sensations, spreading pain, or weakness may involve nerve irritation. Do not use a strong stretch to chase these symptoms. Stop and seek qualified assessment."
+          "text": "Numbness, tingling, electric feelings, spreading pain or weakness may mean an irritated nerve. Don’t use a strong stretch to chase these symptoms. Stop and get a qualified assessment."
         },
         {
           "type": "paragraph",
-          "text": "This lesson is humour-free because acute injury, instability, and neurological symptoms require clear care decisions."
+          "text": "This section has no humour, because fresh injuries, unstable joints and nerve symptoms need clear care decisions."
         }
       ]
     },
@@ -244,28 +244,28 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Retest the named task under similar conditions. Can you reach, turn, step, or use the position more comfortably? Is the range easier to control? Did the change last beyond the immediate stretch?"
+          "text": "Test your chosen task again under the same conditions. Can you reach, turn, step or hold the position more comfortably? Is the range easier to control? Did the change last after the stretch?"
         },
         {
           "type": "paragraph",
-          "text": "An immediate increase can reflect reduced tension or greater tolerance. Longer-term change requires repeated practice and continued use of the range. Strengthening the available range can help make it functional."
+          "text": "A quick gain right after stretching may just mean less tension or more tolerance. Lasting change takes repeated practice and using the new range. Strengthening that range helps make it useful."
         },
         {
           "type": "paragraph",
-          "text": "Review every two to four weeks. Keep the useful stretch, adjust one dose feature, or replace the exercise if the task does not improve. After illness, injury, or a flare, return to an easier version."
+          "text": "Review every two to four weeks. Keep the stretch that helps, adjust one part of the dose, or swap the exercise if the task doesn’t improve. After illness, injury or a flare-up, go back to an easier version."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A flexibility routine must keep getting deeper.”",
-              "text": "Maintenance may be the correct goal. Useful range that supports activity is more valuable than increasing range without a purpose."
+              "text": "Keeping your range may be the right goal. Useful range that supports your activities is worth more than more range for its own sake."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "A good session should leave the area comfortable and usable. More range accompanied by irritation is not a winning trade."
+          "text": "A good session should leave the area comfortable and usable. More range with irritation is not a winning trade."
         }
       ]
     },
@@ -276,11 +276,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Qualified help may be available through physiotherapy, occupational therapy, community health centres, recreation programs, Indigenous health organizations, campuses, and adapted exercise services. Public coverage, private benefits, referrals, regulation, and wait times vary by province and territory."
+          "text": "Qualified help may be available through physiotherapy, occupational therapy, community health centres, rec programs, Indigenous health organizations, campuses and adapted exercise services. Public coverage, work benefits, referrals, regulation and wait times vary by province and territory."
         },
         {
           "type": "paragraph",
-          "text": "CSEP professionals can provide exercise guidance within their scope. Physiotherapists assess and treat movement and injury concerns. Use qualified care when symptoms, surgery, instability, or a condition changes stretching choices."
+          "text": "CSEP professionals can guide your exercise within their training. Physiotherapists assess and treat movement and injury problems. Get qualified care when symptoms, surgery, unstable joints or a health condition affect your stretching choices."
         },
         {
           "type": "heading",
@@ -288,11 +288,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Flexibility work is most useful when it serves a specific task, uses a tolerable dose, and matches the timing and condition of the body. Stretch for useful range, then practise control and strength there."
+          "text": "Flexibility work helps most when it serves a specific task, uses a tolerable dose and fits the timing and state of your body. Stretch for useful range, then practise control and strength there."
         },
         {
           "type": "spotlight",
-          "text": "Save one photo or written setup cue for each stretch. “Left foot forward, heel down” is more useful than rebuilding the pose from memory while leaning against a laundry basket."
+          "text": "Save one photo or written setup cue for each stretch. “Left foot forward, heel down” beats rebuilding the pose from memory while leaning against a laundry basket."
         }
       ]
     },
@@ -330,7 +330,7 @@
               "text": ""
             },
             {
-              "title": "What actually helped Sophie's discomfort?",
+              "title": "What helped Sophie's discomfort?",
               "detail": "Improved desk setup, movement breaks, upper-back and shoulder movement, rowing, and one focused stretch.",
               "text": ""
             },
@@ -409,24 +409,20 @@
   },
   "checkIn": {
     "questions": [
-      "The task or position I want to improve is:",
-      "The area that seems to limit it is:",
-      "Dynamic or static work fits because:",
-      "My supported starting position is:",
-      "My tolerable stretch sensation is:",
-      "My starting dose is:",
-      "My task retest date is:",
-      "A symptom that means stop is:"
+      "What task or position do you want to improve?",
+      "Which area seems to limit it?",
+      "Will you use dynamic or static work, and why?",
+      "What is your supported starting position?",
+      "What is your starting dose?",
+      "Which symptom means you should stop?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: reaching the top kitchen shelf.",
+      "For example: my chest and upper back.",
+      "For example: static, after my evening walk, because the goal is more range.",
+      "For example: doorway chest stretch with my elbow at shoulder height.",
+      "For example: 30-second hold, 2 times, most days.",
+      "For example: tingling or numbness down my arm."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not personal medical care."

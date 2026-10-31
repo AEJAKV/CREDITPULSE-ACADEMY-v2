@@ -227,7 +227,7 @@ Six lessons had `ordered` lists corrupted at extraction (each item reduced to it
 | benefits-29 | Provincial Benefit Finders | done 2026-10-30 | 10.15 → 7.45 | 11.33 → 5.24 |
 | benefits-30 | How to Apply Without Getting Scammed | done 2026-10-30 | 9.75 → 7.49 | 10.93 → 5.44 |
 
-Untreated: health (29 lessons) has not been audited against this table yet.
+Health was the last untreated course. Credit and money were treated earlier under older rules; see their sections for remaining gaps.
 
 ## v2 income-business rollout (`content/income-NN-lesson.json`)
 
@@ -292,3 +292,46 @@ Figures checked against official sources on 2026-10-30: CRA 2026 payroll (CPP 5.
 | tax-18 | Self-Employment Taxes | done 2026-10-30 (self-employed CPP panel with worked example; instalment test, dates and reminder safe harbour) | 11.28 → 8.11 | 9.23 → 6.21 |
 | tax-19 | GST/HST for Small Businesses | done 2026-10-30 (quarter arithmetic in story; ITC receipt tiers; Quick Method $400,000) | 11.77 → 8.03 | 11.41 → 5.57 |
 | tax-20 | Keeping CRA Records | done 2026-10-30 (late-filing retention timing; Canadian copy of cloud records; seven-question form cut to six) | 12.57 → 7.85 | 10.15 → 6.06 |
+
+## v2 health-fitness rollout (`content/health-NN-lesson.json`)
+
+Completed 2026-10-31. All 30 lessons carry both banners (after section 01 and after the story section), no outcomes list, a six-question fill-out form with sample answers, teaching prose at or below grade 8.1 and stories at or below grade 6.7, each rebuilt around a decision the character makes. Lessons 01 to 15 (long format, 12 or 13 sections) had no banners and eight-question forms with no samples; lessons 16 to 30 (newer format) had their first banner in section 02, a "Module 1.x" next-up label and a numbered lead ("Advanced Fitness and Healthy Living · 1.x"), now replaced by a step flow. The same numbered lead was also fixed in income-11 to 15.
+
+health-20 Kickboxing Fitness did not exist: the curriculum listed it and health-19 pointed to it, so learners saw a placeholder. It was written from scratch in the health-19 format (non-contact, kicks at hip height or lower with support, screening and stop rules) and registered in `lib/content.ts`. It has no hero image yet; `public/images/health-fitness/04-platinum/health-20/` is empty.
+
+Three stories reused names from earlier lessons (Marcus three times, Elise twice) and were renamed. Every "Section NN" pointer was checked against the real section order.
+
+Health figures checked: Canadian 24-Hour Movement Guidelines (150 minutes, strength twice weekly, 7 to 9 hours sleep, 7 to 8 for 65+, 8 hours or less sedentary), Health Canada leftovers guidance (2 hours, 2 to 3 days, 74°C), Health Canada caffeine (400 mg), front-of-package labelling, 9-8-8 Suicide Crisis Helpline. Training figures (sets, reps, protein, stretch dose, step counts, habit timing) follow mainstream research summaries and are framed as general ranges.
+
+| Lesson | Course | Treatment | Teaching grade | Story grade |
+|---|---|---|---|---|
+| health-01 | Beginner Fitness for Men | done 2026-10-31 (sleep range added) | 7.17 → 7.00 | 6.42 → 5.26 |
+| health-02 | Beginner Fitness for Women | done 2026-10-31 (pelvic-floor wording neutral) | 8.60 → 7.78 | 6.72 → 5.29 |
+| health-03 | Home Workouts | done 2026-10-31 | 7.86 → 7.68 | 6.23 → 6.05 |
+| health-04 | Gym Fundamentals | done 2026-10-31 (grade 9.3 to 7.8) | 9.34 → 7.82 | 7.12 → 5.23 |
+| health-05 | Strength Training | done 2026-10-31 (8 to 15 rep starting range) | 8.69 → 8.05 | 7.37 → 5.17 |
+| health-06 | Muscle Building | done 2026-10-31 (evidence panel: about 10 hard sets per muscle a week, 6 to 30 reps near failure, about 1.6 g/kg protein; broken spotlight fixed) | 10.27 → 7.16 | 8.62 → 4.73 |
+| health-07 | Fat-Loss Fundamentals | done 2026-10-31 (safe pace about 0.5 to 1 kg a week; protein and strength to keep muscle) | 9.79 → 8.04 | 7.77 → 6.10 |
+| health-08 | Low-Impact Fitness | done 2026-10-31 (two-hour joint-pain rule) | 9.51 → 7.78 | 7.59 → 5.39 |
+| health-09 | Fitness Over 40 | done 2026-10-31 (midlife muscle and bone loss; Osteoporosis Canada advice) | 9.70 → 7.36 | 9.32 → 6.00 |
+| health-10 | Fitness Over 50 | done 2026-10-31 (falls as leading cause of injury hospitalization for older Canadians; frequent balance practice) | 10.43 → 7.97 | 5.31 → 4.40 |
+| health-11 | Mobility | done 2026-10-31 (starting dose 2 or 3 sets of 5 to 10 reps) | 9.11 → 7.29 | 6.70 → 5.42 |
+| health-12 | Flexibility | done 2026-10-31 (stretch dose panel (10 to 30 s holds, about 60 s per stretch)) | 9.69 → 7.28 | 7.69 → 5.51 |
+| health-13 | Core Strength | done 2026-10-31 (side planks and one-handed carries; short holds) | 8.91 → 7.17 | 5.43 → 4.79 |
+| health-14 | Resistance-Band Training | done 2026-10-31 (bands and weights give similar strength gains) | 9.09 → 7.21 | 7.54 → 4.67 |
+| health-15 | Bodyweight Training | done 2026-10-31 (stale end-of-series note replaced with next-up link) | 9.60 → 7.60 | 7.13 → 5.14 |
+| health-16 | HIIT | done 2026-10-31 (McMaster HIIT evidence and 10 x 1-minute protocol; wrong Section 04 pointers) | 8.24 → 7.17 | 8.40 → 5.62 |
+| health-17 | Walking Programs | done 2026-10-31 (step research (about 7,000 a day); 100 steps a minute) | 6.59 → 5.62 | 7.97 → 5.94 |
+| health-18 | Running Programs | done 2026-10-31 (8 to 10 week run/walk build; overuse warning signs; third Marcus renamed) | 6.93 → 5.71 | 7.22 → 6.30 |
+| health-19 | Boxing Fitness | done 2026-10-31 (hand wraps; quick heart-rate rise) | 7.64 → 6.19 | 7.79 → 5.71 |
+| health-20 | Kickboxing Fitness | done 2026-10-31 (NEW lesson written from scratch (was missing; placeholder shown)) | new → 4.95 | new → 4.83 |
+| health-21 | Yoga | done 2026-10-31 (teacher training; low back pain research) | 6.89 → 6.15 | 7.57 → 6.35 |
+| health-22 | Pilates | done 2026-10-31 (wrong Section 02 pointer; low back pain research) | 7.16 → 5.99 | 7.92 → 6.68 |
+| health-23 | Desk-Worker Mobility | done 2026-10-31 (8-hour sitting limit from the guidelines) | 7.17 → 6.22 | 7.35 → 6.70 |
+| health-24 | Healthy Meal Planning | done 2026-10-31 (food safety checked against Health Canada; free food guide recipes) | 6.22 → 5.23 | 7.23 → 6.49 |
+| health-25 | Protein and Nutrition Basics | done 2026-10-31 (protein panel (0.8 g/kg baseline, 1.0 to 1.6 g/kg active and older, food amounts); front-of-package symbol) | 7.05 → 5.79 | 8.11 → 5.97 |
+| health-26 | Sleep and Recovery | done 2026-10-31 (400 mg caffeine limit; CBT-I for lasting insomnia) | 7.76 → 6.80 | 6.77 → 5.50 |
+| health-27 | Habit Building | done 2026-10-31 (habit research (median 66 days, 18 to 254)) | 5.89 → 5.18 | 6.72 → 4.91 |
+| health-28 | Stress Management | done 2026-10-31 (help lines 9-8-8, 2-1-1, Hope for Wellness, Kids Help Phone; EAPs) | 7.83 → 6.80 | 9.00 → 6.27 |
+| health-29 | Thirty-Day Challenges | done 2026-10-31 (session math checked) | 7.64 → 6.37 | 7.06 → 6.05 |
+| health-30 | Twelve-Week Transformations | done 2026-10-31 (end-of-fifteen-module note replaced with course-complete message; strength as next focus) | 7.18 → 6.35 | 7.06 → 6.16 |

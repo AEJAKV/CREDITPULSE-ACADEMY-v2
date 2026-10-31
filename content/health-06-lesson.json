@@ -12,36 +12,17 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This course provides general education, not personal medical or nutrition care. Complete CSEP's Get Active Questionnaire before a major increase in activity. Seek qualified advice for a medical condition, recent surgery, pregnancy or postpartum recovery, injury, unexplained symptoms, medicines that affect exercise, or a history of disordered eating. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
+          "text": "This lesson is general education, not personal medical or nutrition care. Fill out CSEP’s Get Active Questionnaire before a big increase in activity. Get qualified advice if you have a health condition, recent surgery, pregnancy or postpartum recovery, an injury, symptoms you can’t explain, medicines that affect exercise or a history of disordered eating. Stop and get urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
         },
         {
           "type": "paragraph",
-          "text": "Muscle growth does not come from one magic exercise, food, or powder. You will examine four conditions: training signal, useful volume, food, and recovery. The lab coat is optional. The shaker bottle is not a personality."
+          "text": "Muscle growth doesn’t come from one magic exercise, food or powder. You’ll look at four conditions: the training signal, enough work, food and recovery. The lab coat is optional. The shaker bottle is not a personality."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "How muscle building differs from general strength training.",
-              "text": ""
-            },
-            {
-              "title": "How exercise selection, effort, volume, and progression support growth.",
-              "text": ""
-            },
-            {
-              "title": "Why food, protein, energy, and sleep matter.",
-              "text": ""
-            },
-            {
-              "title": "How to judge progress without chasing daily scale changes.",
-              "text": ""
-            },
-            {
-              "title": "How to recognize supplement and bodybuilding-product risks.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Build real muscle with a plan that works, without wasting money on shortcuts.",
+          "detail": "When training, food and sleep line up, steady growth follows, and you can see it in your logbook first.",
+          "extra": "Section 05 shows how hard each set should feel."
         }
       ]
     },
@@ -52,26 +33,26 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Muscle building means gradually increasing muscle tissue. Strength and muscle size are related, but they are not identical. Early strength gains often come partly from learning the movement and using existing muscle more effectively."
+          "text": "Muscle building means slowly adding muscle tissue. Strength and muscle size are linked, but they aren’t the same. Early strength gains come partly from learning the move and using the muscle you already have better."
         },
         {
           "type": "paragraph",
-          "text": "Muscle growth is slow and varies with training history, age, sex-related biology, genetics, food access, sleep, health, medicines, and program consistency. A beginner may notice performance changes before visible changes."
+          "text": "Muscle grows slowly, and the pace varies with your training history, age, sex, genes, access to food, sleep, health, medicines and how steady your program is. A beginner may notice better performance before any visible change."
         },
         {
           "type": "paragraph",
-          "text": "Choose a reason that supports your life: maintain muscle while aging, improve physical capacity, support a sport, feel stronger after a period of inactivity, or pursue physique goals without sacrificing health."
+          "text": "Choose a reason that supports your life: keeping muscle as you age, doing more in daily life, playing a sport, feeling stronger after time off or reaching a physique goal without hurting your health."
         },
         {
           "type": "spotlight",
-          "text": "Better technique, more controlled repetitions, or a small load increase may appear before measurements change. Early progress often introduces itself quietly."
+          "text": "Better form, more controlled reps or a small jump in weight may show up before your measurements change. Early progress tends to arrive quietly."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“One body type proves a program works for everyone.”",
-              "text": "Photos do not reveal genetics, training history, lighting, editing, drugs, illness, or the full routine. A body is not a product review."
+              "text": "Photos don’t show genes, training history, lighting, editing, drugs, illness or the full routine. A body is not a product review."
             }
           ]
         },
@@ -81,7 +62,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Pick two performance signals and one optional body-composition signal. Performance may include repetitions, resistance, range, or exercise control. Optional body signals may include how clothing fits or a measurement taken infrequently and neutrally."
+          "text": "Pick two performance signals and one optional body signal. Performance can mean reps, weight, range or control. A body signal can be how your clothes fit or a measurement taken now and then, without judgment."
         }
       ]
     },
@@ -92,19 +73,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Muscles need repeated resistance that is challenging enough to require adaptation. Use exercises that train the major muscle groups through a comfortable range."
+          "text": "Muscles need repeated resistance that’s hard enough to force them to adapt. Use exercises that train the major muscle groups through a comfortable range."
         },
         {
           "type": "paragraph",
-          "text": "A whole-body base can include a squat or leg press, hinge or hip extension, push, pull, step or single-leg task, and carry or trunk-control exercise. Some learners later add focused work for shoulders, arms, calves, or other areas."
+          "text": "A whole-body base can include a squat or leg press, a hinge or hip lift, a push, a pull, a step or one-leg move, and a carry or core exercise. Later, some people add focused work for shoulders, arms, calves or other areas."
         },
         {
           "type": "paragraph",
-          "text": "Technique sets the boundary. Choose a version you can control. Use normal breathing. Stop when the intended muscle can no longer perform the movement without the rest of the body inventing a committee solution."
+          "text": "Form sets the limit. Choose a version you can control, and keep breathing. Stop when the target muscle can no longer do the move without the rest of your body forming a rescue committee."
         },
         {
           "type": "spotlight",
-          "text": "Keep core exercises long enough to improve setup and compare performance. Change an exercise when there is a reason, such as pain, poor fit, unavailable equipment, or a stalled progression."
+          "text": "Keep your main exercises long enough to improve your setup and compare results. Change an exercise only for a reason, such as pain, a poor fit, missing equipment or progress that has stalled."
         }
       ]
     },
@@ -115,15 +96,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Training volume describes how much work you perform. Sets, repetitions, resistance, range, and weekly frequency all contribute."
+          "text": "Training volume is how much work you do. Sets, reps, weight, range and how many days a week all add to it."
         },
         {
           "type": "paragraph",
-          "text": "More work can create more stimulus up to the amount you can perform and recover from. Beyond that, extra sets may add fatigue without useful quality. Beginners can start with one controlled set per movement and gradually add selected sets as technique and recovery allow."
+          "text": "More work can mean more growth, up to the amount you can do well and recover from. Past that point, extra sets add tiredness without much benefit. Beginners can start with one controlled set per move and add sets slowly as form and recovery allow."
         },
         {
           "type": "paragraph",
-          "text": "Train the major muscle groups at least twice weekly to align with Canadian adult movement guidance. A muscle-building plan may eventually use more work, but the exact amount depends on the learner and should rise gradually."
+          "text": "Train the major muscle groups at least twice a week, in line with Canada’s guidelines for adults. A muscle-building plan may use more work over time, but the amount should rise slowly."
         },
         {
           "type": "myths",
@@ -131,6 +112,29 @@
             {
               "title": "“If some training works, twice as much works twice as fast.”",
               "text": "The body adapts between sessions. A sudden jump in sets, load, or frequency can outpace recovery. Mathematics has been asked to leave the weight room."
+            }
+          ]
+        },
+        {
+          "type": "glasspanel",
+          "text": "What the research suggests",
+          "detail": "For most healthy adults, built up over months",
+          "items": [
+            {
+              "title": "Weekly sets",
+              "text": "About 10 — hard sets per muscle group each week works well for growth. Beginners start far lower and build up."
+            },
+            {
+              "title": "Reps per set",
+              "text": "6 to 30 — almost any range can build muscle if the set ends close to failure. Moderate ranges, around 8 to 15, are easiest to learn."
+            },
+            {
+              "title": "Protein",
+              "text": "About 1.6 g per kg — of body weight a day, from food. More than that adds little extra muscle for most people."
+            },
+            {
+              "title": "Sleep",
+              "text": "7 to 9 hours — a night, as Canada’s guidelines recommend for adults."
             }
           ]
         }
@@ -143,19 +147,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A muscle-building set should become demanding, but the exercise must remain recognizable. Use a resistance that lets you perform several controlled repetitions. As the set continues, movement may slow slightly, but range, posture, and breathing should remain dependable."
+          "text": "A muscle-building set should get hard, but the exercise should still look like itself. Use a weight that lets you do several controlled reps. Near the end, the reps may slow a little, but your range, posture and breathing should hold."
         },
         {
           "type": "paragraph",
-          "text": "Stop with one or more clean repetitions likely still available, especially while learning. Training to complete failure is not required for every set. It can increase fatigue and make technique harder to maintain."
+          "text": "Stop with one or more clean reps likely still in the tank, especially while you’re learning. You don’t need to train to total failure on every set. It adds tiredness and makes good form harder to keep."
         },
         {
           "type": "paragraph",
-          "text": "Different repetition ranges can build muscle when the set provides suitable challenge, but very light or very heavy work can require more skill and careful programming. Beginners benefit from moderate loads they can control."
+          "text": "Many rep ranges can build muscle when the set is hard enough, but light or heavy work takes more skill and careful planning. Beginners do best with moderate weights they can control."
         },
         {
           "type": "spotlight",
-          "text": "They should feel meaningfully harder than the first two without becoming a different exercise. Challenge belongs in the muscle, not in a rescue mission."
+          "text": "The last two or three reps of a set should feel much harder than the first ones, without turning into a different exercise. The challenge belongs in the muscle, not in a rescue mission."
         },
         {
           "type": "heading",
@@ -163,7 +167,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Rest until breathing and focus settle and the next set can use dependable technique. Large, demanding exercises often need more rest than small isolation exercises. A timer can provide consistency, but your next set supplies the evidence."
+          "text": "Rest until your breathing and focus settle and you can do the next set with good form. Big exercises like squats often need more rest than small ones like curls. A timer helps you stay consistent, but your next set tells you if you rested enough."
         }
       ]
     },
@@ -174,15 +178,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "When an exercise reaches the upper end of your planned repetitions with clean form across more than one session, add a small amount of resistance. Repetitions may drop at first, then build again."
+          "text": "When you reach the top of your planned rep range with clean form for more than one session, add a small amount of weight. Your reps may drop at first, then build back up."
         },
         {
           "type": "paragraph",
-          "text": "If the smallest available weight jump is too large, progress through an extra repetition, a controlled pause, slightly more range, or another set where appropriate. Change one feature and observe recovery."
+          "text": "If the smallest weight jump is too big, progress with an extra rep, a controlled pause, a little more range or another set. Change one thing and watch how you recover."
         },
         {
           "type": "paragraph",
-          "text": "Avoid testing maximum strength often. Muscle building depends more on repeatable training volume than frequent demonstrations of the heaviest possible lift. The muscle cannot see the whiteboard record."
+          "text": "Don’t test your heaviest lift often. Muscle building depends more on steady, repeatable work than on showing off a one-time record. The muscle can’t see the whiteboard."
         }
       ]
     },
@@ -193,31 +197,32 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Devon",
+          "text": "Devon stops majoring in supplements",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Devon, 29, worked in Ottawa and had trained on and off for two years. His cupboard contained three tubs of powder and one unopened pre-workout sample with a name that sounded like a minor weather emergency. His program changed whenever a new video promised faster growth.",
-            "He simplified to two full-body sessions and one shorter optional session. He kept six main movements, added a set gradually, and logged repetitions and resistance. He ate regular meals containing protein foods, carbohydrates, vegetables or fruit, and fats that fit his culture, budget, and preferences.",
-            "Devon also moved his late workout earlier twice a week because it was disrupting sleep. After eight weeks, his row and squat variations had progressed, his shirts fit differently, and his routine cost less. The cupboard remained dramatic, but it was no longer in charge."
+            "Devon, 29, worked in Ottawa and had lifted on and off for two years. His cupboard held three tubs of powder and one unopened pre-workout sample with a name that sounded like a minor weather emergency. His program changed every time a new video promised faster growth.",
+            "One payday, a new “muscle accelerator” popped up in his feed for $89. He had it in his cart. Then he opened his workout notes and realized he couldn’t name a single lift that had improved in six months. He closed the tab and decided to try the boring version first.",
+            "He cut back to two full-body sessions and one shorter optional one. He kept six main moves, added a set slowly and wrote down his reps and weights. He ate regular meals with a protein food, plus carbs, vegetables or fruit and fats that fit his culture, budget and taste.",
+            "The twist came in week three. His lifts stalled, and he felt flat. Looking at his notes, he saw the pattern: his late-night sessions were wrecking his sleep. He moved two workouts to the morning.",
+            "Within a week, his energy came back. After eight weeks, his rows and squats had gone up, his shirts fit differently and his routine cost less.",
+            "The tubs are still in the cupboard. They just aren’t in charge anymore."
           ]
-        },
-        {
-          "type": "heading",
-          "text": "What Devon did well"
-        },
-        {
-          "type": "paragraph",
-          "text": "He created a stable training signal, increased work gradually, supported it with ordinary food, and protected sleep. He measured the program by performance and recovery instead of marketing volume."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Supplements build muscle when the program and meals are inconsistent.”",
-              "text": "Supplements cannot replace progressive training, adequate food, and recovery. A scoop is not a project manager."
+              "text": "Supplements can’t replace steady training, enough food and rest. A scoop is not a project manager."
             }
           ]
+        },
+        {
+          "type": "transition",
+          "text": "Consistent training, real food and good sleep beat any product on the shelf.",
+          "detail": "A stable plan you can measure shows you what’s working, and saves you money on what isn’t.",
+          "extra": "Section 08 covers the food that supports your training."
         }
       ]
     },
@@ -228,19 +233,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Muscle growth requires enough total food and protein to support training and recovery. Carbohydrate provides energy for activity. Dietary fats support health. Vegetables, fruits, whole grains, and varied protein foods contribute nutrients."
+          "text": "Muscle growth needs enough total food and enough protein to support training and recovery. Carbs fuel your workouts. Fats support your health. Vegetables, fruits, whole grains and a mix of protein foods add the nutrients."
         },
         {
           "type": "paragraph",
-          "text": "Protein foods include beans, lentils, tofu, nuts, seeds, eggs, fish, poultry, meat, yogurt, milk, and fortified soy beverages. Cultural and traditional foods can fit. Spread protein-containing foods across meals according to appetite, routine, access, and qualified guidance."
+          "text": "Protein foods include beans, lentils, tofu, nuts, seeds, eggs, fish, chicken, meat, yogurt, milk and fortified soy drinks. Cultural and traditional foods fit too. Spread protein across your meals in a way that suits your appetite, routine and budget."
         },
         {
           "type": "paragraph",
-          "text": "Canada's Food Guide does not prescribe one bodybuilding menu. Eat a variety of foods, make water your drink of choice, and choose a pattern you can maintain. A registered dietitian can individualize food needs for allergies, digestive conditions, kidney disease, diabetes, pregnancy, sport, food insecurity, or other concerns."
+          "text": "Canada’s Food Guide doesn’t give one bodybuilding menu. Eat a variety of foods, make water your drink of choice and choose a pattern you can keep up. A registered dietitian can tailor your needs for allergies, digestive problems, kidney disease, diabetes, pregnancy, sport or a tight food budget."
         },
         {
           "type": "spotlight",
-          "text": "First check whether regular meals contain a protein food and enough overall food. The perfect post-workout minute matters less than repeatedly missing lunch."
+          "text": "First check whether your regular meals include a protein food and enough food overall. The perfect post-workout minute matters less than skipping lunch over and over."
         }
       ]
     },
@@ -251,18 +256,18 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Training creates the challenge. Recovery allows adaptation. Use non-consecutive sessions for the same muscle groups when starting. Sleep consistently, include easier days, and avoid adding volume faster than soreness, energy, and performance can settle."
+          "text": "Training creates the challenge. Recovery lets your body adapt. When starting, leave a day between sessions for the same muscles. Sleep regularly, include easier days and don’t add work faster than your soreness, energy and performance can keep up."
         },
         {
           "type": "paragraph",
-          "text": "Canadian 24-Hour Movement Guidelines place physical activity, less sedentary time, and sleep in one full-day picture. More gym work cannot reliably repair chronic sleep loss."
+          "text": "Canada’s 24-Hour Movement Guidelines put activity, less sitting and sleep into one full-day picture. More gym time can’t make up for poor sleep night after night."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Severe soreness proves muscle growth.”",
-              "text": "Soreness often reflects unfamiliar work and can occur without better growth. Progress can happen with mild or no soreness. Sitting down should not require a strategy meeting."
+              "text": "Soreness often comes from new work and can happen without extra growth. You can make progress with mild soreness or none. Sitting down shouldn’t need a strategy meeting."
             }
           ]
         },
@@ -272,7 +277,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Hold or reduce training when performance drops across sessions, soreness interferes with normal tasks, joint pain rises, sleep worsens, motivation changes sharply, or illness appears. Persistent symptoms need qualified assessment."
+          "text": "Hold steady or cut back when your performance drops over several sessions, soreness gets in the way of daily tasks, joint pain grows, sleep gets worse, your motivation crashes or you get sick. Symptoms that last need a professional’s check."
         },
         {
           "type": "spotlight",
@@ -287,15 +292,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Supplements are optional. Health Canada warns that some bodybuilding products sold online or in stores contain hidden or unauthorized drug ingredients and may pose serious risks. Check for a valid eight-digit Natural Product Number or Drug Identification Number where applicable, but remember that authorization does not make a product necessary for you."
+          "text": "Supplements are optional. Health Canada warns that some bodybuilding products sold online or in stores contain hidden or unapproved drugs and can be dangerous. Look for a valid eight-digit Natural Product Number (NPN) or Drug Identification Number (DIN). But approval doesn’t mean you need the product."
         },
         {
           "type": "paragraph",
-          "text": "Creatine can improve some repeated short, intense efforts for some people, but it is not appropriate for everyone and may affect body weight through water retention. Discuss supplements with a physician, pharmacist, or registered dietitian when you have a health condition, take medicines, are pregnant or breastfeeding, or are unsure about safety."
+          "text": "Creatine can help with repeated short, hard efforts for some people, but it isn’t right for everyone and can raise body weight through extra water. Talk to a doctor, pharmacist or registered dietitian before taking supplements if you have a health condition, take medicines, are pregnant or breastfeeding, or aren’t sure they’re safe."
         },
         {
           "type": "paragraph",
-          "text": "Avoid anabolic steroids, SARMs, injectable peptides, and products promising drug-like results without proper medical care. There is no humour in this section because the health risks are real."
+          "text": "Avoid anabolic steroids, SARMs, injectable peptides and any product promising drug-like results outside proper medical care. There’s no humour in this section, because the health risks are real."
         }
       ]
     },
@@ -306,7 +311,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Food prices, facilities, and qualified services differ across Canada. Use affordable protein foods that fit local availability, including dried or canned beans, lentils, eggs, canned fish, dairy or fortified alternatives, tofu, and other options. Community health centres, public-health dietitians, recreation programs, friendship centres, and campus services may provide support. Eligibility and access vary."
+          "text": "Food prices, gyms and qualified help differ across Canada. Use affordable protein foods you can find locally, such as dried or canned beans, lentils, eggs, canned fish, milk or fortified soy drinks, and tofu. Community health centres, public-health dietitians, rec programs, friendship centres and campus services may help. What’s offered varies."
         },
         {
           "type": "heading",
@@ -314,11 +319,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Muscle growth needs a repeated resistance signal, enough quality work, adequate food, and recovery. Start with a stable program, progress gradually, measure several kinds of evidence, and treat supplements as optional products rather than the foundation."
+          "text": "Muscle growth needs a repeated resistance signal, enough quality work, enough food and recovery. Start with a steady plan, progress slowly, track more than one kind of result and treat supplements as optional extras, not the foundation."
         },
         {
           "type": "spotlight",
-          "text": "Repeat the same progress photos, measurements, or clothing check only occasionally and under similar conditions, if you use them at all. Better still, pair them with performance. Lighting can gain five kilograms of confidence before breakfast."
+          "text": "If you use progress photos, measurements or a clothing check, repeat them only now and then, under the same conditions. Better yet, pair them with your performance notes. Good lighting can add five kilograms of confidence before breakfast."
         }
       ]
     },
@@ -403,24 +408,20 @@
   },
   "checkIn": {
     "questions": [
-      "My main reason for building muscle is:",
-      "My two performance signals are:",
-      "My six main exercises are:",
-      "My starting weekly sessions are:",
-      "The first exercise ready for more work is:",
-      "My regular protein-food options include:",
-      "The recovery signal I will watch is:",
-      "One product claim I will verify before buying is:"
+      "What is your main reason for building muscle?",
+      "Which two performance signals will you track?",
+      "Which six main exercises will you use?",
+      "How many sessions a week will you start with?",
+      "What protein foods will you include in your regular meals?",
+      "Which product claim will you check before buying anything?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: to keep muscle as I get older.",
+      "For example: reps on the row and weight on the leg press.",
+      "For example: leg press, hip lift, push-up, row, step-up, carry.",
+      "For example: two full-body sessions, with an optional short third.",
+      "For example: eggs at breakfast, lentils at lunch, chicken or tofu at dinner.",
+      "For example: check the NPN on a protein powder in Health Canada’s database."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not personal medical or nutrition care."

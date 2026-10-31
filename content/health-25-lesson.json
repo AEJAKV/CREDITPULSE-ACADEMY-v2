@@ -1,6 +1,6 @@
 {
   "title": "Protein and Nutrition Basics",
-  "summary": "Advanced Fitness and Healthy Living · 1.10",
+  "summary": "Know the nutrients → Read the label → Compare fairly → Build a meal",
   "subtitle": "Choose everyday food with more confidence and less label confusion.",
   "minutes": 30,
   "published": true,
@@ -12,32 +12,13 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Some food packages give protein such large letters that the peas inside seem to need an agent. The useful details are usually quieter, and learning where to look can make shopping easier."
+          "text": "Some food packages print protein in letters so big that the peas inside seem to need an agent. The useful details are usually quieter, and knowing where to look makes shopping easier."
         },
         {
-          "type": "heading",
-          "text": "What you will learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Explain where protein fits in a varied eating pattern.",
-              "text": ""
-            },
-            {
-              "title": "Compare food labels without confusing grams and percentages.",
-              "text": ""
-            },
-            {
-              "title": "Choose practical protein foods, including plant options.",
-              "text": ""
-            },
-            {
-              "title": "Write one small food decision you can use in your own routine.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Choose food with confidence, not marketing.",
+          "detail": "Knowing how much protein you need, and how to read a label, helps you build meals that fuel you, before a package makes its sales pitch.",
+          "extra": "Section 03 shows you how to read a label the right way."
         }
       ]
     },
@@ -48,28 +29,46 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Your body uses protein to build and maintain tissues, including muscles. Protein is a nutrient, which means something in food that your body needs; it is not only a product sold in a tub."
+          "text": "Your body uses protein to build and repair tissues, including muscle. Protein is a nutrient, which means something in food your body needs. It isn’t only a product sold in a tub."
         },
         {
           "type": "paragraph",
-          "text": "Food choices work together across days and weeks. This regular mix is your eating pattern, and it includes vegetables, fruit, whole grains and protein foods."
+          "text": "Your food choices work together over days and weeks. This regular mix is your eating pattern, and it includes vegetables, fruit, whole grains and protein foods."
         },
         {
           "type": "paragraph",
-          "text": "Carbohydrates supply energy and are found in foods such as rice, potatoes and fruit. Fibre is a type of carbohydrate in plant foods, including beans and whole grains; it supports bowel health. Fats also supply energy and help you absorb some nutrients, and foods such as nuts and canola oil provide unsaturated fats."
+          "text": "Carbohydrates give you energy and are found in foods like rice, potatoes and fruit. Fibre is a type of carbohydrate in plant foods, including beans and whole grains, and it helps your bowels. Fats also give energy and help you absorb some nutrients. Foods like nuts and canola oil provide healthy unsaturated fats."
         },
         {
           "type": "paragraph",
-          "text": "Beans, tofu, eggs and yogurt can all fit into everyday meals. Choose foods you enjoy and can access, and include plant protein foods often; a familiar meal can be a useful starting point."
+          "text": "Beans, tofu, eggs and yogurt can all fit into everyday meals. Choose foods you enjoy and can get, and include plant protein foods often. A familiar meal is a good place to start."
+        },
+        {
+          "type": "glasspanel",
+          "text": "How much protein, and where to find it",
+          "detail": "General guide for healthy adults",
+          "items": [
+            {
+              "title": "Basic daily need",
+              "text": "About 0.8 g per kg — of body weight a day. For a 70 kg adult, that is about 56 g."
+            },
+            {
+              "title": "Active adults and older adults",
+              "text": "About 1.0 to 1.6 g per kg — often helps people who strength train or are over 65 keep muscle."
+            },
+            {
+              "title": "Common foods",
+              "text": "An egg has about 6 g — 3/4 cup of cooked lentils about 13 g, 3/4 cup of Greek yogurt about 15 g and 75 g of cooked chicken about 23 g."
+            },
+            {
+              "title": "Spread it out",
+              "text": "Some at each meal — works better for muscle than most of it at dinner."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "This course offers general food education, not a personal protein target. If you have a prescribed diet, food allergies or questions about your needs, ask a registered dietitian or your health care provider before changing that plan."
-        },
-        {
-          "type": "transition",
-          "text": "Make everyday choices clearer",
-          "detail": "Recognise protein foods within a complete meal. This gives you a useful starting point before a package makes its sales pitch."
+          "text": "This lesson offers general food education, not a personal protein target. If you have kidney disease, a prescribed diet, food allergies or questions about your needs, ask a registered dietitian or your health care provider before changing your plan."
         }
       ]
     },
@@ -80,15 +79,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Start with a food you actually use, such as a breakfast cereal or canned soup. When comparing similar products, check the amount each label describes before comparing their numbers."
+          "text": "Start with a food you use, like a breakfast cereal or canned soup. When you compare similar products, check the amount each label describes before you compare the numbers."
         },
         {
           "type": "paragraph",
-          "text": "The Nutrition Facts table gives protein in grams for its listed serving size. That serving is a label reference, not an instruction about the portion you must eat."
+          "text": "The Nutrition Facts table gives protein in grams for the serving size listed. That serving is a reference amount on the label, not an instruction about how much you must eat."
         },
         {
           "type": "spotlight",
-          "text": "Use a fair comparison. If two packages describe different amounts of food, compare the same amount before deciding which has more protein."
+          "text": "Compare fairly. If two packages describe different amounts of food, compare the same amount before deciding which has more protein."
         },
         {
           "type": "heading",
@@ -96,36 +95,36 @@
         },
         {
           "type": "paragraph",
-          "text": "Here is an illustrative, made-up label: a bean mixture lists 8 g of protein per 125 mL. If you eat 250 mL of that mixture, the amount is twice the labelled serving, so it provides 16 g of protein."
+          "text": "Here’s a made-up label for practice: a bean mix lists 8 g of protein per 125 mL. If you eat 250 mL, that’s twice the listed serving, so you get 16 g of protein."
         },
         {
           "type": "paragraph",
-          "text": "This calculation tells you what is in that portion, not whether it meets your personal needs. The example is for learning label maths and does not describe a real brand."
+          "text": "This math tells you what’s in that portion, not whether it meets your own needs. The example is for practising label math and isn’t a real brand."
         },
         {
           "type": "spotlight",
-          "text": "Read the right unit. Protein grams describe an amount; a percent daily value shown for another nutrient is not a protein amount or your personal protein target."
+          "text": "Read the right unit. Protein in grams is an amount. A % Daily Value shown for another nutrient isn’t a protein amount or your personal protein target."
         },
         {
           "type": "paragraph",
-          "text": "Percent daily value, or % DV, helps show whether a labelled serving has a little or a lot of certain nutrients. Health Canada uses 5% DV or less for a little and 15% DV or more for a lot."
+          "text": "Percent Daily Value, or % DV, shows whether a serving has a little or a lot of certain nutrients. Health Canada says 5% DV or less is a little, and 15% DV or more is a lot."
         },
         {
           "type": "paragraph",
-          "text": "Look at the food beyond its protein line, including sodium, fibre and saturated fat. Ingredients appear in order by weight, with the largest amounts first; also check allergy information that matters to you."
+          "text": "Look at the whole food, not just the protein line, including sodium, fibre and saturated fat. Ingredients are listed by weight, largest first. Also check allergy information that matters to you. Packages now carry a magnifying-glass symbol on the front when they’re high in sodium, sugars or saturated fat."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“The package with the biggest protein number is always the best choice.”",
-              "text": "The amount described, the rest of the food and how it fits your meal also matter."
+              "text": "The amount the label describes, the rest of the food and how it fits your meal also matter."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Vitamins and minerals have important jobs too. For example, vitamin D helps your body use calcium, a mineral that supports bones and teeth. One food cannot cover every need, which is why the mix you eat matters."
+          "text": "Vitamins and minerals have important jobs too. For example, vitamin D helps your body use calcium, a mineral that supports bones and teeth. No single food covers every need, which is why the mix you eat matters."
         }
       ]
     },
@@ -140,23 +139,23 @@
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
           "paragraphs": [
-            "Edmonton transit driver Farid wanted a lunch he could enjoy during his split shift without buying another snack at the depot. He joked that the shiny protein display at his grocery store looked ready to run for office.",
-            "One evening, a large protein claim on a soup pouch caught his eye. He bought it with bread, expecting the pouch to be his whole lunch, but later noticed the Nutrition Facts table described only part of its contents.",
-            "Farid read the actual label again and worked out the numbers for what he ate. He still liked the soup, but realised that a bigger protein total did not tell him whether the lunch would suit his appetite or his break.",
-            "At home, he compared another soup using an equal amount and looked at sodium too. He decided to keep the first soup for occasional use and try a chickpea wrap with vegetables and fruit on his next shift.",
-            "He packed the wrap the night before and kept the filling chilled until his break. The food worked well, but the container did not: it was too wide for his lunch bag and squeezed the wrap against his water bottle.",
-            "Instead of buying a special meal kit, Farid used a narrower container he already owned. Over two more shifts, he adjusted how much he packed and added a snack when he wanted one.",
-            "His lunch routine still needed attention when his schedule changed, but he now had a meal he could carry and a way to read a label. At the next grocery visit, the protein display kept its campaign promises to itself while Farid checked the details."
+            "Farid drove a city bus in Edmonton and wanted a lunch he could enjoy during his split shift, without buying another snack at the depot. He joked that the shiny protein display at his grocery store looked ready to run for office.",
+            "One evening, a big protein claim on a soup pouch caught his eye. He bought it with some bread, expecting the pouch to be his whole lunch. Later he noticed the Nutrition Facts table described only part of the pouch.",
+            "Farid read the label again and did the math for what he would eat. He still liked the soup. But he realized a big protein number didn’t tell him whether the lunch would fill him up or fit his break.",
+            "At home, he compared another soup, using the same amount, and checked the sodium too. He had a choice: keep buying the flashy pouch, or try something new. He decided to keep the soup for now and then, and try a chickpea wrap with vegetables and fruit on his next shift.",
+            "He packed the wrap the night before and kept it cold until his break. The food worked well, but the container didn’t. It was too wide for his lunch bag and squashed the wrap against his water bottle.",
+            "Instead of buying a special meal kit, Farid used a narrower container he already owned. Over two more shifts, he adjusted how much he packed and added a snack when he wanted one. At his next grocery visit, the protein display kept its campaign promises to itself while Farid read the labels."
           ]
         },
         {
-          "type": "transition",
-          "text": "Fit food to your real day",
-          "detail": "A clear label check and a practical packing choice can help you build a lunch you will actually use. You can adjust the routine without buying a whole new system."
+          "type": "spotlight",
+          "text": "Solve the real obstacle. A good food choice still needs a container that works, a way to keep it cold and time to eat it."
         },
         {
-          "type": "spotlight",
-          "text": "Solve the actual obstacle. A useful food choice still needs a workable container, a suitable storage plan and time to eat it."
+          "type": "transition",
+          "text": "Fit the food to your real day, and the habit will stick.",
+          "detail": "A quick label check and a practical packing choice help you build a lunch you will eat, without buying a whole new system.",
+          "extra": "Section 05 shows you how to build a simple protein bowl."
         }
       ]
     },
@@ -167,7 +166,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Choose one meal that feels awkward. Name the obstacle first, such as food that is hard to carry or a recipe that takes too long."
+          "text": "Choose one meal that feels awkward. Name the obstacle first, like food that’s hard to carry or a recipe that takes too long."
         },
         {
           "type": "heading",
@@ -175,7 +174,7 @@
         },
         {
           "type": "paragraph",
-          "text": "This bowl is an educational example, not a personal meal prescription. Choose suitable foods from what you have and compare one useful label."
+          "text": "This bowl is an example, not a personal meal plan. Choose foods from what you have and compare one useful label."
         },
         {
           "type": "chips",
@@ -200,36 +199,36 @@
         },
         {
           "type": "spotlight",
-          "text": "Keep an easy plant option nearby. Canned beans can save preparation time; low-sodium versions are an option, and draining and rinsing canned beans can reduce sodium."
+          "text": "Keep an easy plant option on hand. Canned beans save prep time. Low-sodium versions help, and draining and rinsing canned beans cuts sodium further."
         },
         {
           "type": "paragraph",
-          "text": "Swap chickpeas for another suitable protein food if needed. Adjust the amount to your circumstances, and simplify the meal if equipment is limited."
+          "text": "Swap chickpeas for another protein food if you need to. Adjust the amount to suit you, and keep the meal simple if your kitchen is basic."
         },
         {
           "type": "paragraph",
-          "text": "Frozen vegetables can help when winter shopping is difficult. Change one part of your routine at a time to see what helps."
+          "text": "Frozen vegetables help when winter shopping is hard. Change one part of your routine at a time to see what helps."
         },
         {
           "type": "spotlight",
-          "text": "Plan food safety too. Refrigerate leftovers promptly, use them within 2 to 3 days or freeze them, and reheat to 74°C, checked with a digital food thermometer."
+          "text": "Plan for food safety too. Put leftovers in the fridge within two hours, use them within 2 to 3 days or freeze them, and reheat them to 74°C, checked with a digital food thermometer."
         },
         {
           "type": "paragraph",
-          "text": "Throw away cooked food left at room temperature for more than two hours. Its smell cannot confirm safety, and a cold Canadian day does not make an uncontrolled car or outdoor space a reliable refrigerator."
+          "text": "Throw out cooked food left at room temperature for more than two hours. Smell can’t confirm it’s safe, and a cold Canadian day doesn’t turn your car into a reliable fridge."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Learning about protein means everyone needs a protein supplement.”",
-              "text": "Supplements are not an automatic requirement; first consider your eating pattern and seek individual advice if you are unsure about your needs."
+              "text": "Supplements aren’t automatically needed. Most people can get enough protein from food. Look at your eating pattern first, and get personal advice if you’re unsure about your needs."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Write a replacement next to one shopping item, such as chickpeas or lentils. It gives you a practical choice when the shelf is empty, without changing the whole meal."
+          "text": "Insider tip: Write a backup next to one shopping item, like lentils for chickpeas. It gives you a practical choice when the shelf is empty, without changing the whole meal."
         }
       ]
     },
@@ -305,15 +304,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Write your own small plan using these questions. Choose a step you are ready to try or explore."
-        },
-        {
-          "type": "heading",
-          "text": "Chapter completion activity"
+          "text": "Write your own small plan using these questions. Choose a step you’re ready to try."
         },
         {
           "type": "paragraph",
-          "text": "Circle the step you intend to try or explore in your plan. Add your name and email below."
+          "text": "Circle the step you plan to try."
         },
         {
           "type": "checkin"
@@ -356,8 +351,8 @@
         },
         {
           "type": "transition",
-          "text": "Next up",
-          "detail": "Review your chosen plan and decide what you would keep or adjust after trying it. Return to the course menu to choose your next learning step."
+          "text": "Next up: Sleep and Recovery.",
+          "detail": "Learn how sleep and rest help your body recover and make every other healthy habit easier."
         },
         {
           "type": "source",
@@ -403,14 +398,20 @@
   },
   "checkIn": {
     "questions": [
-      "Which meal will you review?",
-      "Which step will you try?",
-      "What will make it workable?"
+      "Which meal or snack will you review?",
+      "Roughly how much protein do you aim for each day?",
+      "Which two labels will you compare, and on what amount?",
+      "Which protein food will you add or swap in?",
+      "What will make it workable on a busy day?",
+      "When will you try it?"
     ],
     "samples": [
-      "Name one meal or eating occasion that could be easier.",
-      "Compare one label, try a plant protein food, improve meal packing, or not sure. Choose one useful starting step.",
-      "Write one practical detail, such as a replacement ingredient or a suitable container."
+      "For example: my work lunch.",
+      "For example: about 0.8 g per kg of body weight, or ask my dietitian.",
+      "For example: two brands of canned chickpeas, per 125 mL, checking sodium too.",
+      "For example: Greek yogurt at breakfast, or lentils in my soup.",
+      "For example: a narrow container that fits my bag, packed the night before.",
+      "For example: Tuesday’s lunch."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

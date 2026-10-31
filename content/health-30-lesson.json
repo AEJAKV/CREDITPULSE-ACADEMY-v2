@@ -1,6 +1,6 @@
 {
   "title": "Twelve-Week Transformations",
-  "summary": "Advanced Fitness and Healthy Living · 1.15",
+  "summary": "Baseline → Make it work → Test support → Keep it",
   "subtitle": "Build a routine that still fits when ordinary life gets busy.",
   "minutes": 30,
   "published": true,
@@ -12,32 +12,13 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A twelve-week plan can look very tidy until the calendar meets a dentist appointment and three days of rain. Some planning apps seem to believe laundry does itself. A useful plan leaves room for ordinary life from the start."
+          "text": "A twelve-week plan can look tidy until the calendar meets a dentist appointment and three days of rain. Some planning apps seem to think laundry does itself. A useful plan leaves room for ordinary life from day one."
         },
         {
-          "type": "heading",
-          "text": "What you will learn"
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Choose a starting point based on your present routine.",
-              "text": ""
-            },
-            {
-              "title": "Use four phases across twelve weeks, with time to review.",
-              "text": ""
-            },
-            {
-              "title": "Track planned and actual actions fairly.",
-              "text": ""
-            },
-            {
-              "title": "Keep a workable routine beyond week twelve.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Build a routine that still works in three months, and beyond.",
+          "detail": "A clear starting point helps you choose a manageable action and see what needs changing, without judging your body.",
+          "extra": "Section 03 gives each three-week phase its own job."
         }
       ]
     },
@@ -48,24 +29,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Transformation here means a change in routines, skills and daily function. It might mean fitting a short walk around work or knowing how to restart after a busy week. It does not promise a change in body shape or weight."
+          "text": "In this lesson, transformation means a change in your routines, skills and daily life. It might mean fitting a short walk around work, or knowing how to restart after a busy week. It doesn’t promise a change in body shape or weight."
         },
         {
           "type": "paragraph",
-          "text": "First, notice what already happens in an ordinary week. This starting record is your baseline, and it helps you choose an action that fits. You do not need photos, a scale or a fitness test to begin."
+          "text": "First, notice what already happens in an ordinary week. This starting record is your baseline, and it helps you pick an action that fits. You don’t need photos, a scale or a fitness test to begin."
         },
         {
           "type": "paragraph",
-          "text": "Choose one main movement habit and protect recovery around it. Twelve weeks give you several chances to test and adjust that habit. The calendar marks review points, not a deadline for reaching a fixed fitness level."
+          "text": "Choose one main movement habit and protect your rest around it. Twelve weeks give you several chances to test and adjust that habit. The calendar marks review points, not a deadline for reaching a set fitness level."
         },
         {
           "type": "paragraph",
-          "text": "This course offers learning examples, not a personal exercise prescription. Before increasing activity, use CSEP’s Get Active Questionnaire and follow its guidance about seeking advice. Ask a qualified professional when you are unsure what suits you."
-        },
-        {
-          "type": "transition",
-          "text": "Make room for real life",
-          "detail": "A clear starting point helps you choose a manageable action and see what needs changing without judging your body."
+          "text": "This lesson offers learning examples, not a personal exercise prescription. Before you increase activity, use CSEP’s Get Active Questionnaire and follow its advice. Ask a qualified professional when you’re unsure what suits you."
         }
       ]
     },
@@ -76,7 +52,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Our four-phase framework is an original teaching tool, not an official health programme. Each phase lasts three weeks, so 3 + 3 + 3 + 3 = 12. Keep the same level longer whenever that is the better choice."
+          "text": "This four-phase plan is a Credit Pulse teaching tool, not an official health program. Each phase lasts three weeks, so 3 + 3 + 3 + 3 = 12. Stay at the same level longer whenever that’s the better choice."
         },
         {
           "type": "heading",
@@ -84,11 +60,11 @@
         },
         {
           "type": "paragraph",
-          "text": "In week one, record ordinary movement and available time without trying to overhaul either. In weeks two and three, test one modest action at planned times. Note what gets in the way and whether the action fits the rest of your day."
+          "text": "In week one, record your ordinary movement and free time without trying to change either. In weeks two and three, test one modest action at planned times. Note what gets in the way and whether the action fits the rest of your day."
         },
         {
           "type": "spotlight",
-          "text": "Write the opportunity before the result. “Tuesday after lunch: planned walk” tells you more than an empty square that could mean either a rest day or a missed chance."
+          "text": "Write the chance before the result. “Tuesday after lunch: planned walk” tells you more than an empty box that could mean either a rest day or a missed chance."
         },
         {
           "type": "heading",
@@ -96,7 +72,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Review the first phase before changing anything. You might move the cue, keep an indoor backup or shorten the action. If the current amount feels manageable and recovery is comfortable, you may choose a small increase in duration alone."
+          "text": "Review the first phase before changing anything. You might move the cue, keep an indoor backup or shorten the action. If the current amount feels manageable and you recover well, you can choose a small increase in time only."
         },
         {
           "type": "heading",
@@ -104,11 +80,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Hold movement steady while testing one optional support, such as planning two evening meals. Health Canada supports meal planning that fits your schedule. You can skip this addition if your main routine still needs attention."
+          "text": "Keep your movement steady while you test one optional support, like planning two evening meals. Health Canada encourages meal planning that fits your schedule. Skip this if your main routine still needs attention."
         },
         {
           "type": "spotlight",
-          "text": "Keep two counts: planned opportunities and completed actions. Record the easier version separately so you can see both participation and the amount actually done."
+          "text": "Keep two counts: planned chances and completed actions. Record the easier version separately so you can see both how often you showed up and how much you did."
         },
         {
           "type": "heading",
@@ -116,20 +92,20 @@
         },
         {
           "type": "paragraph",
-          "text": "Use a busy week to test your backup rather than adding more work. At week twelve, choose what to keep, what to revise and when to review again. A smaller routine that fits may be your most useful finding."
+          "text": "Use a busy week to test your backup instead of adding more work. At week twelve, choose what to keep, what to change and when to review again. A smaller routine that fits may be your most useful finding."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A twelve-week transformation needs a new goal every week.”",
-              "text": "Repeating a workable level gives you information about fit and recovery. You can finish twelve weeks without increasing the amount."
+              "text": "Repeating a workable level teaches you about fit and recovery. You can finish twelve weeks without increasing the amount at all."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Adult context: CSEP recommends 150 weekly minutes of moderate-to-vigorous aerobic activity, strength work at least twice weekly, and 7–9 hours’ sleep for ages 18–64. Adults 65+ have a 7–8-hour sleep recommendation. These are general guidelines, not this beginner example’s assignment."
+          "text": "For context, Canada’s guidelines for adults aged 18 to 64 recommend 150 minutes a week of moderate-to-vigorous activity, strength work at least twice a week and 7 to 9 hours of sleep. Adults 65 and older should aim for 7 to 8 hours of sleep and add balance work. These are general guidelines, not this beginner example’s assignment."
         }
       ]
     },
@@ -144,22 +120,23 @@
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
           "paragraphs": [
-            "Elise, a library assistant in Victoria, wanted enough room in her week for a walk she could enjoy with her sister. She had bought a twelve-week planner whose daily boxes were smaller than the library’s overdue stamps. Filling every box looked easier on paper than after a closing shift.",
-            "When her sister invited her on a long Saturday outing, Elise agreed and then worried about keeping up. Instead of making that outing her test, she proposed a short neighbourhood walk with a café stop. Her sister accepted, and Elise decided to build a routine before planning longer trips.",
-            "Her first-week record showed that lunch breaks varied, but two mornings were usually free. She planned two short walks each week and put rain gear beside her shoes. By week six, she had completed seven of ten planned walks, including two shorter versions.",
-            "A staff shortage then changed both morning shifts. Elise could squeeze walks in by getting less sleep, or change the plan. She kept the walking amount steady and moved one opportunity to her day off, leaving the other as optional until the rota settled.",
-            "The surprise was that her sister’s schedule changed too. Their shared Saturday walk disappeared, but a Wednesday phone call fitted both calendars. Elise walked a familiar flat route while they talked, and used an indoor option when heavy rain made that route unpleasant.",
-            "At week twelve, Elise had a short routine she could explain and restart. She had not reached a promised distance, and she still missed chances. She wrote her next review date across two planner boxes, leaving enough space for the life those boxes had once ignored."
+            "Grace worked at a library in Victoria and wanted room in her week for a walk she could enjoy with her sister. She had bought a twelve-week planner whose daily boxes were smaller than the library’s overdue stamps. Filling every box looked easier on paper than after a closing shift.",
+            "When her sister invited her on a long Saturday hike, Grace said yes, then worried about keeping up. She had a choice: train hard for the hike and hope, or start smaller. She suggested a short neighbourhood walk with a café stop instead. Her sister agreed, and Grace decided to build a routine before planning longer trips.",
+            "Her first-week record showed that her lunch breaks varied, but two mornings were usually free. She planned two short walks a week and put her rain gear beside her shoes. By week six, she had done seven of ten planned walks, including two shorter versions.",
+            "Then a staff shortage changed both of her morning shifts. Grace could squeeze in walks by sleeping less, or change the plan. She kept the walking amount the same, moved one walk to her day off and made the other optional until the schedule settled.",
+            "The surprise was that her sister’s schedule changed too. Their Saturday walk disappeared, but a Wednesday phone call fit both calendars. Grace walked a familiar flat route while they talked, and used an indoor option when heavy rain made the route miserable.",
+            "At week twelve, Grace had a short routine she could explain and restart. She hadn’t reached any promised distance, and she still missed chances sometimes. She wrote her next review date across two planner boxes, leaving room for the life those little boxes had once ignored."
           ]
         },
         {
-          "type": "transition",
-          "text": "Keep a return route",
-          "detail": "An easier version and a clear restart point help you carry a useful routine through changing weeks."
+          "type": "spotlight",
+          "text": "Grace changed the timing when work changed. She didn’t treat lost time as a reason to borrow from sleep or make up every missed walk."
         },
         {
-          "type": "spotlight",
-          "text": "Elise changed the timing when work changed. She did not treat lost time as a reason to borrow from sleep or make up every missed walk."
+          "type": "transition",
+          "text": "Keep a way back, and your routine survives every busy season.",
+          "detail": "An easier version and a clear restart point carry a useful routine through weeks that change without warning.",
+          "extra": "Section 05 gives you a twelve-week walking plan to adapt."
         }
       ]
     },
@@ -170,7 +147,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This learning example starts with someone who already walks comfortably for ten minutes and wants a regular schedule. Choose a smaller amount, another suitable activity or professional guidance if that does not fit."
+          "text": "This example is for someone who already walks comfortably for ten minutes and wants a regular schedule. Choose a smaller amount, another activity or professional guidance if that doesn’t fit."
         },
         {
           "type": "heading",
@@ -203,40 +180,40 @@
         },
         {
           "type": "paragraph",
-          "text": "Begin with five minutes of slow walking, continue for five minutes at a comfortable pace, then finish with two slower minutes. That totals twelve minutes, including the beginning and ending."
+          "text": "Start with five minutes of slow walking, keep going for five minutes at a comfortable pace, then finish with two slower minutes. That adds up to twelve minutes, including the start and finish."
         },
         {
           "type": "spotlight",
-          "text": "An easier option could be a five-minute gentle walk when you feel well but have less time. Record five actual minutes rather than counting it as the full twelve."
+          "text": "An easier option could be a five-minute gentle walk when you feel well but have less time. Record five real minutes, not the full twelve."
         },
         {
           "type": "paragraph",
-          "text": "Leave unplanned days available for recovery. Support movement with regular meals, fluids and sleep. Keep movement steady when adding an optional meal change."
+          "text": "Leave unplanned days for rest. Support your movement with regular meals, fluids and sleep. Keep your walking steady while you try an optional meal change. Once walking is steady, your next twelve weeks could add two short strength sessions a week, using the Strength Training or Bodyweight Training lesson."
         },
         {
           "type": "paragraph",
-          "text": "Stop for pain, chest pressure, faintness or extreme breathlessness. Seek urgent help for possible emergency symptoms; call 9-1-1. After illness or injury, get advice as needed before restarting."
+          "text": "Stop for pain, chest pressure, feeling faint or extreme breathlessness. Get urgent help for possible emergency symptoms, and call 911. After illness or injury, get advice as needed before you restart."
         },
         {
           "type": "spotlight",
-          "text": "After a pause, reassess your present starting point. Return to a comfortable earlier amount when appropriate, and review before increasing. Missed minutes are not a debt."
+          "text": "After a pause, check where you’re starting from now. Go back to a comfortable earlier amount when it makes sense, and review before you increase. Missed minutes are not a debt."
         },
         {
           "type": "paragraph",
-          "text": "Check current conditions before heading out. An icy Canadian winter path may call for an indoor backup; adjust for summer heat and local alerts. Choose suitable clothing and a safe place."
+          "text": "Check conditions before you head out. An icy winter path may call for an indoor backup, and summer heat and local alerts may call for other changes. Choose suitable clothing and a safe place."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Missing two sessions means doing twice as much next time.”",
-              "text": "Resume a suitable plan after checking how you feel. Doubling the amount does not repair a missed opportunity."
+              "text": "Go back to a suitable plan after checking how you feel. Doubling the amount doesn’t repair a missed chance."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Keep the backup beside the main plan: “If the route is unsafe, use my clear indoor space.” Decide this before conditions change."
+          "text": "Insider tip: Write your backup beside your main plan: “If the route is unsafe, I’ll use my clear indoor space.” Decide this before conditions change."
         }
       ]
     },
@@ -312,15 +289,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Write your own plan below. Use your current starting point, and keep private health details out of these fields."
-        },
-        {
-          "type": "heading",
-          "text": "Complete this chapter"
+          "text": "Write your own plan below. Start from where you are now, and keep private health details out of these fields."
         },
         {
           "type": "paragraph",
-          "text": "Write beside your plan: “For the next four weeks, I will keep ___ and review it on ___.” Add your name and email, then choose one course skill to practise again."
+          "text": "Finish this sentence beside your plan: “For the next four weeks, I will keep ___ and review it on ___.” Then choose one skill from this course to practise again."
         },
         {
           "type": "checkin"
@@ -349,7 +322,7 @@
             },
             {
               "title": "Actual amount",
-              "text": "The minutes or other amount you really completed."
+              "text": "The minutes or other amount you completed."
             },
             {
               "title": "Recovery support",
@@ -363,8 +336,8 @@
         },
         {
           "type": "transition",
-          "text": "Your next learning choice",
-          "detail": "You have reached the end of this fifteen-module course set. Keep your four-week maintenance plan and choose a lesson to revisit, such as recovery or habit building. Return to the course menu to make your next learning choice."
+          "text": "You have finished the Health & Fitness course.",
+          "detail": "Keep your four-week maintenance plan, and pick one lesson to revisit, such as Sleep and Recovery or Habit Building."
         },
         {
           "type": "source",
@@ -410,14 +383,20 @@
   },
   "checkIn": {
     "questions": [
-      "What action will you test, and when?",
-      "What will you do at your first review?",
-      "What is your easier version and restart step?"
+      "What action will you build your twelve weeks around?",
+      "What did your baseline week show you?",
+      "Which two times each week will you plan, and for how long?",
+      "What is your easier version, and your restart step after a pause?",
+      "When is your first review, and what might you decide?",
+      "What will you keep for the four weeks after week twelve?"
     ],
     "samples": [
-      "Name an action, amount and two opportunities. Example: ten-minute walk Tuesday and Saturday after breakfast.",
-      "Keep the amount, adjust the timing or amount, or not sure. Choose a likely decision and a date after your first three weeks.",
-      "Name a smaller busy-day action and an earlier comfortable restart level."
+      "For example: a ten-minute walk on Tuesday and Saturday mornings.",
+      "For example: lunch breaks vary, but two mornings are usually free.",
+      "For example: Tuesday and Saturday after breakfast, ten minutes each.",
+      "For example: a five-minute walk, and restarting at ten minutes after a break.",
+      "For example: end of week three. Keep the amount or add two minutes.",
+      "For example: two twelve-minute walks a week, reviewed at the end of the month."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

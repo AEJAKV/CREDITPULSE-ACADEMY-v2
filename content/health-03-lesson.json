@@ -12,36 +12,17 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This course provides general education, not personal medical care. Complete CSEP’s Get Active Questionnaire before a major increase in activity. Follow its advice if you answer yes to a screening question. Speak with a qualified health professional about relevant medical conditions, recent surgery, pregnancy or postpartum recovery, injury, unexplained symptoms, or medicines that affect exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
+          "text": "This lesson is general education, not personal medical care. Fill out CSEP’s Get Active Questionnaire before a big increase in activity, and follow its advice if you answer yes to any question. Talk with a qualified health professional about health conditions, recent surgery, pregnancy or postpartum recovery, injury, symptoms you can’t explain, or medicines that affect exercise. Stop and get urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
         },
         {
           "type": "paragraph",
           "text": "You will build a home workout by making practical decisions about space, movement, time, and progression. The room does not need exposed brick, matching dumbbells, or a fern that has somehow become a fitness influencer."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "How to inspect a home workout area before moving.",
-              "text": ""
-            },
-            {
-              "title": "How to create a balanced routine with body weight and household supports.",
-              "text": ""
-            },
-            {
-              "title": "How to scale six basic movement patterns.",
-              "text": ""
-            },
-            {
-              "title": "How to use small, standard, and extended sessions.",
-              "text": ""
-            },
-            {
-              "title": "How to progress without collecting equipment or injuries.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Get a full workout at home, with no commute, no membership and no excuses left standing.",
+          "detail": "A safe square of floor and six simple moves give you a routine you can do any day, in any weather.",
+          "extra": "Section 05 gives you a twelve-minute routine to start with."
         }
       ]
     },
@@ -276,23 +257,17 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Samira",
+          "text": "Samira’s one-square-metre plan",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Samira, 31, rented a small apartment in Winnipeg with her cousin. She saved home workouts online, but most required a long room, jumping, and equipment she did not own. Her exercise mat spent three months functioning as an expensive wall decoration.",
-            "She measured a safe square beside the sofa and moved one side table before each session. Her routine used chair rises, wall pushes, hinges, towel pulls, supported marches, and two water bottles for carries. On quiet evenings, she marched. When her cousin was sleeping after a night shift, she used slow seated steps instead.",
-            "Samira created three versions. The small session was the warm-up plus one circuit. The standard session used two circuits and ten minutes of cardio. The extended session added a walk outside when weather and sidewalks were safe.",
-            "She placed a short checklist inside a kitchen cupboard. Four weeks later, the movements felt smoother and the standard session no longer required negotiation with herself. She added a resistance band with a proper anchor. The mat was promoted from décor to employee."
+            "Samira, 31, shared a small apartment in Winnipeg with her cousin, who worked night shifts. She saved dozens of home workouts online, but most needed a big room, lots of jumping and equipment she didn’t own. Her exercise mat spent three months working as an expensive wall decoration.",
+            "One January evening, she nearly signed up for a gym across town with a $60 monthly fee. The bus ride was forty minutes each way, in the dark. She held her credit card for a while, then put it down and decided to try one more thing first: making her own apartment work.",
+            "She measured a safe square beside the sofa and moved one side table before each session. Her routine used chair rises, wall pushes, hinges, towel pulls, supported marches and two water bottles for carries. On quiet evenings she marched. When her cousin was sleeping after a night shift, she used slow seated steps instead.",
+            "She made three versions. The small session was the warm-up plus one circuit. The standard session was two circuits and ten minutes of cardio. The extended session added a walk outside when the weather and sidewalks were safe.",
+            "Two weeks in, she hit a snag: her cousin’s schedule changed, and her usual evening slot vanished. Instead of quitting, she switched to the small session before work for a week, and kept the habit alive.",
+            "Four weeks later, the moves felt smoother and the standard session no longer needed a negotiation with herself. She bought one resistance band with a proper door anchor. The mat was promoted from décor to employee."
           ]
-        },
-        {
-          "type": "heading",
-          "text": "What Samira did well"
-        },
-        {
-          "type": "paragraph",
-          "text": "She designed around real space, noise, weather, and another person’s schedule. She kept one movement menu while changing session size. Her environment became easier to use because the setup was simple."
         },
         {
           "type": "myths",
@@ -302,6 +277,12 @@
               "text": "Challenge comes from movement choice, resistance, range, pace, and duration. Location changes convenience, not physiology."
             }
           ]
+        },
+        {
+          "type": "transition",
+          "text": "Design your space once, and showing up gets easier every day.",
+          "detail": "A routine built around your real room, noise and schedule takes away the reasons to skip.",
+          "extra": "Section 08 shows how to use three session sizes."
         }
       ]
     },
@@ -554,24 +535,20 @@
   },
   "checkIn": {
     "questions": [
-      "My primary movement zone is:",
-      "The five-point scan found:",
-      "My six movement versions are:",
-      "My small session will take about:",
-      "My standard cardio option is:",
-      "My quiet or low-impact option is:",
-      "The first variable I may progress is:",
-      "The equipment I do not need yet is:"
+      "Where is your main movement zone, and your backup?",
+      "What did your safety scan find that you need to fix?",
+      "Which version of each of the six moves will you start with?",
+      "How long will your small session take?",
+      "What is your quiet or low-impact cardio option?",
+      "What is the first thing you’ll progress, and what equipment don’t you need yet?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: beside the sofa, with the hallway as backup.",
+      "For example: a loose rug and a rolling desk chair.",
+      "For example: chair rise, wall push, wall-tap hinge, towel pull, supported march, water-bottle carry.",
+      "For example: about ten minutes.",
+      "For example: marching in place, or seated steps when someone is sleeping.",
+      "For example: two more chair rises. I don’t need dumbbells yet."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not personal medical care."

@@ -12,47 +12,28 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This course provides general education, not personal medical care. Complete CSEP’s Get Active Questionnaire before a major increase in activity and follow its directions. Speak with a qualified health professional about relevant medical conditions, recent surgery, pregnancy or postpartum recovery, injury, unexplained symptoms, or medicines that affect exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
+          "text": "This lesson is general education, not personal medical care. Fill out CSEP’s Get Active Questionnaire before a big increase in activity and follow what it says. Talk with a qualified health professional about health conditions, recent surgery, pregnancy or postpartum recovery, injury, symptoms you can’t explain, or medicines that affect exercise. Stop and get urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, or sudden weakness or numbness."
         },
         {
           "type": "paragraph",
-          "text": "This course follows one gym visit from front desk to exit. You will learn what to ask, how to set up common equipment, what a simple session looks like, and how to leave without accidentally joining a competitive kettlebell league."
+          "text": "This lesson follows one gym visit from the front desk to the exit. You’ll learn what to ask, how to set up common equipment, what a simple session looks like and how to leave without accidentally joining a competitive kettlebell league."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "How to compare facilities and understand basic membership terms.",
-              "text": ""
-            },
-            {
-              "title": "How to request an orientation and identify qualified help.",
-              "text": ""
-            },
-            {
-              "title": "How to adjust cardio and resistance machines.",
-              "text": ""
-            },
-            {
-              "title": "How to share equipment and follow gym etiquette.",
-              "text": ""
-            },
-            {
-              "title": "How to complete and repeat a simple first session.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Walk into any gym knowing exactly what to do.",
+          "detail": "Knowing the room, the machines and the unwritten rules turns a nervous first visit into a routine you look forward to.",
+          "extra": "Section 03 shows how to get the most from your orientation."
         }
       ]
     },
     {
       "id": "facility",
-      "title": "Choose the Gym You Will Actually Use",
+      "title": "Choose the Gym You Will Use",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The best facility is not automatically the largest or newest. It fits your location, schedule, budget, accessibility needs, comfort, and training goals."
+          "text": "The best gym isn’t always the biggest or newest. It’s the one that fits where you live, when you’re free, what you can pay, your access needs, your comfort and your goals."
         },
         {
           "type": "paragraph",
@@ -92,7 +73,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Ask whether a staff orientation is included. A useful orientation covers emergency exits, first aid or automated external defibrillator location, cleaning stations, machine adjustments, change rooms, accessibility, and who can answer exercise questions."
+          "text": "Ask if a free staff tour is included. A good one shows you the exits, the first aid kit and the defibrillator (AED), where to clean equipment, how to set the machines, the change rooms and who can answer your questions."
         },
         {
           "type": "paragraph",
@@ -172,7 +153,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Begin with a machine that feels stable and understandable. A treadmill, stationary bike, recumbent bike, elliptical, rower, or upper-body ergometer can provide cardio, but each has a different setup and skill demand."
+          "text": "Start with a machine that feels steady and makes sense to you. A treadmill, bike, elliptical or rowing machine can all give you cardio, but each one sets up and feels different."
         },
         {
           "type": "heading",
@@ -239,27 +220,27 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Jordan",
+          "text": "Jordan’s twenty-five-minute first visit",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Jordan, 47, joined a community recreation centre in Edmonton after years away from structured exercise. He expected the first workout to prove he belonged. Instead, the trainer leading his included orientation asked him to make the first visit a rehearsal.",
-            "Jordan found the lockers, exits, cleaning stations, cardio area, and five resistance machines. He wrote the seat settings in his phone. His session was five easy minutes on a recumbent bike, one light set each on a leg press, chest press, seated row, leg curl, and cable-free core machine, then five minutes of easy walking.",
-            "He skipped the crowded free-weight area because it was not part of that day’s plan. He wiped each machine, returned one wandering attachment, and left while he still felt steady. The entire visit took twenty-five minutes.",
-            "On his third visit, Jordan knew the route and needed less time for setup. After two weeks, he added a few repetitions to two machines. He did not become a gym person through a dramatic transformation. He became someone who knew where the row machine was and returned on Thursday."
+            "Jordan, 47, joined a community recreation centre in Edmonton after years away from exercise. He expected his first workout to prove he belonged there. He had a plan: an hour, every machine, no breaks.",
+            "At his free orientation, the trainer asked to see his plan. She smiled and asked him a question instead: what if the first visit was a rehearsal? Jordan felt a flash of pride. He could do the full hour. But he also remembered how his last attempt at fitness had ended, three years earlier, with a sore back and a cancelled membership. He agreed to try it her way.",
+            "She showed him the lockers, exits, cleaning stations and five machines. He wrote each seat setting in his phone. His session was five easy minutes on a recumbent bike, one light set each on the leg press, chest press, seated row, leg curl and an ab machine, then five minutes of easy walking.",
+            "He skipped the crowded free-weight area, since it wasn’t part of that day’s plan. He wiped each machine, returned one wandering attachment and left while he still felt good. The whole visit took twenty-five minutes.",
+            "On his third visit, a teenager was using the row machine. A week earlier, Jordan might have given up and gone home. Instead, he used the planned swap, a cable row, and came back to the machine when it was free.",
+            "After two weeks, he added a few reps on two machines. Jordan didn’t become a gym person through a dramatic transformation. He became someone who knew where the row machine was, and came back on Thursday."
           ]
         },
         {
-          "type": "heading",
-          "text": "What Jordan did well"
-        },
-        {
-          "type": "paragraph",
-          "text": "He used orientation, rehearsed the space, recorded settings, kept the first dose small, and repeated it before progressing. Confidence followed familiarity."
-        },
-        {
           "type": "spotlight",
-          "text": "A short visit that teaches entry, setup, and flow reduces friction for every later session. Learning the room is legitimate work."
+          "text": "A short visit that teaches you the entrance, the setup and the flow makes every later session easier. Learning the room is real work."
+        },
+        {
+          "type": "transition",
+          "text": "Familiarity is the fastest path to confidence.",
+          "detail": "Rehearsing the space and keeping your first visits short makes it easy to come back, and coming back is what builds results.",
+          "extra": "Section 09 gives you a simple route for your first sessions."
         }
       ]
     },
@@ -270,7 +251,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Dumbbells, barbells, kettlebells, and cable stations offer flexible resistance. They also require more control, space awareness, and equipment knowledge."
+          "text": "Dumbbells, barbells, kettlebells and cable machines let you train in many ways. They also need more control, more space and more know-how."
         },
         {
           "type": "paragraph",
@@ -326,7 +307,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Rest as needed. The session length and exercises should match your starting point, screening result, ability, and professional guidance. Two non-consecutive full-body strength sessions can help adults work toward Canadian movement recommendations."
+          "text": "Rest as needed. Match the length and the moves to where you are now, your safety screen and any advice you’ve been given. Two non-consecutive full-body strength sessions can help adults work toward Canadian movement recommendations."
         },
         {
           "type": "myths",
@@ -358,11 +339,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Municipal recreation centres, university or college facilities, YMCAs, private gyms, community health centres, and Indigenous friendship or wellness centres may offer different prices, hours, programs, and accessibility. Ask about introductory tours, adapted equipment, older-adult sessions, women-only times, quiet hours, fee assistance, and virtual orientation."
+          "text": "City recreation centres, college gyms, YMCAs, private gyms, community health centres and Indigenous friendship centres all differ in price, hours, programs and access. Ask about free tours, adapted equipment, classes for older adults, women-only times, quiet hours, help with fees and online tours."
         },
         {
           "type": "paragraph",
-          "text": "In rural, northern, or remote communities, a school gym, community hall, workplace facility, or small recreation centre may be the local option. Confirm staffing, emergency procedures, weather closures, transport, and cellular access. Facility rules and professional regulation vary by province and territory."
+          "text": "In rural, northern or remote places, the local option may be a school gym, a community hall, a gym at work or a small rec centre. Check who’s on staff, what happens in an emergency, weather closures, how you’ll get there and whether your phone works inside. Facility rules and professional regulation vary by province and territory."
         },
         {
           "type": "heading",
@@ -378,7 +359,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Gym confidence comes from knowing the route. Compare the facility carefully, use the orientation, learn one equipment setup at a time, follow shared-space etiquette, and repeat a modest session before progressing."
+          "text": "Gym confidence comes from knowing the route. Choose your gym with care, use the tour, learn one machine at a time, follow shared-space manners and repeat a modest session before you add more."
         },
         {
           "type": "spotlight",
@@ -396,12 +377,12 @@
           "items": [
             {
               "title": "Name four factors that can matter more than a gym’s size.",
-              "detail": "Examples include location, schedule, cost, accessibility, comfort, transport, staffing, and suitable equipment.",
+              "detail": "For example: where it is, its hours, the cost, access, comfort, how you’ll get there, staff and the right equipment.",
               "text": ""
             },
             {
               "title": "What should a useful orientation cover?",
-              "detail": "Exits, emergency equipment, cleaning stations, facility layout, machine adjustments, accessibility, and where to get qualified help.",
+              "detail": "The exits, emergency gear, cleaning stations, the layout, how to set the machines, access features and where to get trained help.",
               "text": ""
             },
             {
@@ -421,7 +402,7 @@
             },
             {
               "title": "What does “working in” mean at a gym?",
-              "detail": "Alternating sets on the same equipment with another member, after asking and agreeing on settings or loads.",
+              "detail": "Taking turns on the same machine with another member, after asking and agreeing on the settings.",
               "text": ""
             },
             {
@@ -507,24 +488,20 @@
   },
   "checkIn": {
     "questions": [
-      "My three facility needs are:",
-      "My deal-breaker is:",
-      "The orientation will show me:",
-      "My cardio machine and starting setup are:",
-      "My four to six resistance exercises are:",
-      "My planned alternative when equipment is busy is:",
-      "The three items in my log will be:",
-      "My next visit is booked for:"
+      "What are your top three needs in a gym, and your deal-breaker?",
+      "What will you ask to see during your orientation?",
+      "Which cardio machine will you start on, and how will you set it up?",
+      "Which four to six resistance exercises will you start with?",
+      "What is your planned swap when equipment is busy?",
+      "When is your next visit booked?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: close to work, open early, accessible change room. Deal-breaker: no cancellation without fees.",
+      "For example: emergency exits, the defibrillator, the treadmill stop clip and how to set the leg press.",
+      "For example: recumbent bike, seat at notch 6, resistance level 3.",
+      "For example: leg press, chest press, seated row, leg curl and a core exercise.",
+      "For example: cable row instead of the row machine.",
+      "For example: Thursday at 6:30 a.m."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not personal medical care."

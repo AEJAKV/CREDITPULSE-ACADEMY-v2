@@ -12,36 +12,17 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This course provides general education, not diagnosis, treatment, or rehabilitation. Complete CSEP's Get Active Questionnaire before a major increase in activity and follow its directions. Seek qualified advice for a recent injury or surgery, repeated falls, joint instability, unexplained pain, weakness or numbness, pregnancy or postpartum concerns, or a health condition that changes exercise. Stop and seek urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, sudden neurological symptoms, a serious fall, or a new inability to bear weight."
+          "text": "This lesson is general education, not diagnosis, treatment or rehab. Fill out CSEP’s Get Active Questionnaire before a big increase in activity and follow what it says. Get qualified advice for a recent injury or surgery, repeated falls, a joint that gives way, pain, weakness or numbness you can’t explain, pregnancy or postpartum concerns, or a health condition that changes how you exercise. Stop and get urgent medical help for chest pressure or pain, fainting, severe or unusual shortness of breath, sudden nerve symptoms, a serious fall, or suddenly being unable to put weight on a leg."
         },
         {
           "type": "paragraph",
-          "text": "Your body provides the resistance, but it does not arrive with a tiny instruction manual attached to the elbow. This course gives you five controls for choosing a useful level."
+          "text": "Your body provides the resistance, but it doesn’t come with a tiny instruction manual taped to the elbow. This lesson gives you five controls for choosing the right level."
         },
         {
-          "type": "chips",
-          "items": [
-            {
-              "title": "What bodyweight training is and where it fits.",
-              "text": ""
-            },
-            {
-              "title": "How leverage changes exercise difficulty.",
-              "text": ""
-            },
-            {
-              "title": "How to choose push, pull, squat, hinge, step, and trunk patterns.",
-              "text": ""
-            },
-            {
-              "title": "How to progress without chasing exhaustion.",
-              "text": ""
-            },
-            {
-              "title": "How to build a short routine for home or travel.",
-              "text": ""
-            }
-          ]
+          "type": "transition",
+          "text": "Build real strength with nothing but your body and a sturdy chair.",
+          "detail": "Knowing how to make any move easier or harder means you can train anywhere, at exactly the right level.",
+          "extra": "Section 03 shows you the five controls that set the difficulty."
         }
       ]
     },
@@ -52,26 +33,26 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Bodyweight training uses your mass and gravity to challenge muscles. Chair rises, wall push-ups, step-ups, bridges, calf raises, and floor transitions are familiar examples. The same movement can feel gentle or demanding depending on position and leverage."
+          "text": "Bodyweight training uses your own mass and gravity to challenge your muscles. Chair rises, wall push-ups, step-ups, bridges, calf raises and getting down to the floor and up again are familiar examples. The same move can feel gentle or hard depending on your position and leverage."
         },
         {
           "type": "paragraph",
-          "text": "The goal is not to prove that you can exercise without equipment. Choose enough resistance for useful, controlled work. A countertop push-up may be far more productive than a floor push-up that changes shape halfway down."
+          "text": "The goal isn’t to prove you can exercise without equipment. Choose enough resistance for useful, controlled work. A countertop push-up may do far more for you than a floor push-up that changes shape halfway down."
         },
         {
           "type": "paragraph",
-          "text": "Give the training a destination: getting up from a low chair, climbing stairs, pushing a heavy door, or controlling a floor transfer."
+          "text": "Give your training a destination: getting up from a low chair, climbing stairs, pushing a heavy door or getting down to the floor and back up with control."
         },
         {
           "type": "spotlight",
-          "text": "Change the setup before rejecting the exercise. Height, support, stance, and range can turn one movement into several useful levels."
+          "text": "Change the setup before you give up on an exercise. Height, support, stance and range can turn one move into several useful levels."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Bodyweight training is always easy.”",
-              "text": "A movement can be gentle or extremely demanding. Leverage, range, speed, support, and single-limb loading change the challenge."
+              "text": "A move can be gentle or extremely hard. Leverage, range, speed, support and working one limb at a time all change the challenge."
             }
           ]
         },
@@ -92,30 +73,30 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Support. A wall push-up provides more support than a floor version. A chair or railing can assist a squat, step, balance task, or floor transition."
+          "text": "Support. A wall push-up gives more support than a floor push-up. A chair or railing can help with a squat, step, balance task or getting down to the floor."
         },
         {
           "type": "paragraph",
-          "text": "Body angle and range. Angle changes how much mass the muscles manage. Range changes how far the joints travel."
+          "text": "Body angle and range. Your angle changes how much of your weight the muscles handle. Range changes how far your joints move."
         },
         {
           "type": "paragraph",
-          "text": "Tempo and repetitions. Tempo changes how long the muscles work. Repetitions change the total dose."
+          "text": "Tempo and reps. Tempo, or how slowly you move, changes how long the muscles work. Reps change the total amount of work."
         },
         {
           "type": "paragraph",
-          "text": "Adjust one control at a time. If a chair rise is too hard, use a higher seat or hand support. If it becomes easy, slow the lowering or use a slightly lower stable seat. Fitness progress is often a small furniture adjustment wearing sensible shoes."
+          "text": "Adjust one control at a time. If a chair rise is too hard, use a higher seat or your hands. When it gets easy, lower more slowly or use a slightly lower, sturdy seat. Fitness progress is often a small furniture adjustment wearing sensible shoes."
         },
         {
           "type": "spotlight",
-          "text": "Record which one control changed so you know why the exercise became harder or easier."
+          "text": "Write down which control you changed, so you know why the exercise got harder or easier."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“A repetition only counts if it reaches a standard depth.”",
-              "text": "Useful range depends on the person, task, control, joint tolerance, and relevant professional guidance."
+              "text": "Useful range depends on the person, the task, control, how your joints feel and any professional advice."
             }
           ]
         }
@@ -128,19 +109,19 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Begin with a stable variation that allows steady breathing and repeatable form. Use a chair rise for a squat pattern, a wall or countertop for a push, a supported hinge or bridge for a hip pattern, and a suitable bird dog, elevated plank, or dead bug for trunk control."
+          "text": "Start with a steady version that lets you breathe normally and repeat good form. Use a chair rise for a squat, a wall or countertop for a push, a supported hinge or bridge for the hips, and a bird dog, raised plank or dead bug for core control."
         },
         {
           "type": "paragraph",
-          "text": "A balanced routine can include a knee-dominant move, a hip-dominant move, a push, a pull, a step or single-leg pattern, and trunk control. You do not need every pattern in every session."
+          "text": "A balanced routine can include a squat-type move, a hinge-type move, a push, a pull, a step or one-leg move, and core control. You don’t need every pattern in every session."
         },
         {
           "type": "paragraph",
-          "text": "Pulling is harder without suitable equipment. Use a professionally designed station, permitted supervised equipment, or a gym machine. Do not pull on tables, doors, rails, or fixtures not designed for exercise. A course should solve problems, not recruit the dining table into a high-risk internship."
+          "text": "Pulling is the hardest to do without equipment. Use a station built for it, supervised equipment where it’s allowed or a gym machine. A resistance band with a proper anchor also works. Don’t pull on tables, doors, railings or fixtures that aren’t built for exercise. This lesson should solve problems, not recruit the dining table into a risky internship."
         },
         {
           "type": "spotlight",
-          "text": "Bodyweight-only plans often miss pulling. Use suitable equipment or qualified guidance instead of a questionable household anchor."
+          "text": "Bodyweight-only plans often skip pulling. Use proper equipment or qualified advice, not a questionable household anchor."
         }
       ]
     },
@@ -151,22 +132,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Choose a variation that feels challenging near the end of a set while form stays controlled. Rest enough to repeat it well. Stop when speed, alignment, balance, or breathing changes noticeably, leaving several good repetitions in reserve while learning."
+          "text": "Choose a version that feels hard near the end of a set while your form stays controlled. Rest enough to do it well again. Stop when your speed, alignment, balance or breathing changes noticeably, leaving a few good reps in reserve while you learn."
         },
         {
           "type": "paragraph",
-          "text": "Progress by adding a controlled repetition, increasing range, reducing support, changing body angle, slowing the lowering, adding a pause, or adding a set. Change one feature, then observe the response later that day and the next morning."
+          "text": "Progress by adding a controlled rep, more range, less support, a harder body angle, a slower lowering, a pause or another set. Change one thing, then check how you feel later that day and the next morning."
         },
         {
           "type": "paragraph",
-          "text": "More soreness does not prove the workout was better. Progress appears as better control, repeatable work, a suitable harder variation, or an easier daily task."
+          "text": "More soreness doesn’t mean a better workout. Progress shows up as better control, work you can repeat, a harder version that suits you or an easier daily task."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Muscle soreness is required for progress.”",
-              "text": "Soreness varies with novelty, dose, recovery, and the individual. Effective training need not make stairs file a complaint."
+              "text": "Soreness varies with how new the work is, how much you did, recovery and the person. Good training doesn’t need to make the stairs file a complaint."
             }
           ]
         }
@@ -179,27 +160,27 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Marcus",
+          "text": "Kwame finds his real starting level",
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Marcus, 36, lived in Regina and saved a thirty-day push-up challenge. Day one demanded more floor push-ups than he could control. He completed several with a sagging trunk, then avoided the plan for a week. The calendar remained extremely motivated on his behalf.",
-            "Marcus started again with countertop push-ups, chair rises, supported split squats, bridges, and an elevated front support. Twice a week, he recorded setup height, range, and repetitions.",
-            "Once every repetition had steady breathing, he lowered the push-up surface slightly. For chair rises, he slowed the lowering before trying a lower seat. Only one control changed at a time.",
-            "After eight weeks, Marcus used a lower push-up surface and carried groceries upstairs with fewer pauses. He did not finish the internet challenge. He built a routine he could actually continue."
+            "Kwame, 36, drove a delivery truck in Regina and saved a thirty-day push-up challenge on his phone. Day one asked for more floor push-ups than he could control. He forced out a few with his hips sagging, felt sore and embarrassed, and avoided the plan for a week. The calendar stayed extremely motivated on his behalf.",
+            "When the app sent him a “Don’t give up!” reminder, he had a choice. He could try day one again and hope his body had changed, or he could find a starting level he could do well. He chose the second.",
+            "He started over with countertop push-ups, chair rises, supported split squats, bridges and a raised plank against the counter. Twice a week, he wrote down the surface height, his range and his reps.",
+            "Once every rep came with steady breathing, he moved the push-up to a slightly lower surface: from the counter to the back of a sturdy couch. For chair rises, he slowed the lowering before trying a lower seat. Only one control changed at a time.",
+            "In week five, a coworker challenged him to a floor push-up contest on their lunch break. Kwame was tempted. He did three clean ones, stopped while his form was still good and laughed off the loss.",
+            "After eight weeks, he did his push-ups from a low step and carried groceries up to his third-floor apartment with fewer stops. He never finished the internet challenge. He built a routine he could keep going."
           ]
         },
         {
-          "type": "heading",
-          "text": "What Marcus did well"
-        },
-        {
-          "type": "paragraph",
-          "text": "He chose a suitable level, recorded the setup, progressed one control, and measured success through useful movement."
-        },
-        {
           "type": "spotlight",
-          "text": "“Push-up” is incomplete. Record surface height, range, tempo, and repetitions."
+          "text": "“Push-up” is an incomplete note. Write down the surface height, range, tempo and reps."
+        },
+        {
+          "type": "transition",
+          "text": "Start at the right level, and progress takes care of itself.",
+          "detail": "Choosing a version you can do well, then changing one thing at a time, builds strength without the setbacks.",
+          "extra": "Section 07 helps you build a short session you can repeat."
         }
       ]
     },
@@ -210,15 +191,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Begin with a few minutes of easy movement and practise the planned ranges. Choose four or five patterns. Complete one or more controlled sets, rest as needed, and finish before technique becomes unreliable."
+          "text": "Start with a few minutes of easy movement and practise the ranges you’ll use. Choose four or five patterns. Do one or more controlled sets, rest as needed and finish before your technique gets unreliable."
         },
         {
           "type": "paragraph",
-          "text": "A simple session might include chair rises, countertop push-ups, supported split squats, bridges, and trunk control. Add safe pulling when suitable equipment is available. Keep the routine long enough to learn it."
+          "text": "A simple session might include chair rises, countertop push-ups, supported split squats, bridges and core control. Add safe pulling when you have suitable equipment. Keep the same routine long enough to learn it."
         },
         {
           "type": "paragraph",
-          "text": "Bodyweight training supports strength, but it does not replace aerobic activity, balance practice, mobility, sleep, or recovery. Fitness Foundations works best as a toolkit, not fifteen courses competing for the same Tuesday evening."
+          "text": "Bodyweight training builds strength, but it doesn’t replace cardio, balance practice, mobility, sleep or recovery. The lessons in this course work best as one toolkit, not separate plans competing for the same Tuesday evening."
         }
       ]
     },
@@ -229,28 +210,28 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Clear the floor, stabilize chairs, manage pets and cords, wear suitable footwear, and keep support within reach. Avoid unstable furniture, slippery surfaces, and improvised hanging or pulling setups."
+          "text": "Clear the floor, steady your chairs, keep pets and cords out of the way, wear suitable shoes and keep support within reach. Avoid wobbly furniture, slippery floors and makeshift hanging or pulling setups."
         },
         {
           "type": "paragraph",
-          "text": "Stop for sharp or worsening pain, numbness, progressive weakness, dizziness, unusual shortness of breath, joint instability, loss of balance, or symptoms that change normal movement. Seek qualified assessment when symptoms persist or affect daily function."
+          "text": "Stop for sharp or worsening pain, numbness, weakness that keeps getting worse, dizziness, unusual shortness of breath, a joint that gives way, losing your balance or symptoms that change how you normally move. Get a qualified check if symptoms last or affect your daily life."
         },
         {
           "type": "paragraph",
-          "text": "This section is humour-free because falls, neurological symptoms, significant pain, and equipment failure require direct decisions."
+          "text": "This section has no humour, because falls, nerve symptoms, serious pain and equipment failure need clear decisions."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Bodyweight exercise is automatically safer than external weights.”",
-              "text": "Falls, unsuitable leverage, poor support, excessive volume, and unstable surfaces can still create risk."
+              "text": "Falls, the wrong leverage, poor support, too much work and unstable surfaces can still cause injury."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "The useful set ends before position, balance, breathing, or range becomes unreliable."
+          "text": "A useful set ends before your position, balance, breathing or range gets unreliable."
         }
       ]
     },
@@ -261,11 +242,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Support may be available through CSEP-qualified exercise professionals, physiotherapists, kinesiologists, recreation centres, community health programs, Indigenous health organizations, campuses, seniors' programs, and adapted exercise services. Coverage, referrals, regulation, eligibility, facility rules, and wait times vary by province and territory."
+          "text": "Help may be available from CSEP professionals, physiotherapists, kinesiologists, rec centres, community health programs, Indigenous health organizations, campuses, seniors’ programs and adapted exercise services. Coverage, referrals, regulation, eligibility, facility rules and wait times vary by province and territory."
         },
         {
           "type": "paragraph",
-          "text": "A qualified professional can help select safe support, range, and progressions. Physiotherapists can assess pain and movement problems. Occupational therapists can help adapt daily tasks and the home environment."
+          "text": "A qualified professional can help you pick safe support, range and next steps. Physiotherapists can assess pain and movement problems. Occupational therapists can help you adapt daily tasks and your home."
         },
         {
           "type": "heading",
@@ -273,11 +254,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Bodyweight training is adjustable resistance. Use support, angle, range, tempo, and repetitions to choose a controlled level, cover useful movement patterns, and progress one feature at a time."
+          "text": "Bodyweight training is resistance you can adjust. Use support, angle, range, tempo and reps to pick a controlled level, cover the useful movement patterns and progress one thing at a time."
         },
         {
           "type": "spotlight",
-          "text": "Photograph the setup without people or private information. Future-you can then see which countertop and where the feet went."
+          "text": "Take a photo of your setup, with no people or private details in it. Future you can then see which countertop you used and where your feet went."
         }
       ]
     },
@@ -382,12 +363,9 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "Fitness Foundations complete"
-        },
-        {
-          "type": "paragraph",
-          "text": "You have reached the end of the 15-course series. Keep the worksheets that match your goals and revisit the safety guidance whenever your health, symptoms, or training demands change."
+          "type": "transition",
+          "text": "Next up: HIIT.",
+          "detail": "Learn how short bursts of harder effort can build fitness, and how to do them safely at your level."
         }
       ]
     }
@@ -402,24 +380,20 @@
   },
   "checkIn": {
     "questions": [
-      "My practical training target is:",
-      "My knee-dominant exercise is:",
-      "My hip-dominant exercise is:",
-      "My push exercise and surface height are:",
-      "My safe pull option is:",
-      "My trunk-control exercise is:",
-      "The first difficulty control I will change is:",
-      "My retest date is:"
+      "What do you want bodyweight training to help you do?",
+      "Which squat-type and hinge-type exercises will you use?",
+      "Which push will you use, and at what surface height?",
+      "What is your safe pulling option?",
+      "Which difficulty control will you change first?",
+      "When will you retest?"
     ],
     "samples": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "For example: carry groceries up to my apartment without stopping.",
+      "For example: chair rise and glute bridge.",
+      "For example: countertop push-up at kitchen-counter height.",
+      "For example: a band row with a proper door anchor, or the seated row machine at the rec centre.",
+      "For example: lower the push-up surface once every rep feels steady.",
+      "For example: in two weeks, on Sunday."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information, not personal medical care."

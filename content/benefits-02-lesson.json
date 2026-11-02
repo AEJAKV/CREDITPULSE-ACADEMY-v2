@@ -23,6 +23,21 @@
           "text": "The last regular GST/HST Credit payment came in April 2026. Payments from July 2026 show up as the Canada Groceries and Essentials Benefit. Old notices still matter when you trace earlier periods."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The name changed. The benefit and the filing rule did not.",
+              "text": "The name changed. The benefit and the filing rule did not.",
+              "image": "/images/benefits-support/01-starter/benefits-02/benefit02-image-1.webp"
+            },
+            {
+              "title": "Read your CRA notice before you pay anyone to apply.",
+              "text": "Read your CRA notice before you pay anyone to apply.",
+              "image": "/images/benefits-support/01-starter/benefits-02/benefit02-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -58,29 +73,29 @@
           "items": [
             {
               "title": "BEFORE JULY 2026",
-              "text": "The GST/HST Credit paid tax-free amounts four times a year. Older notices and account entries still use the old name."
+              "text": "The GST/HST Credit paid tax-free amounts four times a year. Older notices and account entries still use the old name.",
+              "icon": "receipt"
             },
             {
               "title": "JUNE 2026",
-              "text": "A one-time top-up went to eligible people. Don't mix it up with the regular quarterly payment."
+              "text": "A one-time top-up went to eligible people. Don't mix it up with the regular quarterly payment.",
+              "icon": "gift"
             },
             {
               "title": "FROM JULY 2026",
-              "text": "The CGEB replaced the old name, with a 25% increase meant to last five years, from 2026 to 2031."
+              "text": "The CGEB replaced the old name, with a 25% increase meant to last five years, from 2026 to 2031.",
+              "icon": "basket"
             },
             {
               "title": "EVERY JULY",
-              "text": "A new July-to-June payment year starts, based on the tax return you filed the year before. July 2026 payments use your 2025 income (AFNI)."
+              "text": "A new July-to-June payment year starts, based on the tax return you filed the year before. July 2026 payments use your 2025 income (AFNI).",
+              "icon": "calendar"
             }
           ]
         },
         {
           "type": "spotlight",
           "text": "For July 2026 to June 2027, the published maximums are up to $679 for a single person, $890 for a married or common-law household and $234 for each eligible child under 19. Income and household facts can lower the amount."
-        },
-        {
-          "type": "spotlight",
-          "text": "Most people don't send in a separate CGEB application. Filing a tax return gives the CRA what it needs, even when your income is zero and the return feels like a formal blank page."
         },
         {
           "type": "myths",
@@ -108,14 +123,15 @@
           "text": "Meet Owen",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/01-starter/benefits-02/benefit02-image-3.webp",
+          "focus": 30,
           "paragraphs": [
-            "Owen Park fixed bikes at a shop in Vancouver, and he rode one to work every day. His goal that July was simple. The chain on his own bike was nearly worn through, the repair cost $240, and his July GST/HST Credit was going to pay for it.",
-            "Then he opened his CRA account. No GST/HST Credit. Instead, there was a payment called the Canada Groceries and Essentials Benefit. He figured the old credit was gone and the new one needed an application, because apparently one benefit wearing two name tags was not enough excitement for a Tuesday.",
-            "He searched online. Three sites offered to \"help him apply,\" and every one wanted a fee. The first wanted $79 up front. That night his chain slipped twice on the ride home, so the pressure felt real.",
-            "He had his card out and the form half filled in. Then he stopped. At the shop, he always told customers to read the tag before they paid for a part. He closed the page and opened his CRA notice instead.",
-            "The notice settled the big question. The CGEB was his old credit under a new name. He had filed his 2025 return, and the July payment used it. The June top-up was a separate one-time payment. There was no second application to buy.",
-            "But the notice had one more surprise. It listed him as single. Owen had moved in with his partner, Sam, in May and never told the CRA. A change in marital status should be reported by the end of the following month, and it changes the household numbers the CRA uses.",
-            "He updated his status in CRA My Account that same night and saved the notice. Then he wrote July, October, January and April on a sticky note and set a yearly reminder to file his return. His next deposit covered the chain, with money left over for a new set of brake pads. He kept the $79 in his pocket, which felt better than any chain ever has."
+            "Owen Park fixed bikes at a shop in Vancouver, and he rode one to work every day. The chain on his own bike was nearly worn through, the repair cost $240, and his July GST/HST Credit was going to pay for it.",
+            "He opened his CRA account. No GST/HST Credit, just a payment called the Canada Groceries and Essentials Benefit. He figured the old credit was gone and the new one needed an application, because apparently one benefit wearing two name tags was not enough excitement for a Tuesday.",
+            "Three sites offered to \"help him apply,\" and every one wanted a fee, the first $79 up front. His chain slipped twice on the ride home, so the pressure felt real. He had his card out when he stopped. At the shop, he always told customers to read the tag before they paid for a part. He closed the page and opened his CRA notice instead.",
+            "The CGEB was his old credit under a new name. He had filed his 2025 return, and the July payment used it. The June top-up was a separate one-time payment. There was no second application to buy.",
+            "The notice had one more surprise: it listed him as single. Owen had moved in with his partner, Sam, in May and never told the CRA. A change in marital status should be reported by the end of the following month, because it changes the household numbers the CRA uses.",
+            "He updated his status in CRA My Account that same night. Then he wrote July, October, January and April on a sticky note and set a yearly reminder to file his return. His next deposit covered the chain, with money left over for brake pads. He kept the $79 in his pocket, which felt better than any chain ever has."
           ]
         },
         {
@@ -170,10 +186,6 @@
         },
         {
           "type": "spotlight",
-          "text": "Only one CGEB payment goes to a married or common-law couple. The CRA picks who gets it. One payment doesn't mean only one partner's income counted."
-        },
-        {
-          "type": "spotlight",
           "text": "If a payment looks missing, check your filing status, CRA mail, address, marital information, debts or overpayments, and the expected date before you file a second application."
         },
         {
@@ -184,6 +196,15 @@
               "text": "Tell the CRA about a marital-status change by the end of the following month. The CRA may recalculate your current payments using your combined family information."
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Only one CGEB payment goes to a married or common-law couple. The CRA picks who gets it. One payment doesn't mean only one partner's income counted."
+        },
+        {
+          "type": "takeaway",
+          "text": "The GST/HST Credit is now the CGEB, and it still runs on your tax return.",
+          "detail": "File every year, keep your marital status and address current, and read your CRA notice before you pay anyone to apply."
         }
       ]
     },
@@ -301,16 +322,12 @@
       "Who lives in your household, and how old are the children, if any?",
       "About what was your household income last year? An estimate is fine. Round to the nearest thousand if that is easier.",
       "Have you, and your spouse or partner if you have one, filed your 2025 tax return? (Yes / No / Not sure)",
-      "Did your address, marital status or custody situation change this year? Write “no changes” if nothing is different.",
-      "When does your CRA notice say your payments arrive? (July, October, January and April / All at once in July / Not sure)",
-      "What is one thing you will check or fix before you call the CRA?"
+      "What is one thing you will check or fix before you call the CRA? (For example, a change of address or marital status.)"
     ],
     "samples": [
       "Me and my partner, plus two kids ages 4 and 9.",
       "About $46,000.",
       "Yes, we both filed in April.",
-      "I moved in with my partner in May.",
-      "July, October, January and April.",
       "Update my marital status in CRA My Account."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",

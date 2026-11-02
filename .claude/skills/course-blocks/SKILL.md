@@ -26,6 +26,7 @@ Every design has its own guide in `docs/`. **Read the guide before applying a de
 | Up to four debts compared under snowball and avalanche (same budget, month-by-month payoff) | `payoff` (interactive calculator) | `docs/payoff-calculator-design.md` |
 | Money above a baseline (a surplus, bonus or refund) split across named jobs until nothing is left | `waterfall` (interactive calculator) | `docs/waterfall-calculator-design.md` |
 | A case-file story far longer than its neighbours (over about 300 words, or repeated "CASE FILE" fragments) | trim the `story` block | `docs/story-trim-guide.md` |
+| Two `spotlight` blocks directly one after the other | pick the best one, or move one so another block sits between them | `docs/spotlight-pairs-guide.md` |
 | A `checkIn` fill-out form with long or labelled questions and no sample answers | simplify the questions and add `samples` | `docs/fillout-form-guide.md` |
 | A 2-slide `artwork` image carousel whose slide text describes the photo | rewrite as lesson taglines | `docs/lesson-images-guide.md` ("Writing the taglines") |
 | Photos to add (card photos, hero, story image) | image workflow | `docs/lesson-images-guide.md` |

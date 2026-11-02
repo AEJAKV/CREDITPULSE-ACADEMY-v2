@@ -72,7 +72,7 @@ Use it for `.webp` sources too. It re-compresses oversized files to match the ot
 | Image | Shape | Typical dimensions | Typical file size |
 | --- | --- | --- | --- |
 | Carousel slides | Square | 1080×1080 – 1254×1254 | 70–100 KB |
-| Story image | Portrait 9:16 | 941×1672 | 40–85 KB |
+| Story image | Landscape 16:9 (portrait also works) | 1672×941 | 40–170 KB |
 | Hero background | Landscape 16:9 | 1672×941 | 40–120 KB |
 
 If a converted file is over about 200 KB, or much smaller than 900px on its short edge, flag it to the user before using it. A larger source image may be needed.
@@ -130,11 +130,12 @@ The text on each slide is a **tagline that carries a lesson from the course**. I
 - Deep green panel (`#113d37`), 18px radius, at least 245px tall, with the tagline in large light text on the left.
 - The photo fills the **right two-thirds**, in grayscale and screen-blended at about 60% opacity, fading out to the left.
 - On phones the photo moves to the bottom 58% and fades upward. (Credit Mastery and other courses.)
-- **Money & Budgeting on phones (760px or narrower):** a different layout, scoped with `.lesson-article[data-course='money-budgeting']` in `app/premium.css` (the `data-course` attribute is set in the lesson `page.tsx`).
+- **Money & Budgeting and Benefits & Support on phones (760px or narrower):** a different layout, scoped with `.lesson-article:is([data-course='money-budgeting'], [data-course='benefits-support'])` in `app/premium.css` (the `data-course` attribute is set in the lesson `page.tsx`).
   - The photo fills the whole panel (at least 440px tall) at the same 62% grayscale screen blend as desktop, anchored to the top (`object-position: 50% 0`) so the face stays in the upper half.
   - The tagline sits at the bottom of the panel with at least 150px above it, so it can't ride up onto the face.
   - A mask fades the photo out from 40% down to nothing at 72% of the panel height. That fade also hides any caption baked into the bottom of the picture.
   - Desktop is unchanged.
+  - **Using it for another course:** add the course id to the `:is(...)` list in the three phone rules in `app/premium.css` (search for `lesson-art-photo` inside `@media (max-width: 760px)`). The course id is the `id` in `content/curriculum.json`. Then update this line and the checklist below.
   - **Picking images for this layout:** keep the face in the top half of the square photo, and leave the lower third for the tagline (a table, hands or floor is fine). Check both slides on a phone before moving on.
 - Controls below show previous and next arrows, "Image 1 of 2" and dots.
 
@@ -180,25 +181,28 @@ Add `image` to the existing `story` block, between `extra` and `paragraphs`:
   "detail": "DEDICATED STORY",
   "extra": "",
   "image": "/images/credit-mastery/03-gold/credit-11/credit11-image-3.webp",
+  "focus": 30,
   "paragraphs": ["..."]
 }
 ```
 
-Adding `image` switches the story to the **photo story** layout. Without it, the story renders as a plain card.
+Adding `image` switches the story to the **photo banner** layout. Without it, the story renders as a plain light card with no banner.
+
+`focus` (0–100) is the **vertical centre of the main face as a percentage of the photo's height**: 0 is the top edge, 100 is the bottom. Estimate it by eye (a face about a quarter of the way down the photo is `25`–`30`). The valid range is checked by `lib/content-validation.ts`. If it is left out, the crop falls back to 40%.
 
 ### How it looks
 
-- A dark panel (`#102f31`) at least 560px tall. The photo fills it at 42% opacity, slightly desaturated, focused at `center 56%`.
-- A dark gradient runs from left to right and from the bottom. The story text sits in a frosted glass panel on the **left**, at most 760px wide.
-- The eyebrow (`detail`) is lime, small caps. The title (`text`) is white, 28–44px.
+- A **light editorial card** (white, 24px radius). The photo is a **banner across the top**, and the story text sits below it in the card body. (This replaced the older dark panel with text over the photo, in commit `f7a439b`.)
+- The banner is cropped to **2:1 on desktop and 3:2 on phones**. `storyPhotoPosition()` in `components/reading-blocks.tsx` reads the photo's size from its file header and uses `focus` to centre the face in the strip, clamped so the crop never runs past the photo's edges. It sets `--photo-y` (desktop) and `--photo-y-phone`, used by `.story-card-photo` in `app/premium.css`.
+- The eyebrow (`detail`) is a small kicker above the title (`text`). A closing line that starts "The lesson…" or "The takeaway…" gets a highlighted box.
 
-**Pick an image of the story's main character**, in the story's setting (for example, Ariane at the catering kitchen). Portrait or landscape both work, because the photo is cropped to cover. Keep the face around the middle of the frame, since the text panel covers the left side.
+**Pick an image of the story's main character**, in the story's setting (for example, Marcus baking with Mia in a Hamilton kitchen). **Landscape 16:9 is best**: a 16:9 photo loses only about 11% of its height in the 2:1 banner, so the whole scene shows. A tall portrait loses most of its height, so `focus` matters much more there. Check the crop on desktop and on a phone, and nudge `focus` up or down in steps of 5 until the face sits comfortably in the strip.
 
 ### Story length (do this at the same time)
 
-- Aim for **about 200 words** (credit-10's story is 196). Long stories lose readers.
+- Aim for **about 230–280 words in 5–6 paragraphs**, the same target as [`story-trim-guide.md`](story-trim-guide.md). Follow that guide to trim: keep every figure, the turning point, the temptation, the last line and the best jokes word for word.
 - Keep the arc: setup → problem arrives → temptation → better choice → proof or twist → outcome → short callback ending.
-- Cut background detail and repeated beats, and anything a later section already teaches. Keep any detail that later sections refer back to.
+- Cut background detail and repeated beats, and anything a later section already teaches. Keep any detail that later sections or the transition refer back to.
 
 ---
 
@@ -209,9 +213,9 @@ Adding `image` switches the story to the **photo story** layout. Without it, the
 - [ ] Each file is within the target sizes (about 200 KB or less, short edge 900px or more)
 - [ ] `artwork` block added after the first spotlight in `start`, with two taglines of 12 words or fewer (problem, then action)
 - [ ] `heroImages` entry added in `page.tsx`, in lesson order
-- [ ] `image` added to the `story` block, and the story is about 200 words
+- [ ] `image` and `focus` added to the `story` block, banner crop checked on desktop and phone, and the story trimmed to about 230–280 words (see `story-trim-guide.md`)
 - [ ] Lesson JSON still parses: `node -e "JSON.parse(require('fs').readFileSync('content/<id>-lesson.json','utf8'))"`
-- [ ] Money & Budgeting only: on a phone, the face is fully visible on both carousel slides and the tagline sits clear of it
+- [ ] Money & Budgeting and Benefits & Support: on a phone, the face is fully visible on both carousel slides and the tagline sits clear of it
 - [ ] Viewed on localhost:3000 (CREDIT-PULSE-ACADEMY-v2; port 3001 is the separate course-delivery app)
 
 ### Editing the lesson JSON safely

@@ -49,25 +49,25 @@
           "items": [
             {
               "title": "WORKING INCOME",
-              "text": "Pay from a job and eligible self-employment counts toward the CWB. It is not just the money left after payday."
+              "text": "Pay from a job and eligible self-employment counts toward the CWB. It is not just the money left after payday.",
+              "icon": "briefcase"
             },
             {
               "title": "ADJUSTED NET INCOME",
-              "text": "The CRA uses your adjusted net income if you are single. If you have a spouse or common-law partner, it uses adjusted family net income instead."
+              "text": "The CRA uses your adjusted net income if you are single. If you have a spouse or common-law partner, it uses adjusted family net income instead.",
+              "icon": "receipt"
             },
             {
               "title": "BASIC CWB",
-              "text": "The benefit grows from zero as you start earning, reaches a maximum, then shrinks once your adjusted income passes a set limit."
+              "text": "The benefit grows from zero as you start earning, reaches a maximum, then shrinks once your adjusted income passes a set limit.",
+              "icon": "activity"
             },
             {
               "title": "DISABILITY SUPPLEMENT",
-              "text": "You may get an extra amount if you're approved for the Disability Tax Credit and meet the income rules."
+              "text": "You may get an extra amount if you're approved for the Disability Tax Credit and meet the income rules.",
+              "icon": "heart"
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "For 2025, the maximum disability supplement is $843. You need Disability Tax Credit approval, and income limits depend on where you live and your family situation."
         },
         {
           "type": "spotlight",
@@ -81,6 +81,10 @@
               "text": "Your return separates working income from adjusted income, then applies family status, limits, reductions and provincial rules. Tax software can do the math, but you should still know the ingredients."
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "For 2025, the maximum disability supplement is $843. You need Disability Tax Credit approval, and income limits depend on where you live and your family situation."
         }
       ]
     },
@@ -89,6 +93,21 @@
       "title": "Early Money Is Still Part of the Same Benefit",
       "paragraphs": [],
       "blocks": [
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "An early deposit is not a bonus.",
+              "text": "An early deposit is not a bonus.",
+              "image": "/images/benefits-support/01-starter/benefits-03/benefit03-image-1.webp"
+            },
+            {
+              "title": "Save the RC210 and match it against your final claim.",
+              "text": "Save the RC210 and match it against your final claim.",
+              "image": "/images/benefits-support/01-starter/benefits-03/benefit03-image-2.webp"
+            }
+          ]
+        },
         {
           "type": "paragraph",
           "text": "If CRA records show you qualify, the Advanced Canada Workers Benefit, or ACWB, can pay up to half of your estimated CWB during the year. There is no separate application. The estimate uses tax information you already filed, and the final yearly CWB is settled on your next return."
@@ -115,12 +134,9 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
-        },
-        {
-          "type": "paragraph",
-          "text": "The CWB is settled through your yearly tax return. The ACWB is early delivery of part of an estimated benefit. It is not an extra benefit, and it must be matched against your final claim."
+          "type": "takeaway",
+          "text": "The CWB is settled through your yearly tax return.",
+          "detail": "The ACWB is early delivery of part of an estimated benefit. It is not an extra benefit, and it must be matched against your final claim."
         }
       ]
     },
@@ -134,13 +150,14 @@
           "text": "Meet Hana",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/01-starter/benefits-03/benefit03-image-3.webp",
+          "focus": 30,
           "paragraphs": [
-            "Hana Singh was a line cook in Halifax, and her hours rose and fell with the seasons. Her goal that summer was clear. Her sublet ended in April, and she needed $1,800 for first and last month's rent on a place of her own. She kept the money in a yellow envelope marked RENT in her kitchen drawer.",
-            "By July the envelope held $1,550, and she was counting on her spring refund for the last $250. Then a deposit of about $270 landed in her bank account from the CRA. Nobody had told her to expect it.",
-            "Hana decided it was a bonus. A used fridge was listed for $260, and her new place would need one. She figured she could buy it now and still count on the same money in her spring refund.",
-            "A letter arrived that week. It was a statement called an RC210, and it said the deposit was an advance on her Canada Workers Benefit, paid early from an estimate. She read it twice. If the deposit was an advance, her refund would count it. She could not spend the same dollars twice.",
-            "The fridge seller wanted an answer by Friday. Hana had two choices. She could buy it now and hope her refund covered everything. Or she could put the advance in the envelope and wait to see what her return said. She picked the envelope. She wrote RC210 on a sticky note and stuck it to the flap.",
-            "In March she filed. Her extra shifts had raised her income, and Schedule 6 showed her final benefit was smaller than the early estimate. The advance had already paid most of it, so her refund added only a little. If she had spent the money and counted it again, her rent plan would have come up short.",
+            "Hana Singh was a line cook in Halifax, and her hours rose and fell with the seasons. Her sublet ended in April, and she needed $1,800 for first and last month's rent on a place of her own. She kept the money in a yellow envelope marked RENT in her kitchen drawer.",
+            "By July the envelope held $1,550, and she was counting on her spring refund for the last $250. Then a deposit of about $270 landed from the CRA. Nobody had told her to expect it. Hana decided it was a bonus. A used fridge was listed for $260, and she figured she could buy it now and still count on the same money in her spring refund.",
+            "An RC210 statement arrived that week, and it said the deposit was an advance on her Canada Workers Benefit, paid early from an estimate. She read it twice. If the deposit was an advance, her refund would count it. She could not spend the same dollars twice.",
+            "The fridge seller wanted an answer by Friday. She could buy it now and hope her refund covered everything, or put the advance in the envelope and wait to see what her return said. She picked the envelope. She wrote RC210 on a sticky note and stuck it to the flap.",
+            "In March she filed. Her extra shifts had raised her income, and Schedule 6 showed her final benefit was smaller than the early estimate. The advance had already paid most of it, so her refund added only a little. Had she spent the money and counted it again, her rent plan would have come up short.",
             "Instead, the envelope held $1,820. Hana signed the lease in April and bought a used fridge the same week, paid for with tips. The money was real. The double-counting was the illusion."
           ]
         },
@@ -264,17 +281,13 @@
     "questions": [
       "Which province or territory do you live in, and do you file alone or with a spouse or partner?",
       "About how much did you earn from work last year? An estimate is fine. Round to the nearest thousand if that is easier.",
-      "Are you approved for the Disability Tax Credit? (Yes / No / Not sure)",
       "Did you get ACWB advance deposits from the CRA this year, and do you have your RC210 statement? (Yes / No / Not sure)",
-      "Did your income, marital status or address change this year? Write “no changes” if nothing is different.",
       "What is one thing you will check or fix before you file your return?"
     ],
     "samples": [
-      "Nova Scotia, filing alone.",
+      "Ontario, filing with my partner.",
       "About $24,000.",
-      "No.",
       "Yes, three deposits. My RC210 is in my CRA account.",
-      "I picked up more shifts in the fall.",
       "Count my advance payments before I plan my refund."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",

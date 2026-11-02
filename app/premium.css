@@ -4223,17 +4223,17 @@ body[data-focus='true'] .ambient-bg {
     -webkit-mask-image: linear-gradient(180deg, transparent 12%, #000 80%);
     mask-image: linear-gradient(180deg, transparent 12%, #000 80%);
   }
-  /* Money & Budgeting on phones: the photo fills the panel with the face in the upper half;
+  /* Money & Budgeting and Benefits & Support on phones: the photo fills the panel with the face in the upper half;
      the tagline sits at the bottom, over the part of the photo that fades out into the green.
      Many photos carry a baked-in caption along the bottom, so the fade hides it by ~72%. */
-  .lesson-article[data-course='money-budgeting'] .lesson-art-slide:has(.lesson-art-photo) {
+  .lesson-article:is([data-course='money-budgeting'], [data-course='benefits-support']) .lesson-art-slide:has(.lesson-art-photo) {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     min-height: 440px;
     padding: 34px 27px 30px;
   }
-  .lesson-article[data-course='money-budgeting'] .lesson-art-photo {
+  .lesson-article:is([data-course='money-budgeting'], [data-course='benefits-support']) .lesson-art-photo {
     inset: 0;
     width: 100%;
     height: 100%;
@@ -4242,7 +4242,7 @@ body[data-focus='true'] .ambient-bg {
     -webkit-mask-image: linear-gradient(180deg, #0005 0, #000 18%, #000 40%, transparent 72%);
     mask-image: linear-gradient(180deg, #0005 0, #000 18%, #000 40%, transparent 72%);
   }
-  .lesson-article[data-course='money-budgeting'] .lesson-art-slide:has(.lesson-art-photo) h3 {
+  .lesson-article:is([data-course='money-budgeting'], [data-course='benefits-support']) .lesson-art-slide:has(.lesson-art-photo) h3 {
     margin-top: auto;
     padding-top: 150px;
   }

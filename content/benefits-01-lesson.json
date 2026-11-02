@@ -23,6 +23,21 @@
           "text": "The CCB is not added to your income and does not need to be reported as income on your tax return. It is calculated from your return, but it is not part of it."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "No return, no benefit, whatever your income.",
+              "text": "No return, no benefit, whatever your income.",
+              "image": "/images/benefits-support/01-starter/benefits-01/benefit01-image-1.webp"
+            },
+            {
+              "title": "File every year, keep your address current, and the deposit follows.",
+              "text": "File every year, keep your address current, and the deposit follows.",
+              "image": "/images/benefits-support/01-starter/benefits-01/benefit01-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -58,25 +73,25 @@
           "items": [
             {
               "title": "HOUSEHOLD INCOME",
-              "text": "Your adjusted family net income (AFNI) combines your net income with your spouse or partner's. More income above the threshold shrinks the payment. It does not erase it."
+              "text": "Your adjusted family net income (AFNI) combines your net income with your spouse or partner's. More income above the threshold shrinks the payment. It does not erase it.",
+              "icon": "briefcase"
             },
             {
               "title": "AGES OF YOUR KIDS",
-              "text": "Each child under 6 is worth more than a child aged 6 to 17. A birthday or a new baby changes your total mid-year, automatically."
+              "text": "Each child under 6 is worth more than a child aged 6 to 17. A birthday or a new baby changes your total mid-year, automatically.",
+              "icon": "calendar"
             },
             {
               "title": "YOUR TAX RETURN",
-              "text": "CRA recalculates every July using the return you filed that spring. A late or missing return can pause your payment completely, no matter your income."
+              "text": "CRA recalculates every July using the return you filed that spring. A late or missing return can pause your payment completely, no matter your income.",
+              "icon": "receipt"
             },
             {
               "title": "CUSTODY ARRANGEMENT",
-              "text": "Full-time, primary, or shared custody changes who applies and how the amount gets divided between two homes."
+              "text": "Full-time, primary, or shared custody changes who applies and how the amount gets divided between two homes.",
+              "icon": "route"
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "For the July 2026–June 2027 benefit year, the maximum is $8,157 a year ($679.75 a month) for a child under 6, and $6,883 a year ($573.58 a month) for a child aged 6 to 17. These figures are indexed every July. Check canada.ca for the current numbers."
         },
         {
           "type": "spotlight",
@@ -108,14 +123,15 @@
           "text": "Meet Marcus",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/01-starter/benefits-01/benefit01-image-3.webp",
+          "focus": 30,
           "paragraphs": [
-            "Marcus Ferreira drives a delivery van in Hamilton. His daughter Mia stays with him four nights out of every seven. That is real, close to equal parenting, not “visits.” His goal this October is small: buy Mia winter boots without a crack across the toe. Her old pair lets in slush like it was built for wading.",
-            "Marcus and Mia’s mother, Priya, split up a year and a half ago. Priya always handled “the government stuff.” When a coworker brings up the Canada Child Benefit, Marcus laughs. “That goes to moms,” he says. “Everybody knows that.”",
-            "His coworker shares custody of his own son, and he says that is not true. Marcus looks it up on his lunch break. The CRA page says the benefit goes to whoever mainly cares for the child. If two parents split time close to equally, each one can apply for half.",
-            "He almost closes the laptop. He did not file a tax return last year. He was between jobs for three months and earned almost nothing, so a return with nothing on it felt pointless. The page says something he does not want to hear: no return, no benefit, income or not.",
-            "He could let it go. The boots would wait, and taxes feel like a fight. Instead, he decides to file. It takes forty minutes and one annoyed call to his sister for an old T4 slip. He fills out the CRA’s shared custody form and checks his account two days later. It says his payment is zero.",
-            "His first thought is that the whole thing is a government-shaped joke. His second thought, the useful one, is to call and ask why. The agent tells him his address on file is three moves out of date. That sent his claim to a slow manual review.",
-            "He fixes the address. Nine days later, a payment lands. It is half of what Mia is worth on paper, backdated for the months the file was stuck. He spends the first deposit on the boots. Purple, a bit ridiculous, fully waterproof. Mia wears them through every puddle on the walk to school, which is the universal sign of a satisfied customer."
+            "Marcus Ferreira drives a delivery van in Hamilton. His daughter Mia stays with him four nights out of every seven, close to equal parenting, not “visits.” This October he wants winter boots for her without a crack across the toe. Her old pair lets in slush like it was built for wading.",
+            "Priya, Mia’s mother, has always handled “the government stuff.” When a coworker mentions the Canada Child Benefit, Marcus laughs. “That goes to moms,” he says. “Everybody knows that.” His coworker, who shares custody of his own son, says otherwise, so Marcus checks the CRA page. The benefit goes to whoever mainly cares for the child, and parents with near-equal time can each apply for half.",
+            "He almost closes the laptop. He did not file a return last year. Between jobs for three months, he earned almost nothing, so a return with nothing on it felt pointless. The page says no return, no benefit, income or not.",
+            "He could let it go. He files instead: forty minutes and one annoyed call to his sister for an old T4 slip. He sends in the shared custody form, and two days later his payment says zero.",
+            "His first thought is that the whole thing is a government-shaped joke. His second, the useful one, is to call and ask why. His address on file is three moves out of date, the agent says, which sent his claim to a slow manual review.",
+            "He fixes the address. Nine days later a payment lands, half of what Mia is worth on paper and backdated for the stuck months. The first deposit buys the boots. Purple, a bit ridiculous, fully waterproof. Mia wears them through every puddle on the walk to school, the universal sign of a satisfied customer."
           ]
         },
         {
@@ -152,19 +168,23 @@
           "items": [
             {
               "title": "LIVE WITH THE CHILD",
-              "text": "You live with the child, and they're under 18."
+              "text": "You live with the child, and they're under 18.",
+              "icon": "home"
             },
             {
               "title": "PRIMARY CARE",
-              "text": "You’re mainly responsible for their day-to-day care: meals, school, appointments, the whole job."
+              "text": "You’re mainly responsible for their day-to-day care: meals, school, appointments, the whole job.",
+              "icon": "heart"
             },
             {
               "title": "STATUS IN CANADA",
-              "text": "You or your spouse or partner is a citizen, permanent resident, protected person, or a temporary resident who's lived here 18 months or more."
+              "text": "You or your spouse or partner is a citizen, permanent resident, protected person, or a temporary resident who's lived here 18 months or more.",
+              "icon": "map"
             },
             {
               "title": "TAXES FILED, EVERY YEAR",
-              "text": "You and your spouse or partner file a return annually, even in a year with zero income."
+              "text": "You and your spouse or partner file a return annually, even in a year with zero income.",
+              "icon": "timer"
             }
           ]
         },
@@ -188,6 +208,11 @@
               "text": "Permanent residents, protected persons, and even some temporary residents who've lived in Canada 18 months or more can qualify. Citizenship isn't required."
             }
           ]
+        },
+        {
+          "type": "takeaway",
+          "text": "The CCB is calculated from your tax return, so the return has to exist before the benefit can.",
+          "detail": "File every year, even in a year with zero income. Keep your address current, and tell the CRA right away when custody changes."
         },
         {
           "type": "source",
@@ -303,19 +328,15 @@
   },
   "checkIn": {
     "questions": [
-      "How many children live with you, and how old are they?",
+      "How many children live with you, how old are they, and do you share custody of any?",
       "About what was your family’s income last year? An estimate is fine. Round to the nearest thousand if that’s easier.",
-      "Do you share custody of any child with someone you don’t live with? (Yes / No / Not sure)",
       "Have you, and your spouse or partner if you have one, filed last year’s taxes? (Yes / No / Not sure)",
-      "Did a birthday, a new baby or a custody change happen this year? Write “no changes” if nothing is different.",
       "What is one thing you will check or fix before you apply or call the CRA?"
     ],
     "samples": [
-      "Two kids, ages 4 and 9.",
+      "Two kids, ages 4 and 9. I share custody of my son.",
       "About $52,000.",
-      "Yes. My son is with me half the week.",
       "Not sure. I need to check my CRA account.",
-      "My youngest turns 6 in March.",
       "Update my address in CRA My Account."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",

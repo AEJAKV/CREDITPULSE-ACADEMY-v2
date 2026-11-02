@@ -23,6 +23,21 @@
           "text": "DTC areas include walking, speaking, hearing, seeing, eating, dressing, using the washroom and the mental skills needed for daily life. Life-sustaining therapy and the combined effect of several limits each have their own routes."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A diagnosis names the condition. It does not show your Tuesday.",
+              "text": "A diagnosis names the condition. It does not show your Tuesday.",
+              "image": "/images/benefits-support/01-starter/benefits-04/benefit04-image-1.webp"
+            },
+            {
+              "title": "Record how often, how long and with what help.",
+              "text": "Record how often, how long and with what help.",
+              "image": "/images/benefits-support/01-starter/benefits-04/benefit04-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -49,37 +64,43 @@
           "text": "A marked restriction usually means you cannot do an activity, or it takes about three times as long as it would for someone your age without the condition. That is true even with the right therapy, devices and medicine. It must be there all or almost all of the time, usually at least 90%, and last or be expected to last at least 12 months in a row."
         },
         {
-          "type": "cards",
+          "type": "carousel",
           "items": [
             {
               "title": "FUNCTION",
-              "text": "Name the everyday task that is affected and what happens in ordinary life."
+              "text": "Name the everyday task that is affected and what happens in ordinary life.",
+              "detail": "NUMBER 1",
+              "icon": "list"
             },
             {
               "title": "FREQUENCY",
-              "text": "Note how often the problem happens, on better days and on harder days."
+              "text": "Note how often the problem happens, on better days and on harder days.",
+              "detail": "NUMBER 2",
+              "icon": "calendar"
             },
             {
               "title": "TIME",
-              "text": "Explain how much longer the task takes than it would for someone your age, where that test applies."
+              "text": "Explain how much longer the task takes than it would for someone your age, where that test applies.",
+              "detail": "NUMBER 3",
+              "icon": "clock"
             },
             {
               "title": "SUPPORT",
-              "text": "List the therapy, medicine, devices, reminders, supervision or hands-on help you already use."
+              "text": "List the therapy, medicine, devices, reminders, supervision or hands-on help you already use.",
+              "detail": "NUMBER 4",
+              "icon": "files"
             },
             {
               "title": "DURATION",
-              "text": "Say when the pattern began and whether it has lasted, or will last, at least 12 months in a row."
+              "text": "Say when the pattern began and whether it has lasted, or will last, at least 12 months in a row.",
+              "detail": "NUMBER 5",
+              "icon": "check"
             }
           ]
         },
         {
           "type": "spotlight",
           "text": "Two or more serious limits can sometimes add up to the same thing as a marked restriction. Each limit must meet the CRA’s rules for combined effects, and small hassles do not add up to eligibility by committee."
-        },
-        {
-          "type": "spotlight",
-          "text": "For life-sustaining therapy, the test looks at why you need it, how often and how much time it takes. People with type 1 diabetes are treated as meeting the therapy test for 2021 and later years."
         },
         {
           "type": "myths",
@@ -89,6 +110,10 @@
               "text": "A health practitioner certifies the condition and its effects, but the CRA decides who qualifies under the legal rules. Clear, honest detail about daily life helps more than a diagnosis name travelling alone."
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "For life-sustaining therapy, the test looks at why you need it, how often and how much time it takes. People with type 1 diabetes are treated as meeting the therapy test for 2021 and later years."
         }
       ]
     },
@@ -102,29 +127,29 @@
           "items": [
             {
               "title": "APPLICANT",
-              "text": "Fills in Part A, names who may claim the amount and gives consent. You can start online and give your practitioner a reference number."
+              "text": "Fills in Part A, names who may claim the amount and gives consent. You can start online and give your practitioner a reference number.",
+              "icon": "inbox"
             },
             {
               "title": "MEDICAL PRACTITIONER",
-              "text": "Fills in Part B for the right area using their own judgment. They may charge a fee, so ask first."
+              "text": "Fills in Part B for the right area using their own judgment. They may charge a fee, so ask first.",
+              "icon": "heart"
             },
             {
               "title": "CRA",
-              "text": "Reviews the form and decides whether the rules and years are met. The CRA may ask for more information."
+              "text": "Reviews the form and decides whether the rules and years are met. The CRA may ask for more information.",
+              "icon": "bank"
             },
             {
               "title": "AFTER THE DECISION",
-              "text": "Read the notice with care. Check the approved years and tax steps, or ask for an explanation or an official review."
+              "text": "Read the notice with care. Check the approved years and tax steps, or ask for an explanation or an official review.",
+              "icon": "receipt"
             }
           ]
         },
         {
           "type": "spotlight",
           "text": "The CRA prefers its online DTC form. For paper, use the latest T2201. From September 8, 2026, versions from before 2023 are no longer accepted."
-        },
-        {
-          "type": "spotlight",
-          "text": "From July 14, 2026, do not use the CRA’s general Submit Documents service for a new DTC application unless the CRA asks you for more information."
         },
         {
           "type": "myths",
@@ -136,12 +161,13 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
+          "type": "spotlight",
+          "text": "From July 14, 2026, do not use the CRA’s general Submit Documents service for a new DTC application unless the CRA asks you for more information."
         },
         {
-          "type": "paragraph",
-          "text": "The DTC depends on severe, long-lasting effects on daily life, not a diagnosis alone. Build clear, honest evidence, let your practitioner certify within their role and let the CRA decide."
+          "type": "takeaway",
+          "text": "The DTC depends on severe, long-lasting effects on daily life, not a diagnosis alone.",
+          "detail": "Build clear, honest evidence, let your practitioner certify within their role and let the CRA decide."
         }
       ]
     },
@@ -155,13 +181,14 @@
           "text": "Meet Leah",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/01-starter/benefits-04/benefit04-image-3.webp",
+          "focus": 28,
           "paragraphs": [
-            "Leah Cardinal lived in Winnipeg and managed a long-term condition that made everyday tasks hard to predict. Her goal was clear. She wanted the Disability Tax Credit approved before tax season, because therapy and medication costs took a big bite out of every month.",
+            "Leah Cardinal lived in Winnipeg and managed a long-term condition that made everyday tasks hard to predict. She wanted the Disability Tax Credit approved before tax season, because therapy and medication costs took a big bite out of every month.",
             "She had a well-documented diagnosis, so she expected the form to be easy. Her first draft named the condition three times and said almost nothing about her days. A friend who had been turned down warned her. The diagnosis knew who it was. The form did not know Tuesday.",
-            "Leah pushed back. She had the letters, the test results and a thick folder. Then she reread her draft. She had described her hardest day as if it happened every day, and she had left out the supports that made other days possible: a timer on her phone, a rail on the stairs and an hour of rest after lunch.",
-            "Her appointment with her nurse practitioner was two days away. She could hand over the folder and ask for it to be made to work. Or she could spend two weeks writing down what her days looked like and bring honest questions instead. The deadline pushed her toward the first choice. She chose the second.",
-            "Each night she wrote down which tasks were hard, how long they took and what help she used. She marked better days and harder days. She did not exaggerate, and she did not leave out the good days.",
-            "At the appointment, the log changed the conversation. It showed that her hard days were not rare. They were most days, and some tasks took far longer than she had noticed. Her practitioner asked about a second activity she had never mentioned. Leah brought questions, not a prewritten conclusion, and the practitioner certified using clinical judgment.",
+            "Leah pushed back, then reread her draft. She had described her hardest day as if it happened every day, and she had left out the supports that made other days possible: a timer on her phone, a rail on the stairs and an hour of rest after lunch.",
+            "Her appointment with her nurse practitioner was two days away. She could hand over the folder and ask for it to be made to work, or spend two weeks writing down what her days looked like. The deadline pushed her toward the first choice. She chose the second. Each night she logged which tasks were hard, how long they took and what help she used, on better days and harder days, without exaggerating.",
+            "At the appointment, the log changed the conversation. Her hard days were not rare. They were most days, and some tasks took far longer than she had noticed. Her practitioner asked about a second activity she had never mentioned. Leah brought questions, not a prewritten conclusion, and the practitioner certified using clinical judgment.",
             "She sent the online application and kept every copy, including the reference number. The CRA made the decision. The first line of her log, a plain note about a Tuesday in March, stayed pinned above her desk. The application now told one consistent, truthful story."
           ]
         },
@@ -283,19 +310,15 @@
   },
   "checkIn": {
     "questions": [
-      "Which everyday task is hardest for you, or for the person you are helping?",
-      "Has this been going on for 12 months or more? (Yes / No / Not sure)",
+      "Which everyday task is hardest for you, or for the person you are helping, and how long has it been going on?",
       "On an ordinary day, how does it show up, and how often? (Every day or almost every day / A few times a week / Now and then / Not sure)",
       "What help, treatment or tools do you already use? Write “none” if there are none.",
-      "Have you talked to a health practitioner about the DTC? (Yes / Not yet / Not sure)",
       "What is one thing you will do before you apply or call the CRA?"
     ],
     "samples": [
-      "Getting dressed in the morning.",
-      "Yes, about three years.",
+      "Getting dressed in the morning. About three years.",
       "Almost every day. Buttons and socks take me close to half an hour.",
       "A dressing aid, pain medicine and help from my partner.",
-      "Not yet.",
       "Keep a two-week diary to bring to my appointment."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",

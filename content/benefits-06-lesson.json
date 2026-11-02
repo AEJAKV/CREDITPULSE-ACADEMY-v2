@@ -19,6 +19,10 @@
           "text": "Old Age Security is a taxable federal pension generally available from age 65. Unlike the Canada Pension Plan, it is based mainly on age, legal status and how long you have lived in Canada, not on work contributions. Income can reduce or even eliminate your payment through the OAS recovery tax."
         },
         {
+          "type": "paragraph",
+          "text": "Old Age Security is the base of most Canadian retirement plans. This lesson checks three things in order: whether you qualify, when to start, and how your income can shrink the cheque. Each one has its own rule, and each one is easier to handle before you apply than after."
+        },
+        {
           "type": "spotlight",
           "text": "You can qualify for OAS even if you never worked in Canada, and you can keep working after 65. Employment history is not the test. Residence and income still matter."
         },
@@ -45,33 +49,70 @@
       "paragraphs": [],
       "blocks": [
         {
+          "type": "paragraph",
+          "text": "Age opens the door, but residence decides how much you get. Service Canada counts the years you lived in Canada after your 18th birthday. Those years do two jobs: they decide whether you qualify at all, and they set whether your pension is full or partial."
+        },
+        {
           "type": "cards",
           "items": [
             {
               "title": "LIVING IN CANADA",
-              "text": "You generally must be at least 65, be a Canadian citizen or legal resident when approved, and have lived in Canada for at least ten years after age 18."
+              "text": "You generally must be at least 65, be a Canadian citizen or legal resident when approved, and have lived in Canada for at least ten years after age 18.",
+              "icon": "home"
             },
             {
               "title": "LIVING OUTSIDE CANADA",
-              "text": "You generally need to have been a Canadian citizen or legal resident right before you left, and to have lived in Canada for at least twenty years after age 18."
+              "text": "You generally need to have been a Canadian citizen or legal resident right before you left, and to have lived in Canada for at least twenty years after age 18.",
+              "icon": "route"
             },
             {
               "title": "FULL PENSION",
-              "text": "Forty years of residence after age 18 generally supports a full OAS pension."
+              "text": "Forty years of residence after age 18 generally supports a full OAS pension.",
+              "icon": "target"
             },
             {
               "title": "PARTIAL PENSION",
-              "text": "With fewer than forty qualifying years, your pension may be partial. It is usually your qualifying years divided by 40. A partial pension generally does not become full after approval."
+              "text": "With fewer than forty qualifying years, your pension may be partial. It is usually your qualifying years divided by 40. A partial pension generally does not become full after approval.",
+              "icon": "activity"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is how a partial pension works with the October to December 2026 maximum of $762.50 a month. Thirty qualifying years is 30 ÷ 40, or 75%, so about $571.88 a month. Twenty years is 20 ÷ 40, or 50%, so about $381.25. These amounts are before any recovery tax, and rates are reviewed every quarter."
         },
         {
           "type": "spotlight",
           "text": "International social-security agreements, or certain jobs outside Canada for a Canadian employer, may help you qualify. Each case needs an individual review and documents. A passport stamp is evidence, not the whole answer."
         },
         {
-          "type": "spotlight",
+          "type": "heading",
+          "text": "Build your residence timeline"
+        },
+        {
+          "type": "paragraph",
           "text": "Service Canada may ask for your residence history since age 18. Build a month-and-year timeline from immigration records, tax files, leases, school or work documents and travel history."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Write the big dates",
+              "text": "Note when you arrived in Canada or turned 18, every time you left for a year or more, and when you came back."
+            },
+            {
+              "title": "Attach proof to each period",
+              "text": "Old leases, tax notices, school or work records, immigration papers and travel history all show where you were living."
+            },
+            {
+              "title": "Mark the gaps honestly",
+              "text": "Where a month is uncertain, say so and note which document you have asked for. A guess dressed up as a date can cost you later."
+            },
+            {
+              "title": "Compare with the record",
+              "text": "Check your timeline against Service Canada’s record and fix wrong dates before you rely on a start date."
+            }
+          ]
         },
         {
           "type": "myths",
@@ -81,6 +122,65 @@
               "text": "Age opens the door. Residence decides whether your pension is full or partial, and income can trigger the recovery tax. Birthday candles are not supporting documents."
             }
           ]
+        },
+        {
+          "type": "source",
+          "text": "Service Canada: Old Age Security",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security.html"
+        }
+      ]
+    },
+    {
+      "id": "related",
+      "title": "OAS Has Relatives: GIS, the Allowance and CPP",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "OAS is the base pension, but it is not the whole family. Three related benefits can sit beside it, and each has its own rules, so a plan that mentions only OAS may be missing money you could claim."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "OAS PENSION",
+              "text": "The base pension. It starts at 65 and depends on age, legal status and years of residence, not on income from work.",
+              "icon": "bank"
+            },
+            {
+              "title": "GUARANTEED INCOME SUPPLEMENT (GIS)",
+              "text": "A tax-free monthly top-up for OAS recipients with low income. You must be receiving OAS to get it, and it is renewed when you file your taxes every year.",
+              "icon": "lifebuoy"
+            },
+            {
+              "title": "ALLOWANCE",
+              "text": "For people aged 60 to 64 whose spouse or common-law partner receives the GIS, and whose household income is under the limit.",
+              "icon": "heart"
+            },
+            {
+              "title": "ALLOWANCE FOR THE SURVIVOR",
+              "text": "For people aged 60 to 64 who are widowed, have low income and have not remarried or started a new common-law relationship.",
+              "icon": "shield"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "CPP is a separate pension you earn through work contributions. You can receive CPP and OAS at the same time, and each one has its own start date and its own application. Filing a tax return every year matters for all of them, because your income on that return is what the GIS and the Allowance are based on."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The GIS is just a bigger OAS cheque for everyone.”",
+              "text": "The GIS is only for OAS recipients with low income, and it shrinks as other income rises. It is not a bonus for turning 65, and it stops if you do not file your taxes."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Service Canada: Guaranteed Income Supplement",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/guaranteed-income-supplement.html"
         }
       ]
     },
@@ -98,8 +198,31 @@
           "text": "Delaying is not automatically better. While OAS is delayed, you can't receive the Guaranteed Income Supplement, and a spouse or common-law partner can't receive the Allowance based on that OAS. GIS and Allowance amounts do not earn the delay increase."
         },
         {
-          "type": "spotlight",
-          "text": "At July-to-September 2026 rates, the maximum OAS is $751.97 a month for ages 65 to 74 and $827.17 for age 75 and over. Rates are reviewed every quarter, and your actual amount depends on residence, age and income."
+          "type": "paragraph",
+          "text": "Think of it as a trade. If you delay five years, you give up 60 months of payments to get a pension that is 36% higher for the rest of your life. Before tax and inflation, you break even about 14 years after the delayed start, which is roughly age 84. If your health, family history and savings suggest a long retirement, waiting can pay off. If you need the money now, or you would lose the GIS, starting at 65 may be the better trade."
+        },
+        {
+          "type": "glasspanel",
+          "text": "What the pension pays",
+          "detail": "OCT–DEC 2026 RATES",
+          "items": [
+            {
+              "title": "AGES 65 TO 74",
+              "text": "$762.50 — Maximum monthly OAS pension."
+            },
+            {
+              "title": "AGE 75 AND OVER",
+              "text": "$838.75 — Maximum monthly OAS pension, about 10% higher."
+            },
+            {
+              "title": "STARTED AT 70",
+              "text": "$1,037.00 — Maximum monthly pension after the full 60-month delay."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Rates are reviewed every quarter, and your actual amount depends on residence, age and income. Check the current table on canada.ca before you plan around a number."
         },
         {
           "type": "spotlight",
@@ -115,12 +238,66 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
+          "type": "source",
+          "text": "Service Canada: Apply, delay or change your start date",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/apply.html"
+        }
+      ]
+    },
+    {
+      "id": "recovery",
+      "title": "Watch Your Income: The OAS Recovery Tax",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "OAS is taxable income, and income tax is usually not taken off unless you ask for it, so set money aside or ask Service Canada to withhold. On top of ordinary tax, higher earners face the OAS recovery tax. It is a repayment of part of your pension when your net world income, your total income from all countries after certain deductions, goes over a set line."
+        },
+        {
+          "type": "glasspanel",
+          "text": "The recovery tax line",
+          "detail": "JULY 2026 TO JUNE 2027",
+          "items": [
+            {
+              "title": "STARTS ABOVE",
+              "text": "$93,454 — 2025 net world income where repayment begins."
+            },
+            {
+              "title": "YOU REPAY",
+              "text": "15% — Share of each dollar of income above that line."
+            },
+            {
+              "title": "FULLY RECOVERED AT",
+              "text": "$152,062 — Income at which a pension for ages 65 to 74 is repaid in full ($157,923 for age 75 and over)."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "OAS planning starts with residence, not a payment estimate. Confirm your qualifying years, compare starting and delaying in your full household picture, then watch your income and file taxes every year."
+          "text": "Here is a quick example. With $100,000 of net world income, you are $6,546 over the line. Fifteen percent of that is $981.90 for the year, which works out to about $82 a month taken from your payments. The tax can never be more than the pension you received in the year."
+        },
+        {
+          "type": "paragraph",
+          "text": "The tax is figured from the return you file, then taken from your monthly payments starting in July. That is another reason to file on time every year. If your income sits near the line, ask a tax professional how the timing of RRIF withdrawals, investment sales and other income could change your net income, before you make the move rather than after."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Once my income passes the line, I lose my whole OAS pension.”",
+              "text": "You repay 15 cents on each dollar above the line, so the pension shrinks gradually. It is only fully recovered at $152,062 for ages 65 to 74."
+            }
+          ]
+        },
+        {
+          "type": "takeaway",
+          "text": "OAS planning starts with residence, not a payment estimate.",
+          "detail": "Confirm your qualifying years, compare starting and delaying in your full household picture, then watch your income and file taxes every year."
+        },
+        {
+          "type": "source",
+          "text": "CRA: OAS recovery tax",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/recovery-tax.html"
         }
       ]
     },
@@ -135,10 +312,9 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Elena Rossi was 64, lived in Calgary and planned to retire at 65. Her goal was a clear number she could put in a budget. On Friday she was going to give notice at work. Then she opened a letter about her Old Age Security.",
+            "Elena Rossi was 64, lived in Calgary and planned to retire at 65. She wanted a clear pension number to put in a budget, and on Friday she was going to give notice at work. Then she opened a letter about her Old Age Security.",
             "The letter listed her years in Canada after age 18. The total was lower than her own count. She had lived in Italy for seven years in her twenties, then come home. She had assumed decades of tax filing would politely fill the gap.",
-            "Her kitchen table held a shoebox of papers. The box offered enthusiasm but little order. She also wondered if a social security deal between Canada and Italy could help, and if her pension would be full or partial.",
-            "Giving notice on Friday meant a clean start at 65. Waiting meant three weeks of digging through that box and a call to Service Canada, with her manager asking questions. Elena almost sent the notice anyway. Then she pictured retiring on a pension smaller than the one she had planned for. She put the notice in a drawer.",
+            "Her kitchen table held a shoebox of papers. The box offered enthusiasm but little order. Giving notice on Friday meant a clean start at 65. Waiting meant three weeks of digging through that box and a call to Service Canada, with her manager asking questions. Elena almost sent the notice anyway. Then she pictured retiring on a pension smaller than the one she had planned for. She put the notice in a drawer.",
             "She rebuilt her record month by month, using old leases, tax slips and immigration papers. She wrote down the dates she was sure of and the ones she was not. For one summer she wrote, \"Month unknown, document requested.\"",
             "The twist came on the phone. Service Canada’s record showed her leaving Canada a year earlier than she did. An old address change had never been updated. Her lease and her son’s school records proved the right dates, and her timeline showed which months still needed proof.",
             "Once the record was fixed, she compared starting at 65 with waiting, including her taxes and her possible GIS position. She chose to start at 65 and wrote her notice date on the calendar. The shoebox went back on the shelf, this time with a folder inside it."
@@ -147,10 +323,6 @@
         {
           "type": "spotlight",
           "text": "When your residence history is unclear or incomplete, answer with dates and evidence. A clear timeline helps Service Canada assess your file and shows which period needs proof."
-        },
-        {
-          "type": "paragraph",
-          "text": "Timeline rule: record uncertainty honestly. “Month unknown, document requested” is more useful than a precise date created by optimism."
         },
         {
           "type": "transition",
@@ -185,12 +357,17 @@
             },
             {
               "title": "What is the biggest increase you can get by delaying to age 70?",
-              "detail": "36%, based on 0.6% for each month of delay, up to 60 months.",
+              "detail": "36%, based on 0.6% for each month of delay, up to 60 months. That is $1,037.00 a month at the October to December 2026 maximum.",
               "text": ""
             },
             {
               "title": "Which benefits can be unavailable while OAS is delayed?",
               "detail": "The Guaranteed Income Supplement, and a spouse’s or partner’s Allowance that is based on that OAS.",
+              "text": ""
+            },
+            {
+              "title": "When does the OAS recovery tax begin, and how much do you repay?",
+              "detail": "For July 2026 to June 2027, it begins when 2025 net world income goes above $93,454. You repay 15% of the income above that line, up to the full pension.",
               "text": ""
             }
           ]
@@ -208,10 +385,6 @@
         },
         {
           "type": "checkin"
-        },
-        {
-          "type": "spotlight",
-          "text": "For July 2026 to June 2027, recovery tax begins when 2025 net world income goes above $93,454. You generally repay 15% of the income above that line, up to the full OAS amount."
         }
       ]
     },
@@ -250,6 +423,14 @@
             {
               "title": "Social-security agreement",
               "text": "An international agreement that may help you qualify for a benefit."
+            },
+            {
+              "title": "Net world income",
+              "text": "Your total income from all countries after certain deductions. The CRA uses it to work out the recovery tax."
+            },
+            {
+              "title": "Allowance",
+              "text": "A benefit for people aged 60 to 64 whose spouse or partner receives the GIS."
             }
           ]
         }
@@ -266,18 +447,14 @@
   },
   "checkIn": {
     "questions": [
-      "How old are you, or how old is the person you are helping? A rough age is fine.",
-      "Are you a Canadian citizen or permanent resident? (Citizen / Permanent resident / Something else / Not sure)",
-      "About how many years have you lived in Canada since you turned 18? Round to the nearest five years if that is easier.",
-      "Have you lived outside Canada for a year or more since age 18? If yes, where and roughly when?",
+      "How old are you, or how old is the person you are helping, and are they a Canadian citizen or permanent resident? (Citizen / Permanent resident / Something else / Not sure)",
+      "About how many years have you lived in Canada since you turned 18, and have you lived outside Canada for a year or more? If yes, where and roughly when?",
       "When are you thinking of starting OAS? (At 65 / Later, up to age 70 / Not sure yet)",
       "What is one thing you will check or gather before you apply?"
     ],
     "samples": [
-      "64.",
-      "Citizen.",
-      "About 40 years.",
-      "Yes, Italy, from about 1984 to 1991.",
+      "62, and a permanent resident.",
+      "About 33 years. I lived in Brazil for 5 years, from about 1995 to 2000.",
       "At 65.",
       "Old leases that show when I moved back to Canada."
     ],

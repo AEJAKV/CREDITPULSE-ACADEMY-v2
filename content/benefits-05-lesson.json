@@ -23,6 +23,21 @@
           "text": "The most anyone can put in over a lifetime is $200,000 for one beneficiary, across all of their RDSPs. Grants, bonds and investment growth do not count toward that limit."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "One big deposit can use up room without the best match.",
+              "text": "One big deposit can use up room without the best match.",
+              "image": "/images/benefits-support/01-starter/benefits-05/benefit05-image-1.webp"
+            },
+            {
+              "title": "Ask for the Statement of Entitlement, then size each deposit.",
+              "text": "Ask for the Statement of Entitlement, then size each deposit.",
+              "image": "/images/benefits-support/01-starter/benefits-05/benefit05-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -49,29 +64,29 @@
           "items": [
             {
               "title": "BENEFICIARY",
-              "text": "The person approved for the DTC whose savings are being built. Payments from the plan go to this person."
+              "text": "The person approved for the DTC whose savings are being built. Payments from the plan go to this person.",
+              "icon": "heart"
             },
             {
               "title": "HOLDER",
-              "text": "The person or group that opens and runs the plan. Depending on age and whether they can sign contracts, this may be the adult beneficiary or someone else who qualifies."
+              "text": "The person or group that opens and runs the plan. Depending on age and whether they can sign contracts, this may be the adult beneficiary or someone else who qualifies.",
+              "icon": "shield"
             },
             {
               "title": "CONTRIBUTOR",
-              "text": "The holder, or another person or group who adds money with the holder’s written OK. You cannot deduct contributions from your taxes, and the money is held for the beneficiary."
+              "text": "The holder, or another person or group who adds money with the holder’s written OK. You cannot deduct contributions from your taxes, and the money is held for the beneficiary.",
+              "icon": "wallet"
             },
             {
               "title": "ISSUER",
-              "text": "The bank or financial company that offers the RDSP. Products, investments and fees can differ, but the federal plan rules are the same."
+              "text": "The bank or financial company that offers the RDSP. Products, investments and fees can differ, but the federal plan rules are the same.",
+              "icon": "bank"
             }
           ]
         },
         {
           "type": "spotlight",
           "text": "You can keep adding money until the end of the year the beneficiary turns 59, as long as they still qualify and the $200,000 lifetime limit has not been reached."
-        },
-        {
-          "type": "spotlight",
-          "text": "There is no yearly limit on what you can put in. A large deposit made without checking your grant plan can use up lifetime room without getting the best match."
         },
         {
           "type": "myths",
@@ -81,6 +96,10 @@
               "text": "The grant can be 300%, 200% or 100%, depending on family income, how much you put in and what is left to claim. Once the best level is full, extra dollars may get a smaller grant or none."
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "There is no yearly limit on what you can put in. A large deposit made without checking your grant plan can use up lifetime room without getting the best match."
         }
       ]
     },
@@ -115,12 +134,9 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
-        },
-        {
-          "type": "paragraph",
-          "text": "An RDSP is a long-term plan. Keep your DTC records safe, use grant and bond years before age 49, put money in with a plan, and learn the repayment rules for withdrawals."
+          "type": "takeaway",
+          "text": "An RDSP is a long-term plan.",
+          "detail": "Keep your DTC records safe, use grant and bond years before age 49, put money in with a plan, and learn the repayment rules for withdrawals."
         }
       ]
     },
@@ -183,13 +199,14 @@
           "text": "Meet Noah",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/01-starter/benefits-05/benefit05-image-3.webp",
+          "focus": 28,
           "paragraphs": [
-            "Noah Chen was 31 and had just opened his first RDSP. His goal was a plan that could support him for decades. His Aunt Mei wanted to help, and she did not wait. She sold her old car, and that same afternoon she showed up with a $20,000 cheque in her purse and one wish: put it all in this Friday.",
+            "Noah Chen was 31 and had just opened his first RDSP, hoping for a plan that could support him for decades. His Aunt Mei wanted to help, and she did not wait. She sold her old car, and that same afternoon she showed up with a $20,000 cheque in her purse and one wish: put it all in this Friday.",
             "Her heart was in exactly the right place. Her calculator had skipped warm-up. Noah knew just enough to worry. One big deposit would use up lifetime contribution room, and the grant only matches part of what goes in.",
-            "The adviser at the issuer said the cheque could go in as soon as Friday. Aunt Mei was already smiling. \"Why wait?\" she said. \"Money in the plan is money working.\"",
-            "Noah felt the pull. Saying no to his aunt, who had just sold her car for him, felt rude. But he remembered one rule from his notes: ask for the Statement of Entitlement first. He took a breath and asked her to hold the cheque for one week. She went quiet for a moment, then nodded.",
-            "The statement showed two things they had not expected. Noah had unused grant amounts from earlier eligible years that could be carried forward, but only up to yearly caps. And he qualified for the bond, which needed no contribution at all. A $20,000 deposit would have filled the best matching tiers and then kept going, using up lifetime room on dollars that earned little or no match.",
-            "They planned a smaller first deposit, sized to the match available that year, with more to follow while carry-forward lasted. The bond arrived with no contribution. Aunt Mei kept the rest of her car money in her own account and put the later dates on her calendar.",
+            "The adviser at the issuer said the cheque could go in as soon as Friday. Aunt Mei smiled. \"Why wait?\" she said. \"Money in the plan is money working.\" Noah felt the pull. Saying no to the aunt who had just sold her car for him felt rude. But he remembered one rule from his notes: ask for the Statement of Entitlement first. He asked her to hold the cheque for one week, and she nodded.",
+            "The statement held two surprises. Noah had unused grant amounts from earlier eligible years that could be carried forward, but only up to yearly caps. And he qualified for the bond, which needed no contribution at all. A $20,000 deposit would have used up lifetime room on dollars that earned little or no match.",
+            "They planned a smaller first deposit, sized to the match available that year, with more to follow while carry-forward lasted. Aunt Mei kept the rest of her car money in her own account and put the later dates on her calendar.",
             "Noah wrote down one more thing: a withdrawal in the next ten years could mean repaying grants and bonds. Then he put the statement in a folder. Aunt Mei took the cheque home and, to her credit, only sighed twice."
           ]
         },
@@ -274,18 +291,14 @@
   },
   "checkIn": {
     "questions": [
-      "Is the person the plan is for approved for the Disability Tax Credit? (Yes / No / Not sure)",
-      "How old is the beneficiary? A rough age is fine.",
-      "Does an RDSP already exist for this person? (Yes / No / Not sure)",
-      "Who would open the plan, and who might add money to it?",
+      "Is the person the plan is for approved for the Disability Tax Credit, and how old are they? (Yes / No / Not sure)",
+      "Does an RDSP already exist for this person, and who would open it or add money to it?",
       "About how much could you or your family add each year? An estimate is fine. “Nothing right now” is a fine answer too.",
       "What is one thing you will do before you add money or take any out?"
     ],
     "samples": [
-      "Yes, approved last spring.",
-      "31.",
-      "Yes, I opened one this year.",
-      "I opened it. My aunt wants to add money.",
+      "Yes, approved last spring. They are 24.",
+      "No plan yet. I would open it, and my sister may add money.",
       "About $1,500 a year.",
       "Ask the issuer for my Statement of Entitlement."
     ],

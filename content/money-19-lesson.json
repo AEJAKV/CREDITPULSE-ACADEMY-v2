@@ -1,6 +1,6 @@
 {
   "title": "Insurance Basics",
-  "summary": "Match your household’s risks to your policies, find the gaps and get ready for a claim.",
+  "summary": "Map the risks → Decode the terms → Protect your income → Be ready to claim",
   "subtitle": "Translate the policy before asking it to protect the household",
   "minutes": 45,
   "published": true,
@@ -12,41 +12,80 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Insurance is a contract for sharing financial risk, written in a dialect that occasionally appears to charge by the syllable."
+          "text": "Insurance is a contract for sharing financial risk, written in a dialect that sometimes seems to charge by the syllable."
         },
         {
           "type": "paragraph",
-          "text": "This lesson will not choose a product, insurer or coverage amount for you. It will help you find the losses your household could not easily absorb. It will also help you decode policy terms, compare quotes on equal coverage and get ready for a claim or complaint. The policy sets the real terms, not the ad or a friendly summary."
+          "text": "This lesson won’t choose a product, insurer or coverage amount for you. It will help you find the losses your household couldn’t absorb, decode the terms that decide what gets paid, compare quotes fairly and get ready for a claim or complaint. The policy sets the real terms, not the ad or a friendly summary."
         },
         {
           "type": "spotlight",
-          "text": "Insurance does not stop the emergency from happening. It decides which covered losses get paid, up to what limit and after what deductible. It also depends on the exclusions, conditions and evidence you provide."
+          "text": "Insurance doesn’t stop an emergency. It decides which covered losses get paid, up to what limit, after what deductible, and only within its exclusions and conditions."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Insurance covers anything bad that happens.”",
-              "text": "A policy covers set events, property, people and amounts, within its exclusions, deductibles, limits and conditions. Maintenance, wear and some hazards may be excluded or need an endorsement."
+              "text": "A policy covers set events, property, people and amounts, within its exclusions, deductibles, limits and conditions. Maintenance, wear and some hazards may be excluded or need an add-on."
             }
           ]
         },
         {
           "type": "transition",
-          "text": "Two quotes $18 apart can protect two very different households.",
-          "detail": "Reading the same six terms in every quote turns a confusing price gap into an honest comparison.",
-          "extra": "Decode the six terms next, before a single quote gets compared."
+          "text": "Pay for the protection you need, and stop paying for the protection you don’t.",
+          "detail": "Knowing which losses would sink your household, and how each policy responds, turns a pile of quotes into an honest choice.",
+          "extra": "Section 02 maps the six kinds of coverage most households use."
         }
       ]
     },
     {
-      "id": "terms",
-      "title": "Six Terms That Control the Outcome",
+      "id": "map",
+      "title": "Map What You Can’t Afford to Lose",
       "paragraphs": [],
       "blocks": [
         {
+          "type": "paragraph",
+          "text": "Start with your household, not with a product. Ask one question about each risk: if this happened tomorrow, could we pay for it from savings without lasting harm? If the answer is yes, you may not need to insure it. If it’s no, it belongs on your map."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "HOME OR TENANT",
+              "icon": "home",
+              "text": "Covers your belongings, your liability if someone is hurt or you damage someone else’s property, and extra living costs if you must move out after a covered loss. Overland flooding and sewer backup are often add-ons you have to ask for."
+            },
+            {
+              "title": "AUTO",
+              "icon": "car",
+              "text": "Required by law in every province. In British Columbia, Saskatchewan and Manitoba, basic coverage comes from a public insurer. In Quebec, a public plan covers injuries and private insurers cover the car itself."
+            },
+            {
+              "title": "LIFE",
+              "icon": "heart",
+              "text": "Pays money to the people who depend on your income or care if you die. Term insurance covers a set number of years and usually costs far less than permanent insurance."
+            },
+            {
+              "title": "DISABILITY",
+              "icon": "briefcase",
+              "text": "Replaces part of your income if illness or injury stops you working. For many working-age adults, being unable to work for months is far more likely than dying, yet it’s the cover people most often skip."
+            },
+            {
+              "title": "HEALTH AND DENTAL",
+              "icon": "activity",
+              "text": "Your provincial plan covers doctors and hospital care. Most prescriptions outside hospital, dental care, glasses and physiotherapy need a workplace plan, a private plan or a public program you qualify for."
+            },
+            {
+              "title": "TRAVEL",
+              "icon": "route",
+              "text": "Your provincial plan pays little for care outside Canada, sometimes even in another province. A hospital stay in the United States can cost tens of thousands of dollars, so check coverage before every trip."
+            }
+          ]
+        },
+        {
           "type": "spotlight",
-          "text": "Compare quotes using the same property, limits, deductibles, endorsements and assumptions. A lower premium can mean a real saving, a bigger share of the risk falling on you, less coverage, or some mix of all three. Ask for the differences in writing."
+          "text": "Check what you already have before you buy. Workplace benefits, a credit card’s travel or purchase coverage, and a partner’s plan may cover more than you think, or less. Get each one’s terms in writing."
         },
         {
           "type": "artwork",
@@ -62,7 +101,14 @@
               "image": "/images/money-budgeting/06-elite/money-19/money19-image-2.webp"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "Six Terms That Control the Outcome",
+      "paragraphs": [],
+      "blocks": [
         {
           "type": "filecards",
           "text": "Decode the contract",
@@ -96,15 +142,69 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "Example: Policy A costs $1,560 a year with a $500 deductible. Policy B costs $1,320 with a $1,500 deductible. B saves $240 a year, but it hands the household $1,000 more in upfront claim cost."
+          "type": "paragraph",
+          "text": "Compare quotes using the same property, limits, deductibles, add-ons and assumptions. A lower premium can mean a real saving, more of the risk landing on you, less coverage, or a mix of all three. Ask for the differences in writing."
+        },
+        {
+          "type": "heading",
+          "text": "The deductible trade-off"
+        },
+        {
+          "type": "glasspanel",
+          "text": "Two quotes for the same home",
+          "detail": "Yearly premium and what you pay on a claim",
+          "items": [
+            {
+              "title": "Policy A",
+              "text": "$1,560 a year — with a $500 deductible."
+            },
+            {
+              "title": "Policy B",
+              "text": "$1,320 a year — with a $1,500 deductible."
+            },
+            {
+              "title": "The trade",
+              "text": "B saves $240 a year — but costs $1,000 more each time you claim."
+            },
+            {
+              "title": "Break-even",
+              "text": "About 4 years — if you claim less often than once every four years, B usually comes out ahead."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A higher deductible only works if the money is ready when you need it. Save your deductible in your emergency fund, and use the calculator to see how long it takes."
+        },
+        {
+          "type": "paydays",
+          "text": "Save your deductible",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter your deductible, what you have saved and what you can set aside each payday. Watch the number of deposits update.",
+          "items": [
+            {
+              "title": "$500",
+              "text": "",
+              "amount": "500"
+            },
+            {
+              "title": "$1,000",
+              "text": "",
+              "amount": "1000"
+            },
+            {
+              "title": "$1,500",
+              "text": "",
+              "amount": "1500"
+            }
+          ]
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“The cheapest premium is the cheapest policy overall.”",
-              "text": "Price is only one layer. Compare limits, deductibles, exclusions, endorsements, settlement basis, service and how much of the loss lands back on your household."
+              "text": "Price is only one layer. Compare limits, deductibles, exclusions, add-ons, how claims are paid, service and how much of a loss lands back on your household."
             }
           ]
         },
@@ -122,7 +222,7 @@
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Nina",
+          "text": "Nina and the quote that won by $18",
           "detail": "DEDICATED STORY",
           "extra": "",
           "image": "/images/money-budgeting/06-elite/money-19/money19-image-3.webp",
@@ -137,29 +237,76 @@
         },
         {
           "type": "spotlight",
-          "text": "An inventory helps with coverage planning and with a claim. Keep a copy of the photos, receipts, serial numbers and the policy somewhere you can reach even if your home or device is not."
-        },
-        {
-          "type": "heading",
-          "text": "What resolved the conflict?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Nina turned two different quotes into one fair comparison. She made her choice on purpose, set money aside for the deductible and got her evidence ready before a loss ever happened."
+          "text": "A home inventory helps you choose coverage and prove a claim. Keep the photos, receipts, serial numbers and policy somewhere you can reach even if your home or phone can’t be."
         },
         {
           "type": "transition",
           "text": "A burst pipe found Nina ready, because she built her evidence file months before she needed it.",
-          "detail": "Turning a loss into a calm checklist instead of a scramble is what let Nina's claim move on proof instead of memory.",
-          "extra": "Build your own coverage-gap map next, before anything goes wrong."
+          "detail": "Proof gathered in a calm month turns a claim into a checklist instead of a scramble from memory.",
+          "extra": "Section 05 looks at the risk most households forget: losing their income."
         }
       ]
     },
     {
-      "id": "map",
-      "title": "Build the Household Coverage-Gap Map",
+      "id": "income",
+      "title": "Protect Your Income, Not Just Your Things",
       "paragraphs": [],
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Your ability to earn is usually your household’s biggest asset. A house fire is rare. A few months off work after surgery, an injury or a mental-health crisis is much more common."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Where income protection comes from",
+          "detail": "Check what applies to you",
+          "items": [
+            {
+              "title": "EI sickness benefits",
+              "text": "Up to 26 weeks — at 55% of your insurable earnings, to a maximum of about $729 a week in 2026, if you have enough insured hours."
+            },
+            {
+              "title": "Workplace disability plan",
+              "text": "Often 60% to 70% — of your pay, for short-term and then long-term disability. Ask HR for the booklet."
+            },
+            {
+              "title": "CPP disability",
+              "text": "For severe and prolonged disability — a monthly benefit if you can’t work at any job on a regular basis."
+            },
+            {
+              "title": "Private disability insurance",
+              "text": "For gaps — useful if you’re self-employed or have no workplace plan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To estimate life insurance needs, add up the debts you’d want paid off, the income your family would need for a set number of years and final costs. Then subtract your savings and the coverage you already have. A licensed advisor can check your numbers, but you’ll understand the answer better if you do the rough math first."
+        },
+        {
+          "type": "spotlight",
+          "text": "Be careful with insurance sold with a loan or credit card, called creditor insurance. It can cost more for the coverage you get, the payout usually goes to the lender, and some claims are reviewed only after you claim. You have the right to cancel it, and you can’t be forced to buy it to get the loan."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My workplace plan has me covered.”",
+              "text": "It may, but group coverage usually ends when the job does, and the amount may be a set multiple of your salary that won’t cover everything. Read the booklet and note what happens if you leave."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claim",
+      "title": "When Something Goes Wrong",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Most of a claim’s success is decided in the first few days. Follow these steps in order."
+        },
         {
           "type": "ordered",
           "items": [
@@ -183,14 +330,26 @@
         },
         {
           "type": "spotlight",
-          "text": "Water damage is not one single coverage. Flood, sewer backup, overland water, a burst pipe and normal wear can each be treated differently. Read the definitions and exclusions, and ask if an endorsement is available."
+          "text": "Water damage isn’t one single coverage. Flooding, sewer backup, overland water, a burst pipe and normal wear can each be treated differently. Read the definitions and exclusions, and ask whether an add-on is available."
+        },
+        {
+          "type": "heading",
+          "text": "If you disagree with a decision"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask for the decision and the reason in writing, and send any missing proof. Use the insurer’s own complaint process first. If you still disagree, a free ombudservice can review it: the General Insurance OmbudService for home and auto, or the OmbudService for Life and Health Insurance for life, disability and health. Your provincial insurance regulator can confirm an agent’s licence and explain your options."
+        },
+        {
+          "type": "spotlight",
+          "text": "If an insurer fails, policyholders have protection. Assuris protects life and health policies, and the Property and Casualty Insurance Compensation Corporation (PACICC) protects home and auto policies, up to set limits."
         },
         {
           "type": "myths",
           "items": [
             {
-              "title": "“If a claim is denied, there is nothing I can do.”",
-              "text": "Ask for the decision and the reason in writing. Send any missing evidence. Use the insurer’s complaint process. If you still disagree, turn to the right ombudservice, regulator or legal advice."
+              "title": "“If a claim is denied, there’s nothing I can do.”",
+              "text": "Ask for the decision in writing, add missing evidence, use the complaint process and, if needed, go to the ombudservice, the regulator or a lawyer."
             }
           ]
         }
@@ -228,12 +387,22 @@
               "title": "What should happen first after a loss, and what evidence should be preserved?",
               "detail": "Protect people first. Prevent more damage only when it is safe. Tell the insurer promptly and keep photos, lists, receipts, damaged items and notes on every call.",
               "text": ""
+            },
+            {
+              "title": "Policy B saves $240 a year but has a $1,000 higher deductible. Roughly how often can you claim before it costs more?",
+              "text": "",
+              "detail": "Less than about once every four years: $1,000 ÷ $240 ≈ 4."
+            },
+            {
+              "title": "Which free service reviews unresolved home and auto insurance complaints?",
+              "text": "",
+              "detail": "The General Insurance OmbudService."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Agents and brokers must be licensed where they operate. Regulators can confirm a licence and explain the complaint routes, but they will not rewrite the policy after a loss."
+          "text": "Agents and brokers must be licensed where they work. Regulators can confirm a licence and explain complaint routes, but they won’t rewrite a policy after a loss."
         }
       ]
     },
@@ -295,8 +464,36 @@
             {
               "title": "Replacement cost",
               "text": "A payout basis that pays to replace covered property, within the policy’s rules and limits."
+            },
+            {
+              "title": "Creditor insurance",
+              "text": "Insurance sold with a loan or credit card that pays the lender if you die, become disabled or lose your job."
+            },
+            {
+              "title": "Ombudservice",
+              "text": "A free, independent service that reviews complaints you couldn’t resolve with the company."
             }
           ]
+        },
+        {
+          "type": "source",
+          "text": "Government of Canada: EI sickness benefits",
+          "url": "https://www.canada.ca/en/services/benefits/ei/ei-sickness.html"
+        },
+        {
+          "type": "source",
+          "text": "General Insurance OmbudService",
+          "url": "https://www.giocanada.org/"
+        },
+        {
+          "type": "source",
+          "text": "OmbudService for Life and Health Insurance",
+          "url": "https://www.olhi.ca/"
+        },
+        {
+          "type": "source",
+          "text": "FCAC: Creditor insurance",
+          "url": "https://www.canada.ca/en/financial-consumer-agency/services/insurance/credit-loan.html"
         }
       ]
     }
@@ -311,20 +508,22 @@
   },
   "checkIn": {
     "questions": [
-      "Which people, property, income or risks could your household not easily replace?",
+      "Which losses could your household not easily absorb?",
       "Which policies and workplace or card benefits do you already have?",
-      "For one policy, what are the premium, deductible, key limits and settlement basis?",
-      "Do you have your deductible saved? What would a loss leave for you to cover?",
-      "What is one exclusion, condition or endorsement you need explained in writing, and when will you review your coverage?"
+      "For one policy, what are the premium, deductible, main limits and payout basis?",
+      "Is your deductible saved? If not, how much is the gap?",
+      "How would your household pay the bills if you couldn’t work for three months?",
+      "What will you ask your insurer to explain in writing, and when will you review your coverage?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this workbook prepares questions and does not recommend individualized coverage.",
     "samples": [
-      "Our car, my laptop for work, and liability if a guest is hurt.",
+      "Our car, my work laptop, our income and liability if a guest is hurt.",
       "Tenant policy, a health plan at work and card travel insurance.",
       "$62 a month, $1,000 deductible, $40,000 contents limit, replacement cost.",
       "I have $500 saved. A $1,000 deductible leaves a $500 gap.",
-      "Is sewer backup covered? I will review each January."
+      "EI sickness for up to 26 weeks, plus one month of savings. I’ll ask HR about disability coverage.",
+      "Is sewer backup covered? I’ll review every January."
     ]
   },
   "sources": []

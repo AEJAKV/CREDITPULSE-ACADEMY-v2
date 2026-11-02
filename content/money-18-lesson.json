@@ -1,6 +1,6 @@
 {
   "title": "Managing Rental Costs",
-  "summary": "Find the true monthly cost of a rental, check the rules, stress-test the plan and build a rent-first system.",
+  "summary": "Price the whole month → Stress-test it → Check your province → Pay rent first",
   "subtitle": "Turn the advertised rent into the number your bank account will meet",
   "minutes": 45,
   "published": true,
@@ -12,45 +12,97 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A rental listing may say $1,650. Your budget may later add utilities, internet, parking, laundry, tenant insurance and moving costs, the supporting cast nobody invited to the photo shoot."
+          "text": "A rental listing may say $1,650. Then your budget adds utilities, internet, parking, laundry, tenant insurance and moving costs: the supporting cast nobody invited to the photo shoot."
         },
         {
           "type": "paragraph",
-          "text": "This lesson separates three questions that often get tangled together. What does the home cost each month? Can the household carry that cost through a hard month? What rules cover rent changes where you live? A budgeting benchmark is not a legal right, and a legal notice does not make an increase affordable."
-        },
-        {
-          "type": "spotlight",
-          "text": "The useful rent number is the true monthly housing cost: base rent plus regular services, shared costs and a monthly share of irregular costs."
+          "text": "This lesson untangles three questions. What does the home cost each month, all in? Can your household carry that cost through a hard month? And what rules protect you where you live? A budgeting guideline isn’t a legal right, and a legal rent increase isn’t automatically affordable."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If I can afford the advertised rent, I can afford the apartment.”",
-              "text": "The listed rent may leave out utilities, internet, parking, insurance, laundry, storage and one-time setup or moving costs. Price the full arrangement before signing."
+              "text": "The listed rent may leave out utilities, internet, parking, insurance, laundry, storage and moving costs. Price the whole arrangement before you sign."
             }
           ]
         },
         {
           "type": "transition",
-          "text": "An advertised rent and a true monthly cost are rarely the same number, and the gap has a name: everything the listing left out.",
-          "detail": "Pricing utilities, parking and odd costs before you sign keeps a tidy listing price from becoming a monthly surprise.",
-          "extra": "Put every housing cost under the X-ray next, starting with the ones the listing skipped."
+          "text": "Sign a lease knowing exactly what it will cost you, every month.",
+          "detail": "Pricing the extras, testing a bad month and checking your province’s rules turns a nice listing into a decision you can trust.",
+          "extra": "Section 02 adds up a real listing, line by line."
         }
       ]
     },
     {
       "id": "cost",
-      "title": "Expose the True Monthly Housing Cost",
+      "title": "The Listing Versus the Real Bill",
       "paragraphs": [],
       "blocks": [
         {
-          "type": "spotlight",
-          "text": "FCAC suggests rent plus household-related costs of about 35% of gross household income as a general budgeting guideline. It is not a tenancy law, an approval rule or a promise of comfort."
+          "type": "paragraph",
+          "text": "The useful number is your true monthly housing cost: base rent, plus regular services, plus a monthly share of the costs that come once or twice a year. Here’s how one $1,620 listing in Moncton adds up."
+        },
+        {
+          "type": "ledger",
+          "detail": "TRUE MONTHLY COST",
+          "text": "$1,620 advertised + $305 in extras = $1,925 a month, about 19% more than the listing.",
+          "extra": "Dropping the parking stall they didn’t need brought it to $1,865.",
+          "items": [
+            {
+              "title": "True monthly housing cost",
+              "amount": "$1,925",
+              "detail": "Total",
+              "text": "Is this the number in your budget, or the listing price?"
+            },
+            {
+              "title": "Base rent",
+              "amount": "$1,620",
+              "detail": "Lease",
+              "text": "What does the lease say is included?"
+            },
+            {
+              "title": "Electricity",
+              "amount": "$85",
+              "detail": "Utility",
+              "text": "What did the last tenant pay in January?"
+            },
+            {
+              "title": "Internet",
+              "amount": "$70",
+              "detail": "Service",
+              "text": "Is there a cheaper plan at this address?"
+            },
+            {
+              "title": "Parking stall",
+              "amount": "$60",
+              "detail": "Optional",
+              "text": "Do you need it, or is there street parking?"
+            },
+            {
+              "title": "Yearly costs ÷ 12",
+              "amount": "$35",
+              "detail": "Irregular",
+              "text": "Moving, a utility deposit, a bike locker: what comes once a year?"
+            },
+            {
+              "title": "Laundry",
+              "amount": "$30",
+              "detail": "Service",
+              "text": "How many loads a week, at what price?"
+            },
+            {
+              "title": "Tenant insurance",
+              "amount": "$25",
+              "detail": "Protection",
+              "text": "Does the lease require it?"
+            }
+          ]
         },
         {
           "type": "heading",
-          "text": "Put every housing cost under the X-ray"
+          "text": "Put every cost under the X-ray"
         },
         {
           "type": "carousel",
@@ -94,14 +146,14 @@
         },
         {
           "type": "spotlight",
-          "text": "A $1,650 rent increased by 3% becomes $1,699.50, a $49.50 monthly change and $594 over a full year. Small percentages prefer annual totals to reveal their personality."
+          "text": "The Financial Consumer Agency of Canada (FCAC) suggests keeping rent plus household costs at about 35% of gross household income, as a general budgeting guideline. It isn’t a tenancy law, a landlord’s approval rule or a promise you’ll be comfortable."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“The 35% guideline proves a rental is affordable.”",
-              "text": "It is only a starting signal. Take-home pay, childcare, debt, travel costs, accessibility, location and changing earnings may make a lower or higher share right for your household."
+              "text": "It’s only a starting signal. Take-home pay, child care, debt, travel costs, accessibility and changing earnings may make a lower or higher share right for your household."
             }
           ]
         },
@@ -128,42 +180,201 @@
       ]
     },
     {
+      "id": "yearly",
+      "title": "Turn Yearly Costs Into Monthly Ones",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Some housing costs arrive once a year or once a move. If you wait for the bill, it lands on one paycheque. Divide it by the months you have, and it becomes a small monthly transfer instead."
+        },
+        {
+          "type": "conversion",
+          "text": "Convert a yearly housing cost",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter a yearly or one-time cost and the months you have to save. Watch the monthly transfer update.",
+          "items": [
+            {
+              "title": "Tenant insurance",
+              "text": "",
+              "amount": "300",
+              "detail": "12"
+            },
+            {
+              "title": "Next move",
+              "text": "",
+              "amount": "1500",
+              "detail": "18"
+            },
+            {
+              "title": "Winter electricity bump",
+              "text": "",
+              "amount": "240",
+              "detail": "8"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Tenant insurance isn’t required by law, but many leases require it, and it’s often one of the cheapest protections a household can buy. It can cover your belongings after a fire or theft, and your liability if, say, your bathtub floods the unit below."
+        }
+      ]
+    },
+    {
       "id": "story",
       "title": "Amara, Jules and the Apartment With Invisible Roommates",
       "paragraphs": [],
       "blocks": [
         {
           "type": "story",
-          "text": "Meet Amara and Jules",
+          "text": "Amara and Jules and the apartment with invisible roommates",
           "detail": "DEDICATED STORY",
           "extra": "",
           "image": "/images/money-budgeting/06-elite/money-18/money18-image-3.webp",
           "focus": 52,
           "paragraphs": [
-            "Amara Mensah and Jules Tremblay find a two-bedroom apartment in Moncton advertised at $1,620. They like the bus route, the sunlight and the kitchen drawer that opens without negotiating with the stove. Their plan looks simple: split the rent and move in.",
-            "Then Amara reads the lease while Jules prices the move. Heat is included, but electricity and internet are not. Parking costs extra. The laundry machines accept payment with the confidence of a boutique hotel. Jules works variable shifts, so an equal split could still cause a timing problem.",
-            "The landlord says other couples want the place, so they should sign today. Amara wants to sign. Jules asks to wait one day. They build a Rental Cost X-Ray: every recurring cost, yearly extras divided by 12 and written answers on what is included. They check New Brunswick’s current rent-increase rules instead of trusting a neighbour’s cousin, who is extremely certain and magnificently unsourced.",
+            "Amara Mensah and Jules Tremblay find a two-bedroom apartment in Moncton advertised at $1,620. They like the bus route, the sunlight and the kitchen drawer that opens without arguing with the stove. Their plan looks simple: split the rent and move in.",
+            "Then Amara reads the lease while Jules prices the move. Heat is included, but electricity and internet are not. Parking costs extra. The laundry machines charge like a fancy hotel. Jules works variable shifts, so an equal split could still cause a timing problem.",
+            "The landlord says other couples want the place, so they should sign today. Amara wants to sign. Jules asks to wait one day. They build a Rental Cost X-Ray: every recurring cost, yearly extras divided by 12 and written answers on what is included. They check New Brunswick’s rent rules instead of trusting a neighbour’s cousin, who is completely certain and has no source.",
             "Their roommate agreement records the split, due dates, shared purchases, notice if one person leaves and a backup plan for a late transfer. Their first total is higher than the listing but workable once they drop a parking stall they don’t need. Each payday, they move a share of next month’s housing cost into a rent-first account with a small buffer. They also keep the lease, receipts and condition report.",
             "Six months later, Jules loses two shifts. The buffer covers the gap. The rent is paid in full, and their roommate agreement guides the repayment without turning the kitchen into a courtroom. The apartment was never unaffordable. The advertised number was just incomplete. Look at the total, check the rules and plan the timing before the keys arrive."
           ]
         },
         {
           "type": "spotlight",
-          "text": "A roommate agreement can clarify money between roommates, but it does not automatically replace the lease or provincial tenancy law. Know who is named on the lease and what each signature means."
-        },
-        {
-          "type": "heading",
-          "text": "What resolved the conflict?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Amara and Jules turned an attractive listing into a checked monthly total. They matched transfers to their pay schedules and kept their private sharing plan apart from the landlord-tenant relationship."
+          "text": "A roommate agreement can sort out money between roommates, but it doesn’t replace the lease or your province’s tenancy law. Know whose names are on the lease and what each signature means."
         },
         {
           "type": "transition",
-          "text": "A missed shift and a rent-first buffer meant Jules's shortfall never became Amara's problem.",
-          "detail": "Funding the next due date before anything else is what let one lost paycheque stay a timing gap instead of a missed payment.",
-          "extra": "Build your own rent-first system next, one payday at a time."
+          "text": "A buffer turned one lost paycheque into a timing gap, not a missed rent payment.",
+          "detail": "Funding the next due date first protects your home and your relationships when income wobbles.",
+          "extra": "Section 05 shows how to stress-test your own plan."
+        }
+      ]
+    },
+    {
+      "id": "stress",
+      "title": "Stress-Test the Plan Before You Sign",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A plan that works in an ordinary month isn’t finished. Test it against the four changes renters meet most often. Work out the monthly cost and the yearly cost, then decide in advance what you would cut, change or replace."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Four tests for the $1,865 apartment",
+          "detail": "Monthly cost of each change",
+          "items": [
+            {
+              "title": "A legal rent increase",
+              "text": "+$34 — a 2.1% increase on $1,620 rent, or about $408 a year."
+            },
+            {
+              "title": "A cold-snap power bill",
+              "text": "+$60 — for four winter months, or $240 a year."
+            },
+            {
+              "title": "A roommate leaves",
+              "text": "+$933 — you carry the full $1,865 instead of half, until someone new moves in."
+            },
+            {
+              "title": "Two lost shifts",
+              "text": "−$400 — one month’s pay drops while the rent stays the same."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Your buffer is what absorbs these shocks. A good first goal for a renter is one month of true housing cost in a separate account. Use the calculator to see how many paydays it takes."
+        },
+        {
+          "type": "paydays",
+          "text": "Build your rent buffer",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter your buffer goal, what you have saved so far and what you can move each payday. Watch the number of deposits update.",
+          "items": [
+            {
+              "title": "Half a month",
+              "text": "",
+              "amount": "930"
+            },
+            {
+              "title": "One month",
+              "text": "",
+              "amount": "1865"
+            },
+            {
+              "title": "Two months",
+              "text": "",
+              "amount": "3730"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A small percentage looks harmless until you see it yearly. A 3% increase on $1,650 rent is $49.50 a month, but $594 over a full year."
+        }
+      ]
+    },
+    {
+      "id": "province",
+      "title": "Know Your Province’s Rules",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rent rules are set by each province and territory, and they change. Here’s how four of the biggest differ in 2026. Always confirm with your province’s tenancy board before you act."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "ONTARIO",
+              "icon": "building",
+              "text": "The 2026 rent increase guideline is 2.1%, with 90 days’ written notice, once every 12 months. Units first occupied after November 15, 2018, are exempt from the guideline. Landlords can ask for last month’s rent as a deposit, but not a damage deposit."
+            },
+            {
+              "title": "BRITISH COLUMBIA",
+              "icon": "mountain",
+              "text": "The 2026 limit is 2.3%, on the official form, with three full months’ notice, once every 12 months. A security deposit can be at most half a month’s rent."
+            },
+            {
+              "title": "ALBERTA",
+              "icon": "map",
+              "text": "There’s no cap on the amount, but rent can rise only once every 12 months, with three full months’ notice for a monthly tenancy. A security deposit can be at most one month’s rent."
+            },
+            {
+              "title": "QUEBEC",
+              "icon": "home",
+              "text": "Landlords can’t ask for any deposit. If you get a notice of increase, you have one month to reply in writing. You can refuse without losing your home, and the landlord must then ask the Tribunal administratif du logement to set the rent."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Elsewhere in Canada, search your province’s residential tenancy office. The rules for notice, limits and deposits differ, and a neighbour’s cousin who is extremely certain is not a source."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My landlord mentioned an increase, so the new amount is automatically valid.”",
+              "text": "A valid increase may need minimum timing, written notice, a set form, a limit or another condition. Check the current rules and your own tenancy, and get provincial guidance or legal help if needed."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "If rent gets hard to pay"
+        },
+        {
+          "type": "paragraph",
+          "text": "Talk to your landlord early and in writing, before a payment is missed. A landlord can’t evict you without following the legal process in your province. Many cities and provinces run rent banks, which offer one-time help or interest-free loans to cover a short gap, and 2-1-1 can point you to the one near you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Renters can also qualify for tax credits, but only if they file a return. Ontario’s Trillium Benefit includes an energy and property tax credit for renters, B.C. has a renter’s tax credit of up to $400 a year for lower- and moderate-income renters, and Quebec’s solidarity tax credit has a housing part. Check what your province offers."
         }
       ]
     },
@@ -195,7 +406,7 @@
         },
         {
           "type": "spotlight",
-          "text": "The 2026 rules are not one rule for all of Canada. British Columbia lists a 2.3% limit for residential rent. Ontario has a 2.1% guideline with exemptions. Alberta generally regulates timing and notice instead of setting a general cap."
+          "text": "Put the rent-first transfer on autopilot. A transfer that happens on payday, before you see the money, beats a decision you have to make again every two weeks."
         },
         {
           "type": "myths",
@@ -240,6 +451,11 @@
               "title": "Why does a roommate agreement not replace the lease or tenancy law?",
               "detail": "It cannot rewrite landlord obligations, lease signatures or applicable law.",
               "text": ""
+            },
+            {
+              "title": "In British Columbia, what is the most a landlord can take as a security deposit?",
+              "text": "",
+              "detail": "Half a month’s rent."
             }
           ]
         }
@@ -301,6 +517,21 @@
               "text": "A written record of a rental unit’s condition, often supported by dated photos."
             }
           ]
+        },
+        {
+          "type": "source",
+          "text": "Ontario: Residential rent increase guideline",
+          "url": "https://www.ontario.ca/page/rent-increase-guideline"
+        },
+        {
+          "type": "source",
+          "text": "B.C. Residential Tenancy Branch: Rent increases",
+          "url": "https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/rent-rtb/rent-increases"
+        },
+        {
+          "type": "source",
+          "text": "Tribunal administratif du logement: Rent increase",
+          "url": "https://www.tal.gouv.qc.ca/en/renewal-of-the-lease-and-fixing-of-rent/rent-increase"
         }
       ]
     }

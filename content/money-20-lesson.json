@@ -1,6 +1,6 @@
 {
   "title": "Financial Fraud and Scams",
-  "summary": "Pause, verify, protect, report and recover: a calm routine for when a scammer calls.",
+  "summary": "Spot the costume → Run the scan → Act in the first hour → Lock the doors",
   "subtitle": "Slow the scam down before it speeds your money away",
   "minutes": 45,
   "published": true,
@@ -12,11 +12,15 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A scammer’s favourite financial product is urgency. It has no prospectus, no cooling-off period and apparently comes with unlimited exclamation marks."
+          "text": "A scammer’s favourite financial product is urgency. It has no prospectus, no cooling-off period and comes with unlimited exclamation marks."
         },
         {
           "type": "paragraph",
-          "text": "Fraud can arrive as a bank alert, a fake government call, romance, an investment pitch, a job offer, a marketplace buyer, a family emergency or a recovery service. The costume changes. The pressure pattern often repeats. This drill teaches a response you can repeat, without blaming the person targeted. Skilled fraudsters use emotion, timing, trusted names and realistic technology to get past ordinary judgment."
+          "text": "Canadians reported more than $704 million in fraud losses in 2025, a record. Police think only 5% to 10% of frauds are ever reported, so the real number is far higher. Fraud can arrive as a bank alert, a call from the government, a new romance, an investment tip, a job offer or a family emergency. The costume changes. The pressure pattern repeats."
+        },
+        {
+          "type": "paragraph",
+          "text": "This lesson gives you four tools: a field guide to today’s most common scams, a five-question scan, a first-hour plan if money or a code has already left, and a short setup that makes your household a harder target. None of it relies on blaming the person who was targeted."
         },
         {
           "type": "spotlight",
@@ -33,9 +37,87 @@
         },
         {
           "type": "transition",
-          "text": "A five-question scan is what separates a real emergency from a rehearsed one.",
-          "detail": "Running the same five checks every time is what turns a racing pulse back into a decision.",
-          "extra": "Meet Colin next, mid-call, with the potatoes still boiling."
+          "text": "Learn the costumes once, and you’ll spot them in every disguise.",
+          "detail": "Most scams are a handful of old scripts in new clothes. Knowing the script lets you hang up early, before the pressure builds.",
+          "extra": "Section 02 is a field guide to six scams Canadians meet most."
+        }
+      ]
+    },
+    {
+      "id": "guide",
+      "title": "Know the Costumes",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Each scam below has one tell, a request a real organization won’t make. Learn the tell, and you don’t need to win the argument on the phone."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "THE BANK “INVESTIGATOR”",
+              "icon": "bank",
+              "text": "A caller from “fraud services” says your account is under attack and asks you to move money to a “safe account”, read out a code or hand your card to a courier. The tell: your bank won’t ask you to move money to protect it, and it won’t send anyone to pick up your card."
+            },
+            {
+              "title": "THE GOVERNMENT THREAT",
+              "icon": "building",
+              "text": "A caller or text says you owe tax, your SIN is suspended or police are on the way. The tell: the Canada Revenue Agency won’t demand payment in gift cards, prepaid cards or crypto, and it won’t threaten you with arrest."
+            },
+            {
+              "title": "THE FAMILY EMERGENCY",
+              "icon": "alert",
+              "text": "A grandchild, child or friend is “in jail” or “in hospital” and needs cash now, and asks you to tell no one. Voices can now be cloned from short online clips. The tell: secrecy plus a courier or a cash pickup. Hang up and call the person on a number you already have."
+            },
+            {
+              "title": "THE ROMANCE",
+              "icon": "heart",
+              "text": "Someone you met online is warm, attentive and always just unable to meet or video chat. Then comes a crisis, a plane ticket or a can’t-miss investment. The tell: anyone you haven’t met in person who asks for money."
+            },
+            {
+              "title": "THE INVESTMENT",
+              "icon": "activity",
+              "text": "A celebrity ad, a group chat or a new friend shows huge returns on crypto or a trading app. Early “profits” look real, but withdrawing needs a fee or tax first. The tell: guaranteed high returns and a platform that isn’t registered. Check registration at aretheyregistered.ca."
+            },
+            {
+              "title": "THE JOB",
+              "icon": "briefcase",
+              "text": "An easy remote job pays for “rating products” or “processing payments”, but first you must top up an account, buy equipment or move money for the employer. The tell: a job that asks you to pay or to pass money through your account."
+            }
+          ]
+        },
+        {
+          "type": "glasspanel",
+          "text": "Fraud in Canada, 2025",
+          "detail": "Reported to the Canadian Anti-Fraud Centre",
+          "items": [
+            {
+              "title": "Total reported losses",
+              "text": "$704 million — the highest on record, from more than 112,000 reports."
+            },
+            {
+              "title": "Investment fraud",
+              "text": "$351 million — about half of all reported losses."
+            },
+            {
+              "title": "Most reported",
+              "text": "Identity fraud — 8,403 reports, more than any other type."
+            },
+            {
+              "title": "Unreported",
+              "text": "90% or more — police estimate only 5% to 10% of frauds are reported."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Money moved through your account for a stranger can make you a “money mule”. Even if you were fooled, your bank may close your account and you may have to repay the funds. Never let anyone use your account to receive or forward money."
+        },
+        {
+          "type": "source",
+          "text": "Canadian Anti-Fraud Centre: Top 10 frauds in 2025",
+          "url": "https://antifraudcentre-centreantifraude.ca/features-vedette/2026/02/top-fraud-2025-fraudes-plus-courantes-eng.htm"
         }
       ]
     },
@@ -46,7 +128,7 @@
       "blocks": [
         {
           "type": "spotlight",
-          "text": "Use the STOP test. Source: did you start the contact? Time: are you being rushed? Offer: does the claim hold up to an independent check? Payment: does the method remove your usual protections? One red flag does not prove fraud, but it earns a pause."
+          "text": "Run five checks on any request for money, a code or a password. Source: did you start the contact? Time: are you being rushed? Offer: does the claim hold up to an independent check? Payment: does the method remove your usual protections? Credentials: are you being asked for a password, code or remote access? One red flag doesn’t prove fraud, but it earns a pause."
         },
         {
           "type": "artwork",
@@ -107,6 +189,10 @@
           "text": "One-time passcodes are keys, not customer-service trivia. A legitimate code arriving on your device can still be part of a fraudster’s login attempt. Never read it to an unsolicited caller."
         },
         {
+          "type": "paragraph",
+          "text": "Scammers prefer payment methods you can’t reverse: gift cards, crypto, wire transfers, cash handed to a courier and, more and more, e-Transfers and instant payments. A credit card purchase can sometimes be disputed. Most of the others can’t."
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -135,9 +221,9 @@
           "image": "/images/money-budgeting/06-elite/money-20/money20-image-3.webp",
           "focus": 42,
           "paragraphs": [
-            "Colin Fraser is making supper in Winnipeg when his phone shows the name of his bank. The caller knows his full name. He says the fraud department has spotted a transfer. To protect Colin’s savings, he must move the money into a ‘secure account’ before the branch closes. The caller is calm, careful and impressively concerned.",
+            "Colin Fraser is making supper in Winnipeg when his phone shows the name of his bank. The caller knows his full name. He says the fraud department has spotted a transfer. To protect Colin’s savings, he must move the money into a ‘secure account’ before the branch closes. The caller sounds calm and kind.",
             "Then a real one-time code arrives by text. The caller asks Colin to read it aloud. Next he says a courier will collect Colin’s bank card as evidence. The potatoes are boiling over, the caller is counting down and the whole evening has become a low-budget thriller with excellent caller ID.",
-            "Colin remembers a family rule: no money, code or card leaves during an incoming contact. He hangs up, even though the caller warns that the transfer will become permanent. He calls the number on the back of his card. The bank says it never called, and it locks the attempted login. Colin changes his password from a clean device and turns on stronger multi-factor authentication.",
+            "Colin remembers a family rule: no money, code or card leaves during a call we didn’t start. He hangs up, even though the caller warns that the transfer will be final. He calls the number on the back of his card. The bank says it never called, and it locks the attempted login. Colin changes his password on a safe device and turns on a stronger login check.",
             "He saves the number, text, time and his notes without clicking anything. He follows the bank’s instructions, reports the call to the Canadian Anti-Fraud Centre and tells local police as needed. He also tells his sister, who got a similar call that week.",
             "Two days later, someone offers to recover money for an upfront fee. Colin has lost no money, but this second caller has plenty of optimism and an invoice ready. Colin refuses and adds the contact to his report. He did not outsmart every scam. He used a routine that works under stress: pause, leave the channel, verify, protect and report."
           ]
@@ -156,41 +242,83 @@
         },
         {
           "type": "transition",
-          "text": "Colin's rule cost him nothing and saved his account, because he had decided it before he ever needed it.",
-          "detail": "Building a household response ladder now is what keeps a future call short instead of expensive.",
-          "extra": "Build your own response card next, before the phone rings."
+          "text": "Colin’s rule cost him nothing and saved his account, because he had decided it before he ever needed it.",
+          "detail": "The first hour after a scam decides what can still be stopped. A plan made now keeps that hour calm.",
+          "extra": "Section 05 walks through the first hour, minute by minute."
         }
       ]
     },
     {
-      "id": "response",
-      "title": "Use the First-Hour Response Ladder",
+      "id": "first-hour",
+      "title": "The First Hour, Minute by Minute",
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
+          "type": "paragraph",
+          "text": "If money, a code, a card or remote access has already left your hands, speed matters more than embarrassment. Payments can sometimes be stopped or recalled in the first minutes or hours. Work down this list in order."
+        },
+        {
+          "type": "filecards",
+          "text": "Your first-hour file",
+          "image": "/images/money-budgeting/06-elite/money-20/hero-image.webp",
+          "focus": 40,
           "items": [
             {
-              "title": "Protect safety",
-              "text": "If anyone is in danger, call 911. Do not meet a courier, confront a suspect or keep talking to collect evidence."
+              "title": "Minute 0: Stop",
+              "text": "End the call or chat. If anyone is in danger, call 911. Don’t meet a courier or keep talking to gather evidence."
             },
             {
-              "title": "Contact the money channel",
-              "text": "Call the bank, card issuer, payment service, crypto platform or transfer provider right away, using a trusted number. Ask about stopping, recalling, freezing or disputing the payment."
+              "title": "Minute 5: Call the bank",
+              "text": "Use the number on your card or the bank’s website. Ask them to freeze, recall or dispute the payment, and to lock your card and online banking."
             },
             {
-              "title": "Secure access",
-              "text": "Change exposed passwords from a trusted device, starting with email and financial accounts. Turn on MFA and follow the provider's instructions."
+              "title": "Minute 15: Lock access",
+              "text": "From a clean device, change your email password first, then banking. Sign out of all sessions and turn on MFA. If you gave remote access, disconnect that device from the internet."
             },
             {
-              "title": "Preserve evidence",
-              "text": "Keep receipts, transaction IDs, messages, numbers, profiles, websites, dates and a short timeline. Do not leave suspicious software open just to take a better screenshot."
+              "title": "Minute 30: Save evidence",
+              "text": "Write a short timeline. Keep numbers, texts, emails, receipts, transaction IDs and screenshots. Don’t reply to the scammer."
             },
             {
-              "title": "Report and update",
-              "text": "Report fraud or attempted fraud to the Canadian Anti-Fraud Centre. Report to local police when appropriate, and get a file number. Update the report if new activity appears."
+              "title": "Minute 45: Report",
+              "text": "Call local police and get a file number. Report to the Canadian Anti-Fraud Centre online or at 1-888-495-8501, even if you lost nothing."
+            },
+            {
+              "title": "Minute 60: Protect your ID",
+              "text": "If you shared your SIN, ID or card details, ask Equifax and TransUnion for a fraud alert on your credit file. Each bureau must be asked separately."
             }
           ]
+        },
+        {
+          "type": "heading",
+          "text": "Who to call, and why"
+        },
+        {
+          "type": "glasspanel",
+          "text": "Your recovery contacts",
+          "detail": "Write these down before you need them",
+          "items": [
+            {
+              "title": "Your bank or card issuer",
+              "text": "First — only they can freeze an account, recall a payment or start a dispute."
+            },
+            {
+              "title": "Local police",
+              "text": "Second — a police file number helps with banks, credit bureaus and insurers."
+            },
+            {
+              "title": "Canadian Anti-Fraud Centre",
+              "text": "1-888-495-8501 — or report online. Reports link cases and warn others."
+            },
+            {
+              "title": "Equifax and TransUnion",
+              "text": "Fraud alert — asks lenders to check it’s you before opening new credit."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Got a scam text? Don’t tap the link or reply STOP. Forward it to 7726 (SPAM) so your carrier can block the sender, then delete it."
         },
         {
           "type": "spotlight",
@@ -202,6 +330,55 @@
             {
               "title": "“Once money is sent, reporting is pointless.”",
               "text": "Recovery is not guaranteed, but acting fast may improve the chance of stopping or tracing a payment. Reporting also creates records that help investigators. Act quickly, and beware anyone promising recovery for an upfront fee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lock",
+      "title": "Lock the Doors Before Anyone Knocks",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The best time to beat a scam is a calm Sunday afternoon, long before the phone rings. These five steps take about an hour and make your household a much harder target."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Set a family code word",
+              "text": "Pick a word that isn’t online anywhere. Anyone asking for emergency money must say it. No word, no money."
+            },
+            {
+              "title": "Save the real numbers",
+              "text": "Store your bank’s fraud line, your card issuer and two trusted people in your phone, labelled clearly, so you never have to search for a number under pressure."
+            },
+            {
+              "title": "Harden your email",
+              "text": "Your email resets every other password. Give it a long, unique password and turn on MFA, preferably an authenticator app instead of text codes."
+            },
+            {
+              "title": "Turn on alerts and limits",
+              "text": "Set your bank to text you for every e-Transfer and large purchase. Lower your daily transfer limit if you rarely move big amounts."
+            },
+            {
+              "title": "Name a trusted contact",
+              "text": "Your investment firm must ask you for a trusted contact person it can call if it sees signs of fraud or confusion. Fill that in, and check whether your bank offers something similar."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Talk about scams with older relatives the way you’d talk about the weather: often and without judgement. People who feel ashamed hide losses, and hidden losses keep growing."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I’m too smart to get scammed.”",
+              "text": "Scams are built to work on tired, busy, worried and hopeful people, which is all of us on some days. A routine you’ve practised beats confidence every time."
             }
           ]
         }
@@ -239,6 +416,16 @@
               "title": "Why report attempted fraud and recovery scams?",
               "detail": "Reports connect patterns, warn others, support investigations and document follow-up activity.",
               "text": ""
+            },
+            {
+              "title": "A caller from your bank says to move your savings to a “safe account” to protect it. What do you do?",
+              "text": "",
+              "detail": "Hang up and call the number on your card. Banks don’t ask you to move money to protect it."
+            },
+            {
+              "title": "A job offer asks you to receive money and send it on. What is the risk?",
+              "text": "",
+              "detail": "You could be used as a money mule. Your account could be closed, and you may have to repay the money."
             }
           ]
         },
@@ -262,7 +449,7 @@
         },
         {
           "type": "spotlight",
-          "text": "A household code phrase can confirm a real family emergency request. Confirm it through another known contact, and do not let an urgent voice message appoint itself chief financial officer."
+          "text": "A household code word can confirm a real family emergency. Confirm it through another known contact too, and don’t let an urgent voice message appoint itself chief financial officer."
         },
         {
           "type": "takeaway",
@@ -302,8 +489,26 @@
             {
               "title": "MFA",
               "text": "Multi-factor authentication: more than one type of proof is needed to open an account."
+            },
+            {
+              "title": "Money mule",
+              "text": "A person whose account is used to receive and pass on stolen money, often without knowing it is a crime."
+            },
+            {
+              "title": "Fraud alert",
+              "text": "A note on your credit file that asks lenders to confirm your identity before opening new credit in your name."
             }
           ]
+        },
+        {
+          "type": "source",
+          "text": "Canadian Anti-Fraud Centre",
+          "url": "https://antifraudcentre-centreantifraude.ca/"
+        },
+        {
+          "type": "source",
+          "text": "Equifax Canada: Placing a fraud alert",
+          "url": "https://www.equifax.ca/personal/education/identity/articles/-/learn/how-can-i-place-a-fraud-alert-on-my-equifax-credit-report/"
         }
       ]
     }
@@ -319,16 +524,20 @@
   "checkIn": {
     "questions": [
       "What is your household’s rule for any request for money, codes or passwords that comes in by call, text or email?",
-      "Where will you keep your bank’s trusted phone number, and which two people will you call for a quick pause-and-check?",
+      "What is your family code word, and who knows it?",
+      "Where will you keep your bank’s real phone number, and which two people will you call for a quick pause-and-check?",
       "Which accounts need a unique password and stronger MFA? Start with email and banking.",
+      "Which bank alerts or limits will you turn on this week?",
       "What would you save as evidence if you were scammed, and when will you hold a 10-minute scam drill?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand no money, code, card or credential should leave during an unverified incoming contact.",
     "samples": [
       "We pay or share nothing during an incoming call. We hang up and call back.",
-      "In my contacts as “Bank (real)”. I will call my sister and my neighbour.",
+      "A word only the four of us know. I’ll tell Mom in person.",
+      "In my contacts as “Bank (real)”. I’ll call my sister and my neighbour.",
       "Email, bank, credit card and phone account.",
+      "Texts for every e-Transfer, and a $1,000 daily limit.",
       "Texts, call times and receipts in a folder. Drill on Sunday the 12th."
     ]
   },

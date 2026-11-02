@@ -178,9 +178,9 @@ Audited 2026-10-18 with `node scripts/readability.js money-NN --tells`. All 20 l
 | money-15 | The 30-Day Financial Reset | done 2026-10-18 (uncommitted) | 8.71 → 8.04 | 8.39 → 6.21 |
 | money-16 | Buying Versus Leasing | done 2026-10-18 (uncommitted) | 9.68 → 8.29 | 9.29 → 6.38 |
 | money-17 | Saving for a Home | done 2026-10-18 (uncommitted) | 10.19 → 8.12 | 10.70 → 6.43 |
-| money-18 | Managing Rental Costs | done 2026-10-18 (uncommitted) | 9.81 → 8.35 | 8.92 → 6.79 |
-| money-19 | Insurance Basics | done 2026-10-18 (uncommitted) | 9.39 → 8.24 | 9.64 → 6.77 |
-| money-20 | Financial Fraud and Scams | done 2026-10-18 (uncommitted) | 9.19 → 7.78 | 8.37 → 6.47 |
+| money-18 | Managing Rental Costs | rebuilt 2026-11-02 (Elite: ledger, conversion and payday calculators, stress-test panel, province tiles; 2026 ON/BC rent caps, QC TAL) | 9.81 → 7.00 | 8.92 → 6.32 |
+| money-19 | Insurance Basics | rebuilt 2026-11-02 (Elite: coverage-map tiles, deductible break-even panel, income-protection section with EI sickness, complaint routes GIO/OLHI, Assuris/PACICC) | 9.39 → 7.84 | 9.64 → 6.43 |
+| money-20 | Financial Fraud and Scams | rebuilt 2026-11-02 (Elite: scam field-guide tiles, CAFC 2025 figures, first-hour file cards, recovery contacts, prevention setup) | 9.19 → 6.32 | 8.37 → 6.06 |
 
 Tally: 20 done, 0 not treated. Grades for money-01, 02, 08, 09 and 10 are current values only; the rest show before → after. Fill-out forms for money-08, 09 and 10 were shortened to 6 questions with sample answers on 2026-10-18 (they had been missed in the first audit). Lessons 16 to 20 also had their outcomes-list (chips) block removed.
 

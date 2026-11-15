@@ -206,26 +206,26 @@ Six lessons had `ordered` lists corrupted at extraction (each item reduced to it
 | benefits-08 | Canada Pension Plan | done 2026-10-30 | 10.97 → 6.07 | 9.86 → 4.69 |
 | benefits-09 | CPP Disability Benefits | done 2026-10-30 | 12.62 → 7.51 | 13.43 → 5.54 |
 | benefits-10 | Employment Insurance | done 2026-10-30 | 10.57 → 6.16 | 8.25 → 4.41 |
-| benefits-11 | Provincial Income Support | done 2026-10-30 (corrupted list rebuilt) | 13.08 → 7.83 | 10.65 → 4.56 |
-| benefits-12 | Provincial Disability Programs | done 2026-10-30 | 13.88 → 7.51 | 11.61 → 5.50 |
-| benefits-13 | Rent Assistance | done 2026-10-30 | 11.62 → 7.14 | 11.84 → 4.96 |
-| benefits-14 | Utility Assistance | done 2026-10-30 | 12.53 → 7.86 | 11.10 → 4.55 |
-| benefits-15 | Dental-Care Benefits | done 2026-10-30 (corrupted list rebuilt) | 10.60 → 6.38 | 9.18 → 4.29 |
-| benefits-16 | Prescription Assistance | done 2026-10-30 (corrupted list rebuilt) | 12.93 → 7.55 | 12.55 → 5.47 |
-| benefits-17 | Student Grants | done 2026-10-30 | 11.12 → 6.94 | 8.74 → 5.06 |
-| benefits-18 | Apprenticeship Funding | done 2026-10-30 (corrupted list rebuilt) | 11.54 → 7.46 | 9.09 → 4.40 |
-| benefits-19 | Indigenous Benefits and Programs | done 2026-10-30 (corrupted list rebuilt) | 12.78 → 7.51 | 9.94 → 5.80 |
-| benefits-20 | Newcomer Settlement Supports | done 2026-10-30 (corrupted list rebuilt) | 13.85 → 7.61 | 12.48 → 5.54 |
-| benefits-21 | Veteran Benefits | done 2026-10-30 | 7.69 → 7.50 | 9.14 → 5.38 |
-| benefits-22 | Senior Home-Renovation Programs | done 2026-10-30 | 8.14 → 7.70 | 6.89 → 5.64 |
-| benefits-23 | Energy-Efficiency Rebates | done 2026-10-30 | 8.73 → 7.33 | 10.04 → 5.27 |
-| benefits-24 | Training Grants | done 2026-10-30 | 9.26 → 8.29 | 9.02 → 5.62 |
-| benefits-25 | Small-Business Grants | done 2026-10-30 | 9.12 → 7.35 | 11.60 → 5.63 |
-| benefits-26 | Wage Subsidies | done 2026-10-30 | 9.09 → 7.88 | 8.52 → 5.16 |
-| benefits-27 | First-Time Home Buyer Programs | done 2026-10-30 | 8.91 → 7.22 | 11.42 → 5.65 |
-| benefits-28 | Tax Credits People Commonly Miss | done 2026-10-30 | 11.49 → 8.24 | 11.39 → 5.41 |
-| benefits-29 | Provincial Benefit Finders | done 2026-10-30 | 10.15 → 7.45 | 11.33 → 5.24 |
-| benefits-30 | How to Apply Without Getting Scammed | done 2026-10-30 | 9.75 → 7.49 | 10.93 → 5.44 |
+| benefits-11 | Provincial Income Support | rebuilt 2026-11-15 (Gold: Ontario Works earnings panel, 30-day appeal day carousel, report-changes list) | 7.83 → 6.76 | 4.56 → 4.56 |
+| benefits-12 | Provincial Disability Programs | rebuilt 2026-11-15 (Gold: ODSP vs B.C. PWD earnings panel, health-coverage note, moving-provinces file cards) | 7.51 → 6.43 | 5.50 → 5.50 |
+| benefits-13 | Rent Assistance | rebuilt 2026-11-15 (Gold: housing-gap ledger vs the 30% measure, Ontario N4 five-step carousel, sheriff-only spotlight) | 7.14 → 6.43 | 4.96 → 4.96 |
+| benefits-14 | Utility Assistance | rebuilt 2026-11-15 (Gold: back-bill payment-plan calculator, Ontario winter ban panel (Nov 15 to Apr 30, May 1)) | 7.86 → 6.74 | 4.55 → 4.55 |
+| benefits-15 | Dental-Care Benefits | rebuilt 2026-11-15 (Gold: CDCP income-band panel, crown cost ledger ($640), share-split calculator, renewal-year panel) | 6.38 → 5.72 | 4.29 → 4.29 |
+| benefits-16 | Prescription Assistance | rebuilt 2026-11-15 (Platinum: receipt ledger, Fair PharmaCare stage panel, deductible payday calculator, national pharmacare tiles (MB, BC Plan NP, PEI, YT), six counter questions) | 7.55 → 6.68 | 5.47 → 5.47 |
+| benefits-17 | Student Grants | rebuilt 2026-11-15 (Platinum: school-year budget ledger, aid-deposit waterfall, services and equipment grant, repayment section (RAP, grace period, 340 weeks)) | 6.94 → 6.15 | 5.06 → 5.06 |
+| benefits-18 | Apprenticeship Funding | rebuilt 2026-11-15 (Platinum: gap conversion calculator, trades tax section (tools, labour mobility, tuition), after-block file cards) | 7.46 → 6.85 | 4.40 → 4.40 |
+| benefits-19 | Indigenous Benefits and Programs | rebuilt 2026-11-15 (Platinum: three-People route panels, NIHB and Métis note, help-today tiles (Jordan’s Principle and Hope for Wellness lines)) | 7.51 → 7.22 | 5.80 → 5.80 |
+| benefits-20 | Newcomer Settlement Supports | rebuilt 2026-11-15 (Platinum: first-30-days day carousel, RC66 and RC151 benefits tiles, IFHP, ECA-is-not-a-licence file cards, story moved earlier) | 7.61 → 6.99 | 5.54 → 5.54 |
+| benefits-21 | Veteran Benefits | rebuilt 2026-11-15 (Diamond: lump-sum waterfall, regime comparison panels, starter-file cards, decision section (review, VRAB, BPA, reassessment), story trimmed 354 → 275) | 7.50 → 7.09 | 5.38 → 6.42 |
+| benefits-22 | Senior Home-Renovation Programs | rebuilt 2026-11-15 (Diamond: 2026 credit panel (HATC 14%, MHRTC $7,500), invoice-sorting ledger, province tiles, does-this-apply file cards) | 7.70 → 6.88 | 5.64 → 5.64 |
+| benefits-23 | Energy-Efficiency Rebates | rebuilt 2026-11-15 (Diamond: open/closed panels with corrected Greener Homes dates, rebate-wait loan-cost calculator, province tiles, title-check file cards) | 7.33 → 7.29 | 5.27 → 5.27 |
+| benefits-24 | Training Grants | rebuilt 2026-11-15 (Diamond: costed-proposal ledger, Canada Training Credit panel, full-time vs part-time shape panel, apprentice lane trimmed) | 8.29 → 6.63 | 5.62 → 5.62 |
+| benefits-25 | Small-Business Grants | rebuilt 2026-11-15 (Diamond: project funding-stack ledger, matching-share calculator, fee-taker vs grant-writer panels, funding-ready file cards) | 7.35 → 6.79 | 5.63 → 5.63 |
+| benefits-26 | Wage Subsidies | rebuilt 2026-11-15 (Elite: placement cost ledger, payroll-carry interest scan, money-timing tiles) | 7.88 → 6.97 | 5.16 → 5.16 |
+| benefits-27 | First-Time Home Buyer Programs | rebuilt 2026-11-15 (Elite: FHSA payday calculator, account stack panel, new-build relief panel, land transfer tiles, after-the-keys HBP repayment section) | 7.22 → 6.14 | 5.65 → 5.65 |
+| benefits-28 | Tax Credits People Commonly Miss | rebuilt 2026-11-15 (Elite: household medical ledger, whose-return panel, ten-year look-back section (T1-ADJ)) | 8.24 → 7.02 | 5.41 → 5.41 |
+| benefits-29 | Provincial Benefit Finders | rebuilt 2026-11-15 (Elite: benefits-year calendar, six life-change file cards, tool icon tiles) | 7.45 → 6.91 | 5.24 → 5.24 |
+| benefits-30 | How to Apply Without Getting Scammed | rebuilt 2026-11-15 (Elite: real-vs-scam panels, five-sign NUMBER carousel, call-back script quote, lock-the-doors tiles, recovery steps) | 7.49 → 6.47 | 5.44 → 5.44 |
 
 Health was the last untreated course. Credit and money were treated earlier under older rules; see their sections for remaining gaps.
 

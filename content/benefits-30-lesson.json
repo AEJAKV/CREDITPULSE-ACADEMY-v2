@@ -12,7 +12,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Nine modules of real programs, real deadlines and real dollar amounts is exactly the raw material a scammer needs. They do not have to invent a convincing lie about veterans’ benefits or home renovation grants or GST rebates. The real programs already come with real names, real numbers and real urgency built in."
+          "text": "A whole course of real programs, real deadlines and real dollar amounts is exactly the raw material a scammer needs. They do not have to invent a convincing lie about veterans’ benefits or home renovation grants or GST rebates. The real programs already come with real names, real numbers and real urgency built in."
         },
         {
           "type": "paragraph",
@@ -20,7 +20,7 @@
         },
         {
           "type": "paragraph",
-          "text": "This final module is not about fraud in general. It is about the moment when everything else in this course can be used against you, and the few habits that close that door no matter which program’s name gets borrowed next."
+          "text": "This final module is not about fraud in general. It is about the moment when everything else in this course can be used against you, and the few habits that close that door no matter which program’s name gets borrowed next: one fact, five signs, one sentence to say, and a few locks to set before anyone knocks."
         },
         {
           "type": "transition",
@@ -32,99 +32,152 @@
     },
     {
       "id": "onefact",
-      "title": "The one fact that ends most of these before they start",
+      "title": "The One Fact That Ends Most of These Before They Start",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "No government department in Canada will call, text or email you to demand payment now, threaten arrest, or ask for bank details, a credit card number or your full Social Insurance Number over the phone. That includes the CRA, Veterans Affairs, Natural Resources Canada and Employment and Social Development Canada. This is not a guideline with exceptions. Every one of these departments says so, in writing."
+          "text": "No government department in Canada will call, text or email you to demand payment now, threaten arrest, or ask for bank details, a credit card number or your full Social Insurance Number over the phone. That includes the CRA, Veterans Affairs, Natural Resources Canada and Employment and Social Development Canada. Every one of these departments says so, in writing."
         },
         {
           "type": "paragraph",
-          "text": "Legitimate government contact looks unglamorous by comparison. A letter by mail. A notice in a secure online portal you logged into yourself. A callback you initiated to a number you looked up independently. None of it arrives with the emotional temperature of a threat, and none of it needs an answer in the next twenty minutes."
+          "text": "Legitimate government contact looks unglamorous by comparison. None of it arrives with the emotional temperature of a threat, and none of it needs an answer in the next twenty minutes."
         },
         {
-          "type": "paragraph",
-          "text": "Learn that one fact and you have already closed the door on most of what follows in this module. Everything else here is what to do with the fact once you notice the door being tried."
+          "type": "lists",
+          "items": [
+            {
+              "title": "A real program",
+              "detail": "WHAT IT LOOKS LIKE",
+              "text": "",
+              "list": [
+                "A letter by mail",
+                "A message in an online account you logged into yourself",
+                "Time to read, check and call back",
+                "Payment, if any, through your own bank or the official site",
+                "Free to learn about and free to apply for"
+              ]
+            },
+            {
+              "title": "A scam",
+              "detail": "WHAT IT LOOKS LIKE",
+              "icon": "alert",
+              "text": "",
+              "list": [
+                "A call, text or email you did not expect",
+                "A countdown measured in minutes",
+                "Gift cards, crypto, an e-transfer to a person or a courier",
+                "A link to click instead of a login",
+                "A fee to get something that is free"
+              ]
+            }
+          ]
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“If they knew my name, my address and mentioned a real program, it must be legitimate.”",
-              "text": "Scammers do more homework now, and fake caller ID can show a real government number. Knowing your details or a real program name shows someone did research, not who they work for. Check through a channel you control, using a number you looked up yourself, no matter how much the caller seems to know."
+              "text": "Scammers do more homework now, and fake caller ID can show a real government number. Knowing your details or a real program name shows someone did research, not who they work for. Check through a channel you control, using a number you looked up yourself."
             }
           ]
+        },
+        {
+          "type": "source",
+          "text": "CRA: Scams and fraud",
+          "url": "https://www.canada.ca/en/revenue-agency/campaigns/fraud-scams.html"
         }
       ]
     },
     {
       "id": "shape",
-      "title": "The shape of it, whichever program’s name gets used",
+      "title": "Five Signs, Whichever Program’s Name Gets Used",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Different scripts, same structure. Recognizing the structure matters more than memorizing any single version, because the version changes every tax season and the structure does not."
+          "text": "Different scripts, same structure. Recognizing the structure matters more than memorizing any single version, because the version changes every tax season and the structure does not. Here are the five signs, one at a time."
         },
         {
-          "type": "ordered",
+          "type": "carousel",
           "items": [
             {
-              "title": "Urgency with a countdown",
-              "text": "Pay in the next thirty minutes or face arrest, account suspension, or losing the benefit. Real programs do not work on a clock that starts when you pick up the phone."
+              "title": "COUNTDOWN",
+              "detail": "NUMBER 1",
+              "icon": "clock",
+              "text": "Pay in thirty minutes or face arrest or lose the benefit. Real programs do not run on a clock that starts when you answer."
             },
             {
-              "title": "An unusual payment method",
-              "text": "Gift cards, cryptocurrency, e-transfer to a personal account, or a courier picking up cash. No Canadian government department accepts any of these for a debt, a fee, or to release a benefit."
+              "title": "ODD PAYMENT",
+              "detail": "NUMBER 2",
+              "icon": "dollar",
+              "text": "Gift cards, crypto, an e-transfer to a person or cash by courier. No government department takes any of these."
             },
             {
-              "title": "A link instead of a login",
-              "text": "An email or text pushing you to click a link to claim a refund or check your account. A real program tells you to log in to an account you already have, the way you normally would."
+              "title": "A LINK",
+              "detail": "NUMBER 3",
+              "icon": "search",
+              "text": "A text or email pushing you to click to claim a refund. Real programs tell you to log in the way you normally do."
             },
             {
-              "title": "A fee to access something free",
-              "text": "Being asked to pay to be told about a grant, or asked for a percentage of an award before you have applied for anything. Every genuine program covered in this course is free to learn about and free to apply for."
+              "title": "A FEE",
+              "detail": "NUMBER 4",
+              "icon": "filecheck",
+              "text": "Paying to hear about a grant, or a cut of an award before you apply. Every real program in this course is free."
             },
             {
-              "title": "Contact you did not initiate, about something you did not start",
-              "text": "A call about a grant you never applied for, a rebate you never requested, a benefit review you never triggered."
+              "title": "UNASKED",
+              "detail": "NUMBER 5",
+              "icon": "lock",
+              "text": "A call about a grant you never applied for, a rebate you never asked for or a review you never started."
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "text": "One sign is a reason to slow down. Two or more is a reason to stop, hang up and check through your own door."
         }
       ]
     },
     {
       "id": "verify",
-      "title": "Verify through your own door",
+      "title": "Verify Through Your Own Door",
       "paragraphs": [],
       "blocks": [
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: VERIFY THROUGH A DOOR YOU OPENED YOURSELF"
+          "type": "spotlight",
+          "text": "Do not call the number the caller gave you. Do not click the link in the text or email. Instead, look up the department’s number yourself, from a letter you already have or a search you run, and contact them that way. If the contact was real, this costs a few minutes and confirms it. If it was fake, you have closed the door without giving anything up. It is the one rule worth memorizing word for word."
         },
         {
-          "type": "spotlight",
-          "text": "Do not call the number the caller gave you. Do not click the link in the text or email. Instead, look up the department’s number yourself, from a bill you already have or a search you run, and contact them that way. If the contact was real, this costs a few minutes and confirms it. If it was fake, you have closed the door without giving anything up. It works whether the borrowed name is the CRA, Veterans Affairs or a small-business grant. It is the one rule worth memorizing word for word."
+          "type": "paragraph",
+          "text": "Saying it out loud is the hard part, so have the words ready. This works on any caller, ends any countdown and costs nothing to say:"
+        },
+        {
+          "type": "quote",
+          "text": "“I need to call you back. I will use the number on my own letter.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "A real caller will say that is fine. A scammer will push harder, get angry or suddenly offer a discount. Either way, you have your answer."
         }
       ]
     },
     {
       "id": "needs",
-      "title": "What a real application actually needs from you",
+      "title": "What a Real Application Actually Needs From You",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Across the nine modules in this course, real programs asked for ID, income figures, medical forms and bank details for direct deposit. They always did it through a form you opened yourself, on a site you went to on your own. None of them asked for it on a phone call you did not expect."
+          "text": "Across this course, real programs asked for ID, income figures, medical forms and bank details for direct deposit. They always did it through a form you opened yourself, on a site you went to on your own. None of them asked for it on a phone call you did not expect."
         },
         {
           "type": "paragraph",
-          "text": "Your Social Insurance Number needs special care. Some real applications require it. It is also one of the most valuable things a fraudster can get to build a fake identity. Give it only when you started the contact, on an official government site or form. Never give it in reply to an email, text or call you did not expect, however official it sounds. If you are not sure a form needs it, ask the organization first, using a number you looked up yourself."
+          "text": "Your Social Insurance Number needs special care. Some real applications require it. It is also one of the most valuable things a fraudster can get to build a fake identity. Give it only when you started the contact, on an official government site or form. If you are not sure a form needs it, ask the organization first, using a number you looked up yourself."
         },
         {
           "type": "paragraph",
-          "text": "The paid “helper” showed up in the Small-Business Grants lesson for small-business grants, and it applies just as much to a veteran’s disability claim, a senior’s renovation grant or a training credit. Anyone charging a fee up front, or a cut of an award, to help you apply for something that is free to apply for is not offering a shortcut. Every free helper named in this course exists so nobody has to pay for this: Service Officers, Community Futures, Small Business Enterprise Centres, employment counsellors and 211."
+          "text": "The paid “helper” showed up in the Small-Business Grants lesson, and it applies just as much to a veteran’s disability claim, a senior’s renovation grant or a training credit. Every free helper named in this course exists so nobody has to pay for this: Service Officers, Community Futures, Small Business Enterprise Centres, employment counsellors and 211."
         },
         {
           "type": "myths",
@@ -138,17 +191,79 @@
       ]
     },
     {
-      "id": "recover",
-      "title": "What to do if you already gave something up",
+      "id": "locks",
+      "title": "Lock the Doors Before Anyone Knocks",
       "paragraphs": [],
       "blocks": [
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: WHAT TO DO IF YOU ALREADY GAVE SOMETHING UP"
+          "type": "paragraph",
+          "text": "The best time to protect your benefits is on a quiet afternoon, not in the middle of a call. These four take under an hour, together."
         },
         {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Your own CRA account",
+              "icon": "bank",
+              "text": "Register for CRA My Account and turn on email notices. You will see your real balance and messages, and hear when your address or deposit details change."
+            },
+            {
+              "title": "Saved real numbers",
+              "icon": "calendar",
+              "text": "Save the CRA, Service Canada and your provincial office numbers from official letters, in your phone and on paper."
+            },
+            {
+              "title": "Bank alerts",
+              "icon": "shield",
+              "text": "Turn on alerts for every e-transfer, new payee and large withdrawal, so a problem shows up in minutes, not weeks."
+            },
+            {
+              "title": "A household rule",
+              "icon": "home",
+              "text": "Agree with the people you live with: nobody pays or shares a number on a call they did not start."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Scammers only go after people who are not careful.”",
+              "text": "These scripts are tested on thousands of people and built to work on careful people in a hurry. Locks set in advance work when attention runs out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recover",
+      "title": "What to Do If You Already Gave Something Up",
+      "paragraphs": [],
+      "blocks": [
+        {
           "type": "spotlight",
-          "text": "This happens to careful people. What you do next matters more than the mistake, and speed matters more than shame. If money moved, call your bank or card company right away. Some payments can still be stopped or reversed in the first few hours. If you shared your SIN, bank details or other personal information, contact the department yourself, using a number you look up, and ask about fraud alerts on your account. Report it to the Canadian Anti-Fraud Centre whether or not you lost money. They track patterns across many reports, and a report that seems small can be the piece that helps them stop the next one. Nobody who reports has to explain how they were fooled. These scams are built by people who do this for a living, tested on thousands of people and designed to work on careful, smart people under time pressure. Being targeted is not a judgment on you."
+          "text": "This happens to careful people. What you do next matters more than the mistake, and speed matters more than shame. If money moved, call your bank or card company right away. Some payments can still be stopped or reversed in the first few hours. If you shared your SIN, bank details or other personal information, contact the department yourself, using a number you look up, and ask about fraud alerts on your account. Report it to the Canadian Anti-Fraud Centre whether or not you lost money. Being targeted is not a judgment on you."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Call your bank or card company",
+              "text": "Ask them to stop or reverse the payment and lock the account."
+            },
+            {
+              "title": "Call the real department",
+              "text": "Use a number from an official letter. Ask them to flag your file."
+            },
+            {
+              "title": "Add credit fraud alerts",
+              "text": "Ask Equifax and TransUnion to put a fraud alert on your credit file, so lenders check it is really you."
+            },
+            {
+              "title": "Report it",
+              "text": "Call the Canadian Anti-Fraud Centre at 1‑888‑495‑8501, or report online. Call police if you lost money."
+            }
+          ]
         },
         {
           "type": "heading",
@@ -186,12 +301,17 @@
         {
           "type": "paragraph",
           "text": "If more than one of these is true, stop. Hang up, close the message, and verify independently before doing anything else."
+        },
+        {
+          "type": "source",
+          "text": "Canadian Anti-Fraud Centre",
+          "url": "https://antifraudcentre-centreantifraude.ca/index-eng.htm"
         }
       ]
     },
     {
       "id": "story",
-      "title": "Harold, the courier, and the phone call he made instead",
+      "title": "Harold, the Courier, and the Phone Call He Made Instead",
       "paragraphs": [],
       "blocks": [
         {
@@ -207,18 +327,70 @@
             "Harold makes his choice. He tells the man he needs to call him back. He hangs up. Then he dials the number on last year’s Notice of Assessment, not the number the caller gave him.",
             "The real CRA has no record of any debt, any warrant or any call. That afternoon, Harold reports it to the Canadian Anti-Fraud Centre. The next weekend, he tells his neighbour the same sentence his daughter told him.",
             "Nothing is lost except twenty minutes and one unpleasant hour."
+          ],
+          "at": 4,
+          "items": [
+            {
+              "title": "TUESDAY CALL",
+              "text": "A warrant “within the hour”"
+            },
+            {
+              "title": "ONE SENTENCE",
+              "text": "Hang up, call the real number"
+            },
+            {
+              "title": "THAT AFTERNOON",
+              "text": "Reported to the CAFC"
+            }
           ]
-        },
-        {
-          "type": "takeaway",
-          "text": "No government department demands payment now by phone, text or email, or accepts gift cards, cryptocurrency or cash by courier. Check any contact you did not expect through a number you look up yourself, never the one the caller gives you. Nothing in this course requires paying a fee to a third party. Every real program is free to learn about and free to apply for. If something does get through, report it and move fast. Speed matters far more than embarrassment.",
-          "detail": ""
         },
         {
           "type": "transition",
           "text": "Harold kept his savings by hanging up and calling the real CRA number himself.",
           "detail": "The same one sentence can protect you, and anyone you pass it on to.",
-          "extra": "Your action this week, in Section 08, starts with saving the real numbers."
+          "extra": "Your action this week, in Section 10, starts with saving the real numbers."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "A caller says the CRA will issue a warrant in an hour unless you pay. What do you do?",
+              "detail": "Hang up. Call the CRA yourself on a number from your own letter or the official site. The CRA does not threaten arrest by phone.",
+              "text": ""
+            },
+            {
+              "title": "A text says your GST rebate is ready and gives a link. What do you do?",
+              "detail": "Do not click. Log into CRA My Account the way you normally do and check there.",
+              "text": ""
+            },
+            {
+              "title": "Someone asks for a fee to help you apply for a free government grant. Which sign is that?",
+              "detail": "Number 4, a fee to get something free. Every real program in this course is free to apply for.",
+              "text": ""
+            },
+            {
+              "title": "You paid a scammer by e-transfer ten minutes ago. What comes first?",
+              "detail": "Call your bank right away. Some payments can still be stopped in the first few hours.",
+              "text": ""
+            },
+            {
+              "title": "What sentence ends any suspicious call?",
+              "detail": "“I need to call you back.” Then use a number you looked up yourself.",
+              "text": ""
+            },
+            {
+              "title": "Why report to the Canadian Anti-Fraud Centre if you lost nothing?",
+              "detail": "Reports help track patterns and stop the next scam. Small reports add up.",
+              "text": ""
+            }
+          ]
         }
       ]
     },
@@ -228,32 +400,16 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
-          "items": [
-            {
-              "title": "Save the real phone numbers for the CRA, Service Canada and your provincial benefits office somewhere you will actually find them under pressure, not just in memory.",
-              "text": ""
-            },
-            {
-              "title": "Tell one person in your life the single rule from this module: verify through a number you looked up yourself, never the one you were given. That sentence is the whole defence, and it is worth passing on the way Harold’s daughter did.",
-              "text": ""
-            },
-            {
-              "title": "If anything in the past year felt off, a call, a text, a website, report it to the Canadian Anti-Fraud Centre now. It costs ten minutes and it is never too late to matter.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Worksheet: your verification habit"
-        },
-        {
           "type": "paragraph",
-          "text": "One rule of thumb: if you are ever unsure mid-call, borrow Harold’s line. “I need to call you back” works on any caller, ends any countdown, and costs you nothing to say."
+          "text": "This week: save the real phone numbers for the CRA, Service Canada and your provincial benefits office where you will find them under pressure. Tell one person in your life the single rule from this module: verify through a number you looked up yourself, never the one you were given. If anything in the past year felt off, report it to the Canadian Anti-Fraud Centre now. It is never too late to matter."
         },
         {
           "type": "checkin"
+        },
+        {
+          "type": "takeaway",
+          "text": "Verify through a door you opened yourself.",
+          "detail": "No government department demands payment now by phone, text or email, or accepts gift cards, crypto or cash by courier. Check any contact you did not expect through a number you look up yourself, set your locks on a quiet day, and if something gets through, report it and move fast."
         }
       ]
     },
@@ -280,6 +436,14 @@
             {
               "title": "Verification through an independent channel",
               "text": "Contacting an organization with a number or address you found yourself, not one given by the person contacting you."
+            },
+            {
+              "title": "Fraud alert",
+              "text": "A note on your credit file that asks lenders to confirm it is really you before opening new credit."
+            },
+            {
+              "title": "Smishing",
+              "text": "A scam sent by text message, usually with a link."
             }
           ]
         },

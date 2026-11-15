@@ -4917,6 +4917,10 @@ body[data-focus='true'] .ambient-bg {
   gap: 16px;
   margin: 25px 0;
 }
+/* A panel with no partner (a single "Where to get help" list, or the last of an odd set) fills the row. */
+.list-panels article:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+}
 .list-panels article {
   padding: 28px 30px;
   border: 1px solid var(--line);

@@ -19,6 +19,10 @@
           "text": "Each province and territory runs its own disability income and health support. Ontario has ODSP. Alberta has AISH and ADAP. B.C. uses a Persons with Disabilities (PWD) status, and Quebec has Social Solidarity plus, for some long-term clients, the Basic Income Program. These are separate programs with their own rules, not local names for one national benefit."
         },
         {
+          "type": "paragraph",
+          "text": "This lesson goes past the application. You will check the four gates, build a file around your own province’s rules, see how much of a paycheque you keep in two provinces, and plan a move so your support and drug coverage do not fall into a gap."
+        },
+        {
           "type": "spotlight",
           "text": "A federal DTC or CPP disability approval can help with some provincial programs, but it does not prove you qualify everywhere. Each program decides which outside approvals it will accept."
         },
@@ -58,29 +62,29 @@
           "items": [
             {
               "title": "WHERE YOU LIVE AND YOUR AGE",
-              "text": "Check where you live, the youngest age that qualifies, any legal status rules and what changes when youth turn adults or adults turn 65."
+              "text": "Check where you live, the youngest age that qualifies, any legal status rules and what changes when youth turn adults or adults turn 65.",
+              "icon": "map"
             },
             {
               "title": "THE DISABILITY TEST",
-              "text": "Read your province’s own test for how long, how severe and how much the condition limits daily life and work. Do not copy CPP disability wording into an ODSP, AISH, ADAP, PWD or Social Solidarity form."
+              "text": "Read your province’s own test for how long, how severe and how much the condition limits daily life and work. Do not copy CPP disability wording into an ODSP, AISH, ADAP, PWD or Social Solidarity form.",
+              "icon": "heart"
             },
             {
               "title": "THE MONEY TEST",
-              "text": "Your income, a partner’s income, savings, trusts, RDSPs, gifts and settlements can each count in a different way. A medical approval alone may not lead to a payment."
+              "text": "Your income, a partner’s income, savings, trusts, RDSPs, gifts and settlements can each count in a different way. A medical approval alone may not lead to a payment.",
+              "icon": "wallet"
             },
             {
               "title": "AFTER YOU ARE APPROVED",
-              "text": "Work income, monthly or yearly reports, medical reviews, travel, changes at home and health benefits can all change your support later."
+              "text": "Work income, monthly or yearly reports, medical reviews, travel, changes at home and health benefits can all change your support later.",
+              "icon": "calendar"
             }
           ]
         },
         {
           "type": "spotlight",
           "text": "Ontario’s ODSP usually checks both a disability test and a money test. B.C. also keeps PWD status separate from the money test for disability help."
-        },
-        {
-          "type": "spotlight",
-          "text": "Alberta started ADAP in July 2026 next to AISH, with one shared Disability Income Assistance form. The two programs look at work ability in different ways and treat earnings differently."
         },
         {
           "type": "myths",
@@ -90,6 +94,10 @@
               "text": "Most provincial disability income programs still check your money. In some places your status can stay in place while a payment pauses, but check your own province’s rule."
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Alberta started ADAP in July 2026 next to AISH, with one shared Disability Income Assistance form. The two programs look at work ability in different ways and treat earnings differently."
         },
         {
           "type": "source",
@@ -114,10 +122,44 @@
         {
           "type": "paragraph",
           "text": "Next, build the money file: bank statements, rent or housing costs, income, savings, partner details, trusts, RDSPs, settlements and other benefits. Write the date of the rule beside each number. Ask how a paycheque would change your cash support, your health coverage and your reporting, one at a time."
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "title": "Take the Job and Keep Your Support",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Work rules are where provinces differ the most, and where people most often turn down a job they could have taken. Ontario counts earnings month by month. B.C. uses a yearly limit. Both let you keep a real share of what you earn."
         },
         {
-          "type": "spotlight",
-          "text": "Work rules differ. Ontario does not count the first $1,000 a month that an ODSP client with a disability earns. B.C. uses a yearly limit instead, which is $16,200 for a single PWD client in 2026."
+          "type": "paragraph",
+          "text": "In ODSP, the first $1,000 you earn each month does not count. Above that, your support goes down by 75 cents for each extra dollar, so you keep 25 cents. In B.C., a single person with PWD status can earn up to $16,200 in 2026 before earnings lower support at all. Here is someone earning $1,600 a month in each."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Earning $1,600 a month in two provinces",
+          "detail": "EXAMPLE FOR A SINGLE ADULT",
+          "items": [
+            {
+              "title": "Ontario (ODSP)",
+              "text": "Not counted $1,000. Counted $600. Support lowered by $450."
+            },
+            {
+              "title": "B.C. (PWD)",
+              "text": "Earned in a year $19,200. Yearly limit $16,200. Above the limit $3,000."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In Ontario, this person keeps all of the first $1,000 and $150 of the next $600, so working $1,600 adds $1,150 a month to what they had. In B.C., nothing is lowered until the year’s earnings pass $16,200, which at this pace happens in the eleventh month. Ask your worker how earnings above the limit are treated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask about health coverage before you accept a job. Many programs keep drug and dental coverage going for a time after earnings rise, but the rules and dates differ. Losing a drug plan can cost more than a raise is worth."
         },
         {
           "type": "myths",
@@ -127,10 +169,60 @@
               "text": "Many programs let you keep some earnings, cut support only part of the way or keep health coverage for a while. Report your work honestly, and ask for the math in writing before you turn down a job based on folklore."
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "move",
+      "title": "Moving Provinces Without a Gap",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Your condition moves with you. Your benefit usually does not. Each province asks for its own application and its own disability check, and the two payment calendars will not line up on their own. Plan the move like a handover."
         },
         {
-          "type": "spotlight",
-          "text": "Before you apply or change your income, compare five things in your own province: the disability test, the money test, the work rules, the health coverage and the review dates."
+          "type": "filecards",
+          "text": "Six things to settle before moving day",
+          "items": [
+            {
+              "title": "Last payment",
+              "text": "Which month your old province pays for, and when to report the move."
+            },
+            {
+              "title": "New application",
+              "text": "Which form the new province uses, and how long it usually takes."
+            },
+            {
+              "title": "Drug coverage",
+              "text": "What covers your medicine in the weeks between the two programs."
+            },
+            {
+              "title": "Equipment",
+              "text": "Whether wheelchairs, aids or supplies move with you or need new approval."
+            },
+            {
+              "title": "Emergency help",
+              "text": "What the new province offers if money runs short during the gap."
+            },
+            {
+              "title": "In writing",
+              "text": "Both answers, dated, with the worker’s name, kept together."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not cancel your old benefit before you have these answers. Telling your old program the move date is required. Cancelling early is not."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I should cancel my benefit as soon as I know I am moving.”",
+              "text": "Report the move date, but let the old program end on its own schedule while the new application is reviewed. Cancelling first can open a gap with no income and no drug coverage."
+            }
+          ]
         }
       ]
     },
@@ -151,11 +243,22 @@
             "A friend tells him to cancel ODSP now and start fresh in Alberta. That feels tidy. Marcus thinks about the gap it would open, with no cheque and no drug coverage in either province. He decides not to cancel anything yet. He tells Ontario his move date, asks both programs what happens in between, and gets their answers in writing.",
             "Alberta’s form asks about his work, so he adds his three mornings a week and the pay. He also learns that his old medical forms do not answer every Alberta question. His Calgary doctor fills in the new form, and Marcus writes his own page on how his days go.",
             "The money does not arrive overnight. But Ontario covers his last month, Alberta’s emergency help covers his pills, and his application is complete the first time. Marcus did not just change the logo. He changed the whole plan, and this time the entitlement booked a seat."
+          ],
+          "at": 3,
+          "items": [
+            {
+              "title": "TWO WEEKS BEFORE",
+              "text": "Alberta call: apply fresh"
+            },
+            {
+              "title": "MAY",
+              "text": "Last ODSP payment"
+            },
+            {
+              "title": "JUNE",
+              "text": "Emergency help for his pills"
+            }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Before you move to another province, call both programs. Ask about end dates, new applications, drug coverage, mobility equipment and emergency help. Do not expect two payment calendars to line up on their own."
         },
         {
           "type": "heading",
@@ -168,8 +271,8 @@
         {
           "type": "transition",
           "text": "Marcus kept his Ontario support, his pills and his job by asking both provinces before he cancelled anything.",
-          "detail": "The same four questions can protect your own income and drug coverage if you move, take work or face a review.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "detail": "The same questions can protect your own income and drug coverage if you move, take work or face a review.",
+          "extra": "The quick check in Section 07 tests the math."
         }
       ]
     },
@@ -192,18 +295,28 @@
               "text": ""
             },
             {
+              "title": "An ODSP client earns $1,400 in a month. By how much is support lowered?",
+              "detail": "$300. The first $1,000 does not count, and 75% of the other $400 is $300.",
+              "text": ""
+            },
+            {
+              "title": "A B.C. client with PWD status earns $1,000 a month. Do earnings lower support this year?",
+              "detail": "No. $1,000 × 12 is $12,000, which is under the $16,200 yearly limit for a single person in 2026.",
+              "text": ""
+            },
+            {
+              "title": "Why ask about health coverage before taking a job?",
+              "detail": "Drug and dental coverage can change when earnings rise. Losing it can cost more than the raise.",
+              "text": ""
+            },
+            {
+              "title": "You are moving provinces next month. Should you cancel your benefit now?",
+              "detail": "No. Report the move date, then let the old program end on its schedule while you apply in the new province.",
+              "text": ""
+            },
+            {
               "title": "Why keep your medical file and your money file apart?",
               "detail": "You describe daily life and your health worker gives the medical proof. The money file uses other papers and other rules, and a medical approval alone may not lead to a payment.",
-              "text": ""
-            },
-            {
-              "title": "How do work earnings rules differ in Ontario and B.C.?",
-              "detail": "Ontario does not count the first $1,000 a month an ODSP client with a disability earns. B.C. uses a yearly limit, $16,200 for a single PWD client in 2026.",
-              "text": ""
-            },
-            {
-              "title": "What should you check before moving to another province?",
-              "detail": "Whether the new province needs a new application, disability review and money check, and how end dates, drug coverage and emergency help work during the move.",
               "text": ""
             }
           ]
@@ -225,6 +338,11 @@
         {
           "type": "spotlight",
           "text": "Quebec’s Basic Income Program can move some long-term Social Solidarity clients over on its own once they have the needed history. It is not a first application for everyone with a disability."
+        },
+        {
+          "type": "takeaway",
+          "text": "Disability support is set by each province.",
+          "detail": "Check the local disability test and money test, ask for the earnings math and the health-coverage rules before you take or turn down work, and plan any move as a handover, not a cancellation."
         }
       ]
     },
@@ -263,6 +381,10 @@
             {
               "title": "Medical review",
               "text": "A later check that you still meet the program’s disability test."
+            },
+            {
+              "title": "Yearly earnings limit",
+              "text": "B.C.’s way of counting work income for PWD clients: earnings up to a set yearly amount do not lower support."
             }
           ]
         }
@@ -287,12 +409,12 @@
       "What is your next important date, and who can help you? For example, a move date, a review or a renewal."
     ],
     "samples": [
-      "Alberta. I will apply for AISH or ADAP on the shared form.",
-      "Yes, ODSP in Ontario. I also have the DTC.",
-      "A new doctor’s form and my Calgary lease.",
-      "About $600 a month from part-time work.",
-      "How much of my $600 can I keep, and will my drug coverage continue?",
-      "I move on June 1. My sister and a disability navigator will help me."
+      "Ontario. ODSP.",
+      "Yes, CPP disability since last year.",
+      "My doctor’s part of the form and my last three bank statements.",
+      "About $400 a month from a weekend job.",
+      "How much of my $400 can I keep, and do my drug benefits stay the same?",
+      "My form is due back on March 15. A legal clinic worker will help me."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

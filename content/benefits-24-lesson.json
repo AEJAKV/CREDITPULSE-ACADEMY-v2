@@ -19,12 +19,8 @@
           "text": "Training money in Canada comes from four separate places, and they barely know each other exists."
         },
         {
-          "type": "heading",
-          "text": "What this course does"
-        },
-        {
           "type": "paragraph",
-          "text": "The lane you are standing in decides who applies, who receives the money, and whether it arrives before or after you pay tuition. This module sorts the four lanes, in the order that keeps a claim alive."
+          "text": "The lane you are standing in decides who applies, who receives the money, and whether it arrives before or after you pay tuition. This module sorts the four lanes, shows you how to pitch training to an employer, prices the months you will earn less, and finds the credit that may already be waiting on your tax file."
         },
         {
           "type": "transition",
@@ -36,7 +32,7 @@
     },
     {
       "id": "lanes",
-      "title": "Four lanes: find yours before you do anything else",
+      "title": "Four Lanes: Find Yours Before You Do Anything Else",
       "paragraphs": [],
       "blocks": [
         {
@@ -48,15 +44,17 @@
           "items": [
             {
               "title": "Employed, training for your current job",
+              "detail": "LANE ONE",
               "text": "",
               "list": [
-                "Job Grant programs pay a share of training an existing employee. The government covers the larger part, the employer the rest.",
+                "Job Grant programs pay a share of training for an existing employee. The government covers the larger part, the employer the rest.",
                 "You cannot apply. Your employer can. Bring a costed proposal, not a request.",
                 "Provincially run, and not all running: Ontario’s has been paused for review since late 2025."
               ]
             },
             {
               "title": "Out of work, or leaving a shrinking industry",
+              "detail": "LANE TWO",
               "text": "",
               "list": [
                 "The largest pot of money in this course, and the least visible, because it has no national brand.",
@@ -66,35 +64,99 @@
             },
             {
               "title": "Paying for your own training",
+              "detail": "LANE THREE",
               "text": "",
               "list": [
                 "Two federal tax tools: the Canada Training Credit and the Lifelong Learning Plan.",
-                "Covered in full just below, including the comparison that matters."
+                "Section 04 covers both, with the numbers."
               ]
             },
             {
               "title": "You are an apprentice",
+              "detail": "LANE FOUR",
               "text": "",
               "list": [
-                "A separate system from the other three, and one that changed recently.",
-                "Covered in full just below, including what closed and what remains."
+                "A separate system with its own EI rules and an interest-free loan.",
+                "The federal apprentice grants ended on March 31, 2025.",
+                "The Apprenticeship Funding lesson covers this lane in full."
               ]
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "In lane one, the useful move is not a form. It is walking into a manager’s office with the program name, the training provider’s quote, and the employer’s share already worked out. Most managers say no to training because it feels like a vague expense. Fewer say no to a costed proposal with two-thirds of it already covered."
+          "text": "In lane two, provincial programs can pay tuition, books and a living allowance while you retrain. They are picky, usually want an eligibility interview, and tend to look for a job-market reason rather than a personal interest. New federal measures for apprentices and workers are announced often. Announced is not open. Do not plan a year around a press release."
+        },
+        {
+          "type": "source",
+          "text": "Canada: Canada Training Credit",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45350-canada-training-credit.html"
+        }
+      ]
+    },
+    {
+      "id": "employer",
+      "title": "Lane One: Turn a Request Into a Costed Proposal",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In lane one, the useful move is not a form. It is walking into a manager’s office with the program name, the training provider’s quote, and the employer’s share already worked out. Most managers say no to training because it feels like a vague expense. Fewer say no to a costed proposal with most of it already covered."
         },
         {
           "type": "paragraph",
-          "text": "In lane two, provincial programs can pay tuition, books and a living allowance while you retrain. They are picky, usually want an eligibility interview, and tend to look for a job-market reason rather than a personal interest. Applying takes weeks, so this lane rewards starting early too."
+          "text": "Here is an example proposal for a program that pays two-thirds of eligible training costs. Check your province’s current share and limits before you use real numbers."
+        },
+        {
+          "type": "ledger",
+          "detail": "THE ASK",
+          "text": "$6,000 of training − $4,000 from the job grant = $2,000 for the employer.",
+          "extra": "Your manager is not deciding on $6,000. They are deciding on $2,000, plus your time away from work.",
+          "items": [
+            {
+              "title": "Total training cost",
+              "amount": "$6,000",
+              "detail": "Total",
+              "text": "Is every cost on the provider’s written quote?"
+            },
+            {
+              "title": "Course tuition",
+              "amount": "$4,800",
+              "detail": "Provider",
+              "text": "Is the provider on the program’s approved list?"
+            },
+            {
+              "title": "Certification exam",
+              "amount": "$600",
+              "detail": "Provider",
+              "text": "Does the grant cover exam fees, or only class time?"
+            },
+            {
+              "title": "Books and materials",
+              "amount": "$600",
+              "detail": "Provider",
+              "text": "Are these listed as eligible costs?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Add one line about what the business gets: a skill it now buys from a contractor, a licence it needs, or a job it can promote you into instead of hiring from outside. Then hand over the application link. The employer applies, and usually before training starts."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My employer would never pay for training.”",
+              "text": "Many employers have never been asked with a number attached. A grant that covers most of the cost changes the question from “can we afford this?” to “can we afford not to?”"
+            }
+          ]
         }
       ]
     },
     {
       "id": "selffund",
-      "title": "Lane three: paying for your own training",
+      "title": "Lane Three: Paying for Your Own Training",
       "paragraphs": [],
       "blocks": [
         {
@@ -102,31 +164,54 @@
           "text": "Two federal tools live here, both run through the tax system, and most people who qualify for the first one do not know it exists."
         },
         {
-          "type": "paragraph",
-          "text": "The Canada Training Credit is a refundable credit that builds quietly in the background. If you file a return, are in the right age range and meet the income rules, an amount is added to your training credit limit every year, up to a lifetime cap. Refundable matters here: you get it even if you owe no tax."
+          "type": "glasspanel",
+          "text": "How the Canada Training Credit builds",
+          "detail": "REFUNDABLE CREDIT",
+          "items": [
+            {
+              "title": "Each year",
+              "text": "$250 — added to your limit when you file and qualify, from age 26 to 65."
+            },
+            {
+              "title": "Lifetime cap",
+              "text": "$5,000 — the most your limit can ever reach."
+            },
+            {
+              "title": "What you claim",
+              "text": "Half — of eligible tuition and fees, up to your limit. You get it even if you owe no tax."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Log into CRA My Account and look at your most recent Notice of Assessment. If you are in the eligible age range and have been filing returns with working income, there may be a Canada training credit limit sitting there, building for years without anyone telling you. The catch: people who stop filing during a low-income stretch stop building it, and those are often the people who later need to retrain. File every year, even a year with almost no income."
         },
         {
           "type": "paragraph",
           "text": "The Lifelong Learning Plan lets you withdraw from your own RRSP to fund full-time training for yourself or a spouse, tax-free at the time you take it out, with a repayment schedule afterward. It is not free money. It is your own money, borrowed from your future, with lost investment growth as the real cost."
         },
         {
-          "type": "cards",
+          "type": "lists",
           "items": [
             {
-              "title": "Whose money",
-              "text": "Canada Training Credit: The government’s — Lifelong Learning Plan: Yours, withdrawn from your RRSP"
+              "title": "Canada Training Credit",
+              "detail": "THE GOVERNMENT’S MONEY",
+              "text": "",
+              "list": [
+                "You do not repay it",
+                "Arrives after you file, the spring after you pay tuition",
+                "Real cost: none, beyond a smaller tuition credit for the same fees"
+              ]
             },
             {
-              "title": "Do you repay it",
-              "text": "Canada Training Credit: No — Lifelong Learning Plan: Yes, on a set schedule, or it becomes taxable income"
-            },
-            {
-              "title": "When you get it",
-              "text": "Canada Training Credit: After filing, the spring after you pay tuition — Lifelong Learning Plan: Before you enrol, it is cash up front"
-            },
-            {
-              "title": "Real cost",
-              "text": "Canada Training Credit: None, beyond a reduced tuition credit — Lifelong Learning Plan: Lost investment growth, plus repayment pressure"
+              "title": "Lifelong Learning Plan",
+              "detail": "YOUR OWN RRSP",
+              "text": "",
+              "list": [
+                "You repay it on a set schedule, or it becomes taxable income",
+                "Cash up front, before you enrol",
+                "Real cost: lost investment growth, plus repayment pressure"
+              ]
             }
           ]
         },
@@ -142,67 +227,51 @@
       ]
     },
     {
-      "id": "apprentice",
-      "title": "Lane four: you are an apprentice",
+      "id": "shape",
+      "title": "Price the Months, Not Just the Tuition",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This lane changed a lot, and most of what you will read online is wrong about it. The Apprenticeship Incentive Grant and the Apprenticeship Completion Grant, the two federal cash grants paid straight to apprentices, both ended on March 31, 2025. They no longer take applications."
+          "text": "The tuition is rarely what sinks a career change. The months without full income are. Before enrolling, work out one figure: the months of reduced income, multiplied by the gap between what you will bring in during training and what your fixed costs need. Then compare it with savings, a partner’s income, a living allowance or EI if you qualify while in approved training."
         },
         {
           "type": "paragraph",
-          "text": "What is left is real, and in some ways better. Apprentices can claim Employment Insurance while they attend school training. The Canada Apprentice Loan offers interest-free borrowing you can apply for months before training starts, and the money is there from day one, even while an EI claim is still being processed. Employers have their own incentive too: a federal tax credit tied to apprentice wages, worth knowing if you need to win over an unsure sponsor."
+          "text": "If the number is uncomfortable, the answer is usually not to give up the plan. It is to change its shape. Here is the same certificate taken two ways."
+        },
+        {
+          "type": "glasspanel",
+          "text": "One certificate, two shapes",
+          "detail": "SAME GOAL, DIFFERENT GAP",
+          "items": [
+            {
+              "title": "Full time, 8 months",
+              "text": "Monthly shortfall $1,100. Total shortfall $8,800. Tuition $4,000."
+            },
+            {
+              "title": "Part time, 18 months",
+              "text": "Monthly shortfall $300. Total shortfall $5,400. Tuition $4,200."
+            },
+            {
+              "title": "Difference",
+              "text": "Monthly shortfall $800 lower. Total shortfall $3,400 lower. Tuition $200 higher."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "New federal apprenticeship measures have been announced but not opened as of this writing. Announced is not open. Do not plan a year around a press release."
-        },
-        {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: THE MONEY THAT IS ALREADY SITTING ON YOUR TAX RETURN"
+          "text": "Part time takes longer, but it keeps more of your paycheque and cuts the total gap. A short certification that moves you sideways into a better-paying role first is another shape worth pricing."
         },
         {
           "type": "spotlight",
-          "text": "Log into CRA My Account and look at your most recent Notice of Assessment. If you are within the eligible age range and have been filing returns with working income, there is a Canada training credit limit sitting there, an amount that has been accumulating for years without anyone telling you. This is the rare government benefit that needs nothing from you until the moment you use it. It builds automatically, provided you file. Which is the catch worth stating plainly: people who stop filing during a low-income stretch stop accumulating, and those are often exactly the people who will later need to retrain. File every year, even a year with almost no income. It costs an hour and keeps this, and several other benefits, alive in the background."
-        }
-      ]
-    },
-    {
-      "id": "checklist",
-      "title": "Does this apply to me?",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Six quick questions. If most of these are true, move on to the order that keeps a claim alive."
+          "text": "People who take on high-interest debt to bridge a training period often finish the program and start the new job already behind. The credential was fine. The financing was the problem. If the gap needs a credit card, change the shape before you enrol."
         },
         {
-          "type": "chips",
+          "type": "myths",
           "items": [
             {
-              "title": "I know which of the four lanes I am in, and if I am in more than one, which pays first.",
-              "text": ""
-            },
-            {
-              "title": "I have checked my Notice of Assessment for an accumulated training credit limit.",
-              "text": ""
-            },
-            {
-              "title": "If my employer has to apply, I have a costed proposal rather than a request.",
-              "text": ""
-            },
-            {
-              "title": "If I need provincial support, I have booked the eligibility appointment, not just read the page.",
-              "text": ""
-            },
-            {
-              "title": "I have confirmed the program is currently open, not merely announced or historically famous.",
-              "text": ""
-            },
-            {
-              "title": "I know whether the money arrives before I pay tuition or after.",
-              "text": ""
+              "title": "“Full time is always the faster way to a better job.”",
+              "text": "Faster to finish, maybe. But a gap you cannot cover can force you to drop out, which is the slowest way of all."
             }
           ]
         }
@@ -210,7 +279,7 @@
     },
     {
       "id": "sequence",
-      "title": "What to do, in what order",
+      "title": "What to Do, in What Order",
       "paragraphs": [],
       "blocks": [
         {
@@ -255,17 +324,9 @@
     },
     {
       "id": "story",
-      "title": "Marcus, the college website, and the question nobody asked him",
+      "title": "Marcus, the College Website, and the Question Nobody Asked Him",
       "paragraphs": [],
       "blocks": [
-        {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: THE NUMBER THAT DECIDES WHETHER RETRAINING WORKS"
-        },
-        {
-          "type": "spotlight",
-          "text": "The tuition is rarely what sinks a career change. The months without full income are. Before enrolling, work out one figure: total months of reduced income, multiplied by the gap between what you will earn during training and what you need for fixed costs. Compare that to what you have available: savings, a partner’s income, a living allowance if your provincial program offers one, EI if you qualify while in approved training. If the number is uncomfortable, the answer is usually not to abandon the plan. It is to change its shape, a part-time program over eighteen months instead of full-time over eight, or a short certification that moves you sideways into a better-paying role first. People who take on high-interest debt to bridge a training period often finish the program and start the new job already behind. The credential was fine. The financing was the problem."
-        },
         {
           "type": "story",
           "text": "Marcus and the college website",
@@ -279,18 +340,70 @@
             "The counsellor does not ask what he wants to study. She asks if he is working, and if he is leaving a physical job for medical reasons. Both answers put him in a lane he never knew existed. Provincial retraining support will cover his tuition and pay a small allowance while he studies.",
             "There is one more surprise. She tells him to check his Notice of Assessment. He finds a training credit limit that has been building since his thirties.",
             "Marcus cancels the loan application. He had not asked the wrong question. He had asked the right question of an office that could only ever give him one answer."
+          ],
+          "at": 5,
+          "items": [
+            {
+              "title": "COLLEGE AID OFFICE",
+              "text": "Only a loan on offer"
+            },
+            {
+              "title": "EMPLOYMENT CENTRE",
+              "text": "Retraining lane found"
+            },
+            {
+              "title": "NOTICE OF ASSESSMENT",
+              "text": "Credit already waiting"
+            }
           ]
-        },
-        {
-          "type": "takeaway",
-          "text": "Four lanes, and the lane decides everything: job grants your employer applies for, provincial retraining programs, tax tools you claim yourself and the separate apprenticeship system. Check your Notice of Assessment first, confirm the program is open today rather than famous, and never assume the first office you called had the whole picture.",
-          "detail": ""
         },
         {
           "type": "transition",
           "text": "Marcus got his tuition covered, and found a credit he never knew he had, by asking one more office one more question.",
           "detail": "Knowing your lane can turn a loan you dread into training that is paid for.",
-          "extra": "Your action this week, in Section 08, starts with your Notice of Assessment."
+          "extra": "The quick check in Section 08 tests the math."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "You are employed and want training for your current job. Who applies for a job grant?",
+              "detail": "Your employer. Your job is to bring a costed proposal.",
+              "text": ""
+            },
+            {
+              "title": "Training costs $9,000 and a job grant covers two-thirds. What is the employer’s share?",
+              "detail": "$3,000. The grant covers $6,000.",
+              "text": ""
+            },
+            {
+              "title": "Tuition is $4,000 and your Canada training credit limit is $1,500. What can you claim?",
+              "detail": "$1,500. You can claim half the fees, $2,000, but only up to your limit.",
+              "text": ""
+            },
+            {
+              "title": "How fast does the Canada training credit limit build?",
+              "detail": "$250 a year when you file and qualify, to a lifetime cap of $5,000.",
+              "text": ""
+            },
+            {
+              "title": "A full-time program leaves you $900 short each month for 10 months. What is the total gap?",
+              "detail": "$9,000. Compare that with savings, an allowance or EI before you enrol.",
+              "text": ""
+            },
+            {
+              "title": "A federal program was announced last month. Can you budget for it?",
+              "detail": "Not yet. Check that it is officially open and who qualifies first.",
+              "text": ""
+            }
+          ]
         }
       ]
     },
@@ -300,32 +413,16 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
-          "items": [
-            {
-              "title": "Log into CRA My Account and find your Canada training credit limit. Write the number down.",
-              "text": ""
-            },
-            {
-              "title": "Call or visit your province’s employment services office and ask one question: given my situation, which programs am I eligible to be assessed for?",
-              "text": ""
-            },
-            {
-              "title": "If you are employed, price the training and find your province’s job grant, then bring both to your manager as a costed proposal.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Worksheet: your lane"
-        },
-        {
           "type": "paragraph",
-          "text": "One rule of thumb: if you cannot say which lane you are in yet, start there. Everything else on this worksheet depends on that answer."
+          "text": "This week: log into CRA My Account and find your Canada training credit limit. Then call or visit your province’s employment services office and ask one question: given my situation, which programs am I eligible to be assessed for? If you are employed, price the training and find your province’s job grant before you talk to your manager. If you cannot say which lane you are in yet, start there."
         },
         {
           "type": "checkin"
+        },
+        {
+          "type": "takeaway",
+          "text": "Four lanes, and the lane decides everything.",
+          "detail": "Job grants your employer applies for, provincial retraining programs, tax tools you claim yourself and the separate apprenticeship system. Check your Notice of Assessment first, price the months as well as the tuition, and never assume the first office you called had the whole picture."
         }
       ]
     },
@@ -384,7 +481,7 @@
         },
         {
           "type": "paragraph",
-          "text": "This module skips dollar figures on purpose. Program status, credit amounts and provincial rules in this field change often. Confirm every figure on the program’s own page the day you need it."
+          "text": "Program status and provincial rules in this field change often. The Canada Training Credit figures here have been the same since the credit began. Confirm every figure on the program’s own page the day you need it."
         }
       ]
     }
@@ -409,12 +506,12 @@
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information.",
     "samples": [
-      "Out of work, leaving a physical job for medical reasons.",
-      "A dispatch and logistics certificate. It starts in January.",
-      "A provincial office.",
-      "$1,250. I checked on October 30.",
-      "About eight months. A living allowance and my partner’s income.",
-      "Visit the employment centre and ask which programs I can be assessed for."
+      "Working, training for my job.",
+      "A project management course. It starts in March.",
+      "My employer.",
+      "$1,750. I checked on November 3.",
+      "None. I will train on weekends and keep my full pay.",
+      "Price the course and bring a costed proposal to my manager."
     ]
   },
   "sources": []

@@ -19,12 +19,8 @@
           "text": "These tools were built to stack, and the order you use them in changes what a house costs you."
         },
         {
-          "type": "heading",
-          "text": "What this course does"
-        },
-        {
           "type": "paragraph",
-          "text": "A new account arrived in 2023, the RRSP withdrawal limit nearly doubled in 2024, a federal sales tax rebate arrived in 2025, and Ontario added its own on a one-year window in 2026. This module is not a list to memorize. It is the order to work through before you sign anything."
+          "text": "A new account arrived in 2023, the RRSP withdrawal limit nearly doubled in 2024, a federal sales tax rebate arrived in 2025, and Ontario added its own on a one-year window in 2026. This module is not a list to memorize. It is the order to work through before you sign anything, and the bill that comes after the keys."
         },
         {
           "type": "transition",
@@ -36,35 +32,83 @@
     },
     {
       "id": "accounts",
-      "title": "Before you buy: two accounts, working together",
+      "title": "Before You Buy: Two Accounts, Working Together",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The First Home Savings Account, or FHSA, combines two things you already know from other registered accounts. Contributions are tax-deductible, like an RRSP. Qualifying withdrawals are tax-free, like a TFSA. You can put in up to eight thousand dollars a year, to a lifetime cap of forty thousand, and the account can stay open up to fifteen years."
+          "text": "The First Home Savings Account, or FHSA, combines two things you already know from other registered accounts. Contributions are tax-deductible, like an RRSP. Qualifying withdrawals are tax-free, like a TFSA. The Home Buyers’ Plan lets you take money out of an RRSP you already have, with no tax when you take it out, but you pay it back over fifteen years."
         },
         {
-          "type": "paragraph",
-          "text": "The Home Buyers’ Plan lets you take money out of an RRSP you already have: up to sixty thousand dollars, with no tax when you take it out. But it comes with a duty. You pay it back into your RRSP over fifteen years, and any year you miss gets added to your taxable income."
-        },
-        {
-          "type": "paragraph",
-          "text": "Here is the part that surprises people: you can use both, on the same home. A single buyer can draw on up to one hundred thousand dollars between the two. Two first-time buyers purchasing together can draw on up to two hundred thousand."
-        },
-        {
-          "type": "cards",
+          "type": "lists",
           "items": [
             {
-              "title": "Do you repay it",
-              "text": "FHSA: No — Home Buyers’ Plan (RRSP): Yes, over 15 years, or it becomes taxable"
+              "title": "FHSA",
+              "detail": "MONEY YOU NEVER REPAY",
+              "text": "",
+              "list": [
+                "Up to $8,000 a year, to a lifetime cap of $40,000",
+                "You build it by saving into it over time",
+                "Can stay open up to fifteen years",
+                "Must close by the end of the year after your first home withdrawal"
+              ]
             },
             {
-              "title": "Contribution needed first",
-              "text": "FHSA: Yes, built by saving into it over time — Home Buyers’ Plan (RRSP): No, draws on RRSP room you may already have"
+              "title": "Home Buyers’ Plan",
+              "detail": "A LOAN FROM YOUR RRSP",
+              "text": "",
+              "list": [
+                "Up to $60,000 from RRSP savings you already have",
+                "Paid back into your RRSP over fifteen years",
+                "Any missed year is added to your taxable income",
+                "Draws on money already saved, not new room"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "glasspanel",
+          "text": "What the two accounts can stack to",
+          "detail": "FHSA + HOME BUYERS’ PLAN",
+          "items": [
+            {
+              "title": "One buyer",
+              "text": "FHSA $40,000. Home Buyers’ Plan $60,000. Together $100,000."
             },
             {
-              "title": "Deadline pressure",
-              "text": "FHSA: Must be closed by year-end after first withdrawal — Home Buyers’ Plan (RRSP): Repayments start the second year after withdrawal"
+              "title": "Two buyers",
+              "text": "FHSA $80,000. Home Buyers’ Plan $120,000. Together $200,000."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Contribution room does not appear until the account exists, and unused room only carries forward once it is open. Someone who opens an FHSA the year they finally start seriously saving has already lost every year of room they could have built for free. Open the account as soon as you are eligible, even with a small first deposit, even if a purchase is years away. You lose nothing by having it sit there. You lose real room by waiting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Every dollar you put in also lowers your taxable income that year. At a 30% tax rate, an $8,000 contribution can bring about $2,400 back at tax time, which you can put straight back in next year. Try a target of your own."
+        },
+        {
+          "type": "paydays",
+          "text": "Fill your FHSA",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter your target, what is already in the account and what you can add each payday. Watch the number of deposits update.",
+          "items": [
+            {
+              "title": "This year’s $8,000",
+              "text": "",
+              "amount": "8000"
+            },
+            {
+              "title": "$20,000 down payment",
+              "text": "",
+              "amount": "20000"
+            },
+            {
+              "title": "Full $40,000",
+              "text": "",
+              "amount": "40000"
             }
           ]
         },
@@ -78,42 +122,58 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: OPEN THE FHSA BEFORE YOU THINK YOU NEED IT"
-        },
-        {
-          "type": "spotlight",
-          "text": "Contribution room does not appear until the account exists, and unused room only carries forward once the account is open. Someone who opens an FHSA the year they finally start seriously saving has already lost every year they could have been accumulating room quietly in the background, for free, with no obligation to contribute anything yet. The fix costs nothing. Open the account as soon as you are eligible, even with a small first deposit, even if a purchase is years away. You lose nothing by having it sit there. You lose real room by waiting."
+          "type": "source",
+          "text": "CRA: Withdrawals and transfers out of your FHSAs",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/withdrawals-transfers-out-your-fhsas.html"
         }
       ]
     },
     {
       "id": "newbuild",
-      "title": "At closing: what comes off the price of a new build",
+      "title": "At Closing: What Comes Off the Price of a New Build",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "If you are buying resale, skip ahead: none of this applies. This layer is specifically for new construction, and it is the part that changed the most recently."
+          "text": "If you are buying resale, skip ahead: none of this applies. This layer is specifically for new construction, and it is the part that changed most recently."
         },
         {
           "type": "paragraph",
           "text": "The GST/HST New Housing Rebate has been around for years. It lowers the sales tax on a new or fully renovated home. A separate First-Time Home Buyers’ rebate started for deals signed on or after March 20, 2025. It removes the federal part of the tax on homes up to one million dollars, with the relief shrinking on homes up to one and a half million."
         },
         {
-          "type": "paragraph",
-          "text": "Ontario layered its own version on top in 2026: a temporary rebate of the full provincial portion of the HST, on the same terms, for agreements signed between April 1, 2026 and March 31, 2027 only. Combined, a first-time buyer of a qualifying new Ontario home in that window can see tax relief up to roughly one hundred thirty thousand dollars. Outside that window, or outside Ontario, the numbers are smaller. Check the federal rebate alone."
+          "type": "glasspanel",
+          "text": "The sales tax relief on a new home",
+          "detail": "FIRST-TIME BUYERS",
+          "items": [
+            {
+              "title": "Up to $1 million",
+              "text": "Full relief — from the federal part of the sales tax, for deals signed from March 20, 2025."
+            },
+            {
+              "title": "$1M to $1.5M",
+              "text": "Partial — the relief shrinks as the price rises, and ends at $1.5 million."
+            },
+            {
+              "title": "Ontario’s window",
+              "text": "One year — the provincial part too, for agreements signed April 1, 2026 to March 31, 2027."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Two details decide whether any of this reaches you. First, ask your builder whether the rebate comes off at closing or whether you apply to the CRA yourself afterward. Ads for new homes sometimes already assume the builder will claim it, which changes what you owe. Second, the rebate usually needs only one buyer to be a first-time buyer. If your partner has owned a home before, get advice before you assume you qualify."
+          "text": "Combined, a first-time buyer of a qualifying new Ontario home in that window can see tax relief up to roughly one hundred thirty thousand dollars. Outside that window, or outside Ontario, check the federal rebate alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Two details decide whether any of this reaches you. First, ask your builder whether the rebate comes off at closing or whether you apply to the CRA yourself afterward. Second, the rebate usually needs only one buyer to be a first-time buyer. If your partner has owned a home before, get advice before you assume you qualify."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“New builds are always more expensive than resale, so none of this matters to me.”",
-              "text": "It changes the comparison but does not erase it. A new home with a six-figure tax rebate attached can land closer to a similar resale price than the sticker suggests. Whether that math works depends on your city and your builder’s prices, but run the numbers before you rule out new homes on price alone."
+              "text": "It changes the comparison but does not erase it. A new home with a six-figure tax rebate attached can land closer to a similar resale price than the sticker suggests. Run the numbers before you rule out new homes on price alone."
             }
           ]
         }
@@ -121,22 +181,47 @@
     },
     {
       "id": "landtransfer",
-      "title": "Also at closing: land transfer tax rebates",
+      "title": "Also at Closing: Land Transfer Tax Rebates",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This is separate from the sales tax rebates above, and it applies to new and resale homes alike. Ontario, British Columbia and Prince Edward Island each offer a first-time buyer rebate on provincial land transfer tax. Toronto adds a city rebate on top for its own Municipal Land Transfer Tax. Other provinces have either no land transfer tax or no first-time buyer break. Check your own before you assume it applies."
+          "text": "This is separate from the sales tax rebates above, and it applies to new and resale homes alike. Your lawyer usually applies these at closing, so if your lawyer knows to apply for it, you often never see the tax at all."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "Ontario",
+              "icon": "building",
+              "text": "A first-time buyer refund on provincial land transfer tax."
+            },
+            {
+              "title": "Toronto",
+              "icon": "home",
+              "text": "A separate city rebate on Toronto’s own Municipal Land Transfer Tax, on top of Ontario’s."
+            },
+            {
+              "title": "British Columbia",
+              "icon": "mountain",
+              "text": "A first-time buyer exemption on property transfer tax for homes under a price limit."
+            },
+            {
+              "title": "Prince Edward Island",
+              "icon": "waves",
+              "text": "A first-time buyer exemption on the provincial real property transfer tax."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Your lawyer usually applies these rebates at closing, so you do not claim them later. That is the one piece of good news in this section. If your lawyer knows to apply for it, you often never see the tax at all."
+          "text": "Other provinces have either no land transfer tax or no first-time buyer break. Check your own before you assume it applies."
         }
       ]
     },
     {
       "id": "checklist",
-      "title": "Does this apply to me?",
+      "title": "Does This Apply to Me?",
       "paragraphs": [],
       "blocks": [
         {
@@ -169,12 +254,51 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: ONE PROGRAM YOU MAY HAVE HEARD OF THAT NO LONGER EXISTS"
+          "type": "spotlight",
+          "text": "The federal First-Time Home Buyer Incentive, where the government co-invested in your home for a share of its future value, stopped taking applications in March 2024. It still turns up in articles, videos and kind advice from people who used it years ago. A program that once existed may not exist now. If an article has no date from the past year, treat every number in it as something to check, not a fact."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "title": "After the Keys: The Bill You Signed Up For",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Home Buyers’ Plan is the part that follows you home. You repay at least one-fifteenth of what you took out each year, into your RRSP, or that amount is added to your taxable income. A temporary rule gave people who withdrew from 2022 to 2025 extra years before repayments start, so check the date on your own withdrawal."
+        },
+        {
+          "type": "glasspanel",
+          "text": "What a Home Buyers’ Plan repayment looks like",
+          "detail": "OVER 15 YEARS",
+          "items": [
+            {
+              "title": "Full $60,000",
+              "text": "Yearly repayment $4,000. Monthly set-aside $333."
+            },
+            {
+              "title": "Partial $30,000",
+              "text": "Yearly repayment $2,000. Monthly set-aside $167."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Build that monthly set-aside into your first budget as a homeowner, next to the mortgage, property tax and insurance. A missed repayment is not a penalty fee. It is a tax bill, which is less dramatic and just as real."
         },
         {
           "type": "spotlight",
-          "text": "The federal First-Time Home Buyer Incentive, where the government co-invested in your home for a share of its future value, stopped taking applications in March 2024. It still turns up in articles, videos and kind advice from people who used it years ago. This is the lesson that keeps coming back in this course: a program that once existed may not exist now. Before you plan around anything in this module, or anything a relative mentions from their own purchase, check the date on the source. If an article has no date from the past year, treat every number in it as something to check, not a fact."
+          "text": "If you never buy a home, your FHSA is still not a mistake. You can move the money into your RRSP tax-free without using any of your RRSP room. The account is a safe place to start even if your plans change."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I will repay the Home Buyers’ Plan once things settle down.”",
+              "text": "Things rarely settle in the first years of owning a home. The schedule does not wait, and each missed year adds to your taxable income."
+            }
+          ]
         }
       ]
     },
@@ -216,7 +340,7 @@
     },
     {
       "id": "story",
-      "title": "Aisha and Tom, a spreadsheet, and the year they nearly skipped",
+      "title": "Aisha and Tom, a Spreadsheet, and the Year They Nearly Skipped",
       "paragraphs": [],
       "blocks": [
         {
@@ -232,18 +356,70 @@
             "Their lawyer spots the twist. If they sign before April 1, they miss Ontario’s new rebate window entirely. The difference is tens of thousands of dollars, all for the sake of a date. The builder pushes. They push back, and sign two weeks later.",
             "At closing, it all adds up: two FHSAs, a partial Home Buyers’ Plan withdrawal, the federal and Ontario sales tax rebates, and Ontario’s land transfer tax rebate.",
             "Together, the help covers a share of the home neither of them would have believed possible, back when they were still telling each other “next January.”"
+          ],
+          "at": 4,
+          "items": [
+            {
+              "title": "THE FIRST WEEK",
+              "text": "Two FHSAs, $400 each"
+            },
+            {
+              "title": "LATE MARCH",
+              "text": "Builder wants a signature"
+            },
+            {
+              "title": "TWO WEEKS LATER",
+              "text": "Signed inside the window"
+            }
           ]
-        },
-        {
-          "type": "takeaway",
-          "text": "Open an FHSA as soon as you qualify, whether or not you are close to buying. Room only builds once the account exists. Add the Home Buyers’ Plan if it helps, but remember it is a loan to yourself. If you are buying new, ask in writing how the sales tax rebate is applied, and check your signing date against the current windows. Treat any figure from a source without a recent date as unchecked.",
-          "detail": ""
         },
         {
           "type": "transition",
           "text": "Aisha and Tom saved tens of thousands by opening their FHSAs early and moving their signing date by two weeks.",
           "detail": "Opening the account now and checking dates before you sign can do the same for your purchase.",
-          "extra": "Your action this week, in Section 08, takes five minutes."
+          "extra": "The quick check in Section 09 tests the math."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Which account do you never pay back, the FHSA or the Home Buyers’ Plan?",
+              "detail": "The FHSA. The Home Buyers’ Plan is a loan from your own RRSP, repaid over fifteen years.",
+              "text": ""
+            },
+            {
+              "title": "Two first-time buyers each have a full FHSA and use the full Home Buyers’ Plan. How much can they draw on together?",
+              "detail": "Up to $200,000: $80,000 from two FHSAs and $120,000 from two Home Buyers’ Plan withdrawals.",
+              "text": ""
+            },
+            {
+              "title": "You take $45,000 through the Home Buyers’ Plan. What is the yearly repayment?",
+              "detail": "$3,000. That is $45,000 ÷ 15.",
+              "text": ""
+            },
+            {
+              "title": "You put $8,000 in an FHSA and your tax rate is 25%. About how much comes back at tax time?",
+              "detail": "About $2,000. That is $8,000 × 25%.",
+              "text": ""
+            },
+            {
+              "title": "You are buying resale. Does the new-home sales tax rebate apply?",
+              "detail": "No. It is for new or fully renovated homes. Check your land transfer tax rebate instead.",
+              "text": ""
+            },
+            {
+              "title": "You never end up buying. What can you do with your FHSA?",
+              "detail": "Move it into your RRSP tax-free, without using RRSP room.",
+              "text": ""
+            }
+          ]
         }
       ]
     },
@@ -253,32 +429,16 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
-          "items": [
-            {
-              "title": "If you do not have an FHSA, open one, even with a small first deposit. This is the highest-leverage five minutes in the module.",
-              "text": ""
-            },
-            {
-              "title": "Check your RRSP balance and Home Buyers’ Plan room, and write down what a full repayment schedule would actually look like on your income.",
-              "text": ""
-            },
-            {
-              "title": "If a purchase is on the horizon, call your intended lawyer or a real estate lawyer now and ask what rebates apply in your province, before you are mid-transaction and rushed.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Worksheet: your buyer’s stack"
-        },
-        {
           "type": "paragraph",
-          "text": "One rule of thumb: if question one shows no FHSA open, open one before you do anything else on this worksheet. It costs nothing to have and something real to lack."
+          "text": "This week: if you do not have an FHSA, open one, even with a small first deposit. Check your RRSP balance and work out what a full Home Buyers’ Plan repayment would look like on your income. If a purchase is on the horizon, call a real estate lawyer now and ask what rebates apply in your province, before you are mid-transaction and rushed."
         },
         {
           "type": "checkin"
+        },
+        {
+          "type": "takeaway",
+          "text": "Open the FHSA first, then stack the rest in order.",
+          "detail": "Room only builds once the account exists. Add the Home Buyers’ Plan if it helps, and budget the repayment. If you are buying new, ask in writing how the sales tax rebate is applied and check your signing date against the current windows. Treat any figure from a source without a recent date as unchecked."
         }
       ]
     },
@@ -357,12 +517,12 @@
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information.",
     "samples": [
-      "Yes, both of us. About $16,000 of room each.",
-      "Yes, about $20,000 between us.",
-      "New. A townhouse.",
-      "Ontario. Yes, our lawyer will apply it at closing.",
+      "Yes. About $8,000 of room.",
       "No.",
-      "canada.ca and the Ontario government site, checked October 30."
+      "Resale. A condo.",
+      "British Columbia. Yes, there is a first-time buyer exemption.",
+      "Not sure. My partner owned a cabin years ago.",
+      "canada.ca and the B.C. government site, checked November 4."
     ]
   },
   "sources": []

@@ -19,6 +19,10 @@
           "text": "Settlement groups help newcomers who qualify with housing, language classes, jobs, school, health care, meeting people and daily life. Many services paid for by IRCC are free. Who qualifies for federal help depends on your immigration status and, for some economic-class permanent residents, how long ago you got that status. Provinces, territories, cities and local groups may offer more help under their own rules."
         },
         {
+          "type": "paragraph",
+          "text": "This lesson gives you an order, not a pile: who can help you, what to do in your first month, which benefits only start when you apply, and how to get your training recognized without paying for the wrong thing."
+        },
+        {
           "type": "spotlight",
           "text": "Use IRCC’s service finder to look up funded helpers by postal code and type of help. A helper can check what you need and point you to the right place, so you do not have to search every program alone."
         },
@@ -58,10 +62,12 @@
           "items": [
             {
               "title": "USUALLY QUALIFY",
+              "icon": "shield",
               "text": "Permanent residents, protected persons, resettled refugees, people IRCC has told they were picked to become permanent residents, and some temporary residents on special programs."
             },
             {
               "title": "USUALLY OUTSIDE THE FEDERAL RULES",
+              "icon": "map",
               "text": "Most temporary residents, refugee claimants and Canadian citizens fall outside the regular federal settlement rules. Local or provincial services may still help."
             }
           ]
@@ -69,10 +75,6 @@
         {
           "type": "spotlight",
           "text": "Since April 1, 2026, economic-class permanent residents and the family who came with them usually have six years from their permanent-resident date to use federally funded settlement help. That window drops to five years on April 1, 2027."
-        },
-        {
-          "type": "spotlight",
-          "text": "Pre-arrival help is free for people who are approved to move here but still live outside Canada. It can help you plan, look for work and find contacts before your suitcase meets Canadian winter."
         },
         {
           "type": "myths",
@@ -84,6 +86,10 @@
           ]
         },
         {
+          "type": "spotlight",
+          "text": "Pre-arrival help is free for people who are approved to move here but still live outside Canada. It can help you plan, look for work and find contacts before your suitcase meets Canadian winter."
+        },
+        {
           "type": "source",
           "text": "IRCC: Settlement-service eligibility",
           "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/eligibility-settlement-services.html"
@@ -91,55 +97,73 @@
       ]
     },
     {
-      "id": "sequence",
-      "title": "Get Settled, Get Connected, Then Build",
+      "id": "first-month",
+      "title": "Your First 30 Days, One Step Opening the Next",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The checklist is not a race. It is an order of steps."
+          "text": "The checklist is not a race. It is an order of steps. Each step below gives you something the next one asks for. Your own dates will move, and that is fine."
         },
         {
-          "type": "ordered",
+          "type": "carousel",
           "items": [
             {
-              "title": "Get safe and settled",
-              "text": "Housing, food, urgent health care and a way to reach people come first. A settlement worker can help with each one."
+              "title": "SAFE",
+              "detail": "DAY 1",
+              "icon": "lock",
+              "text": "A safe place to sleep, food, a working phone number and an emergency contact come first."
             },
             {
-              "title": "Get your key papers",
-              "text": "Apply for your SIN and provincial health card, open a bank account and sign the children up for school or childcare."
+              "title": "SIN",
+              "detail": "DAYS 2–3",
+              "icon": "filetext",
+              "text": "Apply for your Social Insurance Number with your immigration papers. You need it to work and to get benefits."
             },
             {
-              "title": "Start language and job help",
-              "text": "Book a language test, join a free class, and ask about job search and how to get your training recognized."
+              "title": "HEALTH CARD",
+              "detail": "DAYS 3–5",
+              "icon": "check",
+              "text": "Apply for your provincial health card. Ask if there is a waiting period and how to cover care until it starts."
             },
             {
-              "title": "File taxes and claim benefits",
-              "text": "File a tax return every year, even with little or no income, so benefits like the Canada Child Benefit can reach you."
+              "title": "BANK",
+              "detail": "DAYS 5–7",
+              "icon": "bank",
+              "text": "Open a bank account. Many banks have newcomer accounts with lower fees for the first year."
+            },
+            {
+              "title": "HELPER",
+              "detail": "DAYS 8–10",
+              "icon": "search",
+              "text": "Meet a settlement worker for a free needs check: housing, school, childcare, language and work."
+            },
+            {
+              "title": "LANGUAGE",
+              "detail": "DAYS 11–20",
+              "icon": "book",
+              "text": "Book a language test, then a free LINC or CLIC class if you qualify. Ask about child-minding and online options."
+            },
+            {
+              "title": "BENEFITS",
+              "detail": "DAYS 21–30",
+              "icon": "dollar",
+              "text": "Apply for the Canada child benefit or the GST/HST credit. In your first year, these start when you apply."
             }
           ]
         },
         {
-          "type": "spotlight",
-          "text": "LINC and CLIC are free English and French classes for adult newcomers who qualify. You usually take a language test first. Class times, child-minding, travel help and online options depend on the provider."
-        },
-        {
-          "type": "spotlight",
-          "text": "How your foreign training is recognized depends on your job and your province. Find the group that licenses your job before you pay for a review or a course. A handsome receipt is not a professional licence."
+          "type": "paragraph",
+          "text": "Children can usually start school soon after you arrive. Contact your local school board for the registration steps, and bring proof of address, their immigration papers and any school records you have."
         },
         {
           "type": "myths",
           "items": [
             {
-              "title": "“A foreign degree must always be replaced with a Canadian degree.”",
-              "text": "Some jobs are regulated and need a review or a licence. Others are not. Your best route may be a review, a bridging program, a certificate, proof of your past work or a direct job search, not always a whole new degree."
+              "title": "“I should finish every step in the first week.”",
+              "text": "Rushing can mean paying for things you did not need or signing a lease you cannot keep. A settlement worker can help you decide what must happen now and what can wait."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Key takeaway: check what help you qualify for first. Then take each step in the order that opens the next one: safety, papers, language, work and benefits. Use free official and community help before you pay, and update your plan when your status, province or family changes."
         }
       ]
     },
@@ -160,6 +184,21 @@
             "The deadline on the ad is Friday. Paying feels like progress, and she has the money. Farah opens the payment page, then closes it. She decides to spend one free hour with a settlement worker first.",
             "The worker helps her check her service window, book a language test and find childcare for her classes. Then they look up Manitoba’s engineering regulator together. It wants an assessment through its own process. The $2,400 package is not part of it.",
             "Three months later, Farah has a real plan to get licensed, a short list of jobs to apply for and fewer appointments. The package ad still turns up now and then. She keeps it in a folder called “not today.” The paperwork is still paperwork, but it has stopped forming its own government."
+          ],
+          "at": 3,
+          "items": [
+            {
+              "title": "WEEK 2",
+              "text": "$2,400 package ad"
+            },
+            {
+              "title": "ONE FREE HOUR",
+              "text": "Settlement worker"
+            },
+            {
+              "title": "THREE MONTHS",
+              "text": "Real licensing plan"
+            }
           ]
         },
         {
@@ -178,7 +217,120 @@
           "type": "transition",
           "text": "Farah kept $2,400 and found her real path to licensing by talking to a free settlement worker before she paid.",
           "detail": "One free hour with the right helper can show you what to do first and what can wait.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next step."
+          "extra": "Section 05 covers the benefits that only start when you apply."
+        }
+      ]
+    },
+    {
+      "id": "benefits",
+      "title": "Benefits That Wait for You to Ask",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Most Canadians get family benefits because they file a tax return every year. In your first year, you have no Canadian return yet, so the payments do not start on their own. You start them with a form."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "CANADA CHILD BENEFIT",
+              "icon": "home",
+              "text": "If you have children, apply with Form RC66 and its schedule. You can get both the child benefit and the GST/HST credit this way."
+            },
+            {
+              "title": "GST/HST CREDIT",
+              "icon": "receipt",
+              "text": "If you have no children, apply with Form RC151 in your first year. You do not need to file a tax return first."
+            },
+            {
+              "title": "PROVINCIAL HEALTH CARE",
+              "icon": "heart",
+              "text": "Some provinces have a waiting period before coverage starts. Ask yours, and buy private coverage for the gap if you need it."
+            },
+            {
+              "title": "INTERIM FEDERAL HEALTH",
+              "icon": "shield",
+              "text": "Resettled refugees, protected persons and refugee claimants may be covered by this federal program until provincial coverage starts."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "After your first year, file a tax return every year, even with little or no income, so the payments keep coming. The forms ask about income you earned outside Canada before you arrived, so keep those papers handy. A free tax clinic can help you file."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I earned nothing in Canada, so there is no point filing.”",
+              "text": "Your return is how the government works out your benefits. No return can mean no child benefit and no credits, even when you qualify for the most help."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "CRA: Newcomers to Canada and the CRA",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html"
+        }
+      ]
+    },
+    {
+      "id": "credentials",
+      "title": "Get Your Training Recognized Without Paying Twice",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Here is the twist many newcomers learn too late. The education check you may have done to immigrate, called an ECA, is not a licence. IRCC says so plainly. If your job is regulated, a provincial or territorial body decides whether you can work in it, and it may run its own assessment."
+        },
+        {
+          "type": "filecards",
+          "text": "Six steps from foreign training to Canadian work",
+          "items": [
+            {
+              "title": "Name the job",
+              "text": "Find your job’s Canadian title and code on the Job Bank website."
+            },
+            {
+              "title": "Regulated or not",
+              "text": "Check if your province licenses that job. Many jobs need no licence at all."
+            },
+            {
+              "title": "Find the regulator",
+              "text": "If it is regulated, the regulator’s own website lists the steps and fees. Start there."
+            },
+            {
+              "title": "Ask about the ECA",
+              "text": "Ask whether your immigration assessment counts, before you pay for another one."
+            },
+            {
+              "title": "Fill the gaps",
+              "text": "A bridging program, exam or supervised practice may be cheaper than a whole new degree."
+            },
+            {
+              "title": "Work meanwhile",
+              "text": "A related job can build Canadian experience and income while you finish."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "How your foreign training is recognized depends on your job and your province. Find the group that licenses your job before you pay for a review or a course. A handsome receipt is not a professional licence."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A foreign degree must always be replaced with a Canadian degree.”",
+              "text": "Some jobs are regulated and need a review or a licence. Others are not. Your best route may be a review, a bridging program, a certificate, proof of your past work or a direct job search, not always a whole new degree."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "IRCC: Having your education assessed",
+          "url": "https://ircc.canada.ca/english/helpcentre/questions-answers-by-topic.asp?st=29.4.4"
         }
       ]
     },
@@ -201,8 +353,18 @@
               "text": ""
             },
             {
-              "title": "What usually happens before a LINC or CLIC class?",
-              "detail": "You usually take a language test first. Class times, child-minding, travel help and online options depend on the provider.",
+              "title": "A permanent resident got status in June 2026. Under the five-year rule from April 2027, roughly when does federal settlement help end?",
+              "detail": "Around June 2031, five years from the permanent-resident date. Check your own date with a settlement provider.",
+              "text": ""
+            },
+            {
+              "title": "A newcomer family with two children arrived this spring. Which form starts the child benefit?",
+              "detail": "Form RC66 with its schedule. In the first year, you do not need to file a tax return first.",
+              "text": ""
+            },
+            {
+              "title": "Does an ECA done for immigration let you work in a regulated job?",
+              "detail": "No. It helps with immigration. A provincial or territorial regulator decides on a licence and may run its own assessment.",
               "text": ""
             },
             {
@@ -233,7 +395,12 @@
         },
         {
           "type": "spotlight",
-          "text": "A settlement plan is a set of steps, not a race. Never share passwords or one-time security codes, and ask whether a copy of a document is needed before you hand one over."
+          "text": "Never share passwords or one-time security codes, even with someone helping you. Ask whether a copy of a document is needed before you hand one over."
+        },
+        {
+          "type": "takeaway",
+          "text": "Check what help you qualify for first.",
+          "detail": "Then take each step in the order that opens the next one: safety, papers, help, language, benefits and work. Use free official and community help before you pay, and update your plan when your status, province or family changes."
         }
       ]
     },
@@ -266,6 +433,18 @@
               "text": "Free English or French classes for adult newcomers who qualify."
             },
             {
+              "title": "RC66",
+              "text": "The form newcomers use to apply for the Canada child benefit."
+            },
+            {
+              "title": "RC151",
+              "text": "The form newcomers without children use to apply for the GST/HST credit in their first year."
+            },
+            {
+              "title": "ECA",
+              "text": "Educational credential assessment. Checks foreign education for immigration, not for a licence."
+            },
+            {
               "title": "Regulated occupation",
               "text": "A job that needs approval from a provincial or territorial body."
             },
@@ -296,12 +475,12 @@
       "What is one job or training step you will take in the next 30 days?"
     ],
     "samples": [
-      "Permanent resident since March 2026.",
-      "Childcare, so I can go to classes.",
-      "The newcomer centre near my home. I found it with IRCC’s service finder.",
-      "A provincial health card for my youngest child.",
-      "Yes. I booked my language test for next week.",
-      "Look up my job’s regulator in Manitoba before I pay for anything."
+      "Protected person since January 2026.",
+      "Finding an apartment we can afford.",
+      "Not sure yet. I will use IRCC’s service finder.",
+      "A SIN and a bank account.",
+      "Yes.",
+      "Ask a settlement worker which group licenses nurses in my province."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

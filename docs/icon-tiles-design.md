@@ -47,6 +47,7 @@ Add an `icon` to each item of an existing `cards` block. Nothing else changes, a
 | `target` | Target | goals, purpose |
 | `activity` | Activity pulse | habits, behaviour, usage |
 | `tree` | Pine tree | forest or northern provinces |
+| `school` | Graduation cap | school, student aid, education |
 
 Use a different icon for each tile in a set.
 

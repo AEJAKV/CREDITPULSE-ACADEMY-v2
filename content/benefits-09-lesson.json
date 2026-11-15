@@ -59,10 +59,6 @@
         },
         {
           "type": "spotlight",
-          "text": "Check your CPP Statement of Contributions early. Medical proof cannot replace missing CPP payments, and a strong payment record cannot replace the severe-and-prolonged test."
-        },
-        {
-          "type": "spotlight",
           "text": "If you paid into the Quebec Pension Plan, you may need to apply through QPP disability. Living in Quebec now does not by itself show which plan your payments went to."
         },
         {
@@ -86,25 +82,25 @@
           "items": [
             {
               "title": "MEDICAL EVIDENCE",
-              "text": "Diagnosis, history, test results where they matter, treatment, how you responded, outlook and how long it is expected to last."
+              "text": "Diagnosis, history, test results where they matter, treatment, how you responded, outlook and how long it is expected to last.",
+              "icon": "heart"
             },
             {
               "title": "DAILY LIMITS",
-              "text": "What you can do reliably, for how long and how often, including rest time, supervision, changes at work or help from others."
+              "text": "What you can do reliably, for how long and how often, including rest time, supervision, changes at work or help from others.",
+              "icon": "activity"
             },
             {
               "title": "WORK EVIDENCE",
-              "text": "What your job asked of you, missed days, cut hours, changed duties, failed returns, changes at work and why you stopped."
+              "text": "What your job asked of you, missed days, cut hours, changed duties, failed returns, changes at work and why you stopped.",
+              "icon": "briefcase"
             },
             {
               "title": "OTHER WORK YOU COULD DO",
-              "text": "Your schooling, language and skills, and whether you could do other paying work regularly, not just once on a good day."
+              "text": "Your schooling, language and skills, and whether you could do other paying work regularly, not just once on a good day.",
+              "icon": "route"
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Send your part of the application right away. Do not wait for the medical report. Service Canada needs both parts before it decides, but the date it gets your application can affect how far back payments go."
         },
         {
           "type": "spotlight",
@@ -120,11 +116,7 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
-        },
-        {
-          "type": "paragraph",
+          "type": "takeaway",
           "text": "CPP disability needs enough CPP payments plus proof that your condition regularly stops you from any job that pays a real living, for a long time."
         }
       ]
@@ -148,10 +140,6 @@
             "The twist comes at her doctor’s office. The doctor points out that her limits would rule out desk work too, because she cannot sit or focus for long stretches. Samira had never thought to say that. It goes in the file.",
             "Service Canada makes the decision. But her file now shows how the condition affects reliable work, instead of asking a diagnosis to carry the entire file."
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "A failed return to work can matter when you write down the duties, hours, changes, symptoms, recovery time and why it ended. It is not automatic proof either way."
         },
         {
           "type": "transition",
@@ -275,12 +263,12 @@
       "What is one thing you will do this week for your application?"
     ],
     "samples": [
-      "52. Yes, it shows enough years.",
-      "March 2026.",
-      "Lifting, walking the floor for a full shift, and keeping up a safe pace.",
-      "I tried four-hour shifts for two weeks. I needed two days to recover after each one.",
-      "Only mine. My doctor’s report is due next month.",
-      "Write down every missed shift and change at work since January."
+      "47. Yes, it shows payments in five of the last six years.",
+      "About November 2025.",
+      "Standing at a till for a full shift, and lifting stock.",
+      "I went back three days a week for a month. I missed six of those shifts.",
+      "Neither yet. My doctor has the form.",
+      "Send my part of the application on Monday."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

@@ -19,6 +19,10 @@
           "text": "First Nations, Inuit and Métis are distinct Peoples. Each has its own rights, governments, groups and program routes. A service may be federal, provincial or territorial. It may be run by a community, designed for one of the three Peoples or open to everyone. Who qualifies can depend on registration or recognition, your Nation or community, where you live, your age, income and health needs, and the program’s own rules."
         },
         {
+          "type": "paragraph",
+          "text": "This lesson does not hand you one list. It shows you how to find your own route: by People, by need, by the office that runs the program, and by the questions that keep a request from stalling."
+        },
+        {
           "type": "spotlight",
           "text": "Start with who you are and what you need, not a benefit name. The best route may be a First Nation office, an Inuit organization, a Métis government, a friendship centre, a provincial program or Indigenous Services Canada."
         },
@@ -40,7 +44,76 @@
           "type": "transition",
           "text": "Finding the office that runs a program gets you help faster than searching for one national benefit.",
           "detail": "The same need, like health or school, can have several different front doors.",
-          "extra": "Section 02 shows how one need can have more than one door."
+          "extra": "Section 02 shows how the routes differ for each People."
+        }
+      ]
+    },
+    {
+      "id": "peoples",
+      "title": "Three Peoples, Three Sets of Routes",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Programs are built “distinctions-based,” which means separately with or for First Nations, Inuit and Métis. Start in the panel that fits you. Many people also use provincial programs open to everyone, so this is a first stop, not the only one."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "First Nations",
+              "detail": "START WITH YOUR NATION",
+              "text": "",
+              "list": [
+                "Your band office or tribal council for local programs",
+                "Jordan’s Principle for a child’s products, services and supports",
+                "NIHB for health costs other plans do not cover, if you qualify",
+                "Your Nation’s education office for post-secondary funding",
+                "On-reserve income assistance and housing through your Nation"
+              ]
+            },
+            {
+              "title": "Inuit",
+              "detail": "START WITH YOUR REGION",
+              "text": "",
+              "list": [
+                "Your regional Inuit organization or land claim beneficiary office",
+                "Inuit-specific help for children’s needs through your region",
+                "NIHB for health costs, for Inuit clients who qualify",
+                "Post-secondary funding through your Inuit organization",
+                "Territorial or provincial programs where you live"
+              ]
+            },
+            {
+              "title": "Métis",
+              "detail": "START WITH YOUR MÉTIS GOVERNMENT",
+              "text": "",
+              "list": [
+                "Your provincial Métis government or Métis Nation body",
+                "Post-secondary funding run by Métis governments",
+                "Provincial health plans, because NIHB does not generally cover Métis clients",
+                "Métis housing, employment and training programs",
+                "Provincial programs open to all residents"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Each route asks for its own proof. A status card shows registration under the Indian Act. Inuit organizations keep their own beneficiary lists. Métis governments issue citizenship cards. Ask which proof a program needs before you send copies of everything."
+        },
+        {
+          "type": "spotlight",
+          "text": "A status card can help you get some services. It does not prove you qualify for every program. It also does not create one tax rule for every purchase or kind of income."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Métis people can use NIHB like First Nations and Inuit.”",
+              "text": "NIHB is generally for registered First Nations and recognized Inuit clients. Métis health costs usually go through provincial plans, private coverage or Métis programs, so check before a bill arrives."
+            }
+          ]
         }
       ]
     },
@@ -58,18 +131,22 @@
           "items": [
             {
               "title": "HEALTH",
+              "icon": "heart",
               "text": "NIHB covers some health costs that other plans do not, for First Nations and Inuit clients who qualify. That includes drugs, dental, vision and mental health counselling. It also covers medical supplies, equipment and travel to medical care."
             },
             {
               "title": "CHILDREN AND YOUTH",
+              "icon": "lifebuoy",
               "text": "Jordan’s Principle helps First Nations children living in Canada get the products, services and supports they need without delays over which government pays. Requests can be for one child or a group."
             },
             {
               "title": "EDUCATION",
+              "icon": "school",
               "text": "Help for college or university may come through a First Nation, an Inuit group or a Métis Nation body. It may also come through another group chosen to run it. Dates, priorities and money vary."
             },
             {
               "title": "INCOME AND DAILY LIVING",
+              "icon": "home",
               "text": "On-reserve income assistance and assisted living are often run by First Nations or other groups. Provincial and territorial programs may apply elsewhere."
             }
           ]
@@ -77,10 +154,6 @@
         {
           "type": "spotlight",
           "text": "Qualifying for NIHB is not the same as qualifying for a provincial health card. Ask your provider which program they bill first and whether you need approval before the service."
-        },
-        {
-          "type": "spotlight",
-          "text": "Jordan’s Principle puts the needs of First Nations children first. A request can cover health, social or school support when the current system does not provide what the child needs."
         },
         {
           "type": "myths",
@@ -105,7 +178,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Ask these before you count on any program, not after a claim is turned down."
+          "text": "Ask these before you count on any program, not after a claim is turned down. Help with college or university, for example, is not an automatic cheque. Money may be limited and given out by local priority."
         },
         {
           "type": "ordered",
@@ -133,14 +206,6 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "Help with college or university is not an automatic cheque. Money may be limited and given out by local priority. Each community or group runs it under its own rules, so apply early and ask for the written rules."
-        },
-        {
-          "type": "spotlight",
-          "text": "A status card can help you get some services. It does not prove you qualify for every program. It also does not create one tax rule for every purchase or kind of income."
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -148,10 +213,6 @@
               "text": "Section 87 of the Indian Act is narrow. It can exempt certain property, including income, that is located on a reserve, for a person who is registered or entitled to be registered under the Act. The facts that link the income to a reserve, and the rules for each transaction, matter. Many amounts are still taxed."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Key takeaway: there is no single lane for Indigenous benefits. Identify the person, the Nation or People, the specific need and the office that runs the program. Then check the written rules, coverage and review process before you count on support."
         }
       ]
     },
@@ -173,11 +234,22 @@
             "For school, she calls her First Nation’s education office and asks for its funding rules and deadline. For the tooth, she asks the dental clinic to check her NIHB coverage and get approval before the work.",
             "The twist comes from the education office. Its deadline for fall funding was last week. But the worker tells her there is a late-request process, and she fills it in that day.",
             "Talia does not end up with one giant benefit package. She ends up with two accurate routes, two follow-up dates, a fixed tooth and no assumption that one office knew the other file existed."
+          ],
+          "at": 4,
+          "items": [
+            {
+              "title": "EDUCATION OFFICE",
+              "text": "Funding rules and deadline"
+            },
+            {
+              "title": "DENTAL CLINIC",
+              "text": "NIHB approval before the work"
+            },
+            {
+              "title": "SAME DAY",
+              "text": "Late request filed"
+            }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "When two needs go to different offices, keep two records. Mixing them can hide deadlines, consent forms and missing papers."
         },
         {
           "type": "heading",
@@ -191,7 +263,61 @@
           "type": "transition",
           "text": "Talia got both her tuition and her dental care moving by sending each one to the office that runs it.",
           "detail": "Asking who runs each program can save you weeks of waiting on the wrong door.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "Section 06 lists help you can call today."
+        }
+      ]
+    },
+    {
+      "id": "support",
+      "title": "Help You Can Call Today",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Some needs cannot wait for a funding cycle. These lines and helpers work across Canada, and none of them charges you."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "JORDAN’S PRINCIPLE",
+              "icon": "shield",
+              "text": "Call 1‑855‑572‑4453 (1‑855‑JP‑CHILD), 24 hours a day, to make or follow up on a request for a First Nations child. If a child needs urgent care, call 911."
+            },
+            {
+              "title": "HOPE FOR WELLNESS",
+              "icon": "heart",
+              "text": "Free counselling and crisis help for all Indigenous people, 24 hours a day, at 1‑855‑242‑3310 or by online chat. Inuktitut is available on request."
+            },
+            {
+              "title": "INUIT CHILDREN",
+              "icon": "map",
+              "text": "Requests for Inuit children go through Inuit-specific routes in each region while a long-term Inuit approach is built. Ask your regional Inuit organization how to apply now."
+            },
+            {
+              "title": "NAVIGATORS",
+              "icon": "lifebuoy",
+              "text": "Many friendship centres, band offices and Métis governments have staff who help with forms and follow-ups, for free."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep one page for each request: the date you asked, who you spoke to, what they need and when you will hear back. Two needs at two offices means two pages. Mixing them can hide deadlines, consent forms and missing papers."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If a request is turned down once, it is over.”",
+              "text": "Many programs have a review or appeal. Ask for the reason in writing, the missing proof and the deadline to ask again."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: Jordan’s Principle",
+          "url": "https://www.canada.ca/en/indigenous-services-canada/services/jordans-principle.html"
         }
       ]
     },
@@ -209,6 +335,11 @@
               "text": ""
             },
             {
+              "title": "A Métis student needs help with a dental bill. Is NIHB the first door?",
+              "detail": "Usually not. NIHB is generally for registered First Nations and recognized Inuit clients. Check provincial coverage, private plans and Métis programs.",
+              "text": ""
+            },
+            {
               "title": "What does NIHB usually add to?",
               "detail": "Some health costs that other plans do not cover, for First Nations and Inuit clients who qualify. Examples are drugs, dental, vision, counselling, medical supplies and medical travel.",
               "text": ""
@@ -216,6 +347,11 @@
             {
               "title": "What problem is Jordan’s Principle meant to prevent?",
               "detail": "Delays over which government pays when First Nations children need products, services and supports.",
+              "text": ""
+            },
+            {
+              "title": "Which number reaches the Jordan’s Principle call centre at any hour?",
+              "detail": "1‑855‑572‑4453, also written 1‑855‑JP‑CHILD.",
               "text": ""
             },
             {
@@ -247,6 +383,11 @@
         {
           "type": "spotlight",
           "text": "If a request is turned down or incomplete, ask for the reason in writing, what proof is missing, how to ask for a review or appeal, and the deadline. “No” is a decision to understand, not a filing cabinet to fear."
+        },
+        {
+          "type": "takeaway",
+          "text": "There is no single lane for Indigenous benefits.",
+          "detail": "Identify the person, the Nation or People, the specific need and the office that runs the program. Then check the written rules, coverage and review process before you count on support."
         }
       ]
     },
@@ -273,6 +414,14 @@
             {
               "title": "Jordan's Principle",
               "text": "Child-first approach to needed supports for First Nations children."
+            },
+            {
+              "title": "Beneficiary",
+              "text": "A person enrolled under an Inuit land claim agreement."
+            },
+            {
+              "title": "Métis citizenship",
+              "text": "Membership recognized by a Métis government, often shown with a card."
             },
             {
               "title": "Prior approval",
@@ -309,12 +458,12 @@
       "What is one call or email you will make this week?"
     ],
     "samples": [
-      "Tuition for my second year of university.",
-      "The deposit is due August 15.",
-      "My First Nation’s education office.",
+      "Glasses for my son, who is 8.",
+      "No set deadline, but school starts in three weeks.",
+      "Not sure. Maybe NIHB, through the eye clinic.",
       "Not yet.",
-      "Yes. Tuition, and a dental repair through NIHB.",
-      "Call the education office and ask for the funding rules and deadline."
+      "Yes. The glasses, and a tutor through Jordan’s Principle.",
+      "Ask the eye clinic to check NIHB coverage before the exam."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

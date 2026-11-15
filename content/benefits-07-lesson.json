@@ -54,7 +54,9 @@
           "text": "To qualify, you usually must be at least 65, get OAS, live in Canada, not be under a sponsorship agreement and have income below the limit for your household. A spouse or common-law partner’s income and benefits also shape the amount."
         },
         {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "Income limits by household",
+          "detail": "YEARLY INCOME LIMIT",
           "items": [
             {
               "title": "SINGLE, WIDOWED OR DIVORCED",
@@ -79,10 +81,6 @@
           "text": "OAS itself is left out of the income limits in the GIS rate tables. CPP, workplace pensions, RRSP withdrawals and investment income can all change the amount."
         },
         {
-          "type": "spotlight",
-          "text": "The earnings exemption usually protects the first $5,000 of job or self-employment income, plus half of earnings between $5,000 and $15,000."
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -90,6 +88,10 @@
               "text": "GIS depends on income, marital status and what benefits a partner gets. Matching OAS deposits do not turn two households into matching tax returns."
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The earnings exemption usually protects the first $5,000 of job or self-employment income, plus half of earnings between $5,000 and $15,000."
         },
         {
           "type": "source",
@@ -106,10 +108,6 @@
         {
           "type": "paragraph",
           "text": "Service Canada reviews GIS each July using last year’s federal tax return. If you file the return on time, you are usually renewed on your own. The July letter may renew, change, stop or restart the benefit, or ask for more income details."
-        },
-        {
-          "type": "spotlight",
-          "text": "Both partners should file a return on time every year. A return with zero income still gives the government the family details it needs for income-based benefits. Blank income and missing information are not the same thing."
         },
         {
           "type": "paragraph",
@@ -129,11 +127,7 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
-        },
-        {
-          "type": "paragraph",
+          "type": "takeaway",
           "text": "File every year, read the July letter, report changes to your marital status or where you live, and contact Service Canada when your retirement income drops."
         }
       ]
@@ -149,18 +143,13 @@
           "detail": "DEDICATED STORY",
           "extra": "",
           "paragraphs": [
-            "Bernard LeBlanc lives in Bathurst. He stops working in February, and his workplace pension drops later that spring. His goal is simple. He wants his budget to cover rent, groceries and the heat bill through the winter.",
+            "Bernard LeBlanc lives in Bathurst. He stops working in February, and his workplace pension drops later that spring. He wants his budget to cover rent, groceries and the heat bill through the winter.",
             "In July, his GIS letter arrives. The amount is far lower than he planned. The letter used last year’s income, back when he had a paycheque. Bernard decides his retirement has somehow retired twice while his bills stay impressively employed.",
-            "He reads it again. Rent is due in two weeks. A neighbour tells him not to bother, because “they just use your taxes and that’s that.” Bernard nearly believes it. Waiting a year for his next tax return feels like the only choice.",
-            "Then he finds one line near the bottom. If your income dropped this year, you can contact Service Canada. Bernard decides to call instead of wait. He knows a strongly worded glance at the letter will not change anything.",
-            "He gathers his pension statement, his last pay slip and his wife’s income details. Service Canada asks for a Statement of Income. He fills it in that week and keeps the confirmation number on the fridge.",
-            "There is one more surprise. His wife has not filed her return, and GIS needs both. She files it right away.",
+            "Rent is due in two weeks. A neighbour tells him not to bother, because “they just use your taxes and that’s that.” Bernard nearly believes it. Waiting a year for his next tax return feels like the only choice.",
+            "Near the bottom he finds one line: if your income dropped this year, you can contact Service Canada. Bernard decides to call instead of wait. He knows a strongly worded glance at the letter will not change anything.",
+            "He gathers his pension statement, his last pay slip and his wife’s income details. Service Canada asks for a Statement of Income. He fills it in that week and keeps the confirmation number on the fridge. There is one more surprise. His wife has not filed her return, and GIS needs both. She files it right away.",
             "A few weeks later, his file is reviewed again. The new amount uses this year’s lower income. Bernard pays the rent on time. His retirement now retires only once, which he feels is the correct number."
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "When a July amount looks wrong, check the tax year used, your marital status, your partner’s benefit and your income sources before you ask for a review."
         },
         {
           "type": "transition",
@@ -277,19 +266,19 @@
   "checkIn": {
     "questions": [
       "Are you 65 or older and getting OAS? (Yes / Not yet / Not sure)",
-      "Are you single, widowed or divorced, or do you have a spouse or partner? If you have a partner, do they get OAS, the Allowance or neither?",
+      "Are you single, widowed or divorced, or do you have a spouse or partner?",
+      "If you have a partner, do they get full OAS, the Allowance or neither? (Write \"no partner\" if it does not apply)",
       "About what was your household income last year, not counting OAS? An estimate is fine.",
       "Did your income drop this year because you retired or a pension changed? (Yes / No / Not sure)",
-      "Have you, and your partner if you have one, filed last year’s tax return? (Yes / No / Not sure)",
-      "What is one thing you will check or send before the next July review?"
+      "What is one thing you will check or send before the July review, and by what date?"
     ],
     "samples": [
       "Yes, I turned 66 this year.",
-      "Married. My wife gets full OAS.",
+      "I have a spouse.",
+      "Full OAS.",
       "About $26,000.",
-      "Yes. I stopped working in February.",
-      "I filed. My wife has not yet.",
-      "Send Service Canada a Statement of Income."
+      "Yes. My work pension stopped in March.",
+      "Check that we both filed our returns, by April 30."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

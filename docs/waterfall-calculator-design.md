@@ -35,6 +35,7 @@ Use it where a lesson teaches **money above a fixed amount being split across na
 | `items[].title` | Label on the "Try an example" button |
 | `items[].amount` | Income received, digits only (`"5200"`) |
 | `items[].detail` | `baseline;Job:amount,Job:amount,…`. The part before `;` is the baseline. Up to **8** jobs after it. No `:`, `,` or `;` inside a job name. |
+| `items[0].text` | Optional. `income label|baseline label|note` rewords the two field labels and the footnote for lessons that are not about variable income (Student Grants uses `AID FOR THE TERM|TUITION PAID TO THE SCHOOL FIRST|…`, Veteran Benefits a lump-sum award). Leave it `""` to keep the defaults (“Income received this month”, “Your baseline” and the tax/remittance note). Only the first example’s text is read. |
 
 The first item loads on open. Add more items for more one-tap examples. List the jobs **in the lesson's priority order**; the number badge on each box is its position.
 

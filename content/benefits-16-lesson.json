@@ -16,7 +16,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Public drug coverage comes mostly from provincial, territorial and federal programs, with private plans on top. National pharmacare deals now cover listed birth control and diabetes products in the provinces and territories that signed on. Other medicines still follow local drug plans, drug lists and approval rules."
+          "text": "Public drug coverage comes mostly from provincial, territorial and federal programs, with private plans on top. National pharmacare deals now cover listed birth control and diabetes products in the four places that have signed on so far. Other medicines still follow local drug plans, drug lists and approval rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "This lesson follows one prescription from the doctor’s office to the pharmacy counter. You will find out who pays first, read a receipt line by line, see how a deductible year works and learn what to ask before you leave a prescription behind."
         },
         {
           "type": "spotlight",
@@ -58,29 +62,33 @@
           "items": [
             {
               "title": "PUBLIC PLAN",
+              "icon": "map",
               "text": "Check provincial or territorial plans for seniors, children, people on income support, high drug costs, specific illnesses or coverage based on income."
             },
             {
               "title": "FEDERAL PROGRAM",
+              "icon": "bank",
               "text": "First Nations and Inuit clients who qualify, veterans, military members, federal workers, refugees and others may have a federal plan with its own rules."
             },
             {
               "title": "PRIVATE PLAN",
+              "icon": "briefcase",
               "text": "Coverage through work, a union, retirement, school or your own policy may pay first or work alongside a public plan."
             },
             {
               "title": "PATIENT HELP PROGRAMS",
+              "icon": "lifebuoy",
               "text": "Drug makers or charities may help in some cases. Check the privacy terms, how long it lasts and what happens when the help ends."
             }
           ]
         },
         {
-          "type": "spotlight",
-          "text": "Ontario’s Trillium Drug Program helps households whose drug costs are high compared to their income. Ontario Drug Benefit coverage still follows its drug list and Exceptional Access rules."
+          "type": "paragraph",
+          "text": "When you have two plans, the order matters. Usually your private plan pays first and the public plan picks up part of what is left, but some public plans pay first for certain people. Give the pharmacy every plan card you have and ask which one they billed."
         },
         {
           "type": "spotlight",
-          "text": "Alberta Non-Group Coverage is an optional extra plan for residents under 65 who qualify, and it has a monthly premium. Alberta seniors have a separate plan with no premium."
+          "text": "Ontario’s Trillium Drug Program helps households whose drug costs are high compared to their income. Its yearly deductible is about 4% of household income after tax, split into four quarterly amounts. If your income changes by 10% or more, you can ask for a new calculation."
         },
         {
           "type": "myths",
@@ -92,6 +100,10 @@
           ]
         },
         {
+          "type": "spotlight",
+          "text": "Alberta Non-Group Coverage is an optional extra plan for residents under 65 who qualify, and it has a monthly premium. Alberta seniors have a separate plan with no premium."
+        },
+        {
           "type": "source",
           "text": "Ontario: Prescription drug coverage",
           "url": "https://www.ontario.ca/page/get-help-high-prescription-drug-costs"
@@ -99,13 +111,113 @@
       ]
     },
     {
-      "id": "cost",
-      "title": "Covered Can Still Have Four Price Layers",
+      "id": "receipt",
+      "title": "Read the Receipt Like a Drug List, Not a Mood",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Read the receipt like a drug list, not a mood."
+          "text": "A pharmacy price is built from parts: the cost of the drug, the pharmacy’s markup and a dispensing fee for filling it. Your plan then pays its share of the parts it covers, and you pay the rest. When the plan’s share is $0, the receipt looks like a mistake even when it is not one."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is how a receipt like Dev’s, from the story in Section 05, can add up. The amounts are an example, not a price list. Ask your own pharmacy for its numbers."
+        },
+        {
+          "type": "ledger",
+          "detail": "WHY THE PLAN PAID $0",
+          "text": "$268 + $27 + $15 = $310, and the plan paid $0 because the yearly deductible was not met yet.",
+          "extra": "Approval made the drug eligible. The deductible decided who paid first.",
+          "items": [
+            {
+              "title": "Price at the counter",
+              "amount": "$310",
+              "detail": "Total",
+              "text": "Did you ask for this number before the pharmacist filled it?"
+            },
+            {
+              "title": "Drug cost",
+              "amount": "$268",
+              "detail": "Ingredient",
+              "text": "Is a lower-cost version of the same drug on your plan’s list?"
+            },
+            {
+              "title": "Pharmacy markup",
+              "amount": "$27",
+              "detail": "Pharmacy",
+              "text": "Does the plan cap the markup, or does another pharmacy charge less?"
+            },
+            {
+              "title": "Dispensing fee",
+              "amount": "$15",
+              "detail": "Pharmacy",
+              "text": "How much of the fee does your plan cover, and how often is it charged?"
+            },
+            {
+              "title": "Paid by the plan",
+              "amount": "$0",
+              "detail": "Plan share",
+              "text": "How much of your family’s deductible is still left this year?"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "How a deductible year works"
+        },
+        {
+          "type": "glasspanel",
+          "text": "Fair PharmaCare in three stages",
+          "detail": "ONE CALENDAR YEAR",
+          "items": [
+            {
+              "title": "Until the deductible",
+              "text": "You pay 100% — of eligible costs, until your family reaches its deductible."
+            },
+            {
+              "title": "After the deductible",
+              "text": "70% / 30% — PharmaCare pays 70% and you pay 30%, until you reach your family maximum."
+            },
+            {
+              "title": "After the maximum",
+              "text": "100% plan — PharmaCare pays all eligible costs for the rest of the calendar year."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fair PharmaCare sets your deductible and family maximum from your family’s net income two years earlier, and it resets every January. If your income has dropped since then, you can ask for an income review. A lower income on file can lower both numbers."
+        },
+        {
+          "type": "spotlight",
+          "text": "If you register for Fair PharmaCare but do not agree to the income check, your family is given a $10,000 deductible. Consent is the step that makes the plan fit your income."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you know your deductible, you can save toward it before January instead of meeting it all at the counter. Try your own numbers below."
+        },
+        {
+          "type": "paydays",
+          "text": "Save for next year’s deductible",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter your deductible, what you have set aside so far and what you can save each payday. Watch the number of deposits update.",
+          "items": [
+            {
+              "title": "$650 deductible",
+              "text": "",
+              "amount": "650"
+            },
+            {
+              "title": "$1,600 deductible",
+              "text": "",
+              "amount": "1600"
+            },
+            {
+              "title": "$2,200 deductible",
+              "text": "",
+              "amount": "2200"
+            }
+          ]
         },
         {
           "type": "ordered",
@@ -129,14 +241,6 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "B.C. Fair PharmaCare uses family income to set your deductible and family maximum. You have to register and agree to an income check to get coverage matched to your income."
-        },
-        {
-          "type": "spotlight",
-          "text": "Special Authority or Exceptional Access is usually sent in by the prescriber and checked against medical criteria. Even with approval, you may still owe a deductible or co-payment."
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -146,13 +250,63 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "Key takeaway: getting help with drug costs means matching the drug to the right plan. Check the exact drug, plan, drug list, approval, deductible and pharmacy cost before you assume it is covered or stop taking it."
-        },
-        {
           "type": "source",
           "text": "B.C.: Fair PharmaCare plan",
           "url": "https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/pharmacare-for-bc-residents/who-we-cover/fair-pharmacare-plan"
+        }
+      ]
+    },
+    {
+      "id": "pharmacare",
+      "title": "Where National Pharmacare Pays Today",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The federal Pharmacare Act set up a first stage: coverage for listed birth control and diabetes medicines, paid through deals with each province or territory. By mid-2026, four places had signed. Each deal runs for a set number of years."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "MANITOBA",
+              "icon": "snowflake",
+              "text": "Signed first, in February 2025. Covers listed birth control and diabetes medicines, and menopause hormone therapy."
+            },
+            {
+              "title": "BRITISH COLUMBIA",
+              "icon": "mountain",
+              "text": "PharmaCare Plan NP started on March 1, 2026, for listed diabetes medicines, birth control and menopause hormone therapy. More diabetes supplies were added on April 1."
+            },
+            {
+              "title": "PRINCE EDWARD ISLAND",
+              "icon": "waves",
+              "text": "Signed in March 2025. Check the province’s list for the exact birth control and diabetes products it covers."
+            },
+            {
+              "title": "YUKON",
+              "icon": "tree",
+              "text": "Signed in 2025. Covers listed birth control and diabetes medicines through Yukon’s own drug programs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you live anywhere else, national pharmacare does not pay for your prescriptions yet. Your provincial plan, a private plan or a program for high drug costs still decides what you pay. Where a deal exists, the product still has to be on the national list, so ask the pharmacist to check the exact brand and strength."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“National pharmacare means every prescription is now free.”",
+              "text": "It is a first stage for two groups of medicines in the places that signed a deal. Your heart pill, inhaler or antibiotic still follows the usual plan rules."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Health Canada: National pharmacare agreements",
+          "url": "https://www.canada.ca/en/health-canada/corporate/transparency/health-agreements/national-pharmacare-bilateral-agreements.html"
         }
       ]
     },
@@ -174,11 +328,22 @@
             "Dev decides not to skip the medicine. He pays for a one-week supply he can afford and asks his doctor about a lower-cost option the plan also covers. Then he updates his income with Fair PharmaCare that night.",
             "The twist comes a week later. With his lower income on file, his deductible drops sharply. His next refill costs far less, and he knows exactly when the plan will pay more.",
             "The medicine does not become magically free. The cost becomes something he can trace, and Dev has a plan for the deductible, the renewal and the next refill instead of a surprise at the counter."
+          ],
+          "at": 4,
+          "items": [
+            {
+              "title": "AT THE COUNTER",
+              "text": "$310, plan pays $0"
+            },
+            {
+              "title": "THAT NIGHT",
+              "text": "One-week supply, income updated"
+            },
+            {
+              "title": "A WEEK LATER",
+              "text": "Lower deductible on file"
+            }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "A sudden high price can come from an expired approval, a reset deductible, old income details, a different product or two plans not talking. Ask what changed before you give up on the prescription."
         },
         {
           "type": "heading",
@@ -192,7 +357,61 @@
           "type": "transition",
           "text": "Dev kept taking his heart medicine by asking why it cost $310 instead of walking away from the counter.",
           "detail": "One question to your pharmacist can turn a shocking price into a plan you can afford.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "Section 06 gives you six safe questions for the counter."
+        }
+      ]
+    },
+    {
+      "id": "counter",
+      "title": "When You Cannot Pay for the Refill Today",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A high price is a problem to solve with your pharmacist, not a reason to go without. A sudden jump can come from an expired approval, a reset deductible, old income details, a different product or two plans not talking to each other. Ask what changed, then work through these."
+        },
+        {
+          "type": "filecards",
+          "text": "Six safe questions before you leave the counter",
+          "items": [
+            {
+              "title": "Price first",
+              "text": "What will I pay today, and which part is the plan not paying?"
+            },
+            {
+              "title": "Listed version",
+              "text": "Is a generic, or a different strength, on my plan’s list when this one is not?"
+            },
+            {
+              "title": "Short fill",
+              "text": "Can you fill a few days now and the rest when I can pay?"
+            },
+            {
+              "title": "Prescriber call",
+              "text": "Can my prescriber switch me to a covered option, or ask for special approval?"
+            },
+            {
+              "title": "Income review",
+              "text": "My income dropped. How do I ask my plan to recalculate my deductible?"
+            },
+            {
+              "title": "Support programs",
+              "text": "Does the drug maker or a charity run a patient support program for this medicine?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Write down the answers and the date. If a plan turned down a claim, ask for the reason in writing and how to appeal. Pharmacists see these problems every day, and many fixes take one phone call from the counter."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If I cannot afford it, skipping a few doses is the safe middle ground.”",
+              "text": "Skipping or splitting some medicines can be dangerous. Talk to a pharmacist or prescriber first. They can often find a cheaper safe option faster than a missed dose can cause trouble."
+            }
+          ]
         }
       ]
     },
@@ -215,18 +434,28 @@
               "text": ""
             },
             {
-              "title": "What details must match the drug list?",
-              "detail": "The exact drug, strength, form and approved use. A similar name is not always the same listing.",
+              "title": "What three parts can make up a pharmacy price?",
+              "detail": "The drug cost, the pharmacy’s markup and a dispensing fee. Your plan pays its share of the parts it covers.",
+              "text": ""
+            },
+            {
+              "title": "A family’s Fair PharmaCare deductible is $1,600, and it has paid $1,000 this year. How much more before PharmaCare pays 70%?",
+              "detail": "$600. After that, PharmaCare pays 70% of eligible costs until the family maximum.",
+              "text": ""
+            },
+            {
+              "title": "A household’s income after tax is about $50,000. Roughly what is its Trillium deductible?",
+              "detail": "About $2,000 a year, which is about 4%, split into four quarterly amounts of roughly $500.",
+              "text": ""
+            },
+            {
+              "title": "Does national pharmacare cover every prescription in Manitoba, B.C., PEI and Yukon?",
+              "detail": "No. It covers listed birth control and diabetes products, plus menopause hormone therapy in some places. Other drugs follow the usual plan rules.",
               "text": ""
             },
             {
               "title": "What does special approval do?",
               "detail": "It can make a limited drug eligible for the plan to pay. Deductibles, co-payments, price rules and other plans may still apply.",
-              "text": ""
-            },
-            {
-              "title": "How is a deductible different from a co-payment?",
-              "detail": "You pay the deductible yourself before the plan starts sharing costs. A co-payment is the flat fee or percentage you pay after coverage starts.",
               "text": ""
             }
           ]
@@ -248,6 +477,11 @@
         {
           "type": "spotlight",
           "text": "Ask the pharmacist for the price before they fill it, and whether a lower-cost version is covered. Never skip, split, swap or stop a prescribed medicine only because of cost without first talking to a pharmacist or prescriber about safe options."
+        },
+        {
+          "type": "takeaway",
+          "text": "Covered is a list, not a price.",
+          "detail": "Find who pays first, ask for the price before the fill, track your deductible and keep your income details current, so the plan you qualify for is the plan you actually get."
         }
       ]
     },
@@ -272,6 +506,14 @@
               "text": "Your flat fee or percentage for a covered claim."
             },
             {
+              "title": "Family maximum",
+              "text": "The yearly amount after which the plan pays more of your costs."
+            },
+            {
+              "title": "Dispensing fee",
+              "text": "The pharmacy’s charge for filling a prescription."
+            },
+            {
               "title": "Special authorization",
               "text": "Medical approval needed before a limited drug is covered."
             },
@@ -280,12 +522,16 @@
               "text": "Using a lower-cost version that works the same, under plan rules."
             },
             {
-              "title": "Family maximum",
-              "text": "The yearly amount after which the plan pays more of your costs."
-            },
-            {
               "title": "Coordination of benefits",
               "text": "How two or more plans share one claim, and in what order."
+            },
+            {
+              "title": "Plan NP",
+              "text": "B.C.’s national pharmacare plan for listed diabetes, birth control and hormone therapy products."
+            },
+            {
+              "title": "Patient support program",
+              "text": "Help from a drug maker or charity with the cost of a specific medicine."
             }
           ]
         }
@@ -310,12 +556,12 @@
       "What is one question you will ask your pharmacist or plan?"
     ],
     "samples": [
-      "British Columbia. Fair PharmaCare.",
-      "None.",
-      "A heart medicine, 5 mg.",
-      "It needed Special Authority, and that was approved.",
-      "$310 for one month.",
-      "How much of my deductible is left this year?"
+      "Ontario. I am not sure of the plan name.",
+      "A plan through my part-time job.",
+      "An inhaler for asthma, 100 mcg.",
+      "No. The pharmacist said it is on the list.",
+      "$58 for one inhaler.",
+      "Which plan should pay first, my work plan or the provincial one?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

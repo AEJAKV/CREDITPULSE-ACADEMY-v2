@@ -19,12 +19,8 @@
           "text": "A wage subsidy is a partial reimbursement arriving late. It is not a discount at the till."
         },
         {
-          "type": "heading",
-          "text": "What this course does"
-        },
-        {
           "type": "paragraph",
-          "text": "Small employers use these programs every year to hire people they could not otherwise afford. Every July, they also get squeezed when they planned the subsidy as a discount instead of a rebate. This module sorts out which program fits which hire, what gets paid back and how to survive the gap between paying staff and getting money back."
+          "text": "Small employers use these programs every year to hire people they could not otherwise afford. Every July, they also get squeezed when they planned the subsidy as a discount instead of a rebate. This module sorts out which program fits which hire, prices the real cost of one placement, and shows how to carry payroll until the money comes back without paying a credit card for the privilege."
         },
         {
           "type": "transition",
@@ -36,7 +32,7 @@
     },
     {
       "id": "questions",
-      "title": "Three questions before you post the job",
+      "title": "Three Questions Before You Post the Job",
       "paragraphs": [],
       "blocks": [
         {
@@ -64,7 +60,7 @@
     },
     {
       "id": "map",
-      "title": "The map: which program fits which hire",
+      "title": "The Map: Which Program Fits Which Hire",
       "paragraphs": [],
       "blocks": [
         {
@@ -135,19 +131,96 @@
           "items": [
             {
               "title": "Gross wages",
-              "text": "When you pay it: Every pay period, from day one — What comes back: A defined share, after the claim is processed"
+              "icon": "wallet",
+              "text": "You pay them every pay period from day one. A set share comes back after your claim is processed."
             },
             {
-              "title": "Employer CPP, EI, vacation pay",
-              "text": "When you pay it: Every pay period — What comes back: Covered in some programs, not others. Check."
+              "title": "Employer CPP, EI and vacation pay",
+              "icon": "receipt",
+              "text": "You pay them every pay period. Some programs pay them back and others do not. Check."
             },
             {
-              "title": "Workers’ compensation premiums",
-              "text": "When you pay it: On your usual schedule — What comes back: Sometimes included as a mandatory cost"
+              "title": "Workers’ compensation",
+              "icon": "shield",
+              "text": "You pay it on your usual schedule. Some programs count it as a mandatory cost they cover."
             },
             {
               "title": "Supervision and training time",
-              "text": "When you pay it: Continuously — What comes back: Nothing"
+              "icon": "timer",
+              "text": "You pay for it the whole time, in someone else’s hours. Nothing comes back."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: Canada Summer Jobs",
+          "url": "https://www.canada.ca/en/employment-social-development/services/funding/canada-summer-jobs.html"
+        }
+      ]
+    },
+    {
+      "id": "cost",
+      "title": "Price One Placement, Line by Line",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Here is an example: one summer student for 16 weeks at 35 hours a week, paid $17.50 an hour. Your province’s minimum wage and premium rates will differ, so treat these as a model, not a quote."
+        },
+        {
+          "type": "ledger",
+          "detail": "WHAT IT REALLY COSTS",
+          "text": "$12,468 to run the placement. If about half the wage, $4,900, comes back, the job still costs you $7,568.",
+          "extra": "And you pay all $12,468 before the $4,900 arrives.",
+          "items": [
+            {
+              "title": "Full cost of the placement",
+              "amount": "$12,468",
+              "detail": "Total",
+              "text": "Is this the number in your plan, or only the hourly wage?"
+            },
+            {
+              "title": "Gross wages",
+              "amount": "$9,800",
+              "detail": "Payroll",
+              "text": "Is the wage at minimum wage, or above it?"
+            },
+            {
+              "title": "Supervision time",
+              "amount": "$1,280",
+              "detail": "Never covered",
+              "text": "Who loses two hours a week to training, and what is their time worth?"
+            },
+            {
+              "title": "Employer CPP and EI",
+              "amount": "$800",
+              "detail": "Payroll",
+              "text": "Does the program pay back mandatory costs?"
+            },
+            {
+              "title": "Vacation pay",
+              "amount": "$392",
+              "detail": "Payroll",
+              "text": "Is the 4% paid out at the end, or banked?"
+            },
+            {
+              "title": "Workers’ compensation",
+              "amount": "$196",
+              "detail": "Premium",
+              "text": "Is the role classed correctly with your provincial board?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For a private employer, Canada Summer Jobs pays back up to half of the provincial minimum wage for each hour. If you pay more than minimum wage, the extra is yours. Not-for-profits can get the full minimum wage plus mandatory costs, but still pay anything above it."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The subsidy covers the whole cost for a not-for-profit, so it is free.”",
+              "text": "Not-for-profits can receive substantially more. In the summer jobs program, up to the full provincial minimum wage plus mandatory employment costs, where private employers receive up to half. But if you pay above minimum wage, you cover the difference yourself. Reimbursement is calculated against the minimum, not against what you chose to pay."
             }
           ]
         }
@@ -155,22 +228,48 @@
     },
     {
       "id": "gap",
-      "title": "The gap between payroll and reimbursement",
+      "title": "The Gap Between Payroll and Reimbursement",
       "paragraphs": [],
       "blocks": [
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: THE GAP BETWEEN PAYROLL AND REIMBURSEMENT"
+          "type": "spotlight",
+          "text": "This is where wage subsidies turn into a credit problem for small employers, and it is entirely predictable. Take a sixteen-week placement. You fund the full payroll for sixteen weeks, submit the claim after it ends, and wait for processing. The money can land four to twelve weeks after that. Call it five months of carrying the full cost, on a business that applied for the subsidy because it did not have five months of spare payroll. Ask whether the program offers advances or interim claims: several do, and almost nobody asks. Time the placement so the money lands before your next seasonal squeeze. Then submit the claim the week the placement ends."
         },
         {
-          "type": "spotlight",
-          "text": "This is where wage subsidies turn into a credit problem for small employers, and it is entirely predictable. Take a sixteen-week placement. You fund the full payroll for sixteen weeks, submit the claim within the window after it ends, and wait for processing. Depending on the program and your paperwork, the money can land four to twelve weeks after that. Call it five months of carrying the full cost, on a business that applied for the subsidy precisely because it did not have five months of spare payroll. Three ways through it. Ask whether the program offers advances or interim claims: several do, and almost nobody asks. Time the placement so the reimbursement lands before your next seasonal squeeze rather than during it. And if you must borrow, price an operating line against a business credit card before you use the card by default, because over five months on a full payroll the difference is not a rounding error. Then submit the claim the week the placement ends. Every week you delay is a week of financing cost you chose."
+          "type": "paragraph",
+          "text": "If you must borrow to carry payroll, the rate matters more than it looks. Estimate each option’s monthly interest as the balance × the yearly rate ÷ 12. Here, $7,500 of summer payroll is carried on a business card, on an operating line, or on a line with an advance that cuts the balance in half."
+        },
+        {
+          "type": "interestscan",
+          "text": "Price the carry",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter the payroll you will carry and each option’s yearly rate. Watch the estimated monthly interest update.",
+          "items": [
+            {
+              "title": "Three ways to carry $7,500",
+              "text": "",
+              "detail": "Business card:7500:20.99,Operating line:7500:9.5,Line plus an advance:3750:9.5"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Over five months, the card costs about $656 in interest, the line about $297, and the line with an advance about $148. On a subsidy worth $4,900, the card quietly eats more than an eighth of it."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The credit card is fine, the refund will pay it off.”",
+              "text": "The refund pays the balance, not the interest charged while you waited. That interest is a cost you chose, and the cheapest fix is often one question about an advance."
+            }
+          ]
         }
       ]
     },
     {
       "id": "stacking",
-      "title": "Stacking, and the arithmetic nobody mentions",
+      "title": "Stacking, and the Arithmetic Nobody Mentions",
       "paragraphs": [],
       "blocks": [
         {
@@ -202,7 +301,7 @@
     },
     {
       "id": "checklist",
-      "title": "Before you make the offer",
+      "title": "Before You Make the Offer",
       "paragraphs": [],
       "blocks": [
         {
@@ -242,17 +341,9 @@
     },
     {
       "id": "story",
-      "title": "Dev, the sixteen-week placement, and the June that nearly went wrong",
+      "title": "Dev, the Sixteen-Week Placement, and the June That Nearly Went Wrong",
       "paragraphs": [],
       "blocks": [
-        {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: WHAT THE SUBSIDY IS ACTUALLY BUYING YOU"
-        },
-        {
-          "type": "spotlight",
-          "text": "Treated as a discount, a wage subsidy saves you some money on a summer job and is forgotten by September. Treated as a way to recruit, it is the cheapest hiring pipeline a small Canadian employer has. Employers who use these programs well hire the same way every year, keep the good ones and build a relationship with the program partner or the local employment office. That is how they hear about intakes early, and how their applications get stronger each year. A student placement is a low-risk, sixteen-week interview for a job you would otherwise fill by guessing from a resume. Weigh that against a bad permanent hire: the recruiting, the training, the severance and six months of hoping it improves. A subsidized placement is not a saving on wages. It is less risk, with a rebate attached."
-        },
         {
           "type": "story",
           "text": "Dev and the June that nearly went wrong",
@@ -266,18 +357,74 @@
             "He changes one more thing the next year. He sends the final claim the same week the placements end, not in the September pile of things he means to get to. The money arrives about a month earlier, for no reason except that he sent it earlier.",
             "The twist is the best part. Dev keeps one of the students. She spent sixteen weeks proving she could handle irrigation systems and difficult customers, which is more than any interview ever told him about anyone.",
             "Her wage in year two is not subsidized at all. Dev calls her the best return the program ever gave him."
+          ],
+          "at": 3,
+          "items": [
+            {
+              "title": "APRIL",
+              "text": "Second truck, cushion gone"
+            },
+            {
+              "title": "MID-JUNE",
+              "text": "Asks for an advance"
+            },
+            {
+              "title": "NEXT YEAR",
+              "text": "Claim sent the same week"
+            }
           ]
         },
         {
-          "type": "takeaway",
-          "text": "A wage subsidy is a partial refund that arrives late, not a discount up front. Only hire someone you would hire anyway, sign the funding agreement before you make the offer, plan to carry full payroll until the money arrives, ask about advances and interim claims, and send the claim the week the placement ends.",
-          "detail": ""
+          "type": "spotlight",
+          "text": "Treated as a discount, a wage subsidy saves you some money on a summer job and is forgotten by September. Treated as a way to recruit, it is the cheapest hiring pipeline a small Canadian employer has. A student placement is a low-risk, sixteen-week interview for a job you would otherwise fill by guessing from a resume. Weigh that against a bad permanent hire: the recruiting, the training, the severance and six months of hoping it improves."
         },
         {
           "type": "transition",
           "text": "Dev kept his summer payroll off the credit card by asking for an advance, and hired a great worker for good.",
           "detail": "One question about advances, and a claim sent on time, can protect your own cash flow too.",
-          "extra": "Your action this week, in Section 08, starts with the person you want to hire."
+          "extra": "The quick check in Section 09 tests the math."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What is the first question before you apply for a wage subsidy?",
+              "detail": "Would you make this hire anyway? The programs make a marginal hire possible. They do not make an unneeded hire free.",
+              "text": ""
+            },
+            {
+              "title": "A student earns $16 an hour for 30 hours a week, for 12 weeks. What are the gross wages?",
+              "detail": "$5,760. That is $16 × 30 × 12, before CPP, EI, vacation pay and premiums.",
+              "text": ""
+            },
+            {
+              "title": "You pay $19 an hour where minimum wage is $17. A private employer gets back half of minimum wage. How much per hour comes back?",
+              "detail": "$8.50, which is half of $17. The extra $2 an hour, and the rest of the wage, are yours.",
+              "text": ""
+            },
+            {
+              "title": "$6,000 sits on a card at 20.99% while you wait. About how much interest is that a month?",
+              "detail": "About $105. That is $6,000 × 20.99% ÷ 12.",
+              "text": ""
+            },
+            {
+              "title": "When should you make the job offer?",
+              "detail": "After the funding agreement is signed, not before.",
+              "text": ""
+            },
+            {
+              "title": "What happens if two programs pay for the same person’s same hours?",
+              "detail": "You can lose both. All government help usually cannot be more than 100% of the wages paid.",
+              "text": ""
+            }
+          ]
         }
       ]
     },
@@ -287,32 +434,16 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
-          "items": [
-            {
-              "title": "Identify who you would hire in the next twelve months, student, youth, apprentice, someone needing accommodation, and find the program that matches that person.",
-              "text": ""
-            },
-            {
-              "title": "Write down the application deadline and the claim deadline in the same place. These programs are lost on dates far more often than on merit.",
-              "text": ""
-            },
-            {
-              "title": "Ask the program contact two questions: are mandatory employment-related costs reimbursed, and do you offer advances or interim claims? Almost nobody asks the second one.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Worksheet: your hire"
-        },
-        {
           "type": "paragraph",
-          "text": "One rule of thumb: if your cost estimate is just the hourly wage, redo it. The on-costs are the difference between a subsidy that helps and one that squeezes."
+          "text": "This week: name the person you would hire in the next twelve months and find the program that matches them. Write the application deadline and the claim deadline in the same place. Then ask the program contact two questions: are mandatory employment costs reimbursed, and do you offer advances or interim claims? If your cost estimate is just the hourly wage, redo it."
         },
         {
           "type": "checkin"
+        },
+        {
+          "type": "takeaway",
+          "text": "A wage subsidy is a partial refund that arrives late.",
+          "detail": "Only hire someone you would hire anyway, price the full placement, sign the funding agreement before you make the offer, carry payroll at the cheapest rate you can find, ask about advances and send the claim the week the placement ends."
         }
       ]
     },
@@ -371,7 +502,7 @@
         },
         {
           "type": "paragraph",
-          "text": "This module skips dollar figures on purpose. Subsidy caps and per-placement maximums are revised most years, while cost-share ratios and eligibility categories are more durable. Confirm current amounts on the program’s page before you budget."
+          "text": "Subsidy caps and per-placement maximums are revised most years, while cost-share ratios and eligibility categories are more durable. The placement numbers here are an example for practice. Confirm current amounts on the program’s page before you budget."
         }
       ]
     }
@@ -396,12 +527,12 @@
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information.",
     "samples": [
-      "Two summer students.",
-      "Canada Summer Jobs.",
-      "About $1,500 for each student every two weeks.",
-      "About 20 weeks. I will ask for an advance.",
-      "Applications close in January. The claim is due 30 days after the job ends.",
-      "Me. I will send the claim the week the placement ends."
+      "A college student for a co-op placement.",
+      "The Student Work Placement Program.",
+      "About $1,900 every two weeks, with CPP, EI and vacation pay.",
+      "About 16 weeks. I will ask if interim claims are allowed.",
+      "We apply this month. The claim is due 30 days after the placement ends.",
+      "Our office manager, with me checking the final claim."
     ]
   },
   "sources": []

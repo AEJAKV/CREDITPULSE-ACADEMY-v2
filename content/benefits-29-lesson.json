@@ -16,11 +16,11 @@
         },
         {
           "type": "paragraph",
-          "text": "You need to remember three or four tools that will ask you the questions instead."
+          "text": "You need to remember three or four tools that will ask you the questions instead, and a calendar that tells you when to ask them."
         },
         {
           "type": "paragraph",
-          "text": "A benefit finder is a short questionnaire. It asks your age, province, income range and household situation, plus a few checkboxes. Then it returns a list of programs you may qualify for, federal and provincial together. None of them replace this course. What they do is turn everything the last eight modules taught you into a fifteen-minute habit you can repeat every year, long after the details of the Energy-Efficiency Rebates lesson have faded."
+          "text": "A benefit finder is a short questionnaire. It asks your age, province, income range and household situation, plus a few checkboxes. Then it returns a list of programs you may qualify for, federal and provincial together. None of them replace this course. What they do is turn everything the course taught you into a fifteen-minute habit you can repeat every year, long after the details have faded."
         },
         {
           "type": "transition",
@@ -44,19 +44,23 @@
           "items": [
             {
               "title": "The federal Benefits Finder",
-              "text": "Run by the Government of Canada at canada.ca, this casts the widest net. Answer a short questionnaire, and it returns a list of federal, provincial and territorial programs for you. You do not need an account, and it does not track you after the session. It is a good place to start, because it does not assume you know which government is in charge of what."
+              "text": "Run by the Government of Canada at canada.ca, this casts the widest net. Answer a short questionnaire, and it returns a list of federal, provincial and territorial programs for you. You do not need an account, and it does not track you after the session. It is a good place to start, because it does not assume you know which government is in charge of what.",
+              "icon": "bank"
             },
             {
               "title": "Your provincial government’s own benefits page",
-              "text": "Every province and territory has one. You can usually find it by searching your province’s name plus “benefits” or “find services.” British Columbia calls its version a Benefits Connector. These tend to be more current on provincial details than the federal tool, because the province updates its own programs."
+              "text": "Every province and territory has one. You can usually find it by searching your province’s name plus “benefits” or “find services.” British Columbia calls its version a Benefits Connector. These tend to be more current on provincial details than the federal tool, because the province updates its own programs.",
+              "icon": "map"
             },
             {
               "title": "211",
-              "text": "Not a website first. A phone number. Dial 2-1-1 anywhere in Canada and reach a live person who knows local, provincial and some federal programs, including the ones that never make a government homepage: a municipal home repair program, a food bank’s income supports, a legal clinic’s hours."
+              "text": "Not a website first. A phone number. Dial 2-1-1 anywhere in Canada and reach a live person who knows local, provincial and some federal programs, including the ones that never make a government homepage: a municipal home repair program, a food bank’s income supports, a legal clinic’s hours.",
+              "icon": "lifebuoy"
             },
             {
               "title": "The Benefits Wayfinder",
-              "text": "Built by Prosper Canada, a national charity, not a government department. It is written in plain language for people with low and modest incomes, and you can use it alone or with a support worker. The federal tool casts the widest net. This one goes deepest for the people this course spends the most time on."
+              "text": "Built by Prosper Canada, a national charity, not a government department. It is written in plain language for people with low and modest incomes, and you can use it alone or with a support worker. The federal tool casts the widest net. This one goes deepest for the people this course spends the most time on.",
+              "icon": "heart"
             }
           ]
         },
@@ -65,9 +69,25 @@
           "items": [
             {
               "title": "“These tools all show the same results, so it does not matter which one I use.”",
-              "text": "They pull from similar, but not identical, sources. A provincial tool will often find a local program the federal one never mentions. The federal tool catches programs a provincial one has no reason to list. Running more than one is not a waste. It is how you would search for anything else you wanted to find completely."
+              "text": "They pull from similar, but not identical, sources. A provincial tool will often find a local program the federal one never mentions. The federal tool catches programs a provincial one has no reason to list. Running more than one is how you would search for anything else you wanted to find completely."
             }
           ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: Benefits Finder",
+          "url": "https://www.canada.ca/en/services/benefits/finder.html"
+        }
+      ]
+    },
+    {
+      "id": "habit",
+      "title": "The Habit That Matters More Than Any Tool",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "spotlight",
+          "text": "The most valuable habit in this module is not any one tool. It is doing the check every year, not just once. Who qualifies changes all the time, and quietly: a birthday that crosses an age limit, a change in household income, a new child, a diagnosis, a move to another province, or a program that launched last month. Someone who ran a benefit finder three years ago and found nothing is not wrong about three years ago. They may be wrong about now. The tools take fifteen minutes. Missing a program for three years because nobody checked again costs much more."
         },
         {
           "type": "paragraph",
@@ -76,32 +96,107 @@
       ]
     },
     {
-      "id": "habit",
-      "title": "The habit that matters more than any tool",
+      "id": "calendar",
+      "title": "Your Benefits Year, Month by Month",
       "paragraphs": [],
       "blocks": [
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: RUN MORE THAN ONE, AND RUN THEM AGAIN NEXT YEAR"
+          "type": "paragraph",
+          "text": "Most Canadian benefits run on the same clock. Learn the clock once, and you will know when to check, when to file and when a letter is likely to arrive."
         },
         {
-          "type": "spotlight",
-          "text": "The most valuable habit in this module is not any one tool. It is doing the check every year, not just once. Who qualifies changes all the time, and quietly: a birthday that crosses an age limit, a change in household income, a new child, a diagnosis, a move to another province, or a program that launched last month. Someone who ran a benefit finder three years ago and found nothing is not wrong about three years ago. They may be wrong about now. Set a yearly reminder. Tax season works well, since your income numbers are already in front of you. Run the federal tool and your province’s tool every year, even when nothing feels different. The tools take fifteen minutes. Missing a program for three years because nobody checked again costs much more."
+          "type": "ordered",
+          "items": [
+            {
+              "title": "By April 30: file every return",
+              "text": "Every adult in the home files, even with no income. The return is the application for the child benefit, the GST/HST credit, GIS and more."
+            },
+            {
+              "title": "Spring: run the finders",
+              "text": "Your income numbers are in front of you. Run the federal tool and your province’s tool while they are."
+            },
+            {
+              "title": "July: the new benefit year",
+              "text": "The child benefit, the GST/HST credit and GIS are worked out again from last year’s return. Read the July letters."
+            },
+            {
+              "title": "Your birthday: new doors open",
+              "text": "Age 60 can start CPP. Around 64, look for an OAS letter. At 65, OAS, GIS and senior programs open. Check the year you cross each line."
+            },
+            {
+              "title": "Any life change: check again",
+              "text": "Do not wait for April. A new baby, a move, a job loss or a diagnosis can open help right away."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Benefits start automatically once I qualify.”",
+              "text": "Some do, if your returns are filed. Many do not. CPP, EI, disability programs and most provincial help start only when you apply."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "triggers",
+      "title": "Six Life Changes That Should Trigger a New Search",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Each of these changes the answers you give a benefit finder, so each one deserves a fresh run. The lesson in brackets is where this course covers it in full."
+        },
+        {
+          "type": "filecards",
+          "text": "Run the finders again when",
+          "items": [
+            {
+              "title": "A baby arrives",
+              "text": "Apply for the child benefit and check parental EI (Canada Child Benefit, Employment Insurance)."
+            },
+            {
+              "title": "Work stops",
+              "text": "Apply for EI within four weeks and check provincial help (Employment Insurance, Provincial Income Support)."
+            },
+            {
+              "title": "Health changes",
+              "text": "Check the Disability Tax Credit and disability programs (CPP Disability, Provincial Disability Programs)."
+            },
+            {
+              "title": "You move",
+              "text": "Benefits, health cards and rent help can change at the border (Rent Assistance, Provincial Disability Programs)."
+            },
+            {
+              "title": "A partner dies",
+              "text": "Survivor benefits do not arrive on their own. Ask CPP, OAS and your workplace plan."
+            },
+            {
+              "title": "A birthday line",
+              "text": "Turning 60, 64 or 65 opens CPP, OAS and GIS (Old Age Security, Canada Pension Plan)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If a finder shows nothing after a big change, call 211 or a local navigator anyway. Some of the most useful help, like a municipal program or a food bank’s supports, never makes it into an online form."
         }
       ]
     },
     {
       "id": "limits",
-      "title": "What a benefit finder cannot do",
+      "title": "What a Benefit Finder Cannot Do",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "It gives you a list, not an approval. Every result still means reading the real eligibility rules, gathering papers and applying through the real program, which is everything this course has spent nine modules teaching you to do well. Treat the finder as the map, not the destination."
+          "text": "It gives you a list, not an approval. Every result still means reading the real eligibility rules, gathering papers and applying through the real program, which is everything this course has spent its modules teaching you to do well. Treat the finder as the map, not the destination."
         },
         {
           "type": "paragraph",
-          "text": "It also cannot know what you do not tell it. If you round your income up, or skip a question about disability because it feels personal, the results match the version of your life you gave it, not your real life. These tools do not check anything. Their privacy notes say they usually do not keep your answers. That leaves little reason to hold back on a form that cannot be used against you later, and every reason to answer in full."
+          "text": "It also cannot know what you do not tell it. If you round your income up, or skip a question about disability because it feels personal, the results match the version of your life you gave it, not your real life. These tools do not check anything, and their privacy notes say they usually do not keep your answers. That leaves every reason to answer in full."
         },
         {
           "type": "heading",
@@ -140,7 +235,7 @@
     },
     {
       "id": "story",
-      "title": "Walter, a library computer, and the list he did not expect",
+      "title": "Walter, a Library Computer, and the List He Did Not Expect",
       "paragraphs": [],
       "blocks": [
         {
@@ -156,18 +251,70 @@
             "Fifteen minutes later, the list shows two programs he knows and three he does not. One is a provincial home support program for seniors. Another is a survivor supplement nobody ever told him about. Nobody mails a letter announcing that a benefit exists. You have to go looking, or answer a questionnaire that looks for you.",
             "On Monday, he calls 211 to check that the provincial program is real and still open. It is.",
             "Walter applies within the week. By winter, someone comes twice a week to help around the house, and he is still in the home he and his wife built."
+          ],
+          "at": 4,
+          "items": [
+            {
+              "title": "SATURDAY",
+              "text": "Library computer, every question answered"
+            },
+            {
+              "title": "MONDAY",
+              "text": "211 confirms it is open"
+            },
+            {
+              "title": "BY WINTER",
+              "text": "Help twice a week at home"
+            }
           ]
-        },
-        {
-          "type": "takeaway",
-          "text": "Run the federal Benefits Finder and your province’s own tool, not just one. Call 211 for anything local a web form would not know about. Answer every question in full, since the tools cannot check anything you do not tell them. Treat every result as a lead to check against the real program, and do it all again next year, because who qualifies changes quietly and often.",
-          "detail": ""
         },
         {
           "type": "transition",
           "text": "Walter found a home support program and a survivor supplement by answering every question, even the private ones.",
           "detail": "Fifteen honest minutes with a benefit finder can uncover help nobody will ever mail you.",
-          "extra": "Your action this week, in Section 06, takes fifteen minutes."
+          "extra": "The quick check in Section 08 tests what you would do next."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Why run both the federal Benefits Finder and your province’s tool?",
+              "detail": "They draw on different sources. Each finds programs the other may miss.",
+              "text": ""
+            },
+            {
+              "title": "When are the child benefit, the GST/HST credit and GIS worked out again?",
+              "detail": "Each July, from last year’s tax return.",
+              "text": ""
+            },
+            {
+              "title": "You had no income last year. Should you still file?",
+              "detail": "Yes. The return is how many benefits are worked out, even at zero income.",
+              "text": ""
+            },
+            {
+              "title": "A finder shows a program you have never heard of. What next?",
+              "detail": "Treat it as a lead. Check the real program page or call 211 to confirm it is open, then apply.",
+              "text": ""
+            },
+            {
+              "title": "You lost your job in June. Should you wait for next April to check benefits?",
+              "detail": "No. Run the finders now and apply for EI within four weeks of your last day.",
+              "text": ""
+            },
+            {
+              "title": "Why answer the private questions honestly?",
+              "detail": "The results only match the life you describe. The tools do not check your answers, and usually do not keep them.",
+              "text": ""
+            }
+          ]
         }
       ]
     },
@@ -177,32 +324,16 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
-          "items": [
-            {
-              "title": "Run the federal Benefits Finder at canada.ca, answering every question completely.",
-              "text": ""
-            },
-            {
-              "title": "Search your province’s name plus benefits finder, or call 211, and run the provincial equivalent.",
-              "text": ""
-            },
-            {
-              "title": "Set a recurring yearly reminder, tied to tax season, to run both again, whether or not anything in your life feels like it has changed.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Worksheet: your benefit-finder results"
-        },
-        {
           "type": "paragraph",
-          "text": "One rule of thumb: a program you did not recognize is not a mistake in the results. It is the entire reason to run the tool."
+          "text": "This week: run the federal Benefits Finder, answering every question completely. Then search your province’s name plus “benefits finder,” or call 211, and run the provincial version. Set a yearly reminder for tax season to do both again. A program you did not recognize is not a mistake in the results. It is the entire reason to run the tool."
         },
         {
           "type": "checkin"
+        },
+        {
+          "type": "takeaway",
+          "text": "Run more than one finder, and run them again next year.",
+          "detail": "Use the federal Benefits Finder and your province’s own tool, call 211 for anything local, answer every question in full and treat every result as a lead to check. Then follow the benefits year: file by April, read the July letters and search again after every big life change."
         }
       ]
     },
@@ -229,6 +360,14 @@
             {
               "title": "211",
               "text": "A free phone line and, in many provinces, a website that connects you to local, provincial and some federal social and government services."
+            },
+            {
+              "title": "Benefit year",
+              "text": "The July-to-June period used for the child benefit and the GST/HST credit, based on last year’s return."
+            },
+            {
+              "title": "Life event",
+              "text": "A change like a birth, move, job loss or death that can change which benefits you qualify for."
             }
           ]
         },
@@ -274,12 +413,12 @@
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information.",
     "samples": [
-      "The federal Benefits Finder and my province’s tool.",
-      "My CPP and OAS.",
-      "A provincial home support program and a survivor supplement.",
-      "The home support program. I will call 211 on Monday.",
-      "October 30.",
-      "Next March, when I do my taxes."
+      "The federal Benefits Finder and the Benefits Wayfinder.",
+      "The Canada child benefit and the GST/HST credit.",
+      "A provincial rent supplement and a children’s dental program.",
+      "The rent supplement. I will call the housing office on Tuesday.",
+      "November 6.",
+      "Every April, right after I file our taxes."
     ]
   },
   "sources": []

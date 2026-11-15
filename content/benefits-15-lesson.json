@@ -19,6 +19,10 @@
           "text": "The Canadian Dental Care Plan, or CDCP, helps Canadian residents who cannot get private dental coverage and whose adjusted family net income is below $90,000. It pays dental providers who take part, using CDCP rules and set fees. You may still owe a co-payment, the gap between the clinic’s price and the plan’s fee, or the full cost of a service the plan does not cover."
         },
         {
+          "type": "paragraph",
+          "text": "This lesson turns “covered” into a dollar amount. You will see what share CDCP pays at your income, ask four questions before treatment, price one real crown line by line and keep your coverage from lapsing at renewal time."
+        },
+        {
           "type": "spotlight",
           "text": "All four rules matter: no access to private dental insurance, your Canadian tax returns filed, adjusted family net income below $90,000 and living in Canada."
         },
@@ -54,23 +58,25 @@
           "text": "Once approved, you get a coverage start date and information from Service Canada and Sun Life. Do not book treatment before your coverage starts. CDCP does not pay you back if you pay the whole bill yourself. The clinic sends claims straight to the plan."
         },
         {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "What CDCP pays, by family income",
+          "detail": "SHARE OF THE SET FEE",
           "items": [
             {
-              "title": "AFNI BELOW $70,000",
-              "text": "CDCP pays 100% of the set fee for covered services. The clinic may still charge you more."
+              "title": "AFNI below $70,000",
+              "text": "100% — of the set fee for covered services. The clinic may still charge you more."
             },
             {
-              "title": "AFNI $70,000 TO $79,999",
-              "text": "CDCP pays 60% of the set fee and you pay 40%, plus any extra the clinic charges."
+              "title": "AFNI $70,000 to $79,999",
+              "text": "60% — paid by CDCP. You pay 40%, plus any extra the clinic charges."
             },
             {
-              "title": "AFNI $80,000 TO $89,999",
-              "text": "CDCP pays 40% of the set fee and you pay 60%, plus any extra the clinic charges."
+              "title": "AFNI $80,000 to $89,999",
+              "text": "40% — paid by CDCP. You pay 60%, plus any extra the clinic charges."
             },
             {
-              "title": "AFNI $90,000 OR MORE",
-              "text": "You do not meet the income rule for that benefit period."
+              "title": "AFNI $90,000 or more",
+              "text": "Not eligible — under the income rule for that benefit period."
             }
           ]
         },
@@ -79,8 +85,8 @@
           "text": "A clinic’s usual price may be higher than the CDCP set fee. Before treatment, ask whether the clinic will charge you the difference, often called balance billing."
         },
         {
-          "type": "spotlight",
-          "text": "CDCP can work alongside some provincial, territorial and federal dental programs. The rules vary, so show every coverage letter to your clinic."
+          "type": "paragraph",
+          "text": "CDCP can also work alongside some provincial, territorial and federal dental programs, such as coverage for children, seniors or people on income support. The rules for which plan pays first vary, so show every coverage letter you have to the clinic before treatment."
         },
         {
           "type": "myths",
@@ -130,10 +136,6 @@
         },
         {
           "type": "spotlight",
-          "text": "Preauthorization is a coverage review. It is not permission for treatment, and it does not promise that every future charge will be paid. The clinic sends it in with the papers needed."
-        },
-        {
-          "type": "spotlight",
           "text": "Limits on how often matter. A service can be in the benefits guide and still not be covered, because you have already used the allowed number or timing."
         },
         {
@@ -144,10 +146,88 @@
               "text": "A dentist’s advice and what the plan covers answer different questions. You and your dentist decide on care. The plan applies its coverage rules."
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "title": "Price One Treatment, Line by Line",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Here is Renée’s crown from the story in Section 05, worked out the way her clinic’s written estimate did it. Her family income puts her in the 40% co-payment band, and the clinic charges more than the CDCP set fee."
         },
         {
-          "type": "spotlight",
-          "text": "Key takeaway: CDCP is not a blank cheque. Check your coverage date, the service code, any preauthorization, the set fee, your co-payment and the clinic’s price difference before treatment starts."
+          "type": "ledger",
+          "detail": "WHAT RENÉE OWES",
+          "text": "$460 co-payment + $180 above the set fee = $640.",
+          "extra": "CDCP pays the other $690 straight to the clinic. “Covered” described the crown. These lines describe the bill.",
+          "items": [
+            {
+              "title": "Clinic’s price for the crown",
+              "amount": "$1,330",
+              "detail": "Total",
+              "text": "Is this the price in writing, with the service code?"
+            },
+            {
+              "title": "CDCP pays 60% of the $1,150 set fee",
+              "amount": "$690",
+              "detail": "Plan",
+              "text": "Did the plan approve it first, if preauthorization was needed?"
+            },
+            {
+              "title": "Her 40% co-payment",
+              "amount": "$460",
+              "detail": "You",
+              "text": "Does your CDCP letter show the same income band?"
+            },
+            {
+              "title": "Price above the set fee",
+              "amount": "$180",
+              "detail": "You",
+              "text": "Will the clinic charge this extra, or match the set fee?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "$640 was more than Renée could pay at once, so the clinic split it over three months. If your clinic offers a plan, see what each payment would be."
+        },
+        {
+          "type": "conversion",
+          "text": "Split your share of the bill",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter what you owe after CDCP and the months the clinic allows. Watch the monthly payment update.",
+          "items": [
+            {
+              "title": "Renée: $640 over 3 months",
+              "text": "",
+              "amount": "640",
+              "detail": "3"
+            },
+            {
+              "title": "$300 over 2 months",
+              "text": "",
+              "amount": "300",
+              "detail": "2"
+            },
+            {
+              "title": "$1,200 over 6 months",
+              "text": "",
+              "amount": "1200",
+              "detail": "6"
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If the clinic takes CDCP, it has to charge the CDCP price.”",
+              "text": "Clinics can charge more than the set fee and bill you the difference. Ask before treatment, and compare clinics if the gap is large."
+            }
+          ]
         }
       ]
     },
@@ -169,11 +249,22 @@
             "Two weeks later, the clinic gives her a breakdown: what CDCP will pay, her 40% share and the $180 gap between the clinic’s price and the set fee. Her total is $640.",
             "That is more than Renée can pay at once. Her dentist suggests another option the plan also covers, and the clinic offers to split her share over three months. Renée picks the crown and the payment plan.",
             "The crown does not become cheap by vocabulary. It becomes understandable, which is the useful first step between a treatment plan and a payment plan."
+          ],
+          "at": 4,
+          "items": [
+            {
+              "title": "THURSDAY OFFER",
+              "text": "“Covered,” no price"
+            },
+            {
+              "title": "TWO WEEKS LATER",
+              "text": "Written estimate: $640"
+            },
+            {
+              "title": "THREE MONTHS",
+              "text": "Share paid in parts"
+            }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Never rely on a percentage someone says out loud. Ask for the service codes and your estimate, so you and the clinic are talking about the same service, tooth and fee."
         },
         {
           "type": "heading",
@@ -187,7 +278,59 @@
           "type": "transition",
           "text": "Renée turned a vague “covered” into a $640 total she could plan for by waiting for a written estimate.",
           "detail": "Asking for the dollar amount in writing protects your own budget before any treatment starts.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "Section 06 shows how to keep your coverage from lapsing."
+        }
+      ]
+    },
+    {
+      "id": "renew",
+      "title": "Keep Your Coverage From Lapsing",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "CDCP runs on a yearly benefit period. Coverage does not roll over on its own. You renew through My Service Canada Account, there is no fee, and you must still meet all four rules, including a filed tax return."
+        },
+        {
+          "type": "glasspanel",
+          "text": "The CDCP year",
+          "detail": "EVERY YEAR",
+          "items": [
+            {
+              "title": "New period starts",
+              "text": "July 1 — the start of each benefit period."
+            },
+            {
+              "title": "Period ends",
+              "text": "June 30 — the end of the current benefit period."
+            },
+            {
+              "title": "Renewal window",
+              "text": "Spring — renewal opens each spring. In 2026, it closed on June 1."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "You must renew CDCP coverage every year. Missing the renewal window can leave a gap, and services you get during the gap are not paid back later."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you missed the renewal, you can usually apply again as a new member, but there will be a gap. Book treatment for after your new coverage date, not before it. File your tax return every spring, because the renewal checks it."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My coverage carries on automatically as long as nothing changed.”",
+              "text": "Coverage ends with the benefit period unless you renew, even if your income and family are the same."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: Renew your CDCP coverage",
+          "url": "https://www.canada.ca/en/services/benefits/dental/dental-care-plan/renew.html"
         }
       ]
     },
@@ -205,23 +348,33 @@
               "text": ""
             },
             {
+              "title": "A family’s AFNI is $76,000. What share of the set fee does CDCP pay?",
+              "detail": "60%. The family pays 40%, plus anything the clinic charges above the set fee.",
+              "text": ""
+            },
+            {
+              "title": "A filling’s set fee is $200, the clinic charges $240 and you are in the 40% band. What do you owe?",
+              "detail": "$120. That is 40% of $200, which is $80, plus the $40 above the set fee.",
+              "text": ""
+            },
+            {
+              "title": "You owe $450 and the clinic allows three months. What is each payment?",
+              "detail": "$150. That is $450 ÷ 3.",
+              "text": ""
+            },
+            {
               "title": "Why might you still owe money with a 0% co-payment?",
               "detail": "Zero percent applies to covered CDCP services at the set fee. Services the plan does not cover, and clinic prices above the CDCP amount, can still create a bill.",
               "text": ""
             },
             {
+              "title": "You missed the June renewal. What happens?",
+              "detail": "You can usually apply again, but there will be a gap. Treatment during the gap is not paid back later.",
+              "text": ""
+            },
+            {
               "title": "Who sends a CDCP claim?",
               "detail": "The clinic sends covered claims straight to the plan. CDCP does not pay you back if you pay the full bill yourself.",
-              "text": ""
-            },
-            {
-              "title": "What does preauthorization decide, and what does it not decide?",
-              "detail": "It is a coverage review done before some treatments. It is not permission for treatment, and it does not promise that every future charge will be paid.",
-              "text": ""
-            },
-            {
-              "title": "Why tell your clinic about every other dental plan you have?",
-              "detail": "CDCP can work alongside some provincial, territorial and federal dental programs, and the rules vary, so your clinic needs every coverage letter.",
               "text": ""
             }
           ]
@@ -247,7 +400,12 @@
         },
         {
           "type": "spotlight",
-          "text": "You must renew CDCP coverage every year. Missing the renewal window can leave a gap, and services you get during the gap are not paid back later."
+          "text": "When a clinic says a treatment is “covered,” ask one more question: covered at what dollar amount for me? The answer is the only number your budget can use."
+        },
+        {
+          "type": "takeaway",
+          "text": "CDCP is not a blank cheque.",
+          "detail": "Check your coverage date, your income band, the service code, any preauthorization, the set fee and the clinic’s price difference before treatment starts, and renew every spring so the coverage is still there next time."
         }
       ]
     },
@@ -286,6 +444,10 @@
             {
               "title": "Frequency limit",
               "text": "The most times, or how often, a service is covered."
+            },
+            {
+              "title": "Benefit period",
+              "text": "The CDCP year, from July 1 to June 30. Coverage must be renewed for each one."
             }
           ]
         }
@@ -310,12 +472,12 @@
       "What is one question you will ask your clinic before you book?"
     ],
     "samples": [
-      "Yes, since March 1.",
-      "About $84,000.",
-      "A crown on a back tooth.",
-      "Yes.",
+      "Yes, since June 1.",
+      "About $74,000.",
+      "Two fillings.",
+      "Not sure.",
       "Not yet.",
-      "How much will I pay in dollars, including any price difference?"
+      "Will you charge me more than the CDCP set fee for the fillings?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

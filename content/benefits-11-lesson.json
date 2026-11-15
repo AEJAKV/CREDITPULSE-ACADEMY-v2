@@ -19,6 +19,10 @@
           "text": "Provincial and territorial income support is last-resort help with basic needs like food, clothing and shelter. Program names, rates, savings limits, work rules, emergency help and appeal steps differ by province. This lesson teaches a way to search and apply that works anywhere. It does not invent one national rule."
         },
         {
+          "type": "paragraph",
+          "text": "You will sort your situation through five filters, see what actually lands in your account when you work part time, learn what to report after approval, and walk through the first thirty days after a decision you think is wrong."
+        },
+        {
           "type": "spotlight",
           "text": "Start with the official website of the province or territory where you live. The federal Benefits Finder can point to options, but the local program decides who qualifies."
         },
@@ -58,33 +62,34 @@
           "items": [
             {
               "title": "WHERE YOU LIVE",
-              "text": "Confirm your province or territory, and whether a First Nation or another group runs the program on reserve."
+              "text": "Confirm your province or territory, and whether a First Nation or another group runs the program on reserve.",
+              "icon": "map"
             },
             {
               "title": "HOW URGENT IT IS",
-              "text": "Separate needs you have today, like food, shelter, medicine, utilities or safety, from the regular application. Ask about emergency help instead of assuming the regular line is the only door."
+              "text": "Separate needs you have today, like food, shelter, medicine, utilities or safety, from the regular application. Ask about emergency help instead of assuming the regular line is the only door.",
+              "icon": "timer"
             },
             {
               "title": "WHO LIVES WITH YOU",
-              "text": "Write down adults, a spouse or partner, children, custody, housing and any immigration or sponsorship details the local rules ask for."
+              "text": "Write down adults, a spouse or partner, children, custody, housing and any immigration or sponsorship details the local rules ask for.",
+              "icon": "home"
             },
             {
               "title": "WHAT YOU HAVE",
-              "text": "List income, cash, accounts, investments, vehicles, property and debts. Then sort them using your province’s rules on what counts and what does not."
+              "text": "List income, cash, accounts, investments, vehicles, property and debts. Then sort them using your province’s rules on what counts and what does not.",
+              "icon": "wallet"
             },
             {
               "title": "WORK AND PARTICIPATION",
-              "text": "Some programs ask for a job plan, a job search or referrals. A short-term health issue, caregiving or a safety concern may change those duties."
+              "text": "Some programs ask for a job plan, a job search or referrals. A short-term health issue, caregiving or a safety concern may change those duties.",
+              "icon": "briefcase"
             }
           ]
         },
         {
           "type": "spotlight",
           "text": "Ontario Works, Alberta Income Support, B.C. Income Assistance and Quebec Social Assistance are different programs. Their official pages are examples, not interchangeable instruction manuals."
-        },
-        {
-          "type": "spotlight",
-          "text": "A rate page shows the most a group can get, not always your final payment. Your rent, household size, income, savings, deductions, penalties and extra benefits can all change the result."
         },
         {
           "type": "myths",
@@ -96,9 +101,60 @@
           ]
         },
         {
+          "type": "spotlight",
+          "text": "A rate page shows the most a group can get, not always your final payment. Your rent, household size, income, savings, deductions, penalties and extra benefits can all change the result."
+        },
+        {
           "type": "source",
           "text": "Alberta: Income Support",
           "url": "https://www.alberta.ca/income-support"
+        }
+      ]
+    },
+    {
+      "id": "cheque",
+      "title": "What Actually Lands in Your Account",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Most programs let you keep part of what you earn from work. The rules differ, but the shape is the same: some earnings do not count at all, part of the rest does not count, and support is lowered by whatever is left. The surprise for most people is that working almost always leaves you with more money in total, not less."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Ontario Works, once you have been on assistance for three months in a row, the first $200 you earn each month does not count. Half of the rest does not count either. Here is what that looks like for someone earning $800 a month, using an example support amount of $800. Check your own program’s real rate."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Working part time on Ontario Works",
+          "detail": "EXAMPLE, NOT A RATE TABLE",
+          "items": [
+            {
+              "title": "Your pay",
+              "text": "Earned $800. Not counted $200. Half of the rest $300."
+            },
+            {
+              "title": "Your support",
+              "text": "Example rate $800. Lowered by $300. Paid $500."
+            },
+            {
+              "title": "In your hand",
+              "text": "Pay $800. Support $500. Total $1,300."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Working $800 a month takes this household from $800 to $1,300. Every province does the math differently, so ask your worker for the calculation in writing before you turn down hours."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If I take a part-time job, I will lose all my support.”",
+              "text": "Most programs only lower support by part of what you earn, so the total usually goes up. Report the work, ask for the math and decide with real numbers."
+            }
+          ]
         }
       ]
     },
@@ -149,10 +205,6 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "Keep every decision letter. It should show the benefit period, the facts used, any deductions or overpayment and the deadline to ask for a review or appeal. A bank deposit cannot explain why it changed. It is a number, not a caseworker in disguise."
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -160,10 +212,65 @@
               "text": "Write down the date, office, question, answer and next step. Ask for written proof of any big decision. Memory is a poor appeal exhibit."
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "appeal",
+      "title": "Your First Thirty Days After a Decision You Disagree With",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Workers make mistakes, and so do the rules engines behind them. A decision that cuts, stops or refuses your support usually comes with a short deadline to challenge it, often thirty days. In Ontario, you have thirty days to ask for an internal review, and if that does not fix it, thirty more days to appeal to the Social Benefits Tribunal. Other provinces use different names and dates, so read your own letter."
         },
         {
-          "type": "spotlight",
-          "text": "Provincial income support is local, last-resort and closely managed. Check your province’s current rules, keep emergency needs apart from the regular claim and keep a dated paper trail after you are approved."
+          "type": "carousel",
+          "items": [
+            {
+              "title": "READ IT",
+              "detail": "DAY 1",
+              "icon": "filetext",
+              "text": "Find the reason, the facts used, the amount and the deadline on the decision letter."
+            },
+            {
+              "title": "GET HELP",
+              "detail": "DAYS 2–5",
+              "icon": "search",
+              "text": "Call a community legal clinic. Help with income support appeals is usually free."
+            },
+            {
+              "title": "GATHER",
+              "detail": "DAYS 6–15",
+              "icon": "files",
+              "text": "Collect pay stubs, bank statements, leases or letters that show the facts were wrong."
+            },
+            {
+              "title": "ASK FOR REVIEW",
+              "detail": "DAYS 16–25",
+              "icon": "check",
+              "text": "Send the review request in writing, with copies of your proof. Keep your own copy."
+            },
+            {
+              "title": "DEADLINE",
+              "detail": "DAY 30",
+              "icon": "clock",
+              "text": "The review request must arrive by the deadline. Late requests are often refused."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "While you wait, ask whether you can keep getting support during the review, and whether emergency help is available. A review is not a reason to stop reporting changes."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Arguing with the decision will make them treat me worse.”",
+              "text": "A review is your legal right, not a complaint. Workers expect them, and many are settled once the right papers arrive."
+            }
+          ]
         }
       ]
     },
@@ -185,11 +292,22 @@
             "Instead, she decides to ask two direct questions. She calls and asks whether there is emergency help for rent while the regular application is reviewed. Then she lists the car and the $600, and asks how B.C. counts them.",
             "The twist is good news. Under B.C.’s rules, her car and her small savings do not rule her out. And there is a separate route for urgent shelter needs.",
             "Kira does not get one Canadian answer. She gets something more useful: the right office, the current checklist, an answer about emergency help and a paper trail from the province where she lives."
+          ],
+          "at": 4,
+          "items": [
+            {
+              "title": "TWO EVENINGS",
+              "text": "Saskatchewan checklist"
+            },
+            {
+              "title": "ONE CALL",
+              "text": "Wrong province"
+            },
+            {
+              "title": "TWO QUESTIONS",
+              "text": "Emergency help, car counted"
+            }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "A move can end one province’s help and mean a fresh application in another. Tell your old program about the move, and contact the new province right away to avoid gaps and overpayments."
         },
         {
           "type": "heading",
@@ -203,7 +321,7 @@
           "type": "transition",
           "text": "Kira got emergency rent help and kept her car by asking B.C. the right questions instead of guessing.",
           "detail": "Declaring what you own and asking about urgent help can open doors that guessing would close.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "The quick check in Section 07 tests the math."
         }
       ]
     },
@@ -226,18 +344,28 @@
               "text": ""
             },
             {
+              "title": "On Ontario Works after three months, someone earns $600. How much of it does not count?",
+              "detail": "$400. The first $200, plus half of the other $400, which is $200.",
+              "text": ""
+            },
+            {
+              "title": "Support of $800 is lowered by $200 because of earnings of $600. What is the total in hand?",
+              "detail": "$1,200. That is $600 of pay plus $600 of support.",
+              "text": ""
+            },
+            {
               "title": "Why declare what you own before deciding whether it counts?",
               "detail": "Exemption rules differ by province. Declaring it and asking for the math in writing keeps you from wrongly ruling yourself out or hiding something by guesswork.",
               "text": ""
             },
             {
-              "title": "What changes usually need to be reported?",
-              "detail": "Work, earnings, gifts, benefits, who lives with you, your address, rent, bank balances, travel, school or health changes.",
+              "title": "A decision letter cuts your support and you think it is wrong. What usually comes first?",
+              "detail": "An internal review, asked for in writing before the deadline, often thirty days. A legal clinic can help for free.",
               "text": ""
             },
             {
-              "title": "What should you keep if a decision looks wrong?",
-              "detail": "The decision letter showing the benefit period, facts used, deductions or overpayment and the review or appeal deadline, plus a dated record of related calls.",
+              "title": "What changes usually need to be reported?",
+              "detail": "Work, earnings, gifts, benefits, who lives with you, your address, rent, bank balances, travel, school or health changes.",
               "text": ""
             }
           ]
@@ -259,6 +387,11 @@
         {
           "type": "spotlight",
           "text": "Write the date you checked beside every rate, savings limit and earnings rule. Provincial pages can change while an old search result keeps wandering around the internet. If you face eviction, family violence, no food, no medicine or an unsafe home, say so clearly and ask what emergency help exists today."
+        },
+        {
+          "type": "takeaway",
+          "text": "Provincial income support is local, last-resort and closely managed.",
+          "detail": "Check your province’s current rules, keep emergency needs apart from the regular claim, ask for the earnings math before you turn down work, keep a dated paper trail and use the review deadline when a decision looks wrong."
         }
       ]
     },
@@ -297,6 +430,14 @@
             {
               "title": "Appeal",
               "text": "A formal way to challenge a decision."
+            },
+            {
+              "title": "Earnings exemption",
+              "text": "The part of your work pay that does not lower your support."
+            },
+            {
+              "title": "Internal review",
+              "text": "A request for the program to look at its own decision again, usually before any appeal."
             }
           ]
         }
@@ -321,12 +462,12 @@
       "What is one question you will ask the program this week?"
     ],
     "samples": [
-      "British Columbia. Income Assistance.",
-      "Yes. Rent is due in nine days.",
-      "Just me.",
-      "An old car and about $600 in savings.",
+      "Manitoba. Employment and Income Assistance.",
+      "Yes. I have about a week of groceries left.",
+      "Me and my two kids, aged 4 and 7.",
+      "About $300 in my bank account and a small RESP for the kids.",
       "Not yet.",
-      "Is there emergency help with rent while my application is reviewed?"
+      "Does the RESP count, and is there emergency help with food?"
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

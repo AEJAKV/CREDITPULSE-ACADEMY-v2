@@ -54,19 +54,23 @@
           "items": [
             {
               "title": "A BREAK IN WORK",
-              "text": "For regular EI, you usually need insured work and at least seven days in a row with no work and no pay."
+              "text": "For regular EI, you usually need insured work and at least seven days in a row with no work and no pay.",
+              "icon": "timer"
             },
             {
               "title": "WHY THE JOB ENDED",
-              "text": "Losing your job through no fault of your own is the usual route. Quitting, misconduct, a strike, school or travel can mean a closer look."
+              "text": "Losing your job through no fault of your own is the usual route. Quitting, misconduct, a strike, school or travel can mean a closer look.",
+              "icon": "briefcase"
             },
             {
               "title": "HOURS FOR YOUR REGION",
-              "text": "You normally need 420 to 700 insured hours, based on the jobless rate in your EI region."
+              "text": "You normally need 420 to 700 insured hours, based on the jobless rate in your EI region.",
+              "icon": "map"
             },
             {
               "title": "STAYING AVAILABLE",
-              "text": "Regular EI needs you to be ready, willing and able to work, with a written record of your job search."
+              "text": "Regular EI needs you to be ready, willing and able to work, with a written record of your job search.",
+              "icon": "activity"
             }
           ]
         },
@@ -79,10 +83,6 @@
           "text": "Your EI region depends on where you live, which may not be where you worked. Use the official postal code lookup for the date your claim starts."
         },
         {
-          "type": "spotlight",
-          "text": "Regular EI needs you to be available and to keep a record of your job search. Sickness EI uses a different test: you would be available to work if not for your health condition."
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -90,6 +90,10 @@
               "text": "Why the job ended, the break in pay, being available and looking for work all matter too. Hours are one gate, not the entire airport."
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Regular EI needs you to be available and to keep a record of your job search. Sickness EI uses a different test: you would be available to work if not for your health condition."
         },
         {
           "type": "source",
@@ -116,10 +120,6 @@
           "text": "After you apply, send your report every two weeks, on time and accurate. List any work, hours, pay before tax, whether you were available, training, travel and other money they ask about. Keep a job-search log with employers, dates, how you applied, the job and what happened."
         },
         {
-          "type": "spotlight",
-          "text": "If you work while on a regular claim, EI usually drops by 50 cents for each dollar you earn, until your pay reaches 90% of the weekly amount used to set up your claim. Above that, EI drops dollar for dollar."
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -129,12 +129,9 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
-        },
-        {
-          "type": "paragraph",
-          "text": "Apply right away, use the right EI route and keep a record every week. The rules still apply after you are approved, so report your availability, work, pay and changes accurately."
+          "type": "takeaway",
+          "text": "Apply right away, use the right EI route and keep a record every week.",
+          "detail": "The rules still apply after you are approved, so report your availability, work, pay and changes accurately."
         }
       ]
     },
@@ -157,10 +154,6 @@
             "The twist comes a week later. The record finally arrives, with the wrong last day of work. Because Dylan had already applied, he only has to send the fix, not start over. He calls his old employer, and they send a corrected copy.",
             "Service Canada decides the claim. Dylan could not control the record’s travel speed. He did control his application date, his weekly reports and his honesty about the $160."
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "A late or wrong Record of Employment is something to follow up on, not a reason to put off applying. Note when you contacted your employer and tell Service Canada what is missing."
         },
         {
           "type": "transition",
@@ -284,12 +277,12 @@
       "Where will you keep your job-search log, and when is your next report due?"
     ],
     "samples": [
-      "October 3. I applied on October 5.",
+      "September 12. I applied on September 15.",
       "Laid off.",
-      "Not yet. My employer says next week.",
-      "About 1,800 hours.",
-      "One day of landscaping in the week of October 12, $160.",
-      "A notebook in my truck. My next report is due October 20."
+      "Yes, but my last day is wrong. I asked my employer to fix it.",
+      "About 1,500 hours.",
+      "Two evening shifts at a restaurant in the week of September 21, $220.",
+      "A spreadsheet on my phone. My next report is due September 29."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

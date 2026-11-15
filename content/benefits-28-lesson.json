@@ -19,12 +19,8 @@
           "text": "None of that arrives on a slip. All of it can be worth real money on your return."
         },
         {
-          "type": "heading",
-          "text": "What this course does"
-        },
-        {
           "type": "paragraph",
-          "text": "Almost everything here follows the same pattern. No paper shows up in the mail to remind you, so the credit only gets claimed by people who already knew to look for it. This module is the looking."
+          "text": "Almost everything here follows the same pattern. No paper shows up in the mail to remind you, so the credit only gets claimed by people who already knew to look for it. This module is the looking, including a look back at returns you already filed."
         },
         {
           "type": "transition",
@@ -36,35 +32,97 @@
     },
     {
       "id": "medical",
-      "title": "Medical expenses: wider than almost anyone assumes",
+      "title": "Medical Expenses: Wider Than Almost Anyone Assumes",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Most people claim the obvious: prescriptions, dental work and glasses. The credit reaches much further, and it covers your household. You can claim costs for yourself, your spouse and the people who depend on you, including adult children, parents and grandparents. In some cases you can also claim for brothers, sisters, aunts, uncles, nieces and nephews who rely on you."
+          "text": "Most people claim the obvious: prescriptions, dental work and glasses. The credit reaches much further, and it covers your household. You can claim costs for yourself, your spouse and the people who depend on you, including adult children, parents and grandparents."
         },
         {
           "type": "paragraph",
-          "text": "People often miss two things. First, travel. If you had to go at least 40 kilometres one way for medical care you could not get near home, you can claim the travel. Past 80 kilometres, you can add meals and a place to stay. Second, items beyond prescriptions. These include braces, hearing aids, wigs after a medical condition, air conditioners a doctor recommends, and home changes for someone who has trouble moving around. Several of those also connect to the Home Accessibility Tax Credit in the Senior Home-Renovation Programs lesson."
+          "text": "People often miss two things. First, travel. If you had to go at least 40 kilometres one way for medical care you could not get near home, you can claim the travel. Past 80 kilometres, you can add meals and a place to stay. Second, items beyond prescriptions, such as braces, hearing aids and home changes for someone who has trouble moving around."
+        },
+        {
+          "type": "ledger",
+          "detail": "ONE HOUSEHOLD’S YEAR",
+          "text": "$5,400 of medical costs for one household, before anyone decides whose return carries them.",
+          "extra": "Add up every member’s receipts first. The total is one claim, not four small ones.",
+          "items": [
+            {
+              "title": "Household medical costs",
+              "amount": "$5,400",
+              "detail": "Total",
+              "text": "Did you include every person who depends on you?"
+            },
+            {
+              "title": "Hearing aids",
+              "amount": "$1,800",
+              "detail": "Device",
+              "text": "Did a hearing specialist recommend them in writing?"
+            },
+            {
+              "title": "Dental work",
+              "amount": "$1,600",
+              "detail": "Dental",
+              "text": "Is this the part your plan did not pay?"
+            },
+            {
+              "title": "Prescriptions",
+              "amount": "$1,200",
+              "detail": "Drugs",
+              "text": "Do the pharmacy’s yearly printouts match your receipts?"
+            },
+            {
+              "title": "Travel to a specialist 70 km away",
+              "amount": "$800",
+              "detail": "Travel",
+              "text": "Did you keep the dates and distances for each trip?"
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "The claim has a floor. You can only claim the part above a set amount that changes each year, or above three percent of net income, whichever is lower. That floor is exactly why it matters whose return carries the claim."
+          "text": "The claim has a floor. You can only claim the part above 3% of net income or a set dollar amount that rises each year, whichever is lower. Because the floor depends on income, the same receipts are worth more on one spouse’s return than the other’s."
+        },
+        {
+          "type": "glasspanel",
+          "text": "The same $5,400 on two returns",
+          "detail": "FEDERAL CREDIT AT 14%",
+          "items": [
+            {
+              "title": "Spouse A, $80,000 income",
+              "text": "Floor $2,400. Claimable $3,000. Federal credit $420."
+            },
+            {
+              "title": "Spouse B, $30,000 income",
+              "text": "Floor $900. Claimable $4,500. Federal credit $630."
+            },
+            {
+              "title": "Difference",
+              "text": "Floor $1,500 lower. Claimable $1,500 more. Federal credit $210 more."
+            }
+          ]
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“Everyone should claim their own medical expenses on their own return.”",
-              "text": "The claim can go on either spouse’s return. Putting it on the lower-income spouse’s return often clears the floor with fewer receipts and gives a bigger credit. Add up every household member’s costs, then decide together whose return carries them. Do not just default to whoever paid."
+              "text": "The claim can go on either spouse’s return. Putting it on the lower-income spouse’s return often clears the floor with fewer receipts and gives a bigger credit, as long as that spouse owes enough tax to use it. Add up every household member’s costs, then decide together."
             }
           ]
+        },
+        {
+          "type": "source",
+          "text": "CRA: Medical expenses you can claim",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html"
         }
       ]
     },
     {
       "id": "caregiver",
-      "title": "The Canada Caregiver Credit: for people who never call themselves a caregiver",
+      "title": "The Canada Caregiver Credit: For People Who Never Call Themselves a Caregiver",
       "paragraphs": [],
       "blocks": [
         {
@@ -73,21 +131,17 @@
         },
         {
           "type": "paragraph",
-          "text": "It also stacks with other help. A dependant who qualifies for this credit often qualifies for the Disability Tax Credit too. That, in turn, can open the Home Accessibility Tax Credit, a Registered Disability Savings Plan and a larger amount under this same credit. One form, filled in once by a medical practitioner, can be the key to several benefits. It is the same door-opener pattern from the Veteran Benefits lesson, turning up again."
-        },
-        {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: THE FORM THAT UNLOCKS THE MOST, AND GETS FILED THE LEAST"
+          "text": "It also stacks with other help. A dependant who qualifies for this credit often qualifies for the Disability Tax Credit too. That, in turn, can open the Home Accessibility Tax Credit, a Registered Disability Savings Plan and a larger amount under this same credit. It is the same door-opener pattern from the Veteran Benefits lesson, turning up again."
         },
         {
           "type": "spotlight",
-          "text": "The Disability Tax Credit is the most useful single form in this whole module. A medical practitioner fills in form T2201 to set it up. It is a credit on its own, and it is also the key to the higher caregiver amount, the Home Accessibility Tax Credit at any age, the Registered Disability Savings Plan and its matching grants, and several provincial programs. It can also be backdated. If a practitioner confirms the condition existed in past years, the CRA can adjust up to ten years of old returns. Now and then, that produces a refund big enough to pay for a renovation, clear a debt or arrive as a pleasant surprise. It is also often turned down on a thin first try and approved on a second try with clearer medical detail about how the condition limits daily life. A no is feedback on the paperwork, not a final verdict on the person."
+          "text": "The Disability Tax Credit is the most useful single form in this whole module. A medical practitioner fills in form T2201 to set it up. It is a credit on its own, and it is also the key to the higher caregiver amount, the Home Accessibility Tax Credit at any age, the Registered Disability Savings Plan and its matching grants, and several provincial programs. If a practitioner confirms the condition existed in past years, the CRA can adjust up to ten years of old returns. It is often turned down on a thin first try and approved on a second try with clearer detail about how the condition limits daily life. A no is feedback on the paperwork, not a final verdict on the person."
         }
       ]
     },
     {
       "id": "family",
-      "title": "Working and raising a family: the quiet ones",
+      "title": "Working and Raising a Family: The Quiet Ones",
       "paragraphs": [],
       "blocks": [
         {
@@ -148,27 +202,72 @@
     },
     {
       "id": "refundable",
-      "title": "Refundable versus non-refundable, one more time",
+      "title": "Refundable Versus Non-Refundable, One More Time",
       "paragraphs": [],
       "blocks": [
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: REFUNDABLE VERSUS NON-REFUNDABLE, ONE MORE TIME"
+          "type": "spotlight",
+          "text": "This difference runs through the whole Platinum level for a reason. It is the one fact most likely to decide whether a credit is worth chasing at all. A non-refundable credit only lowers tax you owe. If your income is low enough that your tax bill is already near zero, more non-refundable credits do not put money in your pocket. A refundable credit is paid to you either way. Before you decide a credit is not worth the paperwork for someone on a fixed or modest income, check which kind it is. The paperwork is often the same. The payoff is not."
         },
         {
-          "type": "spotlight",
-          "text": "This difference runs through the whole Platinum level for a reason. It is the one fact most likely to decide whether a credit is worth chasing at all. A non-refundable credit only lowers tax you owe. If your income is low enough that your tax bill is already near zero, more non-refundable credits do not put money in your pocket. A refundable credit is paid to you either way. That is why the Canada Training Credit, the Canada Workers Benefit and several provincial credits for caregivers matter so much for households with lower incomes. Before you decide a credit is not worth the paperwork for someone on a fixed or modest income, check which kind it is. The paperwork is often the same. The payoff is not."
+          "type": "paragraph",
+          "text": "Most of the credits in this lesson, including the medical, caregiver and disability credits, are non-refundable. The Canada Workers Benefit, the Canada Training Credit and some provincial credits are refundable. That is why the medical claim above goes to the spouse with lower income only if that spouse still owes some tax."
+        }
+      ]
+    },
+    {
+      "id": "lookback",
+      "title": "Go Back Up to Ten Years",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Here is the twist most people never hear: a credit you missed is not gone when the year ends. You can usually ask the CRA to change a return for any of the past ten years and get a refund for a credit you should have claimed."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Find the missed credit",
+              "text": "Use this lesson’s list. Medical costs, caregiving and a disability credit are the most common."
+            },
+            {
+              "title": "Gather the proof",
+              "text": "Receipts, travel logs or a T2201 form. The CRA may ask to see them."
+            },
+            {
+              "title": "Change the return",
+              "text": "Use “Change my return” in CRA My Account, or send form T1-ADJ. Do not file a whole new return."
+            },
+            {
+              "title": "Watch for the reply",
+              "text": "The CRA sends a Notice of Reassessment showing what changed and any refund."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Change one year at a time, and keep a copy of everything you send. A free tax clinic can help with adjustments too, not just new returns."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If I missed it last year, it is too late.”",
+              "text": "Most refunds can be claimed for up to ten years back. The deadline that matters is the ten years, not April."
+            }
+          ]
         }
       ]
     },
     {
       "id": "provincial",
-      "title": "Do not stop at the federal return",
+      "title": "Do Not Stop at the Federal Return",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Every province and territory runs its own credits alongside the federal ones: caregiver amounts, disability top-ups, home renovation credits like the ones in the Senior Home-Renovation Programs lesson, tax cuts for low incomes, and climate or carbon rebates. They run on a separate schedule from the federal return. They get less attention, because none of them has a single national name, and they are just as easy to miss. Check your province’s tax credit page once a year, the same way you check the federal one."
+          "text": "Every province and territory runs its own credits alongside the federal ones: caregiver amounts, disability top-ups, home renovation credits, tax cuts for low incomes, and climate or carbon rebates. They get less attention, because none of them has a single national name, and they are just as easy to miss. Check your province’s tax credit page once a year, the same way you check the federal one."
         },
         {
           "type": "chips",
@@ -203,7 +302,7 @@
     },
     {
       "id": "story",
-      "title": "Priyanka, her mother, and the form that had been sitting there for years",
+      "title": "Priyanka, Her Mother, and the Form That Had Been Sitting There for Years",
       "paragraphs": [],
       "blocks": [
         {
@@ -219,18 +318,70 @@
             "The form takes one visit. The approval covers this year. Then her accountant asks one more question, and the CRA backdates the credit three more years, to the month of the stroke.",
             "The twist is how far it reaches. Three old returns are adjusted, her caregiver credit grows from now on, and her mother now qualifies for programs Priyanka had never looked at. The ramp is mostly paid for by spring.",
             "Nothing about her mother’s health changed. The only thing that changed was a form being filled in by someone who finally thought to ask."
+          ],
+          "at": 4,
+          "items": [
+            {
+              "title": "YEARLY MEETING",
+              "text": "One question from the accountant"
+            },
+            {
+              "title": "ONE VISIT",
+              "text": "T2201 filled in"
+            },
+            {
+              "title": "LOOK-BACK",
+              "text": "Three more years adjusted"
+            }
           ]
-        },
-        {
-          "type": "takeaway",
-          "text": "The credits that go unclaimed are the ones with no slip: medical travel, caregiving, a family member’s disability with no paperwork, a move mid-year. Add up your household’s medical costs before you decide whose return carries them. Ask whether anyone should have a Disability Tax Credit form on file. Check your province’s credits separately from the federal ones. None of it arrives by mail. All of it has to be asked for.",
-          "detail": ""
         },
         {
           "type": "transition",
           "text": "Priyanka’s family got three years of adjustments and a bigger caregiver credit from one form she almost skipped.",
           "detail": "Asking whether anyone in your home should have a Disability Tax Credit form can unlock the same chain of help.",
-          "extra": "Your action this week, in Section 08, starts with your household’s medical costs."
+          "extra": "The quick check in Section 09 tests the math."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "How far must you travel one way to claim medical travel, and when can you add meals and lodging?",
+              "detail": "At least 40 kilometres to claim travel. Past 80 kilometres, you can add meals and a place to stay.",
+              "text": ""
+            },
+            {
+              "title": "A spouse with $40,000 of net income has a 3% floor of how much?",
+              "detail": "$1,200, as long as that is lower than the year’s set dollar amount.",
+              "text": ""
+            },
+            {
+              "title": "Household medical costs are $4,000. The floor is $1,200. How much is claimable?",
+              "detail": "$2,800. That is $4,000 − $1,200.",
+              "text": ""
+            },
+            {
+              "title": "Why put the medical claim on the lower-income spouse’s return?",
+              "detail": "The floor is lower, so more of the costs count, as long as that spouse owes enough tax to use the credit.",
+              "text": ""
+            },
+            {
+              "title": "You missed a caregiver credit four years ago. Is it too late?",
+              "detail": "Usually not. You can ask the CRA to change returns from up to ten years back.",
+              "text": ""
+            },
+            {
+              "title": "Which single form opens the most other help in this lesson?",
+              "detail": "The T2201 for the Disability Tax Credit.",
+              "text": ""
+            }
+          ]
         }
       ]
     },
@@ -240,32 +391,16 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
-          "items": [
-            {
-              "title": "List every medical expense across your household for this year, including travel, and note who paid and whose return might carry the claim.",
-              "text": ""
-            },
-            {
-              "title": "Ask directly: does anyone in my household have a condition that might qualify for the Disability Tax Credit and has never applied? If yes, book the appointment to have the form completed.",
-              "text": ""
-            },
-            {
-              "title": "Check your province’s tax credit page for anything that has no federal equivalent.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Worksheet: your missed-credit check"
-        },
-        {
           "type": "paragraph",
-          "text": "One rule of thumb: if your honest answer to a question below is “we never thought about it,” that is the exact answer this form is built to catch."
+          "text": "This week: list every medical expense across your household, including travel, and note whose return might carry the claim. Ask directly whether anyone in your household might qualify for the Disability Tax Credit and has never applied. Then check your province’s tax credit page, and look at last year’s return for anything you missed. If your honest answer to a question below is “we never thought about it,” that is the exact answer this form is built to catch."
         },
         {
           "type": "checkin"
+        },
+        {
+          "type": "takeaway",
+          "text": "The credits that go unclaimed are the ones with no slip.",
+          "detail": "Medical travel, caregiving, a family member’s disability with no paperwork, a move mid-year. Add up your household’s medical costs before you decide whose return carries them, ask whether anyone should have a T2201 on file, check your province separately and go back up to ten years for what you missed."
         }
       ]
     },
@@ -300,6 +435,14 @@
             {
               "title": "Net income threshold (medical expenses)",
               "text": "The floor below which medical costs cannot be claimed: a set dollar amount that changes each year, or 3% of net income, whichever is lower."
+            },
+            {
+              "title": "T1-ADJ",
+              "text": "The form to ask the CRA to change a return you already filed. You can also use “Change my return” in My Account."
+            },
+            {
+              "title": "T1-ADJ",
+              "text": "The form to ask the CRA to change a return you already filed. You can also use “Change my return” in My Account."
             }
           ]
         },
@@ -319,7 +462,7 @@
         },
         {
           "type": "paragraph",
-          "text": "This module skips dollar amounts on purpose. Thresholds, credit rates and provincial amounts are indexed and revised regularly. Confirm current figures on canada.ca and your provincial tax credit page before filing."
+          "text": "The household example uses round numbers and the 2026 federal rate of 14% for practice. Thresholds, credit rates and provincial amounts are indexed and revised regularly. Confirm current figures on canada.ca and your provincial tax credit page before filing."
         }
       ]
     }
@@ -344,11 +487,11 @@
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information.",
     "samples": [
-      "Me about $600. My mother about $4,800.",
-      "Yes. My mother’s specialist is 65 kilometres away.",
-      "Yes. My mother, since her stroke.",
-      "My mother lives with me. I drive her to appointments and manage her pills.",
-      "No changes.",
+      "Me about $900. My son about $2,500 for his braces.",
+      "No.",
+      "Not sure. My husband has had back problems for years.",
+      "No.",
+      "Yes. I moved 90 kilometres for a new job in May.",
       "Not yet."
     ]
   },

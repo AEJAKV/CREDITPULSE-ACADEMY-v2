@@ -19,6 +19,10 @@
           "text": "Rent help in Canada comes from provinces, territories, cities, Indigenous groups and housing providers. It may be cash help that moves with you, housing where rent is set by your income, a rent top-up tied to one unit, or short-term help to stop an eviction. What is offered, who goes first and how long it takes differ by area. The right search starts with your household and your housing."
         },
         {
+          "type": "paragraph",
+          "text": "You will sort the four doors, measure your own housing gap in dollars, and learn what to do, step by step, if a notice for unpaid rent slides under your door. A wait list and an eviction are two different problems, and this lesson handles both."
+        },
+        {
           "type": "spotlight",
           "text": "The Canada Housing Benefit is delivered through thirteen separate provincial and territorial programs. It is not one national website with one national rate."
         },
@@ -58,29 +62,29 @@
           "items": [
             {
               "title": "RENT HELP THAT MOVES WITH YOU",
-              "text": "A payment that follows your household to a regular rental that qualifies, under local rules and yearly renewal."
+              "text": "A payment that follows your household to a regular rental that qualifies, under local rules and yearly renewal.",
+              "icon": "route"
             },
             {
               "title": "RENT SET BY YOUR INCOME",
-              "text": "Your rent is tied to your household income in an approved unit. Getting in often means a central or local wait list."
+              "text": "Your rent is tied to your household income in an approved unit. Getting in often means a central or local wait list.",
+              "icon": "wallet"
             },
             {
               "title": "TOP-UP TIED TO ONE UNIT",
-              "text": "The money is tied to a specific landlord, co-op or housing provider. Moving may end the help."
+              "text": "The money is tied to a specific landlord, co-op or housing provider. Moving may end the help.",
+              "icon": "home"
             },
             {
               "title": "EMERGENCY HOUSING HELP",
-              "text": "Short-term funds, income support, rent banks or prevention services may help with back rent, deposits or an urgent risk of losing your home."
+              "text": "Short-term funds, income support, rent banks or prevention services may help with back rent, deposits or an urgent risk of losing your home.",
+              "icon": "lifebuoy"
             }
           ]
         },
         {
           "type": "spotlight",
           "text": "B.C. keeps its Rental Assistance Program for working families with children separate from SAFER, which helps renters aged 60 or older. Your household type changes the door."
-        },
-        {
-          "type": "spotlight",
-          "text": "Alberta offers monthly rent benefits and community-based affordable housing. Local housing providers may handle the applications, so the provincial page is often the map, not the final counter."
         },
         {
           "type": "myths",
@@ -90,6 +94,10 @@
               "text": "Cities, housing providers and special programs may each keep their own list. Ask which lists, buildings and rent benefits need a separate application."
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Alberta offers monthly rent benefits and community-based affordable housing. Local housing providers may handle the applications, so the provincial page is often the map, not the final counter."
         },
         {
           "type": "source",
@@ -108,16 +116,44 @@
           "text": "Write down your household income before and after tax, your monthly rent, which utilities are included, unit size, any accessibility needs, who lives with you and any back rent. A simple way to measure the pressure is rent divided by income before tax, but use the program’s own income rules to see if you qualify."
         },
         {
-          "type": "spotlight",
-          "text": "A rent receipt proves you paid. A lease proves the terms of your tenancy. Many applications need both, plus tax information, proof of income, status papers and household details."
+          "type": "paragraph",
+          "text": "Here is an example household, with every housing cost on its own line, not just the rent."
+        },
+        {
+          "type": "ledger",
+          "detail": "THE HOUSING GAP",
+          "text": "$1,575 of $3,000 goes to housing, about 53% of income before tax.",
+          "extra": "The common 30% measure would be $900. This household is about $675 a month past it, which is the number to bring to a housing worker.",
+          "items": [
+            {
+              "title": "Household income before tax",
+              "amount": "$3,000",
+              "detail": "Income",
+              "text": "Is this a typical month, or a good one?"
+            },
+            {
+              "title": "Rent",
+              "amount": "$1,400",
+              "detail": "Housing",
+              "text": "Does the lease include heat, hydro or water?"
+            },
+            {
+              "title": "Utilities not in the rent",
+              "amount": "$150",
+              "detail": "Housing",
+              "text": "Is this an average over the year, including winter?"
+            },
+            {
+              "title": "Tenant insurance",
+              "amount": "$25",
+              "detail": "Housing",
+              "text": "Does your lease require it?"
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "If rent is late or you get an eviction notice, contact your landlord or housing provider and a local tenant, legal or housing help service right away. Ask for a written plan to pay back what you owe, and apply for emergency help. A subsidy wait list is not an answer to an eviction deadline."
-        },
-        {
-          "type": "spotlight",
-          "text": "Rent help that moves with you may need a yearly income check and a report when you move or your household changes. Help tied to one unit may end when you leave. Read the renewal letter before you give notice to move."
+          "text": "Programs use their own income rules to decide who qualifies, so this number is for your planning, not their test. But it tells you how urgent the gap is, and it makes a strong first sentence on any application or call."
         },
         {
           "type": "myths",
@@ -127,14 +163,74 @@
               "text": "Utilities, parking, insurance, moving costs and rent above the program limit may still be yours to pay. Build a full housing budget. The lease has supporting actors."
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "eviction",
+      "title": "If a Notice for Unpaid Rent Arrives",
+      "paragraphs": [],
+      "blocks": [
         {
-          "type": "heading",
-          "text": "Key takeaway"
+          "type": "paragraph",
+          "text": "If rent is late or you get an eviction notice, contact your landlord or housing provider and a local tenant, legal or housing help service right away. Ask for a written plan to pay back what you owe, and apply for emergency help. A subsidy wait list is not an answer to an eviction deadline."
         },
         {
           "type": "paragraph",
-          "text": "Finding rent help is a local matching job. Measure your housing gap, find out whether help follows you or the unit, apply to every route that fits and treat back rent as an urgent problem."
+          "text": "Each province has its own process. Ontario’s is a good example of how much time and how many chances a tenant usually has. A landlord gives a notice called an N4. Its end date must be at least 14 days after the notice for a monthly tenancy. Here are the five steps, in order."
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "READ IT",
+              "detail": "NUMBER 1",
+              "icon": "filetext",
+              "text": "Find the amount owed and the end date. Check the math against your own rent record."
+            },
+            {
+              "title": "CALL FOR HELP",
+              "detail": "NUMBER 2",
+              "icon": "search",
+              "text": "Call a tenant or legal clinic the same day. Ask about rent banks and emergency help too."
+            },
+            {
+              "title": "PAY IN FULL",
+              "detail": "NUMBER 3",
+              "icon": "dollar",
+              "text": "Paying all the rent owed, plus any new rent due, by the end date cancels the notice. A part payment does not."
+            },
+            {
+              "title": "IF IT GOES ON",
+              "detail": "NUMBER 4",
+              "icon": "calendar",
+              "text": "After the end date, the landlord can apply to the Landlord and Tenant Board. You will get a hearing notice."
+            },
+            {
+              "title": "AT THE HEARING",
+              "detail": "NUMBER 5",
+              "icon": "check",
+              "text": "Bring your rent record and a written payment plan. The Board can order a plan instead of an eviction."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A notice is not an eviction. In Ontario, only a sheriff can enforce an eviction order from the Board. A landlord cannot change the locks or remove your things on their own. If that happens, call the police and a legal clinic."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Once I get a notice, I have to move out by the date on it.”",
+              "text": "A notice starts a process. You can usually still pay, make a plan or go to a hearing. Moving out early can mean giving up rights you still had."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Ontario: Landlord and Tenant Board",
+          "url": "https://tribunalsontario.ca/ltb/"
         }
       ]
     },
@@ -156,17 +252,32 @@
             "With the clinic’s help, she writes her landlord a plan to pay back the missed rent over four months. She gathers her lease, her rent record, her tax notice and the letter about her cut hours. She also applies for emergency rent help.",
             "There is one more surprise. The worker asks about a rent benefit that moves with her, instead of waiting for a new unit. Alicia had never heard of it. She applies that week.",
             "The landlord accepts the plan. Alicia keeps her apartment, her son keeps his school, and her wait-list file stays current. The laminated letter still cannot negotiate. Alicia can."
+          ],
+          "at": 4,
+          "items": [
+            {
+              "title": "MARCH",
+              "text": "Hours cut"
+            },
+            {
+              "title": "MAY",
+              "text": "Notice under the door"
+            },
+            {
+              "title": "SAME AFTERNOON",
+              "text": "Tenant clinic, payback plan"
+            }
           ]
         },
         {
-          "type": "spotlight",
-          "text": "Update your housing applications when your phone, address, household, income or accessibility needs change. A closed file can spend years waiting perfectly in the wrong place."
+          "type": "paragraph",
+          "text": "Alicia’s wait-list file stayed open because she kept it current. Update your housing applications whenever your phone number, address, household, income or accessibility needs change. A closed file can spend years waiting perfectly in the wrong place."
         },
         {
           "type": "transition",
           "text": "Alicia kept her home by treating the eviction as its own emergency instead of waiting on the housing list.",
           "detail": "Working on today’s rent and the long-term list at the same time protects your home now and later.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "The quick check in Section 06 tests the math."
         }
       ]
     },
@@ -189,18 +300,28 @@
               "text": ""
             },
             {
-              "title": "Which papers prove your income, your tenancy and your payments?",
-              "detail": "Tax information and income records prove income. A lease proves the terms of your tenancy. A rent receipt or rent record proves payment.",
+              "title": "A household earns $2,500 a month before tax. What is 30% of that?",
+              "detail": "$750. That is a common measure of affordable housing, not an approval rule.",
+              "text": ""
+            },
+            {
+              "title": "Rent and utilities come to $1,250 on that $2,500 income. What share is that?",
+              "detail": "50%. The gap above the 30% measure is $500 a month.",
+              "text": ""
+            },
+            {
+              "title": "An Ontario tenant pays half the rent owed before the notice’s end date. Is the notice cancelled?",
+              "detail": "No. Only paying everything owed, plus any new rent due, by the end date cancels it.",
+              "text": ""
+            },
+            {
+              "title": "Can a landlord change the locks after giving a notice?",
+              "detail": "No. In Ontario, only a sheriff can enforce an eviction order from the Board.",
               "text": ""
             },
             {
               "title": "Why should an eviction risk not wait for a subsidy list?",
               "detail": "A wait list deals with long-term housing over time. An eviction notice is a deadline now, so contact your landlord and find emergency help right away.",
-              "text": ""
-            },
-            {
-              "title": "What should you check before you move out of a unit with rent help?",
-              "detail": "Whether the help is tied to the unit, which would end when you leave, or moves with you, and what the renewal letter asks before you give notice.",
               "text": ""
             }
           ]
@@ -222,6 +343,11 @@
         {
           "type": "spotlight",
           "text": "Never pay an unofficial “application fee” to jump a public housing wait list. Check the agency, website and contact details before you share ID or money records."
+        },
+        {
+          "type": "takeaway",
+          "text": "Finding rent help is a local matching job.",
+          "detail": "Measure your housing gap in dollars, find out whether help follows you or the unit, apply to every route that fits, keep your applications current and treat an unpaid-rent notice as an urgent problem with real steps, not a final answer."
         }
       ]
     },
@@ -260,6 +386,14 @@
             {
               "title": "Wait list",
               "text": "A line for housing or help, under local rules about who goes first."
+            },
+            {
+              "title": "N4",
+              "text": "Ontario’s notice to end a tenancy for unpaid rent. Paying everything owed by its end date cancels it."
+            },
+            {
+              "title": "Rent bank",
+              "text": "A local program that gives a grant or loan to cover back rent and prevent eviction."
             }
           ]
         }
@@ -284,12 +418,12 @@
       "What is one call you will make this week?"
     ],
     "samples": [
-      "Toronto, Ontario.",
-      "Rent is $1,850. We earn about $3,200 a month.",
-      "Yes. I owe half of April’s rent.",
-      "Community housing wait list, since last year.",
-      "Me and my son, who is 9.",
-      "A tenant clinic, about a payback plan for my landlord."
+      "Halifax, Nova Scotia.",
+      "Rent is $1,400. I earn about $2,600 a month.",
+      "No, but next month will be tight.",
+      "None yet.",
+      "Me and my mother, who is 68.",
+      "The provincial housing office, about rent help that moves with us."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

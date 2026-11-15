@@ -19,12 +19,8 @@
           "text": "Natural Resources Canada does not send anyone to your door. It says so on its own website."
         },
         {
-          "type": "heading",
-          "text": "What this course does"
-        },
-        {
           "type": "paragraph",
-          "text": "Energy rebates changed twice in the last two years, and most of what you find online is out of date. This module sorts out what is open right now, the order that keeps a claim valid, and how to keep a salesperson from ending up on your property title."
+          "text": "Energy rebates changed twice in the last two years, and most of what you find online is out of date. This module sorts out what is open right now, the order that keeps a claim valid, the true cost of waiting for a rebate, and how to keep a salesperson from ending up on your property title."
         },
         {
           "type": "transition",
@@ -36,7 +32,7 @@
     },
     {
       "id": "status",
-      "title": "What is open, what is closed",
+      "title": "What Is Open, What Is Closed",
       "paragraphs": [],
       "blocks": [
         {
@@ -44,17 +40,34 @@
           "text": "Most of what you find when you search this topic is confidently out of date. Here is where things stand."
         },
         {
-          "type": "cards",
+          "type": "lists",
           "items": [
             {
-              "title": "CLOSED: The old federal reimbursements",
-              "text": "The Canada Greener Homes Grant, which paid homeowners back after an EnerGuide evaluation, stopped taking new applicants at the end of 2025. The Canada Greener Homes Loan stopped in October 2025. Both still show up everywhere online as though you can apply tomorrow. You cannot."
+              "title": "Closed",
+              "detail": "STILL ONLINE, NOT OPEN",
+              "icon": "alert",
+              "text": "",
+              "list": [
+                "Canada Greener Homes Grant: stopped taking applicants in February 2024. Its last paperwork deadline was December 31, 2025",
+                "Canada Greener Homes Loan: the last day to apply was October 1, 2025",
+                "Both still show up everywhere online as though you can apply tomorrow. You cannot"
+              ]
             },
             {
-              "title": "OPEN: What replaced them",
-              "text": "The Canada Greener Homes Affordability Program installs upgrades at no cost to the household. It is for homeowners with low to middle incomes and, for the first time, tenants too. It only exists where your province has signed on. The Oil to Heat Pump Affordability program is still open, and it is still the largest single incentive for a home heated with oil. Every province also runs its own programs, which for many households are now the main event."
+              "title": "Open",
+              "detail": "WHAT REPLACED THEM",
+              "text": "",
+              "list": [
+                "Canada Greener Homes Affordability Program: free installed upgrades for low- to middle-income homeowners and tenants, only where your province has signed on",
+                "Oil to Heat Pump Affordability: still the largest single incentive for a home heated with oil",
+                "Provincial and utility programs, which for many households are now the main event"
+              ]
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "It is tempting to read “the grant closed” and assume the money is gone. It moved. The federal dollars shifted from a broad reimbursement anyone could claim toward a targeted, no-cost install for lower-income households, delivered by the provinces. At the same time, provincial programs got substantially bigger. Start with your provincial program page and your utility, not with a federal search, and ignore any article about this topic that is more than six months old."
         },
         {
           "type": "myths",
@@ -66,18 +79,75 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: THE ACRONYMS CHANGED, THE MONEY DID NOT DISAPPEAR"
+          "type": "source",
+          "text": "Canada: Canada Greener Homes Initiative",
+          "url": "https://www.canada.ca/en/environment-climate-change/services/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative.html"
+        }
+      ]
+    },
+    {
+      "id": "provinces",
+      "title": "Where to Look, by Province",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "These programs change names and terms too often for a printed list to stay honest for long. Start with the operator, not the program name."
         },
         {
-          "type": "spotlight",
-          "text": "It is tempting to read “the grant closed” and assume the money is gone. It moved. The federal dollars shifted from a broad reimbursement anyone could claim toward a targeted, no-cost install for lower-income households, delivered by the provinces. At the same time, provincial programs got substantially bigger. Start with your provincial program page and your utility, not with a federal search, and ignore any article about this topic that is more than six months old."
+          "type": "cards",
+          "items": [
+            {
+              "title": "Ontario",
+              "icon": "building",
+              "text": "Home Renovation Savings Program, delivered by Save on Energy and Enbridge Gas. Single-upgrade and bundled paths. Condos, apartments and new builds are excluded."
+            },
+            {
+              "title": "British Columbia",
+              "icon": "mountain",
+              "text": "CleanBC Better Homes, with an income-qualified tier that pays substantially more. BC Hydro rebates stack on top."
+            },
+            {
+              "title": "Quebec",
+              "icon": "map",
+              "text": "Rénoclimat for the building envelope, Hydro-Québec’s LogisVert for equipment, and Chauffez vert for getting off oil."
+            },
+            {
+              "title": "Manitoba",
+              "icon": "snowflake",
+              "text": "Efficiency Manitoba, and the first province delivering the federal affordability program."
+            },
+            {
+              "title": "Nova Scotia and New Brunswick",
+              "icon": "waves",
+              "text": "Efficiency Nova Scotia and NB Power’s Total Home Energy Savings Program. Nova Scotia’s heat pump support is among the most generous in the country."
+            },
+            {
+              "title": "Alberta and Saskatchewan",
+              "icon": "flame",
+              "text": "Thinner coverage. Check SaskPower’s retrofit rebate and your municipality."
+            },
+            {
+              "title": "Municipal",
+              "icon": "home",
+              "text": "Several cities run their own low-interest retrofit loan programs, repaid through the property tax bill."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“There is a thirty percent federal tax credit for home solar.”",
+              "text": "There is a thirty percent Clean Technology Investment Tax Credit. It is for taxable Canadian corporations, not for people putting panels on their own roof. This one circulates constantly in homeowner forums. Read who is allowed to claim it before you build a budget on it."
+            }
+          ]
         }
       ]
     },
     {
       "id": "sequence",
-      "title": "The order is the program",
+      "title": "The Order Is the Program",
       "paragraphs": [],
       "blocks": [
         {
@@ -133,86 +203,8 @@
       ]
     },
     {
-      "id": "provinces",
-      "title": "Where to look, by province",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "These programs change names and terms too often for a printed list to stay honest for long. Start with the operator, not the program name."
-        },
-        {
-          "type": "lists",
-          "items": [
-            {
-              "title": "Ontario",
-              "text": "",
-              "list": [
-                "Home Renovation Savings Program, delivered by Save on Energy and Enbridge Gas.",
-                "Single-upgrade and bundled paths. Condos, apartments and new builds are excluded."
-              ]
-            },
-            {
-              "title": "British Columbia",
-              "text": "",
-              "list": [
-                "CleanBC Better Homes, with an income-qualified tier that pays substantially more.",
-                "BC Hydro rebates stack on top."
-              ]
-            },
-            {
-              "title": "Quebec",
-              "text": "",
-              "list": [
-                "Rénoclimat for the building envelope, Hydro-Québec’s LogisVert for equipment.",
-                "Chauffez vert for getting off oil."
-              ]
-            },
-            {
-              "title": "Manitoba",
-              "text": "",
-              "list": [
-                "Efficiency Manitoba, and the first province delivering the federal affordability program."
-              ]
-            },
-            {
-              "title": "Nova Scotia and New Brunswick",
-              "text": "",
-              "list": [
-                "Efficiency Nova Scotia and NB Power’s Total Home Energy Savings Program.",
-                "Nova Scotia’s heat pump support is among the most generous in the country."
-              ]
-            },
-            {
-              "title": "Alberta and Saskatchewan",
-              "text": "",
-              "list": [
-                "Thinner coverage. Check SaskPower’s retrofit rebate and your municipality."
-              ]
-            },
-            {
-              "title": "Municipal",
-              "text": "",
-              "list": [
-                "Several cities run their own low-interest retrofit loan programs, repaid through the property tax bill."
-              ]
-            }
-          ]
-        },
-        {
-          "type": "myths",
-          "items": [
-            {
-              "title": "“There is a thirty percent federal tax credit for home solar.”",
-              "text": "There is a thirty percent Clean Technology Investment Tax Credit. It is for taxable Canadian corporations, not for people putting panels on their own roof. This one circulates constantly in homeowner forums. Read who is allowed to claim it before you build a budget on it."
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "timing",
-      "title": "The gap between invoice and rebate",
+      "title": "The Gap Between Invoice and Rebate",
       "paragraphs": [],
       "blocks": [
         {
@@ -220,18 +212,45 @@
           "text": "A rebate is not a discount. With most programs, you pay the contractor in full and then wait, often several months, for a cheque. The exception is the federal affordability program. There, the program pays the contractor and the household pays nothing."
         },
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: REBATES ARRIVE MONTHS AFTER THE INVOICE DOES"
+          "type": "spotlight",
+          "text": "That gap is where energy retrofits quietly turn into credit problems. Putting a heat pump on a high-rate credit card while waiting for a rebate can erase most of the rebate, and every month of delay costs more. A rebate you have not received yet is not money you have. Check whether your province or city offers low-interest or on-bill financing, ask the program whether it pays the contractor directly, or phase the work so each piece is paid from cash rather than credit."
         },
         {
-          "type": "spotlight",
-          "text": "That gap is where energy retrofits quietly turn into credit problems. Putting a heat pump on a high-rate credit card while waiting for a rebate can erase most of the rebate, and every month of delay costs more. A rebate you have not received yet is not money you have. Three sensible ways through it: check whether your province still offers low-interest or on-bill financing, ask the program whether it pays the contractor directly, or phase the work so each piece is paid from cash rather than credit. Then run the real math: rebate amount minus interest paid while waiting for it. If the second number is a meaningful share of the first, the timing is wrong, not the project."
+          "type": "paragraph",
+          "text": "Then run the real math. Here are three ways to pay for the same $10,000 heat pump: a 0% program or city loan over 40 months, a bank loan at about 8% over five years, and contractor financing at about 15% over five years. Compare what each costs to borrow, then set that against the rebate you are waiting for."
+        },
+        {
+          "type": "loancost",
+          "text": "Price the wait for your rebate",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter the amount you need, then each offer’s monthly payment and number of payments. Watch the borrowing cost update.",
+          "items": [
+            {
+              "title": "A $10,000 heat pump",
+              "text": "",
+              "amount": "10000",
+              "detail": "250:40,203:60,238:60"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In this example, contractor financing costs about $4,280 to borrow, while the bank loan costs about $2,180 and the 0% loan costs nothing. If your rebate is $5,000, the most expensive option eats most of it. When the borrowing cost is a big share of the rebate, the timing is wrong, not the project."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“The rebate will pay off the loan, so the interest does not matter.”",
+              "text": "The interest is charged while you wait, and it is not refunded. A slow rebate on an expensive loan can leave you paying for months after the cheque arrives."
+            }
+          ]
         }
       ]
     },
     {
       "id": "protect",
-      "title": "Protecting your home’s title",
+      "title": "Protecting Your Home’s Title",
       "paragraphs": [],
       "blocks": [
         {
@@ -239,43 +258,36 @@
           "text": "For years, door-to-door sales of home equipment in Ontario followed a pattern. A salesperson who showed up uninvited would set up a rental or financing deal for a water heater or furnace. Then they would register a notice of security interest against the title of the home. Many owners only found out when they tried to sell."
         },
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: WHAT CAN END UP ATTACHED TO YOUR HOUSE"
-        },
-        {
           "type": "spotlight",
-          "text": "Ontario’s Homeowner Protection Act, in force since June 2024, banned new NOSIs for consumer goods and deemed existing ones expired. They can be removed from title on application, for a government fee. Other provinces have not all followed. If you own a home in Ontario and ever signed an equipment agreement at your door, a title search is worth doing. And in any province, before signing anything for home equipment, ask directly whether anything will be registered against your title, and get the answer in writing."
+          "text": "Ontario’s Homeowner Protection Act, in force since June 2024, banned new NOSIs for consumer goods and deemed existing ones expired. They can be removed from title on application, for a government fee. Other provinces have not all followed. If you own a home in Ontario and ever signed an equipment agreement at your door, a title search is worth doing. In any province, before signing anything for home equipment, ask directly whether anything will be registered against your title, and get the answer in writing."
         },
         {
-          "type": "paragraph",
-          "text": "Six checks before you sign anything for home equipment."
-        },
-        {
-          "type": "chips",
+          "type": "filecards",
+          "text": "Six checks before you sign for home equipment",
           "items": [
             {
-              "title": "I contacted them, not the other way around.",
-              "text": ""
+              "title": "You called",
+              "text": "You contacted them, not the other way around."
             },
             {
-              "title": "I can find this program named on a provincial, federal or utility website, not just a contractor’s brochure.",
-              "text": ""
+              "title": "Real program",
+              "text": "The program is named on a provincial, federal or utility website, not just a brochure."
             },
             {
-              "title": "The contractor appears on the program’s registered installer list.",
-              "text": ""
+              "title": "On the list",
+              "text": "The contractor is on the program’s registered installer list."
             },
             {
-              "title": "I have asked in writing whether anything will be registered against my property title.",
-              "text": ""
+              "title": "Title in writing",
+              "text": "You asked in writing whether anything will be registered against your property title."
             },
             {
-              "title": "I have read what happens if I cancel, and when the cancellation window closes.",
-              "text": ""
+              "title": "Way out",
+              "text": "You have read what happens if you cancel, and when that window closes."
             },
             {
-              "title": "Nobody has told me the offer expires today.",
-              "text": ""
+              "title": "No rush",
+              "text": "Nobody has told you the offer expires today."
             }
           ]
         }
@@ -283,7 +295,7 @@
     },
     {
       "id": "story",
-      "title": "Priya, the lanyard and the twenty minutes that settled it",
+      "title": "Priya, the Lanyard and the Twenty Minutes That Settled It",
       "paragraphs": [],
       "blocks": [
         {
@@ -299,18 +311,70 @@
             "That evening, she spends twenty minutes on the Natural Resources Canada site. She finds a notice in plain words: no outside company is allowed to contact you about the program, and only homeowners book the home check. She also learns the grant he half-named closed the year before, and Ontario has not signed on to the program that replaced it.",
             "The twist is good news. Ontario’s own program has a single-upgrade path that needs no home check at all. Priya picks a contractor from the program’s list and replaces the furnace with a cold-climate heat pump.",
             "The rebate arrives that summer. The man with the lanyard never calls back, which tells them everything they need to know about how badly he wanted the work."
+          ],
+          "at": 4,
+          "items": [
+            {
+              "title": "MARCH MORNING",
+              "text": "Lanyard at the door"
+            },
+            {
+              "title": "THAT EVENING",
+              "text": "Twenty minutes on NRCan"
+            },
+            {
+              "title": "SUMMER",
+              "text": "Rebate arrives"
+            }
           ]
-        },
-        {
-          "type": "takeaway",
-          "text": "Everything real in this module starts with you picking up the phone. Check what is open this month, not what a blog says. Start with your province and your utility, not Ottawa. Finish the home check before anyone touches the house. Never sign for home equipment without asking, in writing, what gets registered against your title.",
-          "detail": ""
         },
         {
           "type": "transition",
           "text": "Priya got a new heat pump and a real rebate by checking the program herself instead of signing at the door.",
           "detail": "Twenty minutes on an official website can protect your own home and your claim.",
-          "extra": "Your action this week, in Section 08, starts with today’s date."
+          "extra": "Your action this week, in Section 09, starts with today’s date."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Can you still apply for the Canada Greener Homes Grant or Loan?",
+              "detail": "No. The grant stopped taking applicants in February 2024, and the loan’s last application day was October 1, 2025.",
+              "text": ""
+            },
+            {
+              "title": "Who pays the contractor in the federal affordability program?",
+              "detail": "The program does. Eligible households pay nothing for the installed upgrades.",
+              "text": ""
+            },
+            {
+              "title": "You start the work, then book the home check. What happens on a bundled path?",
+              "detail": "The claim is usually disqualified. The pre-retrofit evaluation must come before any work.",
+              "text": ""
+            },
+            {
+              "title": "A $10,000 loan is paid at $238 a month for 60 months. What does it cost to borrow?",
+              "detail": "About $4,280. That is $238 × 60 = $14,280, minus the $10,000 borrowed.",
+              "text": ""
+            },
+            {
+              "title": "Someone knocks and says the rebate funding runs out today. What do you do?",
+              "detail": "Take a business card, close the door and look the program up yourself. NRCan does not send anyone to your door.",
+              "text": ""
+            },
+            {
+              "title": "What should you ask before signing for home equipment in any province?",
+              "detail": "Whether anything will be registered against your property title, with the answer in writing.",
+              "text": ""
+            }
+          ]
         }
       ]
     },
@@ -320,32 +384,16 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
-          "items": [
-            {
-              "title": "Open your provincial program page and your utility’s rebate page, and write down today’s date next to what you find. Undated notes go stale in months.",
-              "text": ""
-            },
-            {
-              "title": "Identify which path fits you, single upgrade or bundled, and find the exact sentence about when work may begin. Copy it out.",
-              "text": ""
-            },
-            {
-              "title": "If you heat with oil, check the Oil to Heat Pump Affordability program first, before anything else on the list. It is the largest single incentive available to your household.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Worksheet: your retrofit plan"
-        },
-        {
           "type": "paragraph",
-          "text": "One rule of thumb: if you cannot find the start-work rule in the program’s own words, phone them. Every rejected claim in this space begins with someone assuming."
+          "text": "This week: open your provincial program page and your utility’s rebate page, and write today’s date next to what you find. Undated notes go stale in months. Find the exact sentence about when work may begin and copy it out. If you heat with oil, check the Oil to Heat Pump Affordability program before anything else. If you cannot find the start-work rule in the program’s own words, phone them."
         },
         {
           "type": "checkin"
+        },
+        {
+          "type": "takeaway",
+          "text": "Everything real in this module starts with you picking up the phone.",
+          "detail": "Check what is open this month, not what a blog says. Start with your province and your utility, not Ottawa. Finish the home check before anyone touches the house, price the wait for your rebate, and never sign for home equipment without asking, in writing, what gets registered against your title."
         }
       ]
     },
@@ -409,7 +457,7 @@
         },
         {
           "type": "paragraph",
-          "text": "This module skips dollar figures on purpose. Rebate levels, income thresholds and equipment lists in this field change several times a year. Confirm every figure on the program’s own page the day you need it."
+          "text": "This module skips rebate amounts on purpose. Rebate levels, income thresholds and equipment lists in this field change several times a year. The loan example is for practice only. Confirm every figure on the program’s own page the day you need it."
         }
       ]
     }
@@ -434,12 +482,12 @@
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information.",
     "samples": [
-      "Ontario. An old gas furnace.",
-      "The provincial rebate page and my gas company’s page. Checked October 30.",
-      "Single upgrade.",
-      "No home check is needed for the single upgrade path.",
-      "From savings. The rebate should arrive in about three months.",
-      "Yes. I asked for a card and looked the program up myself."
+      "Nova Scotia. Oil.",
+      "The provincial heat pump rebate and the oil to heat pump program. Checked November 2.",
+      "Not sure yet.",
+      "Apply and get approval before the installer starts.",
+      "The program pays the installer directly, so I pay nothing up front.",
+      "No."
     ]
   },
   "sources": []

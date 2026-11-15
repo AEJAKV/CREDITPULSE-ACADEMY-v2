@@ -19,6 +19,10 @@
           "text": "Provinces and territories run apprenticeships. Your funding can mix wages, Employment Insurance during approved school training, the interest-free Canada Apprentice Loan, provincial help, employer or union support and tax breaks. The right mix depends on your trade, your registration, your training block and where you live."
         },
         {
+          "type": "paragraph",
+          "text": "This lesson plans one school block from start to finish: who holds your file, how to cover the weeks with no paycheque, which tax breaks belong to trades workers, and what proof to keep once the block is done."
+        },
+        {
           "type": "spotlight",
           "text": "The federal Apprenticeship Incentive Grant and Apprenticeship Completion Grant closed on March 31, 2025. They are not open for 2026."
         },
@@ -51,32 +55,32 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Confirm your trade, registration number, employer or sponsor, your hours so far, your training level and your school dates with your provincial or territorial apprenticeship office. Not every listed trade is a Red Seal trade, and the rules for signing up vary."
+          "text": "Confirm your trade, registration number, employer or sponsor, your hours so far, your training level and your school dates with your provincial or territorial apprenticeship office. Not every listed trade is a Red Seal trade, and the rules for signing up vary. The Red Seal Program sets standards across provinces, but it does not replace your local office."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "WAGES",
+              "icon": "wallet",
               "text": "Paid training on the job is still the base. Ask how your wage changes at each level and what stops while you are in class."
             },
             {
               "title": "EI FOR APPRENTICES",
+              "icon": "inbox",
               "text": "Apprentices in approved full-time school training may get EI. Get the 16-digit referral code from your apprenticeship office or school."
             },
             {
               "title": "CANADA APPRENTICE LOAN",
+              "icon": "bank",
               "text": "Red Seal apprentices who qualify can ask for up to $4,000, interest-free, for each block of school training, up to $20,000 over a lifetime."
             },
             {
               "title": "LOCAL AND WORKPLACE HELP",
+              "icon": "briefcase",
               "text": "Check tuition, travel, childcare, tools, living allowances, union funds, employer top-ups and tax breaks one by one."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Provinces and territories control apprenticeship sign-up and certificates. The Red Seal Program sets standards across provinces. It does not replace your local office."
         },
         {
           "type": "spotlight",
@@ -99,7 +103,7 @@
       ]
     },
     {
-      "id": "launch",
+      "id": "gap",
       "title": "Cover the Gap Between Your Last Paycheque and Your First Benefit",
       "paragraphs": [],
       "blocks": [
@@ -134,7 +138,41 @@
         },
         {
           "type": "paragraph",
-          "text": "You can ask for the Canada Apprentice Loan up to three months before school training starts, and if approved, it can arrive on your first day. It can bridge the timing gap. Borrow it against a written budget, not as an automatic $4,000 tool-shopping festival."
+          "text": "Now put the dates in a row. Your last paycheque usually lands before class. Tuition is often due before the first day. EI pays after your claim is processed, which can take a few weeks. The stretch between those dates is the real gap, and it is often smaller than the whole block."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you know the gap months ahead, you can save for it instead of borrowing all of it. Divide the gap by the months you have left before class."
+        },
+        {
+          "type": "conversion",
+          "text": "Save for the gap before class",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter the gap you need to cover and the months left before your block starts. Watch the monthly amount update.",
+          "items": [
+            {
+              "title": "Tuition only",
+              "text": "",
+              "amount": "1100",
+              "detail": "4"
+            },
+            {
+              "title": "Three-week gap",
+              "text": "",
+              "amount": "2100",
+              "detail": "6"
+            },
+            {
+              "title": "Tuition plus gap",
+              "text": "",
+              "amount": "3200",
+              "detail": "8"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You can ask for the Canada Apprentice Loan up to three months before school training starts, and if approved, it can arrive on your first day. It can bridge whatever part of the gap your savings do not cover. Borrow it against a written budget, not as an automatic $4,000 tool-shopping festival."
         },
         {
           "type": "spotlight",
@@ -148,10 +186,60 @@
               "text": "You must apply, give your referral details and send your reports. The ROE is evidence, not a small electronic application elf."
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "taxes",
+      "title": "Claim the Tax Breaks Built for the Trades",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Some of your apprenticeship money comes back at tax time, but only if you claim it. These are deductions and credits on your own return, so keep receipts all year in one folder."
         },
         {
-          "type": "spotlight",
-          "text": "Key takeaway: plan apprenticeship funding one training block at a time. Check which programs are open, get your referral code, apply for EI and loans on time, and budget for the timing gap without counting on closed or just-announced funding."
+          "type": "cards",
+          "items": [
+            {
+              "title": "TRADESPERSON’S TOOLS",
+              "icon": "briefcase",
+              "text": "If your job requires you to buy your own tools, you may deduct up to $1,000 of their cost above a base amount that changes each year. Your employer signs Form T2200."
+            },
+            {
+              "title": "LABOUR MOBILITY",
+              "icon": "route",
+              "text": "If you move temporarily to work at a site at least 150 km closer than your home, you may deduct travel, meals and lodging, up to $4,000 a year."
+            },
+            {
+              "title": "TUITION CREDIT",
+              "icon": "school",
+              "text": "Tuition for eligible courses at a certified school, and some fees for a trade certification exam, may count toward the federal tuition credit."
+            },
+            {
+              "title": "REIMBURSED COSTS",
+              "icon": "receipt",
+              "text": "If your employer or union paid you back for a cost, you usually cannot claim it again. Keep the reimbursement record with the receipt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Apprentice mechanics have an extra tools rule of their own, and Quebec has its own provincial version of some of these breaks. A tax clinic or the CRA can check which ones fit before you file."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Tools I bought for work are a write-off no matter what.”",
+              "text": "The tools deduction needs a job that requires them, an employer’s signed form and costs above the base amount. A drill bought for the cottage does not become a trade tool by being near your work boots."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: Tax deductions and credits for apprentices",
+          "url": "https://www.canada.ca/en/employment-social-development/services/apprentices/tax-deductions-apprentices.html"
         }
       ]
     },
@@ -173,11 +261,22 @@
             "He confirms his school dates with his apprenticeship office and gets his 16-digit referral code. He asks his boss to issue his ROE with Code J, and he applies for EI the week class starts.",
             "The twist is in the dates. His EI will not arrive until three weeks into class, and his last paycheque comes before the first day. That three-week stretch is the real gap.",
             "Owen borrows $2,300 to cover tuition and those three weeks. He walks into class without the old grant and without a surprise. His plan is less nostalgic and considerably more solvent. The drill set can wait for his next raise."
+          ],
+          "at": 5,
+          "items": [
+            {
+              "title": "BEFORE CLASS",
+              "text": "Last paycheque lands"
+            },
+            {
+              "title": "DAY 1",
+              "text": "Tuition due, EI claim in"
+            },
+            {
+              "title": "WEEK 3",
+              "text": "First EI payment"
+            }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Search results often show apprenticeship grants that have closed. Read the status note and the page date before you count on any amount or deadline."
         },
         {
           "type": "heading",
@@ -191,7 +290,61 @@
           "type": "transition",
           "text": "Owen covered his school block by borrowing $2,300 for the real gap instead of the full $4,000.",
           "detail": "Mapping when each payment arrives keeps your own loan small and your rent paid.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "Section 06 shows what to keep once the block is done."
+        }
+      ]
+    },
+    {
+      "id": "certify",
+      "title": "Finish the Block, Then Make the Proof Work for You",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The last day of class is also the first day of the next level. The proof you collect now moves you up, raises your wage and supports every future claim. Keep one file per block."
+        },
+        {
+          "type": "filecards",
+          "text": "Six things to file after every block",
+          "items": [
+            {
+              "title": "Block results",
+              "text": "Your marks or a completion letter from the school."
+            },
+            {
+              "title": "Hours log",
+              "text": "Work hours signed by your employer, matched to your apprenticeship office’s record."
+            },
+            {
+              "title": "Wage level",
+              "text": "The date your next wage level starts, and the new rate in writing."
+            },
+            {
+              "title": "Next block",
+              "text": "The next school dates, when to register and when tuition is due."
+            },
+            {
+              "title": "Receipts",
+              "text": "Tuition, tools, travel and exam fees for tax time, with any reimbursement noted."
+            },
+            {
+              "title": "Funding status",
+              "text": "Mark every source OPEN, APPLIED, APPROVED or CLOSED. “I heard about it” is not a cash-flow category."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "When you finish all your levels and hours, you write your certification exam. In a Red Seal trade, passing the interprovincial exam adds the Red Seal endorsement to your certificate, which other provinces recognize."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My employer keeps track of my hours, so I don’t need to.”",
+              "text": "Records get lost when shops change owners or software. Your own copy is the one that follows you to the next job and the next level."
+            }
+          ]
         }
       ]
     },
@@ -224,6 +377,16 @@
               "text": ""
             },
             {
+              "title": "Your gap is $1,800 and class starts in six months. How much should you set aside each month?",
+              "detail": "$300 a month. That is $1,800 ÷ 6. Borrow only what your savings will not cover.",
+              "text": ""
+            },
+            {
+              "title": "You moved 400 km to a job site for the winter. Which deduction might help?",
+              "detail": "The labour mobility deduction, for travel, meals and lodging, up to $4,000 a year, if the site is at least 150 km closer than your home.",
+              "text": ""
+            },
+            {
               "title": "What should you check before you budget a newly announced program?",
               "detail": "That it is officially open and who qualifies. An announced program is not yet money you can count on.",
               "text": ""
@@ -246,7 +409,12 @@
         },
         {
           "type": "spotlight",
-          "text": "Keep proof that you finished each school block. It helps you move up a level and supports employer records, provincial funding, your future certificate and any program that asks for proof. Mark every source OPEN, APPLIED, APPROVED or CLOSED. “I heard about it” is not a cash-flow category."
+          "text": "Ask your employer and union two questions before every block: do you top up wages during school, and do you pay any tuition or tools costs? Some do, and it rarely shows up on a government website."
+        },
+        {
+          "type": "takeaway",
+          "text": "Plan apprenticeship funding one training block at a time.",
+          "detail": "Check which programs are open, get your referral code, apply for EI and loans on time, budget for the real gap and claim your trades tax breaks without counting on closed or just-announced funding."
         }
       ]
     },
@@ -283,6 +451,14 @@
               "text": "A standard and certificate for certain trades that is recognized across provinces."
             },
             {
+              "title": "Tradesperson’s tools deduction",
+              "text": "A tax deduction for required work tools above a yearly base amount, up to $1,000."
+            },
+            {
+              "title": "Labour mobility deduction",
+              "text": "A tax deduction for temporary moves to a work site at least 150 km closer, up to $4,000 a year."
+            },
+            {
               "title": "Journeyperson",
               "text": "A person certified to work in a trade under local rules."
             }
@@ -309,12 +485,12 @@
       "Which funding will you apply for, and when? List each one."
     ],
     "samples": [
-      "Nova Scotia, electrician. Yes.",
-      "January 6 to March 14. Tuition is due December 15.",
-      "Yes. My school sent it last week.",
-      "December 31, about $1,400.",
-      "About $5,500, including rent.",
-      "EI on January 6. The Canada Apprentice Loan now, for about $2,300."
+      "Ontario, plumber. Yes.",
+      "February 2 to April 10. Tuition is due January 15.",
+      "Not yet. I emailed my training office.",
+      "January 30, about $1,600.",
+      "About $4,800, including rent.",
+      "EI on February 2. The Canada Apprentice Loan this month, for about $1,500."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

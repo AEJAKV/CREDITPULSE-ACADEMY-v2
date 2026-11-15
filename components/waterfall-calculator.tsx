@@ -16,6 +16,8 @@ const MAX_JOBS = 8;
 /**
  * Sunny-month waterfall: (income − baseline) is the surplus, and every dollar of it gets a job.
  * item.amount = income received, item.detail = "baseline;Job:amount,Job:amount,…" (up to 8 jobs).
+ * Optional item.text on the first example = "income label|baseline label|note" to reword the
+ * fields and footnote for lessons that are not about variable income (blank keeps the defaults).
  */
 export function WaterfallCalculator({
   heading,
@@ -26,8 +28,9 @@ export function WaterfallCalculator({
   heading?: string;
   intro?: string;
   label?: string;
-  items: { title: string; amount?: string; detail?: string }[];
+  items: { title: string; text?: string; amount?: string; detail?: string }[];
 }) {
+  const [incomeLabel, baselineLabel, note] = (items[0]?.text ?? '').split('|').map((part) => part.trim());
   const parse = (detail?: string) => {
     const [baseline = '', rest = ''] = (detail ?? '').split(';');
     const jobs = rest
@@ -88,7 +91,7 @@ export function WaterfallCalculator({
         <div className="waterfall-top">
           <div className="util-field">
             <label className="score-number-label" htmlFor={`${id}-income`}>
-              INCOME RECEIVED THIS MONTH
+              {incomeLabel || 'INCOME RECEIVED THIS MONTH'}
             </label>
             <div className="conv-money">
               <span aria-hidden="true">$</span>
@@ -106,7 +109,7 @@ export function WaterfallCalculator({
           </div>
           <div className="util-field">
             <label className="score-number-label" htmlFor={`${id}-baseline`}>
-              YOUR BASELINE
+              {baselineLabel || 'YOUR BASELINE'}
             </label>
             <div className="conv-money">
               <span aria-hidden="true">$</span>
@@ -199,8 +202,8 @@ export function WaterfallCalculator({
           </div>
         )}
         <p className="conv-note">
-          Tax and remittance amounts depend on your situation. Use the figure you confirmed from CRA guidance or a
-          qualified adviser, not a guess.
+          {note ||
+            'Tax and remittance amounts depend on your situation. Use the figure you confirmed from CRA guidance or a qualified adviser, not a guess.'}
         </p>
         {items.length > 0 && (
           <div className="conv-examples">

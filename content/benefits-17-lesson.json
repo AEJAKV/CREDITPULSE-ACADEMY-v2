@@ -19,6 +19,10 @@
           "text": "Canada Student Grants are student aid you do not pay back. You apply through the province or territory where you live for good. One application usually checks you for both grants and loans, federal and provincial. The amount depends on your need, your course load, your program and school, your family income and things like having children or a disability."
         },
         {
+          "type": "paragraph",
+          "text": "This lesson follows the money through a whole school year: what each dollar is, what the year really costs, where the deposit should go when it lands, and what happens after the last exam."
+        },
+        {
           "type": "spotlight",
           "text": "For the 2026–27 school year, the Canada Student Grant for Full-Time Students pays up to $4,200 a year, or $525 for each month of study. “Up to” depends on your need and income."
         },
@@ -58,18 +62,22 @@
           "items": [
             {
               "title": "GRANT",
+              "icon": "gift",
               "text": "Usually not paid back if you still qualify and stay enrolled. Getting too much, or a change in your status, can still mean paying some back."
             },
             {
               "title": "LOAN",
+              "icon": "bank",
               "text": "Borrowed student aid that you must pay back. Federal Canada Student Loans have no interest, but you still have to repay them, and the provincial part has its own rules."
             },
             {
               "title": "SCHOLARSHIP OR BURSARY",
+              "icon": "school",
               "text": "Money from your school, community, employer or a private group, with its own rules about grades, need, reports and renewal."
             },
             {
               "title": "WORK AND SAVINGS",
+              "icon": "piggy",
               "text": "Job income, RESP withdrawals, family help and savings can change your budget and sometimes your aid. Declare what the application asks for."
             }
           ]
@@ -77,10 +85,6 @@
         {
           "type": "spotlight",
           "text": "For 2026–27, the part-time student grant is up to $2,520 a year and cannot be more than your assessed need. Part-time status follows student aid rules, not your opinion of a busy Tuesday."
-        },
-        {
-          "type": "spotlight",
-          "text": "The Northwest Territories, Nunavut and Quebec run their own student aid systems instead of Canada Student Grants and Loans. Apply through the right one."
         },
         {
           "type": "myths",
@@ -92,9 +96,105 @@
           ]
         },
         {
+          "type": "spotlight",
+          "text": "The Northwest Territories, Nunavut and Quebec run their own student aid systems instead of Canada Student Grants and Loans. Apply through the right one."
+        },
+        {
           "type": "source",
           "text": "Canada: Apply through your province",
           "url": "https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans.html"
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "Price the Whole Year Before You Accept a Loan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Student aid works out your need from a standard list of costs. Your real year may cost more or less. Build your own budget first, so you know how much of the loan offer you actually need. You can usually accept less than the full loan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is an example of an eight-month college year for a student who rents a room. Swap in your own numbers."
+        },
+        {
+          "type": "ledger",
+          "detail": "WHAT TO BORROW",
+          "text": "$18,400 for the year − $4,200 grant − $3,000 from work and savings = $11,200 left to cover.",
+          "extra": "Only that $11,200 needs a loan. Borrowing the full offer just because it was offered is optional.",
+          "items": [
+            {
+              "title": "Cost of the school year",
+              "amount": "$18,400",
+              "detail": "Total",
+              "text": "Does this match what you will really spend, not the school’s brochure?"
+            },
+            {
+              "title": "Tuition and fees",
+              "amount": "$6,800",
+              "detail": "School",
+              "text": "When is it due, and does aid pay it straight to the school?"
+            },
+            {
+              "title": "Rent for eight months",
+              "amount": "$6,400",
+              "detail": "Housing",
+              "text": "Are you paying for a lease that runs longer than the school year?"
+            },
+            {
+              "title": "Groceries",
+              "amount": "$2,400",
+              "detail": "Living",
+              "text": "Is a meal plan cheaper or more expensive than cooking?"
+            },
+            {
+              "title": "Books and supplies",
+              "amount": "$1,200",
+              "detail": "School",
+              "text": "Can you buy used, borrow from the library or wait for the syllabus?"
+            },
+            {
+              "title": "Bus pass",
+              "amount": "$800",
+              "detail": "Living",
+              "text": "Does your school fee already include a transit pass?"
+            },
+            {
+              "title": "Phone and personal costs",
+              "amount": "$800",
+              "detail": "Living",
+              "text": "What small monthly bills will follow you to school?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Aid usually arrives in parts, often once per term. Tuition may be paid to the school first, so only the rest reaches your bank. When it lands, give each dollar a job before the term starts, or the first month will spend the second month’s rent."
+        },
+        {
+          "type": "waterfall",
+          "text": "Give your aid deposit a job",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter the aid for the term and the tuition your school took first. Give every dollar that reaches you a job until nothing is left unassigned.",
+          "items": [
+            {
+              "title": "A first-term deposit",
+              "text": "AID FOR THE TERM|TUITION PAID TO THE SCHOOL FIRST|Aid amounts and dates come from your award letter and school account. Use those figures, not an estimate.",
+              "amount": "9800",
+              "detail": "3400;Rent for the term:3200,Books and supplies:1200,Groceries:1200,Bus pass:400,Emergency cushion:400"
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If the loan offer is bigger than I need, I should take it all just in case.”",
+              "text": "You can usually accept a smaller amount, and you can ask for more later if your costs change. Every extra dollar borrowed is a dollar you repay after graduation."
+            }
+          ]
         }
       ]
     },
@@ -112,11 +212,18 @@
           "items": [
             {
               "title": "HELP FOR EACH CHILD OR DEPENDANT",
+              "icon": "home",
               "text": "Full-time students who qualify may get up to $2,240 a year for each dependant, on top of the full-time grant."
             },
             {
               "title": "STUDENTS WITH DISABILITIES",
-              "text": "The Canada Student Grant for Students with Disabilities is $2,800 a year. A separate grant for services and equipment may pay back approved school costs, up to its limit."
+              "icon": "heart",
+              "text": "The Canada Student Grant for Students with Disabilities is $2,800 a year. You need proof of your disability, such as a doctor’s form or a past assessment."
+            },
+            {
+              "title": "SERVICES AND EQUIPMENT",
+              "icon": "shield",
+              "text": "A separate grant can pay for approved costs like tutors, note-takers or assistive technology, up to $20,000 a school year."
             }
           ]
         },
@@ -132,10 +239,6 @@
               "text": "Aid is reviewed every school year and can change with your income, program, course load, family or policy. Reapply and update your file each year."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Key takeaway: apply early through the right province or territory, tell them about everything that applies, keep grants and loans apart, and compare your confirmed aid with your full school-year budget before you borrow more."
         }
       ]
     },
@@ -157,11 +260,22 @@
             "The truth is simple. Both screens show the same award. Tuition goes straight to the school first, and only the rest reaches her bank. Her budget had counted every number it saw as new money.",
             "There is one good surprise. Her application asked about disability, and she had skipped it. She sends the papers in, and a disability grant covers the laptop.",
             "Her funding does not shrink. Her double-counting does. Mina ends up with one grant, one loan, one laptop and one budget that knows the difference."
+          ],
+          "at": 3,
+          "items": [
+            {
+              "title": "AWARD LETTER",
+              "text": "One grant, one loan"
+            },
+            {
+              "title": "SCHOOL ACCOUNT",
+              "text": "Tuition paid first"
+            },
+            {
+              "title": "BANK",
+              "text": "Only the rest arrives"
+            }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Match your aid in three places: the assessment letter, your school account and your bank deposit. Timing and tuition payments can make one award look like several different amounts."
         },
         {
           "type": "heading",
@@ -175,7 +289,63 @@
           "type": "transition",
           "text": "Mina avoided spending her grant twice, and found a disability grant she had missed, by checking three places.",
           "detail": "Matching your award letter, school account and bank deposit can protect your own budget all year.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "Section 06 shows what happens to the loan after the last exam."
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "title": "After the Last Exam: Repayment Has a Safety Net",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Federal Canada Student Loans no longer charge interest, but they still have to be repaid. Repayment usually starts six months after you leave school or drop below the course load for your aid. The provincial part of your loan may have its own interest and rules, so check both."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Four numbers to know before you graduate",
+          "detail": "FEDERAL LOAN RULES",
+          "items": [
+            {
+              "title": "Grace before payments",
+              "text": "6 months — after you leave school, before your first loan payment is due."
+            },
+            {
+              "title": "Low income",
+              "text": "$0 a month — under the Repayment Assistance Plan when your income is below its threshold."
+            },
+            {
+              "title": "Stay on the plan",
+              "text": "Twice a year — you reapply, every six months, to keep repayment help."
+            },
+            {
+              "title": "Lifetime limit",
+              "text": "340 weeks — of full-time aid for most students. Doctoral students and students with disabilities have different limits."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Repayment Assistance Plan, or RAP, sets your federal payment based on your family income and size, not your loan balance. The zero-payment level for a single person was raised to $40,000 and now rises with inflation each year. Apply through the National Student Loans Service Centre. Your province may have a similar plan for its part of the loan."
+        },
+        {
+          "type": "spotlight",
+          "text": "If a payment looks impossible, ask for repayment help before you miss it. A loan left unpaid can go to collections and hurt your credit for years, even though help was free to ask for."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If I cannot pay, ignoring the loan is the safest thing to do.”",
+              "text": "Ignoring it is the expensive choice. Repayment help, a payment pause or a lower payment are all easier to get while your account is in good standing."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: Repayment Assistance Plan",
+          "url": "https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans/repay/assistance/rap.html"
         }
       ]
     },
@@ -198,18 +368,28 @@
               "text": ""
             },
             {
+              "title": "Your year costs $16,000. You have a $4,200 grant and $2,500 from work. How much do you need to borrow?",
+              "detail": "$9,300. That is $16,000 − $4,200 − $2,500. You can usually accept less than the full loan offer.",
+              "text": ""
+            },
+            {
+              "title": "Aid of $8,000 arrives, and $3,000 of tuition was paid to the school first. How much needs a job in your budget?",
+              "detail": "$5,000. Give it to rent, books, food, transit and a small cushion before the term starts.",
+              "text": ""
+            },
+            {
               "title": "Which places run their own student aid instead of Canada Student Grants and Loans?",
               "detail": "The Northwest Territories, Nunavut and Quebec.",
               "text": ""
             },
             {
-              "title": "What changes can lead to a review or an overpayment?",
-              "detail": "Dropping out, a change in course load, not confirming you are enrolled or a new review can turn part of an award into a loan or overpayment.",
+              "title": "When do federal student loan payments usually start?",
+              "detail": "Six months after you leave school. The Repayment Assistance Plan can lower the payment, even to $0, if your income is low.",
               "text": ""
             },
             {
-              "title": "Why match the totals on screen with your award letter and bank deposit?",
-              "detail": "Timing and tuition payments can make one award look like several amounts across the provincial site, NSLSC and your bank.",
+              "title": "What changes can lead to a review or an overpayment?",
+              "detail": "Dropping out, a change in course load, not confirming you are enrolled or a new review can turn part of an award into a loan or overpayment.",
               "text": ""
             }
           ]
@@ -230,7 +410,12 @@
         },
         {
           "type": "spotlight",
-          "text": "Full-time student aid usually has a lifetime limit of 340 weeks, with different limits for doctoral students and students with disabilities. Keep track of how many weeks you have used, not just this year’s award."
+          "text": "Check your provincial account and NSLSC after each term starts. Confirming your enrolment late can hold up money you already qualified for."
+        },
+        {
+          "type": "takeaway",
+          "text": "Borrow the gap, not the offer.",
+          "detail": "Apply early through the right province or territory, tell them about everything that applies, price your real year, give every deposit a job and ask for repayment help before you need it."
         }
       ]
     },
@@ -263,8 +448,20 @@
               "text": "Your school’s proof that you are enrolled, which releases your funds."
             },
             {
+              "title": "Disbursement",
+              "text": "One payment of your aid, often made once per term."
+            },
+            {
               "title": "Overaward",
               "text": "Aid above what you now qualify for, which you may have to pay back."
+            },
+            {
+              "title": "Grace period",
+              "text": "The six months after school before federal loan payments start."
+            },
+            {
+              "title": "RAP",
+              "text": "Repayment Assistance Plan. Lowers your federal loan payment based on income and family size."
             },
             {
               "title": "NSLSC",
@@ -293,12 +490,12 @@
       "What is one thing you will check before you borrow more?"
     ],
     "samples": [
-      "Manitoba. The deadline is June 30.",
-      "Nursing at a college in Winnipeg, full time.",
-      "Yes. I have a learning disability.",
-      "About $4,200 in grants and $6,000 in loans.",
-      "About $18,000, including tuition.",
-      "Whether the grant on both websites is the same money."
+      "Alberta. I want to apply by early July.",
+      "Business at a polytechnic, full time.",
+      "Yes. I have a daughter who is 3.",
+      "About $3,500 in grants and $5,000 in loans.",
+      "About $16,000, including childcare.",
+      "Whether I applied for the grant for each child or dependant."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

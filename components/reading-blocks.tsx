@@ -35,6 +35,7 @@ import {
   Target,
   Activity,
   TreePine,
+  GraduationCap,
   X,
 } from 'lucide-react';
 import type { ReadingBlock } from '@/lib/types';
@@ -88,6 +89,7 @@ const tileIcons = {
   target: Target,
   activity: Activity,
   tree: TreePine,
+  school: GraduationCap,
 } as const;
 // The story banner crops a mostly portrait photo to a wide strip (2:1 on desktop,
 // 3:2 on phones). `focus` is the face's vertical centre as a percentage of the photo's
@@ -570,7 +572,7 @@ export function ReadingBlocks({
               <aside className="key-takeaway" key={i}>
                 <div className="eyebrow">KEY TAKEAWAY</div>
                 <h3>{block.text}</h3>
-                <p>{block.detail}</p>
+                {block.detail && <p>{block.detail}</p>}
               </aside>
             );
           case 'glossary':

@@ -58,6 +58,7 @@ const heroImages: Record<string, string> = {
   'benefits-03': '/images/benefits-support/01-starter/benefits-03/hero-image.webp',
   'benefits-04': '/images/benefits-support/01-starter/benefits-04/hero-image.webp',
   'benefits-05': '/images/benefits-support/01-starter/benefits-05/hero-image.webp',
+  'benefits-06': '/images/benefits-support/02-silver/benefits-06/hero-image.webp',
   'income-11': '/images/income-business/03-gold/income-11/hero-image.webp',
   'income-12': '/images/income-business/04-platinum/income-12/hero-image.webp',
   'income-13': '/images/income-business/04-platinum/income-13/hero-image.webp',
@@ -238,7 +239,7 @@ export default async function LessonPage({
                   }
                 />
               )}
-              {section.paragraphs.map((text, i) => (
+              {(section.paragraphs ?? []).map((text, i) => (
                 <p key={i}>{text}</p>
               ))}
             </section>

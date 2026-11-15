@@ -54,29 +54,29 @@
           "items": [
             {
               "title": "CONTRIBUTION HISTORY",
-              "text": "Your Statement of Contributions lists your earnings and what you paid into CPP. Look into missing or wrong years before you treat an estimate as final."
+              "text": "Your Statement of Contributions lists your earnings and what you paid into CPP. Look into missing or wrong years before you treat an estimate as final.",
+              "icon": "receipt"
             },
             {
               "title": "EARNINGS PATTERN",
-              "text": "CPP looks at how much and how long you paid in. The base part can leave out some low-earning years. The newer enhanced part has its own rules."
+              "text": "CPP looks at how much and how long you paid in. The base part can leave out some low-earning years. The newer enhanced part has its own rules.",
+              "icon": "activity"
             },
             {
               "title": "PROTECTIONS",
-              "text": "Rules for raising children, disability and low earnings can protect your amount when you meet their conditions."
+              "text": "Rules for raising children, disability and low earnings can protect your amount when you meet their conditions.",
+              "icon": "shield"
             },
             {
               "title": "START AGE",
-              "text": "Your pension goes up or down for good depending on the month it starts, before or after age 65."
+              "text": "Your pension goes up or down for good depending on the month it starts, before or after age 65.",
+              "icon": "calendar"
             }
           ]
         },
         {
           "type": "spotlight",
           "text": "The base CPP math may leave out up to eight of your lowest-earning years. The enhanced part usually uses your best 40 years. Service Canada applies the exact rules."
-        },
-        {
-          "type": "spotlight",
-          "text": "If you were the main caregiver of a child under seven and meet the rules, the child-rearing provision may leave low or zero-earning months out of the base math, or add credits to the enhanced part."
         },
         {
           "type": "myths",
@@ -125,11 +125,7 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
-        },
-        {
-          "type": "paragraph",
+          "type": "takeaway",
           "text": "Check your contribution record, claim every protection that applies, then compare start dates as part of your whole retirement income plan."
         }
       ]
@@ -172,10 +168,6 @@
             "Priya compares starting at 61, 65 and 70, using her real estimate, her taxes and her savings. She picks 63. That gives her two years with her grandson on her savings, and a bigger CPP for the rest of her life.",
             "Her plan is smaller on paper and stronger in real life. The headline number gets permission to retire from her budget."
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "The best CPP comparison uses the same checked record at several start ages. Do not compare your age-60 estimate with someone else’s age-70 top amount."
         },
         {
           "type": "transition",
@@ -233,10 +225,6 @@
         },
         {
           "type": "checkin"
-        },
-        {
-          "type": "spotlight",
-          "text": "A missing earnings year can follow you for decades. Review your Statement of Contributions early, so you have time to find T4 slips, tax notices or employer records."
         }
       ]
     },
@@ -299,12 +287,12 @@
       "What is one thing you will check or fix before you apply?"
     ],
     "samples": [
-      "58. I am thinking about 63.",
+      "62. I am thinking about 65.",
       "Yes, last week.",
-      "2009 shows no earnings, but I worked full time that year.",
-      "Yes. I was home with my kids from 2001 to 2006.",
-      "Yes, part time until 65.",
-      "Send my 2009 T4 slip to Service Canada."
+      "2014 shows half my usual pay, but I worked all year.",
+      "No.",
+      "Yes, part time until 66.",
+      "Send my 2014 pay records to Service Canada."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

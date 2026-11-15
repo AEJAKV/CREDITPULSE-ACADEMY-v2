@@ -19,12 +19,8 @@
           "text": "Most people find one program, apply, and stop. That is usually where the money gets left behind."
         },
         {
-          "type": "heading",
-          "text": "What this course does"
-        },
-        {
           "type": "paragraph",
-          "text": "There are three kinds of help: money back at tax time, grants and loans from your province or city, and a certificate that quietly unlocks more of both. This module walks through all three, in the order that works."
+          "text": "There are three kinds of help: money back at tax time, grants and loans from your province or city, and a certificate that quietly unlocks more of both. This module walks through all three in the order that works, then shows you how to sort a real invoice so you claim every eligible dollar and nothing that will bounce back."
         },
         {
           "type": "transition",
@@ -36,129 +32,201 @@
     },
     {
       "id": "federal",
-      "title": "Layer one: money back at tax time",
+      "title": "Layer One: Money Back at Tax Time",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Two federal tax credits help pay for a renovation. People mix them up constantly, so here they are, one at a time."
+          "text": "Two federal tax credits help pay for a renovation. People mix them up constantly, so here they are side by side."
         },
         {
-          "type": "paragraph",
-          "text": "The Home Accessibility Tax Credit (HATC) helps with permanent safety changes: a walk-in shower, a ramp, grab bars, a stair lift, wider doorways. It is for anyone 65 or older, or anyone approved for the Disability Tax Credit. A family member who pays for the work can claim it instead."
-        },
-        {
-          "type": "paragraph",
-          "text": "The Multigenerational Home Renovation Tax Credit (MHRTC) is a different animal. It helps pay to build a small, separate apartment with its own front door, kitchen, bathroom and bedroom, so a senior can live with family. A nicely finished spare room does not count. It needs its own door."
-        },
-        {
-          "type": "paragraph",
-          "text": "Both credits show up the spring after the work is done, not when you pay the contractor. That gap between paying and getting paid back is where most of the trouble starts."
-        },
-        {
-          "type": "cards",
+          "type": "lists",
           "items": [
             {
-              "title": "What it pays for",
-              "text": "Home Accessibility (HATC): Permanent safety and accessibility changes — Multigenerational (MHRTC): Building a self-contained secondary unit"
+              "title": "Home Accessibility (HATC)",
+              "detail": "SAFETY CHANGES",
+              "text": "",
+              "list": [
+                "Permanent safety changes: a walk-in shower, a ramp, grab bars, a stair lift, wider doorways",
+                "For anyone 65 or older, or approved for the Disability Tax Credit",
+                "A family member who pays for the work can claim it instead",
+                "Non-refundable: it only lowers tax you already owe"
+              ]
             },
             {
-              "title": "Who it is for",
-              "text": "Home Accessibility (HATC): Age 65+, or DTC-eligible, or a paying family member — Multigenerational (MHRTC): A relative building the unit for a senior or DTC-eligible adult"
-            },
-            {
-              "title": "Refundable?",
-              "text": "Home Accessibility (HATC): No, only lowers tax you owe — Multigenerational (MHRTC): Yes, paid even if you owe no tax"
-            },
-            {
-              "title": "When it arrives",
-              "text": "Home Accessibility (HATC): The spring after you file — Multigenerational (MHRTC): The spring after you file, once the work is done"
+              "title": "Multigenerational (MHRTC)",
+              "detail": "A SEPARATE SUITE",
+              "text": "",
+              "list": [
+                "Building a small apartment with its own door, kitchen, bathroom and bedroom",
+                "For a senior, or an adult approved for the Disability Tax Credit, to live with family",
+                "A nicely finished spare room does not count. It needs its own door",
+                "Refundable: it is paid even if you owe no tax"
+              ]
             }
           ]
+        },
+        {
+          "type": "glasspanel",
+          "text": "What the two credits are worth in 2026",
+          "detail": "FEDERAL CREDITS",
+          "items": [
+            {
+              "title": "HATC cost limit",
+              "text": "$20,000 — of eligible costs a year, for each person the work is for."
+            },
+            {
+              "title": "HATC rate",
+              "text": "14% — the lowest federal tax rate in 2026, down from 15%. That makes the most it can save $2,800."
+            },
+            {
+              "title": "MHRTC",
+              "text": "Up to $7,500 — 15% of up to $50,000 in eligible costs for one new suite."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Both credits show up the spring after the work is done, not when you pay the contractor. That gap between paying and getting paid back is where most of the trouble starts. You can claim both on the same project, but not for the same dollar."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“These are grants, they will pay for my renovation.”",
-              "text": "Neither one pays a contractor. Both are tax credits you claim after the fact, and the amount depends on the tax rate, which has changed in the last two years. Budget the full cost up front, and treat the credit like a rebate that arrives next spring."
+              "text": "Neither one pays a contractor. Both are tax credits you claim after the fact, and the amount depends on the tax rate, which changed in 2025 and 2026. Budget the full cost up front, and treat the credit like a rebate that arrives next spring."
             }
           ]
         },
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: THE ONE WORD THAT MATTERS MOST"
+          "type": "spotlight",
+          "text": "Refundable and non-refundable are not fine print. They decide whether a senior gets money or gets nothing. A non-refundable credit can only lower tax you already owe. Many people living on Old Age Security and the Guaranteed Income Supplement owe little or no tax, so the Home Accessibility Credit may be worth far less than it sounds. A refundable credit, like the Multigenerational credit, pays out either way. That is why the family member paying the bill often claims the non-refundable credit. Decide this before the invoice is written, not after."
+        },
+        {
+          "type": "source",
+          "text": "CRA: Multigenerational Home Renovation Tax Credit",
+          "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/federal-government-budgets/budget-2022-plan-grow-economy-make-life-more-affordable/multigenerational-home-renovation-tax-credit.html"
+        }
+      ]
+    },
+    {
+      "id": "invoice",
+      "title": "Sort the Invoice Before You Claim It",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A renovation invoice mixes costs that count with costs that do not. The Home Accessibility Credit covers permanent changes that help someone get around safely. It does not cover routine repairs, decoration or appliances, even when they happen in the same room on the same day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is an example bathroom job, sorted line by line."
+        },
+        {
+          "type": "ledger",
+          "detail": "WHAT THE CREDIT IS WORTH",
+          "text": "$13,100 of the $18,600 invoice counts. At 14%, that is a $1,834 credit.",
+          "extra": "It is only worth $1,834 to someone who owes at least that much federal tax. That is the question to settle before deciding whose name goes on the claim.",
+          "items": [
+            {
+              "title": "Whole invoice",
+              "amount": "$18,600",
+              "detail": "Total",
+              "text": "Does the contractor list each part of the job on its own line?"
+            },
+            {
+              "title": "Walk-in shower and safety valve",
+              "amount": "$9,800",
+              "detail": "Counts",
+              "text": "Does it replace a tub that was a fall risk?"
+            },
+            {
+              "title": "Wider bathroom door",
+              "amount": "$2,400",
+              "detail": "Counts",
+              "text": "Is the new width for a walker or wheelchair?"
+            },
+            {
+              "title": "Grab bars and wall backing",
+              "amount": "$900",
+              "detail": "Counts",
+              "text": "Are they fixed to the wall, not suction cups?"
+            },
+            {
+              "title": "Decorative tile and mirror",
+              "amount": "$3,500",
+              "detail": "Does not count",
+              "text": "Would you have bought this even without the safety change?"
+            },
+            {
+              "title": "Leaking pipe found during the job",
+              "amount": "$2,000",
+              "detail": "Does not count",
+              "text": "Is this a routine repair rather than an accessibility change?"
+            }
+          ]
         },
         {
           "type": "spotlight",
-          "text": "Refundable and non-refundable are not fine print. They decide whether a senior gets money or gets nothing. A non-refundable credit can only lower tax you already owe. Many people living on Old Age Security and the Guaranteed Income Supplement owe little or no tax, so the Home Accessibility Credit may be worth far less than it sounds. A refundable credit, like the Multigenerational credit, pays out either way. That is why the family member paying the bill often claims the non-refundable credit, and the senior’s name goes on the refundable one. Decide this before the invoice is written, not after."
+          "text": "Ask the contractor for an invoice with every part of the job on its own line, the company’s GST/HST number and the home’s address. One total on one line forces you to guess, and a guess is hard to defend if the CRA asks."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If the job was for accessibility, the whole bill counts.”",
+              "text": "Only the parts that make the home safer or easier to get around count. Sorting the invoice yourself keeps a claim from being cut back later."
+            }
+          ]
         }
       ]
     },
     {
       "id": "provincial",
-      "title": "Layer two: where the real grants live",
+      "title": "Layer Two: Where the Real Grants Live",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This is the layer most people never find, because it has no single name and no single website. These programs pay before the work starts, usually as a grant or a loan you never have to repay. Most of them check your income first."
+          "text": "This is the layer most people never find, because it has no single name and no single website. These programs pay before the work starts, usually as a grant or a loan you never have to repay. Most of them check your income first. Some are run by the province. Many are run by your city or region for the province, which is why the same program can look different one town over."
         },
         {
-          "type": "paragraph",
-          "text": "Some are run by the province. Many are run by your city or region for the province, which is why the same program can look different one town over. A couple are run by a non-profit instead of a government office."
-        },
-        {
-          "type": "lists",
+          "type": "cards",
           "items": [
             {
               "title": "British Columbia",
-              "text": "",
-              "list": [
-                "A rebate for accessibility work, plus a renovation tax credit for seniors."
-              ]
+              "icon": "mountain",
+              "text": "A rebate for accessibility work, plus a renovation tax credit for seniors."
             },
             {
               "title": "Alberta",
-              "text": "",
-              "list": [
-                "The Seniors Home Adaptation and Repair Program. Read carefully: it is a loan against your home, not a grant."
-              ]
+              "icon": "bank",
+              "text": "The Seniors Home Adaptation and Repair Program. Read carefully: it is a loan against your home, not a grant."
             },
             {
               "title": "Saskatchewan",
-              "text": "",
-              "list": [
-                "A home renovation tax credit open to homeowners generally, not only seniors."
-              ]
+              "icon": "receipt",
+              "text": "A home renovation tax credit open to homeowners generally, not only seniors."
             },
             {
               "title": "Ontario",
-              "text": "",
-              "list": [
-                "Ontario Renovates, through your city or region: part grant, part loan. First-come, until the money runs out."
-              ]
+              "icon": "building",
+              "text": "Ontario Renovates, through your city or region: part grant, part loan. First-come, until the money runs out."
             },
             {
               "title": "Quebec",
-              "text": "",
-              "list": [
-                "Programme d’adaptation de domicile and RénoRégion, applied for through your municipality."
-              ]
+              "icon": "map",
+              "text": "Programme d’adaptation de domicile and RénoRégion, applied for through your municipality."
             },
             {
               "title": "Atlantic Canada",
-              "text": "",
-              "list": [
-                "New Brunswick, Nova Scotia, PEI and Newfoundland and Labrador each run their own seniors’ repair programs."
-              ]
+              "icon": "waves",
+              "text": "New Brunswick, Nova Scotia, PEI and Newfoundland and Labrador each run their own seniors’ repair programs."
             },
             {
               "title": "The Territories",
-              "text": "",
-              "list": [
-                "Yukon and the Northwest Territories run seasonal programs. Miss the window, and you wait a year."
-              ]
+              "icon": "snowflake",
+              "text": "Yukon and the Northwest Territories run seasonal programs. Miss the window, and you wait a year."
             }
           ]
         },
@@ -179,58 +247,48 @@
     },
     {
       "id": "gateway",
-      "title": "Layer three: one form that unlocks the rest",
+      "title": "Layer Three: One Form That Unlocks the Rest",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "The Disability Tax Credit (DTC) is not a renovation program on its own. It is a certificate. Your doctor fills in a form that confirms a serious, long-term health condition. A surprising amount of the money in this course sits underneath it."
+          "text": "The Disability Tax Credit (DTC) is not a renovation program on its own. It is a certificate. Your doctor or another approved health worker fills in a form that confirms a serious, long-term health condition. A surprising amount of the money in this course sits underneath it."
         },
         {
           "type": "paragraph",
-          "text": "DTC approval opens the Home Accessibility Credit at any age, not just 65. It can make someone a qualifying person for the Multigenerational credit. It helps with, or is required for, several provincial grants. It can even be backdated to past tax years, sometimes producing a refund large enough to help pay for the renovation outright."
+          "text": "DTC approval opens the Home Accessibility Credit at any age, not just 65. It can make someone a qualifying person for the Multigenerational credit. It helps with, or is required for, several provincial grants. It can even be applied to past tax years, sometimes producing a refund large enough to help pay for the renovation outright."
         },
         {
           "type": "paragraph",
-          "text": "It is also turned down the first time fairly often, then approved later once the doctor adds more detail. If anyone in the home has a long-term problem with moving, seeing, hearing or memory and has never applied, that is the best use of an hour in this whole course."
-        }
-      ]
-    },
-    {
-      "id": "checklist",
-      "title": "Does this apply to me?",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Six quick questions. If most of these are true, keep reading."
+          "text": "It is also turned down the first time fairly often, then approved later once the health worker adds more detail. If anyone in the home has a long-term problem with moving, seeing, hearing or memory and has never applied, that is the best use of an hour in this whole course."
         },
         {
-          "type": "chips",
+          "type": "filecards",
+          "text": "Does this apply to me?",
           "items": [
             {
-              "title": "Someone in the home is 65 or older, or has a long-term health condition.",
-              "text": ""
+              "title": "Who",
+              "text": "Someone in the home is 65 or older, or has a long-term health condition."
             },
             {
-              "title": "The work is permanent and about safety or getting around, not decoration.",
-              "text": ""
+              "title": "What",
+              "text": "The work is permanent and about safety or getting around, not decoration."
             },
             {
-              "title": "The home is the main residence of the person the work is for.",
-              "text": ""
+              "title": "Where",
+              "text": "The home is the main residence of the person the work is for."
             },
             {
-              "title": "The work has not started yet, or if it has, every receipt has been kept.",
-              "text": ""
+              "title": "When",
+              "text": "The work has not started yet, or every receipt has been kept."
             },
             {
-              "title": "I have checked what my province and my city offer, not just the federal credits.",
-              "text": ""
+              "title": "Local",
+              "text": "You have checked what your province and city offer, not just the federal credits."
             },
             {
-              "title": "I know who in the family will pay, and who will claim the credit.",
-              "text": ""
+              "title": "Whose name",
+              "text": "You know who in the family will pay, and who will claim the credit."
             }
           ]
         }
@@ -238,7 +296,7 @@
     },
     {
       "id": "sequence",
-      "title": "Do these in order, or the money disappears",
+      "title": "Do These in Order, or the Money Disappears",
       "paragraphs": [],
       "blocks": [
         {
@@ -284,10 +342,6 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "CREDIT PULSE SPOTLIGHT: DO NOT BORROW AGAINST YOUR HOUSE TO CLOSE THE GAP"
-        },
-        {
           "type": "spotlight",
           "text": "Every program in this course pays you back later, but the contractor wants to be paid now. That gap tempts people toward the fastest loan in the room, and the fastest loan in the room is almost always the worst one. Contractor financing, rent-to-own equipment and high-rate second mortgages are marketed hardest to the households these programs are meant to help. Cheaper options usually exist: a line of credit from your own bank, a written family loan, splitting the work across two tax years, or waiting for the next grant window."
         },
@@ -299,7 +353,7 @@
     },
     {
       "id": "story",
-      "title": "Two sisters, one bathroom, and a rule in paragraph nine",
+      "title": "Two Sisters, One Bathroom, and a Rule in Paragraph Nine",
       "paragraphs": [],
       "blocks": [
         {
@@ -315,18 +369,70 @@
             "They also get the math right. Bernice lives on Old Age Security, the Guaranteed Income Supplement and a small pension, so she pays almost no tax. A non-refundable credit in her name would be close to worthless. Colette pays for the work and claims the Home Accessibility Credit on her own return. Anne-Marie applies for the provincial grant in Bernice’s name, where the income test works in their favour.",
             "The walk-in shower goes in that March. Between the grant and the credit, the family pays about half of the first quote.",
             "Nothing clever happened. Two people read the rules, split the paperwork and decided who was paying before anyone bought tile."
+          ],
+          "at": 3,
+          "items": [
+            {
+              "title": "MONDAY OFFER",
+              "text": "Contractor can start early"
+            },
+            {
+              "title": "PARAGRAPH NINE",
+              "text": "No work before approval"
+            },
+            {
+              "title": "SIX WEEKS LATER",
+              "text": "Written approval arrives"
+            }
           ]
-        },
-        {
-          "type": "takeaway",
-          "text": "Three layers, and you wear all three: a federal credit you claim at tax time, a provincial or city grant you apply for before work starts, and the Disability Tax Credit underneath both. Decide who pays and who claims before the first invoice, and never let a contractor’s free Monday beat a program’s start-work rule.",
-          "detail": ""
         },
         {
           "type": "transition",
           "text": "Bernice’s family paid about half of the first quote by waiting for approval and choosing who claimed which credit.",
           "detail": "Reading the start-work rule and deciding who claims what can save your family the same.",
-          "extra": "Your action this week, in Section 08, takes one phone call."
+          "extra": "The quick check in Section 08 tests the math."
+        }
+      ]
+    },
+    {
+      "id": "quick-check",
+      "title": "Quick Check: Choose the Best Next Move",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "Which credit pays for a walk-in shower, and which pays for a separate suite?",
+              "detail": "The Home Accessibility Tax Credit covers safety changes like a walk-in shower. The Multigenerational credit covers building a self-contained suite.",
+              "text": ""
+            },
+            {
+              "title": "A senior on OAS and GIS owes no federal tax. What is a non-refundable credit in her name worth?",
+              "detail": "Probably nothing. It can only lower tax she owes. A family member who pays the bill and owes tax may get more from the claim.",
+              "text": ""
+            },
+            {
+              "title": "$8,000 of a job counts for the Home Accessibility Credit in 2026. What is the credit worth?",
+              "detail": "$1,120, which is 14% of $8,000, to someone who owes at least that much federal tax.",
+              "text": ""
+            },
+            {
+              "title": "What is the most the Multigenerational credit can pay for one suite?",
+              "detail": "$7,500, which is 15% of up to $50,000 in eligible costs. It is refundable.",
+              "text": ""
+            },
+            {
+              "title": "The contractor can start Monday, but the grant approval has not arrived. What do you do?",
+              "detail": "Wait for written approval. Most grant programs will not pay for work that started first.",
+              "text": ""
+            },
+            {
+              "title": "Why does the Disability Tax Credit come first in the order?",
+              "detail": "It can take months, and it can open the accessibility credit at any age, the multigenerational credit and some provincial grants.",
+              "text": ""
+            }
+          ]
         }
       ]
     },
@@ -336,32 +442,16 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
-          "items": [
-            {
-              "title": "Call 211, or search your city’s name plus “home adaptation program,” and write down two things: when applications open, and the rule about starting work.",
-              "text": ""
-            },
-            {
-              "title": "Think about whether anyone in the home should apply for the Disability Tax Credit. If it is even a close call, book the doctor’s appointment to fill out the form.",
-              "text": ""
-            },
-            {
-              "title": "Have the who-pays, who-claims conversation with your family now, while it is still just a conversation and nobody is upset about a bathroom.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Worksheet: your three layers"
-        },
-        {
           "type": "paragraph",
-          "text": "One rule of thumb: if the federal credit is non-refundable and the person it is for pays little tax, the claim usually belongs on a family member’s return instead. That single decision is often worth more than the rest of this worksheet."
+          "text": "This week: call 211, or search your city’s name plus “home adaptation program,” and write down when applications open and the rule about starting work. Ask whether anyone in the home should apply for the Disability Tax Credit. Then have the who-pays, who-claims conversation with your family, while it is still just a conversation and nobody is upset about a bathroom."
         },
         {
           "type": "checkin"
+        },
+        {
+          "type": "takeaway",
+          "text": "Three layers, and you wear all three.",
+          "detail": "A federal credit you claim at tax time, a provincial or city grant you apply for before work starts, and the Disability Tax Credit underneath both. Sort the invoice, decide who pays and who claims, and never let a contractor’s free Monday beat a program’s start-work rule."
         }
       ]
     },
@@ -388,6 +478,10 @@
             {
               "title": "Refundable credit",
               "text": "Paid to you even if you owe no tax. A non-refundable credit only lowers tax you already owe."
+            },
+            {
+              "title": "Eligible expense",
+              "text": "A cost the credit counts. For the HATC, a permanent change that makes the home safer or easier to get around."
             },
             {
               "title": "Forgivable loan",
@@ -424,7 +518,7 @@
         },
         {
           "type": "paragraph",
-          "text": "This module skips dollar figures on purpose. Credit rates, cost limits and provincial income cut-offs all change, sometimes every year. Check current numbers on canada.ca and your province’s program page before you rely on them."
+          "text": "Federal figures here are for 2026. Credit rates, cost limits and provincial income cut-offs can change every year. Check current numbers on canada.ca and your province’s program page before you rely on them."
         }
       ]
     }
@@ -449,12 +543,12 @@
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information.",
     "samples": [
-      "A walk-in shower to replace the tub.",
-      "65 or older.",
-      "Moncton, New Brunswick.",
-      "Not yet. We are waiting for written approval.",
-      "My sister pays and claims the credit. Mom applies for the grant.",
-      "Call 211 and ask about home adaptation grants and the start-work rule."
+      "Grab bars and a ramp at the back door.",
+      "Both.",
+      "Saskatoon, Saskatchewan.",
+      "Not yet.",
+      "My son pays the contractor and claims the credit.",
+      "Call the city about repair programs and ask when applications open."
     ]
   },
   "sources": []

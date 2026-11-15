@@ -27,6 +27,21 @@
           "text": "Use IRCC’s service finder to look up funded helpers by postal code and type of help. A helper can check what you need and point you to the right place, so you do not have to search every program alone."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The first-week checklist is not a race.",
+              "text": "The first-week checklist is not a race.",
+              "image": "/images/benefits-support/04-platinum/benefits-20/benefits20-image-1.webp"
+            },
+            {
+              "title": "Take each step in the order that opens the next one.",
+              "text": "Take each step in the order that opens the next one.",
+              "image": "/images/benefits-support/04-platinum/benefits-20/benefits20-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -177,6 +192,8 @@
           "text": "Meet Farah",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/04-platinum/benefits-20/benefits20-image-3.webp",
+          "focus": 60,
           "paragraphs": [
             "Farah Haddad lands in Winnipeg as a permanent resident with an engineering degree, two children and a checklist long enough to count as hand luggage. Her goal is clear. She wants to work as an engineer again before her savings run out.",
             "In week two, an ad finds her. A private company offers a “Canadian certification package” for $2,400. It promises a faster path to engineering work. Farah has not yet found out who licenses engineers in Manitoba.",

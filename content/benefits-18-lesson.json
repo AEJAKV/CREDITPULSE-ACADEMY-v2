@@ -27,6 +27,21 @@
           "text": "The federal Apprenticeship Incentive Grant and Apprenticeship Completion Grant closed on March 31, 2025. They are not open for 2026."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The real gap is often shorter than the whole school block.",
+              "text": "The real gap is often shorter than the whole school block.",
+              "image": "/images/benefits-support/04-platinum/benefits-18/benefits18-image-1.webp"
+            },
+            {
+              "title": "Map the dates, save for the gap, borrow only the rest.",
+              "text": "Map the dates, save for the gap, borrow only the rest.",
+              "image": "/images/benefits-support/04-platinum/benefits-18/benefits18-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -253,6 +268,8 @@
           "text": "Meet Owen",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/04-platinum/benefits-18/benefits18-image-3.webp",
+          "focus": 52,
           "paragraphs": [
             "Owen MacLeod is an electrical apprentice in Halifax. His second school block starts in eight weeks. His goal is to get through it without falling behind on rent.",
             "He builds his budget around a $1,000 federal grant. His cousin got the same grant in 2024. Owen adds it to his plan, along with his last paycheque and some savings.",

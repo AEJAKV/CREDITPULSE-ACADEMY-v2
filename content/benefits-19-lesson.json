@@ -27,6 +27,21 @@
           "text": "Start with who you are and what you need, not a benefit name. The best route may be a First Nation office, an Inuit organization, a Métis government, a friendship centre, a provincial program or Indigenous Services Canada."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "One program name is not one application.",
+              "text": "One program name is not one application.",
+              "image": "/images/benefits-support/04-platinum/benefits-19/benefits19-image-1.webp"
+            },
+            {
+              "title": "Send each need to the office that runs it.",
+              "text": "Send each need to the office that runs it.",
+              "image": "/images/benefits-support/04-platinum/benefits-19/benefits19-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -226,6 +241,8 @@
           "text": "Meet Talia",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/04-platinum/benefits-19/benefits19-image-3.webp",
+          "focus": 50,
           "paragraphs": [
             "Talia Cardinal is a First Nations student in Saskatoon. Her goal is to start her second year of social work in September. Her tuition deposit is due in three weeks. A cracked tooth has her chewing on one side.",
             "She finds a federal page about help for students and waits for an online form to appear. It never does. The website gave her a program name and then wandered off like it had another meeting.",

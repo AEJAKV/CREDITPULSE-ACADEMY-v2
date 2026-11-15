@@ -23,6 +23,21 @@
           "text": "Apply as soon as work stops, even if your Record of Employment has not arrived. If you wait more than four weeks after your last day of work, you may lose benefits."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Waiting for your Record of Employment can cost you benefits.",
+              "text": "Waiting for your Record of Employment can cost you benefits.",
+              "image": "/images/benefits-support/02-silver/benefits-10/benefits10-image-1.webp"
+            },
+            {
+              "title": "Apply right away, and report every dollar you earn.",
+              "text": "Apply right away, and report every dollar you earn.",
+              "image": "/images/benefits-support/02-silver/benefits-10/benefits10-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -145,6 +160,8 @@
           "text": "Meet Dylan",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/02-silver/benefits-10/benefits10-image-3.webp",
+          "focus": 52,
           "paragraphs": [
             "Dylan Fraser loses his job at a car parts plant in Windsor. His goal is to keep up with rent and his truck payment until he finds new work. His boss says the Record of Employment will arrive soon. Dylan decides to wait for it before he applies.",
             "Two weeks pass. The record seems to be commuting from another province by canoe. Then a friend mentions the four-week rule. If Dylan waits too long, he could lose benefits.",

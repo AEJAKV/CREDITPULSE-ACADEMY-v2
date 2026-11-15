@@ -27,6 +27,21 @@
           "text": "A federal DTC or CPP disability approval can help with some provincial programs, but it does not prove you qualify everywhere. Each program decides which outside approvals it will accept."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The approval letter moves with you. The benefit usually does not.",
+              "text": "The approval letter moves with you. The benefit usually does not.",
+              "image": "/images/benefits-support/03-gold/benefits-12/benefits12-image-1.webp"
+            },
+            {
+              "title": "Call both provinces before you cancel anything.",
+              "text": "Call both provinces before you cancel anything.",
+              "image": "/images/benefits-support/03-gold/benefits-12/benefits12-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -236,6 +251,8 @@
           "text": "Meet Marcus",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/03-gold/benefits-12/benefits12-image-3.webp",
+          "focus": 53,
           "paragraphs": [
             "Marcus Bell gets ODSP in Toronto. His sister finds him a ground-floor apartment in Calgary, close to her and close to a job he can do three mornings a week. He packs his ODSP approval letter and assumes Alberta will change the logo. The letter crosses the country beautifully. The entitlement neglects to book a seat.",
             "Two weeks before the move, he calls Alberta to ask where to send his letter. The worker is kind and clear. Ontario’s approval does not carry over. He has to apply for AISH or ADAP on Alberta’s form, under Alberta’s rules.",

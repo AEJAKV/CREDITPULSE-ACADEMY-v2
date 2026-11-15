@@ -23,6 +23,21 @@
           "text": "In 2026, work that pays a real living means earning $20,971.45 a year or more before tax. Earnings are one piece of proof. Service Canada looks at the whole picture of what you can do, how often and what work you have tried."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A diagnosis alone does not show why steady work stopped.",
+              "text": "A diagnosis alone does not show why steady work stopped.",
+              "image": "/images/benefits-support/02-silver/benefits-09/benefits09-image-1.webp"
+            },
+            {
+              "title": "Connect your health, your limits and your work in one file.",
+              "text": "Connect your health, your limits and your work in one file.",
+              "image": "/images/benefits-support/02-silver/benefits-09/benefits09-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -131,6 +146,8 @@
           "text": "Meet Samira",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/02-silver/benefits-09/benefits09-image-3.webp",
+          "focus": 57,
           "paragraphs": [
             "Samira Haddad runs a warehouse shift in Edmonton. A long-term nerve condition has made the job harder every month. Her goal is to apply for CPP disability before her savings run out in the fall.",
             "Her first draft names her diagnosis and attaches every specialist report. It says almost nothing about her actual work. It skips the missed shifts, the pace she could no longer keep safely and the two days she needed to recover after a short trial return.",

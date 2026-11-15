@@ -27,6 +27,21 @@
           "text": "The Canada Housing Benefit is delivered through thirteen separate provincial and territorial programs. It is not one national website with one national rate."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A wait-list letter cannot negotiate with your landlord.",
+              "text": "A wait-list letter cannot negotiate with your landlord.",
+              "image": "/images/benefits-support/03-gold/benefits-13/benefits13-image-1.webp"
+            },
+            {
+              "title": "Treat back rent as urgent, and keep every list current.",
+              "text": "Treat back rent as urgent, and keep every list current.",
+              "image": "/images/benefits-support/03-gold/benefits-13/benefits13-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -244,6 +259,8 @@
           "text": "Meet Alicia",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/03-gold/benefits-13/benefits13-image-3.webp",
+          "focus": 55,
           "paragraphs": [
             "Alicia Morgan rents a one-bedroom in Toronto with her son. Her goal is to stay in that apartment, close to his school. Last year she applied for community housing and got a letter saying she is on the wait list.",
             "In March, her hours at the store are cut. She misses half of April’s rent. She figures the wait-list letter will protect her. The letter stays calm, laminated and entirely unable to negotiate with her landlord.",

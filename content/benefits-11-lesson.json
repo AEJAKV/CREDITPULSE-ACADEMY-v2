@@ -27,6 +27,21 @@
           "text": "Start with the official website of the province or territory where you live. The federal Benefits Finder can point to options, but the local program decides who qualifies."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Your province’s program decides, not a checklist from somewhere else.",
+              "text": "Your province’s program decides, not a checklist from somewhere else.",
+              "image": "/images/benefits-support/03-gold/benefits-11/benefits11-image-1.webp"
+            },
+            {
+              "title": "Declare what you own, and ask about emergency help today.",
+              "text": "Declare what you own, and ask about emergency help today.",
+              "image": "/images/benefits-support/03-gold/benefits-11/benefits11-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -284,6 +299,8 @@
           "text": "Meet Kira",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/03-gold/benefits-11/benefits11-image-3.webp",
+          "focus": 50,
           "paragraphs": [
             "Kira moves from Regina to Vancouver after her job ends. Her goal is to keep a roof over her head while she looks for work. Rent on her new room is due in nine days.",
             "A friend sends her a Saskatchewan checklist for income support. Kira spends two evenings gathering every paper on it. The form is thorough, official-looking and geographically ambitious.",

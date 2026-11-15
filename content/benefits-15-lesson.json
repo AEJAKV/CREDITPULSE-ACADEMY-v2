@@ -27,6 +27,21 @@
           "text": "All four rules matter: no access to private dental insurance, your Canadian tax returns filed, adjusted family net income below $90,000 and living in Canada."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "“Covered” is a coverage category, not a price.",
+              "text": "“Covered” is a coverage category, not a price.",
+              "image": "/images/benefits-support/03-gold/benefits-15/benefits15-image-1.webp"
+            },
+            {
+              "title": "Get the dollar amount in writing before the chair reclines.",
+              "text": "Get the dollar amount in writing before the chair reclines.",
+              "image": "/images/benefits-support/03-gold/benefits-15/benefits15-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -241,6 +256,8 @@
           "text": "Meet Renée",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/03-gold/benefits-15/benefits15-image-3.webp",
+          "focus": 57,
           "paragraphs": [
             "Renée Gagnon lives in Moncton and has CDCP coverage. A cracked back tooth needs a crown, and her goal is to get it fixed before it breaks. The clinic says the crown is “covered,” a word Renée’s budget hears as “please leave your wallet in the car.”",
             "The front desk is ready to book her for Thursday. Renée is ready too. The tooth hurts.",

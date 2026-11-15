@@ -27,6 +27,21 @@
           "text": "National pharmacare is not yet one list for every medicine in every province. It covers listed products where there is a deal, and local public drug plans still matter a lot."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Approved can still mean you pay at the counter.",
+              "text": "Approved can still mean you pay at the counter.",
+              "image": "/images/benefits-support/04-platinum/benefits-16/benefits16-image-1.webp"
+            },
+            {
+              "title": "Ask the price first, and track your deductible all year.",
+              "text": "Ask the price first, and track your deductible all year.",
+              "image": "/images/benefits-support/04-platinum/benefits-16/benefits16-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -320,6 +335,8 @@
           "text": "Meet Dev",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/04-platinum/benefits-16/benefits16-image-3.webp",
+          "focus": 33,
           "paragraphs": [
             "Dev Sharma lives in Surrey and has just been approved for a new medicine for his heart. His goal is to start it this week, as his doctor asked. The approval letter says his plan will now cover it.",
             "At the pharmacy, Dev expects to pay nothing. The receipt, having received no such instructions, shows $310.",

@@ -23,6 +23,21 @@
           "text": "For July to September 2026, a single, widowed or divorced person with yearly income below $22,800 may get up to $1,123.17 a month. That top amount is not a personal quote, and it changes every three months."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A smaller July deposit often means last year’s income was used.",
+              "text": "A smaller July deposit often means last year’s income was used.",
+              "image": "/images/benefits-support/02-silver/benefits-07/benefits07-image-1.webp"
+            },
+            {
+              "title": "File every year, and report an income drop right away.",
+              "text": "File every year, and report an income drop right away.",
+              "image": "/images/benefits-support/02-silver/benefits-07/benefits07-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -142,6 +157,8 @@
           "text": "Meet Bernard",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/02-silver/benefits-07/benefits07-image-3.webp",
+          "focus": 27,
           "paragraphs": [
             "Bernard LeBlanc lives in Bathurst. He stops working in February, and his workplace pension drops later that spring. He wants his budget to cover rent, groceries and the heat bill through the winter.",
             "In July, his GIS letter arrives. The amount is far lower than he planned. The letter used last year’s income, back when he had a paycheque. Bernard decides his retirement has somehow retired twice while his bills stay impressively employed.",

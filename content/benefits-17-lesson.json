@@ -27,6 +27,21 @@
           "text": "For the 2026–27 school year, the Canada Student Grant for Full-Time Students pays up to $4,200 a year, or $525 for each month of study. “Up to” depends on your need and income."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "One award can show up on two screens without doubling.",
+              "text": "One award can show up on two screens without doubling.",
+              "image": "/images/benefits-support/04-platinum/benefits-17/benefits17-image-1.webp"
+            },
+            {
+              "title": "Price the whole year, then borrow only the gap.",
+              "text": "Price the whole year, then borrow only the gap.",
+              "image": "/images/benefits-support/04-platinum/benefits-17/benefits17-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -252,6 +267,8 @@
           "text": "Meet Mina",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/04-platinum/benefits-17/benefits17-image-3.webp",
+          "focus": 35,
           "paragraphs": [
             "Mina Tran starts nursing school in Winnipeg. Her goal is to finish without a pile of debt, so she plans her eight months down to the dollar: rent, food, the bus and her hospital placements.",
             "She logs in to her provincial student aid account and sees a federal grant and a loan. Then she logs in to NSLSC and sees the same kind of money again. Mina briefly believes the grant has duplicated itself out of academic enthusiasm.",

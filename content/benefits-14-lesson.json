@@ -27,6 +27,21 @@
           "text": "Call your utility or energy company as soon as you start having trouble paying. A payment plan made before a disconnection can avoid reconnection fees, deposits and several uncomfortable hours discussing candles."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "An impossible promise to pay can end with the heat off.",
+              "text": "An impossible promise to pay can end with the heat off.",
+              "image": "/images/benefits-support/03-gold/benefits-14/benefits14-image-1.webp"
+            },
+            {
+              "title": "Offer a real number, and build the new bill into the plan.",
+              "text": "Offer a real number, and build the new bill into the plan.",
+              "image": "/images/benefits-support/03-gold/benefits-14/benefits14-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -246,6 +261,8 @@
           "text": "Meet Jo",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/03-gold/benefits-14/benefits14-image-3.webp",
+          "focus": 52,
           "paragraphs": [
             "Jo Pelletier rents a small house in Ottawa with an electric furnace. It is January. Jo’s goal is to keep the heat on until spring.",
             "A disconnection notice arrives. Jo owes $940 and has ten days. In a panic, Jo calls the utility and promises to pay $600 on Friday. Friday’s budget holds rent, groceries and exactly none of those heroic dollars. The promise is optimistic enough to have its own soundtrack.",

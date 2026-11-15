@@ -23,6 +23,21 @@
           "text": "In 2026, the most a new CPP retirement pension pays at age 65 is $1,507.65 a month. The April 2026 average for people just starting was $877.01. Most people do not get the top amount."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The top CPP amount is a headline, not your estimate.",
+              "text": "The top CPP amount is a headline, not your estimate.",
+              "image": "/images/benefits-support/02-silver/benefits-08/benefits08-image-1.webp"
+            },
+            {
+              "title": "Check your record year by year, then choose your start age.",
+              "text": "Check your record year by year, then choose your start age.",
+              "image": "/images/benefits-support/02-silver/benefits-08/benefits08-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -159,6 +174,8 @@
           "text": "Meet Priya",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/02-silver/benefits-08/benefits08-image-3.webp",
+          "focus": 52,
           "paragraphs": [
             "Priya Nair lives in Mississauga and wants to stop working at 61 to help with her new grandson. She finds the 2026 top CPP amount online and puts it straight into her budget. The number looks official, confident and dressed for the occasion.",
             "Then she logs in to My Service Canada Account. Her own estimate is much lower. Priya moved to Canada at 38, and she spent several years caring for her kids on little or no pay. The top amount assumed a work history she never had.",

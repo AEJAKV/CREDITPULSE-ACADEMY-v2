@@ -1,6 +1,6 @@
 {
   "title": "AI-Assisted Businesses",
-  "summary": "You set the goal → AI drafts → You check, then publish",
+  "summary": "Draft, decide, check → Own the output → Build a routine you can trust",
   "subtitle": "Use AI as your fast assistant, and keep yourself as the boss.",
   "minutes": 30,
   "published": true,
@@ -15,19 +15,6 @@
           "text": "AI tools can draft, sum up, design and answer questions in seconds. They can also state something wrong with total confidence, like a coworker who never says “I’m not sure.” This lesson shows you how to use that speed without lending your name to its mistakes."
         },
         {
-          "type": "transition",
-          "text": "Get hours back each week without handing over your judgement.",
-          "detail": "You will learn a simple draft, decide, and check routine that makes you faster while keeping your customers’ trust.",
-          "extra": "Section 05 walks you through that routine one step at a time."
-        }
-      ]
-    },
-    {
-      "id": "basics",
-      "title": "Start with the plain-language basics",
-      "paragraphs": [],
-      "blocks": [
-        {
           "type": "paragraph",
           "text": "Generative AI is software that makes new text, images or sound by following patterns learned from huge amounts of existing work. It does not know your business the way you do, and it has no idea whether its answer is true. It just writes what sounds likely."
         },
@@ -36,16 +23,43 @@
           "text": "In an AI-assisted business, you do the thinking and the tool speeds up the routine work: first drafts, product notes, replies to customers, images and spreadsheet formulas. You stay responsible for everything that goes out under your name."
         },
         {
-          "type": "paragraph",
-          "text": "One rule keeps this safe and easy to remember: the AI drafts, you decide, and you check. Skip any of those three steps and trouble starts."
+          "type": "transition",
+          "text": "Get hours back each week without handing over your judgement.",
+          "detail": "You will learn a simple draft, decide and check routine that makes you faster while keeping your customers’ trust.",
+          "extra": "Section 02 sorts what to hand to AI and what to keep."
         }
       ]
     },
     {
       "id": "hand-over",
-      "title": "What to hand over, what to keep",
+      "title": "Hand It Over, or Keep It",
       "paragraphs": [],
       "blocks": [
+        {
+          "type": "split",
+          "text": "The three-word rule",
+          "paragraphs": [
+            "The AI drafts. You decide. You check. Skip any one of those steps and trouble starts, usually at the worst possible moment.",
+            "Use it on routine work: first drafts, product notes, replies, images and spreadsheet formulas. Keep the thinking, the promises and the final say."
+          ],
+          "items": [
+            {
+              "title": "AI drafts",
+              "text": "",
+              "icon": "file"
+            },
+            {
+              "title": "You decide",
+              "text": "",
+              "icon": "gauge"
+            },
+            {
+              "title": "You check",
+              "text": "",
+              "icon": "shield"
+            }
+          ]
+        },
         {
           "type": "lists",
           "items": [
@@ -87,25 +101,14 @@
               "list": [
                 "What AI can do: Nothing",
                 "What you must do: Keep it out of tools that your business does not control"
-              ]
+              ],
+              "icon": "alert"
             }
           ]
         },
         {
           "type": "spotlight",
           "text": "Check every number, date and source. AI tools can make up facts, links and even laws that sound real. Treat every figure and citation as unchecked until you have checked it yourself, most of all anything about tax or the law."
-        },
-        {
-          "type": "heading",
-          "text": "Who owns AI-made work?"
-        },
-        {
-          "type": "paragraph",
-          "text": "In Canada, it is unclear who owns work made fully by AI. A 2021 copyright filing listed a person and an AI painting app as co-authors, but the office does not review filings, and the courts have not settled the question. The United States requires a human author. In practice, add real human work to anything you plan to build your brand on."
-        },
-        {
-          "type": "spotlight",
-          "text": "Read the tool’s terms before you rely on it. Look for two answers: who may use what the tool makes for you, and whether the words you type in are used to train the tool. Many tools let you turn training off in the settings. Pick a paid or business plan when you work with client material."
         },
         {
           "type": "myths",
@@ -115,22 +118,47 @@
               "text": "The business that posts the content is responsible for it. The Competition Act bans false or misleading claims in marketing, whether a person or a program wrote the words."
             }
           ]
-        },
-        {
-          "type": "heading",
-          "text": "Privacy and honest claims"
-        },
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "title": "Own the Output",
+      "paragraphs": [],
+      "blocks": [
         {
           "type": "paragraph",
-          "text": "Customer names, emails and money details are personal information, and federal privacy law (PIPEDA) still applies when you paste them into a tool. Canada’s privacy regulators have shared joint principles for generative AI. A good habit is to keep customer data out of any tool you do not control."
+          "text": "The tool is new. The rules around it aren’t. Copyright, privacy and honest advertising all still apply, and your name is on whatever goes out."
         },
         {
-          "type": "paragraph",
-          "text": "Be careful with labels like “AI-powered” or “guaranteed results.” Overstating what AI does in your business is called AI washing. It can break the same rules against misleading ads that apply to any other claim."
-        },
-        {
-          "type": "spotlight",
-          "text": "Good practice: be open about chatbots. No rule in this lesson says every business must label its AI help, but honesty is cheap. If a chatbot answers your customers, say that it is a chatbot, and make it easy to reach a real person."
+          "type": "cards",
+          "items": [
+            {
+              "title": "WHO OWNS IT",
+              "icon": "briefcase",
+              "text": "In Canada, ownership of work made fully by AI is unsettled. One 2021 copyright filing listed a person and an AI app as co-authors, but the office doesn’t review filings, and the courts haven’t decided. The United States requires a human author. Add real human work to anything you build your brand on."
+            },
+            {
+              "title": "THE TOOL’S TERMS",
+              "icon": "receipt",
+              "text": "Find two answers: who may use what the tool makes for you, and whether what you type in trains the tool. Many tools let you turn training off. Use a paid or business plan for client work."
+            },
+            {
+              "title": "PRIVACY",
+              "icon": "shield",
+              "text": "Customer names, emails and money details are personal information, and PIPEDA still applies when you paste them into a tool. Keep customer data out of any tool your business doesn’t control."
+            },
+            {
+              "title": "HONEST CLAIMS",
+              "icon": "alert",
+              "text": "Overstating what AI does, like “AI-powered results guaranteed,” is called AI washing. It breaks the same rules against misleading ads as any other false claim."
+            },
+            {
+              "title": "CHATBOTS",
+              "icon": "inbox",
+              "text": "If a chatbot answers your customers, say it is a chatbot, and make it easy to reach a real person. Honesty is cheap and builds trust."
+            }
+          ]
         },
         {
           "type": "spotlight",
@@ -167,7 +195,7 @@
     },
     {
       "id": "launch",
-      "title": "The draft, decide, check routine",
+      "title": "The Draft, Decide, Check Routine",
       "paragraphs": [],
       "blocks": [
         {
@@ -201,6 +229,41 @@
         },
         {
           "type": "heading",
+          "text": "Your “never promise” list"
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "THE AI MUST NEVER PROMISE",
+              "text": "",
+              "list": [
+                "A refund or a discount",
+                "A deadline or same-day service",
+                "A price you haven’t confirmed",
+                "A result, such as “guaranteed savings”",
+                "Tax, legal or medical advice"
+              ],
+              "icon": "alert"
+            },
+            {
+              "title": "THE AI MAY HELP WITH",
+              "text": "",
+              "list": [
+                "Friendly wording and tone",
+                "A first draft of a quote you then check",
+                "Summaries of your own notes",
+                "Ideas for posts and product names"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Keep a “never promise” list beside your AI tool. Cover refunds, deadlines, prices, results, and tax or legal advice. Paste it into every prompt, then read the draft before it goes out."
+        },
+        {
+          "type": "heading",
           "text": "Notes by province, and for your taxes"
         },
         {
@@ -228,10 +291,6 @@
               "text": "The CRA says to report all income from all sources, and the tool that helped you earn it does not change that."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Insider tip: Keep a “never promise” list beside your AI tool. Cover refunds, deadlines, prices, results, and tax or legal advice. Paste it into every prompt, then read the draft before it goes out."
         }
       ]
     },
@@ -406,12 +465,12 @@
       "What is one thing you will do this week to put the draft, decide, check routine in place?"
     ],
     "samples": [
-      "Think about a job you repeat often, such as quotes, product notes or replies.",
-      "For example: me, every draft, before I press send.",
-      "Never, only in a tool my business controls, or not sure.",
-      "For example: a refund, a deadline, or a guaranteed result.",
-      "For example: a paid plan with training turned off in the settings.",
-      "For example: write my never-promise list on Friday and paste it into my prompts."
+      "Writing quotes and replies to new customer questions.",
+      "Me, on every draft, before I press send.",
+      "Never. Only in a business tool I control, with training turned off.",
+      "Same-day service or a full refund for any reason.",
+      "A paid plan. Its terms say my input isn’t used for training once I turn that off.",
+      "Write my never-promise list on Friday and paste it into my prompts."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

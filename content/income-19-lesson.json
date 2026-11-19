@@ -1,6 +1,6 @@
 {
   "title": "Building Recurring Revenue",
-  "summary": "Clear sign-up date → Billed on repeat → Steady income, honestly earned",
+  "summary": "Track the numbers → Design a fair plan → Bill and renew honestly",
   "subtitle": "Turn one-time jobs into steady income that customers are glad to keep.",
   "minutes": 30,
   "published": true,
@@ -15,52 +15,75 @@
           "text": "Recurring revenue is money that comes in on a set schedule, such as a monthly retainer, a membership or a yearly service plan. It makes a small business calmer, because you can count on next month’s income instead of hoping for it. This lesson shows you how to build it honestly, so customers stay because they want to."
         },
         {
-          "type": "transition",
-          "text": "Build income that arrives every month, without trapping anyone to get it.",
-          "detail": "A clear plan and an honest renewal process give you steady income and customers who recommend you. That is worth more than a long contract nobody likes.",
-          "extra": "Section 03 explains how to design a plan and which rules apply."
-        }
-      ]
-    },
-    {
-      "id": "basics",
-      "title": "Start with the plain-language basics",
-      "paragraphs": [],
-      "blocks": [
-        {
           "type": "paragraph",
           "text": "A one-time sale pays you once, and then you must find the next customer. A recurring sale pays you again each month or year for as long as the customer stays. Common examples are a monthly cleaning plan, a bookkeeping retainer, a seasonal lawn service, a coaching membership and a subscription box."
         },
         {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Recurring revenue means I no longer have to look for new customers.”",
+              "text": "Some customers always leave, because their needs change or they move. You still need a steady trickle of new customers to replace the ones who go."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Build income that arrives every month, without trapping anyone to get it.",
+          "detail": "A clear plan and an honest renewal process give you steady income and customers who recommend you. That is worth more than a long contract nobody likes.",
+          "extra": "Section 02 covers the numbers that run a recurring business."
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Know the Numbers That Run It",
+      "paragraphs": [],
+      "blocks": [
+        {
           "type": "paragraph",
-          "text": "Two numbers matter most: monthly recurring revenue and churn. Monthly recurring revenue is the total you expect to bill each month. Churn is the share of customers who cancel in a month. It tells you how well your service keeps people."
+          "text": "Monthly recurring revenue is the total you expect to bill each month. Churn is the share of customers who cancel in a month. Together they tell you whether the business is growing, shrinking or just running in place."
+        },
+        {
+          "type": "glasspanel",
+          "text": "A cleaning plan at $90 a month",
+          "detail": "31 customers",
+          "items": [
+            {
+              "title": "Monthly recurring revenue",
+              "text": "$2,790 — 31 × $90, before tax."
+            },
+            {
+              "title": "Churn",
+              "text": "6.5% — 2 of 31 cancelled this month."
+            },
+            {
+              "title": "Break-even",
+              "text": "10 customers — $900 of monthly fixed costs ÷ $90."
+            },
+            {
+              "title": "Customer lifetime value",
+              "text": "About $1,385 — $90 ÷ 6.5%, what an average customer is worth before they leave."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "At 6.5% churn you need about two new customers a month just to stay level. Cut churn in half and each customer is worth about twice as much, which makes keeping customers the cheapest growth you can buy."
+        },
+        {
+          "type": "spotlight",
+          "text": "Check your churn every month. If more than a few customers cancel, ask three of them why. Their answers show you what to fix, and they cost you nothing."
         },
         {
           "type": "paragraph",
           "text": "Recurring income still takes work. You deliver the service every month, so the plan must be priced to cover your time as well as your costs."
-        },
-        {
-          "type": "cards",
-          "items": [
-            {
-              "title": "MONTHLY RECURRING REVENUE",
-              "text": "31 customers × $90 a month = $2,790 you can expect to bill each month, before tax."
-            },
-            {
-              "title": "CHURN",
-              "text": "2 of 31 customers cancel this month. 2 ÷ 31 = about 6.5% churn."
-            },
-            {
-              "title": "WHY IT MATTERS",
-              "text": "At 6.5% a month, you need about two new customers every month just to stay level. Lower churn means less time spent chasing new sales."
-            }
-          ]
         }
       ]
     },
     {
       "id": "plan",
-      "title": "Designing a plan, and the rules that apply",
+      "title": "Design a Plan People Keep",
       "paragraphs": [],
       "blocks": [
         {
@@ -106,7 +129,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Advertise the price people will pay. In June 2024, Sirius XM agreed to pay a $3.3 million penalty to settle Competition Bureau concerns that a required fee made its plans cost 10% to 20% more than the advertised price. A fixed fee everyone must pay belongs in the price you advertise. Government taxes are the usual exception."
+          "text": "Put the terms where people can see them. State the price, the billing date, the renewal date and how to cancel, in plain words, before the customer pays. Email customers before each renewal, and make cancelling as easy as signing up."
         },
         {
           "type": "myths",
@@ -120,26 +143,6 @@
         {
           "type": "paragraph",
           "text": "Provincial consumer protection laws also cover renewals and cancelling, and the rules differ across Canada. Before you launch, read the guidance from your province’s consumer protection office. Quebec’s consumer law has special rules for contracts with ongoing service, so check them with care if you sell in Quebec or market to Quebecers."
-        },
-        {
-          "type": "spotlight",
-          "text": "Put the terms where people can see them. State the price, the billing date, the renewal date and how to cancel, in plain words, before the customer pays. Email customers before each renewal, and make cancelling as easy as signing up."
-        },
-        {
-          "type": "heading",
-          "text": "Sales tax and records"
-        },
-        {
-          "type": "paragraph",
-          "text": "Each billing is a taxable sale. Once you are registered for GST/HST, you charge tax on every payment and report it on your return. Keep a record of each customer, the start date, the price and every payment, because repeat billing creates many small records."
-        },
-        {
-          "type": "spotlight",
-          "text": "Prepaid money is a promise, not profit. When a customer pays for a year up front, you still owe them eleven months of work. Keep enough of it in reserve to deliver the rest of the plan, or to give back the unused part if you stop."
-        },
-        {
-          "type": "spotlight",
-          "text": "A chargeback costs more than a refund. If a customer can’t find a way to cancel, they may ask their card company to reverse the payment. A quick, polite refund for a renewal they didn’t want usually costs less than a dispute, and it protects your name."
         }
       ]
     },
@@ -166,13 +169,13 @@
           "type": "transition",
           "text": "Honest renewals build the kind of customers who stay by choice.",
           "detail": "Clear terms and easy cancelling cost you a few customers, and win you far more referrals and a name that sells for you.",
-          "extra": "Section 05 gives you a short launch plan for your own recurring offer."
+          "extra": "Section 05 shows how to bill, renew and handle prepaid money."
         }
       ]
     },
     {
-      "id": "launch",
-      "title": "Your launch plan",
+      "id": "bill",
+      "title": "Bill, Renew and Protect Trust",
       "paragraphs": [],
       "blocks": [
         {
@@ -206,7 +209,51 @@
         },
         {
           "type": "heading",
-          "text": "Notes by province, and for your taxes"
+          "text": "Advertise the price people pay"
+        },
+        {
+          "type": "paragraph",
+          "text": "In June 2024, Sirius XM agreed to pay a $3.3 million penalty to settle Competition Bureau concerns that a required fee made its plans cost 10% to 20% more than the advertised price. A fixed fee everyone must pay belongs in the price you advertise. Government taxes are the usual exception."
+        },
+        {
+          "type": "heading",
+          "text": "Treat prepaid money as a promise"
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "PREPAID YEARLY PLAN: $1,080",
+              "text": "",
+              "list": [
+                "January: you earn $90 of it",
+                "The other $990 is still owed in work",
+                "Keep enough in reserve to deliver or refund it"
+              ]
+            },
+            {
+              "title": "IF A CUSTOMER WANTS OUT",
+              "text": "",
+              "list": [
+                "Refund unused months quickly and politely",
+                "A disputed card charge costs you more than a refund",
+                "Note why they left, then fix it"
+              ],
+              "icon": "alert"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Prepaid money is a promise, not profit. When a customer pays for a year up front, you still owe them eleven months of work. Keep enough of it in reserve to deliver the rest of the plan, or to give back the unused part if you stop."
+        },
+        {
+          "type": "heading",
+          "text": "Sales tax and records"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each billing is a taxable sale. Once you are registered for GST/HST, you charge tax on every payment and report it on your return. Keep a record of each customer, the start date, the price and every payment, because repeat billing creates many small records."
         },
         {
           "type": "cards",
@@ -224,19 +271,6 @@
               "text": "Quebec’s consumer law and French-language rules apply to offers aimed at Quebecers."
             }
           ]
-        },
-        {
-          "type": "myths",
-          "items": [
-            {
-              "title": "“Recurring revenue means I no longer have to look for new customers.”",
-              "text": "Some customers always leave, because their needs change or they move. You still need a steady trickle of new customers to replace the ones who go."
-            }
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Insider tip: Check your churn every month. If more than a few customers cancel, ask three of them why. Their answers show you what to fix, and they cost you nothing."
         }
       ]
     },

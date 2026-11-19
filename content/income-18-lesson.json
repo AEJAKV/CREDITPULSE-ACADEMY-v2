@@ -1,6 +1,6 @@
 {
   "title": "Pricing Services",
-  "summary": "Add up what it takes → Test a price → Fair to both",
+  "summary": "Build your rate → Pick a pricing method → Quote it honestly → Raise it without drama",
   "subtitle": "Charge a price that pays your costs, your time, and your future.",
   "minutes": 30,
   "published": true,
@@ -15,19 +15,6 @@
           "text": "Pricing a service is harder than pricing a product, because your main ingredient is your own time. Many new owners guess at a number that feels polite, then wonder why they are worn out and still behind on bills. This lesson shows you how to build a price from real numbers and quote it honestly under Canadian rules."
         },
         {
-          "type": "transition",
-          "text": "Stop guessing, and build a price you can defend.",
-          "detail": "A short calculation shows the hourly rate your business needs, so you can quote with confidence instead of worry.",
-          "extra": "Section 03 walks through the calculation with a simple example."
-        }
-      ]
-    },
-    {
-      "id": "basics",
-      "title": "Start with the plain-language basics",
-      "paragraphs": [],
-      "blocks": [
-        {
           "type": "paragraph",
           "text": "A price has to cover three things at once. First, your business costs, such as tools, software, insurance and travel. Second, your own pay, which is why you started. Third, the time you cannot bill, like emails, quotes and the cleanup after a job."
         },
@@ -36,31 +23,81 @@
           "text": "Beginners often copy a competitor’s price or reuse the hourly wage from their old job. Neither one pays for the costs of running a business, your own taxes or the unpaid hours around every paid hour."
         },
         {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Being the cheapest is the safest way to win clients.”",
+              "text": "A rock-bottom price draws customers who care only about price, and it leaves you no room for mistakes. Many buyers also read a price that low as a sign of weak quality."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Stop guessing, and build a price you can defend.",
+          "detail": "A short calculation shows the hourly rate your business needs, so you can quote with confidence instead of worry.",
+          "extra": "Section 02 builds that rate from real numbers."
+        }
+      ]
+    },
+    {
+      "id": "rate",
+      "title": "Build Your Rate From Real Numbers",
+      "paragraphs": [],
+      "blocks": [
+        {
           "type": "paragraph",
-          "text": "A good price is also fair to the customer. It is easy to understand, matches the value of the work and holds no nasty surprises when the final bill arrives."
+          "text": "Start with the pay you want before tax, and add your yearly business costs. Then divide by the hours you can bill in a year. Most people bill far fewer hours than they work, because marketing, paperwork and travel take time too."
+        },
+        {
+          "type": "glasspanel",
+          "text": "The rate formula",
+          "detail": "One person, one year",
+          "items": [
+            {
+              "title": "Your pay goal",
+              "text": "$60,000 — before income tax and CPP."
+            },
+            {
+              "title": "Business costs",
+              "text": "+ $9,000 — tools, software, insurance, phone, travel and ads."
+            },
+            {
+              "title": "Billable hours",
+              "text": "÷ 1,000 — about 22 hours a week for 46 weeks."
+            },
+            {
+              "title": "Rate you need",
+              "text": "$69 an hour — and only $46 if you could bill 1,500 hours, which few solo owners manage."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Count the time off you won’t be paid for. No one pays a self-employed person for holidays or sick days. If you take six weeks off a year and bill about 22 hours in each of the other 46 weeks, that is roughly 1,000 billable hours. Your $60,000 is also before tax: as a sole proprietor you pay income tax and both halves of CPP out of it."
+        },
+        {
+          "type": "paragraph",
+          "text": "On $60,000 of net self-employment income, CPP alone is about $6,700, or 11.9% of earnings above $3,500. Quebec residents pay QPP instead. Income tax comes on top, so set aside a share of every payment from day one."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My old hourly wage is a fair rate for my business.”",
+              "text": "An employer paid for your tools, your benefits, half your CPP and your paid holidays. As a business owner you pay all of that yourself, so your rate has to be well above your old wage."
+            }
+          ]
         }
       ]
     },
     {
       "id": "methods",
-      "title": "Three ways to set a price",
+      "title": "Pick the Pricing Method That Fits the Job",
       "paragraphs": [],
       "blocks": [
         {
-          "type": "heading",
-          "text": "Method 1: Start from your hourly rate"
-        },
-        {
           "type": "paragraph",
-          "text": "Start with the pay you want before tax, and add your yearly business costs. Then divide that total by the hours you can bill in a year. Most people bill far fewer hours than they work, because marketing, paperwork and travel take time too."
-        },
-        {
-          "type": "paragraph",
-          "text": "Say you want $60,000 before tax, and your costs are $9,000. You need $69,000 in sales. If you can bill about 1,000 hours a year, your rate is $69 an hour. At 1,500 billable hours, the same goal needs only $46 an hour, but that is hard for a one-person business to reach."
-        },
-        {
-          "type": "spotlight",
-          "text": "Count the time off you won’t be paid for. No one pays a self-employed person for holidays or sick days. If you take six weeks off a year and bill about 22 hours in each of the other 46 weeks, that is roughly 1,000 billable hours. Your $60,000 is also before tax: as a sole proprietor you pay income tax and both halves of CPP out of it."
+          "text": "The hourly rate is your floor, not always the way you should charge. Choose the method that matches how the client thinks about the work."
         },
         {
           "type": "lists",
@@ -96,33 +133,28 @@
           "text": "Fixed prices reward your speed. When you quote a fixed price, you keep the gain as you get faster. Describe the job in writing first, including what is not included, so a small job does not slowly grow into a much bigger one."
         },
         {
-          "type": "myths",
+          "type": "heading",
+          "text": "Three add-ons worth setting now"
+        },
+        {
+          "type": "cards",
           "items": [
             {
-              "title": "“Being the cheapest is the safest way to win clients.”",
-              "text": "A rock-bottom price draws customers who care only about price, and it leaves you no room for mistakes. Many buyers also read a price that low as a sign of weak quality."
+              "title": "MINIMUM CHARGE",
+              "icon": "timer",
+              "text": "Set the smallest job you will take, such as two hours. A 20-minute fix across town can cost more in travel than it earns."
+            },
+            {
+              "title": "CALL-OUT OR TRAVEL FEE",
+              "icon": "car",
+              "text": "Cover driving and setup time. If every client must pay it, include it in the price you advertise."
+            },
+            {
+              "title": "RUSH OR AFTER-HOURS RATE",
+              "icon": "zap",
+              "text": "Charge more for evenings, weekends or next-day work. It protects your time and rewards clients who plan ahead."
             }
           ]
-        },
-        {
-          "type": "heading",
-          "text": "Quote honestly, including fees and tax"
-        },
-        {
-          "type": "paragraph",
-          "text": "The Competition Act bans price claims that mislead in a way that matters. Since June 23, 2022, advertising a price that leaves out a fixed fee everyone must pay counts as misleading. This is called drip pricing. The only exception is a charge the government sets, such as sales tax."
-        },
-        {
-          "type": "spotlight",
-          "text": "A required fee belongs in the price you quote. If every customer must pay a $15 call-out fee, include it in the price you advertise. In 2024, Sirius XM agreed to pay a $3.3 million penalty to settle concerns that a required fee raised its advertised monthly price by 10% to 20%."
-        },
-        {
-          "type": "paragraph",
-          "text": "If you are registered for GST/HST, add the tax on top of your fee and show it on its own line. Tell the client when you quote, so a $1,000 job in Ontario does not turn into $1,130 at the last minute. A short written quote also protects you if a disagreement comes up."
-        },
-        {
-          "type": "spotlight",
-          "text": "Put it in writing. A written quote should list what the job includes, the total price, the tax, your payment terms and how long the quote is good for. Ask for a deposit on larger jobs, so you are not paying for materials out of your own pocket."
         }
       ]
     },
@@ -149,41 +181,49 @@
           "type": "transition",
           "text": "A fair price is a kindness to your clients and to yourself.",
           "detail": "When your price covers your real costs, you can do careful work, stay in business and keep serving the people who value you.",
-          "extra": "Section 05 shows how to put your new price into practice."
+          "extra": "Section 05 shows how to quote your new price honestly."
         }
       ]
     },
     {
-      "id": "checklist",
-      "title": "Your pricing checklist",
+      "id": "quote",
+      "title": "Quote It Honestly",
       "paragraphs": [],
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Competition Act bans price claims that mislead in a way that matters. Since June 23, 2022, advertising a price that leaves out a fixed fee everyone must pay counts as misleading. This is called drip pricing. The only exception is a charge the government sets, such as sales tax."
+        },
+        {
+          "type": "spotlight",
+          "text": "A required fee belongs in the price you quote. If every customer must pay a $15 call-out fee, include it in the price you advertise. In 2024, Sirius XM agreed to pay a $3.3 million penalty to settle concerns that a required fee raised its advertised monthly price by 10% to 20%."
+        },
+        {
+          "type": "heading",
+          "text": "What every written quote includes"
+        },
         {
           "type": "ordered",
           "items": [
             {
-              "title": "Write down your income goal.",
-              "text": "Use the amount you want before tax."
+              "title": "What the job includes",
+              "text": "And, just as important, what it doesn’t."
             },
             {
-              "title": "Add your yearly business costs.",
-              "text": "Include tools, software, insurance, phone, travel, and advertising."
+              "title": "The total price",
+              "text": "With every required fee already in it."
             },
             {
-              "title": "Estimate your billable hours.",
-              "text": "Be honest about time off and the unpaid hours that come with every job."
+              "title": "Sales tax on its own line",
+              "text": "If you are registered, so a $1,000 job in Ontario shows $130 HST, not a surprise $1,130."
             },
             {
-              "title": "Divide to find your rate.",
-              "text": "Test it against what similar local businesses charge."
+              "title": "Payment terms and deposit",
+              "text": "Ask for a deposit on larger jobs, so you aren’t paying for materials out of your own pocket."
             },
             {
-              "title": "Quote in writing.",
-              "text": "Include every required fee, show tax on its own line and say how long the quote is good for."
-            },
-            {
-              "title": "Review every six months.",
-              "text": "Costs change and your skills grow, so your price should move too."
+              "title": "How long the quote is good for",
+              "text": "For example, 30 days, because your costs change."
             }
           ]
         },
@@ -227,6 +267,50 @@
         {
           "type": "paragraph",
           "text": "Rates and exemptions change, so confirm them before you file. If you are not registered yet, you do not charge tax until your taxable sales pass $30,000 over four calendar quarters, or in a single quarter."
+        }
+      ]
+    },
+    {
+      "id": "raise",
+      "title": "Raise Your Price Without Drama",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Costs rise and your skills grow, so review your price every six months. A small, regular increase is easier on everyone than a big jump after years of standing still."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Recheck the formula",
+              "text": "Update your pay goal, costs and billable hours."
+            },
+            {
+              "title": "Compare locally",
+              "text": "Test the new rate against what similar businesses charge."
+            },
+            {
+              "title": "Give notice",
+              "text": "Tell current clients at least a month ahead."
+            },
+            {
+              "title": "Thank loyal clients",
+              "text": "Think about keeping a long-time client’s old rate for a few months."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "A message you can adapt"
+        },
+        {
+          "type": "quote",
+          "text": "“Thank you for trusting me with your repairs this year. Starting March 1, my rate will be $55 an hour, plus a $15 call-out fee that is included in every quote. I’m grateful to keep working with you.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "A fair price needs no apology. Keep the message short and warm, and give the date and the new rate."
         },
         {
           "type": "myths",
@@ -236,10 +320,6 @@
               "text": "A small, regular increase is easier on everyone. Give clients notice, explain what changed, and think about keeping a loyal client’s old rate for a few months as a thank-you."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Insider tip: When you raise your price, send a short, warm message with the new rate, the start date and a line of thanks. A fair price needs no apology."
         }
       ]
     },

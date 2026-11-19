@@ -1,6 +1,6 @@
 {
   "title": "Social-Media Management",
-  "summary": "One client → Clear scope → Approved posts → Honest report",
+  "summary": "Price a pilot → Set up the client safely → Run a two-week batch → Report what is real",
   "subtitle": "Help a local business show up clearly without living on your phone.",
   "minutes": 30,
   "published": true,
@@ -15,6 +15,14 @@
           "text": "A shop owner can fix a bike and still run out of time to post before closing. Social-media management turns that unfinished task into a clear service you sell. Your phone can help you work, but it does not need to become your new boss."
         },
         {
+          "type": "paragraph",
+          "text": "A social-media manager helps a business plan and make posts, get them approved, publish them and handle agreed replies. The manager also reports what happened. A small agency can begin with one person serving one client well."
+        },
+        {
+          "type": "spotlight",
+          "text": "Your client keeps control of the business account and its promises to customers. Your job is to make good, true information easier to find."
+        },
+        {
           "type": "transition",
           "text": "Start with one clear offer.",
           "detail": "A small, written scope helps you finish good work and protect your time, even when the client has another great idea.",
@@ -24,85 +32,77 @@
     },
     {
       "id": "service",
-      "title": "Start with a service you can explain",
+      "title": "Price a Pilot You Can Deliver",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A social-media manager helps a business plan and make posts, get them approved, publish them and handle agreed replies. The manager also reports what happened. A small agency can begin with one person serving one client well."
+          "text": "Start with one local bike repair shop and one channel, rather than offering every platform. A useful first offer lists the number of posts, the rounds of changes, your reply hours and who approves each post. It also says what costs extra."
         },
         {
-          "type": "paragraph",
-          "text": "Your client keeps control of the business account and its promises to customers. Your job is to make good, true information easier to find. Start with one local bike repair shop and one channel, rather than offering every platform."
-        },
-        {
-          "type": "paragraph",
-          "text": "Agree on the work before you make content. A useful first offer lists the number of posts, how many rounds of changes, your reply hours and who approves each post. It also says what costs extra."
+          "type": "ledger",
+          "detail": "TWO-WEEK PILOT QUOTE",
+          "text": "Count every hour the pilot takes, multiply by the rate you need and add a buffer for back-and-forth. Then quote one flat price: $420 for a two-week, four-post pilot.",
+          "extra": "If the pilot runs long, the buffer absorbs it. If it runs short, the flat price rewards your speed.",
+          "items": [
+            {
+              "title": "Flat pilot price",
+              "amount": "$420",
+              "detail": "Total",
+              "text": "Would you be happy doing this work again for the same amount?"
+            },
+            {
+              "title": "Intake and planning, 2 h",
+              "amount": "$80",
+              "detail": "At $40/h",
+              "text": "Facts sheet, scope and calendar."
+            },
+            {
+              "title": "Writing four posts, 3 h",
+              "amount": "$120",
+              "detail": "At $40/h",
+              "text": "Drafts, captions and alt text."
+            },
+            {
+              "title": "Photos and editing, 1.5 h",
+              "amount": "$60",
+              "detail": "At $40/h",
+              "text": "Shot at the shop with staff approval."
+            },
+            {
+              "title": "Revisions and approval, 1 h",
+              "amount": "$40",
+              "detail": "At $40/h",
+              "text": "One round of changes."
+            },
+            {
+              "title": "Weekday reply checks, 2 h",
+              "amount": "$80",
+              "detail": "At $40/h",
+              "text": "Inside the agreed reply hours."
+            },
+            {
+              "title": "Buffer for back-and-forth",
+              "amount": "$40",
+              "detail": "About 10%",
+              "text": "Messages, a missed deadline, one extra call."
+            }
+          ]
         },
         {
           "type": "cards",
           "items": [
             {
-              "title": "PRICE THE PILOT",
-              "text": "Count your hours for planning, writing, photos, edits and replies. Multiply by the hourly rate you need, then add a buffer for back-and-forth. Quote one flat price for the pilot."
-            },
-            {
               "title": "PUT IT IN WRITING",
+              "icon": "receipt",
               "text": "Send a one-page agreement: posts and dates, rounds of changes, reply hours, who owns the files, how either side can end the work, and when you get paid."
             },
             {
               "title": "KEEP AD MONEY APART",
-              "text": "If the owner runs paid ads, the ad budget is theirs and gets billed to their card. Your fee is for your work only."
+              "icon": "wallet",
+              "text": "If the owner runs paid ads, the ad budget is theirs and gets billed to their card. Your fee is for your work only. A pilot doesn’t promise reach, bookings or sales."
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "workflow",
-      "title": "Build a client workflow that holds up",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Begin with a short intake form. Ask who the shop serves, which services it wants to explain and where customers already look for news. In our example, the owner picks its existing Facebook page, because customers ask about repair hours there."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Collect approved hours, service details, booking links and the shop’s tone of voice.",
-              "text": ""
-            },
-            {
-              "title": "Agree on four posts over two weeks, one revision round and weekday reply checks.",
-              "text": ""
-            },
-            {
-              "title": "Name one approver and set an approval deadline. Silence means the post waits.",
-              "text": ""
-            },
-            {
-              "title": "Write down the topics you can answer and the issues the owner must handle.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Keep one facts sheet with the date the owner last confirmed it. A price list from last spring may be a lovely piece of history and a poor guide to today’s prices."
-        },
-        {
-          "type": "paragraph",
-          "text": "Canada’s Cyber Centre says each person should get their own access, not a shared password. Ask for a page role that gives only the access you need, turn on two-step login, and leave account recovery with the owner."
-        },
-        {
-          "type": "paragraph",
-          "text": "Check that you may use the logo, photos, music and other content. Do not assume an image found online is free to reuse. The Privacy Commissioner says consent should explain why you collect, use or share someone’s personal information. Ask clearly before you feature a customer people can recognize."
-        },
-        {
-          "type": "spotlight",
-          "text": "Set reply limits in writing. Answer routine questions about hours with approved wording. Send refunds, repair safety concerns and complaints to the owner. Keep customer details out of public replies."
         },
         {
           "type": "myths",
@@ -112,10 +112,81 @@
               "text": "Reply hours are part of the agreement. A public note on response times tells customers when to expect a reply, and urgent issues follow a separate plan to reach the owner."
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "workflow",
+      "title": "Set Up the Client Safely",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Begin with a short intake form. Ask who the shop serves, which services it wants to explain and where customers already look for news. In our example, the owner picks its existing Facebook page, because customers ask about repair hours there."
+        },
+        {
+          "type": "filecards",
+          "text": "Your client setup file",
+          "image": "/images/income-business/03-gold/income-11/hero-image.webp",
+          "focus": 40,
+          "items": [
+            {
+              "title": "Facts sheet",
+              "text": "Approved hours, services, prices, booking links and the shop’s tone of voice, with the date the owner last confirmed them."
+            },
+            {
+              "title": "Scope",
+              "text": "Four posts over two weeks, one revision round and weekday reply checks."
+            },
+            {
+              "title": "Approver",
+              "text": "One named person and an approval deadline. Silence means the post waits."
+            },
+            {
+              "title": "Access",
+              "text": "Your own page role with only the access you need and two-step login. The owner keeps account recovery."
+            },
+            {
+              "title": "Rights",
+              "text": "Permission for the logo, photos and music, and clear consent before you feature a customer people can recognize."
+            },
+            {
+              "title": "Exit plan",
+              "text": "When the work ends, return the files and reports, and have the owner remove your role and tool access."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Keep one facts sheet with the date the owner last confirmed it. A price list from last spring may be a lovely piece of history and a poor guide to today’s prices."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "YOU ANSWER",
+              "text": "",
+              "list": [
+                "Routine questions about hours and booking",
+                "Where to find the price list",
+                "Thank-yous and simple follow-ups"
+              ]
+            },
+            {
+              "title": "SEND TO THE OWNER",
+              "text": "",
+              "list": [
+                "Refunds and complaints",
+                "Repair safety concerns",
+                "Anything that needs a customer’s private details"
+              ],
+              "icon": "alert"
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Keep a dated record of approvals and the posts that went live. When the work ends, return the agreed files and reports. Then have the owner remove your page role and your access to any scheduling tool."
+          "text": "Canada’s Cyber Centre says each person should get their own access, not a shared password. Keep customer details out of public replies, and keep a dated record of approvals and the posts that went live."
         }
       ]
     },
@@ -139,10 +210,6 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "This made-up trial shows what the process can teach. The caught promise and the customer questions point to fixes; neither predicts another client’s results."
-        },
-        {
           "type": "transition",
           "text": "Build trust through the process.",
           "detail": "A clear approval routine helps you catch mistakes early and gives the client a good reason to keep working with you.",
@@ -152,7 +219,7 @@
     },
     {
       "id": "batch",
-      "title": "Walk through a two-week content batch",
+      "title": "Run a Two-Week Batch",
       "paragraphs": [],
       "blocks": [
         {
@@ -160,27 +227,37 @@
           "text": "This sample trial is an example, not a required package. Prepare four posts: how to book, a service explained, a workbench photo staff approved, and a reminder of current hours. Give each post one purpose and a clear next step."
         },
         {
-          "type": "chips",
+          "type": "carousel",
           "items": [
             {
-              "title": "Make a batch sheet with the draft text, image, facts checked, approver, status and planned date.",
-              "text": ""
+              "title": "BUILD THE BATCH SHEET",
+              "text": "Draft text, image, facts checked, approver, status and planned date for all four posts. Check every image for customer details and permission.",
+              "detail": "DAY 1",
+              "icon": "list"
             },
             {
-              "title": "Check each image for customer details and permission to use it.",
-              "text": ""
+              "title": "SEND FOR APPROVAL",
+              "text": "Send the complete batch on Tuesday and ask for approval by Thursday.",
+              "detail": "DAY 2",
+              "icon": "filetext"
             },
             {
-              "title": "Send the complete batch on Tuesday; ask for approval by Thursday.",
-              "text": ""
+              "title": "REVISE ONCE",
+              "text": "Make one round of changes, record the approval and schedule only approved posts.",
+              "detail": "DAYS 4–5",
+              "icon": "filecheck"
             },
             {
-              "title": "Revise the batch once, record approval and schedule only approved items.",
-              "text": ""
+              "title": "CHECK REPLIES",
+              "text": "Check replies during the agreed weekday hours and log every issue you send to the owner.",
+              "detail": "DAYS 6–13",
+              "icon": "clock"
             },
             {
-              "title": "Check replies during the agreed weekday hours and log every issue sent to the owner.",
-              "text": ""
+              "title": "REPORT",
+              "text": "Send a one-page report from your log, with the dates and the limits of the data.",
+              "detail": "DAY 14",
+              "icon": "search"
             }
           ]
         },
@@ -189,12 +266,12 @@
           "text": "Use an approval queue with simple labels: Draft, Needs change, Approved and Posted. A post marked Needs change cannot jump to Posted just because its time slot is close."
         },
         {
-          "type": "paragraph",
-          "text": "Make the posts easy for everyone to use. W3C, the web standards group, advises adding alt text that says what an image shows. Describe the workbench scene where the platform allows it. For video, add captions, check any automatic captions, and put the key booking details in the post text too."
+          "type": "heading",
+          "text": "Make every post easy to use"
         },
         {
           "type": "paragraph",
-          "text": "Use clear lettering with strong contrast against the background. Read each post on a phone before you send it for review. A booking link should still make sense without anyone zooming in on a tiny graphic."
+          "text": "Add alt text that says what an image shows, and captions on video. Check automatic captions, and put the booking details in the post text too. Use strong contrast, and read each post on a phone before you send it for review."
         },
         {
           "type": "myths",
@@ -210,12 +287,35 @@
           "text": "The Competition Bureau says false or misleading promotions break the law. Check claims about prices and timing. Use only real reviews, with permission. Avoid fake followers, copying people’s contact details from other sites, and mass sales messages."
         },
         {
-          "type": "spotlight",
-          "text": "Keep paid ads separate. An ad budget the owner approves is not your fee, and a trial does not promise reach, bookings or sales."
+          "type": "heading",
+          "text": "Report what customers did"
         },
         {
-          "type": "spotlight",
-          "text": "Insider tip: Build a one-page monthly report from your log: posts delivered, clicks on the booking link, real customer questions, bookings the owner confirmed, and issues solved. Note the dates and the limits of the data. Follower growth alone does not show what customers did."
+          "type": "glasspanel",
+          "text": "Danielle’s two-week report",
+          "detail": "Real numbers, honest limits",
+          "items": [
+            {
+              "title": "Posts delivered",
+              "text": "4 of 4 — all approved before they went live."
+            },
+            {
+              "title": "Booking-link clicks",
+              "text": "37 — from the platform’s own insights."
+            },
+            {
+              "title": "Real customer questions",
+              "text": "3 — all about how to book a repair."
+            },
+            {
+              "title": "Bookings confirmed",
+              "text": "1 — confirmed by the owner, not assumed."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Follower growth alone doesn’t show what customers did. Report the numbers on their own, and never claim every question became a sale."
         }
       ]
     },
@@ -393,12 +493,12 @@
       "What next step will you take, and when?"
     ],
     "samples": [
-      "Write one question, such as how to book a repair.",
-      "For example: the owner, every Thursday by noon.",
-      "For example: refunds, safety concerns and complaints.",
-      "For example: my own page role with two-step login, never a shared password.",
-      "For example: booking-link clicks, real customer questions and bookings the owner confirmed.",
-      "Name one step and a date, such as writing a four-post scope by Friday."
+      "How do I book a repair, and what can I drop off on Saturday?",
+      "The owner, every Thursday by noon.",
+      "Refunds, safety concerns and complaints.",
+      "My own page role with two-step login, never a shared password.",
+      "Booking-link clicks, real customer questions and bookings the owner confirmed.",
+      "Write a four-post scope for the bike shop by Friday."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

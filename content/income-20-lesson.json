@@ -1,6 +1,6 @@
 {
   "title": "Moving From Side Hustle to Business",
-  "summary": "Side hustle → Steady growth → A real business",
+  "summary": "Check you are ready → Choose a structure → Register and protect → Plan for growth taxes",
   "subtitle": "Make the jump from side income to a business you can stand behind.",
   "minutes": 30,
   "published": true,
@@ -15,35 +15,91 @@
           "text": "A side hustle becomes a business when it earns steadily, serves real customers and starts to need real structure. That moment can feel exciting and a little terrifying, like being handed the keys to a bus. This lesson puts the legal and tax steps in a sensible order, so growing up does not mean growing scared."
         },
         {
-          "type": "transition",
-          "text": "Take each step in order, and the jump feels like a staircase instead of a cliff.",
-          "detail": "A clear order of small legal and money decisions lets you grow with confidence, and keeps your savings and your sleep safe.",
-          "extra": "Section 03 compares the main business structures side by side."
-        }
-      ]
-    },
-    {
-      "id": "basics",
-      "title": "Start with the plain-language basics",
-      "paragraphs": [],
-      "blocks": [
-        {
           "type": "paragraph",
           "text": "To the CRA, you are already a business, even if your income is small. Self-employed income goes on Form T2125 with your personal return, whether you earn $500 or $50,000. What turns a hustle into a business is mostly how seriously you run it."
         },
         {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I have to quit my job before I can call myself a business.”",
+              "text": "You can run a real business on the side, with a business number, proper records and registered accounts. Many people do that for years."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Take each step in order, and the jump feels like a staircase instead of a cliff.",
+          "detail": "A clear order of small legal and money decisions lets you grow with confidence, and keeps your savings and your sleep safe.",
+          "extra": "Section 02 checks whether you are ready to grow."
+        }
+      ]
+    },
+    {
+      "id": "ready",
+      "title": "Check You Are Ready to Grow",
+      "paragraphs": [],
+      "blocks": [
+        {
           "type": "paragraph",
-          "text": "A good sign you are ready to grow is repeat demand: customers keep coming back or sending friends. Another sign is that the work is eating into your sleep. A third is that you keep turning down jobs you would love to take."
+          "text": "Growing doesn’t mean quitting your day job tomorrow. Many owners spend a year or two building steady income on the side while they put the right structure in place. Look for three signs first."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "REPEAT DEMAND",
+              "icon": "activity",
+              "text": "Customers keep coming back or sending friends, without you chasing them."
+            },
+            {
+              "title": "A WAITING LIST",
+              "icon": "calendar",
+              "text": "You keep turning down jobs you would love to take."
+            },
+            {
+              "title": "LOST SLEEP",
+              "icon": "timer",
+              "text": "The work is eating into your evenings and weekends, and something has to give."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Before you cut your hours"
+        },
+        {
+          "type": "glasspanel",
+          "text": "Your safety net, rebuilt",
+          "detail": "What a paycheque used to cover",
+          "items": [
+            {
+              "title": "Cash cushion",
+              "text": "3 to 6 months — of household costs, because self-employed income comes in waves."
+            },
+            {
+              "title": "Health and dental",
+              "text": "Your cost now — workplace benefits end with the job, so price a personal plan."
+            },
+            {
+              "title": "EI special benefits",
+              "text": "12-month wait — self-employed people can opt in for sickness and parental benefits, then wait a year to claim."
+            },
+            {
+              "title": "EI earnings test",
+              "text": "$9,254 — net self-employment earnings in 2025 needed to claim in 2026. The amount changes each year."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Growing does not mean quitting your day job tomorrow. Many owners spend a year or two building steady income on the side while they put the right structure in place."
+          "text": "No one takes tax off your business income anymore. Move a share of every payment into a separate tax account from the first month."
         }
       ]
     },
     {
       "id": "structure",
-      "title": "Choosing a structure",
+      "title": "Choose a Structure",
       "paragraphs": [],
       "blocks": [
         {
@@ -82,68 +138,42 @@
           "text": "Neither structure wins every time. A corporation can offer protection and tax planning choices, but it also brings extra costs and rules. Talk to an accountant and a lawyer about your own numbers before you decide. This lesson explains the choices. It does not pick one for you."
         },
         {
+          "type": "heading",
+          "text": "How a small corporation is taxed"
+        },
+        {
+          "type": "glasspanel",
+          "text": "Inside a corporation",
+          "detail": "Canadian-controlled private corporation",
+          "items": [
+            {
+              "title": "Federal small business rate",
+              "text": "9% — on the first $500,000 of active business income, plus a provincial rate."
+            },
+            {
+              "title": "Its own return",
+              "text": "T2 — due within six months of the corporation’s year-end."
+            },
+            {
+              "title": "Paying yourself",
+              "text": "Salary or dividends — you pay personal tax when money comes out of the company."
+            },
+            {
+              "title": "Extra cost",
+              "text": "Every year — separate books, an annual return and usually an accountant’s fee."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Lower tax inside a corporation mostly helps when you can leave profit in the company. If you need every dollar to live on, the savings can be small. That is why the choice needs your real numbers."
+        },
+        {
           "type": "myths",
           "items": [
             {
               "title": "“Incorporating means I never have to worry about debts or lawsuits.”",
               "text": "A lender may ask you to personally guarantee a loan. Directors can also be personally liable if the company fails to send in certain amounts it owes, such as payroll deductions. Insurance and good contracts still matter."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Register and get your numbers"
-        },
-        {
-          "type": "paragraph",
-          "text": "Most businesses must register with the province or territory where they operate, though a sole proprietor using their own name may not need to. In British Columbia, Manitoba, Nova Scotia, Ontario and Saskatchewan, you get a federal business number when you register with the province. Elsewhere, you apply to the CRA for one."
-        },
-        {
-          "type": "paragraph",
-          "text": "A business number is a nine-digit ID. You link tax accounts to it, such as a GST/HST account, when you need them. Check which permits and licences your city, province and industry require. The free BizPaL tool can list them for you."
-        },
-        {
-          "type": "spotlight",
-          "text": "Regulated trades need more than a business number. Electricians, plumbers, gas fitters and some other trades need a licence and often a permit for each job before they work for the public. In B.C., for example, Technical Safety BC requires a licence to be hired for electrical work and a permit for every EV charger install."
-        },
-        {
-          "type": "spotlight",
-          "text": "Keep your business money separate. A separate bank account makes your records cleaner, your return simpler and your story easier to tell if the CRA, a lender or a landlord ever asks."
-        },
-        {
-          "type": "heading",
-          "text": "Plan for the taxes that come with growth"
-        },
-        {
-          "type": "paragraph",
-          "text": "As your profit grows, you may have to pay income tax in instalments during the year instead of one lump sum when you file. For 2026, the CRA says you must pay instalments if your net tax owing is more than $3,000 ($1,800 in Quebec) and it was also above that in 2025 or 2024. Your instalments also cover the CPP you owe on your own earnings."
-        },
-        {
-          "type": "spotlight",
-          "text": "Self-employed people pay both halves of CPP. Once your net self-employment income passes $3,500 in a year, you pay Canada Pension Plan contributions on it, covering both the worker and employer shares. Quebec residents pay into the Quebec Pension Plan instead."
-        },
-        {
-          "type": "heading",
-          "text": "Before you cut your hours"
-        },
-        {
-          "type": "cards",
-          "items": [
-            {
-              "title": "A CASH CUSHION",
-              "text": "Save three to six months of household costs before you leave a steady paycheque. Self-employed income comes in waves."
-            },
-            {
-              "title": "HEALTH AND DENTAL",
-              "text": "Your job’s benefits plan ends when the job does. Price a personal health and dental plan and add it to your costs."
-            },
-            {
-              "title": "EI SPECIAL BENEFITS",
-              "text": "Self-employed people can sign up for EI special benefits, such as sickness and parental leave. You pay premiums, and you must wait 12 months after signing up before you can claim."
-            },
-            {
-              "title": "NO MORE PAYROLL TAX",
-              "text": "No one takes tax off your business income. Move a share of every payment into a tax account, and plan for instalments."
             }
           ]
         }
@@ -172,43 +202,59 @@
           "type": "transition",
           "text": "Slow is smooth, and smooth is fast.",
           "detail": "A planned structure, the right paperwork and an honest review date protect your income and make you look as professional as you are.",
-          "extra": "Section 05 gives you a step-by-step plan for your own move."
+          "extra": "Section 05 walks through registering and protecting the business."
         }
       ]
     },
     {
-      "id": "transition-plan",
-      "title": "Your transition plan",
+      "id": "register",
+      "title": "Register, Licence and Protect",
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
+          "type": "paragraph",
+          "text": "Do these in order. Each one makes the next easier, and together they make you look as professional as you already are."
+        },
+        {
+          "type": "carousel",
+          "text": "Five steps to a real business",
+          "detail": "IN THIS ORDER",
           "items": [
             {
-              "title": "Check your readiness.",
-              "text": "Look for repeat customers, steady income and more demand than free time."
+              "title": "REGISTER",
+              "text": "Most businesses register with their province or territory, though a sole proprietor using their own name may not need to. Quebec uses the Registraire des entreprises.",
+              "detail": "NUMBER 1",
+              "icon": "filetext"
             },
             {
-              "title": "Choose a structure with advice.",
-              "text": "Compare the options with an accountant and a lawyer who can see your real numbers."
+              "title": "BUSINESS NUMBER",
+              "text": "A nine-digit CRA ID. In British Columbia, Manitoba, Nova Scotia, Ontario and Saskatchewan you get it when you register with the province. Elsewhere, apply to the CRA.",
+              "detail": "NUMBER 2",
+              "icon": "bank"
             },
             {
-              "title": "Register and get your numbers.",
-              "text": "Register with your province, get a business number, add tax accounts as you need them, and get any licence your trade requires."
+              "title": "LICENCES AND PERMITS",
+              "text": "Check what your city, province and industry require. The free BizPaL tool lists them for your location.",
+              "detail": "NUMBER 3",
+              "icon": "search"
             },
             {
-              "title": "Protect the business.",
-              "text": "Open a business bank account, and ask an insurance broker about liability coverage for your type of work."
+              "title": "BUSINESS BANK ACCOUNT",
+              "text": "Separate money makes your records cleaner, your return simpler and your case stronger if the CRA, a lender or a landlord asks.",
+              "detail": "NUMBER 4",
+              "icon": "dollar"
             },
             {
-              "title": "Plan for tax.",
-              "text": "Set money aside for income tax, CPP and GST/HST, and check whether you must pay instalments."
-            },
-            {
-              "title": "Set a review date.",
-              "text": "Decide ahead of time what profit or risk would make you look at your structure again."
+              "title": "INSURANCE",
+              "text": "Ask a broker about liability coverage for your type of work. Contracts and insurance still matter, even inside a corporation.",
+              "detail": "NUMBER 5",
+              "icon": "lock"
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Regulated trades need more than a business number. Electricians, plumbers, gas fitters and some other trades need a licence and often a permit for each job before they work for the public. In B.C., for example, Technical Safety BC requires a licence to be hired for electrical work and a permit for every EV charger install."
         },
         {
           "type": "heading",
@@ -230,19 +276,44 @@
               "text": "You must register once your taxable sales pass $30,000 over four calendar quarters, or in a single quarter."
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "growth-tax",
+      "title": "Plan for the Taxes That Come With Growth",
+      "paragraphs": [],
+      "blocks": [
         {
-          "type": "myths",
+          "type": "glasspanel",
+          "text": "As your profit grows",
+          "detail": "Sole proprietor, 2026",
           "items": [
             {
-              "title": "“I have to quit my job before I can call myself a business.”",
-              "text": "You can run a real business on the side, with a business number, proper records and registered accounts. Many people do that for years."
+              "title": "Instalments",
+              "text": "$3,000 — net tax owing ($1,800 in Quebec) in 2026 and in 2025 or 2024 means quarterly payments."
+            },
+            {
+              "title": "CPP",
+              "text": "11.9% — both halves, on net earnings above $3,500. Quebec residents pay QPP."
+            },
+            {
+              "title": "GST/HST",
+              "text": "$30,000 — register once taxable sales pass this in one quarter or over four quarters."
+            },
+            {
+              "title": "Review trigger",
+              "text": "Your number — a profit or client count that tells you to revisit your structure."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Write down your review trigger today, such as a profit amount or a number of clients. It gives you a calm, planned reason to look at your structure again, instead of a stressful one."
+          "text": "Your instalments also cover the CPP you owe on your own earnings. Set aside for both from every payment, so the quarterly reminder is a transfer, not a panic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Write your review trigger down today. It gives you a calm, planned reason to look at your structure again, instead of a stressful one. Then book a meeting with an accountant before you reach it."
         }
       ]
     },

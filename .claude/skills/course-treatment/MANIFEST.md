@@ -247,18 +247,18 @@ The corrupted `ordered` lists in income-01 to 04 were rebuilt from each lesson's
 | income-06 | Digital Products | rebuilt 2026-11-19 (Starter/Silver distinct structure; spotlights capped at 5, max 1 per section; format tiles, $14 sale fee ledger, rights panels, refund-policy spotlight) | 7.98 → 6.98 | 5.87 → 5.83 |
 | income-07 | Affiliate Marketing | rebuilt 2026-11-19 (Starter/Silver distinct structure; spotlights capped at 5, max 1 per section; program-terms glass panel, real vs fake boost-job panels, payout waterfall) | 7.93 → 7.72 | 5.41 → 5.41 |
 | income-08 | Print on Demand | rebuilt 2026-11-19 (Starter/Silver distinct structure; spotlights capped at 5, max 1 per section; one-tote margin ledger, ship-from glass panel, font licence note) | 6.69 → 6.48 | 4.73 → 4.71 |
-| income-09 | Ecommerce | done 2026-10-30 (Quebec French-language and platform spotlights) | 7.13 → 7.14 | 4.68 → 4.68 |
-| income-10 | AI-Assisted Businesses | done 2026-10-30 (tool terms (ownership, training); GST card corrected) | 8.33 → 6.96 | 4.06 → 4.06 |
-| income-11 | Social-Media Management | done 2026-10-30 (pilot pricing and written-agreement cards) | 9.06 → 6.43 | 8.01 → 5.68 |
+| income-09 | Ecommerce | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Gold: stocking-method glass panel, one-order cost ledger, valid vs invalid consent panels) | 7.13 → 6.90 | 4.68 → 4.68 |
+| income-10 | AI-Assisted Businesses | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Gold: draft-decide-check split, ownership/terms/privacy/claims tiles, never-promise panels; concrete form samples) | 8.33 → 6.76 | 4.06 → 4.06 |
+| income-11 | Social-Media Management | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Gold: pilot quote ledger, client setup file cards with hero image, answer vs escalate panels, 14-day batch day carousel, honest report panel) | 9.06 → 6.12 | 8.01 → 5.68 |
 | income-12 | Local Lead Generation | done 2026-10-30 (pay models and tax cards; CASL published-address conditions) | 8.32 → 6.24 | 7.47 → 5.53 |
 | income-13 | Starting a Small Corporation | done 2026-10-30 (federal fees and deadlines cards ($200 filing, annual return, T2 and balance-due dates)) | 10.24 → 7.89 | 8.37 → 6.17 |
 | income-14 | Sole Proprietor Versus Corporation | done 2026-10-30 (side-by-side cards: tax on profit, CPP, early losses, upkeep) | 8.84 → 7.30 | 8.16 → 5.50 |
 | income-15 | Canadian Business Registration | done 2026-10-30 (sales tax layer cards; Ontario $60 five-year name registration) | 9.94 → 7.50 | 8.44 → 5.95 |
 | income-16 | Basic Bookkeeping | done 2026-10-30 (owner draws and home office cards; cloud backup note) | 7.85 → 6.12 | 4.64 → 4.64 |
 | income-17 | GST/HST | done 2026-10-30 (HST rate card; story ITC timing corrected) | 6.62 → 5.73 | 5.27 → 4.40 |
-| income-18 | Pricing Services | done 2026-10-30 (unpaid time off and CPP spotlight; deposits) | 6.50 → 5.44 | 5.35 → 4.60 |
-| income-19 | Building Recurring Revenue | done 2026-10-30 (MRR and churn worked example; prepaid reserve) | 8.27 → 7.06 | 5.80 → 4.96 |
-| income-20 | Moving From Side Hustle to Business | done 2026-10-30 (trade licence spotlight (Technical Safety BC); before-you-cut-hours cards) | 8.06 → 7.19 | 5.61 → 6.09 |
+| income-18 | Pricing Services | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Elite: rate formula glass panel, CPP on $60,000, add-on fee tiles, written-quote steps, price-increase message quote) | 6.50 → 5.25 | 5.35 → 4.60 |
+| income-19 | Building Recurring Revenue | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Elite: MRR/churn/break-even/lifetime value panel, prepaid-money panels, Sirius XM June 2024 penalty) | 8.27 → 7.17 | 5.80 → 4.96 |
+| income-20 | Moving From Side Hustle to Business | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Elite: readiness tiles, safety-net panel (EI 12-month wait, $9,254 2025 earnings test), corporation tax panel (9% on first $500,000, T2), five-step number carousel, growth-tax panel) | 8.06 → 6.93 | 5.61 → 6.09 |
 
 ## v2 tax-wealth rollout (`content/tax-NN-lesson.json`)
 

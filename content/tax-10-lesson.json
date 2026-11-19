@@ -133,6 +133,21 @@
         {
           "type": "spotlight",
           "text": "RRIF withdrawals count as income, and that matters beyond the tax bill. Old Age Security starts getting clawed back once your net income passes a threshold: $95,323 for 2026. You repay 15% of every dollar above that line. Large RRIF withdrawals, stacked on CPP and any pension, can push a retiree over it. The frustrating part is that the withdrawal wasn’t optional. The minimum is required, and the percentage climbs every year whether or not you need the money. That’s why many Canadians plan their drawdown well before 71, taking money out of an RRSP in lower-income early retirement years, when the tax cost is smaller, to shrink the balance that will later force bigger withdrawals."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Big RRIF withdrawals can quietly trigger an OAS clawback.",
+              "text": "Big RRIF withdrawals can quietly trigger an OAS clawback.",
+              "image": "/images/tax-wealth/03-gold/tax-10/tax10-image-1.webp"
+            },
+            {
+              "title": "Plan the withdrawals early, before the rules force your hand.",
+              "text": "Plan the withdrawals early, before the rules force your hand.",
+              "image": "/images/tax-wealth/03-gold/tax-10/tax10-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -214,6 +229,8 @@
           "text": "Bernard’s early start",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/03-gold/tax-10/tax10-image-3.webp",
+          "focus": 25,
           "paragraphs": [
             "Bernard retired from his job as a high school shop teacher in Sudbury at sixty-three. He had a healthy RRSP, a teacher’s pension and no need to touch his savings. His plan was simple: leave the RRSP alone and let it grow until the rules forced him to act at seventy-one.",
             "His daughter, an accountant, asked to see the numbers over Thanksgiving dinner. Between sixty-three and seventy, she pointed out, his income would be at its lowest: no salary, CPP and OAS not started yet. Those were the cheapest years he would ever have to take money out of an RRSP.",

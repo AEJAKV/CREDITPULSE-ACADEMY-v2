@@ -46,6 +46,21 @@
         {
           "type": "spotlight",
           "text": "An emergency fund raises your capacity. With three to six months of costs set aside in cash, a job loss or a big repair doesn’t force you to sell investments while they’re down. That cushion is what lets the rest of your money ride out a bad year."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Same age, same income, and still different nerves in a bad year.",
+              "text": "Same age, same income, and still different nerves in a bad year.",
+              "image": "/images/tax-wealth/04-platinum/tax-14/tax14-image-1.webp"
+            },
+            {
+              "title": "Pick a mix gentle enough that you’d hold it through a drop.",
+              "text": "Pick a mix gentle enough that you’d hold it through a drop.",
+              "image": "/images/tax-wealth/04-platinum/tax-14/tax14-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -206,6 +221,8 @@
           "text": "Two portfolios, one bad year",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/04-platinum/tax-14/tax14-image-3.webp",
+          "focus": 52,
           "paragraphs": [
             "Amara and Josh were siblings in their late twenties, both working in Halifax and both saving for a retirement decades away. They used the same online planning tool, answered its questions about age and income, and got the same suggestion: about 90% stocks.",
             "Then the market had a rough year, and their accounts fell about 25%. Amara barely noticed. She checked twice, shrugged and kept adding money every month, just as before.",

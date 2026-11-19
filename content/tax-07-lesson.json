@@ -87,6 +87,21 @@
         {
           "type": "spotlight",
           "text": "What makes a withdrawal qualify. You need a written agreement to buy or build a home in Canada before October 1 of the year after you withdraw, and you must plan to live in it as your main home within a year of buying it. Your bank will ask you to fill out a form (RC725) that confirms these points."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A qualifying withdrawal needs a written home agreement first.",
+              "text": "A qualifying withdrawal needs a written home agreement first.",
+              "image": "/images/tax-wealth/02-silver/tax-07/tax07-image-1.webp"
+            },
+            {
+              "title": "Open the account early, because the room doesn’t build without it.",
+              "text": "Open the account early, because the room doesn’t build without it.",
+              "image": "/images/tax-wealth/02-silver/tax-07/tax07-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -210,6 +225,8 @@
           "text": "Jamal’s four hundred dollars",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/02-silver/tax-07/tax07-image-3.webp",
+          "focus": 49,
           "paragraphs": [
             "Jamal was twenty-six, renting a basement suite in Surrey, and years away from affording a home in the Lower Mainland. Opening a home-buying account felt silly, like planning a wedding before meeting anyone.",
             "Over coffee, a coworker named Lin mentioned that she had opened an FHSA with $100. “The point isn’t being ready to buy,” she said. “The point is having the room waiting for when you are.”",

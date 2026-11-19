@@ -82,6 +82,21 @@
           "text": "Give every transaction a reference number that never changes. Put the same number on the source document and the bookkeeping entry. Searching then becomes a straight path instead of a scavenger hunt designed by your past self."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A bank statement alone can’t explain a transaction.",
+              "text": "A bank statement alone can’t explain a transaction.",
+              "image": "/images/tax-wealth/06-elite/tax-20/tax20-image-1.webp"
+            },
+            {
+              "title": "Give every transaction one reference number, from receipt to return.",
+              "text": "Give every transaction one reference number, from receipt to return.",
+              "image": "/images/tax-wealth/06-elite/tax-20/tax20-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "Records have to explain the amount"
         },
@@ -180,6 +195,8 @@
           "text": "Noelle rescues the missing quarter",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/06-elite/tax-20/tax20-image-3.webp",
+          "focus": 22,
           "paragraphs": [
             "Noelle ran a small wedding-flower business in Fredericton. Customers paid her by invoice, e-transfer, card and through an online marketplace. She kept paper receipts in envelopes and trusted that her bank feed had caught everything else.",
             "One fall, the CRA sent a letter asking her to back up her spring GST/HST return. Noelle opened her books and frowned. The marketplace deposits in her bank were lower than the sales on the marketplace’s own reports. Had she been underreporting sales?",
@@ -211,19 +228,23 @@
           "items": [
             {
               "title": "INCOME TAX & FINANCIAL RECORDS",
-              "text": "Keep proof of sales and costs. Keep your ledgers, bank and card statements, loans and contracts. Keep year-end notes, tax working papers, filed returns, notices of assessment, instalment proof and CRA letters. Property needs extra care. Keep the papers for buying, selling and fixing it up until long after you sell it."
+              "text": "Keep proof of sales and costs. Keep your ledgers, bank and card statements, loans and contracts. Keep year-end notes, tax working papers, filed returns, notices of assessment, instalment proof and CRA letters. Property needs extra care. Keep the papers for buying, selling and fixing it up until long after you sell it.",
+              "icon": "bank"
             },
             {
               "title": "GST/HST RECORDS",
-              "text": "Keep sales and purchase bills and the tax charged. Keep proof of where each sale was made and why any sale had no tax. Keep credit notes, ITC math, working papers, filed returns, payment proof and CRA letters. Keep the working copy behind a return you filed online too."
+              "text": "Keep sales and purchase bills and the tax charged. Keep proof of where each sale was made and why any sale had no tax. Keep credit notes, ITC math, working papers, filed returns, payment proof and CRA letters. Keep the working copy behind a return you filed online too.",
+              "icon": "receipt"
             },
             {
               "title": "PAYROLL RECORDS",
-              "text": "Employee identity, hours, pay, taxable benefits, CPP or QPP, EI, tax withheld, employer contributions, remittances, TD1 forms, tax slips, returns and authorization letters. This information is sensitive. A shared folder called “everyone can edit” isn’t a control. It’s an invitation written in cheerful software."
+              "text": "Employee identity, hours, pay, taxable benefits, CPP or QPP, EI, tax withheld, employer contributions, remittances, TD1 forms, tax slips, returns and authorization letters. This information is sensitive. A shared folder called “everyone can edit” isn’t a control. It’s an invitation written in cheerful software.",
+              "icon": "briefcase"
             },
             {
               "title": "VEHICLES & MIXED-USE ASSETS",
-              "text": "Trip dates, destinations, reasons, business and total kilometres, running costs and odometer readings, plus purchase, lease, loan and sale papers. For home offices, phones, internet and other mixed-use items, keep the bill and the method you used to work out business use. Use it the same way each year, and write it down when it changes."
+              "text": "Trip dates, destinations, reasons, business and total kilometres, running costs and odometer readings, plus purchase, lease, loan and sale papers. For home offices, phones, internet and other mixed-use items, keep the bill and the method you used to work out business use. Use it the same way each year, and write it down when it changes.",
+              "icon": "car"
             }
           ]
         },

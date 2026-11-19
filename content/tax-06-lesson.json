@@ -63,6 +63,21 @@
         {
           "type": "spotlight",
           "text": "Taking money out early costs twice. Your bank holds back tax on the spot: 10% on withdrawals up to $5,000, 20% from $5,000 to $15,000, and 30% above that (rates differ in Quebec). The full amount is then added to your income at tax time, so you may owe more. And the room you used is gone for good. Unlike a TFSA, an RRSP doesn’t give withdrawn room back."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Taking money out early costs you twice.",
+              "text": "Taking money out early costs you twice.",
+              "image": "/images/tax-wealth/02-silver/tax-06/tax06-image-1.webp"
+            },
+            {
+              "title": "Contribute in the first 60 days, and you still get a choice.",
+              "text": "Contribute in the first 60 days, and you still get a choice.",
+              "image": "/images/tax-wealth/02-silver/tax-06/tax06-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -205,6 +220,8 @@
           "text": "Priya’s two decisions",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/02-silver/tax-06/tax06-image-3.webp",
+          "focus": 25,
           "paragraphs": [
             "Priya started her first job in Toronto at twenty-two, earning $42,000. Her uncle, who loved giving advice at family dinners, told her to pour everything into her RRSP right away. The earlier, the better, he said.",
             "She put in $3,000 that first year. When she filed her return, the refund was smaller than she had hoped. Her income sat on the bottom shelf, so each dollar she contributed only saved her the lowest rate of tax.",

@@ -63,6 +63,21 @@
           "text": "At a shared desk, take a minute to learn the controls before you start. A setting that suited the last person may not suit you, and a label like “ergonomic” doesn’t remove the need to adjust it."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The last person’s desk settings may not suit you.",
+              "text": "The last person’s desk settings may not suit you.",
+              "image": "/images/health-fitness/05-diamond/health-23/health23-image-1.webp"
+            },
+            {
+              "title": "Learn the controls first, then build movement into the work.",
+              "text": "Learn the controls first, then build movement into the work.",
+              "image": "/images/health-fitness/05-diamond/health-23/health23-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "Bring the task closer"
         },
@@ -103,6 +118,8 @@
           "text": "The payroll deadline",
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
+          "image": "/images/health-fitness/05-diamond/health-23/health23-image-3.webp",
+          "focus": 32,
           "paragraphs": [
             "Nadia worked as a payroll clerk in Calgary and wanted to finish Friday’s pay run without taking a pile of corrections home. She had a careful checklist and a calendar full of short calls. By Wednesday afternoon, her shoulders ached from hours of checking entries on two screens.",
             "At first she blamed the busiest week of the month. Then a teammate borrowed her desk and asked why the payroll screen was way off to the left. Months ago, Nadia had moved it to make room for a paper tray, and she had stopped noticing how often she turned toward it.",

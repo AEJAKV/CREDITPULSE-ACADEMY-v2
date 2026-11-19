@@ -96,6 +96,21 @@
           "text": "The six-year rule. The CRA says you must keep your records and the papers behind them for six years from the end of the last tax year they relate to. For a person, the tax year is the calendar year. If you file late, the six years count from the date you file."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A boot box of receipts is not a bookkeeping system.",
+              "text": "A boot box of receipts is not a bookkeeping system.",
+              "image": "/images/income-business/05-diamond/income-16/income16-image-1.webp"
+            },
+            {
+              "title": "Keep records for six years, and ask for full receipts.",
+              "text": "Keep records for six years, and ask for full receipts.",
+              "image": "/images/income-business/05-diamond/income-16/income16-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Keep your records at your place of business or your home in Canada. Records stored only outside Canada do not count as kept in Canada, even if you can open them from here. Electronic records are fine, as long as you keep a backup. If you use a cloud app, export a copy every month to a drive you keep at home."
         },
@@ -136,6 +151,8 @@
           "text": "The Shoebox",
           "detail": "STORY",
           "extra": "",
+          "image": "/images/income-business/05-diamond/income-16/income16-image-3.webp",
+          "focus": 55,
           "paragraphs": [
             "Amara Okafor ran a mobile dog-grooming van in Halifax, and she kept her receipts in an old boot box. Her goal was clear. She wanted to replace the van’s failing water pump before winter, because a van that cannot heat water cannot wash dogs.",
             "Business was good that year, and Amara earned about $41,000. The box was getting heavier every month, but she told herself that she would sort it out in March.",

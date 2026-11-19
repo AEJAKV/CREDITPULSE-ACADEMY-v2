@@ -82,6 +82,21 @@
           "text": "An approved disability benefit, Pain and Suffering Compensation or a Disability Pension, is more than a payment. It can unlock the Treatment Benefits Program and the health care card for that condition: hearing aids, physiotherapy and prescriptions."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Approved disability benefits can unlock more than a monthly payment.",
+              "text": "Approved disability benefits can unlock more than a monthly payment.",
+              "image": "/images/benefits-support/05-diamond/benefits-21/benefits21-image-1.webp"
+            },
+            {
+              "title": "Apply early, then check how it fits your taxes and benefits.",
+              "text": "Apply early, then check how it fits your taxes and benefits.",
+              "image": "/images/benefits-support/05-diamond/benefits-21/benefits21-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Plain English: sequence beats speed. Apply for the key first, or alongside the programs it may unlock."
         },
@@ -310,6 +325,7 @@
         {
           "type": "filecards",
           "text": "Build your starter file",
+          "image": "/images/benefits-support/05-diamond/benefits-21/benefits21-image-2.webp",
           "items": [
             {
               "title": "Service number",
@@ -378,6 +394,8 @@
           "text": "Meet Dennis",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/05-diamond/benefits-21/benefits21-image-3.webp",
+          "focus": 20,
           "paragraphs": [
             "Dennis is sixty-one and lives outside Sudbury. He spent twelve years as a Reserve combat engineer: weekends, summer taskings and two Class B stints he mostly remembers for the food. He has ringing in his ears from demolition training and two bad knees he blames on everything else.",
             "His goal is modest. He wants to keep shovelling his own driveway and hear his grandkids at dinner. A guy at the arena told him the VAC process was a nightmare. The guy at the arena had never applied either.",

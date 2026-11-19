@@ -57,6 +57,21 @@
           "text": "Retirement spending usually moves in stages. An active early retirement often means more travel. Later years tend to lean toward health, accessibility and help at home. Build more than one version of the budget."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Retirement spending moves in stages, not in one flat line.",
+              "text": "Retirement spending moves in stages, not in one flat line.",
+              "image": "/images/tax-wealth/05-diamond/tax-16/tax16-image-1.webp"
+            },
+            {
+              "title": "Know your income layers, then choose when each one starts.",
+              "text": "Know your income layers, then choose when each one starts.",
+              "image": "/images/tax-wealth/05-diamond/tax-16/tax16-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Inflation matters because retirement can last for decades. You don’t need to predict the price of groceries in 2047. You do need to check whether your income and savings can keep up as prices rise."
         },
@@ -190,6 +205,8 @@
           "text": "Asha and Leon build the bridge",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/05-diamond/tax-16/tax16-image-3.webp",
+          "focus": 63,
           "paragraphs": [
             "Asha was 61 and Leon was 64, and they lived in a paid-off bungalow in Guelph. They had a small workplace pension from Leon’s years at the city, two RRSPs, two TFSAs and no debt. Their plan was simple: retire the day Leon turned 65 and start every benefit at once.",
             "Their daughter asked one question at Sunday dinner: how much would they spend each month, and where would it come from? Neither of them knew. That week they gathered their pension statements, wrote out a monthly budget and ran the numbers through the government’s Canadian Retirement Income Calculator.",

@@ -55,6 +55,21 @@
           "text": "Before you order signs, search the business registry and check for similar trademarks. A name search is useful homework, but it does not promise your name is free of legal conflicts."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A name search is homework, not proof the name is yours.",
+              "text": "A name search is homework, not proof the name is yours.",
+              "image": "/images/income-business/05-diamond/income-15/income15-image-1.webp"
+            },
+            {
+              "title": "Keep proof beside every finished step of the registration.",
+              "text": "Keep proof beside every finished step of the registration.",
+              "image": "/images/income-business/05-diamond/income-15/income15-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "The CRA layer"
         },
@@ -124,6 +139,8 @@
           "text": "Sandra’s missing folder",
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
+          "image": "/images/income-business/05-diamond/income-15/income15-image-3.webp",
+          "focus": 24,
           "paragraphs": [
             "Sandra lived in London, Ontario. She wanted to start a home organizing service while keeping her part-time job. She had labelled sample storage bins and set money aside for flyers. Her launch folder held a logo and a flyer, but no plan for registering.",
             "A neighbour asked whether her invoices would say Sandra or Clear Space Home Organizing. Sandra opened a business website and almost chose to incorporate, because it sounded the most complete. Then another page mentioned a business number. Did both buttons do the same thing?",

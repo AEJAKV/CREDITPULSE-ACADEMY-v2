@@ -63,6 +63,21 @@
           "text": "A cue should help you understand a move. If “engage your core” feels vague, ask the instructor to show you and explain how much effort to use."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Vague cues leave you guessing how hard to work.",
+              "text": "Vague cues leave you guessing how hard to work.",
+              "image": "/images/health-fitness/05-diamond/health-22/health22-image-1.webp"
+            },
+            {
+              "title": "Ask to be shown the move, then use less effort.",
+              "text": "Ask to be shown the move, then use less effort.",
+              "image": "/images/health-fitness/05-diamond/health-22/health22-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Keep breathing at your normal pace while you move. In a coached class, the instructor may link a breath to part of a move. Don’t force big or fast breaths, or hold your breath to finish a rep."
         },
@@ -103,6 +118,8 @@
           "text": "Amira changes the booking",
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
+          "image": "/images/health-fitness/05-diamond/health-22/health22-image-3.webp",
+          "focus": 55,
           "paragraphs": [
             "Amira ran a small clothing repair shop in Montréal, where the sewing machine kept a steadier schedule than she did. She wanted a weekly class she could keep through the busy fall season. Closing early meant losing a customer, so she had to choose carefully.",
             "A nearby studio added a Pilates class at a handy time. Amira almost bought its six-class package, since the page said beginners were welcome. The photo showed a reformer, but she had never used one and had no idea what a session involved.",

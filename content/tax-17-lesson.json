@@ -98,6 +98,21 @@
           "text": "Naming the same trusted person for every role isn’t always simplest. Money decisions, health decisions, child care and running an estate each call for different skills."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A will and your account forms can quietly disagree.",
+              "text": "A will and your account forms can quietly disagree.",
+              "image": "/images/tax-wealth/05-diamond/tax-17/tax17-image-1.webp"
+            },
+            {
+              "title": "Name each role on purpose, and recheck after big life changes.",
+              "text": "Name each role on purpose, and recheck after big life changes.",
+              "image": "/images/tax-wealth/05-diamond/tax-17/tax17-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "The plan should also note what skips the estate altogether. Joint ownership, insurance, pensions, trusts and valid beneficiary forms can all pass property in a different way. The details depend on the asset, the contract and your province."
         },
@@ -208,6 +223,8 @@
           "text": "Priya makes the records agree",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/05-diamond/tax-17/tax17-image-3.webp",
+          "focus": 32,
           "paragraphs": [
             "Priya, 58, lived in Kamloops. She owned her home, had a workplace pension, an RRSP, two TFSAs at different banks and a life insurance policy. Her will named her sister Meena as executor and split everything between her two adult children, Arjun and Lena.",
             "One January, after a friend’s family spent months untangling an estate, Priya decided to check her own. She called each bank and the insurer and asked them to confirm, in writing, who was named on each account.",

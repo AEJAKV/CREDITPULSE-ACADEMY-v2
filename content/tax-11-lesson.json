@@ -95,6 +95,21 @@
         {
           "type": "spotlight",
           "text": "Ask yourself one thing: is my tax rate higher now, or will it be higher later? If your rate is high now, in your peak earning years on an upper shelf, a deduction is doing real work. Tax-deferred accounts like an RRSP shine here, because you skip tax at a high rate and pay it later at a lower one. If your rate is low now, early in your career, working part-time, on parental leave or partly retired, a deduction isn’t saving you much. Tax-free accounts make more sense, because you pay tax at a cheap rate today and never again. Remember that “later” includes benefits too. RRSP and RRIF withdrawals count as income and can shrink Old Age Security, the Guaranteed Income Supplement and other income-tested benefits. TFSA withdrawals don’t. This one question explains why the same advice can be right for one person and wrong for their neighbour."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The same tip can fit one person and fail another.",
+              "text": "The same tip can fit one person and fail another.",
+              "image": "/images/tax-wealth/03-gold/tax-11/tax11-image-1.webp"
+            },
+            {
+              "title": "Ask one question: is my tax rate higher now or later?",
+              "text": "Ask one question: is my tax rate higher now or later?",
+              "image": "/images/tax-wealth/03-gold/tax-11/tax11-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -212,6 +227,8 @@
           "text": "The same advice, three different people",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/03-gold/tax-11/tax11-image-3.webp",
+          "focus": 30,
           "paragraphs": [
             "Three coworkers at a Regina insurance office got the same tip from the same friendly manager, Doug, at the summer barbecue: put everything into your RRSP.",
             "For Ines, forty-eight and at the top of her earning years, it was great advice. Her deduction landed on a high shelf, saving real tax, and her rate in retirement will almost certainly be lower.",

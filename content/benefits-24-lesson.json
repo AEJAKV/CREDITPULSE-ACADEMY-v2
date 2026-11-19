@@ -187,6 +187,21 @@
           "text": "Log into CRA My Account and look at your most recent Notice of Assessment. If you are in the eligible age range and have been filing returns with working income, there may be a Canada training credit limit sitting there, building for years without anyone telling you. The catch: people who stop filing during a low-income stretch stop building it, and those are often the people who later need to retrain. File every year, even a year with almost no income."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Your Notice of Assessment may already hold training money.",
+              "text": "Your Notice of Assessment may already hold training money.",
+              "image": "/images/benefits-support/05-diamond/benefits-24/benefits24-image-1.webp"
+            },
+            {
+              "title": "Don’t bridge a training gap with high-interest debt.",
+              "text": "Don’t bridge a training gap with high-interest debt.",
+              "image": "/images/benefits-support/05-diamond/benefits-24/benefits24-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "The Lifelong Learning Plan lets you withdraw from your own RRSP to fund full-time training for yourself or a spouse, tax-free at the time you take it out, with a repayment schedule afterward. It is not free money. It is your own money, borrowed from your future, with lost investment growth as the real cost."
         },
@@ -332,6 +347,8 @@
           "text": "Marcus and the college website",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/05-diamond/benefits-24/benefits24-image-3.webp",
+          "focus": 30,
           "paragraphs": [
             "Marcus is forty-four and drove a delivery route in Regina for eleven years, until his back stopped cooperating with the loading. His goal is a desk job that pays the mortgage. He picks a dispatch and logistics certificate at a local college.",
             "He looks at the tuition on a Sunday night. Then he does what most people do, which is nothing, for four months.",

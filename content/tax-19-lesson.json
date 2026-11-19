@@ -59,6 +59,21 @@
         {
           "type": "spotlight",
           "text": "Put the GST/HST part of every payment into a separate bookkeeping category right away. A separate savings account adds protection. Money with a government name tag has a habit of being needed later."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "GST/HST collected from customers isn’t your income.",
+              "text": "GST/HST collected from customers isn’t your income.",
+              "image": "/images/tax-wealth/06-elite/tax-19/tax19-image-1.webp"
+            },
+            {
+              "title": "Track the $30,000 line before you invoice, and sort each sale.",
+              "text": "Track the $30,000 line before you invoice, and sort each sale.",
+              "image": "/images/tax-wealth/06-elite/tax-19/tax19-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -80,11 +95,13 @@
           "items": [
             {
               "title": "ONE CALENDAR QUARTER",
-              "text": "Pass $30,000 in a single quarter, and you stop being a small supplier with the sale that pushed you over. You must register within 29 days, and you must charge GST/HST on that same sale. That’s why a large contract deserves a registration check before the invoice goes out."
+              "text": "Pass $30,000 in a single quarter, and you stop being a small supplier with the sale that pushed you over. You must register within 29 days, and you must charge GST/HST on that same sale. That’s why a large contract deserves a registration check before the invoice goes out.",
+              "icon": "timer"
             },
             {
               "title": "FOUR CONSECUTIVE CALENDAR QUARTERS",
-              "text": "Pass $30,000 over four quarters in a row, without crossing it in any single one, and the timing is different. You stop being a small supplier at the end of the month after that four-quarter period, and must register within 29 days. Confirm the exact dates with the CRA’s current guidance."
+              "text": "Pass $30,000 over four quarters in a row, without crossing it in any single one, and the timing is different. You stop being a small supplier at the end of the month after that four-quarter period, and must register within 29 days. Confirm the exact dates with the CRA’s current guidance.",
+              "icon": "calendar"
             }
           ]
         },
@@ -137,15 +154,18 @@
           "items": [
             {
               "title": "TAXABLE SUPPLIES",
-              "text": "Most goods and services sold in business are taxable. A registered business charges GST/HST at the right rate and may claim ITCs on the costs of that work."
+              "text": "Most goods and services sold in business are taxable. A registered business charges GST/HST at the right rate and may claim ITCs on the costs of that work.",
+              "icon": "receipt"
             },
             {
               "title": "ZERO-RATED SUPPLIES",
-              "text": "Taxed at zero percent. The seller doesn’t collect GST/HST but can usually still claim ITCs on the costs of making the sale. Basic groceries, prescription drugs, some medical devices and exports can qualify when the rules are met."
+              "text": "Taxed at zero percent. The seller doesn’t collect GST/HST but can usually still claim ITCs on the costs of making the sale. Basic groceries, prescription drugs, some medical devices and exports can qualify when the rules are met.",
+              "icon": "target"
             },
             {
               "title": "EXEMPT SUPPLIES",
-              "text": "No GST/HST is charged, and unlike zero-rated sales, costs used to make exempt sales generally can’t be claimed as ITCs. Examples can include many health, education, child care, residential rent and financial services. Each has its own conditions."
+              "text": "No GST/HST is charged, and unlike zero-rated sales, costs used to make exempt sales generally can’t be claimed as ITCs. Examples can include many health, education, child care, residential rent and financial services. Each has its own conditions.",
+              "icon": "shield"
             }
           ]
         },
@@ -186,6 +206,8 @@
           "text": "Elena catches the line before the invoice",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/06-elite/tax-19/tax19-image-3.webp",
+          "focus": 22,
           "paragraphs": [
             "Elena ran a small workplace-training business from her home in Dartmouth. She checked her sales once a year, at tax time, and had never come close to $30,000 in a quarter.",
             "Then a national client asked her to run a large training project, $26,000 of work, all to be delivered in one quarter. She already had $7,000 of other sales booked for those same three months. She was thrilled, and she started drafting the usual invoice with no HST.",
@@ -265,11 +287,13 @@
           "items": [
             {
               "title": "REGULAR METHOD",
-              "text": "Start with the GST/HST you charged, then subtract the ITCs you can support. This is the standard, itemized way."
+              "text": "Start with the GST/HST you charged, then subtract the ITCs you can support. This is the standard, itemized way.",
+              "icon": "bank"
             },
             {
               "title": "QUICK METHOD",
-              "text": "Eligible businesses with $400,000 or less in taxable sales send in a set percentage of their sales instead, and claim far fewer ITCs, since those costs are built into the rate. It’s a formal choice, not a shortcut picked after the return is done. Compare both with a professional first, since less math doesn’t always mean less tax."
+              "text": "Eligible businesses with $400,000 or less in taxable sales send in a set percentage of their sales instead, and claim far fewer ITCs, since those costs are built into the rate. It’s a formal choice, not a shortcut picked after the return is done. Compare both with a professional first, since less math doesn’t always mean less tax.",
+              "icon": "zap"
             }
           ]
         }

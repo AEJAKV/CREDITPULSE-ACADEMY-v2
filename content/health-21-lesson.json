@@ -59,6 +59,21 @@
           "text": "Ask, “Can I stay seated or skip floor positions?” A clear answer tells you more about access than a photo of a perfect pose. Also ask about the instructor’s training and experience with beginners. Many yoga teachers complete a 200-hour training program, so it’s fair to ask what theirs was."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A perfect pose in a photo says nothing about access.",
+              "text": "A perfect pose in a photo says nothing about access.",
+              "image": "/images/health-fitness/05-diamond/health-21/health21-image-1.webp"
+            },
+            {
+              "title": "Ask for another format when a class doesn’t fit.",
+              "text": "Ask for another format when a class doesn’t fit.",
+              "image": "/images/health-fitness/05-diamond/health-21/health21-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "For a first class, choose gentle instruction in an unheated room. Leave headstands, shoulder stands, extreme positions and forceful breathing out of your starter practice. Hot studios add the risk of overheating and dehydration."
         },
@@ -103,6 +118,8 @@
           "text": "The chair by the window",
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
+          "image": "/images/health-fitness/05-diamond/health-21/health21-image-3.webp",
+          "focus": 24,
           "paragraphs": [
             "Marion, an office manager in Victoria, wanted a short pause between work and caring for her father. Her evenings started with bus schedules and meal reminders, so a long class rarely fit. She hoped yoga could give that crowded hour a calmer start.",
             "A notice at the community centre offered an intro class nearby. Marion arrived with a borrowed mat, but the teacher moved from standing to the floor faster than she expected. She spent more time figuring out where her feet went than noticing how she felt.",

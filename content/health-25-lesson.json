@@ -90,6 +90,21 @@
           "text": "Compare fairly. If two packages describe different amounts of food, compare the same amount before deciding which has more protein."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Two packages can describe two very different amounts of food.",
+              "text": "Two packages can describe two very different amounts of food.",
+              "image": "/images/health-fitness/05-diamond/health-25/health25-image-1.webp"
+            },
+            {
+              "title": "Compare the same amount, and read the right unit.",
+              "text": "Compare the same amount, and read the right unit.",
+              "image": "/images/health-fitness/05-diamond/health-25/health25-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "A small label calculation"
         },
@@ -138,6 +153,8 @@
           "text": "The lunch that travelled",
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
+          "image": "/images/health-fitness/05-diamond/health-25/health25-image-3.webp",
+          "focus": 20,
           "paragraphs": [
             "Farid drove a city bus in Edmonton and wanted a lunch he could enjoy during his split shift, without buying another snack at the depot. He joked that the shiny protein display at his grocery store looked ready to run for office.",
             "One evening, a big protein claim on a soup pouch caught his eye. He bought it with some bread, expecting the pouch to be his whole lunch. Later he noticed the Nutrition Facts table described only part of the pouch.",

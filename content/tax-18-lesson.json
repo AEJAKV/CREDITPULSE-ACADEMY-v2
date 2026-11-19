@@ -65,6 +65,21 @@
           "text": "The law doesn’t always require a separate bank account for your business, but one makes your records much clearer. It’s one less argument with yourself about whether a hardware-store charge was for shelving or a suspiciously ambitious barbecue."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Record the full customer payment, not just what landed in the bank.",
+              "text": "Record the full customer payment, not just what landed in the bank.",
+              "image": "/images/tax-wealth/06-elite/tax-18/tax18-image-1.webp"
+            },
+            {
+              "title": "Give every dollar a lane, and every receipt a folder.",
+              "text": "Give every dollar a lane, and every receipt a folder.",
+              "image": "/images/tax-wealth/06-elite/tax-18/tax18-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "Employee or self-employed?"
         },
@@ -92,19 +107,23 @@
           "items": [
             {
               "title": "OPERATING MONEY",
-              "text": "Pays the everyday costs of running the business: supplies, tools, ads and regular bills."
+              "text": "Pays the everyday costs of running the business: supplies, tools, ads and regular bills.",
+              "icon": "briefcase"
             },
             {
               "title": "TAX RESERVE MONEY",
-              "text": "Sets aside what income tax and CPP or QPP will need later. This is the lane that stops a good year from turning into a rough April."
+              "text": "Sets aside what income tax and CPP or QPP will need later. This is the lane that stops a good year from turning into a rough April.",
+              "icon": "piggy"
             },
             {
               "title": "GST/HST MONEY",
-              "text": "Once you’re registered, this holds the tax you collected from customers. It was never yours to spend. You’re just holding it."
+              "text": "Once you’re registered, this holds the tax you collected from customers. It was never yours to spend. You’re just holding it.",
+              "icon": "bank"
             },
             {
               "title": "OWNER MONEY",
-              "text": "What’s left for personal use, after the first three lanes are covered."
+              "text": "What’s left for personal use, after the first three lanes are covered.",
+              "icon": "wallet"
             }
           ]
         },
@@ -140,11 +159,13 @@
           "items": [
             {
               "title": "MIXED PERSONAL AND BUSINESS USE",
-              "text": "When a cost serves both purposes, claim only the business share you can support. For a phone or internet plan, use a reasonable method based on real business use, and write the method down, so next year’s math doesn’t depend on memory and optimism."
+              "text": "When a cost serves both purposes, claim only the business share you can support. For a phone or internet plan, use a reasonable method based on real business use, and write the method down, so next year’s math doesn’t depend on memory and optimism.",
+              "icon": "receipt"
             },
             {
               "title": "CURRENT EXPENSES VS. CAPITAL PROPERTY",
-              "text": "An ordinary supply is usually used up within the year. Capital property lasts longer and supports the business over time, so a printer cartridge and the printer itself can be treated differently for tax. Record the date, description, seller, cost, tax paid and business use, and let the facts decide."
+              "text": "An ordinary supply is usually used up within the year. Capital property lasts longer and supports the business over time, so a printer cartridge and the printer itself can be treated differently for tax. Record the date, description, seller, cost, tax paid and business use, and let the facts decide.",
+              "icon": "calendar"
             }
           ]
         },
@@ -181,6 +202,8 @@
           "text": "Malik creates Tax Friday",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/06-elite/tax-18/tax18-image-3.webp",
+          "focus": 25,
           "paragraphs": [
             "Malik lived in Winnipeg. He repaired bikes on weekends and did graphic design during the week. Customers paid him by e-transfer, cash and an online platform. In his first year, he watched his bank balance and assumed it was profit.",
             "By April, reality arrived. His income showed up in three places, his receipts were scattered across five and he had set nothing aside for tax. His first tax bill came to $6,200, plus CPP he hadn’t known he owed. He paid it with a credit card and a knot in his stomach.",

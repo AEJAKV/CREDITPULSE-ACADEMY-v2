@@ -136,6 +136,21 @@
         {
           "type": "spotlight",
           "text": "The Disability Tax Credit is the most useful single form in this whole module. A medical practitioner fills in form T2201 to set it up. It is a credit on its own, and it is also the key to the higher caregiver amount, the Home Accessibility Tax Credit at any age, the Registered Disability Savings Plan and its matching grants, and several provincial programs. If a practitioner confirms the condition existed in past years, the CRA can adjust up to ten years of old returns. It is often turned down on a thin first try and approved on a second try with clearer detail about how the condition limits daily life. A no is feedback on the paperwork, not a final verdict on the person."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "You can be a caregiver without ever calling yourself one.",
+              "text": "You can be a caregiver without ever calling yourself one.",
+              "image": "/images/benefits-support/06-elite/benefits-28/benefits28-image-1.webp"
+            },
+            {
+              "title": "Start with form T2201, then look back at past years.",
+              "text": "Start with form T2201, then look back at past years.",
+              "image": "/images/benefits-support/06-elite/benefits-28/benefits28-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -310,6 +325,8 @@
           "text": "Priyanka and her mother",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/06-elite/benefits-28/benefits28-image-3.webp",
+          "focus": 28,
           "paragraphs": [
             "Priyanka’s mother moved in with her three years ago, after a stroke left her unable to get around easily. Priyanka drives her to two specialist visits a month and manages her pills. She has never once called herself a caregiver. It is just what a daughter does.",
             "Her goal this year is simple: catch up on bills after paying for a wheelchair ramp. At her yearly meeting with her accountant, he asks a question nobody has asked before. Has your mother’s doctor ever filled in a Disability Tax Credit form?",
@@ -435,10 +452,6 @@
             {
               "title": "Net income threshold (medical expenses)",
               "text": "The floor below which medical costs cannot be claimed: a set dollar amount that changes each year, or 3% of net income, whichever is lower."
-            },
-            {
-              "title": "T1-ADJ",
-              "text": "The form to ask the CRA to change a return you already filed. You can also use “Change my return” in My Account."
             },
             {
               "title": "T1-ADJ",

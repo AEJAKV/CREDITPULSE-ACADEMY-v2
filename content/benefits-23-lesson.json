@@ -70,6 +70,21 @@
           "text": "It is tempting to read “the grant closed” and assume the money is gone. It moved. The federal dollars shifted from a broad reimbursement anyone could claim toward a targeted, no-cost install for lower-income households, delivered by the provinces. At the same time, provincial programs got substantially bigger. Start with your provincial program page and your utility, not with a federal search, and ignore any article about this topic that is more than six months old."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "When one grant closes, the money often moves somewhere else.",
+              "text": "When one grant closes, the money often moves somewhere else.",
+              "image": "/images/benefits-support/05-diamond/benefits-23/benefits23-image-1.webp"
+            },
+            {
+              "title": "Plan the rebate wait before you put the upgrade on credit.",
+              "text": "Plan the rebate wait before you put the upgrade on credit.",
+              "image": "/images/benefits-support/05-diamond/benefits-23/benefits23-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -264,6 +279,7 @@
         {
           "type": "filecards",
           "text": "Six checks before you sign for home equipment",
+          "image": "/images/benefits-support/05-diamond/benefits-23/benefits23-image-2.webp",
           "items": [
             {
               "title": "You called",
@@ -303,6 +319,8 @@
           "text": "Priya and the lanyard",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/05-diamond/benefits-23/benefits23-image-3.webp",
+          "focus": 63,
           "paragraphs": [
             "Priya lives in Brampton with her husband and his father. The furnace is twenty-two years old and loud. Her goal is to replace it before next winter without going into debt.",
             "One morning in March, a man knocks. He has a lanyard, a tablet and the name of a federal program Priya has read about. He wants to check the furnace now, because the funding is almost gone.",

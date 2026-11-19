@@ -59,6 +59,21 @@
           "text": "Match the meal to your kitchen. If you have a microwave but no stove, choose ready-cooked grains, canned beans and vegetables you can prepare as the package says. Follow the cooking directions on frozen vegetables, since not all of them are ready to eat."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A lunch plan fails when it ignores your actual kitchen.",
+              "text": "A lunch plan fails when it ignores your actual kitchen.",
+              "image": "/images/health-fitness/05-diamond/health-24/health24-image-1.webp"
+            },
+            {
+              "title": "Give every fresh item a job, and nothing gets wasted.",
+              "text": "Give every fresh item a job, and nothing gets wasted.",
+              "image": "/images/health-fitness/05-diamond/health-24/health24-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Choose meals you enjoy, including foods from your own traditions. A bean stew or vegetable curry can be a starting point. Change the vegetables or grain as needed."
         },
@@ -95,6 +110,8 @@
           "text": "The Thursday lunch",
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
+          "image": "/images/health-fitness/05-diamond/health-24/health24-image-3.webp",
+          "focus": 24,
           "paragraphs": [
             "Elise taught grade six in Ottawa and wanted a lunch she could eat before her afternoon class. Her lunch break often vanished into photocopier jams and last-minute questions. She was tired of buying food on Sunday and finding it unused on Friday.",
             "One Monday, a leaky container soaked her lesson notes, and the staff-room microwave had an Out of Order sign. Her big soup plan suddenly needed a better container and a working microwave. She bought lunch and went home with a clear problem to solve.",

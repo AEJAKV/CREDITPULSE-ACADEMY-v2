@@ -86,6 +86,21 @@
           "text": "Contribution room does not appear until the account exists, and unused room only carries forward once it is open. Someone who opens an FHSA the year they finally start seriously saving has already lost every year of room they could have built for free. Open the account as soon as you are eligible, even with a small first deposit, even if a purchase is years away. You lose nothing by having it sit there. You lose real room by waiting."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Contribution room doesn’t appear until the account exists.",
+              "text": "Contribution room doesn’t appear until the account exists.",
+              "image": "/images/benefits-support/06-elite/benefits-27/benefits27-image-1.webp"
+            },
+            {
+              "title": "Open the account early, and the room builds while you decide.",
+              "text": "Open the account early, and the room builds while you decide.",
+              "image": "/images/benefits-support/06-elite/benefits-27/benefits27-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Every dollar you put in also lowers your taxable income that year. At a 30% tax rate, an $8,000 contribution can bring about $2,400 back at tax time, which you can put straight back in next year. Try a target of your own."
         },
@@ -348,6 +363,8 @@
           "text": "Aisha and Tom’s spreadsheet",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/06-elite/benefits-27/benefits27-image-3.webp",
+          "focus": 30,
           "paragraphs": [
             "Aisha and Tom have rented in Ottawa for six years. Every January, they tell each other this is the year they start saving for a home. In practice, their savings account mostly pays for vacations. Neither has opened an FHSA, because neither feels ready to use one.",
             "Then a coworker of Aisha’s mentions something in passing. The point of the account is to open it early, so the room builds whether you are ready or not.",

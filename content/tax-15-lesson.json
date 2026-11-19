@@ -101,6 +101,21 @@
         {
           "type": "spotlight",
           "text": "Here’s a shortcut to carry with you: divide 72 by your yearly return, and the answer is roughly how many years it takes your money to double. At 7%, that’s 72 ÷ 7, just over ten years, which matches the table: $10,000 grew to $19,672 by year ten, a hair under double. Try it on a fee. A 2% fee that cuts a 7% return to 5% doesn’t just cost 2% a year. It stretches the doubling time from about ten years to about fourteen and a half. No calculator needed, just one number that turns the Investment Fees lesson into something you can work out on a napkin."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Ten quiet years can look like nothing is happening.",
+              "text": "Ten quiet years can look like nothing is happening.",
+              "image": "/images/tax-wealth/05-diamond/tax-15/tax15-image-1.webp"
+            },
+            {
+              "title": "Start early, add often, and let time do the heavy lifting.",
+              "text": "Start early, add often, and let time do the heavy lifting.",
+              "image": "/images/tax-wealth/05-diamond/tax-15/tax15-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -193,6 +208,8 @@
           "text": "The twins, ten years apart",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/05-diamond/tax-15/tax15-image-3.webp",
+          "focus": 55,
           "paragraphs": [
             "Elin and Karin were twin sisters who grew up in Thunder Bay. At twenty-two, Elin landed her first job at a credit union and set up an automatic $200 a month into her TFSA. Karin, working retail and saving for a trip to Iceland, said she would start once life settled down.",
             "Every few years, Elin nudged her. Karin always had a reason to wait: the trip, then a car, then a move to Winnipeg. At thirty-two, newly promoted, she finally sat down to start.",

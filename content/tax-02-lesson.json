@@ -98,6 +98,21 @@
           "text": "The shelves apply to taxable income, not your salary. Deductions such as RRSP contributions, union dues and child care costs come off first, so less of your income reaches the higher shelves. Credits, like the Basic Personal Amount, work differently: they cut the tax itself after it is worked out."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The tax shelves apply to taxable income, not your salary.",
+              "text": "The tax shelves apply to taxable income, not your salary.",
+              "image": "/images/tax-wealth/01-starter/tax-02/tax02-image-1.webp"
+            },
+            {
+              "title": "Know your marginal rate before you take the overtime.",
+              "text": "Know your marginal rate before you take the overtime.",
+              "image": "/images/tax-wealth/01-starter/tax-02/tax02-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -226,6 +241,8 @@
           "text": "Renata almost said no",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/01-starter/tax-02/tax02-image-3.webp",
+          "focus": 56,
           "paragraphs": [
             "Renata worked as a receptionist in a dental office in Halifax. She had been saving for a used car so she could stop taking two buses to work every morning. Then her manager offered her a promotion to office lead, with her salary going from $55,000 to $62,000.",
             "That Sunday, over dinner, her uncle shook his head. A raise like that could bump her into a higher tax bracket, he warned, and she might end up taking home less. He meant well, and he sounded completely certain.",

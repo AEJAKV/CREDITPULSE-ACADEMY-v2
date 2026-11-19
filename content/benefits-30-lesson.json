@@ -149,6 +149,21 @@
           "text": "Do not call the number the caller gave you. Do not click the link in the text or email. Instead, look up the department’s number yourself, from a letter you already have or a search you run, and contact them that way. If the contact was real, this costs a few minutes and confirms it. If it was fake, you have closed the door without giving anything up. It is the one rule worth memorizing word for word."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Real benefit offers don’t arrive with a ticking clock.",
+              "text": "Real benefit offers don’t arrive with a ticking clock.",
+              "image": "/images/benefits-support/06-elite/benefits-30/benefits30-image-1.webp"
+            },
+            {
+              "title": "Look up the number yourself, and contact them that way.",
+              "text": "Look up the number yourself, and contact them that way.",
+              "image": "/images/benefits-support/06-elite/benefits-30/benefits30-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Saying it out loud is the hard part, so have the words ready. This works on any caller, ends any countdown and costs nothing to say:"
         },
@@ -319,6 +334,8 @@
           "text": "Harold and the call he made instead",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/06-elite/benefits-30/benefits30-image-3.webp",
+          "focus": 22,
           "paragraphs": [
             "Harold is sixty-eight and lives in Winnipeg. His goal this year is to stay on top of his bills on a fixed income. Then his phone rings on a Tuesday afternoon.",
             "The man says he is with the Canada Revenue Agency. Harold owes several thousand dollars in back taxes from a benefit overpayment, he says, and a warrant will be issued within the hour unless it is paid now. The caller ID shows a number that looks official.",

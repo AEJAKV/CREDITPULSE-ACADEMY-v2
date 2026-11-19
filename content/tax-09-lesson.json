@@ -92,6 +92,21 @@
         {
           "type": "spotlight",
           "text": "One more barrier worth clearing up. For an adult who may not be able to sign a contract, opening an RDSP once meant going to court for guardianship first, a slow and costly step. Since 2012, a qualifying family member (a parent, spouse, common-law partner or, since 2023, a brother or sister) can open the plan instead, as long as no one already has legal authority. This rule ends on December 31, 2026. A family member who opens a plan before then can generally stay the plan holder after 2026. If this applies to you, ask your bank about it now."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Opening an RDSP once meant going to court first.",
+              "text": "Opening an RDSP once meant going to court first.",
+              "image": "/images/tax-wealth/03-gold/tax-09/tax09-image-1.webp"
+            },
+            {
+              "title": "The bond needs no deposit, only an open account.",
+              "text": "The bond needs no deposit, only an open account.",
+              "image": "/images/tax-wealth/03-gold/tax-09/tax09-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -228,6 +243,8 @@
           "text": "The Alvarez family’s second conversation",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/03-gold/tax-09/tax09-image-3.webp",
+          "focus": 28,
           "paragraphs": [
             "Marisol and Luis Alvarez lived in Saskatoon with their son Mateo, who has cerebral palsy. Mateo had been approved for the Disability Tax Credit two years earlier, and a nurse at the clinic had mentioned an RDSP in passing.",
             "They never opened one. Luis drove a delivery truck, Marisol worked part-time, and every dollar already had a job. An account that seemed to need regular deposits felt like it was meant for families with more breathing room than they had.",

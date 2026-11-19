@@ -131,6 +131,21 @@
         {
           "type": "spotlight",
           "text": "This is the most important idea in this lesson, and it comes up again and again in this course. A non-refundable credit can only reduce tax you owe. If your tax bill is already near zero, which is common for lower-income or part-time earners, more non-refundable credits put nothing extra in your pocket. There’s no tax left to reduce. A refundable credit is different: you get it whatever tax you owed. The Canada Workers Benefit and the Canada Training Credit are refundable, and the GST/HST credit is paid to you as a benefit. That is why they matter so much for lower-income households. Before you decide a claim isn’t worth it, check which kind it is. The paperwork is often the same. The payoff is not."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A non-refundable credit can only reduce tax you owe.",
+              "text": "A non-refundable credit can only reduce tax you owe.",
+              "image": "/images/tax-wealth/01-starter/tax-04/tax04-image-1.webp"
+            },
+            {
+              "title": "Contribute now, and claim the deduction in the year it helps most.",
+              "text": "Contribute now, and claim the deduction in the year it helps most.",
+              "image": "/images/tax-wealth/01-starter/tax-04/tax04-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -225,6 +240,8 @@
           "text": "Farida and the RRSP question",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/01-starter/tax-04/tax04-image-3.webp",
+          "focus": 21,
           "paragraphs": [
             "Farida was twenty-four, a year out of college and working her first full-time job at a Winnipeg nonprofit. She had $3,000 saved toward a used car, so she could stop biking to work through prairie winters.",
             "One day at lunch, a coworker told her, with total confidence, that smart people maxed out their RRSP every year. Farida felt a pang of guilt. She had already put $1,000 into an RRSP in February, and now she wondered whether the car money belonged there too.",

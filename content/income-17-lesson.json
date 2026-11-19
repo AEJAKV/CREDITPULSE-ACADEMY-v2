@@ -76,6 +76,21 @@
           "text": "You cannot claim personal purchases. The CRA does not allow input tax credits for things you buy for personal use or enjoyment. Keep personal and business purchases apart, and keep the proper receipt for each claim."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Not every receipt earns a GST/HST credit.",
+              "text": "Not every receipt earns a GST/HST credit.",
+              "image": "/images/income-business/05-diamond/income-17/income17-image-1.webp"
+            },
+            {
+              "title": "Label what you collect, and label what you can claim.",
+              "text": "Label what you collect, and label what you can claim.",
+              "image": "/images/income-business/05-diamond/income-17/income17-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "spotlight",
           "text": "You have four years to claim. For most small businesses, an input tax credit must be claimed by the due date of the return for the last period ending within four years of the period you could first claim it. Don’t wait that long. Old receipts are the ones that go missing."
         },
@@ -116,6 +131,8 @@
           "text": "The Lens Cap",
           "detail": "STORY",
           "extra": "",
+          "image": "/images/income-business/05-diamond/income-17/income17-image-3.webp",
+          "focus": 20,
           "paragraphs": [
             "Teo Marchetti was a freelance photographer in Ottawa. He owned one lens cap, and he lost it every week. His goal was to buy a second lens for $2,600 so he could shoot weddings, which paid far more than portraits.",
             "He was not registered for GST/HST, because his sales were nowhere near $30,000 in any quarter. Then a hotel offered him a corporate job worth $24,000, all paid in one quarter. He added it to his portrait work for those months. Thrilled and queasy, he saw the total would pass $30,000.",

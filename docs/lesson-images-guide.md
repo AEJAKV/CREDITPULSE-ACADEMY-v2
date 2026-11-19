@@ -130,7 +130,7 @@ The text on each slide is a **tagline that carries a lesson from the course**. I
 - Deep green panel (`#113d37`), 18px radius, at least 245px tall, with the tagline in large light text on the left.
 - The photo fills the **right two-thirds**, in grayscale and screen-blended at about 60% opacity, fading out to the left.
 - On phones the photo moves to the bottom 58% and fades upward. (Credit Mastery and other courses.)
-- **Money & Budgeting and Benefits & Support on phones (760px or narrower):** a different layout, scoped with `.lesson-article:is([data-course='money-budgeting'], [data-course='benefits-support'])` in `app/premium.css` (the `data-course` attribute is set in the lesson `page.tsx`).
+- **Money & Budgeting, Benefits & Support and Tax & Wealth on phones (760px or narrower):** a different layout, scoped with `.lesson-article:is([data-course='money-budgeting'], [data-course='benefits-support'], [data-course='tax-wealth'])` in `app/premium.css` (the `data-course` attribute is set in the lesson `page.tsx`).
   - The photo fills the whole panel (at least 440px tall) at the same 62% grayscale screen blend as desktop, anchored to the top (`object-position: 50% 0`) so the face stays in the upper half.
   - The tagline sits at the bottom of the panel with at least 150px above it, so it can't ride up onto the face.
   - A mask fades the photo out from 40% down to nothing at 72% of the panel height. That fade also hides any caption baked into the bottom of the picture.
@@ -215,7 +215,7 @@ Adding `image` switches the story to the **photo banner** layout. Without it, th
 - [ ] `heroImages` entry added in `page.tsx`, in lesson order
 - [ ] `image` and `focus` added to the `story` block, banner crop checked on desktop and phone, and the story trimmed to about 230–280 words (see `story-trim-guide.md`)
 - [ ] Lesson JSON still parses: `node -e "JSON.parse(require('fs').readFileSync('content/<id>-lesson.json','utf8'))"`
-- [ ] Money & Budgeting and Benefits & Support: on a phone, the face is fully visible on both carousel slides and the tagline sits clear of it
+- [ ] Money & Budgeting, Benefits & Support and Tax & Wealth: on a phone, the face is fully visible on both carousel slides and the tagline sits clear of it
 - [ ] Viewed on localhost:3000 (CREDIT-PULSE-ACADEMY-v2; port 3001 is the separate course-delivery app)
 
 ### Editing the lesson JSON safely

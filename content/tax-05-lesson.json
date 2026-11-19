@@ -46,6 +46,21 @@
         {
           "type": "spotlight",
           "text": "Two limits on “tax-free.” Dividends from U.S. stocks usually have 15% held back by the U.S., and a TFSA can’t get that back. And if you trade so often that the CRA sees it as a business, the profits can be taxed. For long-term saving, neither one gets in the way."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Putting money back too soon can trigger a penalty.",
+              "text": "Putting money back too soon can trigger a penalty.",
+              "image": "/images/tax-wealth/02-silver/tax-05/tax05-image-1.webp"
+            },
+            {
+              "title": "Work out your own room before you put anything back.",
+              "text": "Work out your own room before you put anything back.",
+              "image": "/images/tax-wealth/02-silver/tax-05/tax05-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -205,6 +220,8 @@
           "text": "Owen’s expensive August",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/02-silver/tax-05/tax05-image-3.webp",
+          "focus": 35,
           "paragraphs": [
             "Owen drove a delivery van in Kelowna and was proud of one thing above all: he had maxed out his TFSA every year since he opened it. In June, he took out $15,000 to redo his kitchen, which was exactly the kind of thing the account was for.",
             "In August, a $15,000 bonus landed. Owen grinned. He would put it straight back and the TFSA would look the way it had before the renovation.",

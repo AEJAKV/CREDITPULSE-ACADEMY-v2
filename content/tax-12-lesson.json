@@ -104,6 +104,21 @@
         {
           "type": "spotlight",
           "text": "A fee gap that looks small in one year grows into something huge over a working life, and almost nobody feels it happening. The fee doesn’t just cost you the fee. It also costs the growth that money would have earned every year after, compounding alongside your investments. Here’s an example: $200,000 held for 25 years, with the investments earning 6% a year before fees. At a 0.20% fee, it grows to about $820,000. At a 2% fee, it grows to about $533,000. That’s a gap of nearly $290,000, from a fee you never saw on a bill. This is the most important number in this lesson. Fees don’t just cost you the fee. They cost you what the fee would have grown into."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A small fee gap grows into something huge over a lifetime.",
+              "text": "A small fee gap grows into something huge over a lifetime.",
+              "image": "/images/tax-wealth/04-platinum/tax-12/tax12-image-1.webp"
+            },
+            {
+              "title": "Check what your investments cost before what they earned.",
+              "text": "Check what your investments cost before what they earned.",
+              "image": "/images/tax-wealth/04-platinum/tax-12/tax12-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -202,6 +217,8 @@
           "text": "Grant’s twenty-minute phone call",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/04-platinum/tax-12/tax12-image-3.webp",
+          "focus": 42,
           "paragraphs": [
             "Grant ran a small bakery in Moncton. Eleven years earlier, the week he opened his first bank account, an adviser at the branch had set him up in a mutual fund. He had added to it every month since and never looked at the fee. It wasn’t a number that appeared anywhere obvious.",
             "One night, over a beer, his friend Nadia asked what MER he was paying. Grant shrugged. He had no idea. Nadia raised an eyebrow, and the question stuck with him all the next day.",

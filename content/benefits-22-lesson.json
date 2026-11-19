@@ -103,6 +103,21 @@
           "text": "Refundable and non-refundable are not fine print. They decide whether a senior gets money or gets nothing. A non-refundable credit can only lower tax you already owe. Many people living on Old Age Security and the Guaranteed Income Supplement owe little or no tax, so the Home Accessibility Credit may be worth far less than it sounds. A refundable credit, like the Multigenerational credit, pays out either way. That is why the family member paying the bill often claims the non-refundable credit. Decide this before the invoice is written, not after."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Refundable or not decides whether you get money or nothing.",
+              "text": "Refundable or not decides whether you get money or nothing.",
+              "image": "/images/benefits-support/05-diamond/benefits-22/benefits22-image-1.webp"
+            },
+            {
+              "title": "Get a fully itemized invoice before the first hammer swings.",
+              "text": "Get a fully itemized invoice before the first hammer swings.",
+              "image": "/images/benefits-support/05-diamond/benefits-22/benefits22-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "source",
           "text": "CRA: Multigenerational Home Renovation Tax Credit",
           "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/federal-government-budgets/budget-2022-plan-grow-economy-make-life-more-affordable/multigenerational-home-renovation-tax-credit.html"
@@ -265,6 +280,7 @@
         {
           "type": "filecards",
           "text": "Does this apply to me?",
+          "image": "/images/benefits-support/05-diamond/benefits-22/benefits22-image-2.webp",
           "items": [
             {
               "title": "Who",
@@ -361,6 +377,8 @@
           "text": "Two sisters, one bathroom",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/05-diamond/benefits-22/benefits22-image-3.webp",
+          "focus": 24,
           "paragraphs": [
             "Bernice is eighty-two and has lived in the same house in Moncton since 1974. Her daughters, Colette and Anne-Marie, agree the bathtub has to go before Bernice slips getting out of it. Colette gets three quotes. Anne-Marie, who reads things, gets the application forms.",
             "Then the contractor calls. He has a cancellation and can start Monday. Colette is ready to say yes. Their mother’s safety feels more urgent than any form.",

@@ -103,6 +103,21 @@
         {
           "type": "spotlight",
           "text": "If you’re self-employed, you get extra time to file, until June 15. Many people hear that and relax. But the CRA still wants any money you owe by April 30, like everyone else. Miss that, and interest starts on May 1, no matter when you file. The fix is simple: file any time before June 15, but if you think you’ll owe, make a payment, even an estimate, by April 30. You can settle the difference later."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Extra time to file is not extra time to pay.",
+              "text": "Extra time to file is not extra time to pay.",
+              "image": "/images/tax-wealth/01-starter/tax-03/tax03-image-1.webp"
+            },
+            {
+              "title": "Pay by April 30, even if you file later.",
+              "text": "Pay by April 30, even if you file later.",
+              "image": "/images/tax-wealth/01-starter/tax-03/tax03-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -211,6 +226,8 @@
           "text": "Mateo’s first return",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/01-starter/tax-03/tax03-image-3.webp",
+          "focus": 26,
           "paragraphs": [
             "Mateo got his first job the summer he turned nineteen, loading trucks at a warehouse in Mississauga for minimum wage. When his T4 came the next February, he tossed it in a drawer. The amount was so small that filing a return didn’t seem worth the trouble.",
             "He did the same thing the next two years. His part-time income was modest, and he figured the CRA had bigger fish to fry.",

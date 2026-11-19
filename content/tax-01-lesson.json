@@ -138,6 +138,21 @@
         {
           "type": "spotlight",
           "text": "CPP and EI both have yearly caps. Once you hit them, the deductions stop for the rest of the year. Here’s the catch: each employer tracks your earnings on its own. If you work two jobs, or switch jobs partway through the year, both employers may take CPP and EI from scratch, even if you had already maxed out at the old job. The good news: you get your extra share back as a credit when you file your tax return. The bad news: you won’t see it until then. A year with a job change can mean smaller paycheques now and a bigger refund later. Knowing that in advance means it won’t feel like a mistake."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Take-home pay can creep up late in the year, with no raise.",
+              "text": "Take-home pay can creep up late in the year, with no raise.",
+              "image": "/images/tax-wealth/01-starter/tax-01/tax01-image-1.webp"
+            },
+            {
+              "title": "Each employer tracks you alone, so check your own total.",
+              "text": "Each employer tracks you alone, so check your own total.",
+              "image": "/images/tax-wealth/01-starter/tax-01/tax01-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -277,6 +292,8 @@
           "text": "Devon’s first real paycheque",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/01-starter/tax-01/tax01-image-3.webp",
+          "focus": 48,
           "paragraphs": [
             "Devon got his first full-time job offer at twenty-three: $48,000 a year, working for a building supply company in Edmonton. On the drive home he did the math in his head. Forty-eight thousand dollars, split into twenty-six paydays, came to about $1,846 every two weeks. That night he picked out an apartment based on that number.",
             "Two weeks later, his first deposit landed, and it was a few hundred dollars short of $1,846. Devon stared at his banking app in disbelief. Payroll had messed up. It had to be.",

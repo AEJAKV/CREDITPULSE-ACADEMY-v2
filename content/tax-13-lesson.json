@@ -88,6 +88,21 @@
           "text": "All-day pricing cuts both ways. A mutual fund buyer never has to think about this, since every order fills at the same end-of-day price. An ETF buyer does. A market order fills right away at whatever price is on offer, which for a thinly traded ETF, or in a jumpy few minutes, can be worse than the price you just saw. A limit order fixes that. You set the highest price you’ll pay to buy, or the lowest you’ll take to sell, and the order only fills at that price or better. It might not fill instantly, but it protects you from a bad surprise. For a widely traded, broad-market ETF, this rarely matters much. For anything less traded, it’s a smart habit, and it costs nothing extra. Also check your brokerage’s trading fee. Many now charge $0 to buy ETFs."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Four funds can quietly own the same big companies.",
+              "text": "Four funds can quietly own the same big companies.",
+              "image": "/images/tax-wealth/04-platinum/tax-13/tax13-image-1.webp"
+            },
+            {
+              "title": "Line up fees and holdings side by side, then simplify.",
+              "text": "Line up fees and holdings side by side, then simplify.",
+              "image": "/images/tax-wealth/04-platinum/tax-13/tax13-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -183,6 +198,8 @@
           "text": "Wei’s spreadsheet",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/04-platinum/tax-13/tax13-image-3.webp",
+          "focus": 58,
           "paragraphs": [
             "Wei worked as a dental hygienist in Markham. Over fifteen years, she had picked up four mutual funds, each suggested by a different bank adviser as her life changed: one for Canadian stocks, one for U.S. stocks, one for bonds and a balanced fund “for good measure.” She had never looked at them side by side.",
             "After a coworker mentioned overlap between funds, Wei got curious. One evening she built a simple spreadsheet: fund name, MER and the top ten holdings of each. The pattern surprised her. Three of the four funds owned many of the same big banks and tech companies, and each one charged its own fee to hold them.",

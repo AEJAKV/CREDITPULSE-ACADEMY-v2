@@ -107,6 +107,21 @@
           "text": "The base 20% isn’t the whole match for every family. Households below certain income limits get the Additional CESG: an extra 10% or 20%, but only on the first $500 put in each year. For a lower-income family, that lifts the match on that first $500 to 30% or 40%. It doesn’t change the $7,200 lifetime cap, but it makes the first $500 each year worth more. Your RESP provider applies it based on your family income, so ask about it when you open the account."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The base 20% isn’t the whole match for every family.",
+              "text": "The base 20% isn’t the whole match for every family.",
+              "image": "/images/tax-wealth/02-silver/tax-08/tax08-image-1.webp"
+            },
+            {
+              "title": "Start early, before the grant window closes at seventeen.",
+              "text": "Start early, before the grant window closes at seventeen.",
+              "image": "/images/tax-wealth/02-silver/tax-08/tax08-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "spotlight",
           "text": "Don’t wait until the teen years. The grant stops at the end of the year the child turns 17. A child aged 16 or 17 only qualifies if at least $2,000 was put in before they turned 16, or at least $100 a year in any four years before then. Starting early keeps the door open."
         }
@@ -213,6 +228,8 @@
           "text": "The Okafor family’s first RESP year",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/tax-wealth/02-silver/tax-08/tax08-image-3.webp",
+          "focus": 25,
           "paragraphs": [
             "When their daughter Ada was born in Calgary, the Okafors got a surprise gift from her great-aunt: $6,000, labelled in shaky handwriting “for the baby’s future.” Their first thought was to open an RESP and drop it all in at once, then cross it off the list.",
             "At the bank, the adviser asked one question before they signed: how much would they be able to add in the next few years? Chidi and Grace looked at each other. With daycare costs coming, the honest answer was “not much.”",

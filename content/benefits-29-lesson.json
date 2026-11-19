@@ -90,6 +90,21 @@
           "text": "The most valuable habit in this module is not any one tool. It is doing the check every year, not just once. Who qualifies changes all the time, and quietly: a birthday that crosses an age limit, a change in household income, a new child, a diagnosis, a move to another province, or a program that launched last month. Someone who ran a benefit finder three years ago and found nothing is not wrong about three years ago. They may be wrong about now. The tools take fifteen minutes. Missing a program for three years because nobody checked again costs much more."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Who qualifies changes quietly, so a single check isn’t enough.",
+              "text": "Who qualifies changes quietly, so a single check isn’t enough.",
+              "image": "/images/benefits-support/06-elite/benefits-29/benefits29-image-1.webp"
+            },
+            {
+              "title": "Put the check in your calendar and repeat it every year.",
+              "text": "Put the check in your calendar and repeat it every year.",
+              "image": "/images/benefits-support/06-elite/benefits-29/benefits29-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Quick gut check: if the last time you ran one of these was more than a year ago, that is the whole lesson of this module, right there."
         }
@@ -152,6 +167,7 @@
         {
           "type": "filecards",
           "text": "Run the finders again when",
+          "image": "/images/benefits-support/06-elite/benefits-29/benefits29-image-2.webp",
           "items": [
             {
               "title": "A baby arrives",
@@ -243,6 +259,8 @@
           "text": "Walter and the library computer",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/benefits-support/06-elite/benefits-29/benefits29-image-3.webp",
+          "focus": 25,
           "paragraphs": [
             "Walter is seventy-three and lives alone outside Saskatoon. He has never in his life thought of himself as someone who applies for things. He worked and he paid his taxes. When his wife died three years ago, he assumed any help for that had already found him, the way his pension had.",
             "His goal these days is simple: stay in the house he and his wife built, even as the stairs get harder.",

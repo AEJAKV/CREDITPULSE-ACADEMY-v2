@@ -1,6 +1,6 @@
 {
   "title": "Print on Demand",
-  "summary": "You design → A printer makes it on order → It ships to your buyer",
+  "summary": "Run the numbers → Clear the rights and the border → Launch with a checklist",
   "subtitle": "Sell custom products without owning a single box of stock.",
   "minutes": 30,
   "published": true,
@@ -15,53 +15,8 @@
           "text": "Print on demand lets you put your design on a mug, a T-shirt, or a tote bag. A printing partner makes and ships each item only after someone buys it, so you never hold stock. You also never see the parcel, which means that every “where is my order?” email lands in your inbox instead of theirs."
         },
         {
-          "type": "transition",
-          "text": "Knowing your real profit before you list a design keeps every sale worth making.",
-          "detail": "A quick margin check and a clear shipping promise protect you from selling a product that quietly costs you money.",
-          "extra": "Section 05 includes a checklist that you can run on every new design."
-        }
-      ]
-    },
-    {
-      "id": "basics",
-      "title": "Start with the plain-language basics",
-      "paragraphs": [],
-      "blocks": [
-        {
           "type": "paragraph",
           "text": "The process has five steps. You create a design, you connect it to an online shop, a customer orders and pays you, your printing partner makes and ships the item, and you pay the partner a base cost. The difference between what the customer paid and what you owe is your margin."
-        },
-        {
-          "type": "paragraph",
-          "text": "Your name is on the shop, so customers will look to you when something goes wrong. That includes late deliveries, blurry prints, and wrong sizes, even though a partner handled the work."
-        },
-        {
-          "type": "paragraph",
-          "text": "Here is a simple example. Suppose you sell a T-shirt for $30, and the printer charges $15 to make it. Payment fees take about $1, and shipping is charged separately to the buyer, so you keep about $14. Your real numbers will differ, which is why the margin check matters."
-        }
-      ]
-    },
-    {
-      "id": "designs",
-      "title": "Designs, quality, and where it ships from",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Only use art, fonts, and phrases that you have the right to use. That means your own original work, material that you have licensed, or work in the public domain. Characters, logos, sports teams, and song lyrics belong to other people, and a clever twist on a famous design does not make it yours."
-        },
-        {
-          "type": "myths",
-          "items": [
-            {
-              "title": "“A clever twist on a famous design makes it mine.”",
-              "text": "A design that is too close to someone else’s character, logo, or artwork can still lead to a takedown notice or a legal complaint, even when you drew every line yourself."
-            }
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Order a sample first. Buy one of every product type before you sell it, so you can check the colour, the print quality, and the sizing with your own hands. Keep the receipt, because a sample is a business expense."
         },
         {
           "type": "myths",
@@ -73,8 +28,116 @@
           ]
         },
         {
+          "type": "transition",
+          "text": "Knowing your real profit before you list a design keeps every sale worth making.",
+          "detail": "A quick margin check and a clear shipping promise protect you from selling a product that quietly costs you money.",
+          "extra": "Section 02 runs the numbers on one tote bag."
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Run the Numbers on One Product",
+      "paragraphs": [],
+      "blocks": [
+        {
           "type": "paragraph",
-          "text": "Next, find out where your printer ships from. A printer in Canada delivers inside the country, so your buyers avoid border charges. A printer in the United States must send each parcel across the border, and imported goods can be charged GST, duties, and carrier fees. The rules depend on the value of the goods and the shipping method, so check with the Canada Border Services Agency before you promise “no extra fees.”"
+          "text": "The difference between what the customer paid and what you owe the printer is your margin. Fees take a bite too, and shipping can take another if you offer it free. Here is one tote bag."
+        },
+        {
+          "type": "ledger",
+          "detail": "ONE TOTE, REAL MARGIN",
+          "text": "$32 sale − $17.50 in costs = $14.50 profit, with shipping charged to the buyer at checkout.",
+          "extra": "Offer free shipping and the printer’s $8 shipping charge comes out of your $14.50.",
+          "items": [
+            {
+              "title": "Your profit",
+              "amount": "$14.50",
+              "detail": "Total",
+              "text": "Would you still make this sale with free shipping?"
+            },
+            {
+              "title": "Sale price",
+              "amount": "$32.00",
+              "detail": "Income",
+              "text": "What do similar totes sell for?"
+            },
+            {
+              "title": "Printer’s base cost",
+              "amount": "−$16.00",
+              "detail": "Printer",
+              "text": "Does it change with size or colour?"
+            },
+            {
+              "title": "Payment and platform fees",
+              "amount": "−$1.50",
+              "detail": "Fees",
+              "text": "Check your shop platform’s current fees."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Your name is on the shop, so customers will look to you when something goes wrong. That includes late deliveries, blurry prints, and wrong sizes, even though a partner handled the work."
+        },
+        {
+          "type": "spotlight",
+          "text": "Order a sample first. Buy one of every product type before you sell it, so you can check the colour, the print quality, and the sizing with your own hands. Keep the receipt, because a sample is a business expense."
+        }
+      ]
+    },
+    {
+      "id": "designs",
+      "title": "Clear the Rights and the Border",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Only use art, fonts, and phrases that you have the right to use. That means your own original work, material that you have licensed, or work in the public domain. Characters, logos, sports teams, and song lyrics belong to other people, and a clever twist on a famous design does not make it yours."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fonts count too. Many free fonts allow personal use only, so confirm the licence allows commercial use before you print words on products you sell."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A clever twist on a famous design makes it mine.”",
+              "text": "A design that is too close to someone else’s character, logo, or artwork can still lead to a takedown notice or a legal complaint, even when you drew every line yourself."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Where your printer ships from matters"
+        },
+        {
+          "type": "glasspanel",
+          "text": "Canadian buyer, two printers",
+          "detail": "Same shirt, different surprise",
+          "items": [
+            {
+              "title": "Printer in Canada",
+              "text": "No border — the buyer pays your price, shipping and sales tax, and nothing at the door."
+            },
+            {
+              "title": "Printer in the U.S.",
+              "text": "Possible fees — GST, duties and a carrier’s brokerage fee may be charged on delivery."
+            },
+            {
+              "title": "The price gap",
+              "text": "About $3 a shirt — what Tomás saved, before refunds and one-star reviews."
+            },
+            {
+              "title": "Your promise",
+              "text": "In writing — say who pays any border fees before the buyer clicks Buy."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Border charges depend on the value of the goods and the shipping method, so check with the Canada Border Services Agency before you promise “no extra fees.”"
         },
         {
           "type": "spotlight",
@@ -111,7 +174,7 @@
     },
     {
       "id": "launch",
-      "title": "Your launch checklist",
+      "title": "Your Launch Checklist",
       "paragraphs": [],
       "blocks": [
         {
@@ -142,6 +205,10 @@
               "text": "Log each sale and expense, and report your profit on Form T2125 as business income."
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Run the same five checks on every new design: rights, margin, sample, ship-from and price page. Five minutes with a list is cheaper than one takedown notice."
         },
         {
           "type": "heading",
@@ -187,14 +254,6 @@
         {
           "type": "spotlight",
           "text": "If you sell through an online marketplace, it may report your name and yearly sales to the CRA. The exception is sellers with fewer than 30 sales totalling $2,800 or less on that platform. Your own records should match what the platform reports."
-        },
-        {
-          "type": "spotlight",
-          "text": "Check the font licence. Many free fonts allow personal use only. Before you print words on products that you sell, confirm that the licence allows commercial use."
-        },
-        {
-          "type": "spotlight",
-          "text": "Insider tip: Make a short “Print Check” list and use it on every design: rights, margin, sample, ship-from, and price page. Five minutes with a list is cheaper than one takedown notice."
         }
       ]
     },

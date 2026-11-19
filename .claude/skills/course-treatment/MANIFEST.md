@@ -239,14 +239,14 @@ The corrupted `ordered` lists in income-01 to 04 were rebuilt from each lesson's
 
 | Lesson | Course | Treatment | Teaching grade | Story grade |
 |---|---|---|---|---|
-| income-01 | Senior Companion Services | done 2026-10-30 (corrupted price list rebuilt; insurance and bonding; tax basics) | 12.03 → 8.00 | 9.41 → 5.65 |
-| income-02 | Online Tutoring | done 2026-10-30 (corrupted list rebuilt; CASL consent; tax basics) | 10.81 → 7.92 | 9.54 → 5.16 |
-| income-03 | Reselling Products | done 2026-10-30 (corrupted list rebuilt; personal vs business sales, platform reporting; tax basics) | 10.05 → 7.06 | 9.23 → 4.52 |
-| income-04 | Marketplace Flipping | done 2026-10-30 (corrupted list rebuilt; personal vs business sales; tax basics) | 9.93 → 7.20 | 8.31 → 4.81 |
-| income-05 | Getting Your First Customer | done 2026-10-30 (invoice and confirmation spotlight; tax basics) | 11.12 → 8.10 | 9.85 → 5.91 |
-| income-06 | Digital Products | done 2026-10-30 (new-format cleanup) | 7.98 → 7.76 | 5.87 → 5.83 |
-| income-07 | Affiliate Marketing | done 2026-10-30 (GST card corrected (single-quarter test, foreign commissions)) | 7.93 → 7.87 | 5.41 → 5.41 |
-| income-08 | Print on Demand | done 2026-10-30 (platform reporting spotlight) | 6.69 → 6.71 | 4.73 → 4.71 |
+| income-01 | Senior Companion Services | rebuilt 2026-11-19 (Starter/Silver distinct structure; spotlights capped at 5, max 1 per section; ledger for one visit, tax glass panel, yes/ask/never panels, new signs-of-abuse section) | 12.03 → 6.82 | 9.41 → 5.65 |
+| income-02 | Online Tutoring | rebuilt 2026-11-19 (Starter/Silver distinct structure; spotlights capped at 5, max 1 per section; split session steps, packaging glass panel, GST/HST exemption corrected per CRA memo 20-6 (test prep usually taxable)) | 10.81 → 6.87 | 9.54 → 5.16 |
+| income-03 | Reselling Products | rebuilt 2026-11-19 (Starter/Silver distinct structure; spotlights capped at 5, max 1 per section; profit ledger, max-buy steps, CRA and platform glass panel) | 10.05 → 6.15 | 9.23 → 4.52 |
+| income-04 | Marketplace Flipping | rebuilt 2026-11-19 (Starter/Silver distinct structure; spotlights capped at 5, max 1 per section; five-stop number carousel, max-buy glass panel, red-flag panels, business section) | 9.93 → 6.84 | 8.31 → 4.81 |
+| income-05 | Getting Your First Customer | rebuilt 2026-11-19 (Starter/Silver distinct structure; spotlights capped at 5, max 1 per section; one-line offer quote, 14-day outreach day carousel, CASL glass panel, invoice steps and payment waterfall) | 11.12 → 7.57 | 9.85 → 5.91 |
+| income-06 | Digital Products | rebuilt 2026-11-19 (Starter/Silver distinct structure; spotlights capped at 5, max 1 per section; format tiles, $14 sale fee ledger, rights panels, refund-policy spotlight) | 7.98 → 6.98 | 5.87 → 5.83 |
+| income-07 | Affiliate Marketing | rebuilt 2026-11-19 (Starter/Silver distinct structure; spotlights capped at 5, max 1 per section; program-terms glass panel, real vs fake boost-job panels, payout waterfall) | 7.93 → 7.72 | 5.41 → 5.41 |
+| income-08 | Print on Demand | rebuilt 2026-11-19 (Starter/Silver distinct structure; spotlights capped at 5, max 1 per section; one-tote margin ledger, ship-from glass panel, font licence note) | 6.69 → 6.48 | 4.73 → 4.71 |
 | income-09 | Ecommerce | done 2026-10-30 (Quebec French-language and platform spotlights) | 7.13 → 7.14 | 4.68 → 4.68 |
 | income-10 | AI-Assisted Businesses | done 2026-10-30 (tool terms (ownership, training); GST card corrected) | 8.33 → 6.96 | 4.06 → 4.06 |
 | income-11 | Social-Media Management | done 2026-10-30 (pilot pricing and written-agreement cards) | 9.06 → 6.43 | 8.01 → 5.68 |

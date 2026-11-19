@@ -1,6 +1,6 @@
 {
   "title": "Digital Products",
-  "summary": "Make it once → Deliver it as a file → Get paid",
+  "summary": "Pick an idea → Price it and protect your rights → Launch and log every sale",
   "subtitle": "Turn what you already know into something people can download.",
   "minutes": 30,
   "published": true,
@@ -15,37 +15,60 @@
           "text": "A digital product is a file that you make once and can sell again and again, such as a budget template, a recipe collection, or a study guide. There are no boxes to pack, no postage to pay, and no garage full of leftover stock, so your only inventory problem is a folder named “Final_v7_REAL.pdf”."
         },
         {
+          "type": "paragraph",
+          "text": "This lesson walks you from idea to first sale: how to choose a product people already pay for, what a sale leaves you after fees, which files you have the right to sell and how to keep tax simple from day one."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Digital products are passive income.”",
+              "text": "The selling can run on its own. Building the product, answering buyer questions, fixing errors and marketing it are still real work, especially in the first few months."
+            }
+          ]
+        },
+        {
           "type": "transition",
           "text": "A small digital product you finish this month can earn money for years with no stock to store.",
           "detail": "Picking one small problem, pricing it fairly and tracking every sale from day one makes it a real business.",
-          "extra": "Section 05 has the tax steps if you would rather see those first."
+          "extra": "Section 02 helps you pick an idea people will pay for."
         }
       ]
     },
     {
-      "id": "basics",
-      "title": "Start with the plain-language basics",
+      "id": "idea",
+      "title": "Pick an Idea That Sells",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A digital product is anything a buyer receives as a file or an online login instead of a parcel in the mail. Common examples include a printable meal planner, a spreadsheet that tracks monthly bills, a short video course, a set of photo presets, and a template pack for small businesses."
+          "text": "A digital product is anything a buyer receives as a file or an online login instead of a parcel. You do the hard work once, and each later sale costs almost nothing to deliver. That is the appeal, and it is also why the market is crowded."
         },
         {
-          "type": "paragraph",
-          "text": "The idea is simple. You do the hard work once, and each later sale costs almost nothing to deliver. That is the whole appeal of digital products. It is also why the market is crowded, so a clear and useful idea matters far more than a fancy one."
+          "type": "cards",
+          "items": [
+            {
+              "title": "PRINTABLES",
+              "icon": "calendar",
+              "text": "Meal planners, chore charts and checklists. Quick to make and easy for buyers to understand."
+            },
+            {
+              "title": "SPREADSHEETS",
+              "icon": "receipt",
+              "text": "Bill trackers, budget sheets and small-business logs. People pay for formulas that already work."
+            },
+            {
+              "title": "TEMPLATES",
+              "icon": "briefcase",
+              "text": "Résumés, invoices, social posts and lesson plans that save someone an evening of setup."
+            },
+            {
+              "title": "SHORT COURSES",
+              "icon": "activity",
+              "text": "A few focused videos that teach one skill. More work to make, and buyers expect more support."
+            }
+          ]
         },
-        {
-          "type": "paragraph",
-          "text": "Selling anything online is a business activity, even when the amounts are small, and we will explain what that means for your taxes shortly. First, let’s look at what makes a product worth creating."
-        }
-      ]
-    },
-    {
-      "id": "what-sells",
-      "title": "What sells, and why",
-      "paragraphs": [],
-      "blocks": [
         {
           "type": "paragraph",
           "text": "People pay for products that save them time, solve a small but annoying problem, or help them feel more organized. A topic like “everything about money” is far too broad, while “a one-page tracker for an uneven paycheque” is specific enough to sell."
@@ -82,17 +105,118 @@
         {
           "type": "paragraph",
           "text": "Start with a format that you already know how to make, since a clean PDF made well will always beat a complicated app made badly. Spreadsheets, printable pages, and short video lessons are all reasonable first choices for a beginner."
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "title": "Price It, Then Protect It",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Price the problem, not the hours. A planner that saves someone a stressful evening is worth more than the time it took you to build. Check what similar products charge, then pick a price you’d be comfortable paying yourself."
+        },
+        {
+          "type": "ledger",
+          "detail": "ONE $14 SALE",
+          "text": "A $14 file on a typical marketplace keeps about $12.14 after fees. Selling from your own page cuts fees, but you pay for tools and bring your own buyers.",
+          "extra": "Fees differ by platform and change often, so check the current fee page before you set your price.",
+          "items": [
+            {
+              "title": "You keep",
+              "amount": "$12.14",
+              "detail": "Total",
+              "text": "Is this enough to justify the hours you spent?"
+            },
+            {
+              "title": "Sale price",
+              "amount": "$14.00",
+              "detail": "Income",
+              "text": "What do similar files sell for?"
+            },
+            {
+              "title": "Transaction fee, about 6.5%",
+              "amount": "−$0.91",
+              "detail": "Platform",
+              "text": "Charged on each sale."
+            },
+            {
+              "title": "Payment processing",
+              "amount": "−$0.67",
+              "detail": "Payments",
+              "text": "Often a percentage plus a flat fee."
+            },
+            {
+              "title": "Listing fee",
+              "amount": "−$0.28",
+              "detail": "Platform",
+              "text": "Some sites charge each time an item is listed or renewed."
+            }
+          ]
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "Marketplace",
+              "text": "",
+              "list": [
+                "Setup: Fast, because the platform handles checkout.",
+                "Cost: The platform keeps a fee from each sale.",
+                "Buyers: Built-in shoppers who are already searching."
+              ]
+            },
+            {
+              "title": "Your own page",
+              "text": "",
+              "list": [
+                "Setup: More work, since you build and connect the pieces.",
+                "Cost: Fewer fees, but you pay for your tools.",
+                "Buyers: You must bring your own audience."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Only sell what you have the right to sell"
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "SAFE TO USE",
+              "text": "",
+              "list": [
+                "Your own writing, photos and designs",
+                "Fonts and graphics licensed for commercial use",
+                "Work in the public domain, checked carefully"
+              ]
+            },
+            {
+              "title": "ASK OR AVOID",
+              "text": "",
+              "list": [
+                "Free fonts or clip art marked “personal use only”",
+                "Characters, logos and brand names",
+                "AI images whose tool terms you haven’t read",
+                "Copying another seller’s layout or wording"
+              ],
+              "icon": "alert"
+            }
+          ]
         },
         {
           "type": "spotlight",
-          "text": "Price the problem, not the hours. A planner that saves someone a stressful evening is worth more than the time it took you to build. Check what similar products charge, then choose a price that you would feel comfortable paying yourself. As an example, a $15 template that saves an evening is a fair offer."
+          "text": "Write a clear refund policy before your first sale. Files can’t be returned, so say what you will do if a file is broken, the wrong version or not as described."
         },
         {
           "type": "myths",
           "items": [
             {
-              "title": "“Small online sales do not count, so there is nothing to report.”",
-              "text": "The CRA says that residents must report all income, including money earned through digital platforms, and even small amounts count. Registering for GST/HST is a separate question that has its own limit of $30,000."
+              "title": "“Once I sell it, I’m done with it.”",
+              "text": "Buyers find errors, ask questions and need updates when software changes. Plan a little time each month to support what you sell."
             }
           ]
         }
@@ -125,7 +249,7 @@
     },
     {
       "id": "launch",
-      "title": "Your five-step launch",
+      "title": "Your Five-Step Launch",
       "paragraphs": [],
       "blocks": [
         {
@@ -141,7 +265,7 @@
             },
             {
               "title": "Set a price and choose where to sell.",
-              "text": "The table below compares the two most common options for beginners."
+              "text": "Section 03 compares a marketplace with your own page."
             },
             {
               "title": "Open a sales log.",
@@ -154,27 +278,8 @@
           ]
         },
         {
-          "type": "lists",
-          "items": [
-            {
-              "title": "Marketplace",
-              "text": "",
-              "list": [
-                "Setup: Fast, because the platform handles checkout.",
-                "Cost: The platform keeps a fee from each sale.",
-                "Buyers: Built-in shoppers who are already searching."
-              ]
-            },
-            {
-              "title": "Your own page",
-              "text": "",
-              "list": [
-                "Setup: More work, since you build and connect the pieces.",
-                "Cost: Fewer fees, but you pay for your tools.",
-                "Buyers: You must bring your own audience."
-              ]
-            }
-          ]
+          "type": "paragraph",
+          "text": "Keep a “Version 2” list from day one. Every buyer question points to your next product and gives you the words for your sales page."
         },
         {
           "type": "heading",
@@ -213,10 +318,6 @@
         {
           "type": "spotlight",
           "text": "Behind on reporting? You can fix it. The CRA says that if you left platform income off earlier returns, you can change those returns. Its Voluntary Disclosures Program may also reduce penalties when you come forward before the CRA contacts you, so it is better to correct a mistake early than to hope nobody notices."
-        },
-        {
-          "type": "spotlight",
-          "text": "Insider tip: Keep a “Version 2” list starting on day one. Every time a buyer asks a question, write it down, because those questions point to your next product and give you the best words for your sales page."
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "title": "Getting Your First Customer",
-  "summary": "Focus → Invite → Diagnose → Offer → Deliver",
+  "summary": "Write a one-line offer → Run a two-week outreach plan → Get paid like a business",
   "subtitle": "Move from “I have a business” to “someone paid me,” the small but important plot twist",
   "minutes": 45,
   "published": true,
@@ -51,36 +51,44 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Describe your offer in one sentence: “I help [a specific customer] solve [a specific problem] by providing [a defined service or product] for [a price or starting price].”"
+          "text": "If a stranger can’t repeat your offer back to you, they can’t buy it or recommend it. Fill in this one sentence before you contact anyone:"
+        },
+        {
+          "type": "quote",
+          "text": "“I help [a specific customer] solve [a specific problem] by providing [a defined service or product] for [a price or starting price].”"
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "CHOOSE THE CUSTOMER",
+              "icon": "target",
               "text": "Start with one group whose problem, budget and way of buying you understand. “Local landlords with one to five units” gives clearer direction than “anyone who owns walls.”"
             },
             {
               "title": "NAME THE RESULT",
+              "icon": "zap",
               "text": "Describe the useful result, not every task. A customer buys a clean move-out inspection, a working booking page or three ready freezer meals, not your internal checklist."
             },
             {
               "title": "SET A STARTER SCOPE",
+              "icon": "map",
               "text": "Limit the time, place, number of revisions, materials, delivery and what is left out. A small, fixed, paid trial can lower the risk for both of you without turning free work into “exposure.”"
             },
             {
               "title": "PRICE THE WHOLE JOB",
+              "icon": "wallet",
               "text": "Include preparation, travel, materials, fees, messages, delivery, tax and follow-up. Say your deposit, when payment is due and your cancellation terms before work starts."
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Market research starts with what customers and competitors tell you. Ten short conversations can show you the words, worries and reasons to buy that a month of logo polishing never will."
+          "text": "A paid trial should have a real scope and a fair price. A discount can support a test. Underpricing for good teaches customers a lesson you did not intend."
         },
         {
-          "type": "spotlight",
-          "text": "A paid trial should have a real scope and a fair price. A discount can support a test. Underpricing for good teaches customers a lesson you did not intend."
+          "type": "paragraph",
+          "text": "Market research starts with what customers and competitors tell you. Ten short conversations can show you the words, worries and reasons to buy that a month of logo polishing never will."
         },
         {
           "type": "myths",
@@ -100,31 +108,51 @@
     },
     {
       "id": "conversation",
-      "title": "Invite a Next Step, Not a Parade",
+      "title": "Your First Two Weeks of Outreach",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Build a list of 20 people who are likely to fit, from your own network, local groups, referrals, public business directories or suitable community groups. Note why each one may fit."
+          "text": "Build a list of 20 people who are likely to fit, from your own network, local groups, referrals and public business directories. Note why each one may fit. Then work the plan below, one step at a time."
         },
         {
-          "type": "ordered",
+          "type": "carousel",
           "items": [
             {
-              "title": "Warm introduction",
-              "text": "Tell people you trust exactly who you help, and ask whether one suitable introduction comes to mind. Do not ask them to “send anyone with money.”"
+              "title": "BUILD THE LIST",
+              "text": "Write 20 names and one line on why each might need your offer. Twenty good fits beat 2,000 strangers.",
+              "detail": "DAY 1",
+              "icon": "list"
             },
             {
-              "title": "Outreach with permission",
-              "text": "Use each channel properly and follow Canada’s Anti-Spam Legislation. Promotional emails and texts generally need consent, your name and contact details, and a working way to unsubscribe."
+              "title": "ASK FOR INTRODUCTIONS",
+              "text": "Tell five people you trust exactly who you help, and ask if one suitable person comes to mind. Don’t ask them to “send anyone with money.”",
+              "detail": "DAYS 2–3",
+              "icon": "search"
             },
             {
-              "title": "Discovery conversation",
-              "text": "Ask what is happening now, what result matters, what they have tried, their timing, who decides and what budget feels comfortable. Listen before you pitch."
+              "title": "HAVE REAL CONVERSATIONS",
+              "text": "Ask what is happening now, what they have tried, what result matters, their timing, who decides and what budget feels comfortable. Listen before you pitch.",
+              "detail": "DAYS 4–7",
+              "icon": "clock"
             },
             {
-              "title": "Written next step",
-              "text": "Sum up the problem, the result, the scope, the price, the timing, who does what and how they say yes. Give a deadline only if it is real."
+              "title": "SEND A WRITTEN OFFER",
+              "text": "Sum up the problem, result, scope, price, timing and how they say yes. Give a deadline only if it is real.",
+              "detail": "DAY 8",
+              "icon": "filetext"
+            },
+            {
+              "title": "FOLLOW UP ONCE",
+              "text": "Send something new or a clear yes-or-no question. Silence is information, not permission for a 14-message documentary series.",
+              "detail": "DAY 13",
+              "icon": "calendar"
+            },
+            {
+              "title": "REVIEW AND REPEAT",
+              "text": "Count conversations, offers and yeses. Rewrite your one-sentence offer using the words people used, then start the next 20.",
+              "detail": "DAY 14",
+              "icon": "check"
             }
           ]
         },
@@ -133,8 +161,31 @@
           "text": "A good first message is short: something relevant you noticed, a specific result, one reason you can help and a low-pressure question. Personal means relevant, not pasting a first name into a novel."
         },
         {
-          "type": "spotlight",
-          "text": "Follow up once or twice with something new or a clear yes-or-no question. Silence is information. It is not permission to begin a 14-message documentary series."
+          "type": "heading",
+          "text": "Email and text rules (CASL)"
+        },
+        {
+          "type": "glasspanel",
+          "text": "Canada’s Anti-Spam Legislation",
+          "detail": "Applies to promotional emails and texts",
+          "items": [
+            {
+              "title": "Consent",
+              "text": "Ask first — promotional messages generally need permission, though some business relationships and referrals have narrow exceptions."
+            },
+            {
+              "title": "Identify yourself",
+              "text": "Every message — your name, business and a way to reach you."
+            },
+            {
+              "title": "Unsubscribe",
+              "text": "10 business days — the time you have to honour a request to stop."
+            },
+            {
+              "title": "Penalties",
+              "text": "Up to $1 million — for individuals, and $10 million for businesses, for serious violations."
+            }
+          ]
         },
         {
           "type": "myths",
@@ -144,39 +195,6 @@
               "text": "An objection may mean missing information, bad timing, the wrong decision-maker, a poor fit or an honest no. Ask one respectful question, answer truthfully and let the customer decide."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Before you deliver, send a short invoice or written confirmation with your business name, the date, what you will do, the price and when payment is due. It looks professional, it settles questions later and it is the first record for your taxes."
-        },
-        {
-          "type": "heading",
-          "text": "Tax basics for your first year"
-        },
-        {
-          "type": "cards",
-          "items": [
-            {
-              "title": "REPORT IT",
-              "text": "Business income goes on Form T2125 with your personal tax return, whether clients pay by cash, cheque or e-transfer."
-            },
-            {
-              "title": "PAY BOTH HALVES OF CPP",
-              "text": "Self-employed people pay the worker and employer shares of CPP, 11.9% of net business income above the basic amount, on Schedule 8 of the return."
-            },
-            {
-              "title": "SET MONEY ASIDE",
-              "text": "Nobody takes tax off your pay. Move a share of every payment into a separate account. If you owe more than $3,000 ($1,800 in Quebec) this year and in either of the last two years, the CRA will ask for quarterly instalments."
-            },
-            {
-              "title": "KEEP RECORDS SIX YEARS",
-              "text": "Keep invoices, receipts, mileage and bank records for six years from the end of the tax year they belong to."
-            }
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Key takeaway: your first customer comes from focus and trust. Choose one suitable buyer, understand a real need, make a specific written offer, follow up with respect and deliver what you promised before you chase growth."
         }
       ]
     },
@@ -216,7 +234,66 @@
           "type": "transition",
           "text": "Leah landed her first client, and two referrals, by asking questions and fixing one real problem.",
           "detail": "One clear, paid trial can turn your own first conversation into a steady source of work.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "Section 05 shows how to invoice and split your first payment."
+        }
+      ]
+    },
+    {
+      "id": "paid",
+      "title": "Get Paid Like a Business",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Your first payment feels like a finish line. It is the start of your records. Send a short invoice, and decide where every dollar goes before it blends into your grocery money."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Your business name and contact details",
+              "text": "Plus the client’s name and the invoice date and number."
+            },
+            {
+              "title": "What you delivered",
+              "text": "The scope in one or two lines, matching your written offer."
+            },
+            {
+              "title": "The price and due date",
+              "text": "For example, “$450, 50% deposit received, balance due in 14 days.”"
+            },
+            {
+              "title": "Your GST/HST number, once registered",
+              "text": "You generally don’t need one until taxable sales pass $30,000 in one quarter or over four quarters in a row."
+            }
+          ]
+        },
+        {
+          "type": "waterfall",
+          "text": "Split your first payment",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter what the client paid and what the job cost you. Give every dollar of profit a job before you spend any of it.",
+          "items": [
+            {
+              "title": "Leah’s $450 booking page",
+              "text": "PAYMENT RECEIVED|COSTS OF THE JOB|",
+              "amount": "450",
+              "detail": "30;Income tax:80,CPP:50,Business buffer:60,Pay yourself:230"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Report this income on Form T2125 with your personal return. Self-employed people pay both halves of CPP, 11.9% of net earnings above $3,500, so set money aside with every payment instead of waiting for April."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“My first sale is too small to report.”",
+              "text": "Business income counts from the first dollar. A small sale is also the easiest one to record properly, so start the habit now."
+            }
+          ]
         }
       ]
     },
@@ -252,6 +329,11 @@
               "title": "What does a respectful follow-up avoid?",
               "detail": "Pressure. One or two follow-ups with something new or a clear yes-or-no question is enough.",
               "text": ""
+            },
+            {
+              "title": "How long do you have to honour an unsubscribe request under CASL?",
+              "text": "",
+              "detail": "10 business days."
             }
           ]
         }

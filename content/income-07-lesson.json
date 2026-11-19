@@ -1,6 +1,6 @@
 {
   "title": "Affiliate Marketing",
-  "summary": "You share a link → The link tracks the click → The seller pays you",
+  "summary": "Decode the program → Protect your audience’s trust → Disclose and track every dollar",
   "subtitle": "Earn a commission by recommending things you honestly use.",
   "minutes": 30,
   "published": true,
@@ -15,16 +15,24 @@
           "text": "Affiliate marketing is a fancy name for a simple deal: a company pays you a thank-you when someone buys through your special link. It is word of mouth with a tracking code attached. The catch is that it only works when people trust you, and Canadian law cares a great deal about how you explain that you are being paid."
         },
         {
+          "type": "paragraph",
+          "text": "This lesson covers how affiliate programs pay, how to pick offers without losing your audience’s trust, where your disclosure must go and how to handle the money at tax time."
+        },
+        {
+          "type": "spotlight",
+          "text": "The law reaches small creators too. The Competition Bureau says that the deceptive marketing rules apply to anyone who promotes a product, service, or business interest, and people who break them can face significant penalties. Having a small following does not make you exempt."
+        },
+        {
           "type": "transition",
           "text": "Earning from trust, without losing it, lets a small audience pay for something real.",
           "detail": "You will learn to choose offers your audience needs and to say you are paid, so your advice stays believable.",
-          "extra": "Section 05 includes a disclosure line that you can copy and adjust."
+          "extra": "Section 02 decodes how an affiliate program pays you."
         }
       ]
     },
     {
-      "id": "basics",
-      "title": "Start with the plain-language basics",
+      "id": "money",
+      "title": "How the Money Moves",
       "paragraphs": [],
       "blocks": [
         {
@@ -36,19 +44,27 @@
           "text": "If the buyer purchases within the seller’s cookie window, which might be a few days or a few months, you earn a commission. That is usually a percentage of the sale, although some programs pay a flat amount instead. Refunded sales often cancel the commission, and most programs pay only after you reach a minimum balance."
         },
         {
-          "type": "paragraph",
-          "text": "None of this requires a big audience, but it does require honesty. A friendly mention to a small group is still marketing once money is involved, so the same rules apply to a tiny blog and to a famous creator."
-        }
-      ]
-    },
-    {
-      "id": "choosing",
-      "title": "Choosing offers and keeping trust",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Promote only products that you have used or carefully researched. The Competition Bureau says that reviews and testimonials must be based on real experience, and an honest “this was not for me” builds more trust than a glowing review of something you never tried."
+          "type": "glasspanel",
+          "text": "One program, decoded",
+          "detail": "A typical outdoor-gear program",
+          "items": [
+            {
+              "title": "Commission",
+              "text": "8% — of each sale, so a $250 jacket earns you $20."
+            },
+            {
+              "title": "Cookie window",
+              "text": "30 days — a buyer who clicks today and buys within a month still counts."
+            },
+            {
+              "title": "Payout threshold",
+              "text": "$50 — nothing is paid until your balance reaches this."
+            },
+            {
+              "title": "Refunds",
+              "text": "Reversed — if the buyer returns the jacket, the $20 comes back off your balance."
+            }
+          ]
         },
         {
           "type": "heading",
@@ -76,8 +92,19 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "The law reaches small creators too. The Competition Bureau says that the deceptive marketing rules apply to anyone who promotes a product, service, or business interest, and people who break them can face significant penalties. Having a small following does not make you exempt."
+          "type": "paragraph",
+          "text": "None of this requires a big audience, but it does require honesty. A friendly mention to a small group is still marketing once money is involved, so the same rules apply to a tiny blog and to a famous creator."
+        }
+      ]
+    },
+    {
+      "id": "choosing",
+      "title": "Choose Offers That Keep Your Audience",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Promote only products that you have used or carefully researched. The Competition Bureau says that reviews and testimonials must be based on real experience, and an honest “this was not for me” builds more trust than a glowing review of something you never tried."
         },
         {
           "type": "myths",
@@ -89,8 +116,38 @@
           ]
         },
         {
+          "type": "lists",
+          "items": [
+            {
+              "title": "A REAL PROGRAM",
+              "text": "",
+              "list": [
+                "Free to join, with written terms",
+                "Pays a share of real sales to real buyers",
+                "Accepts Canadian residents and says how it pays",
+                "Lets you leave at any time"
+              ]
+            },
+            {
+              "title": "A FAKE “BOOST” JOB",
+              "text": "",
+              "list": [
+                "Pays you for liking, rating or “boosting” apps or products",
+                "Shows small early earnings to build trust",
+                "Then asks you to deposit money to unlock bigger tasks",
+                "Never lets you withdraw what you put in"
+              ],
+              "icon": "alert"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Canadian Anti-Fraud Centre has warned about these task scams. A real affiliate program never needs you to pay before you can earn."
+        },
+        {
           "type": "spotlight",
-          "text": "Beware of fake “boost” jobs. The Canadian Anti-Fraud Centre has warned about offers to earn money by boosting apps, videos, or products. Victims complete small tasks, then are pushed to deposit money that they can never withdraw. A real program never needs you to pay before you can earn."
+          "text": "Add one honest “who this is not for” line to every recommendation. It makes your praise more believable, and it helps the wrong buyers skip a purchase they would have returned."
         }
       ]
     },
@@ -123,7 +180,7 @@
     },
     {
       "id": "launch",
-      "title": "Disclosure and money in four moves",
+      "title": "Disclose, Track and Split Every Payout",
       "paragraphs": [],
       "blocks": [
         {
@@ -187,6 +244,24 @@
         },
         {
           "type": "heading",
+          "text": "Split each payout before you spend it"
+        },
+        {
+          "type": "waterfall",
+          "text": "Give your payout a job",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter the payout and what you spent on the channel this month. Assign every dollar of profit before you spend any of it.",
+          "items": [
+            {
+              "title": "Marcus’s $420 month",
+              "text": "PAYOUT RECEIVED|CHANNEL COSTS THIS MONTH|",
+              "amount": "420",
+              "detail": "40;Income tax:80,CPP:40,Gear and software:60,Savings for the tent:200"
+            }
+          ]
+        },
+        {
+          "type": "heading",
           "text": "Money notes, and what changes by province"
         },
         {
@@ -205,10 +280,6 @@
               "text": "Quebec’s Consumer Protection Act also covers false or misleading advertising, and French-language rules apply to marketing aimed at Quebecers, so check Quebec’s requirements before you promote there."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Insider tip: Add one honest “who this is not for” line to every recommendation. It makes your praise more believable, and it helps the wrong buyers skip a purchase they would have returned."
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "title": "Marketplace Flipping",
-  "summary": "Search → Inspect → Price → Exchange → Record",
+  "summary": "Run the inspection → Set your number → Check the payment yourself → Track it as a business",
   "subtitle": "Turn local finds into real value, without letting urgency, mystery links or a suspiciously silent blender run the meeting",
   "minutes": 45,
   "published": true,
@@ -40,7 +40,7 @@
           "type": "transition",
           "text": "A few checks before every deal protect your money, your safety and your profit.",
           "detail": "Proof that an item is legit, tested, worth the price and paid for turns a lucky find into a business.",
-          "extra": "Section 02 shows how to make an item prove its story."
+          "extra": "Section 02 walks you through the five-stop inspection."
         }
       ]
     },
@@ -51,36 +51,52 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "An item earns your money by passing inspection, not by telling a good story."
+          "text": "An item earns your money by passing inspection, not by telling a good story. Run the same five stops on every deal, in the same order, and you’ll walk away from bad ones before they cost you."
         },
         {
-          "type": "cards",
+          "type": "carousel",
+          "text": "The five-stop inspection",
+          "detail": "BEFORE YOU PAY",
           "items": [
             {
               "title": "RESEARCH THE RANGE",
-              "text": "Compare local sold prices for the exact model and condition. Allow for the season, missing parts and how far a buyer must travel."
+              "text": "Compare local sold prices for the exact model and condition. Allow for the season, missing parts and how far a buyer must travel.",
+              "detail": "NUMBER 1",
+              "icon": "search"
             },
             {
               "title": "ASK BEFORE YOU DRIVE",
-              "text": "Ask for current photos, the model number, known defects, repair history, what is included and why they are selling. A clear answer saves kilometres and awkward driveway archaeology."
+              "text": "Ask for current photos, the model number, known defects, repair history, what is included and why they are selling. A clear answer saves kilometres and awkward driveway archaeology.",
+              "detail": "NUMBER 2",
+              "icon": "list"
             },
             {
               "title": "INSPECT IN PERSON",
-              "text": "Use a checklist for the category. Turn electronics on, test the controls, check for smells and water damage, look at frames and bolts, and make sure promised parts are there."
+              "text": "Use a checklist for the category. Turn electronics on, test the controls, check for smells and water damage, look at frames and bolts, and make sure promised parts are there.",
+              "detail": "NUMBER 3",
+              "icon": "check"
             },
             {
               "title": "CHECK IT IS LEGIT",
-              "text": "Ask for a receipt or reasonable proof of ownership for higher-risk goods. Note serial numbers where allowed, search recalls, and walk away from removed serial numbers, signs of fakes or stories that do not add up."
+              "text": "Ask for a receipt or reasonable proof of ownership for higher-risk goods. Note serial numbers where allowed, search recalls, and walk away from removed serial numbers, signs of fakes or stories that do not add up.",
+              "detail": "NUMBER 4",
+              "icon": "filecheck"
+            },
+            {
+              "title": "DECIDE ON THE SPOT",
+              "text": "If anything fails, use your walk-away rule. A deal you safely turn down costs you nothing. A stolen bike or a dead blender costs you twice.",
+              "detail": "NUMBER 5",
+              "icon": "lock"
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Search Health Canada’s recall database by brand and model. An item that looks repaired still needs its recall status checked."
+          "text": "For bikes, electronics and other items that get stolen, a missing or altered serial number is a stop sign, not an invitation to improve your negotiating voice."
         },
         {
-          "type": "spotlight",
-          "text": "For bikes, electronics and other items that get stolen, a missing or altered serial number is a stop sign, not an invitation to improve your negotiating voice."
+          "type": "paragraph",
+          "text": "Search Health Canada’s recall database by brand and model, even for items that look repaired. A fix you can’t confirm isn’t a fix."
         },
         {
           "type": "myths",
@@ -100,31 +116,54 @@
     },
     {
       "id": "exchange",
-      "title": "Set the Deal Rules Before the Parking Lot",
+      "title": "Set Your Number Before the Parking Lot",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Set your maximum buy price before the meeting. Start with a cautious resale price, then subtract cleaning, parts, travel, selling costs, a risk allowance and your target profit. Bring that number with you."
+          "text": "Set your maximum buy price at home, where nobody is watching you hesitate. Start with a cautious resale price, then take off costs, a risk allowance and your target profit."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Mateo’s number for a used lens",
+          "detail": "Worked out before the meeting",
+          "items": [
+            {
+              "title": "Cautious resale",
+              "text": "$180 — what the same lens sold for locally"
+            },
+            {
+              "title": "Costs",
+              "text": "−$20 — cleaning supplies, gas and selling fees"
+            },
+            {
+              "title": "Risk allowance",
+              "text": "−$20 — for a fault you miss or a slow sale"
+            },
+            {
+              "title": "Maximum buy price",
+              "text": "$90 — after a $50 profit target"
+            }
+          ]
         },
         {
           "type": "ordered",
           "items": [
             {
               "title": "Negotiate inside your number",
-              "text": "Offer below your maximum, and walk away if the seller will not meet it. Your number protects you from parking lot pressure."
+              "text": "Offer below your maximum, and walk away if the seller won’t meet it. Your number protects you from parking lot pressure."
             },
             {
               "title": "Meet somewhere safe",
               "text": "Meet in daylight in a busy public place. Many police stations have a marked area for online sales. Tell someone where you are going."
             },
             {
-              "title": "Verify payment yourself",
+              "title": "Check payment yourself",
               "text": "Open your own banking app and confirm the money is there before you hand over the item. Never trust a screenshot, email or link."
             },
             {
               "title": "Record the deal",
-              "text": "Write down what you paid, what you spent fixing it up, what you sold it for and the date. Those records are your profit and your tax proof."
+              "text": "Write down what you paid, what you spent fixing it up, what you sold it for and the date."
             }
           ]
         },
@@ -133,8 +172,30 @@
           "text": "A fake e-transfer message may lead to a fake page that asks for your banking login. Open your bank yourself and check for the deposit there."
         },
         {
-          "type": "spotlight",
-          "text": "Overpayment is a warning sign. A buyer who sends “too much” and asks for a refund may be trying to turn a fake payment into your real money."
+          "type": "lists",
+          "items": [
+            {
+              "title": "RED FLAGS THAT END THE DEAL",
+              "text": "",
+              "list": [
+                "A buyer sends “too much” and asks for a refund",
+                "A link to “accept” or “upgrade” a payment",
+                "A request for a one-time code from your bank",
+                "A changed meeting place or a courier pickup"
+              ],
+              "icon": "alert"
+            },
+            {
+              "title": "HABITS THAT KEEP YOU SAFE",
+              "text": "",
+              "list": [
+                "Check the deposit in your own banking app",
+                "Meet in daylight, in a busy public place",
+                "Bring a friend for high-value items",
+                "Report suspicious accounts to the platform"
+              ]
+            }
+          ]
         },
         {
           "type": "myths",
@@ -144,39 +205,6 @@
               "text": "Every method has risks. Cash can be fake, and carrying it affects your safety. Follow your platform’s and bank’s advice, meet safely and check the payment yourself."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Selling your own used things, like an old couch or last year’s skates, is generally not taxable, especially when you sell for less than you paid. Buying items so you can sell them for a profit is a business, and that profit is taxable income. Some online marketplaces now also report seller names and sales totals to the CRA each year, unless you made fewer than 30 sales totalling $2,800 or less on that platform."
-        },
-        {
-          "type": "heading",
-          "text": "Tax basics for your first year"
-        },
-        {
-          "type": "cards",
-          "items": [
-            {
-              "title": "REPORT IT",
-              "text": "Business income goes on Form T2125 with your personal tax return, whether clients pay by cash, cheque or e-transfer."
-            },
-            {
-              "title": "PAY BOTH HALVES OF CPP",
-              "text": "Self-employed people pay the worker and employer shares of CPP, 11.9% of net business income above the basic amount, on Schedule 8 of the return."
-            },
-            {
-              "title": "SET MONEY ASIDE",
-              "text": "Nobody takes tax off your pay. Move a share of every payment into a separate account. If you owe more than $3,000 ($1,800 in Quebec) this year and in either of the last two years, the CRA will ask for quarterly instalments."
-            },
-            {
-              "title": "KEEP RECORDS SIX YEARS",
-              "text": "Keep invoices, receipts, mileage and bank records for six years from the end of the tax year they belong to."
-            }
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Key takeaway: a flip is only profitable when the item is legit, safe and tested, your maximum buy price protects your margin and you check the payment yourself. A deal you safely turn down can be excellent business."
         }
       ]
     },
@@ -216,7 +244,57 @@
           "type": "transition",
           "text": "Mateo kept his lens and his bank account safe by checking his own app instead of the buyer’s screen.",
           "detail": "The same habit protects every flip you make, no matter how friendly the buyer seems.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "Section 05 shows when flipping becomes a business in the CRA’s eyes."
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "When Flipping Becomes a Business",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Clearing out your own garage is not a business. Buying items so you can fix them and sell them for a profit is, even if you only do it on weekends. Once you cross that line, a few rules apply."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "REPORT THE PROFIT",
+              "icon": "receipt",
+              "text": "Report flipping profit as business income on Form T2125. Self-employed people also pay both halves of CPP on net earnings above $3,500."
+            },
+            {
+              "title": "PLATFORMS REPORT TOO",
+              "icon": "inbox",
+              "text": "Some online marketplaces report seller names and sales totals to the CRA each year, unless you made fewer than 30 sales totalling $2,800 or less on that platform."
+            },
+            {
+              "title": "CLAIM YOUR COSTS",
+              "icon": "wallet",
+              "text": "What you paid for items, parts, cleaning supplies, selling fees and business kilometres lower your taxable profit. Keep every receipt."
+            },
+            {
+              "title": "WATCH THE $30,000 LINE",
+              "icon": "alert",
+              "text": "Once taxable sales pass $30,000 in one quarter or over four quarters in a row, you must register for GST/HST."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Cash sales don’t count.”",
+              "text": "How you are paid doesn’t change what the income is. Cash, e-transfer and card sales all belong in your records."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "CRA: Taxes and the platform economy",
+          "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/platform-economy/understanding-tax-obligations.html"
         }
       ]
     },
@@ -252,6 +330,11 @@
               "title": "What must an honest resale listing include?",
               "detail": "The current condition, any known defects and all required charges, with no misleading prices or fake urgency.",
               "text": ""
+            },
+            {
+              "title": "A lens resells for $180. Costs are $20, your risk allowance is $20 and you want $50 profit. What is the most you will pay?",
+              "text": "",
+              "detail": "$90."
             }
           ]
         }

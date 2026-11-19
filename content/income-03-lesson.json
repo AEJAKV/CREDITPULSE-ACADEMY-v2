@@ -1,6 +1,6 @@
 {
   "title": "Reselling Products",
-  "summary": "Select → Verify → Price → Test → Repeat",
+  "summary": "Gather evidence → Find the real profit → Test small → Keep clean records",
   "subtitle": "Test demand, true cost and product safety before your spare room becomes an unpaid warehouse",
   "minutes": 45,
   "published": true,
@@ -32,11 +32,6 @@
           ]
         },
         {
-          "type": "source",
-          "text": "CRA: Peer-to-peer sales and tax",
-          "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/business-professional-income.html"
-        },
-        {
           "type": "transition",
           "text": "Testing a product before you buy in bulk keeps your savings out of boxes nobody wants.",
           "detail": "Real sold prices, safety checks and every hidden cost decide whether a bargain is a business.",
@@ -51,25 +46,29 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A shopping mood buys inventory. Evidence buys a business."
+          "text": "A shopping mood buys inventory. Evidence buys a business. Before you spend a dollar, answer four questions about the product."
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "NAME THE BUYER",
+              "icon": "target",
               "text": "Name the person, the need and the price range. “Tested entry-level kitchen appliances” is easier to research than “things people might enjoy.”"
             },
             {
               "title": "STUDY WHAT SOLD",
+              "icon": "activity",
               "text": "Compare recent sold prices where you can, not only asking prices. Note the usual condition, how long items took to sell, how they were delivered and seasonal changes."
             },
             {
               "title": "CHECK THE SOURCE",
+              "icon": "receipt",
               "text": "Keep purchase records and check brands, model numbers, packaging and serial numbers. If you are not sure an item is genuine, do not advertise it as genuine."
             },
             {
               "title": "CHECK SAFETY",
+              "icon": "shield",
               "text": "Search Health Canada recalls and current product rules. Used products are still consumer products. A recalled or dangerous item does not become safe because it has a charming vintage description."
             }
           ]
@@ -79,8 +78,8 @@
           "text": "Health Canada’s consumer product rules can apply to used goods. Never sell a recalled product unless the fix has been done and resale is allowed."
         },
         {
-          "type": "spotlight",
-          "text": "Fake goods can cause legal, safety and refund problems. A low price and a heroic story about a cousin’s warehouse are not proof that something is genuine."
+          "type": "paragraph",
+          "text": "Fake goods cause legal, safety and refund problems. A low price and a heroic story about a cousin’s warehouse are not proof that something is genuine. If you can’t prove it, don’t call it genuine."
         },
         {
           "type": "myths",
@@ -105,7 +104,61 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "To find profit per item, start with the price you expect to sell at. Then subtract what you paid, platform and payment fees, cleaning or repair, packaging, shipping or delivery, ads and a fair allowance for returns or losses."
+          "text": "Revenue is the money you take in. Profit is what is left after every cost. Your bank balance may look excited before fees, shipping and returns have had their turn. Here is one desk organizer that sells for $24."
+        },
+        {
+          "type": "ledger",
+          "detail": "ONE ITEM, EVERY COST",
+          "text": "$24 sale − $18 in costs = $6 profit. At about 20 minutes of work per sale, that is roughly $18 an hour before tax.",
+          "extra": "Shave $1 off shipping or packaging and your profit per item rises by a sixth.",
+          "items": [
+            {
+              "title": "Profit per item",
+              "amount": "$6",
+              "detail": "Total",
+              "text": "Is this worth the time each sale takes?"
+            },
+            {
+              "title": "Sale price",
+              "amount": "$24",
+              "detail": "Income",
+              "text": "Is this a recent sold price, not an asking price?"
+            },
+            {
+              "title": "What you paid",
+              "amount": "−$9",
+              "detail": "Stock",
+              "text": "Do you have an invoice for it?"
+            },
+            {
+              "title": "Shipping",
+              "amount": "−$4",
+              "detail": "Delivery",
+              "text": "Could local pickup save this?"
+            },
+            {
+              "title": "Platform and payment fees",
+              "amount": "−$3",
+              "detail": "Fees",
+              "text": "What share does each platform keep?"
+            },
+            {
+              "title": "Packaging",
+              "amount": "−$1",
+              "detail": "Supplies",
+              "text": "Mailers, tape and labels add up."
+            },
+            {
+              "title": "Returns allowance",
+              "amount": "−$1",
+              "detail": "Risk",
+              "text": "Set aside a little for the one that comes back."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Work backward to your maximum buy price"
         },
         {
           "type": "ordered",
@@ -119,49 +172,12 @@
               "text": "Subtract fees, shipping, packaging, cleaning, repairs, ads and an allowance for returns."
             },
             {
-              "title": "Work out profit per item",
-              "text": "What is left is your profit per item. Divide it by the hours you spent to see what you earn per hour."
+              "title": "Take off your target profit",
+              "text": "Decide what each sale must earn to be worth your time. What is left is the most you can pay."
             },
             {
-              "title": "Decide your maximum buy price",
-              "text": "Work backward from your target profit to the most you will pay. Write it down before you shop."
-            }
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Revenue is the money you take in. Profit is what is left after costs. Your bank balance may look enthusiastic before fees, inventory and tax have had their turn."
-        },
-        {
-          "type": "spotlight",
-          "text": "Inventory records help you work out the cost of what you sold. Track the item, the date you bought it, where from, the cost, the date you sold it, the price and related costs."
-        },
-        {
-          "type": "spotlight",
-          "text": "Selling your own used things, like an old couch or last year’s skates, is generally not taxable, especially when you sell for less than you paid. Buying items so you can sell them for a profit is a business, and that profit is taxable income. Some online marketplaces now also report seller names and sales totals to the CRA each year, unless you made fewer than 30 sales totalling $2,800 or less on that platform."
-        },
-        {
-          "type": "heading",
-          "text": "Tax basics for your first year"
-        },
-        {
-          "type": "cards",
-          "items": [
-            {
-              "title": "REPORT IT",
-              "text": "Business income goes on Form T2125 with your personal tax return, whether clients pay by cash, cheque or e-transfer."
-            },
-            {
-              "title": "PAY BOTH HALVES OF CPP",
-              "text": "Self-employed people pay the worker and employer shares of CPP, 11.9% of net business income above the basic amount, on Schedule 8 of the return."
-            },
-            {
-              "title": "SET MONEY ASIDE",
-              "text": "Nobody takes tax off your pay. Move a share of every payment into a separate account. If you owe more than $3,000 ($1,800 in Quebec) this year and in either of the last two years, the CRA will ask for quarterly instalments."
-            },
-            {
-              "title": "KEEP RECORDS SIX YEARS",
-              "text": "Keep invoices, receipts, mileage and bank records for six years from the end of the tax year they belong to."
+              "title": "Write it down before you shop",
+              "text": "A number written at home beats a number invented in the aisle."
             }
           ]
         },
@@ -169,14 +185,10 @@
           "type": "myths",
           "items": [
             {
-              "title": "“Small online sales do not need to be reported.”",
-              "text": "The CRA says income from selling through online platforms must be reported. Use Form T2125 for business income and keep your records."
+              "title": "“If another seller lists it for $100, mine is worth $100.”",
+              "text": "A listing is an invitation, not a sale. Compare real sold prices, condition and how long items took to sell before you choose your price."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Key takeaway: a repeatable resale business starts only after you check demand, legitimacy, safety and every cost per item. Test small, record real results and reorder based on evidence, not excitement."
         }
       ]
     },
@@ -216,7 +228,59 @@
           "type": "transition",
           "text": "Priya turned a hallway of unsold tumblers into steady monthly profit by testing small first.",
           "detail": "A six-item test with a stop rule can protect your own savings before you scale up.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "Section 05 covers what the CRA and the selling platforms expect from you."
+        }
+      ]
+    },
+    {
+      "id": "records",
+      "title": "Keep the CRA and the Platforms in the Loop",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Selling your old skates is a garage sale. Buying stock so you can sell it at a profit is a business. The tax rules treat them differently, and the platforms now share information with the CRA."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Where the tax lines fall",
+          "detail": "Reselling in Canada",
+          "items": [
+            {
+              "title": "Your own used things",
+              "text": "Generally not taxed — especially when you sell for less than you paid."
+            },
+            {
+              "title": "Buying to resell",
+              "text": "Business income — reported on Form T2125, along with your costs."
+            },
+            {
+              "title": "Platform reporting",
+              "text": "30 sales or $2,800 — platforms report sellers to the CRA each year unless they made fewer than 30 sales totalling $2,800 or less there."
+            },
+            {
+              "title": "GST/HST",
+              "text": "$30,000 — register once taxable sales pass this in one quarter or over four quarters in a row."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Inventory records help you work out the cost of what you sold. Track the item, the date you bought it, where from, the cost, the date you sold it, the price and related costs."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Small online sales don’t need to be reported.”",
+              "text": "The CRA says income from selling through online platforms must be reported. Use Form T2125 for business income and keep your records for six years."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "CRA: Peer-to-peer sales and tax",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/business-professional-income.html"
         }
       ]
     },
@@ -252,6 +316,11 @@
               "title": "When might you have to register for GST/HST?",
               "detail": "Generally once your taxable sales pass $30,000 in one calendar quarter or over four quarters in a row.",
               "text": ""
+            },
+            {
+              "title": "An item sells for $24 and costs $18 to buy, ship, pack and list. How many sales does it take to earn $300?",
+              "text": "",
+              "detail": "50 sales: $300 ÷ $6 profit each."
             }
           ]
         }
@@ -271,7 +340,7 @@
         },
         {
           "type": "spotlight",
-          "text": "You generally have to register for GST/HST once your taxable sales pass $30,000 in one calendar quarter or over four quarters in a row. Check the timing and what counts for your business."
+          "text": "Write your stop rule on this card before you buy. Deciding in advance is far easier than deciding while boxes sit in your hallway."
         }
       ]
     },

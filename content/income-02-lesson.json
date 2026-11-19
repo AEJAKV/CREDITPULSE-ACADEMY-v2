@@ -1,6 +1,6 @@
 {
   "title": "Online Tutoring",
-  "summary": "Diagnose → Design → Teach → Measure → Improve",
+  "summary": "Design the session → Price the hidden hour → Settle the tax question",
   "subtitle": "Turn what you know into a clear learning result, not a 60-minute screen share with excellent intentions",
   "minutes": 45,
   "published": true,
@@ -46,37 +46,76 @@
     },
     {
       "id": "design",
-      "title": "Sell Progress That Can Be Observed",
+      "title": "Sell Progress People Can See",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "A tutoring offer becomes sellable the moment progress can be shown, not just felt."
+          "text": "Parents and adult learners don’t buy hours. They buy a change they can notice: fewer sign errors, a clearer essay, a calmer test day. Build every session so that change shows up."
+        },
+        {
+          "type": "split",
+          "text": "One session, five steps",
+          "paragraphs": [
+            "Use the same arc every time. Learners relax when they know what is coming, and you spend less time planning.",
+            "Check in, recall last week’s skill, show one new skill, practise it with feedback, then agree on one small next step. Sixty minutes is plenty for that."
+          ],
+          "items": [
+            {
+              "title": "Check in",
+              "text": "",
+              "icon": "gauge"
+            },
+            {
+              "title": "Recall",
+              "text": "",
+              "icon": "file"
+            },
+            {
+              "title": "Show one skill",
+              "text": "",
+              "icon": "shield"
+            },
+            {
+              "title": "Practise with feedback",
+              "text": "",
+              "icon": "gauge"
+            },
+            {
+              "title": "Set the next step",
+              "text": "",
+              "icon": "file"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Four things to define before you advertise"
         },
         {
           "type": "cards",
           "items": [
             {
               "title": "LEARNER",
+              "icon": "target",
               "text": "Choose an age group, curriculum, exam, language level or work skill you can teach accurately."
             },
             {
               "title": "STARTING POINT",
-              "text": "Use a short skills check, some sample work and a conversation. Do not turn the first meeting into an ambush exam with dramatic music."
+              "icon": "map",
+              "text": "Use a short skills check, some sample work and a conversation. The first meeting isn’t an ambush exam with dramatic music."
             },
             {
               "title": "RESULT",
-              "text": "Describe what the learner should be able to do: solve one type of problem, organize an essay, explain an idea or raise a practice score."
+              "icon": "activity",
+              "text": "Describe what the learner will be able to do: solve one type of problem, organize an essay or explain an idea."
             },
             {
               "title": "PROOF",
-              "text": "Compare attempts, common mistakes, finished practice and how the learner explains things. Grades matter, but more than tutoring affects them."
+              "icon": "receipt",
+              "text": "Compare early and later attempts, common mistakes and how the learner explains things. Grades matter, but more than tutoring affects them."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "A useful 60-minute session can follow five steps: check in, recall what was learned last time, show one skill, practise it with feedback and set a small next step."
         },
         {
           "type": "spotlight",
@@ -99,27 +138,50 @@
       ]
     },
     {
-      "id": "operate",
-      "title": "Build the Business Around the Lesson",
+      "id": "price",
+      "title": "Price the Hour Behind the Hour",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Price the whole service: planning, teaching, feedback, platform fees, payment fees, materials, bookkeeping, cancellations and messages."
+          "text": "A 60-minute session is rarely 60 minutes of work. Planning, finding practice problems, writing a progress note and answering a parent’s message can add 30 minutes. At $45 a session, that is about $30 an hour before fees and tax."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Three ways to package the same lesson",
+          "detail": "Same tutor, same $45 session",
+          "items": [
+            {
+              "title": "Pay as you go",
+              "text": "$45 a session — simple, but learners drop off and your income swings."
+            },
+            {
+              "title": "Five-pack",
+              "text": "$200 upfront — $40 each, and the learner commits to five weeks of practice."
+            },
+            {
+              "title": "Monthly plan",
+              "text": "$170 a month — four sessions on a set day, billed on the 1st, with a clear make-up rule."
+            },
+            {
+              "title": "Your real rate",
+              "text": "About $30 an hour — once prep and notes are counted. Price from this number, not the clock."
+            }
+          ]
         },
         {
           "type": "ordered",
           "items": [
             {
               "title": "Terms in writing",
-              "text": "Your rate, packages, payment timing, and rules for cancelling and rescheduling, sent before the first paid session."
+              "text": "Send your rate, packages, payment timing and rules for cancelling and rescheduling before the first paid session."
             },
             {
-              "title": "Materials you are allowed to use",
+              "title": "Materials you may use",
               "text": "Use your own worksheets, free licensed resources or the student’s own textbook. Copying and selling a publisher’s pages breaks copyright."
             },
             {
-              "title": "Marketing messages with consent",
+              "title": "Marketing with consent",
               "text": "Canada’s Anti-Spam Legislation (CASL) means you need permission before you send promotional emails or texts, plus a clear way to unsubscribe."
             },
             {
@@ -129,50 +191,13 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "Tutoring that follows a provincial curriculum, or that supports some credit courses or prerequisites, may be exempt from GST/HST. Other teaching may be taxable. The word “tutor” does not decide the answer."
-        },
-        {
-          "type": "spotlight",
-          "text": "The $30,000 small supplier limit counts taxable sales, not exempt tutoring income. Find out which kind of service you sell before you use that limit."
-        },
-        {
-          "type": "heading",
-          "text": "Tax basics for your first year"
-        },
-        {
-          "type": "cards",
-          "items": [
-            {
-              "title": "REPORT IT",
-              "text": "Business income goes on Form T2125 with your personal tax return, whether clients pay by cash, cheque or e-transfer."
-            },
-            {
-              "title": "PAY BOTH HALVES OF CPP",
-              "text": "Self-employed people pay the worker and employer shares of CPP, 11.9% of net business income above the basic amount, on Schedule 8 of the return."
-            },
-            {
-              "title": "SET MONEY ASIDE",
-              "text": "Nobody takes tax off your pay. Move a share of every payment into a separate account. If you owe more than $3,000 ($1,800 in Quebec) this year and in either of the last two years, the CRA will ask for quarterly instalments."
-            },
-            {
-              "title": "KEEP RECORDS SIX YEARS",
-              "text": "Keep invoices, receipts, mileage and bank records for six years from the end of the tax year they belong to."
-            }
-          ]
-        },
-        {
           "type": "myths",
           "items": [
             {
-              "title": "“All tutoring is automatically GST/HST-exempt.”",
-              "text": "The exemption depends on what you teach and how it links to a provincial curriculum, a credit course or a qualifying prerequisite. Check the actual service."
+              "title": "“Cheaper sessions will fill my calendar faster.”",
+              "text": "A low price can attract learners who cancel often and value the work less. A clear result and a fair package usually fill a calendar with learners who stay."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Key takeaway: a tutoring business earns trust by narrowing the offer, checking before teaching, measuring one clear result, protecting young learners and working with written rules for pricing, privacy, copyright and cancellations."
         }
       ]
     },
@@ -212,7 +237,79 @@
           "type": "transition",
           "text": "Eli filled his schedule by fixing one small mistake well instead of teaching everything at once.",
           "detail": "Teaching one clear skill, and showing parents the proof, can grow your own tutoring business the same way.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "Section 05 settles the tax question many tutors get wrong."
+        }
+      ]
+    },
+    {
+      "id": "tax",
+      "title": "Is Your Tutoring Taxable?",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Some tutoring is exempt from GST/HST, which means you never charge it. Other teaching is taxable. The word “tutor” doesn’t decide it. What you teach, and whether it follows a school curriculum, does."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "USUALLY EXEMPT",
+              "text": "",
+              "list": [
+                "Tutoring that follows a curriculum set by a school authority, such as Grade 9 Ontario math",
+                "Tutoring for a course that earns school credit",
+                "English or French as a second language, when it is part of a qualifying language program"
+              ]
+            },
+            {
+              "title": "USUALLY TAXABLE",
+              "text": "",
+              "list": [
+                "Lessons that don’t follow a school curriculum, such as hobby coding or life coaching",
+                "Test-prep coaching, such as for a language test, unless it is part of an exempt program",
+                "Selling worksheets, workbooks or recorded courses"
+              ],
+              "icon": "alert"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The $30,000 small supplier limit counts taxable sales, not exempt tutoring income. Find out which kind of service you sell before you rely on that limit."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Either way, it is business income",
+          "detail": "Your first tax year",
+          "items": [
+            {
+              "title": "Report it",
+              "text": "Form T2125 — reports your tutoring income and costs with your personal return."
+            },
+            {
+              "title": "Pay both halves of CPP",
+              "text": "11.9% — on net earnings above $3,500, because you pay both halves. Quebec residents pay QPP."
+            },
+            {
+              "title": "Deduct your costs",
+              "text": "Lower tax — claim the business share of your internet and home work space, plus software, books and payment fees."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“All tutoring is automatically GST/HST-exempt.”",
+              "text": "The exemption depends on what you teach and how it links to a provincial curriculum, a credit course or a qualifying prerequisite. Check the actual service."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "CRA: Tutoring and equivalent services (GST/HST Memorandum 20-6)",
+          "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/20-6/tutoring-equivalent-services.html"
         }
       ]
     },
@@ -248,6 +345,11 @@
               "title": "Why must you check GST/HST instead of assuming?",
               "detail": "The exemption depends on what you teach and how it links to a provincial curriculum, credit course or qualifying prerequisite, not on the word “tutor.”",
               "text": ""
+            },
+            {
+              "title": "Each $45 session takes 90 minutes once you count prep and notes. What is your real hourly rate?",
+              "text": "",
+              "detail": "About $30 an hour before fees and tax."
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "title": "Senior Companion Services",
-  "summary": "Define → Screen → Price → Safeguard → Review",
+  "summary": "Draw the line → Price the real visit → Handle the hard moments",
   "subtitle": "Build a warm, reliable service without accidentally becoming a nurse, banker or emergency department",
   "minutes": 45,
   "published": true,
@@ -40,51 +40,87 @@
           "type": "transition",
           "text": "A clear, written service lets you build a caring business that families trust and recommend.",
           "detail": "Deciding what you do, what you never do and what to charge protects your client and your income.",
-          "extra": "Section 02 helps you write that line before your first visit."
+          "extra": "Section 02 helps you draw that line before your first visit."
         }
       ]
     },
     {
       "id": "scope",
-      "title": "Write the Scope Before Setting the Rate",
+      "title": "Draw the Line Before the First Visit",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Draw the line between a kind gesture and a regulated task before the first visit, not during it."
+          "text": "Families rarely ask for the risky task on day one. It creeps in: a ride, then the pills, then the bank card “just this once.” Decide now where each task sits, and write it into your service agreement."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "YES, INCLUDED",
+              "text": "",
+              "list": [
+                "Conversation, reading, games and walks",
+                "Friendly check-ins by visit or phone",
+                "Simple meal help and light tidying after it",
+                "Errands and going along to appointments"
+              ]
+            },
+            {
+              "title": "ASK FIRST",
+              "text": "",
+              "list": [
+                "Driving, especially in your own car",
+                "Holding keys or entering an empty home",
+                "Pet care, lifting or cooking full meals",
+                "Medication reminders, never giving it"
+              ]
+            },
+            {
+              "title": "NEVER IN A COMPANION SERVICE",
+              "text": "",
+              "list": [
+                "Giving medication or wound care",
+                "Bathing, toileting or transfers",
+                "Banking, PINs, passwords or signing papers",
+                "Acting under a power of attorney"
+              ],
+              "icon": "alert"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In an emergency, a companion watches and calls 911 or the agreed contact. They don’t diagnose, promise medical monitoring or make up a treatment plan."
+        },
+        {
+          "type": "heading",
+          "text": "Four checks before you take a client"
         },
         {
           "type": "cards",
           "items": [
             {
-              "title": "USUALLY INCLUDED",
-              "text": "Conversation, reading, games, walks, friendly check-ins, simple meal help, errands and going along to appointments, when your agreement allows them."
+              "title": "POLICE CHECK",
+              "icon": "shield",
+              "text": "Families and agencies often ask for a vulnerable sector check. It is different from a regular criminal record check, and your local police service runs it. Start early, because it can take weeks."
             },
             {
-              "title": "NEEDS A SEPARATE DECISION",
-              "text": "Driving, using your own car, holding keys, pet care, lifting, bathing, medication reminders, cooking and entering an empty home. Each adds risk or needs training."
+              "title": "INSURANCE",
+              "icon": "lifebuoy",
+              "text": "Ask a broker about general liability insurance before your first client. If you will hold keys or enter empty homes, ask about bonding too."
             },
             {
-              "title": "OUTSIDE A BASIC COMPANION SERVICE",
-              "text": "Giving medication, wound care, transfers beyond what you can do safely, legal advice, banking, signing papers, holding passwords or acting under a power of attorney."
+              "title": "DRIVING",
+              "icon": "car",
+              "text": "Personal car insurance may not cover business driving. Tell your insurer before you offer rides, and decide who pays for kilometres."
             },
             {
-              "title": "IN AN EMERGENCY",
-              "text": "A companion watches and calls the agreed contact or 911. They do not diagnose, promise medical monitoring or make up a treatment plan."
+              "title": "WORKING ALONE",
+              "icon": "timer",
+              "text": "Share your visit times with a trusted contact and agree what happens if you don’t check in. Never share the client’s private details."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "A vulnerable sector check is different from a regular criminal record check. Your local police service sets the process, and a client or agency may need to confirm the job is a position of trust."
-        },
-        {
-          "type": "spotlight",
-          "text": "If you offer rides, check your licence class, your car’s condition, insurance for business use, how many passengers you can take and who pays for mileage. Personal car insurance may not cover business driving."
-        },
-        {
-          "type": "spotlight",
-          "text": "Ask an insurance broker about general liability insurance before your first client. If you will hold keys or enter empty homes, ask about bonding too. Many families and agencies will ask for proof."
         },
         {
           "type": "myths",
@@ -104,12 +140,56 @@
     },
     {
       "id": "price",
-      "title": "Charge for the Whole Job, Not Only the Conversation",
+      "title": "Price the Real Visit, Not Just the Hours",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Your visit rate must cover planning, travel, parking, messages, record keeping, supplies, insurance, cancellations and unpaid gaps between clients. Start with a minimum visit length and a service area."
+          "text": "Your rate pays for more than the time you spend with the client. Driving, parking, messages, notes, insurance and gaps between clients all come out of it. Here is what one two-hour visit at $34 an hour leaves you."
+        },
+        {
+          "type": "ledger",
+          "detail": "ONE VISIT, REAL NUMBERS",
+          "text": "$68 from the client − $17 in costs = $51. With 40 minutes of driving and notes, the visit took 2 hours 40 minutes: about $19 an hour before tax.",
+          "extra": "Raise the minimum visit, add a travel fee or keep clients close together, and that number climbs fast.",
+          "items": [
+            {
+              "title": "Left before tax",
+              "amount": "$51",
+              "detail": "Total",
+              "text": "Is this enough once you set aside tax and CPP?"
+            },
+            {
+              "title": "Two-hour visit",
+              "amount": "$68",
+              "detail": "Income",
+              "text": "Is your minimum visit long enough to be worth the drive?"
+            },
+            {
+              "title": "Driving, 24 km round trip",
+              "amount": "−$8",
+              "detail": "Car",
+              "text": "Do you charge a travel fee outside your area?"
+            },
+            {
+              "title": "Parking",
+              "amount": "−$4",
+              "detail": "Car",
+              "text": "Can the family cover parking at appointments?"
+            },
+            {
+              "title": "Insurance share",
+              "amount": "−$3",
+              "detail": "Business",
+              "text": "A $720 policy spread over 240 visits a year."
+            },
+            {
+              "title": "Phone and supplies",
+              "amount": "−$2",
+              "detail": "Business",
+              "text": "Games, books, hand sanitizer and data."
+            }
+          ]
         },
         {
           "type": "ordered",
@@ -119,51 +199,45 @@
               "text": "Two hours is common. A 30-minute visit across town can cost you more in travel than it pays."
             },
             {
-              "title": "Add travel and parking",
-              "text": "Charge a travel fee outside your service area, and track your kilometres for your taxes."
+              "title": "Add travel outside your area",
+              "text": "Charge a travel fee past a set distance, and log every business kilometre for your taxes."
             },
             {
               "title": "Write a cancellation rule",
               "text": "For example, 24 hours’ notice or a half-visit fee. A late cancellation is an unpaid gap in your day."
-            },
-            {
-              "title": "Count insurance and tax",
-              "text": "Add your insurance cost to your rate, and set aside part of every payment for income tax and CPP."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Self-employment income must be reported even when clients pay by cash or e-transfer. Keep invoices, receipts, mileage records and a separate record of your business."
-        },
-        {
-          "type": "spotlight",
-          "text": "You generally do not have to charge GST/HST until your taxable sales pass $30,000 in one calendar quarter or over four quarters in a row. Check how your services are taxed before you hit that mark."
         },
         {
           "type": "heading",
-          "text": "Tax basics for your first year"
+          "text": "Tax in your first year"
         },
         {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "What the CRA expects",
+          "detail": "Self-employed, first year",
           "items": [
             {
-              "title": "REPORT IT",
-              "text": "Business income goes on Form T2125 with your personal tax return, whether clients pay by cash, cheque or e-transfer."
+              "title": "Report it",
+              "text": "Form T2125 — reports your business income and costs with your personal return, whether clients pay by cash, cheque or e-transfer."
             },
             {
-              "title": "PAY BOTH HALVES OF CPP",
-              "text": "Self-employed people pay the worker and employer shares of CPP, 11.9% of net business income above the basic amount, on Schedule 8 of the return."
+              "title": "Pay both halves of CPP",
+              "text": "11.9% — on net earnings above $3,500, because you pay both halves. Quebec residents pay QPP instead."
             },
             {
-              "title": "SET MONEY ASIDE",
-              "text": "Nobody takes tax off your pay. Move a share of every payment into a separate account. If you owe more than $3,000 ($1,800 in Quebec) this year and in either of the last two years, the CRA will ask for quarterly instalments."
+              "title": "Instalments",
+              "text": "$3,000 owing — the point where the CRA may ask for quarterly instalments ($1,800 in Quebec), if you also owed that much in one of the last two years."
             },
             {
-              "title": "KEEP RECORDS SIX YEARS",
-              "text": "Keep invoices, receipts, mileage and bank records for six years from the end of the tax year they belong to."
+              "title": "Keep records",
+              "text": "6 years — how long to keep invoices, receipts, mileage logs and bank records."
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "You generally don’t have to charge GST/HST until your taxable sales pass $30,000 in one calendar quarter or over four quarters in a row. Check how your services are taxed before you reach that mark."
         },
         {
           "type": "myths",
@@ -173,10 +247,6 @@
               "text": "How you are paid does not change what the income is. A toonie jar is charming. It is not an accounting exemption."
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Key takeaway: a companion business succeeds by being specific. Define your non-medical tasks, check the home, price the full visit, protect money and personal information, and use a written plan for emergencies."
         }
       ]
     },
@@ -216,7 +286,75 @@
           "type": "transition",
           "text": "Nadia kept her first client and gained two referrals by turning down the debit card and the pills.",
           "detail": "Offering a safer option, instead of a flat no, protects your clients and your reputation.",
-          "extra": "The quick check in Section 05 tests whether you can spot the next move."
+          "extra": "Section 05 covers the harder moment: when something in the home feels wrong."
+        }
+      ]
+    },
+    {
+      "id": "wrong",
+      "title": "When Something Feels Wrong",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Companions often see what nobody else sees: a fridge that’s always empty, a new “friend” asking about money, bruises nobody explains. You don’t need to investigate. Your job is to notice, write it down and tell the right person."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "SIGNS TO NOTE",
+              "text": "",
+              "list": [
+                "Unpaid bills, missing cash or new money “helpers”",
+                "Unexplained injuries, fear or sudden silence",
+                "Missed meals, unsafe heat or a messy, cold home",
+                "Pressure from someone to stay out of the room"
+              ],
+              "icon": "alert"
+            },
+            {
+              "title": "WHAT YOU DO",
+              "text": "",
+              "list": [
+                "Write facts: date, time, what you saw and heard",
+                "Tell the agreed family contact or agency",
+                "Call 911 if anyone is in danger right now",
+                "Call 2-1-1 to find local elder abuse help"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Keep it factual",
+              "text": "Write “he had a bruise on his left arm and said he fell” instead of guessing what happened. Facts help. Opinions can hurt someone innocent."
+            },
+            {
+              "title": "Choose who to tell",
+              "text": "Usually the family contact in your agreement. If that person may be the problem, tell your agency, a local elder abuse service or the police instead."
+            },
+            {
+              "title": "Protect privacy",
+              "text": "Share only what the right person needs. Don’t post about clients or discuss them with other families."
+            }
+          ]
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“It’s a family matter, so it’s not my place.”",
+              "text": "Abuse and neglect often stay hidden because everyone assumes someone else will act. Telling the right person, calmly and with facts, is part of a trustworthy service."
+            }
+          ]
+        },
+        {
+          "type": "source",
+          "text": "Government of Canada: Signs of abuse of older adults",
+          "url": "https://www.canada.ca/en/employment-social-development/news/2024/06/ministers-oregan-and-saks-mark-world-elder-abuse-awareness-day.html"
         }
       ]
     },
@@ -252,6 +390,16 @@
               "title": "What should a companion do in a medical emergency?",
               "detail": "Watch and call the agreed contact or 911. Do not diagnose, promise medical monitoring or make up a treatment plan.",
               "text": ""
+            },
+            {
+              "title": "Your two-hour visit pays $68 but costs $17 and takes 2 hours 40 minutes. What do you really earn per hour?",
+              "text": "",
+              "detail": "About $19 an hour before tax: $51 ÷ 2.67 hours."
+            },
+            {
+              "title": "You notice unpaid bills and a new “helper” asking your client about money. What do you do?",
+              "text": "",
+              "detail": "Write down the facts, then tell the agreed contact or agency. If that person may be involved, call a local elder abuse service or the police."
             }
           ]
         }

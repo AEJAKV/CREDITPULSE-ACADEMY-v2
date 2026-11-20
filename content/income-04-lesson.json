@@ -19,8 +19,29 @@
           "text": "Marketplace flipping means buying a used item below its value, fixing it up or presenting it honestly and reselling it locally. Your edge comes from knowing the product and buying with discipline, not pressuring strangers. Every deal needs four kinds of proof: the item is legit, its condition is tested, your profit survives every cost and the payment is real."
         },
         {
-          "type": "spotlight",
-          "text": "Specialize before you grow. Knowing one category’s normal wear, parts, serial number spots and resale range protects you better than being generally hopeful about everything with a plug."
+          "type": "cards",
+          "items": [
+            {
+              "title": "LEGIT",
+              "icon": "shield",
+              "text": "A serial number where there should be one, a story that adds up and no recall."
+            },
+            {
+              "title": "TESTED",
+              "icon": "activity",
+              "text": "It works in front of you, with every part the seller promised."
+            },
+            {
+              "title": "PROFITABLE",
+              "icon": "wallet",
+              "text": "Your maximum buy price leaves room for costs, risk and profit."
+            },
+            {
+              "title": "PAID",
+              "icon": "bank",
+              "text": "The money shows up in your own banking app, not on their screen."
+            }
+          ]
         },
         {
           "type": "myths",
@@ -40,7 +61,39 @@
           "type": "transition",
           "text": "A few checks before every deal protect your money, your safety and your profit.",
           "detail": "Proof that an item is legit, tested, worth the price and paid for turns a lucky find into a business.",
-          "extra": "Section 02 walks you through the five-stop inspection."
+          "extra": "Section 02 starts with a lens, a friendly buyer and a payment that wasn’t there."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Mateo Checks the Account, Not the Applause",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Mateo",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Mateo Alvarez flips used camera gear in Calgary. His goal is to save $2,000 for a better camera of his own by summer. He cleans and tests a used lens, and lists it with clear photos of one small scratch.",
+            "Four minutes later, a buyer offers full price. Mateo briefly feels like the Warren Buffett of camera lenses.",
+            "They meet at a coffee shop. The buyer shows an e-transfer confirmation on his phone. Then he says Mateo needs to click an email link to “upgrade” his account first. The email also asks for a one-time code from his bank. The lens is real. The payment is performing community theatre.",
+            "The buyer is friendly and in a hurry. Saying no feels awkward. Mateo decides to check his own banking app before anything else. No deposit is there.",
+            "He refuses the link, never shares the code and ends the meeting. Then he reports the account to the platform.",
+            "Two days later, a second buyer tests the lens, pays by e-transfer and waits while Mateo checks his own account. The money is there.",
+            "The second sale earns a smaller burst of excitement and a real profit. Mateo writes down what he paid, his cleaning supplies, the sale price and the date. Quiet checking beats dramatic screenshots."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Never share a security code your bank sends you. It is meant to approve a login or a payment, not to help a buyer release money."
+        },
+        {
+          "type": "transition",
+          "text": "Mateo kept his lens and his bank account safe by checking his own app instead of the buyer’s screen.",
+          "detail": "The same habit protects every flip you make, no matter how friendly the buyer seems.",
+          "extra": "Section 03 walks you through the five-stop inspection Mateo runs on every item."
         }
       ]
     },
@@ -209,46 +262,6 @@
       ]
     },
     {
-      "id": "story",
-      "title": "Mateo Checks the Account, Not the Applause",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Meet Mateo",
-          "detail": "DEDICATED STORY",
-          "extra": "",
-          "paragraphs": [
-            "Mateo Alvarez flips used camera gear in Calgary. His goal is to save $2,000 for a better camera of his own by summer. He cleans and tests a used lens, and lists it with clear photos of one small scratch.",
-            "Four minutes later, a buyer offers full price. Mateo briefly feels like the Warren Buffett of camera lenses.",
-            "They meet at a coffee shop. The buyer shows an e-transfer confirmation on his phone. Then he says Mateo needs to click an email link to “upgrade” his account first. The email also asks for a one-time code from his bank. The lens is real. The payment is performing community theatre.",
-            "The buyer is friendly and in a hurry. Saying no feels awkward. Mateo decides to check his own banking app before anything else. No deposit is there.",
-            "He refuses the link, never shares the code and ends the meeting. Then he reports the account to the platform.",
-            "Two days later, a second buyer tests the lens, pays by e-transfer and waits while Mateo checks his own account. The money is there.",
-            "The second sale earns a smaller burst of excitement and a real profit. Mateo writes down what he paid, his cleaning supplies, the sale price and the date. Quiet checking beats dramatic screenshots."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Never share a security code your bank sends you. It is meant to approve a login or a payment, not to help a buyer release money."
-        },
-        {
-          "type": "heading",
-          "text": "What resolved the conflict?"
-        },
-        {
-          "type": "paragraph",
-          "text": "The applause for a fast sale was not proof of payment. Only his own bank account was."
-        },
-        {
-          "type": "transition",
-          "text": "Mateo kept his lens and his bank account safe by checking his own app instead of the buyer’s screen.",
-          "detail": "The same habit protects every flip you make, no matter how friendly the buyer seems.",
-          "extra": "Section 05 shows when flipping becomes a business in the CRA’s eyes."
-        }
-      ]
-    },
-    {
       "id": "business",
       "title": "When Flipping Becomes a Business",
       "paragraphs": [],
@@ -263,7 +276,7 @@
             {
               "title": "REPORT THE PROFIT",
               "icon": "receipt",
-              "text": "Report flipping profit as business income on Form T2125. Self-employed people also pay both halves of CPP on net earnings above $3,500."
+              "text": "Report flipping profit as business income on Form T2125. Self-employed people also pay both halves of CPP, 11.9% of net earnings from $3,500 up to $74,600 in 2026."
             },
             {
               "title": "PLATFORMS REPORT TOO",
@@ -281,6 +294,10 @@
               "text": "Once taxable sales pass $30,000 in one quarter or over four quarters in a row, you must register for GST/HST."
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Specialize before you grow. Knowing one category’s normal wear, parts, serial number spots and resale range protects you better than being generally hopeful about everything with a plug."
         },
         {
           "type": "myths",
@@ -337,6 +354,11 @@
               "detail": "$90."
             }
           ]
+        },
+        {
+          "type": "takeaway",
+          "text": "Inspect the item, set your number at home and check the payment in your own bank.",
+          "detail": "A deal that fails any check is a deal you walk away from, however friendly the buyer seems."
         }
       ]
     },
@@ -350,11 +372,11 @@
           "text": "Fill this in before you arrange a meeting. Do not write banking passwords, one-time codes, a stranger’s ID or a private home address here."
         },
         {
-          "type": "checkin"
-        },
-        {
           "type": "spotlight",
           "text": "Use a written walk-away rule. No serial number where there should be one, no safe way to test, a changed meeting place, pressure, overpayment or a request for a login or code means the deal stops."
+        },
+        {
+          "type": "checkin"
         }
       ]
     },

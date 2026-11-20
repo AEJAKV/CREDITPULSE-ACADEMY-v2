@@ -15,8 +15,38 @@
           "text": "Print on demand lets you put your design on a mug, a T-shirt, or a tote bag. A printing partner makes and ships each item only after someone buys it, so you never hold stock. You also never see the parcel, which means that every “where is my order?” email lands in your inbox instead of theirs."
         },
         {
-          "type": "paragraph",
-          "text": "The process has five steps. You create a design, you connect it to an online shop, a customer orders and pays you, your printing partner makes and ships the item, and you pay the partner a base cost. The difference between what the customer paid and what you owe is your margin."
+          "type": "split",
+          "text": "Five steps, one sale",
+          "items": [
+            {
+              "title": "You create a design",
+              "text": "",
+              "icon": "file"
+            },
+            {
+              "title": "You connect it to a shop",
+              "text": "",
+              "icon": "gauge"
+            },
+            {
+              "title": "A customer orders and pays you",
+              "text": "",
+              "icon": "shield"
+            },
+            {
+              "title": "Your partner prints and ships",
+              "text": "",
+              "icon": "gauge"
+            },
+            {
+              "title": "You pay the partner’s base cost",
+              "text": "",
+              "icon": "file"
+            }
+          ],
+          "paragraphs": [
+            "The process has five steps. You create a design, you connect it to an online shop, a customer orders and pays you, your printing partner makes and ships the item, and you pay the partner a base cost. The difference between what the customer paid and what you owe is your margin."
+          ]
         },
         {
           "type": "myths",
@@ -141,7 +171,7 @@
         },
         {
           "type": "spotlight",
-          "text": "Show the price a buyer will pay. Since June 23, 2022, the Competition Act has treated drip pricing as a harmful practice, meaning an advertised price that leaves out mandatory fixed fees. Only government charges, such as sales tax, can be added later. In 2024, Cineplex was ordered to pay $38.9 million over a $1.50 online booking fee, and the company appealed the decision."
+          "text": "Show the price a buyer will pay. Since June 23, 2022, the Competition Act has treated drip pricing as a harmful practice, meaning an advertised price that leaves out mandatory fixed fees. Only government charges, such as sales tax, can be added later. In 2024, Cineplex was ordered to pay $38.9 million over a $1.50 online booking fee. In January 2026, the Federal Court of Appeal rejected Cineplex’s appeal."
         }
       ]
     },
@@ -264,30 +294,6 @@
       "blocks": [
         {
           "type": "heading",
-          "text": "Quick Check"
-        },
-        {
-          "type": "accordions",
-          "items": [
-            {
-              "title": "A printer in the United States ships to your Canadian buyer. Who might face border fees?",
-              "detail": "The buyer might, unless you plan for it and say so clearly.",
-              "text": ""
-            },
-            {
-              "title": "Can you sell a shirt that shows a famous cartoon character if you draw it yourself?",
-              "detail": "No.",
-              "text": "The character still belongs to someone else."
-            },
-            {
-              "title": "What is drip pricing?",
-              "detail": "Advertising a price, then adding mandatory fees later in the checkout.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "heading",
           "text": "Knowledge Check"
         },
         {
@@ -316,9 +322,28 @@
           ]
         },
         {
-          "type": "takeaway",
-          "text": "Know your profit, use only designs that you have the right to sell, and show buyers the full price up front.",
-          "detail": ""
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "A printer in the United States ships to your Canadian buyer. Who might face border fees?",
+              "detail": "The buyer might, unless you plan for it and say so clearly.",
+              "text": ""
+            },
+            {
+              "title": "Can you sell a shirt that shows a famous cartoon character if you draw it yourself?",
+              "detail": "No.",
+              "text": "The character still belongs to someone else."
+            },
+            {
+              "title": "What is drip pricing?",
+              "detail": "Advertising a price, then adding mandatory fees later in the checkout.",
+              "text": ""
+            }
+          ]
         }
       ]
     },
@@ -329,6 +354,11 @@
       "blocks": [
         {
           "type": "checkin"
+        },
+        {
+          "type": "takeaway",
+          "text": "Know your profit, use only designs that you have the right to sell, and show buyers the full price up front.",
+          "detail": ""
         }
       ]
     },
@@ -370,6 +400,11 @@
           "type": "transition",
           "text": "Next up: Ecommerce.",
           "detail": "You have launched products without stock. Next, you will look at the whole online shop, including checkout, privacy, and email rules."
+        },
+        {
+          "type": "source",
+          "text": "Competition Bureau: Statement on the appeal court’s ruling in the Cineplex deceptive marketing case (January 2026)",
+          "url": "https://www.canada.ca/en/competition-bureau/news/2026/01/statement-from-the-acting-commissioner-of-competition-on-appeal-courts-ruling-in-cineplex-deceptive-marketing-case.html"
         },
         {
           "type": "source",

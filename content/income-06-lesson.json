@@ -233,10 +233,33 @@
           "detail": "STORY",
           "extra": "",
           "paragraphs": [
-            "Priya Sandhu worked the front desk at a dental clinic in Saskatoon, and her goal was small and clear. She wanted an extra $400 each month to cover her daughter’s hockey fees, and she kept the cash in a jar labelled “Hockey Fund.” Her husband drove long-haul, so their money arrived on uneven dates. To cope, Priya had built a spreadsheet that planned the bills around his pay days. Friends kept asking to borrow it, and one finally said, “You should sell that.” Priya spent two weekends cleaning up the spreadsheet and adding a one-page guide. She listed it online for $14. In the first month she sold 31 copies, and the jar filled up fast.",
+            "Harleen Sandhu worked the front desk at a dental clinic in Saskatoon, and her goal was small and clear. She wanted an extra $400 each month to cover her daughter’s hockey fees, and she kept the cash in a jar labelled “Hockey Fund.” Her husband drove long-haul, so their money arrived on uneven dates. To cope, Harleen had built a spreadsheet that planned the bills around his pay days. Friends kept asking to borrow it, and one finally said, “You should sell that.” Harleen spent two weekends cleaning up the spreadsheet and adding a one-page guide. She listed it online for $14. In the first month she sold 31 copies, and the jar filled up fast.",
             "Then she faced a choice. The sales were small and nobody was asking about them. She could ignore the money until tax time, as many beginners do, or she could start a simple log that same night. She sat at the kitchen table and opened a new tab named “Sales Log.” For every sale she wrote the date, the buyer’s province, and the fee. Then she set a second jar beside the first one, labelled “Tax Jar.”",
             "Months later, a teachers’ group shared her template, and sales jumped. A jolt of worry hit her. Was she close to $30,000? She opened the log and had her answer in two minutes. Over the year she had sold about 1,100 copies, which came to $15,400. She was well under the line, so she marked a date to check again each quarter.",
             "At tax time she copied her totals onto Form T2125 in a single evening. A friend who sold similar files, but kept no records, spent a whole weekend digging through old emails. The hockey fees were paid by October, and the Tax Jar was full too."
+          ]
+        },
+        {
+          "type": "glasspanel",
+          "text": "Harleen’s year, from her sales log",
+          "detail": "One $14 spreadsheet",
+          "items": [
+            {
+              "title": "Copies sold",
+              "text": "About 1,100 — 31 in the first month, then a jump after the teachers’ group shared it."
+            },
+            {
+              "title": "Sales for the year",
+              "text": "$15,400 — 1,100 copies at $14."
+            },
+            {
+              "title": "GST/HST check",
+              "text": "Under $30,000 — no single quarter or four-quarter total crossed the line."
+            },
+            {
+              "title": "Time at tax time",
+              "text": "One evening — to copy her totals onto Form T2125."
+            }
           ]
         },
         {
@@ -391,6 +414,10 @@
       "title": "Your Action (Fill Out Form): Your First Digital Product",
       "paragraphs": [],
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rough answers are fine. Describe the product and the buyer in general terms, and keep logins and payment details off this page."
+        },
         {
           "type": "checkin"
         }

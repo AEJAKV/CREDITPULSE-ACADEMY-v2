@@ -171,6 +171,10 @@
           ]
         },
         {
+          "type": "quote",
+          "text": "“The company gave me this stove for free, and I earn a commission if you buy through my link. It is great for mild trips, but I would not rely on it below minus ten.”"
+        },
+        {
           "type": "transition",
           "text": "Honesty is not a cost. It is the thing you are selling.",
           "detail": "Clear disclosure and fair reviews keep you on the right side of the law and keep the audience that earns you commissions.",
@@ -289,10 +293,6 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "heading",
-          "text": "Quick Check"
-        },
-        {
           "type": "accordions",
           "items": [
             {
@@ -309,16 +309,7 @@
               "title": "Where do you report affiliate commissions on your taxes?",
               "detail": "On Form T2125, as business income.",
               "text": ""
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Knowledge Check"
-        },
-        {
-          "type": "accordions",
-          "items": [
+            },
             {
               "title": "Which is a material connection that must be disclosed? A. A commission, a free product, or a discount · B. A product you bought yourself · C. A product you have never heard of",
               "detail": "A.",
@@ -353,6 +344,10 @@
       "title": "Your Action (Fill Out Form): Your Honest Affiliate Plan",
       "paragraphs": [],
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Write your disclosure line exactly as you would post it. Skip passwords, account numbers and anything a program asks you to keep private."
+        },
         {
           "type": "checkin"
         }

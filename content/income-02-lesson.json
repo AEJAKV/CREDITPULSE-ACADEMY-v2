@@ -32,11 +32,6 @@
           ]
         },
         {
-          "type": "source",
-          "text": "Canada: Starting a business",
-          "url": "https://www.canada.ca/en/services/business/start.html"
-        },
-        {
           "type": "transition",
           "text": "A focused tutoring offer is easier to sell, easier to teach and easier to charge fairly for.",
           "detail": "Picking one learner, one subject and one result to show turns what you know into steady paid sessions.",
@@ -138,6 +133,38 @@
       ]
     },
     {
+      "id": "story",
+      "title": "Eli Teaches Less and Learns More",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Eli",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Eli Tremblay starts tutoring high school math online from Moncton. His goal is ten paying students by September. His first ad offers calculus, chemistry, essay writing and “general academic confidence.” It sounds impressive, and slightly like four businesses sharing one trench coat.",
+            "His first student is Sophie, in Grade 9. Eli prepares a full hour of advanced equations to show what he can do.",
+            "Ten minutes in, he notices something. Sophie understands the ideas, but she keeps dropping minus signs when she moves terms across the equals sign. That one habit is costing her most of her marks.",
+            "Eli has a choice. Stick to his impressive plan, or throw it out and work on the minus signs. He decides to throw it out. He gives her three short problems and asks her to explain each step out loud.",
+            "Together they build a one-page sign check she can use on every test. Eli sends her mother a short note: the skill they worked on, what he saw and what comes next.",
+            "The twist comes two weeks later. Sophie’s mother tells three other parents about the sign check. They all have Grade 9 or 10 kids, and none of them need chemistry.",
+            "Eli rewrites his ad around Grade 9 and 10 math problem solving. By September he has eleven students. His slogan is not literally “fewer subjects, fewer trench coats,” but the idea holds up."
+          ]
+        },
+        {
+          "type": "quote",
+          "text": "A narrower offer found the real mistake, instead of piling more content on top of it."
+        },
+        {
+          "type": "transition",
+          "text": "Eli filled his schedule by fixing one small mistake well instead of teaching everything at once.",
+          "detail": "Teaching one clear skill, and showing parents the proof, can grow your own tutoring business the same way.",
+          "extra": "Section 04 prices the hour behind every session."
+        }
+      ]
+    },
+    {
       "id": "price",
       "title": "Price the Hour Behind the Hour",
       "paragraphs": [],
@@ -191,6 +218,10 @@
           ]
         },
         {
+          "type": "spotlight",
+          "text": "Keep progress notes short: the skill you worked on, what you saw, the feedback you gave and the next step. Test your offer: can you explain the learner, problem, result, session format and price in two sentences?"
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -198,46 +229,6 @@
               "text": "A low price can attract learners who cancel often and value the work less. A clear result and a fair package usually fill a calendar with learners who stay."
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Eli Teaches Less and Learns More",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Meet Eli",
-          "detail": "DEDICATED STORY",
-          "extra": "",
-          "paragraphs": [
-            "Eli Tremblay starts tutoring high school math online from Moncton. His goal is ten paying students by September. His first ad offers calculus, chemistry, essay writing and “general academic confidence.” It sounds impressive, and slightly like four businesses sharing one trench coat.",
-            "His first student is Sophie, in Grade 9. Eli prepares a full hour of advanced equations to show what he can do.",
-            "Ten minutes in, he notices something. Sophie understands the ideas, but she keeps dropping minus signs when she moves terms across the equals sign. That one habit is costing her most of her marks.",
-            "Eli has a choice. Stick to his impressive plan, or throw it out and work on the minus signs. He decides to throw it out. He gives her three short problems and asks her to explain each step out loud.",
-            "Together they build a one-page sign check she can use on every test. Eli sends her mother a short note: the skill they worked on, what he saw and what comes next.",
-            "The twist comes two weeks later. Sophie’s mother tells three other parents about the sign check. They all have Grade 9 or 10 kids, and none of them need chemistry.",
-            "Eli rewrites his ad around Grade 9 and 10 math problem solving. By September he has eleven students. His slogan is not literally “fewer subjects, fewer trench coats,” but the idea holds up."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "The first session should give a small win and a clear next step. A learner who understands the plan is more likely to practise between sessions."
-        },
-        {
-          "type": "heading",
-          "text": "What resolved the conflict?"
-        },
-        {
-          "type": "paragraph",
-          "text": "A narrower offer found the real mistake, instead of piling more content on top of it."
-        },
-        {
-          "type": "transition",
-          "text": "Eli filled his schedule by fixing one small mistake well instead of teaching everything at once.",
-          "detail": "Teaching one clear skill, and showing parents the proof, can grow your own tutoring business the same way.",
-          "extra": "Section 05 settles the tax question many tutors get wrong."
         }
       ]
     },
@@ -289,7 +280,7 @@
             },
             {
               "title": "Pay both halves of CPP",
-              "text": "11.9% — on net earnings above $3,500, because you pay both halves. Quebec residents pay QPP."
+              "text": "11.9% — on net earnings from $3,500 up to $74,600 in 2026, because you pay both halves. Quebec residents pay QPP instead."
             },
             {
               "title": "Deduct your costs",
@@ -319,6 +310,10 @@
       "paragraphs": [],
       "blocks": [
         {
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
           "type": "accordions",
           "items": [
             {
@@ -345,7 +340,16 @@
               "title": "Why must you check GST/HST instead of assuming?",
               "detail": "The exemption depends on what you teach and how it links to a provincial curriculum, credit course or qualifying prerequisite, not on the word “tutor.”",
               "text": ""
-            },
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Try the Math"
+        },
+        {
+          "type": "accordions",
+          "items": [
             {
               "title": "Each $45 session takes 90 minutes once you count prep and notes. What is your real hourly rate?",
               "text": "",
@@ -368,8 +372,9 @@
           "type": "checkin"
         },
         {
-          "type": "spotlight",
-          "text": "Keep progress notes short: the skill you worked on, what you saw, the feedback you gave and the next step. Test your offer: can you explain the learner, problem, result, session format and price in two sentences?"
+          "type": "takeaway",
+          "text": "Sell one learner one result they can see, and price the hour behind the hour.",
+          "detail": "Check GST/HST against what you actually teach, and send a short progress note after every session."
         }
       ]
     },
@@ -410,6 +415,11 @@
               "text": "Canada’s Anti-Spam Legislation, the rules for commercial emails and texts."
             }
           ]
+        },
+        {
+          "type": "source",
+          "text": "Canada: Starting a business",
+          "url": "https://www.canada.ca/en/services/business/start.html"
         }
       ]
     }

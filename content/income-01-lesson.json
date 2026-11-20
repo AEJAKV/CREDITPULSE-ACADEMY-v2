@@ -19,10 +19,6 @@
           "text": "Senior companion services are non-medical help: conversation, walks, errands, going along to appointments, light meal help and social outings. The business is built on trust, and trust needs clear limits. You must define what you include, check local business rules, plan for safety and turn down tasks that need health, personal care, legal or money authority."
         },
         {
-          "type": "spotlight",
-          "text": "Sell a defined visit, not “anything you need.” A written list of what you do protects the client, the family and you from mismatched expectations."
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -88,6 +84,10 @@
               "icon": "alert"
             }
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Sell a defined visit, not “anything you need.” A written list of what you do protects the client, the family and you from mismatched expectations."
         },
         {
           "type": "paragraph",
@@ -223,7 +223,7 @@
             },
             {
               "title": "Pay both halves of CPP",
-              "text": "11.9% — on net earnings above $3,500, because you pay both halves. Quebec residents pay QPP instead."
+              "text": "11.9% — on net earnings from $3,500 up to $74,600 in 2026, because you pay both halves. Quebec residents pay QPP instead."
             },
             {
               "title": "Instalments",
@@ -273,14 +273,6 @@
         {
           "type": "spotlight",
           "text": "Use the payment method that gives you the least access and still works: the client pays at checkout, a store card, a set prepaid amount, or the family pays you back with receipts. Never keep a client’s PIN or online banking login."
-        },
-        {
-          "type": "heading",
-          "text": "What resolved the conflict?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Convenience is not a payment plan. Choose the payment method with the least access that still gets the groceries paid for."
         },
         {
           "type": "transition",
@@ -353,8 +345,8 @@
         },
         {
           "type": "source",
-          "text": "Government of Canada: Signs of abuse of older adults",
-          "url": "https://www.canada.ca/en/employment-social-development/news/2024/06/ministers-oregan-and-saks-mark-world-elder-abuse-awareness-day.html"
+          "text": "Public Health Agency of Canada: How you can identify abuse and help older adults at risk",
+          "url": "https://www.canada.ca/en/public-health/services/publications/health-risks-safety/how-identify-elder-abuse.html"
         }
       ]
     },

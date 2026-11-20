@@ -15,14 +15,6 @@
           "text": "Reselling can start with one useful product and a fair margin. It can also start with 80 novelty mugs arriving at your door like a ceramic intervention. This course builds the first version."
         },
         {
-          "type": "paragraph",
-          "text": "A reseller buys products and sells them for more than the full cost of getting them to a customer. The work is not just finding a low price. It also means checking demand, whether the item is genuine, safety, condition, fees, packaging, delivery, returns and records. A profitable listing is a calculation, not a hopeful adjective."
-        },
-        {
-          "type": "spotlight",
-          "text": "Pick one narrow category first. Knowing it well makes it easier to spot normal prices, defects, fakes, recalls and stock that will not move."
-        },
-        {
           "type": "myths",
           "items": [
             {
@@ -30,6 +22,14 @@
               "text": "A bargain nobody wants is inventory wearing a party hat. Profit depends on what sells, how fast it sells and what the whole sale costs."
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A reseller buys products and sells them for more than the full cost of getting them to a customer. The work is not just finding a low price. It also means checking demand, whether the item is genuine, safety, condition, fees, packaging, delivery, returns and records. A profitable listing is a calculation, not a hopeful adjective."
+        },
+        {
+          "type": "spotlight",
+          "text": "Pick one narrow category first. Knowing it well makes it easier to spot normal prices, defects, fakes, recalls and stock that will not move."
         },
         {
           "type": "transition",
@@ -185,50 +185,10 @@
           "type": "myths",
           "items": [
             {
-              "title": "“If another seller lists it for $100, mine is worth $100.”",
-              "text": "A listing is an invitation, not a sale. Compare real sold prices, condition and how long items took to sell before you choose your price."
+              "title": "“Free shipping costs me nothing.”",
+              "text": "Someone always pays the courier. If the buyer doesn’t, the $4 comes out of your $6 profit. Build shipping into the price, or charge it at checkout."
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Priya’s Thirty-Tumbler Test",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Meet Priya",
-          "detail": "DEDICATED STORY",
-          "extra": "",
-          "paragraphs": [
-            "Priya Desai wants to earn an extra $500 a month to pay down her credit card. She sees insulated tumblers listed online for $38 and buys 30 at $19 each. By Tuesday, the boxes have formed a small municipal council in her hallway.",
-            "Her spreadsheet has two columns: “cost” and “future riches.” The first sales come in, and the riches shrink. Payment fees, packaging and delivery eat most of the margin. Two lids leak.",
-            "Then she looks closer at the competition. The $38 tumblers were asking prices, not sold prices. Most sold for $26. She also has no paperwork showing the brand is real.",
-            "Priya could keep selling and hope the next batch is better. Instead, she decides to stop. She pauses the listings, refunds the two customers with leaky lids and writes down what the tumblers cost her.",
-            "For her next try, she buys just six plain desk organizers. She works out every cost first, sets a 30-day stop rule and tracks how long each one takes to sell.",
-            "Four sell at her target margin within three weeks. She reorders ten, not 100. Two months later, she is making about $300 a month, slower than she hoped, but real.",
-            "Priya did not give up on reselling. She swapped warehouse optimism for a small, careful test, and her hallway returned to civilian government."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "A test batch answers three questions cheaply: will it sell, at what real profit, and with what problems? A bigger order is earned by results."
-        },
-        {
-          "type": "heading",
-          "text": "What resolved the conflict?"
-        },
-        {
-          "type": "paragraph",
-          "text": "A hopeful bulk order became a careful test batch once she checked the real costs and real sold prices."
-        },
-        {
-          "type": "transition",
-          "text": "Priya turned a hallway of unsold tumblers into steady monthly profit by testing small first.",
-          "detail": "A six-item test with a stop rule can protect your own savings before you scale up.",
-          "extra": "Section 05 covers what the CRA and the selling platforms expect from you."
         }
       ]
     },
@@ -285,6 +245,61 @@
       ]
     },
     {
+      "id": "story",
+      "title": "Priya’s Thirty-Tumbler Test",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Meet Priya",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Priya Desai wants to earn an extra $500 a month to pay down her credit card. She sees insulated tumblers listed online for $38 and buys 30 at $19 each. By Tuesday, the boxes have formed a small municipal council in her hallway.",
+            "Her spreadsheet has two columns: “cost” and “future riches.” The first sales come in, and the riches shrink. Payment fees, packaging and delivery eat most of the margin. Two lids leak.",
+            "Then she looks closer at the competition. The $38 tumblers were asking prices, not sold prices. Most sold for $26. She also has no paperwork showing the brand is real.",
+            "Priya could keep selling and hope the next batch is better. Instead, she decides to stop. She pauses the listings, refunds the two customers with leaky lids and writes down what the tumblers cost her.",
+            "For her next try, she buys just six plain desk organizers. She works out every cost first, sets a 30-day stop rule and tracks how long each one takes to sell.",
+            "Four sell at her target margin within three weeks. She reorders ten, not 100. Two months later, she is making about $300 a month, slower than she hoped, but real.",
+            "Priya did not give up on reselling. She swapped warehouse optimism for a small, careful test, and her hallway returned to civilian government."
+          ]
+        },
+        {
+          "type": "glasspanel",
+          "text": "Priya’s two first orders",
+          "detail": "Same hallway, different risk",
+          "items": [
+            {
+              "title": "Thirty tumblers",
+              "text": "$570 upfront — 30 at $19 each, priced from asking prices."
+            },
+            {
+              "title": "The real sold price",
+              "text": "$26, not $38 — about $7 a tumbler before fees, packing and two leaky lids."
+            },
+            {
+              "title": "Six organizers",
+              "text": "$54 upfront — 6 at $9 each, with every cost worked out first."
+            },
+            {
+              "title": "The stop rule",
+              "text": "30 days — if fewer than four sell, she stops and reorders nothing."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A test batch answers three questions cheaply: will it sell, at what real profit, and with what problems? A bigger order is earned by results."
+        },
+        {
+          "type": "transition",
+          "text": "Priya turned a hallway of unsold tumblers into steady monthly profit by testing small first.",
+          "detail": "A six-item test with a stop rule can protect your own savings before you scale up.",
+          "extra": "Section 06 checks what you learned. Then build your own test card."
+        }
+      ]
+    },
+    {
       "id": "quick-check",
       "title": "Quick Check: Choose the Best Next Move",
       "paragraphs": [],
@@ -332,6 +347,10 @@
       "paragraphs": [],
       "blocks": [
         {
+          "type": "spotlight",
+          "text": "Write your stop rule on this card before you buy. Deciding in advance is far easier than deciding while boxes sit in your hallway."
+        },
+        {
           "type": "paragraph",
           "text": "Use general product descriptions and rounded numbers."
         },
@@ -339,8 +358,9 @@
           "type": "checkin"
         },
         {
-          "type": "spotlight",
-          "text": "Write your stop rule on this card before you buy. Deciding in advance is far easier than deciding while boxes sit in your hallway."
+          "type": "takeaway",
+          "text": "Test small, count every cost and let results earn the bigger order.",
+          "detail": "Sold prices, safety checks and a written stop rule decide what you buy next, not the excitement of a bargain."
         }
       ]
     },

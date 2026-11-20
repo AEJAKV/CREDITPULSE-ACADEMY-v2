@@ -2,7 +2,7 @@
   "title": "Building Recurring Revenue",
   "summary": "Track the numbers → Design a fair plan → Bill and renew honestly",
   "subtitle": "Turn one-time jobs into steady income that customers are glad to keep.",
-  "minutes": 30,
+  "minutes": 40,
   "published": true,
   "sections": [
     {
@@ -15,8 +15,34 @@
           "text": "Recurring revenue is money that comes in on a set schedule, such as a monthly retainer, a membership or a yearly service plan. It makes a small business calmer, because you can count on next month’s income instead of hoping for it. This lesson shows you how to build it honestly, so customers stay because they want to."
         },
         {
+          "type": "lists",
+          "items": [
+            {
+              "title": "ONE-TIME SALE",
+              "text": "",
+              "icon": "alert",
+              "list": [
+                "Pays you once",
+                "Next month starts at zero",
+                "Every quiet week is a worry",
+                "You hunt for customers all the time"
+              ]
+            },
+            {
+              "title": "RECURRING PLAN",
+              "text": "",
+              "list": [
+                "Pays you every month or year",
+                "Next month starts with money booked",
+                "Quiet weeks are easier to plan for",
+                "You still need a few new customers"
+              ]
+            }
+          ]
+        },
+        {
           "type": "paragraph",
-          "text": "A one-time sale pays you once, and then you must find the next customer. A recurring sale pays you again each month or year for as long as the customer stays. Common examples are a monthly cleaning plan, a bookkeeping retainer, a seasonal lawn service, a coaching membership and a subscription box."
+          "text": "Common examples are a monthly cleaning plan, a bookkeeping retainer, a seasonal lawn service, a coaching membership and a subscription box."
         },
         {
           "type": "myths",
@@ -72,77 +98,31 @@
           "text": "At 6.5% churn you need about two new customers a month just to stay level. Cut churn in half and each customer is worth about twice as much, which makes keeping customers the cheapest growth you can buy."
         },
         {
+          "type": "glasspanel",
+          "text": "Growing, level or shrinking?",
+          "detail": "The same 31-customer plan, one month later",
+          "items": [
+            {
+              "title": "Shrinking",
+              "text": "1 new, 2 cancelled — 30 customers, and $90 less coming in each month."
+            },
+            {
+              "title": "Level",
+              "text": "2 new, 2 cancelled — 31 customers. You worked hard to stand still."
+            },
+            {
+              "title": "Growing",
+              "text": "4 new, 1 cancelled — 34 customers, and $270 more each month."
+            }
+          ]
+        },
+        {
           "type": "spotlight",
           "text": "Check your churn every month. If more than a few customers cancel, ask three of them why. Their answers show you what to fix, and they cost you nothing."
         },
         {
           "type": "paragraph",
           "text": "Recurring income still takes work. You deliver the service every month, so the plan must be priced to cover your time as well as your costs."
-        }
-      ]
-    },
-    {
-      "id": "plan",
-      "title": "Design a Plan People Keep",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Start with a service customers already need on a regular basis. Bundle it into a simple monthly or yearly plan with a clear price, a clear list of what is included and a clear way to stop. Customers join plans that feel predictable and fair."
-        },
-        {
-          "type": "lists",
-          "items": [
-            {
-              "title": "Retainer",
-              "text": "",
-              "list": [
-                "How it works: A fixed monthly fee for an agreed amount of work",
-                "Example: A bookkeeper who reviews your accounts each month"
-              ]
-            },
-            {
-              "title": "Membership",
-              "text": "",
-              "list": [
-                "How it works: A monthly fee for access to your content or community",
-                "Example: A fitness or hobby group"
-              ]
-            },
-            {
-              "title": "Service plan",
-              "text": "",
-              "list": [
-                "How it works: A regular visit or delivery at a set price",
-                "Example: Lawn care, cleaning, or pet visits"
-              ]
-            },
-            {
-              "title": "Prepaid package",
-              "text": "",
-              "list": [
-                "How it works: A larger payment up front for a bundle of sessions",
-                "Example: Ten tutoring hours at a small discount"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Put the terms where people can see them. State the price, the billing date, the renewal date and how to cancel, in plain words, before the customer pays. Email customers before each renewal, and make cancelling as easy as signing up."
-        },
-        {
-          "type": "myths",
-          "items": [
-            {
-              "title": "“A free trial that renews automatically is just good business.”",
-              "text": "The Competition Bureau warns about subscription traps, where people give card details for a free or cheap offer and end up locked into a monthly charge. Watch for pre-checked boxes, unclear cancellation terms and return policies that are hard to find. These practices damage trust and can break the law."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Provincial consumer protection laws also cover renewals and cancelling, and the rules differ across Canada. Before you launch, read the guidance from your province’s consumer protection office. Quebec’s consumer law has special rules for contracts with ongoing service, so check them with care if you sell in Quebec or market to Quebecers."
         }
       ]
     },
@@ -166,10 +146,71 @@
           ]
         },
         {
+          "type": "heading",
+          "text": "The email Marisol sends a month before renewal"
+        },
+        {
+          "type": "quote",
+          "text": "“Your year-round plan renews on April 1 at $90 a month, plus HST. Nothing changes unless you want it to. If you’d like to stop, use the cancel link below. No phone call needed. Thank you for a great year.”"
+        },
+        {
           "type": "transition",
           "text": "Honest renewals build the kind of customers who stay by choice.",
           "detail": "Clear terms and easy cancelling cost you a few customers, and win you far more referrals and a name that sells for you.",
-          "extra": "Section 05 shows how to bill, renew and handle prepaid money."
+          "extra": "Section 04 shows how to design a plan like Marisol’s."
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "title": "Design a Plan People Keep",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start with a service customers already need on a regular basis. Bundle it into a simple monthly or yearly plan with a clear price, a clear list of what is included and a clear way to stop. Customers join plans that feel predictable and fair."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "RETAINER",
+              "icon": "briefcase",
+              "text": "A fixed monthly fee for an agreed amount of work, such as a bookkeeper who reviews your accounts each month."
+            },
+            {
+              "title": "MEMBERSHIP",
+              "icon": "heart",
+              "text": "A monthly fee for access to your content or community, such as a fitness or hobby group."
+            },
+            {
+              "title": "SERVICE PLAN",
+              "icon": "calendar",
+              "text": "A regular visit or delivery at a set price, such as lawn care, cleaning or pet visits."
+            },
+            {
+              "title": "PREPAID PACKAGE",
+              "icon": "gift",
+              "text": "A larger payment up front for a bundle of sessions, such as ten tutoring hours at a small discount."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Put the terms where people can see them. State the price, the billing date, the renewal date and how to cancel, in plain words, before the customer pays. Email customers before each renewal, and make cancelling as easy as signing up."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A free trial that renews automatically is just good business.”",
+              "text": "The Competition Bureau warns about subscription traps, where people give card details for a free or cheap offer and end up locked into a monthly charge. Watch for pre-checked boxes, unclear cancellation terms and return policies that are hard to find. These practices damage trust and can break the law."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Provincial consumer protection laws also cover renewals and cancelling, and the rules differ across Canada. Ontario passed a new Consumer Protection Act in 2023 with stricter renewal and cancellation rules, which take effect on a date the province will set. Before you launch, read the current guidance from your province’s consumer protection office. Quebec’s consumer law has special rules for contracts with ongoing service, so check them with care if you sell in Quebec or market to Quebecers."
         }
       ]
     },
@@ -179,7 +220,8 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
+          "type": "filecards",
+          "text": "Six steps to a plan people trust",
           "items": [
             {
               "title": "Pick one recurring need.",
@@ -214,6 +256,27 @@
         {
           "type": "paragraph",
           "text": "In June 2024, Sirius XM agreed to pay a $3.3 million penalty to settle Competition Bureau concerns that a required fee made its plans cost 10% to 20% more than the advertised price. A fixed fee everyone must pay belongs in the price you advertise. Government taxes are the usual exception."
+        },
+        {
+          "type": "heading",
+          "text": "When a payment fails or is disputed"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Tell the customer the same day",
+              "text": "A short, friendly email with a link to update their card. Most failed payments are an expired card, not a goodbye."
+            },
+            {
+              "title": "Retry once or twice",
+              "text": "Try again over the next week, and pause the service if the payment still fails. Say so in your terms."
+            },
+            {
+              "title": "Follow the debit rules",
+              "text": "If you collect by pre-authorized debit, Payments Canada rules let a customer get back a debit that didn’t follow your agreement, up to 90 days later for a personal account. Keep the signed agreement and give notice before an amount changes."
+            }
+          ]
         },
         {
           "type": "heading",
@@ -281,30 +344,6 @@
       "blocks": [
         {
           "type": "heading",
-          "text": "Quick Check"
-        },
-        {
-          "type": "accordions",
-          "items": [
-            {
-              "title": "What is churn?",
-              "detail": "The share of customers who cancel in a given period.",
-              "text": ""
-            },
-            {
-              "title": "Does a mandatory monthly fee belong in the advertised price?",
-              "detail": "Yes.",
-              "text": "Only government taxes can be added later."
-            },
-            {
-              "title": "Do you charge GST/HST on each repeating payment?",
-              "detail": "Yes,",
-              "text": "once you are registered."
-            }
-          ]
-        },
-        {
-          "type": "heading",
           "text": "Knowledge Check"
         },
         {
@@ -333,19 +372,52 @@
           ]
         },
         {
-          "type": "takeaway",
-          "text": "Offer a clear plan, show the true price, remind before renewing, and make cancelling easy. Customers who stay by choice are worth more.",
-          "detail": ""
+          "type": "heading",
+          "text": "Quick Check"
+        },
+        {
+          "type": "accordions",
+          "items": [
+            {
+              "title": "What is churn?",
+              "detail": "The share of customers who cancel in a given period.",
+              "text": ""
+            },
+            {
+              "title": "Does a mandatory monthly fee belong in the advertised price?",
+              "detail": "Yes.",
+              "text": "Only government taxes can be added later."
+            },
+            {
+              "title": "Do you charge GST/HST on each repeating payment?",
+              "detail": "Yes,",
+              "text": "once you are registered."
+            },
+            {
+              "title": "You have 40 customers at $60 a month and $1,500 of fixed costs. How many customers is break-even?",
+              "detail": "25 customers.",
+              "text": "$1,500 ÷ $60 = 25. The other 15 are your profit and your cushion."
+            }
+          ]
         }
       ]
     },
     {
       "id": "action",
-      "title": "Your Action",
+      "title": "Your Action (Fill Out Form): Your Recurring Plan",
       "paragraphs": [],
       "blocks": [
         {
+          "type": "paragraph",
+          "text": "Sketch one plan you could offer. Rough numbers are fine, and no customer names are needed."
+        },
+        {
           "type": "checkin"
+        },
+        {
+          "type": "takeaway",
+          "text": "Offer a clear plan, show the true price, remind before renewing, and make cancelling easy. Customers who stay by choice are worth more.",
+          "detail": ""
         }
       ]
     },
@@ -380,6 +452,10 @@
             {
               "title": "Subscription trap",
               "text": "A free or cheap offer that locks a customer into regular charges."
+            },
+            {
+              "title": "Pre-authorized debit",
+              "text": "A payment pulled from a customer’s bank account under a signed agreement."
             }
           ]
         },
@@ -400,6 +476,11 @@
         },
         {
           "type": "source",
+          "text": "Payments Canada: Pre-authorized debit (business guide)",
+          "url": "https://www.payments.ca/payment-resources/support-guides/business-guides/pre-authorized-debit"
+        },
+        {
+          "type": "source",
           "text": "CRA: When to register for and start charging the GST/HST",
           "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html"
         }
@@ -417,20 +498,20 @@
   },
   "checkIn": {
     "questions": [
-      "What service do customers already need again and again?",
-      "What would your plan include, and what would it cost?",
-      "How would you bill it?",
-      "How many customers would you need to cover one month’s fixed costs?",
-      "Will you email a reminder before each renewal?",
-      "How easy will it be to cancel?"
+      "What service do your customers already need again and again?",
+      "What would your plan include, and what would it cost each month or year?",
+      "How would you bill it: monthly, yearly or prepaid? (Monthly / Yearly / Prepaid / Not sure)",
+      "How many customers would you need to cover one month’s fixed costs? Divide your monthly costs by the plan price.",
+      "When will you send a renewal reminder, and what will it say?",
+      "How will a customer cancel? Aim for as easy as signing up."
     ],
     "samples": [
-      "Think about work you repeat for the same people.",
-      "For example: two cleanings a month for $180, plus tax.",
-      "Monthly, yearly, or not sure.",
-      "Divide your monthly costs by the plan price. For example: $900 ÷ $90 = 10 customers.",
-      "Yes, no, or not sure.",
-      "One click or email, a phone call, or not sure yet. Aim for as easy as signing up."
+      "House cleaning. Most of my clients book every two weeks anyway.",
+      "Two cleanings a month for $180, plus tax.",
+      "Monthly.",
+      "$900 ÷ $180 = 5 customers.",
+      "A month before the yearly renewal: the date, the price and a cancel link.",
+      "A one-click link in every renewal email, or a reply to any email."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

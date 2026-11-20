@@ -237,6 +237,8 @@ Beyond the rewrite, each lesson was checked for accuracy and given added depth, 
 
 The corrupted `ordered` lists in income-01 to 04 were rebuilt from each lesson's own content and should be checked by the course owner.
 
+Spotlight rule (2026-11-20): every income lesson has 3 to 5 Credit Pulse spotlights and never two in one section. In income-12 to 17 the strongest spotlight in each crowded section stays; the others became plain paragraphs in place (no text lost), and in income-16 and 17 one spotlight moved under the story it explains.
+
 Starter and Silver (income-01 to 08) were restructured on 2026-11-20 so no two lessons share a frame: the story sits in a different slot (section 02 in income-04, 03 in income-02, 05 in income-03), the story section carries its own companion block (glass panel, lists, pull quote) instead of the shared "What resolved the conflict?" heading, and the start, quick-check and action sections each use a different mix. Figures re-checked 2026-11-20: CPP 2026 ($3,500 to $74,600 at 11.9% self-employed), Cineplex $38.9 million penalty upheld by the Federal Court of Appeal in January 2026.
 
 | Lesson | Course | Treatment | Teaching grade | Story grade |
@@ -252,15 +254,15 @@ Starter and Silver (income-01 to 08) were restructured on 2026-11-20 so no two l
 | income-09 | Ecommerce | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Gold: stocking-method glass panel, one-order cost ledger, valid vs invalid consent panels) | 7.13 → 6.90 | 4.68 → 4.68 |
 | income-10 | AI-Assisted Businesses | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Gold: draft-decide-check split, ownership/terms/privacy/claims tiles, never-promise panels; concrete form samples) | 8.33 → 6.76 | 4.06 → 4.06 |
 | income-11 | Social-Media Management | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Gold: pilot quote ledger, client setup file cards with hero image, answer vs escalate panels, 14-day batch day carousel, honest report panel) | 9.06 → 6.12 | 8.01 → 5.68 |
-| income-12 | Local Lead Generation | done 2026-10-30 (pay models and tax cards; CASL published-address conditions) | 8.32 → 6.24 | 7.47 → 5.53 |
-| income-13 | Starting a Small Corporation | done 2026-10-30 (federal fees and deadlines cards ($200 filing, annual return, T2 and balance-due dates)) | 10.24 → 7.89 | 8.37 → 6.17 |
-| income-14 | Sole Proprietor Versus Corporation | done 2026-10-30 (side-by-side cards: tax on profit, CPP, early losses, upkeep) | 8.84 → 7.30 | 8.16 → 5.50 |
-| income-15 | Canadian Business Registration | done 2026-10-30 (sales tax layer cards; Ontario $60 five-year name registration) | 9.94 → 7.50 | 8.44 → 5.95 |
-| income-16 | Basic Bookkeeping | done 2026-10-30 (owner draws and home office cards; cloud backup note) | 7.85 → 6.12 | 4.64 → 4.64 |
-| income-17 | GST/HST | done 2026-10-30 (HST rate card; story ITC timing corrected) | 6.62 → 5.73 | 5.27 → 4.40 |
-| income-18 | Pricing Services | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Elite: rate formula glass panel, CPP on $60,000, add-on fee tiles, written-quote steps, price-increase message quote) | 6.50 → 5.25 | 5.35 → 4.60 |
-| income-19 | Building Recurring Revenue | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Elite: MRR/churn/break-even/lifetime value panel, prepaid-money panels, Sirius XM June 2024 penalty) | 8.27 → 7.17 | 5.80 → 4.96 |
-| income-20 | Moving From Side Hustle to Business | rebuilt 2026-11-19 (distinct structure; 3 spotlights, max 1 per section; Elite: readiness tiles, safety-net panel (EI 12-month wait, $9,254 2025 earnings test), corporation tax panel (9% on first $500,000, T2), five-step number carousel, growth-tax panel) | 8.06 → 6.93 | 5.61 → 6.09 |
+| income-12 | Local Lead Generation | done 2026-10-30 (pay models and tax cards; CASL published-address conditions); spotlights cut to 3, one per section (2026-11-20) | 8.32 → 6.24 | 7.47 → 5.53 |
+| income-13 | Starting a Small Corporation | done 2026-10-30 (federal fees and deadlines cards ($200 filing, annual return, T2 and balance-due dates)); spotlights cut to 3, one per section (2026-11-20) | 10.24 → 7.89 | 8.37 → 6.17 |
+| income-14 | Sole Proprietor Versus Corporation | done 2026-10-30 (side-by-side cards: tax on profit, CPP, early losses, upkeep); spotlights cut to 3, one per section (2026-11-20) | 8.84 → 7.30 | 8.16 → 5.50 |
+| income-15 | Canadian Business Registration | done 2026-10-30 (sales tax layer cards; Ontario $60 five-year name registration); spotlights cut to 3, one per section (2026-11-20) | 9.94 → 7.50 | 8.44 → 5.95 |
+| income-16 | Basic Bookkeeping | done 2026-10-30 (owner draws and home office cards; cloud backup note); spotlights cut to 3, one per section (2026-11-20) | 7.85 → 6.12 | 4.64 → 4.64 |
+| income-17 | GST/HST | done 2026-10-30 (HST rate card; story ITC timing corrected); spotlights cut to 3, one per section (2026-11-20) | 6.62 → 5.73 | 5.27 → 4.40 |
+| income-18 | Pricing Services | rebuilt again 2026-11-20 (Elite: three-things tiles, $69,000 cost ledger, 1,000-billable-hours panel, one job priced three ways, Ontario 10% estimate rule, tax on a $1,000 job by province incl. NS 14%, before/after story panel, raise-survival math; story moved after quoting; concrete form samples; 4 spotlights) | 5.25 → 4.65 | 4.60 → 4.60 |
+| income-19 | Building Recurring Revenue | rebuilt again 2026-11-20 (Elite: one-time vs recurring panels, growth/level/shrink panel, story moved to section 03 with the renewal email, plan icon tiles, six-step file cards, failed-payment steps with Payments Canada PAD 90-day rule, Ontario CPA 2023 noted as not yet in force; concrete form samples; 3 spotlights) | 7.17 → 6.79 | 4.96 → 4.96 |
+| income-20 | Moving From Side Hustle to Business | rebuilt again 2026-11-20 (Elite: staircase checklist, cushion payday calculator, story moved to section 03 with asked-for/did panels, provincial small-business rate range (0% MB to 3.2% ON), $200 federal incorporation and $12 annual return, CPP2 8% to $85,000, sole-proprietor tax calendar (June 15 filing, April 30 balance); concrete form samples; 3 spotlights) | 6.93 → 6.69 | 6.09 → 6.09 |
 
 ## v2 tax-wealth rollout (`content/tax-NN-lesson.json`)
 

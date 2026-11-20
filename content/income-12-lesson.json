@@ -72,7 +72,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Make your role clear. Say that you manage requests for the named yard service. Do not invent a local business, address or review to make the page look established."
         },
         {
@@ -143,7 +143,7 @@
           "text": "The agreement says a qualified lead is one new household request for a job the client takes, inside the agreed area, with contact details that work and permission for the named client to receive it. Repeat entries for the same job count once. Agree how to dispute or replace a bad lead, and set the client’s reply target, such as one business day."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Agree who owns each step. Your handoff time and the client’s reply time are separate measures, and neither proves a booking happened."
         },
         {
@@ -205,8 +205,8 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "Insider tip: Keep a short reason code for every entry you leave out. You can explain the totals without copying customer messages into each report."
+          "type": "paragraph",
+          "text": "Keep a short reason code for every entry you leave out. You can explain the totals without copying customer messages into each report."
         }
       ]
     },

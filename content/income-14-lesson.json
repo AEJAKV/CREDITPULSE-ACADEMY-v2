@@ -97,7 +97,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "A business name does not settle risk. A clear contract should say what you will handle, what needs the client’s approval and what is outside the service."
         },
         {
@@ -192,7 +192,7 @@
           "text": "That $700 is not spare money for growth or proof of a tax saving. Ask the accountant how much can safely reach the household under each option, and what is left after all tax and running costs. Test a slow month too. Unpaid invoices do not buy groceries."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Compare the same service and the same household need. Leaving money in a company may help future plans, but it does not turn that money into a personal spending account."
         },
         {
@@ -213,8 +213,8 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "Insider tip: Bring your scope, your cash estimate and your real contract questions to the adviser. “What changes if I take this job?” is easier to answer than “Which structure is best?”"
+          "type": "paragraph",
+          "text": "Bring your scope, your cash estimate and your real contract questions to the adviser. “What changes if I take this job?” is easier to answer than “Which structure is best?”"
         }
       ]
     },

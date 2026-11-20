@@ -2,7 +2,7 @@
   "title": "Moving From Side Hustle to Business",
   "summary": "Check you are ready → Choose a structure → Register and protect → Plan for growth taxes",
   "subtitle": "Make the jump from side income to a business you can stand behind.",
-  "minutes": 30,
+  "minutes": 40,
   "published": true,
   "sections": [
     {
@@ -17,6 +17,35 @@
         {
           "type": "paragraph",
           "text": "To the CRA, you are already a business, even if your income is small. Self-employed income goes on Form T2125 with your personal return, whether you earn $500 or $50,000. What turns a hustle into a business is mostly how seriously you run it."
+        },
+        {
+          "type": "heading",
+          "text": "The staircase in this lesson"
+        },
+        {
+          "type": "chips",
+          "items": [
+            {
+              "title": "Check that the demand is real and steady",
+              "text": ""
+            },
+            {
+              "title": "Hear how one tradesperson made the call",
+              "text": ""
+            },
+            {
+              "title": "Choose a structure, with advice",
+              "text": ""
+            },
+            {
+              "title": "Register, get licensed and insure",
+              "text": ""
+            },
+            {
+              "title": "Plan for the taxes that grow with you",
+              "text": ""
+            }
+          ]
         },
         {
           "type": "myths",
@@ -93,7 +122,85 @@
         },
         {
           "type": "paragraph",
+          "text": "Build the cash cushion before you cut your hours, not after. If your household runs on $3,200 a month, three months is $9,600. The calculator shows how many paydays that takes."
+        },
+        {
+          "type": "paydays",
+          "text": "Build your cushion before you jump",
+          "detail": "INTERACTIVE MATH LAB",
+          "extra": "Enter your cushion goal, what you have saved so far and what you can move each payday. Watch the number of deposits update.",
+          "items": [
+            {
+              "title": "Three months",
+              "text": "",
+              "amount": "9600"
+            },
+            {
+              "title": "Four months",
+              "text": "",
+              "amount": "12800"
+            },
+            {
+              "title": "Six months",
+              "text": "",
+              "amount": "19200"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
           "text": "No one takes tax off your business income anymore. Move a share of every payment into a separate tax account from the first month."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Story: The Voltage Tester",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The Voltage Tester",
+          "detail": "STORY",
+          "extra": "",
+          "paragraphs": [
+            "Mehdi Karimi worked as an electrician in Surrey. In the evenings he installed electric-vehicle chargers for neighbours. His goal was to cut his day job to four days a week, so he could spend the fifth day on his own customers. A yellow voltage tester hung from his belt.",
+            "By spring he had eleven repeat clients. Then a property manager asked if he had liability insurance, a contractor licence and a business number. The company needed all three before it could give him a bigger contract. Mehdi had none of them.",
+            "That night he searched online and found a forum full of advice. A dozen people said the same thing: “Incorporate right now.” Mehdi felt a rush of panic. His finger hovered over a button that offered to set up a company for a flat fee.",
+            "He stopped and made a different choice. He would not rush into a company because strangers told him to. He booked an hour with an accountant and brought his numbers. His profit was about $22,000 a year. For now, they agreed, a sole proprietorship with good insurance made more sense. They set a review date and wrote down the profit level that would make him think again.",
+            "Mehdi registered his business name and got his business number. He applied to Technical Safety BC for his contractor licence and started pulling a permit for every install. He bought liability insurance and opened a business bank account. Then he sent the property manager his papers.",
+            "The manager hired him, and the questions helped. She liked how well he had answered them. By autumn Mehdi had moved to a four-day job. By the next review his profit had passed the level he wrote down, and he went back to the accountant with a smile. The yellow voltage tester still hangs from his belt."
+          ]
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "WHAT THE MANAGER ASKED FOR",
+              "text": "",
+              "icon": "alert",
+              "list": [
+                "Liability insurance",
+                "A contractor licence",
+                "A business number"
+              ]
+            },
+            {
+              "title": "WHAT MEHDI DID FIRST",
+              "text": "",
+              "list": [
+                "One hour with an accountant, numbers in hand",
+                "Stayed a sole proprietor, with a written review trigger",
+                "Name, business number, licence, permits, insurance, bank account"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "Slow is smooth, and smooth is fast.",
+          "detail": "A planned structure, the right paperwork and an honest review date protect your income and make you look as professional as you are.",
+          "extra": "Section 04 compares the two structures Mehdi weighed."
         }
       ]
     },
@@ -148,7 +255,7 @@
           "items": [
             {
               "title": "Federal small business rate",
-              "text": "9% — on the first $500,000 of active business income, plus a provincial rate."
+              "text": "9% — on the first $500,000 of active business income, plus a provincial rate from 0% in Manitoba to 3.2% in Ontario."
             },
             {
               "title": "Its own return",
@@ -160,7 +267,7 @@
             },
             {
               "title": "Extra cost",
-              "text": "Every year — separate books, an annual return and usually an accountant’s fee."
+              "text": "Every year — separate books, an annual return and usually an accountant’s fee. Federal incorporation costs $200 online, and each annual return $12."
             }
           ]
         },
@@ -176,33 +283,6 @@
               "text": "A lender may ask you to personally guarantee a loan. Directors can also be personally liable if the company fails to send in certain amounts it owes, such as payroll deductions. Insurance and good contracts still matter."
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Story: The Voltage Tester",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "The Voltage Tester",
-          "detail": "STORY",
-          "extra": "",
-          "paragraphs": [
-            "Mehdi Karimi worked as an electrician in Surrey. In the evenings he installed electric-vehicle chargers for neighbours. His goal was to cut his day job to four days a week, so he could spend the fifth day on his own customers. A yellow voltage tester hung from his belt.",
-            "By spring he had eleven repeat clients. Then a property manager asked if he had liability insurance, a contractor licence and a business number. The company needed all three before it could give him a bigger contract. Mehdi had none of them.",
-            "That night he searched online and found a forum full of advice. A dozen people said the same thing: “Incorporate right now.” Mehdi felt a rush of panic. His finger hovered over a button that offered to set up a company for a flat fee.",
-            "He stopped and made a different choice. He would not rush into a company because strangers told him to. He booked an hour with an accountant and brought his numbers. His profit was about $22,000 a year. For now, they agreed, a sole proprietorship with good insurance made more sense. They set a review date and wrote down the profit level that would make him think again.",
-            "Mehdi registered his business name and got his business number. He applied to Technical Safety BC for his contractor licence and started pulling a permit for every install. He bought liability insurance and opened a business bank account. Then he sent the property manager his papers.",
-            "The manager hired him, and the questions helped. She liked how well he had answered them. By autumn Mehdi had moved to a four-day job. By the next review his profit had passed the level he wrote down, and he went back to the accountant with a smile. The yellow voltage tester still hangs from his belt."
-          ]
-        },
-        {
-          "type": "transition",
-          "text": "Slow is smooth, and smooth is fast.",
-          "detail": "A planned structure, the right paperwork and an honest review date protect your income and make you look as professional as you are.",
-          "extra": "Section 05 walks through registering and protecting the business."
         }
       ]
     },
@@ -285,6 +365,10 @@
       "paragraphs": [],
       "blocks": [
         {
+          "type": "paragraph",
+          "text": "Growth is good news that arrives with paperwork. Watch these lines as your profit rises."
+        },
+        {
           "type": "glasspanel",
           "text": "As your profit grows",
           "detail": "Sole proprietor, 2026",
@@ -295,7 +379,11 @@
             },
             {
               "title": "CPP",
-              "text": "11.9% — both halves, on net earnings above $3,500. Quebec residents pay QPP."
+              "text": "11.9% — both halves, on net earnings from $3,500 up to $74,600 in 2026. Quebec residents pay QPP."
+            },
+            {
+              "title": "CPP2",
+              "text": "8% — on earnings from $74,600 up to $85,000, once profit climbs that high."
             },
             {
               "title": "GST/HST",
@@ -312,6 +400,27 @@
           "text": "Your instalments also cover the CPP you owe on your own earnings. Set aside for both from every payment, so the quarterly reminder is a transfer, not a panic."
         },
         {
+          "type": "heading",
+          "text": "Your tax calendar as a sole proprietor"
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "March 15, June 15, September 15, December 15",
+              "text": "Instalment due dates, once the CRA asks you to pay quarterly."
+            },
+            {
+              "title": "April 30",
+              "text": "Any balance owing for last year is due, even though your return can wait."
+            },
+            {
+              "title": "June 15",
+              "text": "Your return is due when you or your spouse or partner have self-employment income. Interest on any balance still runs from April 30."
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Write your review trigger down today. It gives you a calm, planned reason to look at your structure again, instead of a stressful one. Then book a meeting with an accountant before you reach it."
         }
@@ -319,37 +428,9 @@
     },
     {
       "id": "quick-check",
-      "title": "Check yourself",
+      "title": "Quick Check: Which Step Comes Next?",
       "paragraphs": [],
       "blocks": [
-        {
-          "type": "heading",
-          "text": "Quick Check"
-        },
-        {
-          "type": "accordions",
-          "items": [
-            {
-              "title": "Where do you report self-employed income as a sole proprietor?",
-              "detail": "On your T1 return, using Form T2125.",
-              "text": ""
-            },
-            {
-              "title": "In a corporation, can shareholders claim the corporation’s losses?",
-              "detail": "No.",
-              "text": "The corporation’s losses stay with the corporation."
-            },
-            {
-              "title": "When must you pay income tax by instalments?",
-              "detail": "When your net tax owing is above the CRA’s threshold in the current year and in one of the two years before.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Knowledge Check"
-        },
         {
           "type": "accordions",
           "items": [
@@ -369,6 +450,26 @@
               "text": "Your best structure can change as your profit and risk change."
             },
             {
+              "title": "Where do you report self-employed income as a sole proprietor?",
+              "detail": "On your T1 return, using Form T2125.",
+              "text": ""
+            },
+            {
+              "title": "In a corporation, can shareholders claim the corporation’s losses?",
+              "detail": "No.",
+              "text": "The corporation’s losses stay with the corporation."
+            },
+            {
+              "title": "When must you pay income tax by instalments?",
+              "detail": "When your net tax owing is above the CRA’s threshold in the current year and in one of the two years before.",
+              "text": ""
+            },
+            {
+              "title": "You owe a $2,000 balance for last year and file on June 15. When was the money due?",
+              "detail": "April 30.",
+              "text": "Self-employed people can file later, but interest on a balance starts after April 30."
+            },
+            {
               "title": "In one sentence, describe the first step you will take toward becoming a business.",
               "detail": "Sample response:",
               "text": "I will open a business bank account and book an hour with an accountant next month."
@@ -384,9 +485,13 @@
     },
     {
       "id": "action",
-      "title": "Your Action",
+      "title": "Your Action (Fill Out Form): Your Next Three Steps",
       "paragraphs": [],
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Answer for where you are today, not where you hope to be. “Not yet” is a useful answer, because it tells you what to do next."
+        },
         {
           "type": "checkin"
         }
@@ -475,20 +580,20 @@
   },
   "checkIn": {
     "questions": [
-      "What makes your side hustle ready to grow?",
-      "Which structure are you thinking about?",
-      "Does your work need a licence or permits?",
-      "Do you have a business bank account and liability insurance?",
-      "How many months of household costs have you saved?",
-      "When will you book time with an accountant?"
+      "What tells you your side hustle is ready to grow? Think about repeat customers or a waiting list.",
+      "Which structure are you leaning toward right now? (Sole proprietorship / Corporation / Not sure)",
+      "Does your work need a licence or permits? Check BizPaL and your trade’s licensing body.",
+      "Do you have a business bank account and liability insurance? (Both / One / Neither yet)",
+      "How many months of household costs have you saved, and what is your goal before you cut your hours?",
+      "What profit level will make you review your structure, and when will you book an accountant?"
     ],
     "samples": [
-      "Think about repeat customers or a waiting list.",
-      "Sole proprietorship, corporation, or not sure.",
-      "Yes, no, or not sure. Check BizPaL and your trade’s licensing body.",
-      "Both, one of them, or neither yet.",
-      "For example: two months now, aiming for four before I cut my hours.",
-      "Choose a month and put it in your calendar."
+      "Eleven repeat clients, and I turn down two jobs a week.",
+      "Sole proprietorship for now.",
+      "Yes. I need my electrical contractor licence and a permit for every charger install.",
+      "One. I opened the bank account and I’m calling a broker this week.",
+      "Two months now. I want four before I go to a four-day week.",
+      "If profit passes $60,000. I booked an accountant for March."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

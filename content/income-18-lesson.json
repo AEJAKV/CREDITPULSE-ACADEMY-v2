@@ -2,7 +2,7 @@
   "title": "Pricing Services",
   "summary": "Build your rate → Pick a pricing method → Quote it honestly → Raise it without drama",
   "subtitle": "Charge a price that pays your costs, your time, and your future.",
-  "minutes": 30,
+  "minutes": 40,
   "published": true,
   "sections": [
     {
@@ -15,8 +15,24 @@
           "text": "Pricing a service is harder than pricing a product, because your main ingredient is your own time. Many new owners guess at a number that feels polite, then wonder why they are worn out and still behind on bills. This lesson shows you how to build a price from real numbers and quote it honestly under Canadian rules."
         },
         {
-          "type": "paragraph",
-          "text": "A price has to cover three things at once. First, your business costs, such as tools, software, insurance and travel. Second, your own pay, which is why you started. Third, the time you cannot bill, like emails, quotes and the cleanup after a job."
+          "type": "cards",
+          "items": [
+            {
+              "title": "BUSINESS COSTS",
+              "icon": "receipt",
+              "text": "Tools, software, insurance, phone, travel and ads. If the price doesn’t cover them, you pay them out of your own pocket."
+            },
+            {
+              "title": "YOUR PAY",
+              "icon": "wallet",
+              "text": "The income you started the business for, before income tax and CPP come out of it."
+            },
+            {
+              "title": "TIME NOBODY PAYS FOR",
+              "icon": "timer",
+              "text": "Quotes, emails, driving, buying parts and cleaning up. It is real work, so the paid hours must carry it."
+            }
+          ]
         },
         {
           "type": "paragraph",
@@ -46,28 +62,84 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Start with the pay you want before tax, and add your yearly business costs. Then divide by the hours you can bill in a year. Most people bill far fewer hours than they work, because marketing, paperwork and travel take time too."
+          "text": "Start with the pay you want before tax, and add your yearly business costs. Then divide by the hours you can bill in a year. Here is one handyman’s year, line by line."
+        },
+        {
+          "type": "ledger",
+          "detail": "ONE YEAR, ONE PERSON",
+          "text": "$60,000 pay + $9,000 costs = $69,000 a year. Divided by 1,000 billable hours, that is $69 an hour.",
+          "extra": "If you could bill 1,500 hours, the same year would need only $46 an hour. Few solo owners manage that many.",
+          "items": [
+            {
+              "title": "Sales you need",
+              "amount": "$69,000",
+              "detail": "Total",
+              "text": "Is this the number your rate is built on?"
+            },
+            {
+              "title": "Your pay goal",
+              "amount": "$60,000",
+              "detail": "Pay",
+              "text": "Before income tax and CPP. Is it enough to live on?"
+            },
+            {
+              "title": "Truck and fuel, business share",
+              "amount": "$3,600",
+              "detail": "Travel",
+              "text": "Do you log your business kilometres?"
+            },
+            {
+              "title": "Tools and repairs",
+              "amount": "$1,200",
+              "detail": "Tools",
+              "text": "What wears out or breaks in a year?"
+            },
+            {
+              "title": "Advertising",
+              "amount": "$1,200",
+              "detail": "Marketing",
+              "text": "Directory listings, cards and a simple website."
+            },
+            {
+              "title": "Liability insurance",
+              "amount": "$900",
+              "detail": "Protection",
+              "text": "Have you asked a broker for a real quote?"
+            },
+            {
+              "title": "Phone and software",
+              "amount": "$900",
+              "detail": "Office",
+              "text": "Your phone plan, booking and invoicing apps."
+            },
+            {
+              "title": "Bank fees, supplies, other",
+              "amount": "$1,200",
+              "detail": "Other",
+              "text": "The small costs that add up over a year."
+            }
+          ]
         },
         {
           "type": "glasspanel",
-          "text": "The rate formula",
-          "detail": "One person, one year",
+          "text": "Where 1,000 billable hours come from",
+          "detail": "A full-time solo year",
           "items": [
             {
-              "title": "Your pay goal",
-              "text": "$60,000 — before income tax and CPP."
+              "title": "Weeks you work",
+              "text": "46 — after six weeks of holidays, sick days and slow weeks that nobody pays for."
             },
             {
-              "title": "Business costs",
-              "text": "+ $9,000 — tools, software, insurance, phone, travel and ads."
+              "title": "Hours you work",
+              "text": "About 1,840 — 40 hours a week for 46 weeks."
             },
             {
-              "title": "Billable hours",
-              "text": "÷ 1,000 — about 22 hours a week for 46 weeks."
+              "title": "Hours nobody pays for",
+              "text": "About 840 — quotes, travel, buying parts, messages and books."
             },
             {
-              "title": "Rate you need",
-              "text": "$69 an hour — and only $46 if you could bill 1,500 hours, which few solo owners manage."
+              "title": "Hours you can bill",
+              "text": "About 1,000 — roughly 22 a week, or a little over half your working time."
             }
           ]
         },
@@ -77,7 +149,7 @@
         },
         {
           "type": "paragraph",
-          "text": "On $60,000 of net self-employment income, CPP alone is about $6,700, or 11.9% of earnings above $3,500. Quebec residents pay QPP instead. Income tax comes on top, so set aside a share of every payment from day one."
+          "text": "On $60,000 of net self-employment income, CPP alone is about $6,700: 11.9% of earnings above $3,500. Part of it comes back as a deduction and a tax credit, but you still pay it up front. Quebec residents pay QPP instead. Income tax comes on top, so set aside a share of every payment from day one."
         },
         {
           "type": "myths",
@@ -129,6 +201,29 @@
           ]
         },
         {
+          "type": "glasspanel",
+          "text": "One bathroom fan, priced three ways",
+          "detail": "A $69 rate, a $15 call-out fee",
+          "items": [
+            {
+              "title": "Hourly",
+              "text": "$187.50 — 2.5 hours at $69, plus the $15 call-out. The client carries the risk if the job runs long."
+            },
+            {
+              "title": "Fixed price",
+              "text": "$210 — you carry the risk, and you keep the gain if you finish in two hours."
+            },
+            {
+              "title": "Package",
+              "text": "$390 — fan, smoke-alarm check and fresh caulking, priced on the result: a quiet, dry bathroom."
+            },
+            {
+              "title": "Parts",
+              "text": "Extra — list the fan and materials on their own line, so the client sees what they paid for."
+            }
+          ]
+        },
+        {
           "type": "spotlight",
           "text": "Fixed prices reward your speed. When you quote a fixed price, you keep the gain as you get faster. Describe the job in writing first, including what is not included, so a small job does not slowly grow into a much bigger one."
         },
@@ -159,44 +254,13 @@
       ]
     },
     {
-      "id": "story",
-      "title": "Story: The Red Toolbox",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "The Red Toolbox",
-          "detail": "STORY",
-          "extra": "",
-          "paragraphs": [
-            "Hamid Rahimi was a handyman in Regina. He carried everything in a rusty red toolbox his uncle had given him. His goal was to quit his evening warehouse shift, which meant earning enough from repairs alone to cover his rent.",
-            "He charged $25 an hour, because that was what he earned at the warehouse. Clients loved him, and his calendar filled up within weeks. Yet at the end of the month, the numbers looked wrong.",
-            "Hamid sat at his kitchen table and added things up. He took off fuel, tools and insurance. Then he counted the hours he spent driving, quoting and answering messages. After costs, he was making about $9 an hour. He felt a flash of embarrassment, then a bigger flash of clarity.",
-            "Now he had a choice. He could keep the low price, keep every client and stay tired. Or he could work out a rate that would let him quit the warehouse, and risk losing some of them. He used the calculation from this lesson and landed on $55 an hour, plus a $15 call-out fee that he now built into every quote. He emailed his clients the new rates with a short, polite note.",
-            "He braced for the worst. Two of his eleven clients left. One of the others wrote back, “Finally. I was worried you couldn’t stay in business at that price.”",
-            "Within three months, Hamid worked fewer hours and earned more than before. He handed in his notice at the warehouse in the spring. The rusty red toolbox still rides in his truck, because he says it earned its place."
-          ]
-        },
-        {
-          "type": "transition",
-          "text": "A fair price is a kindness to your clients and to yourself.",
-          "detail": "When your price covers your real costs, you can do careful work, stay in business and keep serving the people who value you.",
-          "extra": "Section 05 shows how to quote your new price honestly."
-        }
-      ]
-    },
-    {
       "id": "quote",
-      "title": "Quote It Honestly",
+      "title": "Quote It Honestly, in Writing",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
           "text": "The Competition Act bans price claims that mislead in a way that matters. Since June 23, 2022, advertising a price that leaves out a fixed fee everyone must pay counts as misleading. This is called drip pricing. The only exception is a charge the government sets, such as sales tax."
-        },
-        {
-          "type": "spotlight",
-          "text": "A required fee belongs in the price you quote. If every customer must pay a $15 call-out fee, include it in the price you advertise. In 2024, Sirius XM agreed to pay a $3.3 million penalty to settle concerns that a required fee raised its advertised monthly price by 10% to 20%."
         },
         {
           "type": "heading",
@@ -228,45 +292,97 @@
           ]
         },
         {
-          "type": "heading",
-          "text": "Sales tax on services, once you are registered"
+          "type": "spotlight",
+          "text": "In Ontario, a supplier who gives a consumer a written estimate can’t charge more than 10% above it unless the client agrees to the new price. Other provinces have their own estimate rules, so treat every estimate as a promise and ask before the work grows."
         },
         {
-          "type": "glossary",
+          "type": "heading",
+          "text": "Sales tax on a $1,000 job, once you are registered"
+        },
+        {
+          "type": "glasspanel",
+          "text": "Tax shown on its own line",
+          "detail": "Service job, before any PST rules",
           "items": [
             {
-              "title": "Alberta",
-              "text": "5% GST"
-            },
-            {
-              "title": "British Columbia",
-              "text": "5% GST (PST applies only to certain services)"
-            },
-            {
-              "title": "Saskatchewan",
-              "text": "5% GST (PST applies only to certain services)"
-            },
-            {
-              "title": "Manitoba",
-              "text": "5% GST (RST applies only to certain services)"
+              "title": "Alberta and the territories",
+              "text": "$50 — 5% GST."
             },
             {
               "title": "Ontario",
-              "text": "13% HST"
+              "text": "$130 — 13% HST."
+            },
+            {
+              "title": "Nova Scotia",
+              "text": "$140 — 14% HST since April 1, 2025."
+            },
+            {
+              "title": "New Brunswick, N.L. and P.E.I.",
+              "text": "$150 — 15% HST."
             },
             {
               "title": "Quebec",
-              "text": "5% GST plus 9.975% QST"
+              "text": "$149.75 — 5% GST plus 9.975% QST."
             },
             {
-              "title": "Atlantic provinces",
-              "text": "HST of 14% in Nova Scotia and 15% elsewhere"
+              "title": "B.C., Saskatchewan, Manitoba",
+              "text": "$50 GST — plus PST or RST only on certain services, so check your trade."
             }
           ]
         },
         {
           "type": "paragraph",
           "text": "Rates and exemptions change, so confirm them before you file. If you are not registered yet, you do not charge tax until your taxable sales pass $30,000 over four calendar quarters, or in a single quarter."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Story: The Red Toolbox",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The Red Toolbox",
+          "detail": "STORY",
+          "extra": "",
+          "paragraphs": [
+            "Hamid Rahimi was a handyman in Regina. He carried everything in a rusty red toolbox his uncle had given him. His goal was to quit his evening warehouse shift, which meant earning enough from repairs alone to cover his rent.",
+            "He charged $25 an hour, because that was what he earned at the warehouse. Clients loved him, and his calendar filled up within weeks. Yet at the end of the month, the numbers looked wrong.",
+            "Hamid sat at his kitchen table and added things up. He took off fuel, tools and insurance. Then he counted the hours he spent driving, quoting and answering messages. After costs, he was making about $9 an hour. He felt a flash of embarrassment, then a bigger flash of clarity.",
+            "Now he had a choice. He could keep the low price, keep every client and stay tired. Or he could work out a rate that would let him quit the warehouse, and risk losing some of them. He used the calculation from this lesson and landed on $55 an hour, plus a $15 call-out fee that he now built into every quote. He emailed his clients the new rates with a short, polite note.",
+            "He braced for the worst. Two of his eleven clients left. One of the others wrote back, “Finally. I was worried you couldn’t stay in business at that price.”",
+            "Within three months, Hamid worked fewer hours and earned more than before. He handed in his notice at the warehouse in the spring. The rusty red toolbox still rides in his truck, because he says it earned its place."
+          ]
+        },
+        {
+          "type": "glasspanel",
+          "text": "Hamid’s numbers, before and after",
+          "detail": "Same toolbox, new price",
+          "items": [
+            {
+              "title": "Old rate",
+              "text": "$25 an hour — about $9 once fuel, tools, insurance and unpaid hours came out."
+            },
+            {
+              "title": "New rate",
+              "text": "$55 an hour — plus a $15 call-out fee built into every quote."
+            },
+            {
+              "title": "Clients",
+              "text": "11 → 9 — two left, and one cheered."
+            },
+            {
+              "title": "Three months later",
+              "text": "Fewer hours — more money, and notice handed in at the warehouse."
+            }
+          ]
+        },
+        {
+          "type": "transition",
+          "text": "A fair price is a kindness to your clients and to yourself.",
+          "detail": "When your price covers your real costs, you can do careful work, stay in business and keep serving the people who value you.",
+          "extra": "Section 06 shows how Hamid told his clients, and how you can too."
         }
       ]
     },
@@ -278,6 +394,29 @@
         {
           "type": "paragraph",
           "text": "Costs rise and your skills grow, so review your price every six months. A small, regular increase is easier on everyone than a big jump after years of standing still."
+        },
+        {
+          "type": "glasspanel",
+          "text": "What a raise can survive",
+          "detail": "From $55 to $60 an hour",
+          "items": [
+            {
+              "title": "Before",
+              "text": "$1,650 a week — 30 billable hours at $55."
+            },
+            {
+              "title": "After",
+              "text": "27.5 hours — all you need at $60 to earn the same $1,650."
+            },
+            {
+              "title": "Room to lose",
+              "text": "About 8% — you could lose one client in twelve and still earn the same."
+            },
+            {
+              "title": "Most likely",
+              "text": "More pay — most clients stay when the notice is fair and the work is good."
+            }
+          ]
         },
         {
           "type": "ordered",
@@ -325,13 +464,9 @@
     },
     {
       "id": "quick-check",
-      "title": "Check yourself",
+      "title": "Quick Check: Price These Jobs",
       "paragraphs": [],
       "blocks": [
-        {
-          "type": "heading",
-          "text": "Quick Check"
-        },
         {
           "type": "accordions",
           "items": [
@@ -349,16 +484,7 @@
               "title": "Can you add sales tax after the advertised price?",
               "detail": "Yes,",
               "text": "because government-imposed tax is the exception."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Knowledge Check"
-        },
-        {
-          "type": "accordions",
-          "items": [
+            },
             {
               "title": "You want $60,000 before tax and have $9,000 of costs. About how much must you bill? A. $60,000 · B. $69,000 · C. $51,000",
               "detail": "B.",
@@ -375,26 +501,44 @@
               "text": "A written quote prevents misunderstandings about the work and the cost."
             },
             {
+              "title": "You gave an Ontario client a written estimate of $800. The job now looks like $950. What should you do?",
+              "detail": "Stop and ask first.",
+              "text": "That is more than 10% over the estimate, so get the client’s agreement to the new price, in writing, before you go on."
+            },
+            {
+              "title": "You raise your rate from $55 to $60. About what share of your billable hours could you lose and still earn the same?",
+              "detail": "About 8%.",
+              "text": "$55 ÷ $60 = 0.917, so 27.5 hours at $60 pays the same as 30 hours at $55."
+            },
+            {
               "title": "In one sentence, say what you will change about the way you quote prices.",
               "detail": "Sample response:",
               "text": "I will build my rate from my real costs and put every fee in the written quote."
             }
           ]
-        },
-        {
-          "type": "takeaway",
-          "text": "Build your price from real numbers, include every mandatory fee, show tax separately, and put the quote in writing.",
-          "detail": ""
         }
       ]
     },
     {
       "id": "action",
-      "title": "Your Action",
+      "title": "Your Action (Fill Out Form): Your Rate Card",
       "paragraphs": [],
       "blocks": [
         {
+          "type": "paragraph",
+          "text": "Use rough yearly numbers. Round to the nearest hundred if that’s easier, and leave out bank and client details."
+        },
+        {
           "type": "checkin"
+        },
+        {
+          "type": "spotlight",
+          "text": "Your rate is a floor, not a ceiling. Quote above it when the job is urgent, risky or worth more to the client, and never quote below it to win a job you will resent."
+        },
+        {
+          "type": "takeaway",
+          "text": "Build your price from real numbers, include every mandatory fee, show tax separately, and put the quote in writing.",
+          "detail": ""
         }
       ]
     },
@@ -429,6 +573,10 @@
             {
               "title": "Quote",
               "text": "A written price for a defined piece of work."
+            },
+            {
+              "title": "Estimate",
+              "text": "A written guess at the price, which some provincial laws limit you to exceeding by a set amount."
             }
           ]
         },
@@ -441,6 +589,11 @@
           "type": "source",
           "text": "Competition Bureau: Drip pricing (Guide to the 2022 amendments to the Competition Act)",
           "url": "https://competition-bureau.canada.ca/en/guide-2022-amendments-competition-act"
+        },
+        {
+          "type": "source",
+          "text": "Ontario: Key consumer protection concepts (estimates)",
+          "url": "https://www.ontario.ca/document/business-guide-consumer-protection/key-consumer-protection-concepts"
         },
         {
           "type": "source",
@@ -466,20 +619,20 @@
   },
   "checkIn": {
     "questions": [
-      "How much do you want to earn in a year before tax?",
-      "What are your yearly business costs?",
-      "How many hours could you bill in a year, after time off?",
-      "What hourly rate does that give you, and how does it compare locally?",
-      "Do you have a required fee that is not in your quote?",
-      "Which pricing method suits your work best?"
+      "How much do you want to earn in a year before tax? A rough figure is fine.",
+      "What are your yearly business costs? Add tools, software, insurance, phone, travel and ads.",
+      "How many hours could you bill in a year, after time off and unpaid work?",
+      "What hourly rate does that give you, and what do similar local businesses charge?",
+      "Is there a required fee, such as a call-out or booking fee, that is not in your quoted price yet?",
+      "Which pricing method suits most of your jobs: hourly, fixed price or packages? Why?"
     ],
     "samples": [
-      "A rough figure is fine.",
-      "Add tools, software, insurance, phone, travel and advertising.",
-      "Under 800, 800 to 1,200, or not sure.",
-      "For example: $69 an hour, a little above most local rates.",
-      "Yes, no, or not sure. Think about travel, set-up or booking fees.",
-      "Hourly, fixed price, packages, or not sure yet."
+      "$60,000.",
+      "About $9,000: $3,600 truck, $1,200 tools, $1,200 ads, $900 insurance, $900 phone and software, $1,200 other.",
+      "About 1,000: 22 hours a week for 46 weeks.",
+      "$69 an hour. Local handymen charge $60 to $85.",
+      "Yes, a $15 call-out fee. It goes into every quote from now on.",
+      "Fixed prices for small installs I know well, hourly for repairs where I can’t see the problem yet."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

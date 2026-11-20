@@ -82,7 +82,7 @@
           "text": "Check which accounts your work needs, instead of asking for every option. If you plan to hire, set up payroll before you pay anyone. You still report your income even if your unincorporated business does not need a BN. Registering is not the test for whether your earnings count."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Label each number when you save it. A provincial registry number and a CRA BN do different jobs, even when they arrive during the same setup."
         },
         {
@@ -200,7 +200,7 @@
           "text": "The CRA’s small supplier test looks at taxable sales before expenses, worldwide, including those of associated businesses. You must register once you pass $30,000 in one calendar quarter or over four quarters in a row. It tests sales, not profit. Some work, such as taxi and ride-sharing services, must register from the first dollar."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Check provincial sales tax where it applies. Adding product sales to a service can raise questions your first plan did not cover."
         },
         {
@@ -213,8 +213,8 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "Insider tip: Set a review reminder whenever your location, name or work changes, plus one for your name renewal date. Keep official confirmations together and protect your logins. A folder called “Receipts somewhere” is not a filing system anyone deserves."
+          "type": "paragraph",
+          "text": "Set a review reminder whenever your location, name or work changes, plus one for your name renewal date. Keep official confirmations together and protect your logins. A folder called “Receipts somewhere” is not a filing system anyone deserves."
         }
       ]
     },

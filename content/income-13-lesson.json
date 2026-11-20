@@ -55,7 +55,7 @@
           "text": "Corporations Canada lets you pick a word name or take a numbered name, such as 1234567 Canada Inc. A numbered company can trade under a different name if that name is registered where the rules require it. Put the legal name on your contracts and invoices so clients know who they are dealing with."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Write down where you are incorporating before you open the form. Federal and provincial companies follow different routes. A federal company may still need to register in each province where it does business."
         },
         {
@@ -172,7 +172,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "The CRA says a federal company gets a business number and a corporate income tax account when it is approved. Check the confirmation. GST/HST and payroll accounts are separate. Do not assume every tax account is open."
         },
         {
@@ -197,8 +197,8 @@
           "text": "By day 90, review the folder and your calendar. The yearly return to Corporations Canada is separate from the T2 tax return to the CRA. Most resident companies file a T2 every year, even if they had no activity."
         },
         {
-          "type": "spotlight",
-          "text": "Insider tip: Put registry and tax reminders in separate calendar entries. The T2 filing date is not the payment date, so set a reminder for each."
+          "type": "paragraph",
+          "text": "Put registry and tax reminders in separate calendar entries. The T2 filing date is not the payment date, so set a reminder for each."
         }
       ]
     },

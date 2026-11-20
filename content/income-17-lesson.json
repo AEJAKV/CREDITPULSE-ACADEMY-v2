@@ -72,7 +72,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "You cannot claim personal purchases. The CRA does not allow input tax credits for things you buy for personal use or enjoyment. Keep personal and business purchases apart, and keep the proper receipt for each claim."
         },
         {
@@ -89,10 +89,6 @@
               "image": "/images/income-business/05-diamond/income-17/income17-image-2.webp"
             }
           ]
-        },
-        {
-          "type": "spotlight",
-          "text": "You have four years to claim. For most small businesses, an input tax credit must be claimed by the due date of the return for the last period ending within four years of the period you could first claim it. Don’t wait that long. Old receipts are the ones that go missing."
         },
         {
           "type": "myths",
@@ -140,6 +136,10 @@
             "He worried the hotel would complain. Instead, the manager shrugged and said the hotel claimed the tax back anyway. Then came the twist. Now that Teo was registered, he could claim back the HST on his business purchases. The next month he bought the new lens and claimed the $338 of HST on it.",
             "At his first filing, Teo sent in the difference and kept a tidy record of every receipt. The lens paid for part of itself. He still lost the lens cap every week, but his tax file was the one thing in his camera bag that never went missing."
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "You have four years to claim. For most small businesses, an input tax credit must be claimed by the due date of the return for the last period ending within four years of the period you could first claim it. Don’t wait that long. Old receipts are the ones that go missing."
         },
         {
           "type": "transition",

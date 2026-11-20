@@ -124,10 +124,6 @@
           ]
         },
         {
-          "type": "spotlight",
-          "text": "Never destroy records early without asking. You need written permission from the CRA to destroy records before the six years are up. Ask on Form T137 or in a letter. Destroying records without permission can lead to charges."
-        },
-        {
           "type": "heading",
           "text": "Receipts that support a tax credit"
         },
@@ -136,7 +132,7 @@
           "text": "Once you are registered for GST/HST, what the receipt shows decides whether you can claim the tax back. Under $100, it needs the seller’s name, the date and the total. From $100 to $499.99, it must also show the tax and the seller’s GST/HST number. At $500 or more, it also needs your name, what you bought and the payment terms."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Ask for a full receipt on the spot. A card slip alone often leaves out the seller’s GST/HST number. Asking at the counter takes ten seconds. Chasing the seller months later can take weeks."
         }
       ]
@@ -161,6 +157,10 @@
             "She chose the weekend. She sorted her statements by month, matched every charge she could, and wrote a short note where she could not find proof. It was dull and it hurt a bit. She mailed her package on a Monday.",
             "The twist came three weeks later. The CRA accepted every item that she had documented. Her $800 loss stung, but the review ended, and she kept her peace of mind. That summer she opened a business account and started a Sunday habit, twenty minutes with a spreadsheet and a cup of tea. The new water pump went in by October. The boot box now holds spare grooming scissors."
           ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Never destroy records early without asking. You need written permission from the CRA to destroy records before the six years are up. Ask on Form T137 or in a letter. Destroying records without permission can lead to charges."
         },
         {
           "type": "transition",

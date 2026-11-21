@@ -107,31 +107,31 @@
           "text": "Gym etiquette is mostly predictable courtesy"
         },
         {
-          "type": "chips",
+          "type": "lists",
           "items": [
             {
-              "title": "Wipe equipment according to facility rules.",
-              "text": ""
+              "title": "CLEAN AND RETURN",
+              "text": "",
+              "list": [
+                "Wipe equipment according to facility rules.",
+                "Return weights and attachments to their proper place."
+              ]
             },
             {
-              "title": "Return weights and attachments to their proper place.",
-              "text": ""
+              "title": "SHARE THE SPACE",
+              "text": "",
+              "list": [
+                "Share during busy periods and follow posted time limits.",
+                "Ask before working in with someone."
+              ]
             },
             {
-              "title": "Share during busy periods and follow posted time limits.",
-              "text": ""
-            },
-            {
-              "title": "Ask before working in with someone.",
-              "text": ""
-            },
-            {
-              "title": "Keep calls and filming away from other people.",
-              "text": ""
-            },
-            {
-              "title": "Use headphones at a level that still allows awareness.",
-              "text": ""
+              "title": "KEEP IT QUIET",
+              "text": "",
+              "list": [
+                "Keep calls and filming away from other people.",
+                "Use headphones at a level that still allows awareness."
+              ]
             }
           ]
         },
@@ -172,7 +172,7 @@
           "text": "Use the talk test. At moderate effort, you can speak in sentences but singing is difficult. Beginners do not need to chase the highest resistance level, incline, or glowing animation of a mountain."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Adjust speed, incline, or resistance, not all three at once. One change makes your effort easier to judge and easier to reverse."
         },
         {
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "A short visit that teaches you the entrance, the setup and the flow makes every later session easier. Learning the room is real work."
         },
         {
@@ -281,27 +281,37 @@
           "text": "A beginner session can be simple:"
         },
         {
-          "type": "ordered",
+          "type": "carousel",
           "items": [
             {
               "title": "CHECK IN",
-              "text": "Check in and store belongings."
+              "text": "Check in and store belongings.",
+              "detail": "NUMBER 1",
+              "icon": "check"
             },
             {
               "title": "WARM UP",
-              "text": "Warm up with at least five minutes of easy activity."
+              "text": "Warm up with at least five minutes of easy activity.",
+              "detail": "NUMBER 2",
+              "icon": "list"
             },
             {
               "title": "ONE CONTROLLED SET",
-              "text": "Complete one controlled set on four to six familiar resistance machines or exercises."
+              "text": "Complete one controlled set on four to six familiar resistance machines or exercises.",
+              "detail": "NUMBER 3",
+              "icon": "filecheck"
             },
             {
               "title": "ADD CARDIO",
-              "text": "Add a short easy-to-moderate cardio period if appropriate."
+              "text": "Add a short easy-to-moderate cardio period if appropriate.",
+              "detail": "NUMBER 4",
+              "icon": "clock"
             },
             {
               "title": "EASE DOWN",
-              "text": "Ease down, clean equipment, record useful settings, and leave."
+              "text": "Ease down, clean equipment, record useful settings, and leave.",
+              "detail": "NUMBER 5",
+              "icon": "calendar"
             }
           ]
         },
@@ -354,12 +364,9 @@
           "text": "Read the written agreement and retain receipts and cancellation records. Provincial and territorial consumer-protection rules differ. Search your government’s consumer affairs page if fees, renewals, or cancellation terms are unclear. Do not rely on a verbal promise when the contract says something else."
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
-        },
-        {
-          "type": "paragraph",
-          "text": "Gym confidence comes from knowing the route. Choose your gym with care, use the tour, learn one machine at a time, follow shared-space manners and repeat a modest session before you add more."
+          "type": "takeaway",
+          "text": "Gym confidence comes from knowing the route.",
+          "detail": "Choose your gym with care, use the tour, learn one machine at a time, follow shared-space manners and repeat a modest session before you add more."
         },
         {
           "type": "spotlight",

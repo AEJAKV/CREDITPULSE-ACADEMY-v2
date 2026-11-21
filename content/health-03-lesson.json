@@ -76,7 +76,8 @@
           "text": "A balanced home routine can use six jobs. The exact exercise may change, but the job stays recognizable."
         },
         {
-          "type": "ordered",
+          "type": "filecards",
+          "text": "Build the movement menu",
           "items": [
             {
               "title": "SIT OR SQUAT",
@@ -156,31 +157,43 @@
           "text": "Perform one controlled set of the following. Use a number of repetitions that keeps your breathing, comfort, and form steady. Rest as needed."
         },
         {
-          "type": "ordered",
+          "type": "carousel",
           "items": [
             {
               "title": "CHAIR RISE",
-              "text": "Stand from a stable chair and lower slowly."
+              "text": "Stand from a stable chair and lower slowly.",
+              "detail": "NUMBER 1",
+              "icon": "check"
             },
             {
               "title": "WALL PUSH",
-              "text": "Bend the elbows and bring your body toward the wall, then press away."
+              "text": "Bend the elbows and bring your body toward the wall, then press away.",
+              "detail": "NUMBER 2",
+              "icon": "list"
             },
             {
               "title": "WALL-TAP HINGE",
-              "text": "Send the hips backward to touch a wall, then stand."
+              "text": "Send the hips backward to touch a wall, then stand.",
+              "detail": "NUMBER 3",
+              "icon": "clock"
             },
             {
               "title": "TOWEL PULL",
-              "text": "Pull outward on a towel for a short hold while breathing."
+              "text": "Pull outward on a towel for a short hold while breathing.",
+              "detail": "NUMBER 4",
+              "icon": "calendar"
             },
             {
               "title": "SUPPORTED MARCH",
-              "text": "Hold a stable support and alternate legs."
+              "text": "Hold a stable support and alternate legs.",
+              "detail": "NUMBER 5",
+              "icon": "filecheck"
             },
             {
               "title": "BALANCED CARRY",
-              "text": "Walk a short clear route with two light objects, or hold and brace in place."
+              "text": "Walk a short clear route with two light objects, or hold and brace in place.",
+              "detail": "NUMBER 6",
+              "icon": "book"
             }
           ]
         },
@@ -189,7 +202,7 @@
           "text": "Move slowly enough to stay in charge. Stop a set when control changes. The first session is a practice, not an audition."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Count only repetitions performed with the chosen range, steady control, and normal breathing. A smaller honest number is useful information."
         },
         {
@@ -296,7 +309,9 @@
           "text": "Use the same movement menu so every session feels familiar."
         },
         {
-          "type": "cards",
+          "type": "glasspanel",
+          "text": "Three session sizes",
+          "detail": "SMALL, STANDARD, EXTENDED",
           "items": [
             {
               "title": "SMALL SESSION",
@@ -313,7 +328,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "If moving furniture takes longer than the workout, simplify the location or routine. Friction is a design problem, not a character defect."
         }
       ]
@@ -401,12 +416,9 @@
           "text": "Outdoor add-ons need local judgment. Check temperature, humidity, air quality, smoke, ice, daylight, and alerts. Tell someone your route when appropriate. Indoor exercise is a useful backup, not a consolation prize."
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
-        },
-        {
-          "type": "paragraph",
-          "text": "A home workout succeeds when the space is safe, the movements are balanced, and the setup is easy to repeat. Start with what you have. Scale each movement, keep three session sizes, and progress one variable after the current plan becomes steady."
+          "type": "takeaway",
+          "text": "A home workout succeeds when the space is safe, the movements are balanced, and the setup is easy to repeat.",
+          "detail": "Start with what you have. Scale each movement, keep three session sizes, and progress one variable after the current plan becomes steady."
         },
         {
           "type": "spotlight",

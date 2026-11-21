@@ -76,7 +76,8 @@
           "text": "A balanced beginner plan does not require an exercise for every visible muscle. Start with movement families that cover the major muscle groups."
         },
         {
-          "type": "ordered",
+          "type": "filecards",
+          "text": "Cover the body with movement families",
           "items": [
             {
               "title": "SQUAT OR RISE",
@@ -124,27 +125,32 @@
           "text": "Every strength exercise has adjustable dials. Understanding them prevents random changes."
         },
         {
-          "type": "ordered",
+          "type": "cards",
           "items": [
             {
               "title": "RESISTANCE",
-              "text": "The force you work against. It may come from body weight, bands, machines, free weights, or gravity."
+              "text": "The force you work against. It may come from body weight, bands, machines, free weights, or gravity.",
+              "icon": "zap"
             },
             {
               "title": "REPETITIONS",
-              "text": "Completed movements. A set is a group of repetitions before rest."
+              "text": "Completed movements. A set is a group of repetitions before rest.",
+              "icon": "activity"
             },
             {
               "title": "RANGE",
-              "text": "The distance through which you move comfortably and with control."
+              "text": "The distance through which you move comfortably and with control.",
+              "icon": "route"
             },
             {
               "title": "TEMPO",
-              "text": "How quickly you lift, pause, and lower."
+              "text": "How quickly you lift, pause, and lower.",
+              "icon": "timer"
             },
             {
               "title": "REST",
-              "text": "The time between sets or exercises. More demanding work may require more rest."
+              "text": "The time between sets or exercises. More demanding work may require more rest.",
+              "icon": "lifebuoy"
             }
           ]
         },
@@ -173,7 +179,7 @@
           "text": "For a new move, start with one controlled set. Pick a resistance that lets you do several smooth reps while breathing normally. End the set before your form changes or you have to strain for one more rep."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "A common starting range is 8 to 15 reps per set, stopping when you could still do 2 or 3 more good reps. If you can do more than 15 with ease, the resistance is too light. If you can’t reach 8 with good form, it’s too heavy. Your own numbers may differ with your goals, age or advice from a professional."
         },
         {
@@ -202,7 +208,7 @@
           "text": "Most beginner work can live in the steady range. A set does not need to reach failure to provide a training challenge."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Finish while you could still perform another good repetition. This creates room to learn technique and recover."
         },
         {
@@ -330,7 +336,7 @@
           "text": "Keep the other dials stable. Watch the next sessions. If pain rises, technique changes, sleep worsens, or daily tasks become harder, reduce the dose and reassess."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "If form is steady but the load feels easy, add resistance. If control is the issue, keep the load and practise. Let the evidence choose the dial."
         }
       ]
@@ -418,12 +424,9 @@
           "text": "Inspect bands, benches, anchors, pins, collars, cables, and handles. Follow manufacturer instructions and facility rules. Stop using damaged equipment and report it. Adjustable does not mean indestructible. Neither does “commercial grade,” despite the confidence of the sticker."
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
-        },
-        {
-          "type": "paragraph",
-          "text": "Strength training works when the exercises cover the body, the starting dose allows control, and progression follows evidence. Repeat the plan, record a few useful details, and change one training dial at a time."
+          "type": "takeaway",
+          "text": "Strength training works when the exercises cover the body, the starting dose allows control, and progression follows evidence.",
+          "detail": "Repeat the plan, record a few useful details, and change one training dial at a time."
         },
         {
           "type": "spotlight",

@@ -144,36 +144,48 @@
           "text": "Warm up with a few minutes of easy movement and comfortable joint motion. Do one set of each exercise. Choose the version that allows control and normal breathing. Stop before form breaks."
         },
         {
-          "type": "ordered",
+          "type": "carousel",
           "items": [
             {
               "title": "SIT, SQUAT, OR RISE",
-              "text": "Rise from a stable chair and sit with control. Use your hands or a higher seat to make it easier. Use less support or hold a light load close to your body to make it harder."
+              "text": "Rise from a stable chair and sit with control. Use your hands or a higher seat to make it easier. Use less support or hold a light load close to your body to make it harder.",
+              "detail": "NUMBER 1",
+              "icon": "check"
             },
             {
               "title": "WALL OR COUNTER PUSH",
-              "text": "Place your hands on a stable surface. Keep your body long, lower toward it, then press away. A wall is gentler; a lower counter is harder."
+              "text": "Place your hands on a stable surface. Keep your body long, lower toward it, then press away. A wall is gentler; a lower counter is harder.",
+              "detail": "NUMBER 2",
+              "icon": "list"
             },
             {
               "title": "HINGE",
-              "text": "With soft knees, send your hips backward toward a wall and return to standing. Keep the range comfortable. This pattern prepares you to lift objects using the hips and legs."
+              "text": "With soft knees, send your hips backward toward a wall and return to standing. Keep the range comfortable. This pattern prepares you to lift objects using the hips and legs.",
+              "detail": "NUMBER 3",
+              "icon": "clock"
             },
             {
               "title": "PULL",
-              "text": "Use a resistance band secured to a proper anchor, or a gym row machine. Draw the elbows back without shrugging. If neither is available, pull outward on a towel for a short, firm hold. Inspect bands and anchors before use."
+              "text": "Use a resistance band secured to a proper anchor, or a gym row machine. Draw the elbows back without shrugging. If neither is available, pull outward on a towel for a short, firm hold. Inspect bands and anchors before use.",
+              "detail": "NUMBER 4",
+              "icon": "calendar"
             },
             {
               "title": "STEP OR SUPPORTED MARCH",
-              "text": "Hold a stable railing or counter. Step onto a low secure step or march slowly. Make it smaller, slower, or seated when needed."
+              "text": "Hold a stable railing or counter. Step onto a low secure step or march slowly. Make it smaller, slower, or seated when needed.",
+              "detail": "NUMBER 5",
+              "icon": "filecheck"
             },
             {
               "title": "CARRY OR ANTI-ROTATION HOLD",
-              "text": "Carry two light balanced objects for a short distance, or hold one light object at your centre while keeping your trunk steady. Breathe. Your core has responsibilities beyond surviving planks on social media."
+              "text": "Carry two light balanced objects for a short distance, or hold one light object at your centre while keeping your trunk steady. Breathe. Your core has responsibilities beyond surviving planks on social media.",
+              "detail": "NUMBER 6",
+              "icon": "book"
             }
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Every move needs an easier version and a harder one. Knowing both lets you adjust for sleep, symptoms, confidence and equipment without giving up on the session."
         },
         {
@@ -272,15 +284,18 @@
           "items": [
             {
               "title": "PREGNANCY AND POSTPARTUM",
-              "text": "If your pregnancy is healthy and you get prenatal care, Canadian guidelines encourage you to stay active, but check with your care team first. Use the CSEP Get Active Questionnaire for Pregnancy. After birth, return gradually. Birth complications, surgery, pain, bleeding concerns, pelvic heaviness, leakage, abdominal symptoms, or other warning signs need qualified assessment. Use the postpartum questionnaire and advice from your care team."
+              "text": "If your pregnancy is healthy and you get prenatal care, Canadian guidelines encourage you to stay active, but check with your care team first. Use the CSEP Get Active Questionnaire for Pregnancy. After birth, return gradually. Birth complications, surgery, pain, bleeding concerns, pelvic heaviness, leakage, abdominal symptoms, or other warning signs need qualified assessment. Use the postpartum questionnaire and advice from your care team.",
+              "icon": "heart"
             },
             {
               "title": "PERIMENOPAUSE, MENOPAUSE, AND BONES",
-              "text": "Resistance and weight-bearing activities can support muscle, bone, balance, and function. Symptoms such as hot flashes, sleep disruption, joint discomfort, or fatigue may change timing and dose. Build gradually and discuss osteoporosis, fractures, or major symptoms with a qualified professional."
+              "text": "Resistance and weight-bearing activities can support muscle, bone, balance, and function. Symptoms such as hot flashes, sleep disruption, joint discomfort, or fatigue may change timing and dose. Build gradually and discuss osteoporosis, fractures, or major symptoms with a qualified professional.",
+              "icon": "shield"
             },
             {
               "title": "DISABILITY, CHRONIC CONDITIONS, AND PAIN",
-              "text": "Use adapted equipment, seated or supported moves, extra rest or advice for your condition as needed. Needing an adapted version doesn’t make the work count less. A physiotherapist, occupational therapist, CSEP professional, or relevant clinical team can help define safe options within their scope."
+              "text": "Use adapted equipment, seated or supported moves, extra rest or advice for your condition as needed. Needing an adapted version doesn’t make the work count less. A physiotherapist, occupational therapist, CSEP professional, or relevant clinical team can help define safe options within their scope.",
+              "icon": "lifebuoy"
             }
           ]
         }
@@ -357,15 +372,12 @@
           "text": "Match the professional to the need. Exercise programming, injury treatment, nutrition therapy, and pelvic health are different scopes. A confident biography is not a regulatory college."
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
+          "type": "takeaway",
+          "text": "A beginner plan can be strong and flexible.",
+          "detail": "Build around your actual energy, access, health, and responsibilities. Train the whole body, add cardio gradually, protect recovery, and keep easier versions ready. Adaptation is part of the plan."
         },
         {
           "type": "paragraph",
-          "text": "A beginner plan can be strong and flexible. Build around your actual energy, access, health, and responsibilities. Train the whole body, add cardio gradually, protect recovery, and keep easier versions ready. Adaptation is part of the plan."
-        },
-        {
-          "type": "spotlight",
           "text": "Prepare the smallest version first. Put shoes near the door, save one short routine, or place a band beside a stable anchor point. Reducing the first two minutes of decision-making often matters more than finding a more inspirational quote."
         }
       ]

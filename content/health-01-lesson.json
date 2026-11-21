@@ -80,19 +80,23 @@
           "items": [
             {
               "title": "MOVE YOUR HEART AND LUNGS",
-              "text": "Brisk walking, cycling, swimming, skating, dancing or an active game can do this. At a moderate effort, you breathe harder but can still talk. Singing would be ambitious."
+              "text": "Brisk walking, cycling, swimming, skating, dancing or an active game can do this. At a moderate effort, you breathe harder but can still talk. Singing would be ambitious.",
+              "icon": "heart"
             },
             {
               "title": "MAKE YOUR MUSCLES WORK",
-              "text": "Push, pull, squat, hinge, carry and brace patterns cover most daily demands. Resistance can come from body weight, a band, dumbbells, machines, groceries or a backpack packed with sensible objects. Leave the bowling ball out of it."
+              "text": "Push, pull, squat, hinge, carry and brace patterns cover most daily demands. Resistance can come from body weight, a band, dumbbells, machines, groceries or a backpack packed with sensible objects. Leave the bowling ball out of it.",
+              "icon": "zap"
             },
             {
               "title": "KEEP USEFUL MOVEMENT AVAILABLE",
-              "text": "Gentle mobility lets joints move through a comfortable range. Balance practice helps you stay steady. Neither one needs its own cinematic training montage."
+              "text": "Gentle mobility lets joints move through a comfortable range. Balance practice helps you stay steady. Neither one needs its own cinematic training montage.",
+              "icon": "route"
             },
             {
               "title": "RECOVER",
-              "text": "Sleep, food, easier days and time between hard sessions let the body adapt. Training provides the request. Recovery processes the paperwork."
+              "text": "Sleep, food, easier days and time between hard sessions let the body adapt. Training provides the request. Recovery processes the paperwork.",
+              "icon": "shield"
             }
           ]
         },
@@ -161,7 +165,8 @@
           "text": "Warm up with a few minutes of easy walking or marching and comfortable joint movement. Then perform one set of each exercise below. Start with reps you could repeat with good control. Rest when needed, and stop while your form still looks the way it started."
         },
         {
-          "type": "ordered",
+          "type": "filecards",
+          "text": "Your six-move starter circuit",
           "items": [
             {
               "title": "SIT TO STAND",
@@ -190,7 +195,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "End a set when speed, comfort or control changes noticeably. The last good repetition teaches more than three crooked bonus repetitions."
         },
         {
@@ -251,7 +256,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "On a low-motivation day, begin with ten comfortable minutes. You may stop after ten. Keeping the appointment protects the habit. Continuing is optional."
         }
       ]
@@ -379,12 +384,9 @@
           "text": "For professional help, check the person's credential and scope. A CSEP Certified Personal Trainer or Clinical Exercise Physiologist can support exercise planning within their scope. A physiotherapist can assess pain, injury and movement limitations. Provincial and territorial rules, coverage and referral requirements vary."
         },
         {
-          "type": "heading",
-          "text": "Key takeaway"
-        },
-        {
-          "type": "paragraph",
-          "text": "Your first program should be safe, balanced and repeatable. Start below your maximum, practise the movements, use the talk test, and change one variable at a time. Consistency is built by returning, including after an ordinary messy week."
+          "type": "takeaway",
+          "text": "Your first program should be safe, balanced and repeatable.",
+          "detail": "Start below your maximum, practise the movements, use the talk test, and change one variable at a time. Consistency is built by returning, including after an ordinary messy week."
         },
         {
           "type": "spotlight",

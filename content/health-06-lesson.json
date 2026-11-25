@@ -48,6 +48,21 @@
           "text": "Better form, more controlled reps or a small jump in weight may show up before your measurements change. Early progress tends to arrive quietly."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Muscle growth doesn’t come from one magic exercise, food or powder.",
+              "text": "Muscle growth doesn’t come from one magic exercise, food or powder.",
+              "image": "/images/health-fitness/02-silver/health-06/health06-image-1.webp"
+            },
+            {
+              "title": "Check your health, then create the conditions for gradual growth.",
+              "text": "Check your health, then create the conditions for gradual growth.",
+              "image": "/images/health-fitness/02-silver/health-06/health06-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -84,7 +99,7 @@
           "text": "Form sets the limit. Choose a version you can control, and keep breathing. Stop when the target muscle can no longer do the move without the rest of your body forming a rescue committee."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Keep your main exercises long enough to improve your setup and compare results. Change an exercise only for a reason, such as pain, a poor fit, missing equipment or progress that has stalled."
         }
       ]
@@ -200,6 +215,8 @@
           "text": "Devon stops majoring in supplements",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/health-fitness/02-silver/health-06/health06-image-3.webp",
+          "focus": 20,
           "paragraphs": [
             "Devon, 29, worked in Ottawa and had lifted on and off for two years. His cupboard held three tubs of powder and one unopened pre-workout sample with a name that sounded like a minor weather emergency. His program changed every time a new video promised faster growth.",
             "One payday, a new “muscle accelerator” popped up in his feed for $89. He had it in his cart. Then he opened his workout notes and realized he couldn’t name a single lift that had improved in six months. He closed the tab and decided to try the boring version first.",
@@ -322,7 +339,7 @@
           "text": "Muscle growth needs a repeated resistance signal, enough quality work, enough food and recovery. Start with a steady plan, progress slowly, track more than one kind of result and treat supplements as optional extras, not the foundation."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "If you use progress photos, measurements or a clothing check, repeat them only now and then, under the same conditions. Better yet, pair them with your performance notes. Good lighting can add five kilograms of confidence before breakfast."
         }
       ]

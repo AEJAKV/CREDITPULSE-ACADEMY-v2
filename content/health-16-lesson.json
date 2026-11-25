@@ -18,7 +18,7 @@
           "type": "transition",
           "text": "Get fitter in less time, at a pace that fits you.",
           "detail": "Knowing the difference between moderate intervals and HIIT lets you pick a session that matches your energy and builds fitness without burning out.",
-          "extra": "Section 05 walks you through a full session, minute by minute."
+          "extra": "Section 04 walks you through a full session, minute by minute."
         }
       ]
     },
@@ -63,6 +63,21 @@
           "text": "Use your own pace. The same walking speed may feel easy to one person and hard to another. Choose your effort by how your body responds, not by a neighbour’s speed or an app’s leaderboard."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Vigorous means hard for you, not a fixed speed.",
+              "text": "Vigorous means hard for you, not a fixed speed.",
+              "image": "/images/health-fitness/04-platinum/health-16/health16-image-1.webp"
+            },
+            {
+              "title": "Slow down enough to regain control before the next effort.",
+              "text": "Slow down enough to regain control before the next effort.",
+              "image": "/images/health-fitness/04-platinum/health-16/health16-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Recovery means slowing down enough to regain control before the next effort. If you still feel rushed when the timer goes off, stretch the easy part or end the rounds. A countdown is a planning tool, and it has never met your knees."
         },
@@ -86,37 +101,6 @@
         {
           "type": "paragraph",
           "text": "For adults aged 18 to 64, Canada’s guidelines include at least 150 minutes of moderate-to-vigorous activity a week and muscle strengthening at least twice a week. A short interval session is one part of a broader routine, not the whole plan."
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Fictional learning story: The lunch break",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "The lunch break",
-          "detail": "FICTIONAL LEARNING STORY",
-          "extra": "",
-          "paragraphs": [
-            "Omar worked at a library in Winnipeg. He wanted a workout that fit his lunch break and gave him more energy for evening walks with his partner. His phone kept advertising a ten-minute workout while his lunch sat waiting on the counter.",
-            "When the library offered a deal at the rec centre, Omar booked a first visit. He walked a lot but had never tried intervals. The bike screen showed a bright Race Mode, and he almost picked it, since it looked like the right way to start.",
-            "A trainer asked about his goals and checked that he was ready before they talked about harder work. Omar saw that Race Mode gave him almost no time to catch his breath. He had a choice: chase the score, or learn a pace he could manage.",
-            "He chose the easier plan. After a slow start, he pedalled hard for short bursts with longer easy stretches in between, then cooled down. He could still talk during the hard parts and felt ready before each one.",
-            "The surprise came when he checked the clock. Changing, warming up and cooling down made the visit far longer than the ten minutes in the ad. Instead of cutting his rest, he moved his gym visits to quiet afternoons and kept his lunch breaks for walks.",
-            "For several visits, Omar repeated the same plan while he learned the bike. He decided to talk about harder intervals later, with no deadline. His phone still offered ten-minute miracles, but now his calendar showed the whole visit, and his lunch got eaten."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Write down one useful detail: whether recovery felt long enough and whether the session fit your day. Those notes will help you choose better next time than a score alone."
-        },
-        {
-          "type": "transition",
-          "text": "Plan the whole visit, and the habit will stick.",
-          "detail": "Leaving time for warm-up and recovery makes your sessions fit a real day, so you keep coming back.",
-          "extra": "Section 05 gives you a starter session you can try this week."
         }
       ]
     },
@@ -175,7 +159,7 @@
           "text": "Someone already active and ready for vigorous exercise could talk with a qualified exercise professional about a HIIT version. Turning the short work periods into controlled vigorous effort changes the intensity, even if the clock stays the same. One well-studied example from McMaster University is 10 rounds of 1 minute hard and 1 minute easy, with a warm-up and cool-down. Avoid all-out effort, and leave easier days between hard sessions."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Change one thing. Once a version feels manageable over several sessions, think about changing the effort, the number of rounds or the length. Keep everything else the same so you can judge how you respond."
         },
         {
@@ -194,6 +178,39 @@
         {
           "type": "paragraph",
           "text": "Stop for chest pain or pressure, feeling faint, or severe or unusual breathlessness. Call 911 for chest pain, fainting or severe trouble breathing. Stop for pain that changes how you move, and get advice."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: The lunch break",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The lunch break",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Omar worked at a library in Winnipeg. He wanted a workout that fit his lunch break and gave him more energy for evening walks with his partner. His phone kept advertising a ten-minute workout while his lunch sat waiting on the counter.",
+            "When the library offered a deal at the rec centre, Omar booked a first visit. He walked a lot but had never tried intervals. The bike screen showed a bright Race Mode, and he almost picked it, since it looked like the right way to start.",
+            "A trainer asked about his goals and checked that he was ready before they talked about harder work. Omar saw that Race Mode gave him almost no time to catch his breath. He had a choice: chase the score, or learn a pace he could manage.",
+            "He chose the easier plan. After a slow start, he pedalled hard for short bursts with longer easy stretches in between, then cooled down. He could still talk during the hard parts and felt ready before each one.",
+            "The surprise came when he checked the clock. Changing, warming up and cooling down made the visit far longer than the ten minutes in the ad. Instead of cutting his rest, he moved his gym visits to quiet afternoons and kept his lunch breaks for walks.",
+            "For several visits, Omar repeated the same plan while he learned the bike. He decided to talk about harder intervals later, with no deadline. His phone still offered ten-minute miracles, but now his calendar showed the whole visit, and his lunch got eaten."
+          ],
+          "image": "/images/health-fitness/04-platinum/health-16/health16-image-3.webp",
+          "focus": 60
+        },
+        {
+          "type": "spotlight",
+          "text": "Write down one useful detail: whether recovery felt long enough and whether the session fit your day. Those notes will help you choose better next time than a score alone."
+        },
+        {
+          "type": "transition",
+          "text": "Plan the whole visit, and the habit will stick.",
+          "detail": "Leaving time for warm-up and recovery makes your sessions fit a real day, so you keep coming back.",
+          "extra": "Section 06 checks what stuck, and Section 07 helps you plan your own."
         }
       ]
     },

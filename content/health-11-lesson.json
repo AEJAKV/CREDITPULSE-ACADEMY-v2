@@ -48,6 +48,21 @@
           "text": "Notice how the real movement feels before you choose an exercise. Mobility drills should serve the task, not pile up in a folder like coupons you never use."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "More range of motion isn’t always better.",
+              "text": "More range of motion isn’t always better.",
+              "image": "/images/health-fitness/03-gold/health-11/health11-image-1.webp"
+            },
+            {
+              "title": "Start with a task that matters, then test it again.",
+              "text": "Start with a task that matters, then test it again.",
+              "image": "/images/health-fitness/03-gold/health-11/health11-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -84,7 +99,7 @@
           "text": "Change the setup and test again. Raise the chair, go less deep, stand closer to the shelf or use support. If the task improves, you’ve found a useful change to use while your capacity builds."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "The first heel lift, shoulder shrug, twist or wobble often shows where the task goes past what you can do right now."
         }
       ]
@@ -139,7 +154,7 @@
           "text": "Use support when balance is part of the challenge. Shrink the range if your speed, breathing or position changes. Control turns the motion you have into mobility you can rely on."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "A smaller range you can control is more useful than a larger range borrowed from momentum."
         }
       ]
@@ -169,37 +184,6 @@
               "text": "A tight feeling can come from tiredness, weakness, new activity, pain sensitivity, joint limits, an irritated nerve or protective tension. The right response depends on the cause."
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Noor Solves the Floor Problem",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Noor solves the floor problem",
-          "detail": "DEDICATED STORY",
-          "extra": "",
-          "paragraphs": [
-            "Noor, 38, lived in Edmonton and wanted to sit on the floor with her kids and get back up without grabbing the coffee table. She downloaded a long hip-mobility routine and did it now and then. It was full of poses with names that sounded like international airports. Getting up off the floor didn’t change.",
-            "One Saturday, after a puzzle with her daughter, she hauled herself up using both hands and the table, and felt embarrassed. She was tempted to buy an even longer program. Instead, she decided to test the actual task and find out what was going wrong.",
-            "Lowering herself down felt controlled. Getting up was the problem: it took momentum and both hands. Her ankles and hips had enough range for a higher seat. Leg strength and confidence were the bigger limits.",
-            "Noor practised a supported half-kneeling move beside a sturdy chair. She used a cushion to shorten the distance, added chair rises and supported split squats twice a week, and finished with gentle ankle and hip moves.",
-            "Every two weeks, she tested getting up from the floor. Slowly she used a lower cushion and less hand support. One week the cushion went missing under a pile of toys, and she found she didn’t need it.",
-            "After eight weeks, she could stand up using one hand and a controlled step. Her hips hadn’t become circus performers. They had become useful, and the coffee table went back to holding coffee."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "A mobility plan earns its place when reaching, turning, squatting, stepping or another chosen movement gets better."
-        },
-        {
-          "type": "transition",
-          "text": "Test the real task, and you’ll know exactly what to work on.",
-          "detail": "Finding the true limit, whether it’s range, strength or confidence, turns scattered drills into steady progress.",
-          "extra": "Section 08 shows where to fit mobility into your day."
         }
       ]
     },
@@ -245,8 +229,41 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Two focused moves practised often can beat twelve random drills visited once in a burst of optimism."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Noor Solves the Floor Problem",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Noor solves the floor problem",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "image": "/images/health-fitness/03-gold/health-11/health11-image-3.webp",
+          "focus": 15,
+          "paragraphs": [
+            "Noor, 38, lived in Edmonton and wanted to sit on the floor with her kids and get back up without grabbing the coffee table. She downloaded a long hip-mobility routine and did it now and then. It was full of poses with names that sounded like international airports. Getting up off the floor didn’t change.",
+            "One Saturday, after a puzzle with her daughter, she hauled herself up using both hands and the table, and felt embarrassed. She was tempted to buy an even longer program. Instead, she decided to test the actual task and find out what was going wrong.",
+            "Lowering herself down felt controlled. Getting up was the problem: it took momentum and both hands. Her ankles and hips had enough range for a higher seat. Leg strength and confidence were the bigger limits.",
+            "Noor practised a supported half-kneeling move beside a sturdy chair. She used a cushion to shorten the distance, added chair rises and supported split squats twice a week, and finished with gentle ankle and hip moves.",
+            "Every two weeks, she tested getting up from the floor. Slowly she used a lower cushion and less hand support. One week the cushion went missing under a pile of toys, and she found she didn’t need it.",
+            "After eight weeks, she could stand up using one hand and a controlled step. Her hips hadn’t become circus performers. They had become useful, and the coffee table went back to holding coffee."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "A mobility plan earns its place when reaching, turning, squatting, stepping or another chosen movement gets better."
+        },
+        {
+          "type": "transition",
+          "text": "Test the real task, and you’ll know exactly what to work on.",
+          "detail": "Finding the true limit, whether it’s range, strength or confidence, turns scattered drills into steady progress.",
+          "extra": "Section 10 shows where to find mobility help across Canada."
         }
       ]
     },

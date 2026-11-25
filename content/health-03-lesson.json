@@ -48,6 +48,21 @@
           "text": "Check floor, ceiling, supports, traffic, and equipment before every session. It takes less time than explaining a lamp-related incident."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Check your health first. Then clear one safe patch of floor.",
+              "text": "Check your health first. Then clear one safe patch of floor.",
+              "image": "/images/health-fitness/01-starter/health-03/health03-image-1.webp"
+            },
+            {
+              "title": "Design your space once, and showing up gets easier every day.",
+              "text": "Design your space once, and showing up gets easier every day.",
+              "image": "/images/health-fitness/01-starter/health-03/health03-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -78,6 +93,8 @@
         {
           "type": "filecards",
           "text": "Build the movement menu",
+          "image": "/images/health-fitness/01-starter/health-03/health03-image-2.webp",
+          "focus": 15,
           "items": [
             {
               "title": "SIT OR SQUAT",
@@ -273,6 +290,8 @@
           "text": "Samira’s one-square-metre plan",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/health-fitness/01-starter/health-03/health03-image-3.webp",
+          "focus": 15,
           "paragraphs": [
             "Samira, 31, shared a small apartment in Winnipeg with her cousin, who worked night shifts. She saved dozens of home workouts online, but most needed a big room, lots of jumping and equipment she didn’t own. Her exercise mat spent three months working as an expensive wall decoration.",
             "One January evening, she nearly signed up for a gym across town with a $60 monthly fee. The bus ride was forty minutes each way, in the dark. She held her credit card for a while, then put it down and decided to try one more thing first: making her own apartment work.",

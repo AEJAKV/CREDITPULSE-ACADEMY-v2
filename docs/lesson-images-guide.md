@@ -130,7 +130,7 @@ The text on each slide is a **tagline that carries a lesson from the course**. I
 - Deep green panel (`#113d37`), 18px radius, at least 245px tall, with the tagline in large light text on the left.
 - The photo fills the **right two-thirds**, in grayscale and screen-blended at about 60% opacity, fading out to the left.
 - On phones the photo moves to the bottom 58% and fades upward. (Credit Mastery and other courses.)
-- **Money & Budgeting, Benefits & Support and Tax & Wealth on phones (760px or narrower):** a different layout, scoped with `.lesson-article:is([data-course='money-budgeting'], [data-course='benefits-support'], [data-course='tax-wealth'])` in `app/premium.css` (the `data-course` attribute is set in the lesson `page.tsx`).
+- **Money & Budgeting, Benefits & Support, Tax & Wealth and Health & Fitness on phones (760px or narrower):** a different layout, scoped with `.lesson-article:is([data-course='money-budgeting'], [data-course='benefits-support'], [data-course='tax-wealth'], [data-course='health-fitness'])` in `app/premium.css` (the `data-course` attribute is set in the lesson `page.tsx`).
   - The photo fills the whole panel (at least 440px tall) at the same 62% grayscale screen blend as desktop, anchored to the top (`object-position: 50% 0`) so the face stays in the upper half.
   - The tagline sits at the bottom of the panel with at least 150px above it, so it can't ride up onto the face.
   - A mask fades the photo out from 40% down to nothing at 72% of the panel height. That fade also hides any caption baked into the bottom of the picture.

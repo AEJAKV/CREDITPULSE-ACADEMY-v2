@@ -48,6 +48,21 @@
           "text": "If weighing is appropriate for you, look at measurements taken under similar conditions across several weeks. One reading is a data point, not a diagnosis."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A lower number doesn’t always mean body fat was lost.",
+              "text": "A lower number doesn’t always mean body fat was lost.",
+              "image": "/images/health-fitness/02-silver/health-07/health07-image-1.webp"
+            },
+            {
+              "title": "Lose fat in a way you can keep up, and keep the results.",
+              "text": "Lose fat in a way you can keep up, and keep the results.",
+              "image": "/images/health-fitness/02-silver/health-07/health07-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -84,7 +99,7 @@
           "text": "A lasting approach usually makes a modest gap through several ordinary choices: more filling meals, fewer extras you eat without thinking, more daily movement and better sleep. It should still give you enough food and nutrients for your health, work, training and focus."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "A small change practised most days can matter more than a strict plan followed briefly. Consistency is quieter than a transformation video, but it has better attendance."
         },
         {
@@ -160,7 +175,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "An environment cue can save repeated decisions. Put water where you work, keep useful foods visible, or decide tomorrow's breakfast tonight."
         }
       ]
@@ -183,6 +198,29 @@
           "text": "Mix planned exercise with everyday movement: a walk on your break, walking or cycling to places, stairs when it suits you, housework, gardening, play or short movement breaks. The best choice is one your body, schedule, location and budget can support."
         },
         {
+          "type": "glasspanel",
+          "text": "Four numbers worth knowing",
+          "detail": "WEEKLY NUMBERS",
+          "items": [
+            {
+              "title": "Steady pace",
+              "text": "0.5 to 1 kg — (1 to 2 lb) a week at most, for adults with weight to lose."
+            },
+            {
+              "title": "Activity",
+              "text": "150 minutes — a week of moderate-to-vigorous activity, built up from where you are now."
+            },
+            {
+              "title": "Strength",
+              "text": "2 days — a week for the major muscle groups, which helps you hold on to muscle."
+            },
+            {
+              "title": "Sleep",
+              "text": "7 to 9 hours — a night, as Canada’s movement guidelines recommend for adults."
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -190,37 +228,6 @@
               "text": "Shorter bouts, daily movement, and strength work all contribute to health and activity. Exhaustion is not a membership requirement."
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Amira Replaces the Perfect Plan",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Amira replaces the perfect plan",
-          "detail": "DEDICATED STORY",
-          "extra": "",
-          "paragraphs": [
-            "Amira, 41, was a nurse in Winnipeg who worked rotating shifts. Every few months she started a strict meal plan and a daily workout challenge. By week two, one night shift and an empty lunch container had defeated the whole operation.",
-            "In January, a coworker shared a new 1,200-calorie challenge, and Amira almost signed up. Then she stopped and asked herself why the last five plans had failed. She decided to spend one week just watching her routine before changing anything.",
-            "The pattern was clear. Before evening shifts, she skipped a meal, got hungry, bought a large takeout meal on her break and then blamed herself. Her problem wasn’t a lack of discipline. Her plans had forgotten that she worked for a living.",
-            "She fixed that one gap first. Before three shifts a week, she packed a simple meal with a protein food, vegetables and a whole grain. She kept fruit and yogurt in her locker, walked for fifteen minutes after two daytime meals and did two short strength sessions at home.",
-            "The twist came in week three, when her daily weigh-ins started ruining her mood, even on good days. She switched to weighing once a week and added two other signals: how her walks felt and how her uniform fit.",
-            "After ten weeks, her uniform felt looser, her walks felt easier and her weekly weight trend had moved down slowly. Best of all, she could explain exactly which habits were helping, and none of them depended on a perfect week."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Missed meals, poor access to food, shift work, tiredness and a hard environment are design problems, not character flaws. Change the setup where you can."
-        },
-        {
-          "type": "transition",
-          "text": "Fix the gap in your real routine, and the results follow.",
-          "detail": "Plans that fit your work, sleep and budget survive the hard weeks, and those are the weeks that count.",
-          "extra": "Section 08 covers the sleep and stress that quietly shape your progress."
         }
       ]
     },
@@ -240,6 +247,39 @@
         {
           "type": "paragraph",
           "text": "If you often use food to cope with overwhelming feelings, or if restricting and overeating keep cycling, support from a mental-health professional and a dietitian can help. This section has no humour, because eating disorders and severe distress deserve respectful care."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Amira Replaces the Perfect Plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Amira replaces the perfect plan",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "image": "/images/health-fitness/02-silver/health-07/health07-image-3.webp",
+          "focus": 22,
+          "paragraphs": [
+            "Amira, 41, was a nurse in Winnipeg who worked rotating shifts. Every few months she started a strict meal plan and a daily workout challenge. By week two, one night shift and an empty lunch container had defeated the whole operation.",
+            "In January, a coworker shared a new 1,200-calorie challenge, and Amira almost signed up. Then she stopped and asked herself why the last five plans had failed. She decided to spend one week just watching her routine before changing anything.",
+            "The pattern was clear. Before evening shifts, she skipped a meal, got hungry, bought a large takeout meal on her break and then blamed herself. Her problem wasn’t a lack of discipline. Her plans had forgotten that she worked for a living.",
+            "She fixed that one gap first. Before three shifts a week, she packed a simple meal with a protein food, vegetables and a whole grain. She kept fruit and yogurt in her locker, walked for fifteen minutes after two daytime meals and did two short strength sessions at home.",
+            "The twist came in week three, when her daily weigh-ins started ruining her mood, even on good days. She switched to weighing once a week and added two other signals: how her walks felt and how her uniform fit.",
+            "After ten weeks, her uniform felt looser, her walks felt easier and her weekly weight trend had moved down slowly. Best of all, she could explain exactly which habits were helping, and none of them depended on a perfect week."
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Missed meals, poor access to food, shift work, tiredness and a hard environment are design problems, not character flaws. Change the setup where you can."
+        },
+        {
+          "type": "transition",
+          "text": "Fix the gap in your real routine, and the results follow.",
+          "detail": "Plans that fit your work, sleep and budget survive the hard weeks, and those are the weeks that count.",
+          "extra": "Section 09 shows how to measure progress without letting the numbers take over."
         }
       ]
     },
@@ -270,7 +310,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Record the walks, planned meals, strength sessions or sleep routine you did. Results can be slow, but your habits show whether you’re following the plan."
         }
       ]

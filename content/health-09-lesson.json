@@ -22,7 +22,7 @@
           "type": "transition",
           "text": "Get stronger and fitter in your 40s than you were in your 30s.",
           "detail": "Training that fits your real life, and respects recovery, keeps improving your strength, stamina and balance for decades.",
-          "extra": "Section 04 shows how to strength train for the force you need every day."
+          "extra": "Section 05 shows how to strength train for the force you need every day."
         }
       ]
     },
@@ -46,6 +46,21 @@
         {
           "type": "spotlight",
           "text": "Record one useful task now, such as a walking route, chair rises, or a controlled carry. Future progress should answer your life, not somebody else's highlight reel."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Age alone doesn’t define fitness.",
+              "text": "Age alone doesn’t define fitness.",
+              "image": "/images/health-fitness/02-silver/health-09/health09-image-1.webp"
+            },
+            {
+              "title": "Match your training to what you can do now.",
+              "text": "Match your training to what you can do now.",
+              "image": "/images/health-fitness/02-silver/health-09/health09-image-2.webp"
+            }
+          ]
         },
         {
           "type": "myths",
@@ -76,23 +91,27 @@
           "text": "A full week includes more than one kind of exercise. Canada’s guidelines encourage adults to build up to 150 minutes a week of moderate-to-vigorous activity, strengthen the major muscle groups at least twice a week, sit less and sleep 7 to 9 hours."
         },
         {
-          "type": "ordered",
+          "type": "cards",
           "items": [
             {
               "title": "AEROBIC WORK",
-              "text": "Works your heart and lungs. Walking, cycling, swimming, dancing, sports, rowing and other rhythmic activity all fit."
+              "text": "Works your heart and lungs. Walking, cycling, swimming, dancing, sports, rowing and other rhythmic activity all fit.",
+              "icon": "heart"
             },
             {
               "title": "STRENGTH WORK",
-              "text": "Helps keep or build the force you need to lift, carry, climb, work, play and support your joints."
+              "text": "Helps keep or build the force you need to lift, carry, climb, work, play and support your joints.",
+              "icon": "zap"
             },
             {
               "title": "MOBILITY WORK",
-              "text": "Keeps your joints moving through the range you use every day."
+              "text": "Keeps your joints moving through the range you use every day.",
+              "icon": "route"
             },
             {
               "title": "BALANCE WORK",
-              "text": "Helps you control your position and react when the ground or direction changes."
+              "text": "Helps you control your position and react when the ground or direction changes.",
+              "icon": "target"
             }
           ]
         },
@@ -101,8 +120,36 @@
           "text": "Start below the full guideline if you need to. Several short sessions count. The best weekly plan isn’t the one with the most coloured boxes. It’s the one that still exists on Thursday."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Give each session a label: strength, aerobic, recovery, mobility or mixed. A clear purpose stops every workout from becoming a rushed sampler platter."
+        }
+      ]
+    },
+    {
+      "id": "warmup",
+      "title": "Warm Up for the Task Ahead",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A warm-up prepares the moves, muscles and effort you’re about to use. Start with a few minutes of easy activity. Practise the main moves with a comfortable range and lighter weight. Build up toward your planned session."
+        },
+        {
+          "type": "paragraph",
+          "text": "A good warm-up changes with the workout. A brisk walk may need only a short, easy start. A hard strength session may need more practice and a few lighter sets. Endless stretching isn’t a required entrance exam."
+        },
+        {
+          "type": "paragraph",
+          "text": "After training, ease back toward resting effort. Drink according to the conditions, eat normally and check how you feel later that day. Pain that lasts or gets worse, unusual tiredness or performance that keeps dropping means it’s time to adjust or get checked."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Soreness proves the workout was effective.”",
+              "text": "Soreness often comes from new work. Progress is better judged by performance, comfort, consistency and recovery."
+            }
+          ]
         }
       ]
     },
@@ -156,36 +203,8 @@
           "text": "Add time before adding lots of hard intervals. Build up slowly after illness or a long break. Progress may look like a longer route, faster recovery, easier stairs or the same route at a lower effort."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Not every session needs to prove something. Easy aerobic work adds up and helps you recover, without turning the week into a committee hearing."
-        }
-      ]
-    },
-    {
-      "id": "warmup",
-      "title": "Warm Up for the Task Ahead",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "A warm-up prepares the moves, muscles and effort you’re about to use. Start with a few minutes of easy activity. Practise the main moves with a comfortable range and lighter weight. Build up toward your planned session."
-        },
-        {
-          "type": "paragraph",
-          "text": "A good warm-up changes with the workout. A brisk walk may need only a short, easy start. A hard strength session may need more practice and a few lighter sets. Endless stretching isn’t a required entrance exam."
-        },
-        {
-          "type": "paragraph",
-          "text": "After training, ease back toward resting effort. Drink according to the conditions, eat normally and check how you feel later that day. Pain that lasts or gets worse, unusual tiredness or performance that keeps dropping means it’s time to adjust or get checked."
-        },
-        {
-          "type": "myths",
-          "items": [
-            {
-              "title": "“Soreness proves the workout was effective.”",
-              "text": "Soreness often comes from new work. Progress is better judged by performance, comfort, consistency and recovery."
-            }
-          ]
         }
       ]
     },
@@ -199,6 +218,8 @@
           "text": "Elena stops training against her schedule",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/health-fitness/02-silver/health-09/health09-image-3.webp",
+          "focus": 15,
           "paragraphs": [
             "Elena, 46, managed a busy office in Calgary and helped care for her father. She was following a six-day online program built for someone whose main job seemed to be owning matching water bottles.",
             "When she missed two workouts one week, she crammed both into the weekend. By Monday her back was stiff, her sleep was worse and the week arrived with all the enthusiasm of a parking ticket.",
@@ -262,7 +283,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Define the smallest week you can keep up during busy times. Once that floor is solid, add more challenge."
         }
       ]

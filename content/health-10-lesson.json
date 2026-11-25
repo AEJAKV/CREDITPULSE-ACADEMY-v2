@@ -48,6 +48,21 @@
           "text": "If stairs already take every bit of effort you have, more leg strength or stamina gives you breathing room. Reserve is what’s left over after the task."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Your fitness can improve after 50.",
+              "text": "Your fitness can improve after 50.",
+              "image": "/images/health-fitness/02-silver/health-10/health10-image-1.webp"
+            },
+            {
+              "title": "Build enough reserve that stairs don’t take everything you have.",
+              "text": "Build enough reserve that stairs don’t take everything you have.",
+              "image": "/images/health-fitness/02-silver/health-10/health10-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -84,8 +99,27 @@
           "text": "Start with controlled reps and a resistance that feels challenging without changing your form. Progress slowly by adding resistance, reps, range or sets. A qualified professional can adapt your training for arthritis, osteoporosis, nerve conditions, a joint replacement, a disability or an injury."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "If standing from a low chair is difficult, train a suitable chair-rise version. Useful strength begins where daily life makes a request."
+        }
+      ]
+    },
+    {
+      "id": "bones",
+      "title": "Support Bone Health Without Guessing",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Bones respond to the right kind of loading. Weight-bearing cardio, like walking, and strength training can help keep bones strong. Balance and strength work also lower the risk of falling."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your exercise choices change if you have osteoporosis, a spine fracture or other past fractures, pain or a high fall risk. Osteoporosis Canada recommends exercise tailored to you, with guidance on moving safely. Some people should avoid or change forceful bending, twisting, impact or poorly controlled lifting."
+        },
+        {
+          "type": "paragraph",
+          "text": "This section has no humour. A past fracture or new, severe back pain needs a qualified assessment, not a generic workout copied from the internet."
         }
       ]
     },
@@ -135,7 +169,7 @@
           "text": "Start with manageable bouts and build up time. Add time before adding much harder work, and include easier days. A longer walk is progress, but so is doing the same route with less effort or recovering faster."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Practise some cardio that matches the length, ground and rest stops of a trip or outing you care about. The museum bench should be an option, not mission control."
         }
       ]
@@ -178,6 +212,8 @@
           "text": "Raj trains for the station stairs",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/health-fitness/02-silver/health-10/health10-image-3.webp",
+          "focus": 12,
           "paragraphs": [
             "Raj, 58, lived in Mississauga and took the train into Toronto twice a week. He could get through his workday fine, but the station stairs with his laptop bag left him winded. He decided he needed more cardio, so he power-walked hard every single day.",
             "Three weeks later, his calves ached, his schedule was a mess and the stairs felt exactly the same. One evening, he stood at the bottom of his own basement stairs and asked himself a better question: what was making them hard? It wasn’t only his lungs. His legs were tired by the halfway point.",
@@ -195,26 +231,7 @@
           "type": "transition",
           "text": "Train for the tasks you care about, and you’ll feel the difference where it counts.",
           "detail": "Linking each exercise to a real-life task keeps you motivated and shows you exactly how much stronger you’re getting.",
-          "extra": "Section 08 covers how to protect your bones as you train."
-        }
-      ]
-    },
-    {
-      "id": "bones",
-      "title": "Support Bone Health Without Guessing",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Bones respond to the right kind of loading. Weight-bearing cardio, like walking, and strength training can help keep bones strong. Balance and strength work also lower the risk of falling."
-        },
-        {
-          "type": "paragraph",
-          "text": "Your exercise choices change if you have osteoporosis, a spine fracture or other past fractures, pain or a high fall risk. Osteoporosis Canada recommends exercise tailored to you, with guidance on moving safely. Some people should avoid or change forceful bending, twisting, impact or poorly controlled lifting."
-        },
-        {
-          "type": "paragraph",
-          "text": "This section has no humour. A past fracture or new, severe back pain needs a qualified assessment, not a generic workout copied from the internet."
+          "extra": "Section 09 covers health changes, recovery and building confidence."
         }
       ]
     },

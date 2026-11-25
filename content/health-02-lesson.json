@@ -65,6 +65,21 @@
           "text": "List what makes movement harder. Cost? Child care? Gym discomfort? Winter darkness? Pain? A head covering or privacy need? Solve one friction point before buying equipment."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Most plans break the first week life gets busy.",
+              "text": "Most plans break the first week life gets busy.",
+              "image": "/images/health-fitness/01-starter/health-02/health02-image-1.webp"
+            },
+            {
+              "title": "Map your real week, then let the routine bend to it.",
+              "text": "Map your real week, then let the routine bend to it.",
+              "image": "/images/health-fitness/01-starter/health-02/health02-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -244,6 +259,8 @@
           "text": "Nadia builds three doors into one routine",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/health-fitness/01-starter/health-02/health02-image-3.webp",
+          "focus": 25,
           "paragraphs": [
             "Nadia, 44, managed a busy dental office in Halifax and cared for her mother twice a week. Poor sleep had started making hard workouts feel even harder. She kept downloading thirty-day plans. By day six, each one had become an archived historical document.",
             "One Sunday, she opened a new plan and felt the familiar dread. She could start it Monday and hope this time was different. Or she could stop planning for her best week and plan for her real one. She closed the app.",

@@ -18,7 +18,7 @@
           "type": "transition",
           "text": "Turn ordinary walks into a routine that lasts.",
           "detail": "A clear starting point and a backup route let you fit walking into a real week, with no perfect schedule needed.",
-          "extra": "Section 05 gives you a fifteen-minute walk to start with."
+          "extra": "Section 04 gives you a fifteen-minute walk to start with."
         }
       ]
     },
@@ -63,6 +63,21 @@
           "text": "Mark a nearby turning point. A short loop or route with several exits lets you return early without being far from home."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A Saturday plan may not fit your Tuesday.",
+              "text": "A Saturday plan may not fit your Tuesday.",
+              "image": "/images/health-fitness/04-platinum/health-17/health17-image-1.webp"
+            },
+            {
+              "title": "Start with a short walk near home.",
+              "text": "Start with a short walk near home.",
+              "image": "/images/health-fitness/04-platinum/health-17/health17-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Step counts can be interesting, but you don’t need a tracker to start. Devices give different readings, and the same distance can feel different on different days. Record what helps you decide."
         },
@@ -84,7 +99,7 @@
           "text": "At a moderate walking pace, you move faster than a stroll but can still talk without gasping. For many adults, that’s about 100 steps a minute. Slow down when talking gets hard. A brisk pace for one person may be an easy pace for another."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Keep two notes after a walk: minutes completed and whether the effort felt manageable. Those notes can guide the next choice better than an unbroken streak."
         },
         {
@@ -94,37 +109,6 @@
         {
           "type": "paragraph",
           "text": "Pick a route you can describe without checking a screen every few steps. Check the crossings and places to rest before you add distance. A map app may call a staircase a shortcut. Your plan is allowed to disagree."
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Fictional learning story: The library loop",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "The library loop",
-          "detail": "FICTIONAL LEARNING STORY",
-          "extra": "",
-          "paragraphs": [
-            "Leanne lived in Winnipeg and worked changing shifts at a grocery store. She wanted a regular walk outside before her evening shifts, but her big Sunday plans kept vanishing by Wednesday. The daily walking reminder on her phone had faded into the background, like wallpaper.",
-            "One afternoon, a shift change left her twenty free minutes before the bus. She walked a short loop past the neighbourhood library and came back with time to spare. She liked having somewhere to go that didn’t ask her to buy anything.",
-            "Excited, she booked a longer walk into every afternoon. Then a late delivery kept her at work, and an early shift wrecked the next afternoon. She had to choose: keep chasing one fixed time each day, or plan around the shifts she had.",
-            "She picked three times from her weekly schedule. Each one started with the short library loop. She wrote ten minutes beside each one and kept a pencil tally of the walks she finished. If a window vanished, she picked another instead of doubling up the next day.",
-            "The twist came when freezing rain turned her usual sidewalk into a skating rink. Leanne checked the forecast. Then she walked laps at the mall, which ran an indoor walking program she had already looked up. The route had no library, but it still did the job.",
-            "After a few weeks, she could see which windows survived her shifts. She kept the short walks and sometimes went a little longer when she felt good. The reminder on her phone now named a real route and a backup, so the wallpaper finally had something useful to say."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Give each walk a job that matters to you, like a break from work or time with a friend. Use that reason when you choose a realistic time."
-        },
-        {
-          "type": "transition",
-          "text": "A flexible plan keeps you walking through busy weeks and bad weather.",
-          "detail": "A backup route and a few movable time windows protect your routine when work or weather changes the day.",
-          "extra": "Section 05 helps you build your own plan."
         }
       ]
     },
@@ -198,6 +182,39 @@
         {
           "type": "spotlight",
           "text": "Insider tip: Write your plan beside an existing weekly task, such as checking your work roster. That gives you a regular moment to choose walking windows and review your backup."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: The library loop",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The library loop",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Leanne lived in Winnipeg and worked changing shifts at a grocery store. She wanted a regular walk outside before her evening shifts, but her big Sunday plans kept vanishing by Wednesday. The daily walking reminder on her phone had faded into the background, like wallpaper.",
+            "One afternoon, a shift change left her twenty free minutes before the bus. She walked a short loop past the neighbourhood library and came back with time to spare. She liked having somewhere to go that didn’t ask her to buy anything.",
+            "Excited, she booked a longer walk into every afternoon. Then a late delivery kept her at work, and an early shift wrecked the next afternoon. She had to choose: keep chasing one fixed time each day, or plan around the shifts she had.",
+            "She picked three times from her weekly schedule. Each one started with the short library loop. She wrote ten minutes beside each one and kept a pencil tally of the walks she finished. If a window vanished, she picked another instead of doubling up the next day.",
+            "The twist came when freezing rain turned her usual sidewalk into a skating rink. Leanne checked the forecast. Then she walked laps at the mall, which ran an indoor walking program she had already looked up. The route had no library, but it still did the job.",
+            "After a few weeks, she could see which windows survived her shifts. She kept the short walks and sometimes went a little longer when she felt good. The reminder on her phone now named a real route and a backup, so the wallpaper finally had something useful to say."
+          ],
+          "image": "/images/health-fitness/04-platinum/health-17/health17-image-3.webp",
+          "focus": 30
+        },
+        {
+          "type": "spotlight",
+          "text": "Give each walk a job that matters to you, like a break from work or time with a friend. Use that reason when you choose a realistic time."
+        },
+        {
+          "type": "transition",
+          "text": "A flexible plan keeps you walking through busy weeks and bad weather.",
+          "detail": "A backup route and a few movable time windows protect your routine when work or weather changes the day.",
+          "extra": "Section 06 checks what stuck, and Section 07 helps you plan your own."
         }
       ]
     },

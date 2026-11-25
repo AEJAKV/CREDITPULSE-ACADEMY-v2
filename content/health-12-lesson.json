@@ -48,6 +48,21 @@
           "text": "Record the movement you want to make more comfortable. A stretch without a purpose is difficult to evaluate."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Not every tight feeling needs a stretch.",
+              "text": "Not every tight feeling needs a stretch.",
+              "image": "/images/health-fitness/03-gold/health-12/health12-image-1.webp"
+            },
+            {
+              "title": "Get qualified care when symptoms, surgery or unstable joints are involved.",
+              "text": "Get qualified care when symptoms, surgery or unstable joints are involved.",
+              "image": "/images/health-fitness/03-gold/health-12/health12-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -154,7 +169,7 @@
           "text": "Don’t copy the deepest-looking version. Choose the one that gives the feeling you want without joint pressure or losing control. The internet’s most flexible person isn’t there to sign your consent form."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Adjust your stance, support or angle. A better position often gives a clearer stretch with less effort."
         }
       ]
@@ -184,37 +199,6 @@
               "text": "The feeling can have several causes. Stretching only helps when limited range or tissue tolerance is part of the real problem."
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Sophie Stops Stretching Everything",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Sophie stops stretching everything",
-          "detail": "DEDICATED STORY",
-          "extra": "",
-          "paragraphs": [
-            "Sophie, 44, worked at a computer in Montreal. By late afternoon her neck and shoulders felt tight, so every evening she followed a fifteen-minute full-body stretching video. Some stretches felt nice, but the same discomfort was back before dinner the next day.",
-            "One Friday, her physiotherapist friend asked a simple question: when does it start? Sophie realized she had never checked. She could keep stretching harder, or she could spend one week watching for the pattern. She chose to watch.",
-            "The pattern was clear. The discomfort grew after long, unbroken stretches at the screen. Her monitor sat off to one side, so she turned her head all day, and her upper back tired out as the hours went by.",
-            "Sophie moved the monitor straight in front of her and set a reminder for short movement breaks. She practised gentle upper-back turns and shoulder moves, and added a light band row twice a week. She kept one chest stretch that helped and dropped the rest.",
-            "In week three, a deadline glued her to the desk for two days and the tightness came roaring back. It was tempting to restart the long video. Instead, she went back to the breaks, and within a few days the afternoons settled again.",
-            "After six weeks, she had fewer uncomfortable afternoons and could work longer before needing a break. Her routine shrank from fifteen minutes to four. The other eleven minutes went back to civilian life."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "If a stretch has no clear target, no useful effect and doesn’t help your chosen task, it may not belong in your routine."
-        },
-        {
-          "type": "transition",
-          "text": "Find the real cause of the tightness, and you can fix it in minutes a day.",
-          "detail": "Matching the tool to the problem, whether that’s a stretch, a strength move or a better setup, saves time and works better.",
-          "extra": "Section 08 explains when to protect an area instead of stretching it."
         }
       ]
     },
@@ -266,6 +250,39 @@
         {
           "type": "spotlight",
           "text": "A good session should leave the area comfortable and usable. More range with irritation is not a winning trade."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Sophie Stops Stretching Everything",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Sophie stops stretching everything",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Sophie, 44, worked at a computer in Montreal. By late afternoon her neck and shoulders felt tight, so every evening she followed a fifteen-minute full-body stretching video. Some stretches felt nice, but the same discomfort was back before dinner the next day.",
+            "One Friday, her physiotherapist friend asked a simple question: when does it start? Sophie realized she had never checked. She could keep stretching harder, or she could spend one week watching for the pattern. She chose to watch.",
+            "The pattern was clear. The discomfort grew after long, unbroken stretches at the screen. Her monitor sat off to one side, so she turned her head all day, and her upper back tired out as the hours went by.",
+            "Sophie moved the monitor straight in front of her and set a reminder for short movement breaks. She practised gentle upper-back turns and shoulder moves, and added a light band row twice a week. She kept one chest stretch that helped and dropped the rest.",
+            "In week three, a deadline glued her to the desk for two days and the tightness came roaring back. It was tempting to restart the long video. Instead, she went back to the breaks, and within a few days the afternoons settled again.",
+            "After six weeks, she had fewer uncomfortable afternoons and could work longer before needing a break. Her routine shrank from fifteen minutes to four. The other eleven minutes went back to civilian life."
+          ],
+          "image": "/images/health-fitness/03-gold/health-12/health12-image-3.webp",
+          "focus": 55
+        },
+        {
+          "type": "spotlight",
+          "text": "If a stretch has no clear target, no useful effect and doesn’t help your chosen task, it may not belong in your routine."
+        },
+        {
+          "type": "transition",
+          "text": "Find the real cause of the tightness, and you can fix it in minutes a day.",
+          "detail": "Matching the tool to the problem, whether that’s a stretch, a strength move or a better setup, saves time and works better.",
+          "extra": "Section 10 shows where to find stretching help across Canada."
         }
       ]
     },
@@ -361,7 +378,7 @@
           "type": "checkin"
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Skip any medical details or symptoms in this form. Just the plan."
         }
       ]

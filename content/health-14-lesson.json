@@ -48,6 +48,21 @@
           "text": "The band’s type, length, thickness and how far you stretch it all change the resistance."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A band gets harder the further it stretches.",
+              "text": "A band gets harder the further it stretches.",
+              "image": "/images/health-fitness/03-gold/health-14/health14-image-1.webp"
+            },
+            {
+              "title": "Set a secure anchor, then check your distance.",
+              "text": "Set a secure anchor, then check your distance.",
+              "image": "/images/health-fitness/03-gold/health-14/health14-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -135,7 +150,7 @@
           "text": "Line up the pull with the move you want. For a row, the band should guide a controlled pull toward your body. For a press, place the anchor so the band doesn’t rub your arms or pull you off balance."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "A smooth return keeps your muscles working and cuts down on sudden snap-back."
         }
       ]
@@ -165,37 +180,6 @@
               "text": "Bands can give light or heavy resistance. Studies comparing bands with free weights at a similar effort find similar strength gains. How useful a band is depends on the exercise, setup, range, tension and your needs."
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Leila Packs a Workout That Fits",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Leila packs a workout that fits",
-          "detail": "DEDICATED STORY",
-          "extra": "",
-          "paragraphs": [
-            "Leila, 52, worked in Winnipeg and travelled to northern Manitoba for work every few weeks. Hotel gyms were a gamble. One had two treadmills and a decorative plant that seemed to be the senior trainer.",
-            "After a month of skipped workouts on the road, she had a choice. She could accept that travel weeks were rest weeks, or she could find a workout that fit in her suitcase. She bought a tube band with handles, a small loop band and the maker’s door anchor.",
-            "Before each session, she checked the bands and the door setup. Her routine was a chair squat, a seated row, a standing press, a supported hip move and an anti-rotation press.",
-            "She wrote down the band, the anchor position, her distance and her reps. When a move got comfortable, she first added a rep. Later, she stepped a little farther from the anchor or switched to the next band. She changed only one thing at a time.",
-            "The twist came in a hotel in Thompson. The door opened toward her, and the anchor didn’t sit right. It would have been easy to wedge it in and hope. Instead, she skipped the door moves, anchored the band under her feet and did rows and presses from a chair.",
-            "After seven weeks, Leila had done twelve short sessions across three trips. She came home stronger, and she never once had to negotiate with the plant."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Write down the band, anchor height, distance, stance and reps, so you can repeat the session exactly."
-        },
-        {
-          "type": "transition",
-          "text": "A safe setup and a simple log let you train anywhere.",
-          "detail": "Checking your gear and recording your setup means every session, at home or away, builds on the last one.",
-          "extra": "Section 08 shows how to progress without overstretching the band."
         }
       ]
     },
@@ -247,6 +231,39 @@
         {
           "type": "spotlight",
           "text": "Stop when your stance, anchor, range, breathing or the band’s path is no longer under control."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Leila Packs a Workout That Fits",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Leila packs a workout that fits",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Leila, 52, worked in Winnipeg and travelled to northern Manitoba for work every few weeks. Hotel gyms were a gamble. One had two treadmills and a decorative plant that seemed to be the senior trainer.",
+            "After a month of skipped workouts on the road, she had a choice. She could accept that travel weeks were rest weeks, or she could find a workout that fit in her suitcase. She bought a tube band with handles, a small loop band and the maker’s door anchor.",
+            "Before each session, she checked the bands and the door setup. Her routine was a chair squat, a seated row, a standing press, a supported hip move and an anti-rotation press.",
+            "She wrote down the band, the anchor position, her distance and her reps. When a move got comfortable, she first added a rep. Later, she stepped a little farther from the anchor or switched to the next band. She changed only one thing at a time.",
+            "The twist came in a hotel in Thompson. The door opened toward her, and the anchor didn’t sit right. It would have been easy to wedge it in and hope. Instead, she skipped the door moves, anchored the band under her feet and did rows and presses from a chair.",
+            "After seven weeks, Leila had done twelve short sessions across three trips. She came home stronger, and she never once had to negotiate with the plant."
+          ],
+          "image": "/images/health-fitness/03-gold/health-14/health14-image-3.webp",
+          "focus": 40
+        },
+        {
+          "type": "spotlight",
+          "text": "Write down the band, anchor height, distance, stance and reps, so you can repeat the session exactly."
+        },
+        {
+          "type": "transition",
+          "text": "A safe setup and a simple log let you train anywhere.",
+          "detail": "Checking your gear and recording your setup means every session, at home or away, builds on the last one.",
+          "extra": "Section 10 shows where to find band-training help across Canada."
         }
       ]
     },
@@ -342,7 +359,7 @@
           "type": "checkin"
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Skip any medical details or symptoms in this form. Just the plan."
         }
       ]

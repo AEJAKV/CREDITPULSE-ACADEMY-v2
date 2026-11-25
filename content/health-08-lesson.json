@@ -48,6 +48,21 @@
           "text": "You may need softer landings, more balance support, a smaller range or a slower build-up. “Low impact” is only useful when it matches what you need."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Low impact and low intensity are different.",
+              "text": "Low impact and low intensity are different.",
+              "image": "/images/health-fitness/02-silver/health-08/health08-image-1.webp"
+            },
+            {
+              "title": "Match support, range, pace and recovery to your body.",
+              "text": "Match support, range, pace and recovery to your body.",
+              "image": "/images/health-fitness/02-silver/health-08/health08-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -72,29 +87,64 @@
       "paragraphs": [],
       "blocks": [
         {
-          "type": "ordered",
+          "type": "cards",
           "items": [
             {
               "title": "SUPPORT",
-              "text": "How much balance and body weight the move asks of you. Options include a wall, railing, sturdy chair, machine, walking aid, pool or a seated position. Use supports the way they’re meant to be used, and keep the area clear."
+              "text": "How much balance and body weight the move asks of you. Options include a wall, railing, sturdy chair, machine, walking aid, pool or a seated position. Use supports the way they’re meant to be used, and keep the area clear.",
+              "icon": "shield"
             },
             {
               "title": "RANGE",
-              "text": "How far a joint moves. A smaller, comfortable range can make a move suitable while your control builds. More range isn’t always better."
+              "text": "How far a joint moves. A smaller, comfortable range can make a move suitable while your control builds. More range isn’t always better.",
+              "icon": "route"
             },
             {
               "title": "PACE",
-              "text": "Changes both effort and control. Slower moves help your form. A brisker pace can raise the effort on your heart and lungs, as long as the move stays comfortable and steady."
+              "text": "Changes both effort and control. Slower moves help your form. A brisker pace can raise the effort on your heart and lungs, as long as the move stays comfortable and steady.",
+              "icon": "timer"
             },
             {
               "title": "RECOVERY",
-              "text": "The easier periods within a session and the time between sessions. One minute of activity followed by a rest is a real interval. Your body counts the work you finish, even if the calendar doesn’t call it boot camp."
+              "text": "The easier periods within a session and the time between sessions. One minute of activity followed by a rest is a real interval. Your body counts the work you finish, even if the calendar doesn’t call it boot camp.",
+              "icon": "heart"
             }
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Add support, shorten the range, slow the pace, or increase recovery. One clear change makes the result easier to judge."
+        }
+      ]
+    },
+    {
+      "id": "traffic",
+      "title": "Read the Traffic Lights",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "GREEN",
+              "text": "Normal warmth, faster breathing, manageable muscle effort and symptoms that settle back to your usual level. Keep going or repeat this dose.",
+              "icon": "activity"
+            },
+            {
+              "title": "YELLOW",
+              "text": "Your form changes, you feel unusually tired, a symptom flares noticeably or discomfort lasts longer than expected. Reduce the balance demand, range, pace, resistance or time. Check again before you progress.",
+              "icon": "alert"
+            },
+            {
+              "title": "RED",
+              "text": "Chest pressure or pain, fainting, severe or unusual shortness of breath, sudden nerve symptoms, suddenly being unable to put weight on a leg, a hot and swollen joint, or a serious fall. Stop. Get urgent or qualified medical care as needed.",
+              "icon": "lifebuoy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This section has no humour, because these warning signs need clear action."
         }
       ]
     },
@@ -187,6 +237,8 @@
           "text": "Miguel builds from the bike seat",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/health-fitness/02-silver/health-08/health08-image-3.webp",
+          "focus": 18,
           "paragraphs": [
             "Miguel, 57, lived in Halifax and wanted to get active again after a long break. He tried a running program, but his knees ached for days afterward. He figured his only options left were slow stretching or a pool membership across town.",
             "He almost gave up on exercise altogether. Then a staff member at his community centre asked if he’d tried the stationary bike. Miguel was skeptical, since it looked too easy to count. But he agreed to try one session before deciding.",
@@ -204,35 +256,7 @@
           "type": "transition",
           "text": "Change one thing at a time, and your joints will tell you what works.",
           "detail": "Tracking how you feel the next morning lets you build fitness steadily while keeping flare-ups rare and short.",
-          "extra": "Section 08 gives you a simple traffic-light check for every session."
-        }
-      ]
-    },
-    {
-      "id": "traffic",
-      "title": "Read the Traffic Lights",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "cards",
-          "items": [
-            {
-              "title": "GREEN",
-              "text": "Normal warmth, faster breathing, manageable muscle effort and symptoms that settle back to your usual level. Keep going or repeat this dose."
-            },
-            {
-              "title": "YELLOW",
-              "text": "Your form changes, you feel unusually tired, a symptom flares noticeably or discomfort lasts longer than expected. Reduce the balance demand, range, pace, resistance or time. Check again before you progress."
-            },
-            {
-              "title": "RED",
-              "text": "Chest pressure or pain, fainting, severe or unusual shortness of breath, sudden nerve symptoms, suddenly being unable to put weight on a leg, a hot and swollen joint, or a serious fall. Stop. Get urgent or qualified medical care as needed."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "This section has no humour, because these warning signs need clear action."
+          "extra": "Section 09 shows how to raise one feature at a time, and when to go back a step."
         }
       ]
     },
@@ -263,7 +287,7 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "More time, control or resistance can improve your fitness without adding jumping or running. Impact is an option, not a graduation ceremony."
         }
       ]

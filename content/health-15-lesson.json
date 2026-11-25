@@ -48,6 +48,21 @@
           "text": "Change the setup before you give up on an exercise. Height, support, stance and range can turn one move into several useful levels."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Not every push-up has to start on the floor.",
+              "text": "Not every push-up has to start on the floor.",
+              "image": "/images/health-fitness/03-gold/health-15/health15-image-1.webp"
+            },
+            {
+              "title": "Use support first, then change one control at a time.",
+              "text": "Use support first, then change one control at a time.",
+              "image": "/images/health-fitness/03-gold/health-15/health15-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -88,7 +103,7 @@
           "text": "Adjust one control at a time. If a chair rise is too hard, use a higher seat or your hands. When it gets easy, lower more slowly or use a slightly lower, sturdy seat. Fitness progress is often a small furniture adjustment wearing sensible shoes."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Write down which control you changed, so you know why the exercise got harder or easier."
         },
         {
@@ -154,56 +169,6 @@
       ]
     },
     {
-      "id": "story",
-      "title": "Marcus Finds His Correct Starting Level",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Kwame finds his real starting level",
-          "detail": "DEDICATED STORY",
-          "extra": "",
-          "paragraphs": [
-            "Kwame, 36, drove a delivery truck in Regina and saved a thirty-day push-up challenge on his phone. Day one asked for more floor push-ups than he could control. He forced out a few with his hips sagging, felt sore and embarrassed, and avoided the plan for a week. The calendar stayed extremely motivated on his behalf.",
-            "When the app sent him a “Don’t give up!” reminder, he had a choice. He could try day one again and hope his body had changed, or he could find a starting level he could do well. He chose the second.",
-            "He started over with countertop push-ups, chair rises, supported split squats, bridges and a raised plank against the counter. Twice a week, he wrote down the surface height, his range and his reps.",
-            "Once every rep came with steady breathing, he moved the push-up to a slightly lower surface: from the counter to the back of a sturdy couch. For chair rises, he slowed the lowering before trying a lower seat. Only one control changed at a time.",
-            "In week five, a coworker challenged him to a floor push-up contest on their lunch break. Kwame was tempted. He did three clean ones, stopped while his form was still good and laughed off the loss.",
-            "After eight weeks, he did his push-ups from a low step and carried groceries up to his third-floor apartment with fewer stops. He never finished the internet challenge. He built a routine he could keep going."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "“Push-up” is an incomplete note. Write down the surface height, range, tempo and reps."
-        },
-        {
-          "type": "transition",
-          "text": "Start at the right level, and progress takes care of itself.",
-          "detail": "Choosing a version you can do well, then changing one thing at a time, builds strength without the setbacks.",
-          "extra": "Section 07 helps you build a short session you can repeat."
-        }
-      ]
-    },
-    {
-      "id": "session",
-      "title": "Build a Repeatable Short Session",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Start with a few minutes of easy movement and practise the ranges you’ll use. Choose four or five patterns. Do one or more controlled sets, rest as needed and finish before your technique gets unreliable."
-        },
-        {
-          "type": "paragraph",
-          "text": "A simple session might include chair rises, countertop push-ups, supported split squats, bridges and core control. Add safe pulling when you have suitable equipment. Keep the same routine long enough to learn it."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bodyweight training builds strength, but it doesn’t replace cardio, balance practice, mobility, sleep or recovery. The lessons in this course work best as one toolkit, not separate plans competing for the same Tuesday evening."
-        }
-      ]
-    },
-    {
       "id": "safety",
       "title": "Read Symptoms and Adapt the Environment",
       "paragraphs": [],
@@ -232,6 +197,58 @@
         {
           "type": "spotlight",
           "text": "A useful set ends before your position, balance, breathing or range gets unreliable."
+        }
+      ]
+    },
+    {
+      "id": "session",
+      "title": "Build a Repeatable Short Session",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start with a few minutes of easy movement and practise the ranges you’ll use. Choose four or five patterns. Do one or more controlled sets, rest as needed and finish before your technique gets unreliable."
+        },
+        {
+          "type": "paragraph",
+          "text": "A simple session might include chair rises, countertop push-ups, supported split squats, bridges and core control. Add safe pulling when you have suitable equipment. Keep the same routine long enough to learn it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bodyweight training builds strength, but it doesn’t replace cardio, balance practice, mobility, sleep or recovery. The lessons in this course work best as one toolkit, not separate plans competing for the same Tuesday evening."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Kwame Finds His Real Starting Level",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Kwame finds his real starting level",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Kwame, 36, drove a delivery truck in Regina and saved a thirty-day push-up challenge on his phone. Day one asked for more floor push-ups than he could control. He forced out a few with his hips sagging, felt sore and embarrassed, and avoided the plan for a week. The calendar stayed extremely motivated on his behalf.",
+            "When the app sent him a “Don’t give up!” reminder, he had a choice. He could try day one again and hope his body had changed, or he could find a starting level he could do well. He chose the second.",
+            "He started over with countertop push-ups, chair rises, supported split squats, bridges and a raised plank against the counter. Twice a week, he wrote down the surface height, his range and his reps.",
+            "Once every rep came with steady breathing, he moved the push-up to a slightly lower surface: from the counter to the back of a sturdy couch. For chair rises, he slowed the lowering before trying a lower seat. Only one control changed at a time.",
+            "In week five, a coworker challenged him to a floor push-up contest on their lunch break. Kwame was tempted. He did three clean ones, stopped while his form was still good and laughed off the loss.",
+            "After eight weeks, he did his push-ups from a low step and carried groceries up to his third-floor apartment with fewer stops. He never finished the internet challenge. He built a routine he could keep going."
+          ],
+          "image": "/images/health-fitness/03-gold/health-15/health15-image-3.webp",
+          "focus": 66
+        },
+        {
+          "type": "spotlight",
+          "text": "“Push-up” is an incomplete note. Write down the surface height, range, tempo and reps."
+        },
+        {
+          "type": "transition",
+          "text": "Start at the right level, and progress takes care of itself.",
+          "detail": "Choosing a version you can do well, then changing one thing at a time, builds strength without the setbacks.",
+          "extra": "Section 09 shows where to find bodyweight training help across Canada."
         }
       ]
     },
@@ -296,7 +313,7 @@
               "text": ""
             },
             {
-              "title": "What changed Marcus's results?",
+              "title": "What changed Kwame's results?",
               "detail": "He chose controlled variations, recorded his setup, and progressed one feature at a time.",
               "text": ""
             },
@@ -327,7 +344,7 @@
           "type": "checkin"
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Skip medical details and symptoms in this form. Just record the plan."
         }
       ]

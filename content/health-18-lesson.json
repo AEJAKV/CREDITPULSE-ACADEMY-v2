@@ -18,7 +18,7 @@
           "type": "transition",
           "text": "Become a runner at your own pace.",
           "detail": "Planned walking breaks give you a clear way to control your effort and build running fitness without chasing anyone else’s speed.",
-          "extra": "Section 05 gives you a twenty-minute run/walk session to start with."
+          "extra": "Section 04 gives you a twenty-minute run/walk session to start with."
         }
       ]
     },
@@ -59,6 +59,21 @@
           "text": "Walking breaks belong in the plan. Put them on the timer before starting, so taking one is a choice you expected rather than a decision made under pressure."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A gentle jog can still feel hard at first.",
+              "text": "A gentle jog can still feel hard at first.",
+              "image": "/images/health-fitness/04-platinum/health-18/health18-image-1.webp"
+            },
+            {
+              "title": "Compare with your own recent sessions, not a leaderboard.",
+              "text": "Compare with your own recent sessions, not a leaderboard.",
+              "image": "/images/health-fitness/04-platinum/health-18/health18-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "Build around your week"
         },
@@ -71,7 +86,7 @@
           "text": "Write down your run and walk times, how the session felt and how you felt the next day. Compare with your own recent sessions, not a public leaderboard. Your watch can measure a route. It can’t see the tiring shift you just worked."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Track minutes before distance. A familiar fifteen-minute route is a clearer starting point than trying to match a distance a friend posted online. Many beginner run/walk programs take about 8 to 10 weeks to build up to 30 minutes of steady running, and slower is fine."
         },
         {
@@ -90,37 +105,6 @@
         {
           "type": "paragraph",
           "text": "Wear comfortable shoes that fit well and aren’t badly worn. Start on a familiar, level route with a clear surface before adding hills. New shoes, new surfaces and more running can each affect your lower legs, so don’t change them all at once."
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Fictional learning story: The corner bakery",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "The corner bakery",
-          "detail": "FICTIONAL LEARNING STORY",
-          "extra": "",
-          "paragraphs": [
-            "Darnell, 48, lived in Halifax and wanted to join his sister’s Saturday run/walk outings. Their route ended at the corner bakery, where they caught up before her weekend shift. He missed those talks, but her running pace felt out of reach.",
-            "One evening, a running app offered a five-kilometre challenge. Darnell signed up, then tried to run all the way to the harbour without a walking break. He arrived exhausted, turned around early and wondered if Saturday runs were the wrong goal.",
-            "His sister offered to meet him closer to home. Darnell still worried she would spend every outing waiting for him, and his work schedule left little time to practise. He had to choose: chase the app’s challenge, or build a session he could repeat.",
-            "He chose a short, level loop near his apartment and wrote walking breaks into the plan. On two separate days, he walked first, tried short gentle jogs and walked whenever the effort climbed. He noted which parts felt manageable and didn’t run on the days in between.",
-            "Then came a surprise. His sister was coming back from a busy month and wanted more walking herself. Their first Saturday outing became a shared run/walk, with a timer telling them when to walk. Darnell no longer had to wonder whether asking to walk would spoil the morning.",
-            "When heavy rain soaked their usual route, they met at an indoor track and did the easier session. Several outings later, Darnell had a routine he was happy to come back to, with no deadline to run farther. They still stopped at the bakery, where the conversation mattered more than any badge."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Choose a goal you control. “Try my planned session twice this week” is easier to act on than “keep up with everyone on Saturday.”"
-        },
-        {
-          "type": "transition",
-          "text": "Keep the reason that got you out the door.",
-          "detail": "A flexible plan protects the time you care about, whether that’s an outing with someone you love or a quiet break in your week.",
-          "extra": "Section 05 shows you how to adjust the session on any day."
         }
       ]
     },
@@ -190,6 +174,39 @@
         {
           "type": "spotlight",
           "text": "Insider tip: Write your easier plan beside the usual one. A paper note can hold both, without announcing that your fitness subscription expires at midnight."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: The corner bakery",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The corner bakery",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Darnell, 48, lived in Halifax and wanted to join his sister’s Saturday run/walk outings. Their route ended at the corner bakery, where they caught up before her weekend shift. He missed those talks, but her running pace felt out of reach.",
+            "One evening, a running app offered a five-kilometre challenge. Darnell signed up, then tried to run all the way to the harbour without a walking break. He arrived exhausted, turned around early and wondered if Saturday runs were the wrong goal.",
+            "His sister offered to meet him closer to home. Darnell still worried she would spend every outing waiting for him, and his work schedule left little time to practise. He had to choose: chase the app’s challenge, or build a session he could repeat.",
+            "He chose a short, level loop near his apartment and wrote walking breaks into the plan. On two separate days, he walked first, tried short gentle jogs and walked whenever the effort climbed. He noted which parts felt manageable and didn’t run on the days in between.",
+            "Then came a surprise. His sister was coming back from a busy month and wanted more walking herself. Their first Saturday outing became a shared run/walk, with a timer telling them when to walk. Darnell no longer had to wonder whether asking to walk would spoil the morning.",
+            "When heavy rain soaked their usual route, they met at an indoor track and did the easier session. Several outings later, Darnell had a routine he was happy to come back to, with no deadline to run farther. They still stopped at the bakery, where the conversation mattered more than any badge."
+          ],
+          "image": "/images/health-fitness/04-platinum/health-18/health18-image-3.webp",
+          "focus": 48
+        },
+        {
+          "type": "spotlight",
+          "text": "Choose a goal you control. “Try my planned session twice this week” is easier to act on than “keep up with everyone on Saturday.”"
+        },
+        {
+          "type": "transition",
+          "text": "Keep the reason that got you out the door.",
+          "detail": "A flexible plan protects the time you care about, whether that’s an outing with someone you love or a quiet break in your week.",
+          "extra": "Section 06 checks what stuck, and Section 07 helps you write your own plan."
         }
       ]
     },

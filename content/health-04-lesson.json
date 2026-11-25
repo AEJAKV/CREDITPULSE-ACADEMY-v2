@@ -48,6 +48,21 @@
           "text": "Travel to the gym at your likely workout time. A twelve-minute map estimate can become a forty-minute February opinion."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Screen first, then walk in with a plan.",
+              "text": "Screen first, then walk in with a plan.",
+              "image": "/images/health-fitness/01-starter/health-04/health04-image-1.webp"
+            },
+            {
+              "title": "Ask staff to show you the machine before you guess.",
+              "text": "Ask staff to show you the machine before you guess.",
+              "image": "/images/health-fitness/01-starter/health-04/health04-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -223,6 +238,8 @@
           "text": "Jordan’s twenty-five-minute first visit",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/health-fitness/01-starter/health-04/health04-image-3.webp",
+          "focus": 20,
           "paragraphs": [
             "Jordan, 47, joined a community recreation centre in Edmonton after years away from exercise. He expected his first workout to prove he belonged there. He had a plan: an hour, every machine, no breaks.",
             "At his free orientation, the trainer asked to see his plan. She smiled and asked him a question instead: what if the first visit was a rehearsal? Jordan felt a flash of pride. He could do the full hour. But he also remembered how his last attempt at fitness had ended, three years earlier, with a sore back and a cancelled membership. He agreed to try it her way.",

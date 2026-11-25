@@ -57,6 +57,21 @@
           "text": "Choose a first session that leaves you able to do ordinary life tomorrow. A plan earns points for being repeated, not for making stairs feel like a personal dispute."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Safety first: the right start fits the body you have.",
+              "text": "Safety first: the right start fits the body you have.",
+              "image": "/images/health-fitness/01-starter/health-01/health01-image-1.webp"
+            },
+            {
+              "title": "Small, steady sessions beat one heroic workout every time.",
+              "text": "Small, steady sessions beat one heroic workout every time.",
+              "image": "/images/health-fitness/01-starter/health-01/health01-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "Your baseline note"
         },
@@ -167,6 +182,8 @@
         {
           "type": "filecards",
           "text": "Your six-move starter circuit",
+          "image": "/images/health-fitness/01-starter/health-01/hero-image.webp",
+          "focus": 72,
           "items": [
             {
               "title": "SIT TO STAND",
@@ -271,6 +288,8 @@
           "text": "Marcus and the heroic first Tuesday",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/health-fitness/01-starter/health-01/health01-image-3.webp",
+          "focus": 30,
           "paragraphs": [
             "Marcus, 38, worked at a desk in Mississauga and played pickup basketball when his knees allowed. His son had just joined a youth league, and Marcus wanted to keep up in the driveway. He decided his comeback needed urgency.",
             "On Tuesday he ran hard, did five rounds from an online workout and finished with burpees, because the video host seemed personally offended by rest. By Thursday, he could barely get down the stairs. When his son asked him to shoot hoops, Marcus said, “Maybe next week.”",

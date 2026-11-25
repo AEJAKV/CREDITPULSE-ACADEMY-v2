@@ -48,6 +48,21 @@
           "text": "Decide whether the task asks you to resist bending, resist twisting, pass force, balance or change position."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Core drills still need a safety screen first.",
+              "text": "Core drills still need a safety screen first.",
+              "image": "/images/health-fitness/03-gold/health-13/health13-image-1.webp"
+            },
+            {
+              "title": "Follow what the screen says before you train your core.",
+              "text": "Follow what the screen says before you train your core.",
+              "image": "/images/health-fitness/03-gold/health-13/health13-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -135,7 +150,7 @@
           "text": "Use positions that fit your body and experience. Kneeling, standing, seated, wall-supported or raised options can replace floor work."
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Add one new direction while keeping the setup familiar."
         }
       ]
@@ -169,56 +184,6 @@
       ]
     },
     {
-      "id": "story",
-      "title": "Andre Builds Strength for the Laundry Stairs",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Andre builds strength for the laundry stairs",
-          "detail": "DEDICATED STORY",
-          "extra": "",
-          "paragraphs": [
-            "Andre, 41, lived in a Halifax duplex with the laundry in the basement. He wanted to carry a full basket down the stairs without wobbling, so he had been holding long planks, since they showed up on every exercise list he found online. His plank time improved. The basket stayed unimpressed.",
-            "One Sunday, he caught himself leaning hard to one side halfway down the stairs, with no free hand for the railing. It frightened him. He could keep adding plank time, or he could investigate what the staircase was demanding of his body. He booked a session with a trainer at his rec centre.",
-            "They tested the real task with a light basket and the railing in reach. Andre leaned and rushed when the basket blocked his view of his feet. The trainer had him practise controlled step-downs, carries with a load at one side and a standing band press-out. She also told him to split big loads while he learned.",
-            "Twice a week, he progressed one thing: a little more weight, one more step or less lean to the side. He kept the railing in reach and never practised on the stairs when he was tired.",
-            "In week four, he felt strong and tried a full basket on a busy evening. He noticed himself rushing, stopped, set the basket down on the landing, divided the laundry into two smaller loads and made two separate trips. It was the right call.",
-            "After six weeks, Andre carried a full basket down the stairs with steady steps and a hand free for the rail. The plank wasn’t useless. It just needed coworkers."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "A floor drill builds a skill. A carry, step, reach or lift teaches that skill where life uses it."
-        },
-        {
-          "type": "transition",
-          "text": "Train your core for the task, and the task gets easier.",
-          "detail": "Practising the real movement, with one change at a time, builds control you can count on when it matters.",
-          "extra": "Section 08 shows how to build a short core sequence into your workouts."
-        }
-      ]
-    },
-    {
-      "id": "sequence",
-      "title": "Build a Short Core Sequence",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Start with one breathing-and-bracing practice. Add one controlled arm or leg move and one standing or carrying task. Two or three focused exercises fit easily into a full-body workout."
-        },
-        {
-          "type": "paragraph",
-          "text": "Train the whole body too. Squats, hinges, pushes, pulls, steps and carries already ask your core to work. Separate core exercises can target a specific need, but they don’t need to take over your calendar."
-        },
-        {
-          "type": "paragraph",
-          "text": "Allow for recovery, and repeat the same sequence long enough to learn it. Variety helps when it solves a problem, not when your routine becomes a weekly scavenger hunt."
-        }
-      ]
-    },
-    {
       "id": "symptoms",
       "title": "Read Symptoms and Choose Support",
       "paragraphs": [],
@@ -243,6 +208,58 @@
         {
           "type": "spotlight",
           "text": "Write down both the drill and the daily task it’s meant to support."
+        }
+      ]
+    },
+    {
+      "id": "sequence",
+      "title": "Build a Short Core Sequence",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start with one breathing-and-bracing practice. Add one controlled arm or leg move and one standing or carrying task. Two or three focused exercises fit easily into a full-body workout."
+        },
+        {
+          "type": "paragraph",
+          "text": "Train the whole body too. Squats, hinges, pushes, pulls, steps and carries already ask your core to work. Separate core exercises can target a specific need, but they don’t need to take over your calendar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Allow for recovery, and repeat the same sequence long enough to learn it. Variety helps when it solves a problem, not when your routine becomes a weekly scavenger hunt."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Andre Builds Strength for the Laundry Stairs",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Andre builds strength for the laundry stairs",
+          "detail": "DEDICATED STORY",
+          "extra": "",
+          "paragraphs": [
+            "Andre, 41, lived in a Halifax duplex with the laundry in the basement. He wanted to carry a full basket down the stairs without wobbling, so he had been holding long planks, since they showed up on every exercise list he found online. His plank time improved. The basket stayed unimpressed.",
+            "One Sunday, he caught himself leaning hard to one side halfway down the stairs, with no free hand for the railing. It frightened him. He could keep adding plank time, or he could investigate what the staircase was demanding of his body. He booked a session with a trainer at his rec centre.",
+            "They tested the real task with a light basket and the railing in reach. Andre leaned and rushed when the basket blocked his view of his feet. The trainer had him practise controlled step-downs, carries with a load at one side and a standing band press-out. She also told him to split big loads while he learned.",
+            "Twice a week, he progressed one thing: a little more weight, one more step or less lean to the side. He kept the railing in reach and never practised on the stairs when he was tired.",
+            "In week four, he felt strong and tried a full basket on a busy evening. He noticed himself rushing, stopped, set the basket down on the landing, divided the laundry into two smaller loads and made two separate trips. It was the right call.",
+            "After six weeks, Andre carried a full basket down the stairs with steady steps and a hand free for the rail. The plank wasn’t useless. It just needed coworkers."
+          ],
+          "image": "/images/health-fitness/03-gold/health-13/health13-image-3.webp",
+          "focus": 47
+        },
+        {
+          "type": "spotlight",
+          "text": "A floor drill builds a skill. A carry, step, reach or lift teaches that skill where life uses it."
+        },
+        {
+          "type": "transition",
+          "text": "Train your core for the task, and the task gets easier.",
+          "detail": "Practising the real movement, with one change at a time, builds control you can count on when it matters.",
+          "extra": "Section 10 shows where to find core-training help across Canada."
         }
       ]
     },
@@ -338,7 +355,7 @@
           "type": "checkin"
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Skip any medical details or symptoms in this form. Just the plan."
         }
       ]

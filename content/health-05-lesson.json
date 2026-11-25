@@ -48,6 +48,21 @@
           "text": "Connect one exercise to one real activity. Chair rises support standing; rows support pulling; carries support moving objects. Purpose makes progress easier to recognize."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Screen first, then build the program in layers.",
+              "text": "Screen first, then build the program in layers.",
+              "image": "/images/health-fitness/01-starter/health-05/health05-image-1.webp"
+            },
+            {
+              "title": "Sharp pain or faintness means stop and get advice.",
+              "text": "Sharp pain or faintness means stop and get advice.",
+              "image": "/images/health-fitness/01-starter/health-05/health05-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -78,6 +93,8 @@
         {
           "type": "filecards",
           "text": "Cover the body with movement families",
+          "image": "/images/health-fitness/01-starter/health-05/hero-image.webp",
+          "focus": 55,
           "items": [
             {
               "title": "SQUAT OR RISE",
@@ -271,6 +288,8 @@
           "text": "Priya stops changing the plan",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/health-fitness/01-starter/health-05/health05-image-3.webp",
+          "focus": 20,
           "paragraphs": [
             "Priya, 52, lived in Surrey and wanted stairs and garden work to feel easier. Every week she tried a different online strength class. Each one was full of energy, but the moves kept changing, and after two months she couldn’t tell whether anything was improving.",
             "One spring morning, she struggled to lift a bag of soil into the wheelbarrow. She had a choice. She could try yet another exciting new class. Or she could pick a few moves and stick with them long enough to see what happened. She chose the second.",

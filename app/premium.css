@@ -8430,3 +8430,25 @@ a.is-current .video-mini-thumb {
     padding: 16px;
   }
 }
+.video-placeholder {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  color: var(--green);
+}
+.video-placeholder strong {
+  color: #d7e4de;
+  font-size: 15px;
+}
+.video-placeholder .video-thumb-num {
+  color: var(--ink);
+  font-size: 110px;
+  top: 10px;
+  left: 24px;
+  bottom: auto;
+}

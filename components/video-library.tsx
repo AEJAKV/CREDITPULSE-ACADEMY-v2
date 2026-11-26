@@ -71,8 +71,7 @@ export function VideoLibrary({
           <div className="eyebrow">WATCH &amp; LEARN · {cards.length} SHORT VIDEOS · 6 LEVELS</div>
           <h1>Money &amp; Mind video series</h1>
           <p>
-            Short videos on budgeting, debt, saving and how your brain makes money decisions under
-            pressure. New levels open as your membership tier grows.
+            Short videos for every membership level. New levels open as your membership tier grows.
           </p>
         </div>
         <div className="video-progress-card">
@@ -345,13 +344,21 @@ export function VideoPlayer({
               <video ref={ref} src={video.src} controls playsInline preload="metadata">
                 <track kind="captions" />
               </video>
-            ) : (
+            ) : video.driveId ? (
               <iframe
                 src={`https://drive.google.com/file/d/${video.driveId}/preview`}
                 title={video.title}
                 allow="autoplay; fullscreen"
                 allowFullScreen
               />
+            ) : (
+              <div className="video-placeholder">
+                <span className="video-thumb-num" aria-hidden="true">
+                  {pad(video.number)}
+                </span>
+                <Play size={32} aria-hidden="true" />
+                <strong>Video coming soon</strong>
+              </div>
             )}
           </div>
 

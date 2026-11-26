@@ -136,7 +136,7 @@ export type Video = {
   tier: Tier;
   /** Direct video file URL (e.g. Vercel Blob). Preferred: enables progress tracking. */
   src: string;
-  /** Google Drive file ID, used as an embedded fallback while `src` is empty. */
+  /** Optional Google Drive file ID, embedded while `src` is empty. Leave both empty for a placeholder. */
   driveId: string;
 };
 export type Account = {

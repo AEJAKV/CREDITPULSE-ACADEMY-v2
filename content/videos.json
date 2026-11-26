@@ -2,158 +2,158 @@
   "title": "Money & Mind video series",
   "levels": [
     {
-      "theme": "Take control",
-      "description": "Why a budget gives you freedom, how to build one with paper and pencil, and which debts help or hurt."
+      "theme": "Level theme",
+      "description": "Level description goes here."
     },
     {
-      "theme": "Spot the warning signs",
-      "description": "Catch the signs of too much debt early, and start saving in small, steady amounts."
+      "theme": "Level theme",
+      "description": "Level description goes here."
     },
     {
-      "theme": "Protect your progress",
-      "description": "Keep money away from temptation, save without a complicated budget, and sleep for clearer thinking."
+      "theme": "Level theme",
+      "description": "Level description goes here."
     },
     {
-      "theme": "Clear head, better choices",
-      "description": "How stress and mental overload cloud judgment, and why a pause leads to better decisions."
+      "theme": "Level theme",
+      "description": "Level description goes here."
     },
     {
-      "theme": "Decisions under pressure",
-      "description": "What happens in your brain during a money emergency, and why emotion pushes you to act fast."
+      "theme": "Level theme",
+      "description": "Level description goes here."
     },
     {
-      "theme": "Think before you act",
-      "description": "How time pressure shrinks your options, and how your brain weighs risk before deciding."
+      "theme": "Level theme",
+      "description": "Level description goes here."
     }
   ],
   "videos": [
     {
       "id": "video-01",
       "number": 1,
-      "title": "Budget: Control and Financial Freedom",
+      "title": "Video 01 title",
       "tier": 0,
       "src": "",
-      "driveId": "1xuNPswVixZQHQ8UUIJrqQaCKpIgavJWi"
+      "driveId": ""
     },
     {
       "id": "video-02",
       "number": 2,
-      "title": "Simplified Budget: Paper and Pencil",
+      "title": "Video 02 title",
       "tier": 0,
       "src": "",
-      "driveId": "15dpglSyZ8lIiVA6sCuEVoVZiVCcR11Tj"
+      "driveId": ""
     },
     {
       "id": "video-03",
       "number": 3,
-      "title": "Healthy vs Toxic Debts: Understanding",
+      "title": "Video 03 title",
       "tier": 0,
       "src": "",
-      "driveId": "1ljNYENVYkNUi3oFi245uFKIKcgcSQXP8"
+      "driveId": ""
     },
     {
       "id": "video-04",
       "number": 4,
-      "title": "Detecting Signs of Overindebtedness",
+      "title": "Video 04 title",
       "tier": 1,
       "src": "",
-      "driveId": "19rXrTdfgQqg-JoydbvO_USQNnkMynGpm"
+      "driveId": ""
     },
     {
       "id": "video-05",
       "number": 5,
-      "title": "Saving Little by Little: Start Now",
+      "title": "Video 05 title",
       "tier": 1,
       "src": "",
-      "driveId": "1NzfKA9ON-MgVWzt_FaALQsJe5WI7gURC"
+      "driveId": ""
     },
     {
       "id": "video-06",
       "number": 6,
-      "title": "Build Your Mini Emergency Fund",
+      "title": "Video 06 title",
       "tier": 1,
       "src": "",
-      "driveId": "1n6goTJXQYTWjN-wFelIDF2a5bIlm-EH9"
+      "driveId": ""
     },
     {
       "id": "video-07",
       "number": 7,
-      "title": "Keep Your Money Away from Temptations",
+      "title": "Video 07 title",
       "tier": 2,
       "src": "",
-      "driveId": "1bfOvlImsWsFpb251FW3D0VSx3HDE89T-"
+      "driveId": ""
     },
     {
       "id": "video-08",
       "number": 8,
-      "title": "Save Without a Complicated Budget",
+      "title": "Video 08 title",
       "tier": 2,
       "src": "",
-      "driveId": "1HH6YR18qAmkKlZeZL_tlUaZTQLfKcFt4"
+      "driveId": ""
     },
     {
       "id": "video-09",
       "number": 9,
-      "title": "Restorative Sleep: Clearer Thinking",
+      "title": "Video 09 title",
       "tier": 2,
       "src": "",
-      "driveId": "1ewp_Kl6v1gneWLgGo5c0YPydkXkkgTaQ"
+      "driveId": ""
     },
     {
       "id": "video-10",
       "number": 10,
-      "title": "Stress and Decisions: The Brain Speeds Up",
+      "title": "Video 10 title",
       "tier": 3,
       "src": "",
-      "driveId": "10Vus4euo93AFDVCBrt2Zz5q5p6yiJP95"
+      "driveId": ""
     },
     {
       "id": "video-11",
       "number": 11,
-      "title": "Mental Overload: Judgment Becomes Clouded",
+      "title": "Video 11 title",
       "tier": 3,
       "src": "",
-      "driveId": "1n-lsXQQV1nQJQ5iXlFk1s3JkZqQp6O2M"
+      "driveId": ""
     },
     {
       "id": "video-12",
       "number": 12,
-      "title": "Why Slowing Down Helps You Think Better",
+      "title": "Video 12 title",
       "tier": 3,
       "src": "",
-      "driveId": "1lCcEeZA4JXoDFIJc_8MaT2fXGSUc9Sgp"
+      "driveId": ""
     },
     {
       "id": "video-13",
       "number": 13,
-      "title": "How the Brain Decides in an Emergency",
+      "title": "Video 13 title",
       "tier": 4,
       "src": "",
-      "driveId": "1Htej-ZnNhkYVz8JjsswHpMpn7FnlsRAC"
+      "driveId": ""
     },
     {
       "id": "video-14",
       "number": 14,
-      "title": "Why Emotion Leads to Impulsivity",
+      "title": "Video 14 title",
       "tier": 4,
       "src": "",
-      "driveId": "192iP27_A9rihsDCyRTzf-NimN1c0nICl"
+      "driveId": ""
     },
     {
       "id": "video-15",
       "number": 15,
-      "title": "Time Pressure: The Mind Shortens Everything",
+      "title": "Video 15 title",
       "tier": 5,
       "src": "",
-      "driveId": "1wgPYm1dfqqo89w_nrIS6nsvKHIaRUaJV"
+      "driveId": ""
     },
     {
       "id": "video-16",
       "number": 16,
-      "title": "The Brain Weighs the Risks Before Deciding",
+      "title": "Video 16 title",
       "tier": 5,
       "src": "",
-      "driveId": "1iVvNwPwlq0WwDf79N5NZYRuSNNd713Lc"
+      "driveId": ""
     }
   ]
 }

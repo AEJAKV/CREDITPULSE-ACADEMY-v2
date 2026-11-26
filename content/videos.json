@@ -1,0 +1,159 @@
+{
+  "title": "Money & Mind video series",
+  "levels": [
+    {
+      "theme": "Take control",
+      "description": "Why a budget gives you freedom, how to build one with paper and pencil, and which debts help or hurt."
+    },
+    {
+      "theme": "Spot the warning signs",
+      "description": "Catch the signs of too much debt early, and start saving in small, steady amounts."
+    },
+    {
+      "theme": "Protect your progress",
+      "description": "Keep money away from temptation, save without a complicated budget, and sleep for clearer thinking."
+    },
+    {
+      "theme": "Clear head, better choices",
+      "description": "How stress and mental overload cloud judgment, and why a pause leads to better decisions."
+    },
+    {
+      "theme": "Decisions under pressure",
+      "description": "What happens in your brain during a money emergency, and why emotion pushes you to act fast."
+    },
+    {
+      "theme": "Think before you act",
+      "description": "How time pressure shrinks your options, and how your brain weighs risk before deciding."
+    }
+  ],
+  "videos": [
+    {
+      "id": "video-01",
+      "number": 1,
+      "title": "Budget: Control and Financial Freedom",
+      "tier": 0,
+      "src": "",
+      "driveId": "1xuNPswVixZQHQ8UUIJrqQaCKpIgavJWi"
+    },
+    {
+      "id": "video-02",
+      "number": 2,
+      "title": "Simplified Budget: Paper and Pencil",
+      "tier": 0,
+      "src": "",
+      "driveId": "15dpglSyZ8lIiVA6sCuEVoVZiVCcR11Tj"
+    },
+    {
+      "id": "video-03",
+      "number": 3,
+      "title": "Healthy vs Toxic Debts: Understanding",
+      "tier": 0,
+      "src": "",
+      "driveId": "1ljNYENVYkNUi3oFi245uFKIKcgcSQXP8"
+    },
+    {
+      "id": "video-04",
+      "number": 4,
+      "title": "Detecting Signs of Overindebtedness",
+      "tier": 1,
+      "src": "",
+      "driveId": "19rXrTdfgQqg-JoydbvO_USQNnkMynGpm"
+    },
+    {
+      "id": "video-05",
+      "number": 5,
+      "title": "Saving Little by Little: Start Now",
+      "tier": 1,
+      "src": "",
+      "driveId": "1NzfKA9ON-MgVWzt_FaALQsJe5WI7gURC"
+    },
+    {
+      "id": "video-06",
+      "number": 6,
+      "title": "Build Your Mini Emergency Fund",
+      "tier": 1,
+      "src": "",
+      "driveId": "1n6goTJXQYTWjN-wFelIDF2a5bIlm-EH9"
+    },
+    {
+      "id": "video-07",
+      "number": 7,
+      "title": "Keep Your Money Away from Temptations",
+      "tier": 2,
+      "src": "",
+      "driveId": "1bfOvlImsWsFpb251FW3D0VSx3HDE89T-"
+    },
+    {
+      "id": "video-08",
+      "number": 8,
+      "title": "Save Without a Complicated Budget",
+      "tier": 2,
+      "src": "",
+      "driveId": "1HH6YR18qAmkKlZeZL_tlUaZTQLfKcFt4"
+    },
+    {
+      "id": "video-09",
+      "number": 9,
+      "title": "Restorative Sleep: Clearer Thinking",
+      "tier": 2,
+      "src": "",
+      "driveId": "1ewp_Kl6v1gneWLgGo5c0YPydkXkkgTaQ"
+    },
+    {
+      "id": "video-10",
+      "number": 10,
+      "title": "Stress and Decisions: The Brain Speeds Up",
+      "tier": 3,
+      "src": "",
+      "driveId": "10Vus4euo93AFDVCBrt2Zz5q5p6yiJP95"
+    },
+    {
+      "id": "video-11",
+      "number": 11,
+      "title": "Mental Overload: Judgment Becomes Clouded",
+      "tier": 3,
+      "src": "",
+      "driveId": "1n-lsXQQV1nQJQ5iXlFk1s3JkZqQp6O2M"
+    },
+    {
+      "id": "video-12",
+      "number": 12,
+      "title": "Why Slowing Down Helps You Think Better",
+      "tier": 3,
+      "src": "",
+      "driveId": "1lCcEeZA4JXoDFIJc_8MaT2fXGSUc9Sgp"
+    },
+    {
+      "id": "video-13",
+      "number": 13,
+      "title": "How the Brain Decides in an Emergency",
+      "tier": 4,
+      "src": "",
+      "driveId": "1Htej-ZnNhkYVz8JjsswHpMpn7FnlsRAC"
+    },
+    {
+      "id": "video-14",
+      "number": 14,
+      "title": "Why Emotion Leads to Impulsivity",
+      "tier": 4,
+      "src": "",
+      "driveId": "192iP27_A9rihsDCyRTzf-NimN1c0nICl"
+    },
+    {
+      "id": "video-15",
+      "number": 15,
+      "title": "Time Pressure: The Mind Shortens Everything",
+      "tier": 5,
+      "src": "",
+      "driveId": "1wgPYm1dfqqo89w_nrIS6nsvKHIaRUaJV"
+    },
+    {
+      "id": "video-16",
+      "number": 16,
+      "title": "The Brain Weighs the Risks Before Deciding",
+      "tier": 5,
+      "src": "",
+      "driveId": "1iVvNwPwlq0WwDf79N5NZYRuSNNd713Lc"
+    }
+  ]
+}

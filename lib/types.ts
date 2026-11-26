@@ -122,6 +122,22 @@ export type MemberState = {
   enrollments: Record<string, Enrollment>;
   offers: Offer[];
   onboardingComplete: boolean;
+  videos?: VideoState;
+};
+export type VideoState = {
+  watched: string[];
+  progress: Record<string, number>;
+  takeaways: Record<string, string>;
+};
+export type Video = {
+  id: string;
+  number: number;
+  title: string;
+  tier: Tier;
+  /** Direct video file URL (e.g. Vercel Blob). Preferred: enables progress tracking. */
+  src: string;
+  /** Google Drive file ID, used as an embedded fallback while `src` is empty. */
+  driveId: string;
 };
 export type Account = {
   id: string;

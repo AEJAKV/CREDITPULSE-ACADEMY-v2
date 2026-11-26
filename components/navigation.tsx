@@ -13,6 +13,7 @@ import {
   X,
   ShieldCheck,
   Inbox,
+  PlayCircle,
 } from 'lucide-react';
 import { Logo, TierBadge } from './ui';
 import { TierMedal } from './visuals';
@@ -80,6 +81,7 @@ export function Navigation({
     : [
         { href: '/dashboard', text: 'My learning', icon: LayoutDashboard },
         { href: '/courses', text: 'Course library', icon: Library },
+        { href: '/videos', text: 'Video Library', icon: PlayCircle },
         { href: '/savings', text: 'Savings Book', icon: BookOpen },
       ];
   const content = (

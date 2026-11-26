@@ -6,6 +6,7 @@ import { requireAccount } from '@/lib/auth';
 import { getSettings } from '@/lib/store';
 import { getCourse, tiers, segmentNames, segmentComplete } from '@/lib/catalog';
 import { PrintButton } from '@/components/forms';
+import { getVideo, videoState } from '@/lib/videos';
 export const metadata = { title: 'Master Savings Book' };
 export default async function Savings() {
   const user = await requireAccount(),
@@ -75,6 +76,26 @@ export default async function Savings() {
           </section>
         ))}
       </div>
+      {Object.keys(videoState(user.state).takeaways).length > 0 && (
+        <section className="saved-lessons">
+          <h2>From the Money &amp; Mind videos</h2>
+          {Object.entries(videoState(user.state).takeaways).map(([id, text]) => {
+            const video = getVideo(id);
+            return (
+              video && (
+                <div className="saved-action" key={id}>
+                  <strong>
+                    <Link href={`/videos/${id}`}>
+                      Video {video.number}: {video.title}
+                    </Link>
+                  </strong>
+                  <p>{text}</p>
+                </div>
+              )
+            );
+          })}
+        </section>
+      )}
       <section className="saved-lessons">
         <h2>Your saved lessons</h2>
         {enrollment.saved.length ? (

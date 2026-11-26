@@ -117,6 +117,21 @@
           "text": "For children, keep consent, scheduling and payment with a parent or guardian. Agree on recording, messaging, missed sessions and who gets progress updates."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Fix the one habit that costs the marks.",
+              "text": "Fix the one habit that costs the marks.",
+              "image": "/images/income-business/01-starter/income-02/income02-image-1.webp"
+            },
+            {
+              "title": "One subject, one promise, one clear result.",
+              "text": "One subject, one promise, one clear result.",
+              "image": "/images/income-business/01-starter/income-02/income02-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -142,6 +157,8 @@
           "text": "Meet Eli",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/income-business/01-starter/income-02/income02-image-3.webp",
+          "focus": 28,
           "paragraphs": [
             "Eli Tremblay starts tutoring high school math online from Moncton. His goal is ten paying students by September. His first ad offers calculus, chemistry, essay writing and “general academic confidence.” It sounds impressive, and slightly like four businesses sharing one trench coat.",
             "His first student is Sophie, in Grade 9. Eli prepares a full hour of advanced equations to show what he can do.",

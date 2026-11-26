@@ -1,8 +1,8 @@
 {
   "title": "Stress Management",
-  "summary": "Name the demand → Pause → One next step → Ask for help",
-  "subtitle": "Make room to respond when daily demands pile up.",
-  "minutes": 30,
+  "summary": "Name the demand → Do the load maths → Pause → Ask for a specific change",
+  "subtitle": "Measure the demand before you blame your coping, then pause and ask for what would change it.",
+  "minutes": 45,
   "published": true,
   "sections": [
     {
@@ -15,25 +15,52 @@
           "text": "A calendar can announce three urgent meetings without offering three extra versions of you. When demands pile up, pause to notice what is happening and choose a workable next step."
         },
         {
+          "type": "paragraph",
+          "text": "You’ve spent this course building a body that can handle more. Stress is the one demand that doesn’t care how many push-ups you can do. It shows up as tight shoulders, a short temper and the same email read four times. It can also quietly undo your sleep and your movement plan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here’s the twist. Most stress advice works on you: breathe slower, think calmer, try harder. That helps when the problem is your reaction. But when the work is simply bigger than the hours, no amount of calm will make it fit. So this lesson measures the demand first. Then you’ll know whether you need a pause, a request or both."
+        },
+        {
           "type": "transition",
           "text": "Handle pressure with a clearer head.",
           "detail": "Naming the demand helps you choose a useful response, so you can work on one next step without carrying everything around you.",
-          "extra": "Section 03 shows you how to match the tool to what you need."
+          "extra": "Section 03 shows you how to do the load maths before reaching for a coping tool."
         }
       ]
     },
     {
       "id": "response",
-      "title": "Understand the response",
+      "title": "Know which kind of stress you’re facing",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Stress is your body and mind responding to a demand or pressure. It can show up as tense shoulders, worry or trouble focusing. A short burst of stress can even help you rise to a challenge."
+          "text": "Stress is your body and mind responding to a demand or pressure. It can show up as tense shoulders, worry or trouble focusing. A short burst of stress can even help you rise to a challenge, like a presentation that sharpens your attention for an hour."
         },
         {
           "type": "paragraph",
           "text": "When pressure keeps coming back, your usual rest may not feel like enough. Notice changes in how you feel or how you manage daily tasks, instead of trying to prove your situation is stressful enough to count."
+        },
+        {
+          "type": "spotlight",
+          "text": "Name the demand in plain words before you judge your reaction. “Two people need the same report today” is a problem you can work on. “I can’t cope” isn’t."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Short pressure can sharpen you. Constant pressure wears you down.",
+              "text": "Short pressure can sharpen you. Constant pressure wears you down.",
+              "image": "/images/health-fitness/06-elite/health-28/health28-image-1.webp"
+            },
+            {
+              "title": "When pressure keeps coming back, change the demand, not just you.",
+              "text": "When pressure keeps coming back, change the demand, not just you.",
+              "image": "/images/health-fitness/06-elite/health-28/health28-image-2.webp"
+            }
+          ]
         },
         {
           "type": "paragraph",
@@ -42,29 +69,100 @@
         {
           "type": "paragraph",
           "text": "This lesson teaches everyday coping, not diagnosis or treatment. Talk to a care provider if ongoing stress disrupts your sleep or daily life. Get medical help for severe symptoms you can’t explain, instead of assuming they’re stress."
-        },
-        {
-          "type": "spotlight",
-          "text": "Help is available any time. If you’re thinking about suicide or worried about someone, call or text 9-8-8, the Suicide Crisis Helpline, any time, day or night. For local services like housing, food or counselling, call 2-1-1. Indigenous people can reach the Hope for Wellness Helpline at 1-855-242-3310, and young people can call Kids Help Phone at 1-800-668-6868 or text 686868."
         }
       ]
     },
     {
-      "id": "tool",
-      "title": "Match the tool to the need",
+      "id": "load",
+      "title": "Do the load maths first",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Start by naming the situation in plain words: “Two people need the same report today.” Then notice your response, such as rereading the same email, without treating it as a medical diagnosis."
-        },
-        {
-          "type": "heading",
-          "text": "Steady your attention"
+          "text": "Before you reach for a coping tool, check whether the work can physically fit. List what’s due, guess how long each piece takes and compare it with the hours you actually have left today. Rough guesses are fine. You’re looking for the size of the gap, not a perfect timesheet."
         },
         {
           "type": "paragraph",
-          "text": "Grounding means bringing your attention back to what’s around you right now. With your eyes open, notice the chair holding you up and find three ordinary objects nearby. There’s no need to shut out the room."
+          "text": "Hours needed − hours available = the gap. Hours needed ÷ hours available = your load."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here’s a worked example. A report needs about 3 hours, and covering the front desk needs 2. You have 3 hours 30 minutes left in the workday. 3 + 2 = 5 hours needed. 5 − 3.5 = 1 hour 30 minutes over, and 5 ÷ 3.5 is a load of about 143%. No breathing exercise will find that extra hour and a half. A priority conversation might."
+        },
+        {
+          "type": "loadcheck",
+          "text": "Check the load",
+          "detail": "INTERACTIVE STRESS LAB",
+          "extra": "Enter up to three tasks and the hours you have. The panel shows whether it fits, and what to do next.",
+          "items": [
+            {
+              "title": "Report and desk",
+              "text": "",
+              "amount": "3.5",
+              "detail": "3,2,"
+            },
+            {
+              "title": "Anika’s Tuesday",
+              "text": "",
+              "amount": "1",
+              "detail": "1,1,"
+            },
+            {
+              "title": "A normal afternoon",
+              "text": "",
+              "amount": "4",
+              "detail": "1.5,1,0.5"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the result in three bands. Up to about 85% usually fits, so a short pause and a clear start will do. Between 85% and 100% is tight: protect a small buffer, because something always takes longer. Over 100% isn’t a coping problem. It’s a planning problem, and it needs someone to choose what comes first."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“If I relax properly, the source of stress will disappear.”",
+              "text": "A pause may help you respond, but workload, debt and housing problems often need practical changes and outside help."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pause",
+      "title": "Steady your attention",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Whether the load fits or not, a short pause helps you think before you act. It won’t fix the demand, but it can stop you from rereading the same email while the clock runs."
+        },
+        {
+          "type": "split",
+          "text": "The 60-second reset",
+          "paragraphs": [
+            "Grounding means bringing your attention back to what’s around you right now. With your eyes open, notice the chair holding you up and find three ordinary objects nearby. There’s no need to shut out the room.",
+            "You can also let your breathing settle at a comfortable pace while you sit with support. Don’t hold your breath or force deep or fast breaths, and stop if it makes you dizzy or more upset."
+          ],
+          "items": [
+            {
+              "title": "Name the demand",
+              "text": "",
+              "icon": "file"
+            },
+            {
+              "title": "Notice the room",
+              "text": "",
+              "icon": "gauge"
+            },
+            {
+              "title": "Choose one piece",
+              "text": "",
+              "icon": "shield"
+            }
+          ]
         },
         {
           "type": "spotlight",
@@ -72,15 +170,18 @@
         },
         {
           "type": "paragraph",
-          "text": "You can also let your breathing settle at a comfortable pace while you sit with support. Don’t hold your breath or force deep or fast breaths, and stop if it makes you dizzy or more upset."
-        },
-        {
-          "type": "heading",
-          "text": "Work on one piece"
-        },
+          "text": "Sleep, enjoyable activities and manageable movement can help you cope day to day. Regular physical activity is one of the best-studied ways to ease stress and low mood. But none of these can replace safe working conditions, enough money or care for a health problem."
+        }
+      ]
+    },
+    {
+      "id": "request",
+      "title": "Turn the gap into a request",
+      "paragraphs": [],
+      "blocks": [
         {
           "type": "paragraph",
-          "text": "After the pause, separate what you can act on from what needs help or time. For the report problem, one step might be asking which deadline matters most, instead of trying to finish both at once."
+          "text": "After the pause, separate what you can act on from what needs help or time. If the load check showed a gap, your next step is a request, not more effort. Bring the numbers. “That’s five hours of work and three and a half hours left” is easier to say yes to than “I’m overwhelmed.”"
         },
         {
           "type": "spotlight",
@@ -91,17 +192,71 @@
           "text": "Support might come from someone you trust, a supervisor or a community service that fits the problem. Many workplaces also offer a free, confidential employee assistance program (EAP). If a conversation feels unsafe, find a safer route to support instead of forcing a face-to-face confrontation."
         },
         {
+          "type": "paragraph",
+          "text": "Outside work, the same idea holds. For a delayed repair, a next step could be gathering your earlier messages and asking for an update. The pause won’t make the repair happen, but it can help you prepare a clear request."
+        },
+        {
           "type": "myths",
           "items": [
             {
-              "title": "“If I relax properly, the source of stress will disappear.”",
-              "text": "A pause may help you respond, but workload, debt and housing problems often need practical changes and outside help."
+              "title": "“Needing help means my coping skills failed.”",
+              "text": "A demand can be bigger than one person’s time or resources, and getting support can be part of the plan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "title": "Try a pause and support plan",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose a safe place where you don’t need to drive or operate machinery. This example is a learning exercise, not a personal treatment plan, and it doesn’t promise you’ll feel calm by the end."
+        },
+        {
+          "type": "filecards",
+          "text": "Adjustable example: eight minutes",
+          "image": "/images/health-fitness/06-elite/health-28/health28-image-2.webp",
+          "items": [
+            {
+              "title": "Name it (0–1)",
+              "text": "Sit with support and name the immediate demand in a few words."
+            },
+            {
+              "title": "Ground (1–3)",
+              "text": "Look at nearby objects and notice the support of your chair, or breathe comfortably without holds."
+            },
+            {
+              "title": "Sort (3–5)",
+              "text": "Write one part you can act on and one part that needs help or cannot change today."
+            },
+            {
+              "title": "Ask (5–7)",
+              "text": "Choose one small step and draft a request for the person or service that could help."
+            },
+            {
+              "title": "Schedule (7–8)",
+              "text": "Decide when to take that step and when to review what happened."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Sleep, enjoyable activities and manageable movement can help you cope day to day. Regular physical activity is one of the best-studied ways to ease stress and low mood. But none of these can replace safe working conditions, enough money or care for a health problem."
+          "text": "The parts add up to eight minutes: one plus two plus two plus two plus one. If that’s too much today, spend one minute noticing the room and writing one next step, then set a time for your support request."
+        },
+        {
+          "type": "paragraph",
+          "text": "Adapt the steps to your needs, and skip the breathing practice if it feels unpleasant. Stop if you feel dizzy, upset or unwell. Go back to normal breathing and get advice if symptoms last. A winter break can happen indoors, beside a window or in a safe hallway."
+        },
+        {
+          "type": "paragraph",
+          "text": "Severe physical symptoms you can’t explain need medical attention, even on a stressful day. New chest pressure with shortness of breath can be an emergency. Call 911 instead of trying to breathe it away."
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Draft your request before the conversation. Name the problem and ask for a specific change. Choose a review time too, so an unanswered request still has a next step."
         }
       ]
     },
@@ -117,11 +272,28 @@
           "extra": "",
           "paragraphs": [
             "Anika coordinated an office team in Ottawa and wanted to leave on time for her weekly pottery class. Her calendar looked tidy until Tuesday. A room change meant two teams now expected her to set up their meetings at four o’clock.",
-            "One meeting needed printed packages, and the other needed a video link tested. Anika kept jumping between them, worried a mistake would let people down. Soon she had checked the same attachment four times.",
-            "Her first thought was to skip pottery and finish everything after hours. Instead, she put both feet on the floor, looked at the window frame and wrote the problem down: two setups, one person, the same start time.",
-            "She asked her manager to choose a priority and find help for the other meeting. She explained what each setup needed and offered to prepare the printed packages while someone else tested the video link.",
+            "One meeting needed printed packages, and the other needed a video link tested. Each setup took about an hour, and she had one hour left before four. Anika kept jumping between them. Soon she had checked the same attachment four times.",
+            "Her first thought was to skip pottery and finish everything after hours. Instead, she put both feet on the floor, looked at the window frame and did the maths: two hours of setup, one hour of time. That was a 200% load, not a focus problem.",
+            "She asked her manager to choose a priority and find help for the other meeting, and offered to prepare the printed packages while someone else tested the video link.",
             "As they talked, her manager spotted the real problem: the room change had booked the slot twice. One team had already moved its meeting to Thursday, but the old invitation was still live. No amount of extra work would have fixed the calendar.",
-            "They cleared the old invitation and agreed on one place to record future changes. Anika finished the remaining setup, left on time and made it to pottery, where the bowl she shaped leaned a little to one side. By Friday, another late request needed a priority check. Asking still felt tense. But now she knew how to question a clash before giving up her evening."
+            "They cleared the old invitation and agreed on one place to record future changes. Anika left on time and made it to pottery, where the bowl she shaped leaned a little to one side. By Friday, another late request needed a priority check. Asking still felt tense. But now she knew how to question a clash before giving up her evening."
+          ],
+          "image": "/images/health-fitness/06-elite/health-28/health28-image-3.webp",
+          "focus": 24,
+          "at": 2,
+          "items": [
+            {
+              "title": "4:00 P.M. × 2",
+              "text": "Two setups, one hour"
+            },
+            {
+              "title": "200% LOAD",
+              "text": "A priority question"
+            },
+            {
+              "title": "THURSDAY",
+              "text": "Old invitation cleared"
+            }
           ]
         },
         {
@@ -132,84 +304,42 @@
           "type": "transition",
           "text": "A clear request can change the demand, not just your reaction to it.",
           "detail": "Asking for something specific gives others a way to help, and opens a path to fixing the problem while you practise your coping tools.",
-          "extra": "Section 05 gives you an eight-minute pause and support plan."
+          "extra": "Section 08 lists where to turn when the pressure is more than a busy day."
         }
       ]
     },
     {
-      "id": "plan",
-      "title": "Try a pause and support plan",
+      "id": "help",
+      "title": "Know where to turn",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Choose a safe place where you don’t need to drive or operate machinery. This example is a learning exercise, not a personal treatment plan, and it doesn’t promise you’ll feel calm by the end."
+          "text": "Some pressure is bigger than a calendar clash. Help is available any time, and reaching for it is part of a good plan, not a sign the plan failed."
         },
         {
-          "type": "heading",
-          "text": "Adjustable example: eight minutes"
-        },
-        {
-          "type": "chips",
+          "type": "lists",
           "items": [
             {
-              "title": "Minute 0–1: Sit with support and name the immediate demand in a few words.",
-              "text": ""
+              "title": "HELP RIGHT NOW",
+              "text": "",
+              "icon": "alert",
+              "list": [
+                "If you’re thinking about suicide or worried about someone, call or text 9-8-8, the Suicide Crisis Helpline, any time, day or night.",
+                "Call 911 for new chest pressure with shortness of breath, or any emergency."
+              ]
             },
             {
-              "title": "Minutes 1–3: Look at nearby objects and notice the support of your chair, or breathe comfortably without holds.",
-              "text": ""
-            },
-            {
-              "title": "Minutes 3–5: Write one part you can act on and one part that needs help or cannot change today.",
-              "text": ""
-            },
-            {
-              "title": "Minutes 5–7: Choose one small step and draft a request for the person or service that could help.",
-              "text": ""
-            },
-            {
-              "title": "Minutes 7–8: Decide when to take that step and when to review what happened.",
-              "text": ""
+              "title": "OTHER LINES THAT CAN HELP",
+              "text": "",
+              "list": [
+                "2-1-1, for local services like housing, food or counselling.",
+                "Hope for Wellness Helpline for Indigenous people: 1-855-242-3310.",
+                "Kids Help Phone for young people: call 1-800-668-6868 or text 686868.",
+                "Your workplace employee assistance program (EAP), if you have one."
+              ]
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "text": "The parts add up to eight minutes: one plus two plus two plus two plus one. If that’s too much today, spend one minute noticing the room and writing one next step, then set a time for your support request."
-        },
-        {
-          "type": "spotlight",
-          "text": "For a delayed repair, a next step could be gathering your earlier messages and asking for an update. The pause won’t make the repair happen, but it can help you prepare a clear request."
-        },
-        {
-          "type": "paragraph",
-          "text": "Adapt the steps to your needs, and skip the breathing practice if it feels unpleasant. Stop if you feel dizzy, upset or unwell. Go back to normal breathing and get advice if symptoms last."
-        },
-        {
-          "type": "paragraph",
-          "text": "Severe physical symptoms you can’t explain need medical attention, even on a stressful day. New chest pressure with shortness of breath can be an emergency. Call 911 instead of trying to breathe it away."
-        },
-        {
-          "type": "spotlight",
-          "text": "A winter break can happen indoors, beside a window or in a safe hallway. You don’t need to walk on ice, face severe cold or find a silent room to try this."
-        },
-        {
-          "type": "myths",
-          "items": [
-            {
-              "title": "“Needing help means my coping skills failed.”",
-              "text": "A demand can be bigger than one person’s time or resources, and getting support can be part of the plan."
-            }
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Insider tip: Draft your request before the conversation. Name the problem and ask for a specific change. Choose a review time too, so an unanswered request still has a next step."
-        },
-        {
-          "type": "paragraph",
-          "text": "Repeat this whenever it helps, with no deadline to move on. Adjust one part at a time and check whether the change fits your day."
         }
       ]
     },
@@ -226,9 +356,9 @@
           "type": "accordions",
           "items": [
             {
-              "title": "What is stress a response to?",
-              "detail": "A demand or pressure,",
-              "text": "which may come from inside or outside your daily routine."
+              "title": "Two tasks need 2 hours and 1 hour 30 minutes. You have 3 hours. How far over are you, and what’s the load?",
+              "detail": "30 minutes over, about 117%.",
+              "text": "2 + 1.5 = 3.5 hours. 3.5 − 3 = 0.5 hours over. 3.5 ÷ 3 ≈ 117%."
             },
             {
               "title": "Does a breathing pause fix an unsafe workload?",
@@ -255,25 +385,25 @@
               "text": "Checking priorities addresses the demand and makes room for shared responsibility."
             },
             {
+              "title": "Kai has 6 hours of tasks and 4 hours left. Which fits this lesson? A. Skip breaks and work faster. · B. Share the numbers and ask which task comes first. · C. Practise breathing until it fits.",
+              "detail": "B.",
+              "text": "6 − 4 = 2 hours over, a 150% load. That gap needs a priority call, not more calm."
+            },
+            {
               "title": "Breathing practice makes you light-headed. What should you do? A. Breathe faster. · B. Hold your breath longer. · C. Stop the exercise and return to ordinary breathing.",
               "detail": "C.",
               "text": "Comfort matters, and continuing an unpleasant exercise is not a goal. Seek advice if symptoms persist."
             },
             {
-              "title": "Ongoing pressure is disrupting sleep and daily tasks. What fits the lesson? A. Contact a care provider and seek practical support. · B. Practise alone until it disappears. · C. Treat all symptoms as stress.",
-              "detail": "A.",
-              "text": "Ongoing disruption is a reason to seek care; coping tools do not diagnose symptoms or replace treatment."
-            },
-            {
               "title": "Write a support request for a fictional person who has two tasks due at once.",
               "detail": "Sample:",
-              "text": "“I have two tasks due this afternoon. Which is the priority, and can someone help with the other one?”"
+              "text": "“I have two tasks due this afternoon, about four hours of work in two and a half hours. Which is the priority, and can someone help with the other one?”"
             }
           ]
         },
         {
           "type": "takeaway",
-          "text": "Notice the demand, try a comfortable pause, and choose one practical step. Ask for support when the source of pressure needs more than your own effort.",
+          "text": "Name the demand and do the load maths. Use a comfortable pause to think, and when the work is bigger than the time, ask for a specific change instead of more effort.",
           "detail": ""
         }
       ]
@@ -289,7 +419,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Put your pause, next step and support request together in a short plan. Add a time to review it, and change the plan if the first option doesn’t help."
+          "text": "Put your load check, pause, next step and support request together in a short plan. Add a time to review it, and change the plan if the first option doesn’t help."
         },
         {
           "type": "checkin"
@@ -313,12 +443,20 @@
               "text": "A situation or demand that brings on stress."
             },
             {
+              "title": "Load",
+              "text": "Hours of work needed divided by hours available, shown as a percentage."
+            },
+            {
               "title": "Grounding",
               "text": "Bringing attention to your present surroundings."
             },
             {
               "title": "Boundary",
               "text": "A clear limit or request about what you can take on."
+            },
+            {
+              "title": "EAP",
+              "text": "Employee assistance program: free, confidential support some workplaces offer."
             },
             {
               "title": "Support plan",
@@ -375,16 +513,16 @@
   "checkIn": {
     "questions": [
       "What demand is putting you under pressure right now?",
-      "Which pause will you try?",
-      "When and where will you try it?",
+      "Roughly how many hours does it need, and how many do you have?",
+      "Which pause will you try, and when?",
       "What one part can you act on?",
       "What support will you ask for, and from whom?",
       "When will you review how it went?"
     ],
     "samples": [
-      "Name it in plain words, like “two deadlines on the same afternoon.”",
-      "Noticing nearby objects, comfortable breathing, or not sure.",
-      "For example: after I sit down at lunch, at my desk.",
+      "Name it in plain words, like “a client file and a staff schedule on the same morning.”",
+      "For example: about 4 hours of work and 3 hours free, so 1 hour over.",
+      "Noticing nearby objects or comfortable breathing, after I sit down at lunch.",
       "For example: asking which deadline comes first.",
       "For example: my supervisor, to set priorities. Or 2-1-1 for local services.",
       "For example: Friday afternoon."

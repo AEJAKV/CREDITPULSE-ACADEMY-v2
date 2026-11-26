@@ -163,6 +163,21 @@
         {
           "type": "spotlight",
           "text": "Watch out for “earn with AI” offers. The Canadian Anti-Fraud Centre warns about job offers that ask you to boost or finish online tasks, then push you to deposit money you can never take out. Quebec’s consumer office adds a simple test: be wary of anyone who asks for money before you can work."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Pause before you press send.",
+              "text": "Pause before you press send.",
+              "image": "/images/income-business/03-gold/income-10/income10-image-1.webp"
+            },
+            {
+              "title": "If your name is on it, read it twice.",
+              "text": "If your name is on it, read it twice.",
+              "image": "/images/income-business/03-gold/income-10/income10-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -176,6 +191,8 @@
           "text": "Read It Twice",
           "detail": "STORY",
           "extra": "",
+          "image": "/images/income-business/03-gold/income-10/income10-image-3.webp",
+          "focus": 24,
           "paragraphs": [
             "Karim Nasser ran a small cleaning company in Calgary, and he wanted to buy a second van. To do that, he needed ten more clients. His mother had given him a fridge magnet years ago that read, “Read it twice.” He had never paid it any attention.",
             "Karim started using an AI tool to write quotes and answer customer messages. It was fast, and he loved it. Replies that once took an hour now took five minutes, and the clients seemed happy.",

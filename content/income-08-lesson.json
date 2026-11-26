@@ -113,6 +113,21 @@
         {
           "type": "spotlight",
           "text": "Order a sample first. Buy one of every product type before you sell it, so you can check the colour, the print quality, and the sizing with your own hands. Keep the receipt, because a sample is a business expense."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Keep the day job while the shop proves itself.",
+              "text": "Keep the day job while the shop proves itself.",
+              "image": "/images/income-business/02-silver/income-08/income08-image-1.webp"
+            },
+            {
+              "title": "Know every fee before your buyer meets it at the door.",
+              "text": "Know every fee before your buyer meets it at the door.",
+              "image": "/images/income-business/02-silver/income-08/income08-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -185,6 +200,8 @@
           "text": "The Bird Shirts",
           "detail": "STORY",
           "extra": "",
+          "image": "/images/income-business/02-silver/income-08/income08-image-3.webp",
+          "focus": 20,
           "paragraphs": [
             "Tomás Rivera drove a city bus in Kelowna, and on his breaks he drew birds. His goal was to replace his drawing tablet, which had a cracked corner and a pen that drifted. A new one cost about $600, and he did not want to use the grocery money.",
             "A coworker admired his sketches and asked for a shirt. Tomás opened a print on demand shop with twelve bird designs. He chose a printer in the United States because it was $3 cheaper per shirt.",

@@ -136,6 +136,7 @@
           "text": "The Fridge Calendar",
           "detail": "STORY",
           "extra": "",
+          "image": "/images/income-business/06-elite/income-19/income19-image-3.webp",
           "paragraphs": [
             "Marisol Dubé ran a small lawn and snow-clearing business in Moncton. She kept a paper calendar on her fridge, and every slow month got a red X. Her goal was to cover her truck payments in January and February, when the calendar was nearly all red.",
             "She decided to offer a year-round plan for $90 a month, plus HST. It covered lawn care in summer and snow clearing in winter. Fourteen neighbours signed up in the first month. Marisol watched the red Xs turn into green ticks and felt more hopeful than she had in a long time.",
@@ -198,6 +199,21 @@
         {
           "type": "spotlight",
           "text": "Put the terms where people can see them. State the price, the billing date, the renewal date and how to cancel, in plain words, before the customer pays. Email customers before each renewal, and make cancelling as easy as signing up."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The same visit, on the same day, every month.",
+              "text": "The same visit, on the same day, every month.",
+              "image": "/images/income-business/06-elite/income-19/income19-image-1.webp"
+            },
+            {
+              "title": "Plan the route before you sell the plan.",
+              "text": "Plan the route before you sell the plan.",
+              "image": "/images/income-business/06-elite/income-19/income19-image-2.webp"
+            }
+          ]
         },
         {
           "type": "myths",

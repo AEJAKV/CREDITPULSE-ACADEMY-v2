@@ -1,8 +1,8 @@
 {
   "title": "Twelve-Week Transformations",
-  "summary": "Baseline → Make it work → Test support → Keep it",
-  "subtitle": "Build a routine that still fits when ordinary life gets busy.",
-  "minutes": 30,
+  "summary": "Read your baseline → Plan into the gaps → Give each phase a job → Keep it",
+  "subtitle": "Build a twelve-week routine from the week you already have, with a spare slot for when life gets busy.",
+  "minutes": 45,
   "published": true,
   "sections": [
     {
@@ -15,10 +15,18 @@
           "text": "A twelve-week plan can look tidy until the calendar meets a dentist appointment and three days of rain. Some planning apps seem to think laundry does itself. A useful plan leaves room for ordinary life from day one."
         },
         {
+          "type": "paragraph",
+          "text": "This is the last lesson in Health & Fitness, and it pulls the whole course together. Sleep, cues, honest scoring, load checks and pass marks were each built for a week or a month. Twelve weeks is long enough to find out whether they survive a season of real life."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here’s the twist. Most twelve-week programs start from where you want to end up, then fill your calendar to get there. This lesson starts from the week you already have. You’ll record one ordinary week, plan only into the gaps it shows and leave one gap empty on purpose. That empty slot is what keeps the plan alive when week seven goes sideways."
+        },
+        {
           "type": "transition",
           "text": "Build a routine that still works in three months, and beyond.",
           "detail": "A clear starting point helps you choose a manageable action and see what needs changing, without judging your body.",
-          "extra": "Section 03 gives each three-week phase its own job."
+          "extra": "Section 03 turns your baseline week into a plan with a spare slot."
         }
       ]
     },
@@ -33,15 +41,83 @@
         },
         {
           "type": "paragraph",
-          "text": "First, notice what already happens in an ordinary week. This starting record is your baseline, and it helps you pick an action that fits. You don’t need photos, a scale or a fitness test to begin."
+          "text": "Choose one main movement habit and protect your rest around it. Twelve weeks give you several chances to test and adjust that habit. The calendar marks review points, not a deadline for reaching a set fitness level."
         },
         {
-          "type": "paragraph",
-          "text": "Choose one main movement habit and protect your rest around it. Twelve weeks give you several chances to test and adjust that habit. The calendar marks review points, not a deadline for reaching a set fitness level."
+          "type": "spotlight",
+          "text": "Plan from the week you have, not the week you wish you had. A routine built on real free time survives a busy month. One built on hope usually doesn’t."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Your ordinary week already shows where a routine can fit.",
+              "text": "Your ordinary week already shows where a routine can fit.",
+              "image": "/images/health-fitness/06-elite/health-30/health30-image-1.webp"
+            },
+            {
+              "title": "Plan into the gaps, and keep one spare.",
+              "text": "Plan into the gaps, and keep one spare.",
+              "image": "/images/health-fitness/06-elite/health-30/health30-image-2.webp"
+            }
+          ]
         },
         {
           "type": "paragraph",
           "text": "This lesson offers learning examples, not a personal exercise prescription. Before you increase activity, use CSEP’s Get Active Questionnaire and follow its advice. Ask a qualified professional when you’re unsure what suits you."
+        }
+      ]
+    },
+    {
+      "id": "baseline",
+      "title": "Read your baseline week",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "First, notice what already happens in an ordinary week. This starting record is your baseline. For seven days, change nothing. Just write down when you moved, when you had free time and what usually filled it. You don’t need photos, a scale or a fitness test to begin."
+        },
+        {
+          "type": "paragraph",
+          "text": "At the end of the week, count your free slots: stretches of fifteen minutes or more that turned up on most weeks, not just once. Those are the only places your plan is allowed to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "Planned minutes a week = slots you’ll plan × minutes per session. Backup slots = free slots − slots you’ll plan. Keep at least one."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here’s a worked example. Your baseline week shows four reliable free slots. You plan three of them, at fifteen minutes each. 3 × 15 = 45 planned minutes a week, with 4 − 3 = 1 backup slot. Held steady from week two to week twelve, that’s 11 × 45 = 495 minutes. That’s 30% of the 150-minute guideline each week. It’s a real start, not the finish line."
+        },
+        {
+          "type": "baselineplan",
+          "text": "Turn your baseline into a plan",
+          "detail": "INTERACTIVE PLANNING LAB",
+          "extra": "Enter the free slots your baseline week showed, how many you’ll plan and how long each session is.",
+          "items": [
+            {
+              "title": "Worked example",
+              "text": "",
+              "amount": "4",
+              "detail": "3,15"
+            },
+            {
+              "title": "Grace’s baseline",
+              "text": "",
+              "amount": "3",
+              "detail": "2,10"
+            },
+            {
+              "title": "Every slot booked",
+              "text": "",
+              "amount": "3",
+              "detail": "3,20"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If the panel shows no backup slot, the plan is already full before life adds anything. Drop one planned slot, even if the weekly minutes look smaller. A smaller plan that bends will beat a bigger plan that breaks in week four."
         }
       ]
     },
@@ -56,43 +132,48 @@
         },
         {
           "type": "heading",
-          "text": "Weeks 1–3: Find your starting routine"
+          "text": "Twelve weeks, four jobs"
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "FIND IT",
+              "text": "Week one: record your ordinary movement and free time without changing either. Weeks two and three: test one modest action at planned times.",
+              "detail": "WEEKS 1–3",
+              "icon": "search"
+            },
+            {
+              "title": "MAKE IT WORK",
+              "text": "Review the first phase before changing anything. Move the cue, keep an indoor backup or shorten the action. Any increase is time only.",
+              "detail": "WEEKS 4–6",
+              "icon": "filecheck"
+            },
+            {
+              "title": "TEST SUPPORT",
+              "text": "Keep movement steady while you test one optional support, like planning two evening meals. Skip it if the main routine still needs attention.",
+              "detail": "WEEKS 7–9",
+              "icon": "list"
+            },
+            {
+              "title": "KEEP IT",
+              "text": "Use a busy week to test your backup instead of adding work. At week twelve, choose what to keep, what to change and when to review.",
+              "detail": "WEEKS 10–12",
+              "icon": "check"
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "In week one, record your ordinary movement and free time without trying to change either. In weeks two and three, test one modest action at planned times. Note what gets in the way and whether the action fits the rest of your day."
+          "text": "Health Canada encourages meal planning that fits your schedule, which is why it’s the optional support in weeks seven to nine. A smaller routine that fits may be your most useful finding by week twelve."
         },
         {
           "type": "spotlight",
           "text": "Write the chance before the result. “Tuesday after lunch: planned walk” tells you more than an empty box that could mean either a rest day or a missed chance."
         },
         {
-          "type": "heading",
-          "text": "Weeks 4–6: Make the routine workable"
-        },
-        {
           "type": "paragraph",
-          "text": "Review the first phase before changing anything. You might move the cue, keep an indoor backup or shorten the action. If the current amount feels manageable and you recover well, you can choose a small increase in time only."
-        },
-        {
-          "type": "heading",
-          "text": "Weeks 7–9: Test support"
-        },
-        {
-          "type": "paragraph",
-          "text": "Keep your movement steady while you test one optional support, like planning two evening meals. Health Canada encourages meal planning that fits your schedule. Skip this if your main routine still needs attention."
-        },
-        {
-          "type": "spotlight",
           "text": "Keep two counts: planned chances and completed actions. Record the easier version separately so you can see both how often you showed up and how much you did."
-        },
-        {
-          "type": "heading",
-          "text": "Weeks 10–12: Practise keeping it"
-        },
-        {
-          "type": "paragraph",
-          "text": "Use a busy week to test your backup instead of adding more work. At week twelve, choose what to keep, what to change and when to review again. A smaller routine that fits may be your most useful finding."
         },
         {
           "type": "myths",
@@ -102,41 +183,6 @@
               "text": "Repeating a workable level teaches you about fit and recovery. You can finish twelve weeks without increasing the amount at all."
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "text": "For context, Canada’s guidelines for adults aged 18 to 64 recommend 150 minutes a week of moderate-to-vigorous activity, strength work at least twice a week and 7 to 9 hours of sleep. Adults 65 and older should aim for 7 to 8 hours of sleep and add balance work. These are general guidelines, not this beginner example’s assignment."
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Fictional learning story: Elise’s return slot",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Elise’s return slot",
-          "detail": "FICTIONAL LEARNING STORY",
-          "extra": "",
-          "paragraphs": [
-            "Grace worked at a library in Victoria and wanted room in her week for a walk she could enjoy with her sister. She had bought a twelve-week planner whose daily boxes were smaller than the library’s overdue stamps. Filling every box looked easier on paper than after a closing shift.",
-            "When her sister invited her on a long Saturday hike, Grace said yes, then worried about keeping up. She had a choice: train hard for the hike and hope, or start smaller. She suggested a short neighbourhood walk with a café stop instead. Her sister agreed, and Grace decided to build a routine before planning longer trips.",
-            "Her first-week record showed that her lunch breaks varied, but two mornings were usually free. She planned two short walks a week and put her rain gear beside her shoes. By week six, she had done seven of ten planned walks, including two shorter versions.",
-            "Then a staff shortage changed both of her morning shifts. Grace could squeeze in walks by sleeping less, or change the plan. She kept the walking amount the same, moved one walk to her day off and made the other optional until the schedule settled.",
-            "The surprise was that her sister’s schedule changed too. Their Saturday walk disappeared, but a Wednesday phone call fit both calendars. Grace walked a familiar flat route while they talked, and used an indoor option when heavy rain made the route miserable.",
-            "At week twelve, Grace had a short routine she could explain and restart. She hadn’t reached any promised distance, and she still missed chances sometimes. She wrote her next review date across two planner boxes, leaving room for the life those little boxes had once ignored."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Grace changed the timing when work changed. She didn’t treat lost time as a reason to borrow from sleep or make up every missed walk."
-        },
-        {
-          "type": "transition",
-          "text": "Keep a way back, and your routine survives every busy season.",
-          "detail": "An easier version and a clear restart point carry a useful routine through weeks that change without warning.",
-          "extra": "Section 05 gives you a twelve-week walking plan to adapt."
         }
       ]
     },
@@ -150,45 +196,31 @@
           "text": "This example is for someone who already walks comfortably for ten minutes and wants a regular schedule. Choose a smaller amount, another activity or professional guidance if that doesn’t fit."
         },
         {
-          "type": "heading",
-          "text": "An original twelve-week walking plan"
-        },
-        {
-          "type": "chips",
+          "type": "glasspanel",
+          "text": "An original twelve-week walking plan",
+          "detail": "Planned minutes a week",
           "items": [
             {
-              "title": "Weeks 1–3: Observe week one. In weeks two and three, plan Tuesday and Saturday walks of 10 minutes each: 20 planned minutes per week.",
-              "text": ""
+              "title": "Weeks 1–3",
+              "text": "20 min — Observe week one, then walk 10 minutes on Tuesday and Saturday in weeks two and three."
             },
             {
-              "title": "Weeks 4–6: Review comfort and fit. Keep two 10-minute walks, or choose two 12-minute walks: 24 planned minutes per week. Change duration only.",
-              "text": ""
+              "title": "Weeks 4–6",
+              "text": "20–24 min — Keep two 10-minute walks, or choose two 12-minute walks. Change duration only."
             },
             {
-              "title": "Weeks 7–9: Hold your chosen walking amount. Optionally spend five minutes on Sunday choosing two simple dinners and listing needed ingredients.",
-              "text": ""
-            },
-            {
-              "title": "Weeks 10–12: Keep the amount steady and practise the backup during a busy week. At week twelve, set the next four weeks and a review date.",
-              "text": ""
+              "title": "Weeks 7–12",
+              "text": "Hold — Keep your chosen amount. Try two planned dinners in weeks 7–9, then practise the backup in a busy week."
             }
           ]
         },
         {
-          "type": "heading",
-          "text": "One example session: 12 minutes"
+          "type": "paragraph",
+          "text": "One example session is twelve minutes. Start with five minutes of slow walking, keep going for five minutes at a comfortable pace, then finish with two slower minutes. An easier option could be a five-minute gentle walk when you feel well but have less time. Record five real minutes, not the full twelve."
         },
         {
           "type": "paragraph",
-          "text": "Start with five minutes of slow walking, keep going for five minutes at a comfortable pace, then finish with two slower minutes. That adds up to twelve minutes, including the start and finish."
-        },
-        {
-          "type": "spotlight",
-          "text": "An easier option could be a five-minute gentle walk when you feel well but have less time. Record five real minutes, not the full twelve."
-        },
-        {
-          "type": "paragraph",
-          "text": "Leave unplanned days for rest. Support your movement with regular meals, fluids and sleep. Keep your walking steady while you try an optional meal change. Once walking is steady, your next twelve weeks could add two short strength sessions a week, using the Strength Training or Bodyweight Training lesson."
+          "text": "Leave unplanned days for rest. Support your movement with regular meals, fluids and sleep. Keep your walking steady while you try an optional meal change."
         },
         {
           "type": "paragraph",
@@ -208,6 +240,137 @@
             {
               "title": "“Missing two sessions means doing twice as much next time.”",
               "text": "Go back to a suitable plan after checking how you feel. Doubling the amount doesn’t repair a missed chance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: Grace’s return slot",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Grace’s return slot",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Grace worked at a library in Victoria and wanted room in her week for a walk she could enjoy with her sister. She had bought a twelve-week planner whose daily boxes were smaller than the library’s overdue stamps. Filling every box looked easier on paper than after a closing shift.",
+            "When her sister invited her on a long Saturday hike, Grace said yes, then worried about keeping up. Instead of training hard and hoping, she suggested a short waterfront walk with a café stop. Her sister agreed, and Grace decided to build a routine before planning longer trips.",
+            "Her baseline week showed that lunch breaks varied, but two mornings and her day off were usually free. She planned two ten-minute walks and kept the third slot empty as a backup. By week six, she had done seven of ten planned walks, including two shorter versions.",
+            "Then a staff shortage changed both of her morning shifts. Grace could squeeze in walks by sleeping less, or change the plan. She kept the amount the same and moved one walk into her spare slot, the day off. The backup had been waiting for exactly this.",
+            "The surprise was that her sister’s schedule changed too. Their Saturday walk disappeared, but a Wednesday phone call fit both calendars. Grace walked a familiar flat route while they talked, and used an indoor option when heavy rain made the route miserable.",
+            "At week twelve, Grace had a short routine she could explain and restart. She hadn’t reached any promised distance, and she still missed chances sometimes. She wrote her next review date across two planner boxes, leaving room for the life those little boxes had once ignored."
+          ],
+          "image": "/images/health-fitness/06-elite/health-30/health30-image-3.webp",
+          "focus": 28,
+          "at": 2,
+          "items": [
+            {
+              "title": "BASELINE",
+              "text": "3 free slots, plan 2"
+            },
+            {
+              "title": "WEEK 6",
+              "text": "7 of 10 walks done"
+            },
+            {
+              "title": "SHIFT CHANGE",
+              "text": "Backup slot used"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Grace changed the timing when work changed. She didn’t treat lost time as a reason to borrow from sleep or make up every missed walk."
+        },
+        {
+          "type": "transition",
+          "text": "Keep a way back, and your routine survives every busy season.",
+          "detail": "An easier version and a clear restart point carry a useful routine through weeks that change without warning.",
+          "extra": "Section 07 shows where this plan fits in Canada’s guidelines, and Section 08 gathers your Elite toolkit."
+        }
+      ]
+    },
+    {
+      "id": "bigger",
+      "title": "Where this fits in the bigger picture",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For context, here’s what Canada’s 24-Hour Movement Guidelines recommend. These are general guidelines for most adults, not this beginner example’s assignment. Twelve weeks of a plan that fits is how you move toward them."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "150 minutes a week",
+              "text": "Of moderate-to-vigorous activity for adults aged 18 to 64, in whatever pieces fit your week.",
+              "icon": "activity"
+            },
+            {
+              "title": "Strength twice a week",
+              "text": "Muscle-strengthening work for the major muscle groups, at least two days a week.",
+              "icon": "target"
+            },
+            {
+              "title": "7 to 9 hours of sleep",
+              "text": "Of good-quality sleep a night for adults 18 to 64, with steady bedtimes and wake-up times.",
+              "icon": "timer"
+            },
+            {
+              "title": "Adults 65 and older",
+              "text": "Aim for 7 to 8 hours of sleep, and add activities that challenge your balance.",
+              "icon": "shield"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Once walking is steady, your next twelve weeks could add two short strength sessions a week, using the Strength Training or Bodyweight Training lesson. Read your baseline again first. The free slots may have changed."
+        }
+      ]
+    },
+    {
+      "id": "toolkit",
+      "title": "Your Elite toolkit",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Each Elite lesson gave you one tool. Together they cover the whole loop: rest, start, count, cope, judge and plan. Keep this page as your kit for the next twelve weeks."
+        },
+        {
+          "type": "filecards",
+          "text": "Six tools to keep",
+          "image": "/images/health-fitness/06-elite/health-30/hero-image.webp",
+          "focus": 40,
+          "items": [
+            {
+              "title": "Sleep window",
+              "text": "Count back from a fixed wake-up time to find lights-out. From Sleep and Recovery."
+            },
+            {
+              "title": "If/then line",
+              "text": "Hook one small action to a cue you already meet, with an easier version agreed in advance. From Habit Building."
+            },
+            {
+              "title": "Honest scorecard",
+              "text": "Count planned chances used, not streaks. A miss lowers the score a little and never wipes it out."
+            },
+            {
+              "title": "Load check",
+              "text": "Compare hours needed with hours available before reaching for a coping tool. From Stress Management."
+            },
+            {
+              "title": "Pass mark",
+              "text": "Write the rule on day 1, then let the month answer. From Thirty-Day Challenges."
+            },
+            {
+              "title": "Baseline plan",
+              "text": "Plan into the free slots your ordinary week already shows, and keep one spare as the backup."
             }
           ]
         },
@@ -230,19 +393,19 @@
           "type": "accordions",
           "items": [
             {
-              "title": "What does transformation mean in this course?",
-              "detail": "A useful change in routines, skills or daily function, with no promised body outcome.",
-              "text": ""
+              "title": "Your baseline week shows four free slots. You plan three walks of 12 minutes. What are your planned minutes, and how many backup slots do you have?",
+              "detail": "36 minutes a week, 1 backup slot.",
+              "text": "3 × 12 = 36 minutes. 4 − 3 = 1 backup slot."
+            },
+            {
+              "title": "You hold 30 planned minutes a week from week two to week twelve. How many minutes is that in total?",
+              "detail": "330 minutes.",
+              "text": "Weeks 2 to 12 are 11 weeks. 11 × 30 = 330."
             },
             {
               "title": "You planned two twelve-minute walks and completed one five-minute walk. What should the record show?",
               "detail": "Two planned opportunities, one completed easier version, and five actual minutes.",
               "text": ""
-            },
-            {
-              "title": "Must you increase activity at the start of every phase?",
-              "detail": "No.",
-              "text": "Review first; keep, reduce or adjust the plan when appropriate."
             }
           ]
         },
@@ -254,14 +417,14 @@
           "type": "accordions",
           "items": [
             {
+              "title": "Sam’s baseline shows three free slots, and Sam plans walks in all three. What’s missing? A. A harder walk. · B. A backup slot. · C. A new goal each week.",
+              "detail": "B.",
+              "text": "With every slot booked, the first busy week breaks the plan. Plan two and keep one spare."
+            },
+            {
               "title": "Rowan’s walks fit well, but week four brings overtime. What helps? A. Increase anyway. · B. Review and adjust the plan. · C. Skip sleep.",
               "detail": "B.",
               "text": "Review available time before deciding whether to keep or adjust the routine."
-            },
-            {
-              "title": "Mei tries meal planning in week seven. What fits? A. Hold movement steady. · B. Change everything together. · C. Make meal planning compulsory.",
-              "detail": "A.",
-              "text": "Test one optional support while keeping movement steady."
             },
             {
               "title": "Ice blocks Devon’s route. What helps? A. Walk faster. · B. Double the next walk. · C. Choose a safe backup or pause.",
@@ -271,13 +434,13 @@
             {
               "title": "Write a maintenance sentence with an action and review date.",
               "detail": "Sample:",
-              "text": "For four weeks, I will plan two ten-minute walks weekly and review on November 10. Choose your own date."
+              "text": "For four weeks, I will plan two fifteen-minute walks weekly, keep Sunday as my backup and review on the last Sunday of the month. Choose your own date."
             }
           ]
         },
         {
           "type": "takeaway",
-          "text": "Start with your present routine, review before changing it, and keep a clear way back after interruptions. Twelve weeks can teach you what fits without promising a fixed result.",
+          "text": "Start from your baseline week, plan only into the gaps it shows and keep one spare. Review before changing anything, and keep a clear way back after interruptions.",
           "detail": ""
         }
       ]
@@ -289,11 +452,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Write your own plan below. Start from where you are now, and keep private health details out of these fields."
+          "text": "Write your own plan below. Start from your baseline week, and keep private health details out of these fields."
         },
         {
           "type": "paragraph",
-          "text": "Finish this sentence beside your plan: “For the next four weeks, I will keep ___ and review it on ___.” Then choose one skill from this course to practise again."
+          "text": "Finish this sentence beside your plan: “For the next four weeks, I will keep ___ and review it on ___.” Then choose one tool from your Elite toolkit to practise again."
         },
         {
           "type": "checkin"
@@ -311,6 +474,14 @@
             {
               "title": "Baseline",
               "text": "A record of your ordinary starting routine."
+            },
+            {
+              "title": "Free slot",
+              "text": "A stretch of fifteen minutes or more that turns up in most ordinary weeks."
+            },
+            {
+              "title": "Backup slot",
+              "text": "A free slot you leave unplanned on purpose, for when life moves a session."
             },
             {
               "title": "Phase",
@@ -337,7 +508,7 @@
         {
           "type": "transition",
           "text": "You have finished the Health & Fitness course.",
-          "detail": "Keep your four-week maintenance plan, and pick one lesson to revisit, such as Sleep and Recovery or Habit Building."
+          "detail": "Keep your four-week maintenance plan and your Elite toolkit, and pick one lesson to revisit, such as Sleep and Recovery or Habit Building."
         },
         {
           "type": "source",
@@ -385,18 +556,18 @@
     "questions": [
       "What action will you build your twelve weeks around?",
       "What did your baseline week show you?",
-      "Which two times each week will you plan, and for how long?",
+      "Which slots will you plan, for how long, and which one stays as your backup?",
       "What is your easier version, and your restart step after a pause?",
       "When is your first review, and what might you decide?",
       "What will you keep for the four weeks after week twelve?"
     ],
     "samples": [
-      "For example: a ten-minute walk on Tuesday and Saturday mornings.",
-      "For example: lunch breaks vary, but two mornings are usually free.",
-      "For example: Tuesday and Saturday after breakfast, ten minutes each.",
-      "For example: a five-minute walk, and restarting at ten minutes after a break.",
+      "For example: a fifteen-minute walk on Monday and Thursday mornings.",
+      "For example: evenings are busy, but Monday and Thursday mornings and Sunday afternoon are free.",
+      "For example: Monday and Thursday mornings, fifteen minutes each. Sunday afternoon stays as my backup.",
+      "For example: a six-minute walk, and restarting at fifteen minutes after a break.",
       "For example: end of week three. Keep the amount or add two minutes.",
-      "For example: two twelve-minute walks a week, reviewed at the end of the month."
+      "For example: two fifteen-minute walks a week, reviewed at the end of the month."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

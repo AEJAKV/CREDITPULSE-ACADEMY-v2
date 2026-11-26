@@ -8,7 +8,7 @@ type Day = { title: string; text: string; detail?: string; icon?: string };
 const titleCase = (s: string) => s.toLowerCase().replace(/(^|\s)\S/g, (c) => c.toUpperCase());
 
 /**
- * Coverflow for day-by-day plans (a `carousel` block whose items are labelled "DAY 4", "DAYS 15–16", or "NUMBER 3").
+ * Coverflow for day-by-day plans (a `carousel` block whose items are labelled "DAY 4", "DAYS 15–16", "WEEKS 1–3" or "NUMBER 3").
  * The active day sits in the centre; its neighbours peek in blurred at each side.
  */
 export function DayCarousel({
@@ -30,10 +30,10 @@ export function DayCarousel({
   const n = items.length;
   const name = (i: number) => titleCase(items[i].title);
   const label = (i: number) => titleCase(labels[i]);
-  const number = (i: number) => labels[i].replace(/^(DAYS?|NUMBER)\s*/i, '');
+  const number = (i: number) => labels[i].replace(/^(DAYS?|WEEKS?|NUMBER)\s*/i, '');
   // "Day 5 of 7" when the label matches its position; otherwise "Day 8 · 1 of 7".
   const position = (i: number) =>
-    /^(day|number) \d+$/i.test(label(i)) && number(i) === String(i + 1) ? `${label(i)} of ${n}` : `${label(i)} · ${i + 1} of ${n}`;
+    /^(day|week|number) \d+$/i.test(label(i)) && number(i) === String(i + 1) ? `${label(i)} of ${n}` : `${label(i)} · ${i + 1} of ${n}`;
 
   const go = (i: number) => {
     const next = Math.max(0, Math.min(n - 1, i));

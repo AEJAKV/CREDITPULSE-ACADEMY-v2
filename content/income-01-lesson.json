@@ -90,6 +90,21 @@
           "text": "Sell a defined visit, not “anything you need.” A written list of what you do protects the client, the family and you from mismatched expectations."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Walks and errands are the job.",
+              "text": "Walks and errands are the job.",
+              "image": "/images/income-business/01-starter/income-01/income01-image-1.webp"
+            },
+            {
+              "title": "Groceries come with a receipt, never a PIN.",
+              "text": "Groceries come with a receipt, never a PIN.",
+              "image": "/images/income-business/01-starter/income-01/income01-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "In an emergency, a companion watches and calls 911 or the agreed contact. They don’t diagnose, promise medical monitoring or make up a treatment plan."
         },
@@ -260,6 +275,8 @@
           "text": "Meet Nadia",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/income-business/01-starter/income-01/income01-image-3.webp",
+          "focus": 33,
           "paragraphs": [
             "Nadia Singh starts a companion service in Mississauga. Her goal is three regular clients by spring, so she can leave her part-time retail job.",
             "Her first client, Mr. Chen, wants weekly walks and grocery trips. On the first visit, his daughter hands Nadia his debit card and his PIN, “for convenience.” Convenience has arrived wearing a tiny financial-risk hat.",

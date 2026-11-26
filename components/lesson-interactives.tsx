@@ -23,6 +23,7 @@ import {
   CircleDollarSign,
   Clock3,
   LockKeyhole,
+  Moon,
 } from 'lucide-react';
 import { post } from '@/lib/client';
 const bands = [
@@ -708,6 +709,845 @@ export function ConversionCalculator({
                     onClick={() => {
                       setCost(item.amount ?? '');
                       setMonths(item.detail ?? '12');
+                    }}
+                  >
+                    {item.title}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+/** Clock time as "10:40 p.m." for minutes after midnight (wraps past midnight both ways). */
+const clockTime = (mins: number) => {
+  const m = ((Math.round(mins) % 1440) + 1440) % 1440;
+  const h = Math.floor(m / 60),
+    mm = m % 60;
+  return `${h % 12 === 0 ? 12 : h % 12}:${String(mm).padStart(2, '0')} ${h < 12 ? 'a.m.' : 'p.m.'}`;
+};
+const hoursMinutes = (mins: number) => {
+  const h = Math.floor(mins / 60),
+    m = Math.round(mins % 60);
+  return m ? `${h} h ${m} min` : `${h} h`;
+};
+/** Counts back from a fixed wake time: wake − (sleep + settling) = lights out, then wind-down and a 6-hour caffeine gap (item.amount = wake time "HH:MM", item.detail = hours of sleep). */
+export function SleepWindowCalculator({
+  heading,
+  intro,
+  label,
+  items,
+}: {
+  heading?: string;
+  intro?: string;
+  label?: string;
+  items: { title: string; amount?: string; detail?: string }[];
+}) {
+  const first = items[0];
+  const [wake, setWake] = useState(first?.amount ?? '06:30'),
+    [hours, setHours] = useState(first?.detail ?? '7.5'),
+    [settle, setSettle] = useState('20'),
+    [wind, setWind] = useState('15');
+  const id = useId();
+  const [wh, wm] = wake.split(':').map(Number);
+  const sleep = Number(hours) * 60,
+    settleMin = Number(settle || 0),
+    windMin = Number(wind || 0);
+  const valid =
+    Number.isFinite(wh) &&
+    Number.isFinite(wm) &&
+    hours !== '' &&
+    sleep >= 60 &&
+    sleep <= 720 &&
+    settleMin >= 0 &&
+    settleMin <= 120 &&
+    windMin >= 0 &&
+    windMin <= 120;
+  const wakeAt = wh * 60 + wm;
+  const opportunity = sleep + settleMin;
+  const lightsOut = wakeAt - opportunity;
+  const short = valid && sleep < 7 * 60;
+  return (
+    <div
+      className="score-frame util-frame conv-frame sleep-frame"
+      role="group"
+      aria-labelledby={`${id}-title`}
+    >
+      <div className="score-explorer util-calculator">
+        <div className="score-explorer-head">
+          <div>
+            <Moon aria-hidden="true" />
+            <div className="conv-title">
+              {label && <span>{label}</span>}
+              <h3 id={`${id}-title`}>{heading}</h3>
+            </div>
+          </div>
+          <strong>LIVE</strong>
+        </div>
+        {intro && <p className="util-intro">{intro}</p>}
+        <div className="sleep-fields">
+          <div className="util-field">
+            <label className="score-number-label" htmlFor={`${id}-wake`}>
+              WAKE-UP TIME
+            </label>
+            <input
+              id={`${id}-wake`}
+              className="score-number-input"
+              type="time"
+              value={wake}
+              onChange={(e) => setWake(e.target.value)}
+            />
+          </div>
+          <div className="util-field">
+            <label className="score-number-label" htmlFor={`${id}-hours`}>
+              HOURS OF SLEEP
+            </label>
+            <input
+              id={`${id}-hours`}
+              className="score-number-input"
+              type="number"
+              inputMode="decimal"
+              min="1"
+              max="12"
+              step="0.5"
+              value={hours}
+              onChange={(e) => setHours(e.target.value)}
+            />
+          </div>
+          <div className="util-field">
+            <label className="score-number-label" htmlFor={`${id}-settle`}>
+              MINUTES TO FALL ASLEEP
+            </label>
+            <input
+              id={`${id}-settle`}
+              className="score-number-input"
+              type="number"
+              inputMode="numeric"
+              min="0"
+              max="120"
+              step="5"
+              value={settle}
+              onChange={(e) => setSettle(e.target.value)}
+            />
+          </div>
+          <div className="util-field">
+            <label className="score-number-label" htmlFor={`${id}-wind`}>
+              WIND-DOWN MINUTES
+            </label>
+            <input
+              id={`${id}-wind`}
+              className="score-number-input"
+              type="number"
+              inputMode="numeric"
+              min="0"
+              max="120"
+              step="5"
+              value={wind}
+              onChange={(e) => setWind(e.target.value)}
+            />
+          </div>
+        </div>
+        <div className="score-live-result conv-result" aria-live="polite">
+          <Clock3 aria-hidden="true" />
+          <div>
+            <strong>
+              {valid
+                ? `Lights out by ${clockTime(lightsOut)}`
+                : 'Enter a wake-up time and 1 to 12 hours of sleep.'}
+            </strong>
+            {valid && (
+              <p>
+                {clockTime(wakeAt)} − ({hoursMinutes(sleep)} + {settleMin} min) ={' '}
+                {clockTime(lightsOut)}
+              </p>
+            )}
+          </div>
+        </div>
+        {valid && (
+          <div className="conv-split">
+            <div>
+              <span>Start wind-down</span>
+              <strong>{clockTime(lightsOut - windMin)}</strong>
+            </div>
+            <div>
+              <span>Last caffeine about</span>
+              <strong>{clockTime(lightsOut - 360)}</strong>
+            </div>
+            <div className={short ? 'is-flag' : undefined}>
+              <span>Sleep opportunity</span>
+              <strong>{hoursMinutes(opportunity)}</strong>
+            </div>
+          </div>
+        )}
+        {short && (
+          <p className="conv-note" role="note">
+            Under 7 hours of sleep is below the range in Canada’s guidelines for adults. If your
+            schedule only leaves this much, look at what could move, not at how to fall asleep
+            faster.
+          </p>
+        )}
+        {items.length > 0 && (
+          <div className="conv-examples">
+            <span>TRY AN EXAMPLE</span>
+            <div>
+              {items.map((item) => {
+                const active = wake === item.amount && hours === item.detail;
+                return (
+                  <button
+                    type="button"
+                    key={item.title}
+                    aria-pressed={active}
+                    onClick={() => {
+                      setWake(item.amount ?? '06:30');
+                      setHours(item.detail ?? '7.5');
+                    }}
+                  >
+                    {item.title}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+/** Weekly habit review: (full + easier) ÷ planned chances, minutes moved and a next-week suggestion (item.amount = planned chances, item.detail = "full,easier"). */
+export function HabitReviewCalculator({
+  heading,
+  intro,
+  label,
+  items,
+}: {
+  heading?: string;
+  intro?: string;
+  label?: string;
+  items: { title: string; amount?: string; detail?: string }[];
+}) {
+  const first = items[0];
+  const [f0, e0] = (first?.detail ?? '2,1').split(',');
+  const [planned, setPlanned] = useState(first?.amount ?? '4'),
+    [full, setFull] = useState(f0 ?? '2'),
+    [easier, setEasier] = useState(e0 ?? '1'),
+    [fullMin, setFullMin] = useState('4'),
+    [easyMin, setEasyMin] = useState('1');
+  const id = useId();
+  const p = Number(planned),
+    f = Number(full || 0),
+    e = Number(easier || 0),
+    fm = Number(fullMin || 0),
+    em = Number(easyMin || 0);
+  const whole = (n: number) => Number.isInteger(n) && n >= 0;
+  const valid =
+    planned !== '' && whole(p) && p >= 1 && p <= 14 && whole(f) && whole(e) && f + e <= p && fm >= 0 && em >= 0;
+  const done = f + e,
+    missed = p - done,
+    rate = valid ? Math.round((done / p) * 100) : 0,
+    minutes = f * fm + e * em;
+  const next =
+    rate >= 75
+      ? { label: 'Keep it, or change one thing', flag: false }
+      : rate >= 50
+        ? { label: 'Repeat the same level', flag: false }
+        : { label: 'Shrink it or fix the cue', flag: true };
+  const tooMany = planned !== '' && whole(p) && whole(f) && whole(e) && f + e > p;
+  const field = (
+    key: string,
+    text: string,
+    value: string,
+    set: (v: string) => void,
+    max: number,
+  ) => (
+    <div className="util-field">
+      <label className="score-number-label" htmlFor={`${id}-${key}`}>
+        {text}
+      </label>
+      <input
+        id={`${id}-${key}`}
+        className="score-number-input"
+        type="number"
+        inputMode="numeric"
+        min="0"
+        max={max}
+        step="1"
+        value={value}
+        onChange={(ev) => set(ev.target.value)}
+      />
+    </div>
+  );
+  return (
+    <div
+      className="score-frame util-frame conv-frame habit-frame"
+      role="group"
+      aria-labelledby={`${id}-title`}
+    >
+      <div className="score-explorer util-calculator">
+        <div className="score-explorer-head">
+          <div>
+            <ListChecks aria-hidden="true" />
+            <div className="conv-title">
+              {label && <span>{label}</span>}
+              <h3 id={`${id}-title`}>{heading}</h3>
+            </div>
+          </div>
+          <strong>LIVE</strong>
+        </div>
+        {intro && <p className="util-intro">{intro}</p>}
+        <div className="habit-fields">
+          {field('planned', 'PLANNED CHANCES', planned, setPlanned, 14)}
+          {field('full', 'FULL VERSIONS DONE', full, setFull, 14)}
+          {field('easier', 'EASIER VERSIONS DONE', easier, setEasier, 14)}
+          {field('fullmin', 'MINUTES PER FULL', fullMin, setFullMin, 120)}
+          {field('easymin', 'MINUTES PER EASIER', easyMin, setEasyMin, 120)}
+        </div>
+        <div className="score-live-result conv-result" aria-live="polite">
+          <CheckCircle2 aria-hidden="true" />
+          <div>
+            <strong>
+              {valid
+                ? `${done} of ${p} planned chances (${rate}%)`
+                : tooMany
+                  ? 'Full plus easier can’t be more than the chances you planned.'
+                  : 'Enter 1 to 14 planned chances and whole numbers done.'}
+            </strong>
+            {valid && (
+              <p>
+                {f} full + {e} easier = {done} of {p}. Minutes: {f} × {fm} + {e} × {em} = {minutes}
+              </p>
+            )}
+          </div>
+        </div>
+        {valid && (
+          <div className="conv-split">
+            <div>
+              <span>Missed chances</span>
+              <strong>{missed}</strong>
+            </div>
+            <div>
+              <span>Minutes moved</span>
+              <strong>{minutes} min</strong>
+            </div>
+            <div className={next.flag ? 'is-flag' : undefined}>
+              <span>Next week</span>
+              <strong>{next.label}</strong>
+            </div>
+          </div>
+        )}
+        {valid && next.flag && (
+          <p className="conv-note" role="note">
+            Fewer than half the planned chances happened. That usually points to the cue, the size
+            of the action or missing support, not to you. Change one of those before adding more.
+          </p>
+        )}
+        {items.length > 0 && (
+          <div className="conv-examples">
+            <span>TRY AN EXAMPLE</span>
+            <div>
+              {items.map((item) => {
+                const [fi, ei] = (item.detail ?? '0,0').split(',');
+                const active = planned === item.amount && full === fi && easier === ei;
+                return (
+                  <button
+                    type="button"
+                    key={item.title}
+                    aria-pressed={active}
+                    onClick={() => {
+                      setPlanned(item.amount ?? '4');
+                      setFull(fi ?? '0');
+                      setEasier(ei ?? '0');
+                    }}
+                  >
+                    {item.title}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+/** Hours as "1 h 30 min" / "45 min" / "2 h". */
+const hm = (h: number) => {
+  const total = Math.round(h * 60);
+  const hh = Math.floor(total / 60),
+    mm = total % 60;
+  if (!hh) return `${mm} min`;
+  return mm ? `${hh} h ${mm} min` : `${hh} h`;
+};
+/** Workload check: (task A + B + C hours) ÷ hours available, with the gap and a next move (item.amount = hours available, item.detail = "a,b,c" task hours). */
+export function LoadCheckCalculator({
+  heading,
+  intro,
+  label,
+  items,
+}: {
+  heading?: string;
+  intro?: string;
+  label?: string;
+  items: { title: string; amount?: string; detail?: string }[];
+}) {
+  const first = items[0];
+  const split = (d?: string) => {
+    const [a = '', b = '', c = ''] = (d ?? '').split(',');
+    return [a, b, c];
+  };
+  const [a0, b0, c0] = split(first?.detail ?? '3,2,');
+  const [taskA, setTaskA] = useState(a0),
+    [taskB, setTaskB] = useState(b0),
+    [taskC, setTaskC] = useState(c0),
+    [avail, setAvail] = useState(first?.amount ?? '3.5');
+  const id = useId();
+  const nums = [taskA, taskB, taskC].map((v) => Number(v || 0));
+  const need = nums.reduce((s, n) => s + n, 0);
+  const have = Number(avail);
+  const valid =
+    avail !== '' && have > 0 && have <= 24 && nums.every((n) => n >= 0 && n <= 24) && need > 0;
+  const load = valid ? Math.round((need / have) * 100) : 0;
+  const gap = need - have;
+  const next =
+    load > 100
+      ? { label: 'Ask for a priority call', flag: true }
+      : load > 85
+        ? { label: 'Tight: protect a buffer', flag: false }
+        : { label: 'Fits: pause, then start', flag: false };
+  const field = (key: string, text: string, value: string, set: (v: string) => void) => (
+    <div className="util-field">
+      <label className="score-number-label" htmlFor={`${id}-${key}`}>
+        {text}
+      </label>
+      <input
+        id={`${id}-${key}`}
+        className="score-number-input"
+        type="number"
+        inputMode="decimal"
+        min="0"
+        max="24"
+        step="0.25"
+        value={value}
+        onChange={(ev) => set(ev.target.value)}
+      />
+    </div>
+  );
+  return (
+    <div
+      className="score-frame util-frame conv-frame load-frame"
+      role="group"
+      aria-labelledby={`${id}-title`}
+    >
+      <div className="score-explorer util-calculator">
+        <div className="score-explorer-head">
+          <div>
+            <CircleGauge aria-hidden="true" />
+            <div className="conv-title">
+              {label && <span>{label}</span>}
+              <h3 id={`${id}-title`}>{heading}</h3>
+            </div>
+          </div>
+          <strong>LIVE</strong>
+        </div>
+        {intro && <p className="util-intro">{intro}</p>}
+        <div className="load-fields">
+          {field('a', 'TASK A (HOURS)', taskA, setTaskA)}
+          {field('b', 'TASK B (HOURS)', taskB, setTaskB)}
+          {field('c', 'TASK C (HOURS)', taskC, setTaskC)}
+          {field('avail', 'HOURS AVAILABLE', avail, setAvail)}
+        </div>
+        <div className="score-live-result conv-result" aria-live="polite">
+          <Clock3 aria-hidden="true" />
+          <div>
+            <strong>
+              {valid
+                ? `${hm(need)} of work for ${hm(have)} available`
+                : 'Enter the hours each task needs and the hours you have (up to 24).'}
+            </strong>
+            {valid && (
+              <p>
+                {nums
+                  .filter((n) => n > 0)
+                  .map((n) => hm(n))
+                  .join(' + ')}{' '}
+                = {hm(need)} ÷ {hm(have)} = {load}% load
+              </p>
+            )}
+          </div>
+        </div>
+        {valid && (
+          <div className="conv-split">
+            <div className={gap > 0 ? 'is-flag' : undefined}>
+              <span>{gap > 0 ? 'Over by' : 'Spare time'}</span>
+              <strong>{gap === 0 ? 'None' : hm(Math.abs(gap))}</strong>
+            </div>
+            <div>
+              <span>Load</span>
+              <strong>{load}%</strong>
+            </div>
+            <div className={next.flag ? 'is-flag' : undefined}>
+              <span>Next move</span>
+              <strong>{next.label}</strong>
+            </div>
+          </div>
+        )}
+        {valid && next.flag && (
+          <p className="conv-note" role="note">
+            The work is bigger than the time. A pause can steady you, but it can’t create{' '}
+            {hm(gap)}. Ask which task comes first and who can take the rest, or move a deadline.
+          </p>
+        )}
+        {items.length > 0 && (
+          <div className="conv-examples">
+            <span>TRY AN EXAMPLE</span>
+            <div>
+              {items.map((item) => {
+                const [ia, ib, ic] = split(item.detail);
+                const active =
+                  avail === item.amount && taskA === ia && taskB === ib && taskC === ic;
+                return (
+                  <button
+                    type="button"
+                    key={item.title}
+                    aria-pressed={active}
+                    onClick={() => {
+                      setAvail(item.amount ?? '');
+                      setTaskA(ia);
+                      setTaskB(ib);
+                      setTaskC(ic);
+                    }}
+                  >
+                    {item.title}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+/** Thirty-day challenge review: four 7-day blocks scored against a pass mark set on day 1 (item.amount = chances per block, item.detail = "b1,b2,b3,b4,easier"). */
+export function ChallengeReviewCalculator({
+  heading,
+  intro,
+  label,
+  items,
+}: {
+  heading?: string;
+  intro?: string;
+  label?: string;
+  items: { title: string; amount?: string; detail?: string }[];
+}) {
+  const first = items[0];
+  const parse = (d?: string) => {
+    const [b1 = '', b2 = '', b3 = '', b4 = '', ez = ''] = (d ?? '').split(',');
+    return [b1, b2, b3, b4, ez];
+  };
+  const init = parse(first?.detail ?? '2,2,3,2,3');
+  const [perBlock, setPerBlock] = useState(first?.amount ?? '3'),
+    [blocks, setBlocks] = useState(init.slice(0, 4)),
+    [easier, setEasier] = useState(init[4]),
+    [pass, setPass] = useState('75');
+  const id = useId();
+  const per = Number(perBlock),
+    done = blocks.map((b) => Number(b || 0)),
+    ez = Number(easier || 0),
+    mark = Number(pass);
+  const whole = (n: number) => Number.isInteger(n) && n >= 0;
+  const planned = per * 4,
+    total = done.reduce((s, n) => s + n, 0);
+  const valid =
+    perBlock !== '' &&
+    whole(per) &&
+    per >= 1 &&
+    per <= 7 &&
+    done.every((n) => whole(n) && n <= per) &&
+    whole(ez) &&
+    ez <= total &&
+    pass !== '' &&
+    mark >= 1 &&
+    mark <= 100;
+  const rate = valid ? Math.round((total / planned) * 100) : 0;
+  const firstHalf = done[0] + done[1],
+    secondHalf = done[2] + done[3];
+  const trend =
+    secondHalf > firstHalf ? 'Rising' : secondHalf < firstHalf ? 'Falling' : 'Steady';
+  const passed = rate >= mark;
+  const call = passed
+    ? trend === 'Falling'
+      ? { label: 'Continue, check the cue', flag: false }
+      : { label: 'Continue as planned', flag: false }
+    : rate >= 50
+      ? { label: 'Change one thing', flag: true }
+      : { label: 'Change the cue or stop', flag: true };
+  const input = (key: string, text: string, value: string, set: (v: string) => void, max: number) => (
+    <div className="util-field" key={key}>
+      <label className="score-number-label" htmlFor={`${id}-${key}`}>
+        {text}
+      </label>
+      <input
+        id={`${id}-${key}`}
+        className="score-number-input"
+        type="number"
+        inputMode="numeric"
+        min="0"
+        max={max}
+        step="1"
+        value={value}
+        onChange={(ev) => set(ev.target.value)}
+      />
+    </div>
+  );
+  return (
+    <div
+      className="score-frame util-frame conv-frame challenge-frame"
+      role="group"
+      aria-labelledby={`${id}-title`}
+    >
+      <div className="score-explorer util-calculator">
+        <div className="score-explorer-head">
+          <div>
+            <CalendarDays aria-hidden="true" />
+            <div className="conv-title">
+              {label && <span>{label}</span>}
+              <h3 id={`${id}-title`}>{heading}</h3>
+            </div>
+          </div>
+          <strong>LIVE</strong>
+        </div>
+        {intro && <p className="util-intro">{intro}</p>}
+        <div className="challenge-fields is-setup">
+          {input('per', 'CHANCES PER BLOCK', perBlock, setPerBlock, 7)}
+          {input('pass', 'PASS MARK (%)', pass, setPass, 100)}
+          {input('easier', 'OF THOSE, EASIER', easier, setEasier, 28)}
+        </div>
+        <div className="challenge-fields">
+          {blocks.map((b, j) =>
+            input(
+              `b${j}`,
+              `DAYS ${['1–7', '8–14', '15–21', '22–28'][j]} DONE`,
+              b,
+              (v) => setBlocks((prev) => prev.map((p, k) => (k === j ? v : p))),
+              7,
+            ),
+          )}
+        </div>
+        <div className="score-live-result conv-result" aria-live="polite">
+          <CheckCircle2 aria-hidden="true" />
+          <div>
+            <strong>
+              {valid
+                ? `${total} of ${planned} planned chances (${rate}%)`
+                : 'Use whole numbers: each block up to its chances, easier up to the total done.'}
+            </strong>
+            {valid && (
+              <p>
+                {done.join(' + ')} = {total} of {per} × 4 = {planned}. {total - ez} regular + {ez}{' '}
+                easier.
+              </p>
+            )}
+          </div>
+        </div>
+        {valid && (
+          <div className="conv-split">
+            <div className={passed ? undefined : 'is-flag'}>
+              <span>Pass mark {mark}%</span>
+              <strong>{passed ? 'Met' : 'Not met'}</strong>
+            </div>
+            <div>
+              <span>Trend</span>
+              <strong>
+                {trend} ({firstHalf} → {secondHalf})
+              </strong>
+            </div>
+            <div className={call.flag ? 'is-flag' : undefined}>
+              <span>Day-30 call</span>
+              <strong>{call.label}</strong>
+            </div>
+          </div>
+        )}
+        {valid && !passed && (
+          <p className="conv-note" role="note">
+            Below your own pass mark. That’s a result, not a failure: the month showed this setup
+            doesn’t fit yet. Change the cue, the size or the days before you try another month.
+          </p>
+        )}
+        {items.length > 0 && (
+          <div className="conv-examples">
+            <span>TRY AN EXAMPLE</span>
+            <div>
+              {items.map((item) => {
+                const p = parse(item.detail);
+                const active =
+                  perBlock === item.amount &&
+                  blocks.every((b, k) => b === p[k]) &&
+                  easier === p[4];
+                return (
+                  <button
+                    type="button"
+                    key={item.title}
+                    aria-pressed={active}
+                    onClick={() => {
+                      setPerBlock(item.amount ?? '3');
+                      setBlocks(p.slice(0, 4));
+                      setEasier(p[4]);
+                    }}
+                  >
+                    {item.title}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+/** Baseline-to-plan: planned slots × minutes = weekly minutes, keeping at least one free slot from the baseline week as a backup (item.amount = free slots, item.detail = "planned,minutes"). */
+export function BaselinePlanCalculator({
+  heading,
+  intro,
+  label,
+  items,
+}: {
+  heading?: string;
+  intro?: string;
+  label?: string;
+  items: { title: string; amount?: string; detail?: string }[];
+}) {
+  const first = items[0];
+  const parse = (d?: string) => {
+    const [p = '', m = ''] = (d ?? '').split(',');
+    return [p, m];
+  };
+  const [p0, m0] = parse(first?.detail ?? '2,10');
+  const [free, setFree] = useState(first?.amount ?? '3'),
+    [planned, setPlanned] = useState(p0),
+    [minutes, setMinutes] = useState(m0);
+  const id = useId();
+  const f = Number(free),
+    p = Number(planned),
+    m = Number(minutes);
+  const whole = (n: number) => Number.isInteger(n) && n >= 0;
+  const valid =
+    free !== '' &&
+    planned !== '' &&
+    minutes !== '' &&
+    whole(f) &&
+    whole(p) &&
+    f >= 1 &&
+    f <= 14 &&
+    p >= 1 &&
+    p <= f &&
+    m >= 1 &&
+    m <= 120;
+  const weekly = p * m,
+    backup = f - p,
+    share = Math.round((weekly / 150) * 100),
+    active = weekly * 11;
+  const tooMany = whole(f) && whole(p) && p > f && f >= 1;
+  const field = (key: string, text: string, value: string, set: (v: string) => void, max: number) => (
+    <div className="util-field">
+      <label className="score-number-label" htmlFor={`${id}-${key}`}>
+        {text}
+      </label>
+      <input
+        id={`${id}-${key}`}
+        className="score-number-input"
+        type="number"
+        inputMode="numeric"
+        min="0"
+        max={max}
+        step="1"
+        value={value}
+        onChange={(ev) => set(ev.target.value)}
+      />
+    </div>
+  );
+  return (
+    <div
+      className="score-frame util-frame conv-frame baseline-frame"
+      role="group"
+      aria-labelledby={`${id}-title`}
+    >
+      <div className="score-explorer util-calculator">
+        <div className="score-explorer-head">
+          <div>
+            <BookOpen aria-hidden="true" />
+            <div className="conv-title">
+              {label && <span>{label}</span>}
+              <h3 id={`${id}-title`}>{heading}</h3>
+            </div>
+          </div>
+          <strong>LIVE</strong>
+        </div>
+        {intro && <p className="util-intro">{intro}</p>}
+        <div className="baseline-fields">
+          {field('free', 'FREE SLOTS IN YOUR BASELINE WEEK', free, setFree, 14)}
+          {field('planned', 'SLOTS YOU’LL PLAN', planned, setPlanned, 14)}
+          {field('minutes', 'MINUTES PER SESSION', minutes, setMinutes, 120)}
+        </div>
+        <div className="score-live-result conv-result" aria-live="polite">
+          <CalendarDays aria-hidden="true" />
+          <div>
+            <strong>
+              {valid
+                ? `${weekly} planned minutes a week`
+                : tooMany
+                  ? 'You can’t plan more slots than your baseline week showed.'
+                  : 'Enter 1 to 14 free slots, at least 1 planned slot and 1 to 120 minutes.'}
+            </strong>
+            {valid && (
+              <p>
+                {p} slots × {m} minutes = {weekly} minutes. Weeks 2–12: 11 × {weekly} = {active}{' '}
+                minutes.
+              </p>
+            )}
+          </div>
+        </div>
+        {valid && (
+          <div className="conv-split">
+            <div className={backup === 0 ? 'is-flag' : undefined}>
+              <span>Backup slots</span>
+              <strong>{backup === 0 ? 'None' : backup}</strong>
+            </div>
+            <div>
+              <span>Share of 150 min</span>
+              <strong>{share}%</strong>
+            </div>
+            <div>
+              <span>Weeks 2–12 total</span>
+              <strong>{active} min</strong>
+            </div>
+          </div>
+        )}
+        {valid && backup === 0 && (
+          <p className="conv-note" role="note">
+            Every free slot is booked. Keep one empty as your backup, or the first busy week will
+            break the plan instead of bending it.
+          </p>
+        )}
+        {items.length > 0 && (
+          <div className="conv-examples">
+            <span>TRY AN EXAMPLE</span>
+            <div>
+              {items.map((item) => {
+                const [ip, im] = parse(item.detail);
+                const isActive = free === item.amount && planned === ip && minutes === im;
+                return (
+                  <button
+                    type="button"
+                    key={item.title}
+                    aria-pressed={isActive}
+                    onClick={() => {
+                      setFree(item.amount ?? '3');
+                      setPlanned(ip);
+                      setMinutes(im);
                     }}
                   >
                     {item.title}

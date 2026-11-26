@@ -1,8 +1,8 @@
 {
   "title": "Thirty-Day Challenges",
-  "summary": "One action → Planned chances → Weekly reviews → Day-30 decision",
-  "subtitle": "Use one month to find a routine that fits your real life.",
-  "minutes": 30,
+  "summary": "One action → A pass mark on day 1 → Four weekly blocks → Day-30 decision",
+  "subtitle": "Run one month as a fair experiment, with the pass mark written down before you start.",
+  "minutes": 45,
   "published": true,
   "sections": [
     {
@@ -15,10 +15,18 @@
           "text": "Some challenge calendars behave as though every household has a spare gym and a weather control room. Your month may include shift changes, school pickups and a sidewalk that has become a skating rink. A useful challenge makes room for those facts."
         },
         {
+          "type": "paragraph",
+          "text": "You’ve now got the pieces: a sleep window, a cue, an honest scorecard and a way to check your load. A thirty-day challenge puts them together and asks one question. Does this action fit my life well enough to keep?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Here’s the twist. Most challenges are judged on day 30, by mood. A good week at the end feels like success, and a bad one feels like failure, whatever the month really showed. This lesson flips that. You’ll write down your pass mark on day 1, before you know how it goes. On day 30 the month is judged against your own rule, not your feelings that evening."
+        },
+        {
           "type": "transition",
           "text": "Use one month to learn what works for you.",
           "detail": "A clear experiment gives you evidence about what fits your week, so your next choice rests on experience, not a challenge calendar.",
-          "extra": "Section 03 shows how to set up a fair test."
+          "extra": "Section 04 shows you how to set a pass mark and score the month against it."
         }
       ]
     },
@@ -34,6 +42,25 @@
         {
           "type": "paragraph",
           "text": "Choose an action you control, like a short walk after lunch on certain days. Avoid goals tied to weight, looks or a perfect streak. The question is whether the action is useful and workable, not whether you can force yourself through a punishing month."
+        },
+        {
+          "type": "spotlight",
+          "text": "Test one action, not a new life. A month that changes your walking, eating and sleep all at once can’t tell you which change helped."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Thirty empty boxes don’t know about your late shifts.",
+              "text": "Thirty empty boxes don’t know about your late shifts.",
+              "image": "/images/health-fitness/06-elite/health-29/health29-image-1.webp"
+            },
+            {
+              "title": "Write the pass mark first, then let the month answer.",
+              "text": "Write the pass mark first, then let the month answer.",
+              "image": "/images/health-fitness/06-elite/health-29/health29-image-2.webp"
+            }
+          ]
         },
         {
           "type": "paragraph",
@@ -60,11 +87,36 @@
         },
         {
           "type": "paragraph",
-          "text": "Record what happened with simple marks: regular version, easier version, missed or paused. Planned rest days aren’t missed days, since no session was scheduled."
+          "text": "Then record what happened with one of four simple marks. Keep them separate, because each tells you something different at review time."
         },
         {
-          "type": "spotlight",
-          "text": "Count both versions honestly. Three regular sessions and one easier session out of six planned chances means four done out of six, with two missed. It doesn’t mean four full sessions."
+          "type": "cards",
+          "items": [
+            {
+              "title": "Regular",
+              "text": "You did the full planned version. Write the length beside the mark.",
+              "icon": "activity"
+            },
+            {
+              "title": "Easier",
+              "text": "You did the backup version you chose in advance. It counts as done.",
+              "icon": "lifebuoy"
+            },
+            {
+              "title": "Missed",
+              "text": "A planned chance passed without either version. Note what got in the way.",
+              "icon": "alert"
+            },
+            {
+              "title": "Paused",
+              "text": "You stopped on purpose for illness, injury or unsafe conditions. Not a miss.",
+              "icon": "shield"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Planned rest days aren’t missed days, since no session was scheduled. Count both versions honestly. Three regular sessions and one easier session out of six planned chances means four done out of six, with two missed. It doesn’t mean four full sessions."
         },
         {
           "type": "paragraph",
@@ -78,10 +130,149 @@
               "text": "Keep the original end date and look at what got in the way. Don’t double a later session to pay back a missed one."
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "passmark",
+      "title": "Set the pass mark on day 1",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A pass mark is the share of planned chances you’ll call a fit. Pick it before day 1 and write it at the top of your tracker. There’s no official number. Many people choose about three in four, because it leaves room for a sick day and a late shift without letting a half-empty month pass as a success."
         },
         {
           "type": "paragraph",
-          "text": "A good decision can be to keep the same amount, make it smaller or pause. Increase only one part at a time when it suits you, and feel free to repeat a level. No review requires an increase."
+          "text": "Score = chances done ÷ planned chances. Pass if the score is at or above the mark you wrote on day 1. Then compare the first two blocks with the last two to see the trend."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here’s a worked example. You plan three walks in each of four blocks, so 12 chances, and set a 75% pass mark: 9 of 12. The blocks go 3, 2, 2 and 1. That’s 8 of 12, or 67%, below your mark. The trend is falling too: 5 in the first half, 3 in the second. The verdict isn’t “try harder.” It’s “change one thing,” and the place to look is whatever changed after day 14."
+        },
+        {
+          "type": "challengereview",
+          "text": "Score your month",
+          "detail": "INTERACTIVE CHALLENGE LAB",
+          "extra": "Enter your chances per block, your day-1 pass mark and what you did. The panel makes the day-30 call by your own rule.",
+          "items": [
+            {
+              "title": "Sample month",
+              "text": "",
+              "amount": "3",
+              "detail": "3,2,2,1,2"
+            },
+            {
+              "title": "Victor’s month",
+              "text": "",
+              "amount": "3",
+              "detail": "2,2,3,2,3"
+            },
+            {
+              "title": "Rough month",
+              "text": "",
+              "amount": "3",
+              "detail": "1,1,1,0,1"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the trend as well as the score. A month that met the mark but faded at the end may need a fresh look at the cue. A month that missed the mark but rose in the second half may just have needed time to settle. Under half usually means the setup doesn’t fit yet, which is useful to know, not a reason for guilt."
+        }
+      ]
+    },
+    {
+      "id": "thirty-days",
+      "title": "Walk through all thirty days",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This example is a Credit Pulse learning framework, not an official health program or personal prescription. It tests an easy walking break at a pace where talking feels comfortable. Choose a shorter amount, or a suitable accessible activity with professional guidance, if needed."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Example: twelve planned walking chances",
+          "detail": "One month, two versions",
+          "items": [
+            {
+              "title": "Regular",
+              "text": "12 minutes — five minutes of gentle walking, five comfortable minutes and two gentle minutes to finish."
+            },
+            {
+              "title": "Easier",
+              "text": "5 minutes — of gentle walking, with no faster middle part."
+            },
+            {
+              "title": "Planned",
+              "text": "12 chances — three in each seven-day block. Not thirty sessions."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "The month, block by block"
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "title": "PREPARE",
+              "text": "Prepare on day 1. Walk on days 2, 4 and 6; review the cue on day 7.",
+              "detail": "DAYS 1–7",
+              "icon": "book"
+            },
+            {
+              "title": "SETTLE IN",
+              "text": "Walk on days 9, 11 and 13. Review the route and easier option on day 14.",
+              "detail": "DAYS 8–14",
+              "icon": "calendar"
+            },
+            {
+              "title": "MIDPOINT",
+              "text": "Walk on days 16, 18 and 20. On day 21, decide whether to repeat the amount or reduce it.",
+              "detail": "DAYS 15–21",
+              "icon": "clock"
+            },
+            {
+              "title": "FINAL BLOCK",
+              "text": "Walk on days 23, 25 and 27. Review actual completions against the twelve planned chances on day 28.",
+              "detail": "DAYS 22–28",
+              "icon": "filecheck"
+            },
+            {
+              "title": "DECIDE",
+              "text": "On day 29, score the month against your pass mark. On day 30, choose to continue, change or stop and write your reason.",
+              "detail": "DAYS 29–30",
+              "icon": "check"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The blocks add up to 7 + 7 + 7 + 7 + 2 = 30 days. The other days have no walking assignment. Your everyday movement, meals and rest carry on without earning or losing a mark."
+        },
+        {
+          "type": "spotlight",
+          "text": "Keep the same amount for the whole month. You can’t judge a fit fairly if the test keeps changing under you. Increases can wait for the next month."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rest, sleep, food and fluids help you recover, and an illness or injury may call for a pause. Check conditions before you use an outdoor route. Ice, smoke, heat or darkness may call for a safe indoor backup, a different time or a pause. Choose suitable clothing and footwear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop for pain, feeling faint, chest pressure or severe breathlessness. Get urgent help for possible emergency symptoms, and call 911. Don’t treat the calendar as permission to push through symptoms."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A harder final week proves the challenge worked.”",
+              "text": "A month that helps you find a safe, repeatable action is a success, even with no increase."
+            }
+          ]
         }
       ]
     },
@@ -96,12 +287,29 @@
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
           "paragraphs": [
-            "Victor was a transit dispatcher in Winnipeg. He wanted a short walk between work and supper, so he could step away from screens before helping his daughter with homework. The challenge sheet in the staff room had thirty empty boxes, but none had room for a late shift.",
-            "After one evening spent untangling a route disruption, he set up a thirty-day test with three planned walks in each seven-day block. His regular walk was twelve minutes, and his easier one was five. His cue was putting his lunch container back in his bag after work.",
-            "He finished two walks in the first block and missed one when his relief arrived late. In the next block, freezing rain made his outdoor route unsafe. He almost added a longer walk the next day to make up for it. Then he remembered his written rule: no paying back missed walks.",
-            "Victor kept his end date and asked the building attendant about an indoor route. He walked an easy five minutes in an approved hallway and marked it as his shorter version. At his review, he also moved his cue to arriving home, so a late relief couldn’t control it anymore.",
-            "Then came a surprise. His daughter asked to join him. She wanted somewhere quiet to rehearse a school presentation, and the walk gave them time together without the TV. Victor kept the walk the same length instead of turning it into a bigger target.",
-            "By day thirty, he had done nine of his twelve planned chances: six regular walks and three easier ones. He decided to keep three walks a week with the home cue. On the staff-room sheet, he wrote “review the route” beside the boxes, a reminder that a delay calls for a decision, not a punishment."
+            "Victor was a transit dispatcher in Winnipeg. He wanted a short walk between work and supper, a break from screens before helping his daughter with homework. The challenge sheet in the staff room had thirty empty boxes, but none had room for a late shift.",
+            "He set up a thirty-day test instead: three planned walks in each seven-day block, twelve minutes regular or five minutes easier. His cue was putting his lunch container back in his bag after work. Before day 1, he wrote his pass mark at the top of the sheet: nine of twelve.",
+            "He finished two walks in the first block and missed one when his relief arrived late. In the next block, freezing rain made his route unsafe. He almost added a longer walk the next day to make up for it. Then he remembered his written rule: no paying back missed walks.",
+            "Victor kept his end date and walked an easy five minutes in an approved indoor hallway, marking it as his shorter version. At his review, he moved his cue to arriving home, so a late relief couldn’t control it anymore.",
+            "Then came a surprise. His daughter asked to join him, to rehearse a school presentation somewhere quiet. Victor kept the walk the same length instead of turning it into a bigger target.",
+            "By day thirty, he had done nine of his twelve planned chances: six regular walks and three easier ones. That met the pass mark he’d set on day 1, so the decision took about a minute. He kept three walks a week with the home cue, and wrote “review the route” beside the staff-room boxes."
+          ],
+          "image": "/images/health-fitness/06-elite/health-29/health29-image-3.webp",
+          "focus": 16,
+          "at": 1,
+          "items": [
+            {
+              "title": "DAY 1",
+              "text": "Pass mark: 9 of 12"
+            },
+            {
+              "title": "FREEZING RAIN",
+              "text": "Five minutes indoors"
+            },
+            {
+              "title": "DAY 30",
+              "text": "9 of 12: continue"
+            }
           ]
         },
         {
@@ -112,80 +320,45 @@
           "type": "transition",
           "text": "Keep what you learn, and the routine can outlast the month.",
           "detail": "A changed cue or a shorter option protects a useful routine when your schedule shifts, without erasing the effort you’ve made.",
-          "extra": "Section 05 walks you through all thirty days."
+          "extra": "Section 07 helps you make the day-30 call."
         }
       ]
     },
     {
-      "id": "thirty-days",
-      "title": "Walk through all thirty days",
+      "id": "decision",
+      "title": "Make the day-30 call",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "This example is a Credit Pulse learning framework, not an official health program or personal prescription. It tests an easy walking break at a pace where talking feels comfortable. Choose a shorter amount, or a suitable accessible activity with professional guidance, if needed."
+          "text": "Day 30 isn’t a finish line. It’s a decision point with three good answers. Use your score, your trend and your notes on the misses, then pick one and write down why."
         },
         {
-          "type": "heading",
-          "text": "Example: twelve planned walking chances"
-        },
-        {
-          "type": "chips",
+          "type": "filecards",
+          "text": "Three good answers on day 30",
+          "image": "/images/health-fitness/06-elite/health-29/health29-image-2.webp",
           "items": [
             {
-              "title": "Days 1–7: Prepare on day 1. Walk on days 2, 4 and 6; review the cue on day 7.",
-              "text": ""
+              "title": "Continue",
+              "text": "You met your pass mark and the trend held. Keep the same amount, or change one part next month."
             },
             {
-              "title": "Days 8–14: Walk on days 9, 11 and 13. Review the route and easier option on day 14.",
-              "text": ""
+              "title": "Change",
+              "text": "You missed the mark, or the trend fell. Fix the cue, the size or the days, then run another month."
             },
             {
-              "title": "Days 15–21: Walk on days 16, 18 and 20. On day 21, decide whether to repeat the amount or reduce it.",
-              "text": ""
-            },
-            {
-              "title": "Days 22–28: Walk on days 23, 25 and 27. Review actual completions against the twelve planned chances on day 28.",
-              "text": ""
-            },
-            {
-              "title": "Days 29–30: On day 29, compare what helped across the month. On day 30, choose to continue, change or stop and write your reason.",
-              "text": ""
+              "title": "Stop",
+              "text": "The action didn’t fit or wasn’t useful. Stopping on purpose is a decision, not a failure."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "The blocks add up to 7 + 7 + 7 + 7 + 2 = 30 days. Each regular session has five minutes of gentle walking, five comfortable minutes and two gentle minutes to finish: twelve minutes in total. The easier version is five gentle minutes, with no faster middle part."
+          "text": "A good decision can be to keep the same amount, make it smaller or pause. Increase only one part at a time when it suits you, and feel free to repeat a level. No review requires an increase."
         },
         {
           "type": "spotlight",
-          "text": "There are twelve planned sessions, not thirty. The other days have no walking assignment. Your everyday movement, meals and rest carry on without earning or losing a mark."
-        },
-        {
-          "type": "paragraph",
-          "text": "Keep the same amount for the whole month in this example. You can repeat it after day thirty. Rest, sleep, food and fluids help you recover, and an illness or injury may call for a pause."
-        },
-        {
-          "type": "paragraph",
-          "text": "Stop for pain, feeling faint, chest pressure or severe breathlessness. Get urgent help for possible emergency symptoms, and call 911. Don’t treat the calendar as permission to push through symptoms."
-        },
-        {
-          "type": "spotlight",
-          "text": "Check conditions before you use an outdoor route. Ice, smoke, heat or darkness may call for a safe indoor backup, a different time or a pause. Choose suitable clothing and footwear."
-        },
-        {
-          "type": "myths",
-          "items": [
-            {
-              "title": "“A harder final week proves the challenge worked.”",
-              "text": "A month that helps you find a safe, repeatable action is a success, even with no increase."
-            }
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Insider tip: Write the regular and easier session lengths beside your tracking marks. That keeps the amounts clear when you review the month."
+          "text": "Insider tip: Write the regular and easier session lengths beside your tracking marks, and your pass mark at the top. That keeps the amounts and the rule clear when you review the month."
         }
       ]
     },
@@ -202,19 +375,19 @@
           "type": "accordions",
           "items": [
             {
+              "title": "You plan 15 chances and set an 80% pass mark. How many do you need to pass?",
+              "detail": "12.",
+              "text": "15 × 0.8 = 12 planned chances."
+            },
+            {
+              "title": "Your four blocks go 3, 3, 2 and 2 out of 3 each. What’s your score, and what’s the trend?",
+              "detail": "10 of 12 (83%), falling.",
+              "text": "3 + 3 + 2 + 2 = 10 of 12. First half 6, second half 4, so it met a 75% mark but faded. Check the cue."
+            },
+            {
               "title": "Does this example schedule thirty walking sessions?",
               "detail": "No.",
               "text": "It schedules twelve sessions across thirty days."
-            },
-            {
-              "title": "What happens after a missed chance?",
-              "detail": "Keep the end date, note the barrier and return at a suitable planned chance.",
-              "text": ""
-            },
-            {
-              "title": "Must the walking amount rise each week?",
-              "detail": "No.",
-              "text": "Repeating or reducing the amount is allowed."
             }
           ]
         },
@@ -236,20 +409,20 @@
               "text": "The planned easier option counts as a completion while keeping the amount clear."
             },
             {
-              "title": "At day 21, the current amount still fits. What should happen next? A. Increase it automatically. · B. Repeat it if suitable. · C. Add two more behaviours.",
+              "title": "On day 30 you feel great, but you did 6 of 12 against a 75% pass mark. What fits this lesson? A. Call it a pass because the last week felt good. · B. Change one thing and run another month. · C. Raise the amount.",
               "detail": "B.",
-              "text": "Reviews allow you to keep a workable level without compulsory increases."
+              "text": "6 ÷ 12 = 50%, below the mark you set on day 1. Your own rule decides, not the mood that evening."
             },
             {
               "title": "Write one day-thirty decision and the information you would use to make it.",
               "detail": "Sample:",
-              "text": "Keep three weekly chances because nine of twelve happened and the home cue worked better than the work cue."
+              "text": "Keep three weekly chances because ten of twelve happened, which beat my 75% pass mark, and the home cue worked better than the work cue."
             }
           ]
         },
         {
           "type": "takeaway",
-          "text": "Thirty days gives your experiment an end date. Judge the plan by what you learned about its fit, and keep regular completions, easier completions and missed chances separate.",
+          "text": "Thirty days gives your experiment an end date. Set the pass mark on day 1, keep regular, easier and missed chances separate, and let your own rule make the day-30 call.",
           "detail": ""
         }
       ]
@@ -261,7 +434,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Write your own plan before you start. Use the questions below to make your first chance clear."
+          "text": "Write your own plan before you start. Use the questions below to make your first chance clear, and write your pass mark before day 1."
         },
         {
           "type": "paragraph",
@@ -285,6 +458,10 @@
               "text": "A bounded experiment with a review at the end."
             },
             {
+              "title": "Pass mark",
+              "text": "The share of planned chances you decide, before day 1, will count as a fit."
+            },
+            {
               "title": "Behaviour",
               "text": "An action you can choose and describe."
             },
@@ -299,6 +476,10 @@
             {
               "title": "Easier option",
               "text": "A smaller or simpler version chosen in advance."
+            },
+            {
+              "title": "Block",
+              "text": "A seven-day stretch of the month, reviewed at its end."
             },
             {
               "title": "Review point",
@@ -353,15 +534,17 @@
       "What action will you test?",
       "What cue will remind you, and on which days?",
       "What is your regular version, and your easier version?",
+      "What pass mark will you write down before day 1?",
       "What barrier do you expect, and how will you handle it?",
       "When are your review dates?",
       "What decision will you consider on day thirty?"
     ],
     "samples": [
-      "For example: a twelve-minute walk after work.",
-      "For example: arriving home, on Monday, Wednesday and Friday.",
-      "For example: twelve minutes regular, five minutes easier.",
-      "For example: late shifts. I’ll use the easier version and keep the end date.",
+      "For example: a ten-minute walk after work.",
+      "For example: arriving home, on Tuesday, Thursday and Saturday.",
+      "For example: ten minutes regular, four minutes easier.",
+      "For example: 8 of 12 planned chances, about 67%.",
+      "For example: late meetings. I’ll use the easier version and keep the end date.",
       "For example: days 7, 14, 21 and 28.",
       "Continue the same plan, change it, stop the experiment, or not sure."
     ],

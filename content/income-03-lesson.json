@@ -78,6 +78,21 @@
           "text": "Health Canada’s consumer product rules can apply to used goods. Never sell a recalled product unless the fix has been done and resale is allowed."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Check what it sold for, not what it was listed for.",
+              "text": "Check what it sold for, not what it was listed for.",
+              "image": "/images/income-business/01-starter/income-03/income03-image-1.webp"
+            },
+            {
+              "title": "Count every cost before you count the profit.",
+              "text": "Count every cost before you count the profit.",
+              "image": "/images/income-business/01-starter/income-03/income03-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Fake goods cause legal, safety and refund problems. A low price and a heroic story about a cousin’s warehouse are not proof that something is genuine. If you can’t prove it, don’t call it genuine."
         },
@@ -254,6 +269,8 @@
           "text": "Meet Priya",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/income-business/01-starter/income-03/income03-image-3.webp",
+          "focus": 26,
           "paragraphs": [
             "Priya Desai wants to earn an extra $500 a month to pay down her credit card. She sees insulated tumblers listed online for $38 and buys 30 at $19 each. By Tuesday, the boxes have formed a small municipal council in her hallway.",
             "Her spreadsheet has two columns: “cost” and “future riches.” The first sales come in, and the riches shrink. Payment fees, packaging and delivery eat most of the margin. Two lids leak.",

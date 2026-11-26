@@ -94,6 +94,21 @@
           ]
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Orders that keep coming back are your first signal.",
+              "text": "Orders that keep coming back are your first signal.",
+              "image": "/images/income-business/06-elite/income-20/income20-image-1.webp"
+            },
+            {
+              "title": "Keep records like a business before you become one.",
+              "text": "Keep records like a business before you become one.",
+              "image": "/images/income-business/06-elite/income-20/income20-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "Before you cut your hours"
         },
@@ -163,6 +178,7 @@
           "text": "The Voltage Tester",
           "detail": "STORY",
           "extra": "",
+          "image": "/images/income-business/06-elite/income-20/income20-image-3.webp",
           "paragraphs": [
             "Mehdi Karimi worked as an electrician in Surrey. In the evenings he installed electric-vehicle chargers for neighbours. His goal was to cut his day job to four days a week, so he could spend the fifth day on his own customers. A yellow voltage tester hung from his belt.",
             "By spring he had eleven repeat clients. Then a property manager asked if he had liability insurance, a contractor licence and a business number. The company needed all three before it could give him a bigger contract. Mehdi had none of them.",

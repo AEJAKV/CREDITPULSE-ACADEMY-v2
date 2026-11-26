@@ -118,6 +118,21 @@
           "text": "If your standing leg wobbles or your back leans hard, make the kick smaller or go back to knee lifts. Balance is the skill you’re building."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A kick looks easy right up until your foot slides.",
+              "text": "A kick looks easy right up until your foot slides.",
+              "image": "/images/health-fitness/04-platinum/health-20/health20-image-1.webp"
+            },
+            {
+              "title": "Lift, push, pull back, step down, slowly.",
+              "text": "Lift, push, pull back, step down, slowly.",
+              "image": "/images/health-fitness/04-platinum/health-20/health20-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "Judge effort by your breathing"
         },
@@ -137,37 +152,6 @@
       ]
     },
     {
-      "id": "story",
-      "title": "Fictional learning story: Rosa’s chair kicks",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Rosa’s chair kicks",
-          "detail": "FICTIONAL LEARNING STORY",
-          "extra": "",
-          "paragraphs": [
-            "Rosa, 55, lived in Sudbury and had finished the boxing fitness lesson in her living room. Her daughter Elena taught a cardio kickboxing class at the YMCA on Thursday nights and kept inviting her. Rosa wanted to go, but every video she watched showed people kicking above their heads.",
-            "One Saturday she tried a few of those kicks in her kitchen, in socks. On the third one, her standing foot slid and she grabbed the counter just in time. Her heart was pounding, and not from the workout.",
-            "She had a choice. She could give up on kicks and stick with punches, or she could learn them the slow way. She called Elena, who laughed kindly and told her to start with a chair, shoes and knee lifts.",
-            "For two weeks, Rosa practised beside a kitchen chair twice a week: knee lifts, then small front kicks at knee height, holding on the whole time. She wrote down how steady her standing leg felt, from shaky to solid.",
-            "The twist came at her first class. Elena led the group through high kicks, then turned to the room and said, “If you want the knee-height version, watch my mom.” Rosa found herself showing six people the chair version, a little shy and a lot proud.",
-            "She still kicks at knee height. Some Thursdays she lets go of the wall for a round or two. The kitchen chair stays where it is, just in case."
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Rosa built balance first and height never. Track how steady your standing leg feels, not how high your foot goes."
-        },
-        {
-          "type": "transition",
-          "text": "Build balance first, and every kick gets safer and stronger.",
-          "detail": "Practising with support and a low target lets you join any class at a level you can control.",
-          "extra": "Section 05 gives you a fourteen-minute practice to start with."
-        }
-      ]
-    },
-    {
       "id": "practice",
       "title": "Build a short practice",
       "paragraphs": [],
@@ -177,27 +161,25 @@
           "text": "Choose a clear indoor space with good footing, room to swing a leg in every direction and a sturdy chair or counter within reach. Wear secure shoes. Move pets, rugs and loose objects out of the way. A cat is not a training partner for this part."
         },
         {
-          "type": "heading",
-          "text": "Adjustable example: 14 minutes"
-        },
-        {
           "type": "paragraph",
           "text": "This example isn’t a personal prescription or an officially endorsed plan. Shorten it, or get adapted instruction to suit your needs. Keep the kicks low and hold your support."
         },
         {
-          "type": "chips",
+          "type": "glasspanel",
+          "text": "Adjustable example: 14 minutes",
+          "detail": "Total: 4 + 6 + 4 = 14 minutes",
           "items": [
             {
-              "title": "Warm-up, 4 minutes: march in place, roll your shoulders, circle your arms gently and do slow knee lifts while holding your support.",
-              "text": ""
+              "title": "Warm-up",
+              "text": "4 minutes — march in place, roll your shoulders, circle your arms gently and do slow knee lifts while holding your support."
             },
             {
-              "title": "Practice, 6 minutes: three rounds. Each round is 30 seconds of small air punches, 30 seconds of supported knee lifts or low front kicks (switch legs halfway), then 1 minute of easy marching or rest.",
-              "text": ""
+              "title": "Practice",
+              "text": "6 minutes — three rounds. Each round is 30 seconds of small air punches, 30 seconds of supported knee lifts or low front kicks (switch legs halfway), then 1 minute of easy marching or rest."
             },
             {
-              "title": "Cool-down, 4 minutes: slow walking, gentle leg swings while holding your support, then let your breathing settle. Total: 4 + 6 + 4 = 14 minutes.",
-              "text": ""
+              "title": "Cool-down",
+              "text": "4 minutes — slow walking, gentle leg swings while holding your support, then let your breathing settle."
             }
           ]
         },
@@ -229,6 +211,39 @@
         {
           "type": "paragraph",
           "text": "If you want to kick pads or a bag, find a qualified kickboxing or martial arts coach first. Contact work needs proper technique, wraps and equipment, which a video can’t give you."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: Rosa’s chair kicks",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Rosa’s chair kicks",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Rosa, 55, lived in Sudbury and had finished the boxing fitness lesson in her living room. Her daughter Elena taught a cardio kickboxing class at the YMCA on Thursday nights and kept inviting her. Rosa wanted to go, but every video she watched showed people kicking above their heads.",
+            "One Saturday she tried a few of those kicks in her kitchen, in socks. On the third one, her standing foot slid and she grabbed the counter just in time. Her heart was pounding, and not from the workout.",
+            "She had a choice. She could give up on kicks and stick with punches, or she could learn them the slow way. She called Elena, who laughed kindly and told her to start with a chair, shoes and knee lifts.",
+            "For two weeks, Rosa practised beside a kitchen chair twice a week: knee lifts, then small front kicks at knee height, holding on the whole time. She wrote down how steady her standing leg felt, from shaky to solid.",
+            "The twist came at her first class. Elena led the group through high kicks, then turned to the room and said, “If you want the knee-height version, watch my mom.” Rosa found herself showing six people the chair version, a little shy and a lot proud.",
+            "She still kicks at knee height. Some Thursdays she lets go of the wall for a round or two. The kitchen chair stays where it is, just in case."
+          ],
+          "image": "/images/health-fitness/04-platinum/health-20/health20-image-3.webp",
+          "focus": 15
+        },
+        {
+          "type": "spotlight",
+          "text": "Rosa built balance first and height never. Track how steady your standing leg feels, not how high your foot goes."
+        },
+        {
+          "type": "transition",
+          "text": "Build balance first, and every kick gets safer and stronger.",
+          "detail": "Practising with support and a low target lets you join any class at a level you can control.",
+          "extra": "Section 06 checks what stuck, and Section 07 helps you write your own plan."
         }
       ]
     },

@@ -91,6 +91,21 @@
         {
           "type": "spotlight",
           "text": "The CRTC says sales emails and texts generally need consent, the sender’s name and contact details, and a way to unsubscribe. An email asking for consent counts as a sales message too, so you need a lawful basis before you send it. Permission to answer one request does not cover later marketing."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Tell people which business will show up.",
+              "text": "Tell people which business will show up.",
+              "image": "/images/income-business/04-platinum/income-12/income12-image-1.webp"
+            },
+            {
+              "title": "Every request deserves a clear callback.",
+              "text": "Every request deserves a clear callback.",
+              "image": "/images/income-business/04-platinum/income-12/income12-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -104,6 +119,8 @@
           "text": "Owen’s Saturday slot",
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
+          "image": "/images/income-business/04-platinum/income-12/income12-image-3.webp",
+          "focus": 25,
           "paragraphs": [
             "Owen lived in Hamilton and worked in a warehouse. He wanted to test a lead service on the side. A local yard-care owner had open Saturday slots but little time to sort messages. Owen offered a two-week trial for garden cleanup in one part of the city.",
             "Their first public post brought in several requests, and Owen pictured a tidy report. Then a neighbour asked which company would show up. The page named the owner, but the form only said “a local provider” would call.",

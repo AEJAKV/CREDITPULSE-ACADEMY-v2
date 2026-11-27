@@ -75,6 +75,8 @@
           "text": "Meet Mateo",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/income-business/01-starter/income-04/income04-image-3.webp",
+          "focus": 30,
           "paragraphs": [
             "Mateo Alvarez flips used camera gear in Calgary. His goal is to save $2,000 for a better camera of his own by summer. He cleans and tests a used lens, and lists it with clear photos of one small scratch.",
             "Four minutes later, a buyer offers full price. Mateo briefly feels like the Warren Buffett of camera lenses.",
@@ -146,6 +148,21 @@
         {
           "type": "spotlight",
           "text": "For bikes, electronics and other items that get stolen, a missing or altered serial number is a stop sign, not an invitation to improve your negotiating voice."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Test it, photograph it, show the flaw.",
+              "text": "Test it, photograph it, show the flaw.",
+              "image": "/images/income-business/01-starter/income-04/income04-image-1.webp"
+            },
+            {
+              "title": "A real payment never needs your bank code.",
+              "text": "A real payment never needs your bank code.",
+              "image": "/images/income-business/01-starter/income-04/income04-image-2.webp"
+            }
+          ]
         },
         {
           "type": "paragraph",

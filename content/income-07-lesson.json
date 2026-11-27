@@ -148,6 +148,21 @@
         {
           "type": "spotlight",
           "text": "Add one honest “who this is not for” line to every recommendation. It makes your praise more believable, and it helps the wrong buyers skip a purchase they would have returned."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Recommend only what you would use yourself.",
+              "text": "Recommend only what you would use yourself.",
+              "image": "/images/income-business/02-silver/income-07/income07-image-1.webp"
+            },
+            {
+              "title": "Test it in the weather your viewers face.",
+              "text": "Test it in the weather your viewers face.",
+              "image": "/images/income-business/02-silver/income-07/income07-image-2.webp"
+            }
+          ]
         }
       ]
     },
@@ -161,6 +176,8 @@
           "text": "The Winter Tent",
           "detail": "STORY",
           "extra": "",
+          "image": "/images/income-business/02-silver/income-07/income07-image-3.webp",
+          "focus": 34,
           "paragraphs": [
             "Marcus Bell ran a small video channel about winter camping from his home in Thunder Bay. His goal was to save for a new tent, because the old one had leaked on the family’s last trip to Algonquin Park, and everyone had woken up damp and grumpy.",
             "One morning an email arrived from a camping brand. The company offered Marcus a free stove and 12% on every stove sold through his link. He felt a rush of excitement, because the commission could cover the tent in a season.",

@@ -103,6 +103,21 @@
           "text": "Read the three-star reviews. Browse the best-selling templates on any marketplace and read the middling reviews, because they reveal what buyers wish the product included, and that gap is your opportunity."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Sell the system you already built for yourself.",
+              "text": "Sell the system you already built for yourself.",
+              "image": "/images/income-business/02-silver/income-06/income06-image-1.webp"
+            },
+            {
+              "title": "One clear tool beats a folder of extras.",
+              "text": "One clear tool beats a folder of extras.",
+              "image": "/images/income-business/02-silver/income-06/income06-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Start with a format that you already know how to make, since a clean PDF made well will always beat a complicated app made badly. Spreadsheets, printable pages, and short video lessons are all reasonable first choices for a beginner."
         }
@@ -232,6 +247,8 @@
           "text": "The Hockey Fund",
           "detail": "STORY",
           "extra": "",
+          "image": "/images/income-business/02-silver/income-06/income06-image-3.webp",
+          "focus": 24,
           "paragraphs": [
             "Harleen Sandhu worked the front desk at a dental clinic in Saskatoon, and her goal was small and clear. She wanted an extra $400 each month to cover her daughter’s hockey fees, and she kept the cash in a jar labelled “Hockey Fund.” Her husband drove long-haul, so their money arrived on uneven dates. To cope, Harleen had built a spreadsheet that planned the bills around his pay days. Friends kept asking to borrow it, and one finally said, “You should sell that.” Harleen spent two weekends cleaning up the spreadsheet and adding a one-page guide. She listed it online for $14. In the first month she sold 31 copies, and the jar filled up fast.",
             "Then she faced a choice. The sales were small and nobody was asking about them. She could ignore the money until tax time, as many beginners do, or she could start a simple log that same night. She sat at the kitchen table and opened a new tab named “Sales Log.” For every sale she wrote the date, the buyer’s province, and the fee. Then she set a second jar beside the first one, labelled “Tax Jar.”",

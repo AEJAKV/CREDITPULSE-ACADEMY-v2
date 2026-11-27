@@ -18,7 +18,7 @@
           "type": "transition",
           "text": "Get a fun, full-body workout without stepping into a ring.",
           "detail": "Simple air practice builds rhythm, coordination and fitness at your own pace, with no ring and no expensive gear.",
-          "extra": "Section 05 gives you a twelve-minute practice you can do at home."
+          "extra": "Section 04 gives you a twelve-minute practice you can do at home."
         }
       ]
     },
@@ -67,6 +67,21 @@
           "text": "Practise one move at a time. Try alternating small forward hand moves, then pause with both hands resting. Add more only when the simple version feels manageable."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "The screen speeds up. You don’t have to.",
+              "text": "The screen speeds up. You don’t have to.",
+              "image": "/images/health-fitness/04-platinum/health-19/health19-image-1.webp"
+            },
+            {
+              "title": "Keep it small and slow, with a bent elbow.",
+              "text": "Keep it small and slow, with a bent elbow.",
+              "image": "/images/health-fitness/04-platinum/health-19/health19-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "heading",
           "text": "Judge effort by your breathing"
         },
@@ -84,12 +99,79 @@
           ]
         },
         {
-          "type": "spotlight",
+          "type": "paragraph",
           "text": "Ask a class leader whether the session stays non-contact, how beginners can slow down and who checks technique. A class name alone can’t answer those questions."
         },
         {
           "type": "paragraph",
           "text": "A video can’t see you move or adjust the lesson for you. Choose a pace you can control, even if the screen moves on without you."
+        }
+      ]
+    },
+    {
+      "id": "practice",
+      "title": "Build a short practice",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose a clear indoor area with good footing, comfortable shoes and room for both arms. Move pets and loose objects out of the way before you start. A living room already has enough obstacles without the robot vacuum joining the class."
+        },
+        {
+          "type": "paragraph",
+          "text": "This example is not a personal prescription or an officially endorsed plan. Shorten it, or get adapted instruction to suit your needs. Start easy and keep the hand moves small."
+        },
+        {
+          "type": "glasspanel",
+          "text": "Adjustable example: 12 minutes",
+          "detail": "Total: 4 + 4 + 4 = 12 minutes",
+          "items": [
+            {
+              "title": "Warm-up",
+              "text": "4 minutes — easy walking in place, gentle shoulder movement, and slow comfortable arm movement."
+            },
+            {
+              "title": "Practice",
+              "text": "4 minutes — four rounds of 30 seconds of small alternating air movements, followed by 30 seconds of easy walking or rest. Each round lasts 1 minute."
+            },
+            {
+              "title": "Cool-down",
+              "text": "4 minutes — slow walking, then allow your breathing to settle."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "The practice block has 2 minutes of air moves and 2 minutes of recovery. Recovery is planned time, so don’t skip it to keep up with someone else."
+        },
+        {
+          "type": "paragraph",
+          "text": "If moving your arms and feet together feels confusing, separate them: stand still for air practice and walk only during recovery. If moving your arms hurts, stop and get advice instead of working through the pain. A professional can help you pick another option."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop for chest pain or pressure, feeling faint, or severe or unusual breathlessness. Call 911 for chest pain, fainting or severe trouble breathing. Once a session feels manageable, repeat it before you decide whether to change anything. There’s no deadline to make it harder."
+        },
+        {
+          "type": "paragraph",
+          "text": "Change one thing at a time. For example, keep the same small move and easy pace while adding one more 1-minute round, but only when it suits you. The example would then total 13 minutes."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A harder round is always a better round.”",
+              "text": "A round you can control teaches you more about where you’re starting. You can shorten the session or repeat the same level."
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Insider tip: Put your timer where you can see it before you start. A simple repeating timer helps you follow the breaks without watching a video or stopping to unlock your phone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Canadian weather can change where you practise. Check local heat, smoke and weather alerts if you plan to train outdoors, and choose an indoor space with good air when it’s unsafe outside. Avoid icy or slippery ground."
         }
       ]
     },
@@ -110,7 +192,9 @@
             "During the first round, the music sped up and some classmates added steps. Farah tried to follow both changes and started losing her rhythm. She had a real choice: keep chasing the group, or go back to the move she could control.",
             "She chose to stand still, make smaller moves and rest before the next round. Then came the surprise. The instructor used Farah’s slower version to show the whole class another option. She had expected a correction. Instead, her choice became part of the lesson.",
             "She finished without touching a bag and wrote down one tip she wanted to remember. Later that week, she practised a short air routine at home and still had time for her father’s errands. The app still liked longer workouts, but Farah kept her own note: “A practice I chose to repeat.”"
-          ]
+          ],
+          "image": "/images/health-fitness/04-platinum/health-19/health19-image-3.webp",
+          "focus": 15
         },
         {
           "type": "spotlight",
@@ -120,76 +204,7 @@
           "type": "transition",
           "text": "Choose the version that fits, and you’ll keep coming back.",
           "detail": "Knowing how to simplify a move lets you join any session while staying in control of your own effort and time.",
-          "extra": "Section 05 shows how to build your own short practice."
-        }
-      ]
-    },
-    {
-      "id": "practice",
-      "title": "Build a short practice",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Choose a clear indoor area with good footing, comfortable shoes and room for both arms. Move pets and loose objects out of the way before you start. A living room already has enough obstacles without the robot vacuum joining the class."
-        },
-        {
-          "type": "heading",
-          "text": "Adjustable example: 12 minutes"
-        },
-        {
-          "type": "paragraph",
-          "text": "This example is not a personal prescription or an officially endorsed plan. Shorten it, or get adapted instruction to suit your needs. Start easy and keep the hand moves small."
-        },
-        {
-          "type": "chips",
-          "items": [
-            {
-              "title": "Warm-up, 4 minutes: easy walking in place, gentle shoulder movement, and slow comfortable arm movement.",
-              "text": ""
-            },
-            {
-              "title": "Practice, 4 minutes: four rounds of 30 seconds of small alternating air movements, followed by 30 seconds of easy walking or rest. Each round lasts 1 minute.",
-              "text": ""
-            },
-            {
-              "title": "Cool-down, 4 minutes: slow walking, then allow your breathing to settle. Total: 4 + 4 + 4 = 12 minutes.",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "The practice block has 2 minutes of air moves and 2 minutes of recovery. Recovery is planned time, so don’t skip it to keep up with someone else."
-        },
-        {
-          "type": "paragraph",
-          "text": "If moving your arms and feet together feels confusing, separate them: stand still for air practice and walk only during recovery. If moving your arms hurts, stop and get advice instead of working through the pain. A professional can help you pick another option."
-        },
-        {
-          "type": "paragraph",
-          "text": "Stop for chest pain or pressure, feeling faint, or severe or unusual breathlessness. Call 911 for chest pain, fainting or severe trouble breathing. Once a session feels manageable, repeat it before you decide whether to change anything. There’s no deadline to make it harder."
-        },
-        {
-          "type": "spotlight",
-          "text": "Change one thing at a time. For example, keep the same small move and easy pace while adding one more 1-minute round, but only when it suits you. The example would then total 13 minutes."
-        },
-        {
-          "type": "myths",
-          "items": [
-            {
-              "title": "“A harder round is always a better round.”",
-              "text": "A round you can control teaches you more about where you’re starting. You can shorten the session or repeat the same level."
-            }
-          ]
-        },
-        {
-          "type": "spotlight",
-          "text": "Insider tip: Put your timer where you can see it before you start. A simple repeating timer helps you follow the breaks without watching a video or stopping to unlock your phone."
-        },
-        {
-          "type": "paragraph",
-          "text": "Canadian weather can change where you practise. Check local heat, smoke and weather alerts if you plan to train outdoors, and choose an indoor space with good air when it’s unsafe outside. Avoid icy or slippery ground."
+          "extra": "Section 06 checks what stuck, and Section 07 helps you write your own plan."
         }
       ]
     },

@@ -2,11 +2,11 @@
 
 A coverflow carousel for **day-by-day plans**. The active day is a dark green card in the centre, and the days either side peek in blurred. It is for reading and moving through the plan; there is no "mark done" or progress tracking. Use it for a plan the learner works through **one day (or a short run of days) at a time**, for example a 30-day reset split into weekly carousels of 4–7 days. It also fits a **short numbered list of 5–7 items read one at a time**, labelled `NUMBER n` (see below).
 
-**References:** The 30-Day Financial Reset (`content/money-15-lesson.json`): Week 1 (Days 1–7), Week 2 (Days 8–14), Week 3 (Days 15–21) and Week 4 (Days 22–30). Buying Versus Leasing (`content/money-16-lesson.json`): "The seven-number demand" (`NUMBER 1` to `NUMBER 7`).
+**References:** The 30-Day Financial Reset (`content/money-15-lesson.json`): Week 1 (Days 1–7), Week 2 (Days 8–14), Week 3 (Days 15–21) and Week 4 (Days 22–30). Buying Versus Leasing (`content/money-16-lesson.json`): "The seven-number demand" (`NUMBER 1` to `NUMBER 7`). Twelve-Week Transformations (`content/health-30-lesson.json`): "Twelve weeks, four jobs" (`WEEKS 1–3` to `WEEKS 10–12`).
 
 ## How to apply it
 
-It is an ordinary `carousel` block. It switches to the day carousel **automatically** when every item's `detail` starts with `DAY `, `DAYS ` or `NUMBER ` and no item has an `image`. Nothing else has to be set. A carousel with any other label (`STEP 1`, `STATION 2`) or with photos keeps the image card carousel (`docs/image-card-carousel.md`).
+It is an ordinary `carousel` block. It switches to the day carousel **automatically** when every item's `detail` starts with `DAY `, `DAYS `, `WEEK `, `WEEKS ` or `NUMBER ` and no item has an `image`. Nothing else has to be set. A carousel with any other label (`STEP 1`, `STATION 2`) or with photos keeps the image card carousel (`docs/image-card-carousel.md`).
 
 ```json
 {
@@ -24,7 +24,7 @@ It is an ordinary `carousel` block. It switches to the day carousel **automatica
 
 | Field | Rule |
 | --- | --- |
-| `detail` | `DAY 5`, `DAYS 15–16` or `NUMBER 3`, in capitals and unique within its carousel. The number goes in the tab's number pill. |
+| `detail` | `DAY 5`, `DAYS 15–16`, `WEEKS 4–6` or `NUMBER 3`, in capitals and unique within its carousel. The number goes in the tab's number pill. |
 | `title` | ALL CAPS in the JSON. It shows in title case ("FLEXIBLE SPENDING" → "Flexible Spending"). Keep it short (1–2 words); long titles get an ellipsis in the phone tabs. |
 | `text` | Word for word from the lesson. Aim for 25 words or fewer so it fits the panel without making the cards tall. |
 | `icon` | One from the table below. An unknown name falls back to a tick. |
@@ -32,7 +32,7 @@ It is an ordinary `carousel` block. It switches to the day carousel **automatica
 
 **Heading:** the carousel has **no title of its own**. It starts at the pill tabs, because the section title or the `heading` block above it already names the week, and repeating it centred over the tabs was redundant. That heading is also used, unseen, as the carousel's screen-reader name: the `heading` block directly before the carousel if there is one, otherwise the section title. When a section holds more than one day carousel (Weeks 3 and 4), **put a `heading` block just above each one**.
 
-**Only use it for real days or real numbered items.** Don't relabel `STEP 1` as `DAY 1` to get this design. The label must be true to the content: `DAY n` for a day plan, `NUMBER n` for a list whose items are already numbered in the lesson (such as "the seven numbers"). Keep one label word for the whole carousel.
+**Only use it for real days or real numbered items.** Don't relabel `STEP 1` as `DAY 1` to get this design. The label must be true to the content: `DAY n` for a day plan, `WEEKS a–b` for a plan in multi-week phases (added 2026-11-25 for health-30), `NUMBER n` for a list whose items are already numbered in the lesson (such as "the seven numbers"). Keep one label word for the whole carousel.
 
 **Converting a numbered `cards` block** (`01`, `02`… as titles): keep each card's `text` word for word, set `detail` to `NUMBER 1`…, add a short ALL-CAPS `title` naming the item (for example `PRICE`, `DUE AT SIGNING`, `RATE AND CHARGES`) and an `icon`, and keep the `heading` above it. The seven-number demand uses `dollar`, `bank`, `search`, `calendar`, `filetext`, `lock`, `filecheck`.
 

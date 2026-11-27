@@ -71,6 +71,21 @@
           "text": "A partner’s friendly promise is not a share record. Agree on who owns what before you file. Then record the shares the company issued and the money paid for them."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Give the company its own paper trail.",
+              "text": "Give the company its own paper trail.",
+              "image": "/images/income-business/04-platinum/income-13/income13-image-1.webp"
+            },
+            {
+              "title": "The company’s money is not your money.",
+              "text": "The company’s money is not your money.",
+              "image": "/images/income-business/04-platinum/income-13/income13-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -120,6 +135,8 @@
           "text": "Priya’s nearly empty folder",
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
+          "image": "/images/income-business/04-platinum/income-13/income13-image-3.webp",
+          "focus": 28,
           "paragraphs": [
             "Priya ran a translation service in Calgary. She wanted her new company ready for its first business client. She made a folder called Company Start and pictured neat contracts beside the certificate. Staying organized mattered, because she worked evenings around family life.",
             "Right after she incorporated federally, a client sent her a supplier form. It asked for the legal company name and the company’s bank details. Her folder held one certificate. Her draft invoice still used her old service name. And she had not decided how the company would use her personal laptop.",

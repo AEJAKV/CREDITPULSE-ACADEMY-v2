@@ -161,6 +161,21 @@
           "text": "Keep one facts sheet with the date the owner last confirmed it. A price list from last spring may be a lovely piece of history and a poor guide to today’s prices."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Post only what the shop can deliver.",
+              "text": "Post only what the shop can deliver.",
+              "image": "/images/income-business/03-gold/income-11/income11-image-1.webp"
+            },
+            {
+              "title": "Get approval before anything goes live.",
+              "text": "Get approval before anything goes live.",
+              "image": "/images/income-business/03-gold/income-11/income11-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "lists",
           "items": [
             {
@@ -200,6 +215,8 @@
           "text": "The Saturday repair post",
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
+          "image": "/images/income-business/03-gold/income-11/income11-image-3.webp",
+          "focus": 28,
           "paragraphs": [
             "Danielle lived in Regina and worked part-time at a shop. She wanted a first social-media client who fit around that job. A small bike repair shop needed help before the busy riding season. She offered a two-week trial and set aside two evenings a week.",
             "Her first post promised Saturday tune-ups with same-day pickup. The owner had said Saturdays were busy, and Danielle had guessed the rest. When she sent the posts for approval, the owner flagged it. The mechanic could not promise same-day work.",

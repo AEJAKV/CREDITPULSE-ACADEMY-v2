@@ -113,6 +113,21 @@
           "text": "A lower company tax rate alone cannot show your total result. Ask an accountant to compare company tax, your personal tax, how you take pay and the running costs, all using the same income."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Two folders, one real question: who carries the risk?",
+              "text": "Two folders, one real question: who carries the risk?",
+              "image": "/images/income-business/04-platinum/income-14/income14-image-1.webp"
+            },
+            {
+              "title": "Bring your own numbers to the adviser.",
+              "text": "Bring your own numbers to the adviser.",
+              "image": "/images/income-business/04-platinum/income-14/income14-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "myths",
           "items": [
             {
@@ -137,6 +152,8 @@
           "text": "Luc’s two folders",
           "detail": "FICTIONAL LEARNING STORY",
           "extra": "",
+          "image": "/images/income-business/04-platinum/income-14/income14-image-3.webp",
+          "focus": 22,
           "paragraphs": [
             "Luc lived in Moncton and ran a home-organizing service. He wanted it to help pay the household bills. He made two folders, one for each structure. He hoped a tidy desk would give him a tidy answer.",
             "A client asked him to clear a packed storage room and haul away the things she didn’t want. While he looked over the job, Luc spotted a box marked “family papers” next to the donation pile. Suddenly the risk was about a real task, not a business title.",

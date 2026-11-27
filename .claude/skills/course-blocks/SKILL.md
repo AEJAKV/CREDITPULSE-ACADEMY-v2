@@ -14,7 +14,7 @@ Every design has its own guide in `docs/`. **Read the guide before applying a de
 | The section has… | Use | Guide |
 | --- | --- | --- |
 | A sequence of 3–6 steps, questions or stations, each deserving a picture | `carousel` (image card carousel) | `docs/image-card-carousel.md` |
-| A day-by-day plan (labels `DAY 5`, `DAYS 15–16`) the learner works through and marks done | `carousel` with day labels, no images (day carousel) | `docs/day-carousel-design.md` |
+| A day-by-day or phase-by-phase plan (labels `DAY 5`, `DAYS 15–16`, `WEEKS 4–6`) the learner works through | `carousel` with day labels, no images (day carousel) | `docs/day-carousel-design.md` |
 | 6 numbered checklist items that read as a file | `filecards` (tall green cards) | `docs/filecards-design.md` |
 | 2–4 related facts or tiers compared side by side, with numbers | `glasspanel` | `docs/glass-panel-design.md` |
 | A list of dollar figures with a category and a question each (a budget table), plus a result | `ledger` | `docs/ledger-design.md` |
@@ -25,6 +25,11 @@ Every design has its own guide in `docs/`. **Read the guide before applying a de
 | Up to three debts where monthly interest is estimated as balance × annual rate ÷ 12 | `interestscan` (interactive calculator) | `docs/interest-scan-calculator-design.md` |
 | Up to four debts compared under snowball and avalanche (same budget, month-by-month payoff) | `payoff` (interactive calculator) | `docs/payoff-calculator-design.md` |
 | Money above a baseline (a surplus, bonus or refund) split across named jobs until nothing is left | `waterfall` (interactive calculator) | `docs/waterfall-calculator-design.md` |
+| Sleep planned backwards from a fixed wake-up time (wake − (sleep + settling) = lights out) | `sleepwindow` (interactive calculator) | `docs/sleep-window-calculator-design.md` |
+| A week of practice scored against planned chances (full + easier ÷ planned, minutes moved) | `habitreview` (interactive calculator) | `docs/habit-review-calculator-design.md` |
+| Up to three tasks in hours compared with the hours available (needed ÷ available = load, gap) | `loadcheck` (interactive calculator) | `docs/load-check-calculator-design.md` |
+| A four-block (30-day) experiment scored against a pass mark set on day 1, with a trend | `challengereview` (interactive calculator) | `docs/challenge-review-calculator-design.md` |
+| A multi-week plan built from a baseline week's free slots, keeping one spare as backup | `baselineplan` (interactive calculator) | `docs/baseline-plan-calculator-design.md` |
 | A case-file story far longer than its neighbours (over about 300 words, or repeated "CASE FILE" fragments) | trim the `story` block | `docs/story-trim-guide.md` |
 | Two `spotlight` blocks directly one after the other | pick the best one, or move one so another block sits between them | `docs/spotlight-pairs-guide.md` |
 | A `checkIn` fill-out form with long or labelled questions and no sample answers | simplify the questions and add `samples` | `docs/fillout-form-guide.md` |

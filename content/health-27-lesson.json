@@ -1,8 +1,8 @@
 {
   "title": "Habit Building",
-  "summary": "Pick a cue → Start small → Count fairly → Return after a miss",
-  "subtitle": "Make a useful action easier to return to when life gets busy.",
-  "minutes": 30,
+  "summary": "Pick a cue → Write the if/then line → Count chances, not streaks → Return after a miss",
+  "subtitle": "Make a useful action easier to return to when life gets busy, and judge it with honest numbers.",
+  "minutes": 45,
   "published": true,
   "sections": [
     {
@@ -15,15 +15,23 @@
           "text": "A fitness app may announce a fresh start before you’ve found both socks. A useful routine needs a starting point that fits your day. Practise one small action, and don’t judge yourself for a missed chance."
         },
         {
+          "type": "paragraph",
+          "text": "By this point in the course you know how to walk, lift, stretch and rest. Knowing isn’t the hard part anymore. The hard part is Tuesday: the day the plan meets a late bus, a sick kid and a full sink. This lesson is about what happens on Tuesday."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here’s the twist. Most habit apps reward streaks, and a streak breaks the first time life gets in the way. One missed day, and the counter drops to zero, which feels like proof you failed. This lesson swaps the streak for a fairer number: how many of your planned chances you used. A miss lowers the number a little. It never wipes it out."
+        },
+        {
           "type": "transition",
           "text": "Make healthy actions feel automatic, one small step at a time.",
           "detail": "A clear cue and a small first step cut down the decisions you face when your day is already full.",
-          "extra": "Section 03 shows how to build a routine you can repeat."
+          "extra": "Section 05 gives you a scorecard that counts chances instead of streaks."
         }
       ]
     },
     {
-      "id": "starting-point",
+      "id": "cue",
       "title": "Give the action a starting point",
       "paragraphs": [],
       "blocks": [
@@ -33,7 +41,50 @@
         },
         {
           "type": "paragraph",
-          "text": "A plan is a good start, but it doesn’t mean an action is already a habit. Repeating a small action after a steady cue gives your brain the chance to learn the link."
+          "text": "A plan is a good start, but it doesn’t mean an action is already a habit. Repeating a small action after a steady cue gives your brain the chance to learn the link. The cue you choose matters more than how motivated you feel on day one."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "After an event",
+              "text": "Finishing lunch, putting down a work bag, hanging up a coat. Best when your shifts or days move around.",
+              "icon": "route"
+            },
+            {
+              "title": "In a place",
+              "text": "Walking into the kitchen, reaching the bottom of the stairs. Works when you pass that spot on the days you plan.",
+              "icon": "home"
+            },
+            {
+              "title": "At a clock time",
+              "text": "5 p.m. or 7 a.m. Only reliable when nothing else regularly claims that time.",
+              "icon": "timer"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Check that the cue leaves you free to act. Finishing your own lunch may work. Serving someone else lunch may not, because the next job is already waiting."
+        },
+        {
+          "type": "spotlight",
+          "text": "Test the cue before adding reminders. For two days, notice whether the event happens and whether you have room to act afterward. A cue you rarely meet needs changing."
+        },
+        {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A plan tied to a clock breaks when the day moves.",
+              "text": "A plan tied to a clock breaks when the day moves.",
+              "image": "/images/health-fitness/06-elite/health-27/health27-image-1.webp"
+            },
+            {
+              "title": "Hook the new step onto something you already do.",
+              "text": "Hook the new step onto something you already do.",
+              "image": "/images/health-fitness/06-elite/health-27/health27-image-2.webp"
+            }
+          ]
         },
         {
           "type": "paragraph",
@@ -42,8 +93,8 @@
       ]
     },
     {
-      "id": "routine",
-      "title": "Build a routine you can repeat",
+      "id": "recipe",
+      "title": "Write the if/then line",
       "paragraphs": [],
       "blocks": [
         {
@@ -52,73 +103,130 @@
         },
         {
           "type": "paragraph",
-          "text": "Choose a cue that already happens on the days you plan to practise. Finishing lunch may be more reliable than a clock time when your shifts move around. Check that the cue leaves you free to act. Serving someone else lunch may not."
+          "text": "Then put the cue and the action in one sentence. Planners call this an if/then plan, and it works because the decision is made before the busy moment arrives. Use this shape:"
         },
         {
-          "type": "spotlight",
-          "text": "Test the cue before adding reminders. For two days, notice whether the event happens and whether you have room to act afterward. A cue you rarely meet needs changing."
+          "type": "quote",
+          "text": "If [my cue happens], then I’ll [my small action]. On a hard day, [my easier version] counts."
         },
         {
           "type": "paragraph",
-          "text": "Write an if/then line: “If I put my lunch dish in the sink on a workday, then I’ll walk the clear hallway for three minutes.” An easier version might be one comfortable minute. Decide ahead of time that either version counts, and write down which one you did."
+          "text": "Filled in, it might read: “If I put my lunch dish in the sink on a workday, then I’ll walk the clear hallway for three minutes. On a hard day, one comfortable minute counts.” Decide ahead of time that either version counts, and write down which one you did."
         },
         {
           "type": "paragraph",
           "text": "Set up your space so the first step is easy to find. Keep safe shoes where you’ll see them, while keeping exits and walkways clear. If the real barrier is that nobody can cover your care duties, equipment won’t solve it. You may need a support arrangement."
+        }
+      ]
+    },
+    {
+      "id": "timeline",
+      "title": "How long “automatic” really takes",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "You’ve probably heard that a habit takes 21 days. That number doesn’t come from habit research. In one well-known study, volunteers repeated a daily action after the same cue and rated how automatic it felt. Here’s what the study found."
         },
         {
-          "type": "spotlight",
-          "text": "Keep tracking simple: mark full version, easier version or missed. The record should help you choose your next step. It doesn’t need a mood rating or a public streak."
+          "type": "glasspanel",
+          "text": "Days until an action felt automatic",
+          "detail": "Lally and colleagues, 2010",
+          "items": [
+            {
+              "title": "Fastest",
+              "text": "18 days — for some people and some simple actions."
+            },
+            {
+              "title": "Typical",
+              "text": "66 days — the median across the people in the study."
+            },
+            {
+              "title": "Slowest",
+              "text": "254 days — the longest estimate, for harder actions."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Two findings matter for your plan. First, the range is huge, so a routine that still takes effort at week six isn’t failing. Second, missing a single chance didn’t knock people back to the start. What mattered was coming back at the next cue."
         },
         {
           "type": "myths",
           "items": [
             {
               "title": "“After 21 or 30 days, every action becomes automatic.”",
-              "text": "Habit research finds big differences between people and actions. In one well-known study, it took a median of 66 days for a new action to feel automatic, with a range from 18 to 254 days. No calendar deadline can promise a routine will happen without thought."
+              "text": "Habit research finds big differences between people and actions. No calendar deadline can promise a routine will happen without thought. Reminders are still allowed at day 60."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scorecard",
+      "title": "Count chances, not streaks",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Before the week starts, write down your planned chances: the days and cues where you intend to act. At the end, count how many you used, full or easier. Days you never planned aren’t misses, so a rest day doesn’t drag the score down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chances used = full versions + easier versions. Score = chances used ÷ planned chances."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here’s a worked example. You plan four chances: Monday, Tuesday, Thursday and Friday. Monday and Thursday are full four-minute versions, Tuesday is the one-minute easier version and Friday is missed. That’s 2 + 1 = 3 of 4 planned chances, or 75%. Minutes moved: 4 + 1 + 4 = 9. A streak app would show a broken chain. Your scorecard shows a solid week."
+        },
+        {
+          "type": "habitreview",
+          "text": "Score your week",
+          "detail": "INTERACTIVE HABIT LAB",
+          "extra": "Enter the chances you planned and what you did. The scorecard counts fairly and suggests a next step.",
+          "items": [
+            {
+              "title": "Sample week",
+              "text": "",
+              "amount": "4",
+              "detail": "2,1"
+            },
+            {
+              "title": "Five chances",
+              "text": "",
+              "amount": "5",
+              "detail": "2,2"
+            },
+            {
+              "title": "Crowded week",
+              "text": "",
+              "amount": "4",
+              "detail": "0,1"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "When you miss a chance, return at the next planned cue. If misses keep happening, ask whether the cue, the size of the action or your support needs changing. You can revise a plan without erasing the practice you’ve already done."
-        }
-      ]
-    },
-    {
-      "id": "story",
-      "title": "Fictional learning story: Theo’s tea tin",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "story",
-          "text": "Theo’s tea tin",
-          "detail": "FICTIONAL LEARNING STORY",
-          "extra": "",
-          "paragraphs": [
-            "Theo was a home caregiver in Halifax who also helped his father at home. He wanted a movement break before his evening tasks. His walking shoes sat beside the tea tin, but he usually went straight from the kettle to the laundry.",
-            "One Thursday, he found an old note that said, “Walk at five.” That week, not one shift had ended at five. His plan depended on a time his work couldn’t protect, and the blank boxes on his calendar made him want to quit.",
-            "He thought about adding more alarms. Instead, he chose a new starting point. After putting his work bag by the tea tin, he would walk indoors for three minutes, once his father was settled. His easier version was one minute. He planned four chances that week.",
-            "On Monday and Tuesday he did the full version. Wednesday’s late visit left room for only the easier one. He marked each day honestly, not as three matching ticks, and left Thursday blank when an urgent task took the whole evening.",
-            "On Friday, his father moved the tea tin to a high shelf to clear the counter. Theo set down his work bag and still remembered the walk. The real cue had been putting down the bag, not seeing the tin. He stuck a small reminder where the bag always went.",
-            "At his review, Theo counted three of four planned chances done, including one easier version. He kept the same amount for another week and asked his sister to cover one evening task. The tea tin came back to the counter, but his plan no longer depended on where anyone kept the tea."
-          ]
+          "text": "Use the suggestion as a starting point, not a verdict. About three in four or better means the setup fits, so you can keep it or change one thing. Around half means repeat the same level. Under half usually points to the cue, the size of the action or missing support, not to your character."
         },
         {
           "type": "spotlight",
-          "text": "Theo changed a cue that didn’t fit his shifts. His plan worked, even though it still took some thought."
+          "text": "Write down your planned days before the week starts. Keep the original count visible if life changes, and note what changed. That keeps your review honest without quietly dropping the hard days."
         },
         {
-          "type": "transition",
-          "text": "Keep a way back, and a busy day never ends the habit.",
-          "detail": "An easier version and an honest review help you return after a crowded day, without starting the whole plan over.",
-          "extra": "Section 05 gives you a one-week plan to try."
+          "type": "myths",
+          "items": [
+            {
+              "title": "“Missing Friday means I should double Monday’s activity.”",
+              "text": "Go back to the planned amount. Extra work isn’t a penalty you owe for a missed chance."
+            }
+          ]
         }
       ]
     },
     {
       "id": "week",
-      "title": "Try one week and review",
+      "title": "Run a one-week trial",
       "paragraphs": [],
       "blocks": [
         {
@@ -149,18 +257,10 @@
               "text": ""
             },
             {
-              "title": "Review: take five minutes on Sunday to count chances and choose one change, if needed.",
+              "title": "Review: take five minutes on Sunday to score the week and choose one change, if needed.",
               "text": ""
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "text": "In this example, Monday and Thursday are full versions, Tuesday is the easier version and Friday is missed. That’s three of four planned chances, with nine minutes of movement in total: four plus one plus four. Wednesday and the weekend weren’t planned, so they aren’t missed chances."
-        },
-        {
-          "type": "spotlight",
-          "text": "Write down your planned days before the week starts. Keep the original count visible if life changes, and note what changed. That keeps your review honest without quietly dropping the hard days."
         },
         {
           "type": "paragraph",
@@ -171,17 +271,92 @@
           "text": "Check your indoor backup before bad weather arrives. A building hallway must be clear and open to you. A small room or a seated option may be more practical."
         },
         {
-          "type": "myths",
+          "type": "paragraph",
+          "text": "Stop for pain, feeling faint, chest symptoms or extreme breathlessness, and get urgent help for possible heart attack symptoms. Choose safe conditions for the season. In winter, use the indoor route instead of an icy entrance."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: Theo’s tea tin",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "Theo’s tea tin",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Theo was a home caregiver in Halifax who also helped his father at home. He wanted a movement break before his evening tasks. His walking shoes sat beside the tea tin, but he usually went straight from the kettle to the laundry.",
+            "One Thursday, he found an old note that said, “Walk at five.” That week, not one shift had ended at five. His plan depended on a time his work couldn’t protect, and the blank boxes on his calendar made him want to quit.",
+            "He thought about adding more alarms. Instead, he chose a new starting point. After putting his work bag by the tea tin, he would move for three minutes indoors, once his father was settled: a slow hallway walk or a few gentle stretches. His easier version was one minute. He planned four chances that week.",
+            "On Monday and Tuesday he did the full version. Wednesday’s late visit left room for only the easier one. He marked each day honestly, and left Thursday blank when an urgent task took the whole evening.",
+            "On Friday, his father moved the tea tin to a high shelf to clear the counter. Theo set down his work bag and still remembered to move. The real cue had been putting down the bag, not seeing the tin.",
+            "At his review, Theo scored three of four planned chances, including one easier version. A streak app would have shown a broken chain on Thursday. He kept the same amount for another week and asked his sister to cover one evening task. The tea tin came back to the counter, but his plan no longer depended on where anyone kept the tea."
+          ],
+          "image": "/images/health-fitness/06-elite/health-27/health27-image-3.webp",
+          "focus": 18,
+          "at": 2,
           "items": [
             {
-              "title": "“Missing Friday means I should double Monday’s activity.”",
-              "text": "Go back to the planned amount. Extra work isn’t a penalty you owe for a missed chance."
+              "title": "“WALK AT FIVE”",
+              "text": "No shift ended at five"
+            },
+            {
+              "title": "NEW CUE",
+              "text": "Bag down, then move"
+            },
+            {
+              "title": "REVIEW",
+              "text": "3 of 4 chances used"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Theo changed a cue that didn’t fit his shifts. His plan worked, even though it still took some thought."
+        },
+        {
+          "type": "transition",
+          "text": "Keep a way back, and a busy day never ends the habit.",
+          "detail": "An easier version and an honest review help you return after a crowded day, without starting the whole plan over.",
+          "extra": "Section 08 shows you how to come back after a miss."
+        }
+      ]
+    },
+    {
+      "id": "repair",
+      "title": "Return after a miss",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A missed chance is information, not a verdict. When you miss one, return at the next planned cue with the normal amount. When misses keep happening, work through these questions in order. Each one is cheaper to fix than the next."
+        },
+        {
+          "type": "ordered",
+          "items": [
+            {
+              "title": "Did the cue happen?",
+              "text": "If the event rarely shows up on your planned days, pick a cue that does. Theo’s “five o’clock” never arrived."
+            },
+            {
+              "title": "Was there room to act?",
+              "text": "If the cue happened but the next job was already waiting, move the action to a calmer cue later in the day."
+            },
+            {
+              "title": "Was the action too big?",
+              "text": "Make the easier version the full version for a week. A smaller action you do beats a bigger one you skip."
+            },
+            {
+              "title": "Is support missing?",
+              "text": "If care duties or work keep taking the time, ask someone to cover one task. Equipment can’t solve a coverage problem."
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Stop for pain, feeling faint, chest symptoms or extreme breathlessness, and get urgent help for possible heart attack symptoms. Choose safe conditions for the season. In winter, use the indoor route instead of an icy entrance."
+          "text": "You can revise a plan without erasing the practice you’ve already done. The weeks you scored still count, and the cue link you built doesn’t vanish because one week went sideways."
         },
         {
           "type": "spotlight",
@@ -202,19 +377,19 @@
           "type": "accordions",
           "items": [
             {
-              "title": "Is a written plan proof that a habit is established?",
-              "detail": "No.",
-              "text": "A plan guides practice; a habit is a learned response to a cue."
-            },
-            {
-              "title": "Can a pre-planned easier version count as practice?",
-              "detail": "Yes.",
-              "text": "Record which version you used so the review stays honest."
+              "title": "You planned five chances. You did three full five-minute versions and one easier two-minute version. What’s your score, and how many minutes did you move?",
+              "detail": "4 of 5 (80%), 17 minutes.",
+              "text": "3 + 1 = 4 of 5. Minutes: 3 × 5 + 1 × 2 = 17."
             },
             {
               "title": "You planned four chances and completed three. Do two unplanned rest days count as misses?",
               "detail": "No.",
               "text": "Report three out of four, and leave unplanned days out of the count."
+            },
+            {
+              "title": "A friend says every habit takes 21 days. In the well-known 2010 study, what was the typical time, and the range?",
+              "detail": "66 days typical, from 18 to 254 days.",
+              "text": "The median was 66 days, and people and actions varied widely."
             }
           ]
         },
@@ -236,20 +411,20 @@
               "text": "Both agreed versions count. Naming them shows what happened."
             },
             {
+              "title": "You planned six chances and used two, for a score of 33%. What fits this lesson? A. Double next week’s plan. · B. Check the cue, the size of the action and your support. · C. Give up on the habit.",
+              "detail": "B.",
+              "text": "Under half usually points to the setup. Fix one of those before adding more."
+            },
+            {
               "title": "You still need a reminder after 30 days. What is a useful next step? A. Assume you failed. · B. Remove all reminders. · C. Review the cue and keep practising a manageable action.",
               "detail": "C.",
               "text": "A fixed number of days does not prove automaticity. Reminders can still help."
-            },
-            {
-              "title": "Write an if/then plan with an easier version and a return step after a miss.",
-              "detail": "Sample:",
-              "text": "If I finish lunch on Monday or Thursday, I will walk indoors for three comfortable minutes, or one minute on a busy day. After a miss, I will return at the next planned cue."
             }
           ]
         },
         {
           "type": "takeaway",
-          "text": "Link one small action to a reliable cue. Prepare an easier version, count planned chances honestly, and return at the next chance after a miss.",
+          "text": "Link one small action to a reliable cue. Prepare an easier version, count planned chances instead of streaks, and return at the next chance after a miss.",
           "detail": ""
         }
       ]
@@ -293,12 +468,20 @@
               "text": "Doing an action with little conscious thought."
             },
             {
+              "title": "If/then plan",
+              "text": "A sentence that links a cue to an action, decided before the moment arrives."
+            },
+            {
               "title": "Easier version",
               "text": "A smaller action agreed on before a difficult day."
             },
             {
               "title": "Planned opportunity",
               "text": "A chance you chose in advance to practise."
+            },
+            {
+              "title": "Median",
+              "text": "The middle value when results are lined up from smallest to largest."
             }
           ]
         },
@@ -351,15 +534,15 @@
       "Write your if/then line.",
       "Which days will you practise this week?",
       "What support or setup will you prepare first?",
-      "How will you return after a missed chance?"
+      "How will you score your week and return after a missed chance?"
     ],
     "samples": [
-      "Name something you already do, such as putting your lunch dish in the sink.",
-      "For example: three minutes of walking, or one minute on a busy day.",
-      "For example: If I put my work bag down, then I’ll walk the hallway for three minutes.",
-      "For example: Monday, Tuesday, Thursday and Friday.",
+      "Name something you already do, such as hanging up your coat after work.",
+      "For example: five minutes of walking, or two minutes on a busy day.",
+      "For example: If I hang up my coat after work, then I’ll walk the hallway for five minutes.",
+      "For example: Monday, Wednesday, Thursday, Saturday and Sunday.",
       "Clear a space, arrange help, set a simple reminder, or not sure.",
-      "For example: I’ll start again at the next planned cue, with no extra minutes."
+      "For example: On Sunday I’ll count chances used out of five, then start again at the next planned cue."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

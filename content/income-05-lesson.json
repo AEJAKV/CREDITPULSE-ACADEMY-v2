@@ -78,6 +78,21 @@
           "text": "A paid trial should have a real scope and a fair price. A discount can support a test. Underpricing for good teaches customers a lesson you did not intend."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Find the problem they already talk about.",
+              "text": "Find the problem they already talk about.",
+              "image": "/images/income-business/02-silver/income-05/income05-image-1.webp"
+            },
+            {
+              "title": "Write one offer a stranger could repeat.",
+              "text": "Write one offer a stranger could repeat.",
+              "image": "/images/income-business/02-silver/income-05/income05-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "Market research starts with what customers and competitors tell you. Ten short conversations can show you the words, worries and reasons to buy that a month of logo polishing never will."
         },
@@ -203,6 +218,8 @@
           "text": "Meet Leah",
           "detail": "DEDICATED STORY",
           "extra": "",
+          "image": "/images/income-business/02-silver/income-05/income05-image-3.webp",
+          "focus": 27,
           "paragraphs": [
             "Leah Martin opens a small digital services business in Winnipeg. Her goal is one paying client within a month, to prove to herself this can work. Her first post offers websites, social media, logos, newsletters, videos and “basically anything online.” It is less an offer and more a department store wearing one laptop.",
             "Three weeks pass with no sale. She posts every day, but nobody knows which problem to bring her.",

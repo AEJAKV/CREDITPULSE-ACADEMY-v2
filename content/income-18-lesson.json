@@ -148,6 +148,21 @@
           "text": "Count the time off you won’t be paid for. No one pays a self-employed person for holidays or sick days. If you take six weeks off a year and bill about 22 hours in each of the other 46 weeks, that is roughly 1,000 billable hours. Your $60,000 is also before tax: as a sole proprietor you pay income tax and both halves of CPP out of it."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "A full calendar can still pay you $9 an hour.",
+              "text": "A full calendar can still pay you $9 an hour.",
+              "image": "/images/income-business/06-elite/income-18/income18-image-1.webp"
+            },
+            {
+              "title": "Measure the job before you name the price.",
+              "text": "Measure the job before you name the price.",
+              "image": "/images/income-business/06-elite/income-18/income18-image-2.webp"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "text": "On $60,000 of net self-employment income, CPP alone is about $6,700: 11.9% of earnings above $3,500. Part of it comes back as a deduction and a tax credit, but you still pay it up front. Quebec residents pay QPP instead. Income tax comes on top, so set aside a share of every payment from day one."
         },
@@ -346,6 +361,7 @@
           "text": "The Red Toolbox",
           "detail": "STORY",
           "extra": "",
+          "image": "/images/income-business/06-elite/income-18/income18-image-3.webp",
           "paragraphs": [
             "Hamid Rahimi was a handyman in Regina. He carried everything in a rusty red toolbox his uncle had given him. His goal was to quit his evening warehouse shift, which meant earning enough from repairs alone to cover his rent.",
             "He charged $25 an hour, because that was what he earned at the warehouse. Clients loved him, and his calendar filled up within weeks. Yet at the end of the month, the numbers looked wrong.",

@@ -46,6 +46,11 @@ import {
   LessonArtworkCarousel,
   CardCarousel,
   ConversionCalculator,
+  SleepWindowCalculator,
+  HabitReviewCalculator,
+  LoadCheckCalculator,
+  ChallengeReviewCalculator,
+  BaselinePlanCalculator,
   PaydayCalculator,
   LoanCostCalculator,
   InterestScanCalculator,
@@ -55,11 +60,11 @@ import {
 import { PayoffCalculator } from './payoff-calculator';
 import { WaterfallCalculator } from './waterfall-calculator';
 import { DayCarousel } from './day-carousel';
-/** A `carousel` of plain day steps ("DAY 4", "DAYS 15–16") or numbered items ("NUMBER 3") renders as the coverflow day carousel. */
+/** A `carousel` of plain day or week steps ("DAY 4", "DAYS 15–16", "WEEKS 1–3") or numbered items ("NUMBER 3") renders as the coverflow day carousel. */
 const isDayCarousel = (block?: ReadingBlock) =>
   block?.type === 'carousel' &&
   !!block.items?.length &&
-  block.items.every((item) => /^(DAYS?|NUMBER)\s/i.test(item.detail ?? '') && !item.image);
+  block.items.every((item) => /^(DAYS?|WEEKS?|NUMBER)\s/i.test(item.detail ?? '') && !item.image);
 /** Icons for icon tiles (a `cards` block whose items carry an `icon`). */
 const tileIcons = {
   mountain: Mountain,
@@ -220,6 +225,56 @@ export function ReadingBlocks({
           case 'loancost':
             return (
               <LoanCostCalculator
+                key={i}
+                heading={block.text}
+                label={block.detail}
+                intro={block.extra}
+                items={items}
+              />
+            );
+          case 'baselineplan':
+            return (
+              <BaselinePlanCalculator
+                key={i}
+                heading={block.text}
+                label={block.detail}
+                intro={block.extra}
+                items={items}
+              />
+            );
+          case 'challengereview':
+            return (
+              <ChallengeReviewCalculator
+                key={i}
+                heading={block.text}
+                label={block.detail}
+                intro={block.extra}
+                items={items}
+              />
+            );
+          case 'loadcheck':
+            return (
+              <LoadCheckCalculator
+                key={i}
+                heading={block.text}
+                label={block.detail}
+                intro={block.extra}
+                items={items}
+              />
+            );
+          case 'habitreview':
+            return (
+              <HabitReviewCalculator
+                key={i}
+                heading={block.text}
+                label={block.detail}
+                intro={block.extra}
+                items={items}
+              />
+            );
+          case 'sleepwindow':
+            return (
+              <SleepWindowCalculator
                 key={i}
                 heading={block.text}
                 label={block.detail}

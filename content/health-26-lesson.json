@@ -1,8 +1,8 @@
 {
   "title": "Sleep and Recovery",
-  "summary": "Protect a window → Wind down → Ease the day → Review the week",
-  "subtitle": "Make room for rest so movement fits your real life.",
-  "minutes": 30,
+  "summary": "Anchor the wake time → Count back → Set up the room → Test for seven days",
+  "subtitle": "Plan rest backwards from the alarm, so movement fits the life you actually have.",
+  "minutes": 45,
   "published": true,
   "sections": [
     {
@@ -15,60 +15,183 @@
           "text": "A fitness app may send a cheerful workout reminder at the exact moment you finally sit down. Its calendar has never worked a late shift or settled a child after midnight. Rest deserves space in your plan, even when the reminder has excellent graphics."
         },
         {
+          "type": "paragraph",
+          "text": "Everything in this course so far has asked your body to do something: walk, lift, stretch, punch the air. This lesson is about the part that makes all of it work. Muscles, balance and mood improve during recovery, not during the workout itself. Skip the recovery, and the workouts stop paying off."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here’s the twist. Most sleep advice starts with bedtime, but bedtime is the part of your day you control least. Your alarm is usually fixed by work, school runs or a care schedule. So this lesson starts at the other end. You’ll pick your wake-up time first and count backwards to find everything else."
+        },
+        {
           "type": "transition",
           "text": "Wake up more ready for your day.",
           "detail": "Knowing how much rest you need, and protecting it, makes every other healthy habit easier to keep.",
-          "extra": "Section 03 shows you how to build sleep around your real schedule."
+          "extra": "Section 03 turns your wake-up time into a lights-out time you can protect."
         }
       ]
     },
     {
       "id": "rest",
-      "title": "Give rest a place",
+      "title": "Know what rest really includes",
       "paragraphs": [],
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Recovery means giving yourself time and support to feel ready again after activity and everyday demands. Sleep is part of recovery, along with breaks and manageable movement. A hard workday counts when you decide how much extra activity fits."
+          "text": "Recovery means giving yourself time and support to feel ready again after activity and everyday demands. Sleep is part of recovery, along with breaks, meals, water and manageable movement. A hard workday counts when you decide how much extra activity fits."
         },
         {
           "type": "paragraph",
-          "text": "The time you set aside for sleep is your sleep opportunity. The time you’re asleep can be shorter, since falling asleep and waking in the night use some of it. Eight hours between getting into bed and getting up doesn’t mean eight hours of sleep."
+          "text": "The time you set aside for sleep is your sleep opportunity. The time you’re asleep can be shorter, since falling asleep and waking in the night use some of it. That gap is why the plan in Section 03 adds settling time on top of the sleep you’re aiming for."
+        },
+        {
+          "type": "glasspanel",
+          "text": "What Canada’s guidelines say",
+          "detail": "Good-quality sleep",
+          "items": [
+            {
+              "title": "Adults 18–64",
+              "text": "7 to 9 hours — of good-quality sleep a night, with steady bedtimes and wake-up times."
+            },
+            {
+              "title": "Adults 65+",
+              "text": "7 to 8 hours — of good-quality sleep a night, with steady bedtimes and wake-up times."
+            },
+            {
+              "title": "In bed vs asleep",
+              "text": "8 h ≠ 8 h — Eight hours in bed doesn’t mean eight hours of sleep. Settling and night waking use some of it."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Canada’s movement guidelines recommend regular, good-quality sleep: 7 to 9 hours a night for adults aged 18 to 64, and 7 to 8 hours for adults 65 and older, with steady bedtimes and wake-up times. Your work or caregiving schedule may need its own pattern."
-        },
-        {
-          "type": "paragraph",
-          "text": "This lesson is general learning, not insomnia treatment or a medical plan. Talk to a clinician about sleep trouble that lasts, loud snoring with pauses in breathing, or daytime sleepiness that gets in the way of daily tasks. For long-lasting insomnia, the first treatment doctors usually recommend is a type of coaching called CBT-I, not sleeping pills. Never drive while drowsy."
-        }
-      ]
-    },
-    {
-      "id": "day",
-      "title": "Build around your day",
-      "paragraphs": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Start with the responsibilities that shape your sleep window. A shift worker may need to sleep in the day, while a caregiver may have broken nights. Look for a routine you can repeat on similar days, instead of copying someone else’s bedtime."
-        },
-        {
-          "type": "paragraph",
-          "text": "Make your sleeping space quiet, dark and a comfortable temperature. Choose one change you can afford, like closing a blind or asking others to keep the noise down. You don’t need a new mattress before trying a small fix."
+          "text": "Your work or caregiving schedule may need its own pattern. A night-shift worker sleeps in the day. A parent of a baby has broken nights. The ranges still apply, but the window moves, and that’s fine."
         },
         {
           "type": "spotlight",
           "text": "Protect a window, not a score. Write down when sleep could fit before you buy a tracker. A device can’t create time that work and caregiving have already used up."
         },
         {
+          "type": "artwork",
+          "items": [
+            {
+              "title": "Rest that never gets a time slot never happens.",
+              "text": "Rest that never gets a time slot never happens.",
+              "image": "/images/health-fitness/06-elite/health-26/health26-image-1.webp"
+            },
+            {
+              "title": "Fix the wake-up time, then count back.",
+              "text": "Fix the wake-up time, then count back.",
+              "image": "/images/health-fitness/06-elite/health-26/health26-image-2.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anchor",
+      "title": "Count back from the alarm",
+      "paragraphs": [],
+      "blocks": [
+        {
           "type": "paragraph",
-          "text": "Give your last tasks a stopping point before bed. For example, put tomorrow’s lunch in the fridge, leave a note for an unfinished chore and move work messages out of reach. Choose a quiet activity that won’t turn into another job."
+          "text": "Your wake-up time is your anchor. It’s the one time most days that won’t move, so build everything else from it. The maths has three parts: the sleep you’re aiming for, the minutes it usually takes you to fall asleep and the wind-down that comes before lights out."
         },
         {
           "type": "paragraph",
-          "text": "Caffeine can keep you alert when you want to sleep, and its effects last for hours, so many people stop having it about six hours before bed. Health Canada suggests adults have no more than 400 mg a day, about three small cups of brewed coffee. Alcohol can disrupt sleep even if it makes you sleepy at first. Ask a pharmacist or clinician about medicine concerns instead of changing a prescription yourself."
+          "text": "Wake-up time − (hours of sleep + minutes to fall asleep) = lights-out time. Then subtract your wind-down to find when to start getting ready."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here’s a worked example. The alarm is set for 6:30 a.m. You’re aiming for 7 hours 30 minutes of sleep, and it usually takes you about 20 minutes to drift off. 6:30 a.m. − 7 hours 50 minutes = 10:40 p.m. lights out. A 15-minute wind-down starts at 10:25 p.m. If you stop caffeine about six hours before lights out, your last coffee is around 4:40 p.m."
+        },
+        {
+          "type": "sleepwindow",
+          "text": "Find your lights-out time",
+          "detail": "INTERACTIVE SLEEP LAB",
+          "extra": "Enter your fixed wake-up time and the sleep you’re aiming for. The plan counts back for you.",
+          "items": [
+            {
+              "title": "Early workday",
+              "text": "",
+              "amount": "06:30",
+              "detail": "7.5"
+            },
+            {
+              "title": "After a night shift",
+              "text": "",
+              "amount": "15:00",
+              "detail": "7.5"
+            },
+            {
+              "title": "Day off",
+              "text": "",
+              "amount": "07:30",
+              "detail": "8"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Now read the answer honestly. If the plan says lights out at 9:10 p.m. and your shift ends at 9 p.m., the maths isn’t wrong. It’s telling you something has to move: the commute, a chore, the evening scroll or the wake-up time itself. That’s a schedule question, not a willpower question."
+        },
+        {
+          "type": "paragraph",
+          "text": "Try to keep your wake-up time close to the same on days off. A long lie-in feels like a reward, but it pushes your body clock later, and Sunday night gets harder. The day-off example above wakes only an hour later than the workday one, which is a gentler shift."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“I’ll catch up on sleep at the weekend.”",
+              "text": "A longer sleep can ease some tiredness, but it doesn’t undo a short week, and a very late wake-up makes the next night harder. A steady window does more."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "room",
+      "title": "Set up the room and the evening",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A lights-out time only helps if the room and the evening let you use it. You don’t need a new mattress or a gadget before trying a small fix. Pick the one change below that you can afford this week."
+        },
+        {
+          "type": "filecards",
+          "text": "Six levers for a better sleep window",
+          "image": "/images/health-fitness/06-elite/health-26/health26-image-2.webp",
+          "items": [
+            {
+              "title": "Dark room",
+              "text": "Close the blind, cover small lights and check that curtains actually meet. Daytime sleepers need this most."
+            },
+            {
+              "title": "Quiet",
+              "text": "Ask others to keep the noise down at set times, or try a fan or earplugs."
+            },
+            {
+              "title": "Comfortable temperature",
+              "text": "A slightly cool room helps most people settle. Adjust layers before buying anything new."
+            },
+            {
+              "title": "Stopping point",
+              "text": "Pack tomorrow’s lunch, leave a note for an unfinished chore and move work messages out of reach."
+            },
+            {
+              "title": "Caffeine cut-off",
+              "text": "Its effects last for hours, so many people stop about six hours before lights out."
+            },
+            {
+              "title": "Go easy on alcohol",
+              "text": "A drink can make you sleepy at first, then wake you up more during the night."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Health Canada suggests adults have no more than 400 mg of caffeine a day, about three small cups of brewed coffee. Energy drinks, strong tea and some pain relievers count too. Ask a pharmacist or clinician about medicine concerns instead of changing a prescription yourself."
         },
         {
           "type": "myths",
@@ -78,51 +201,48 @@
               "text": "Feeling sleepy after a drink doesn’t mean your sleep will be restful. Alcohol can make you wake up more during the night."
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Recovery belongs in your movement plan too. After a demanding day, choose a shorter familiar activity, an easier version or a rest day instead of adding another hard session. Regular meals and water are part of recovery, no supplements required. For example, pack your usual sandwich and fruit for after a walk after work, and bring water."
-        },
-        {
-          "type": "spotlight",
-          "text": "Make the easier option specific. “Walk gently for five minutes if it feels comfortable” is a clearer backup than “do something.” Taking a rest day is a valid choice too."
         }
       ]
     },
     {
-      "id": "story",
-      "title": "Fictional learning story: The curtain note",
+      "id": "recovery",
+      "title": "Let recovery steer the movement plan",
       "paragraphs": [],
       "blocks": [
         {
-          "type": "story",
-          "text": "The curtain note",
-          "detail": "FICTIONAL LEARNING STORY",
-          "extra": "",
-          "paragraphs": [
-            "Mara worked rotating shifts at a food plant in Saskatoon. She wanted enough energy to join her sister’s Saturday walks without spending the afternoon on the couch. Her kitchen calendar had walking dates on it, but no space marked for rest.",
-            "After three late shifts in a row, Mara slept through their meeting time. Her sister’s message was kind, but Mara worried their weekly time together would fade away. Before agreeing to another early start, she decided to look at her week.",
-            "For seven days, she privately noted the sleep window she planned and how rested she felt when she woke. The problem was clear. Laundry and grocery runs were eating the hours she meant to protect. A longer walk wouldn’t fix that.",
-            "Mara could keep the early Saturday walk or ask for a later one. She called her sister and moved the walk to the afternoon. She asked her roommate to leave the laundry until she woke up. After late shifts, she chose a ten-minute easy walk instead of her usual longer route.",
-            "The first protected morning still went badly, because sunlight spilled past the bedroom curtain. Her roommate saw the note asking for quiet and pointed out that the curtain had slipped off one hook. Fixing it took two minutes, which beat the new blackout curtains Mara had started pricing.",
-            "The next week was mixed, with one surprise shift change. Mara kept two planned sleep windows and joined the shorter Saturday walk. She didn’t pretend every tired day was gone. Beside the next walking date, she wrote “rest window” and drew a tiny curtain hook."
+          "type": "paragraph",
+          "text": "Recovery belongs in your movement plan too. Before you start, decide which kind of day it is: your usual session, an easier version or rest. Make that call based on the night you had and the day ahead, not on what the app scheduled."
+        },
+        {
+          "type": "paragraph",
+          "text": "After a short night or a demanding shift, choose a shorter familiar activity instead of adding another hard session. Regular meals and water are part of recovery, no supplements required. For example, pack your usual sandwich and fruit for after a walk after work, and bring water."
+        },
+        {
+          "type": "spotlight",
+          "text": "Make the easier option specific. “Walk gently for five minutes if it feels comfortable” is a clearer backup than “do something.” Taking a rest day is a valid choice too."
+        },
+        {
+          "type": "paragraph",
+          "text": "Low energy is different from pain or injury, which you shouldn’t push through. Tiredness that lifts after a few minutes of easy movement is normal. Pain that sharpens or a body that feels worse as you go is your signal to stop."
+        },
+        {
+          "type": "myths",
+          "items": [
+            {
+              "title": "“A missed workout must be added to tomorrow.”",
+              "text": "Doubling the next session can crowd out recovery. Go back to a manageable plan instead."
+            }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Ask for a clear change. A request like “Could the laundry wait until I wake up on Tuesday?” gives someone an easy way to help."
-        },
-        {
-          "type": "transition",
-          "text": "One small fix can protect a lot of rest.",
-          "detail": "A practical change to your schedule or space makes rest easier to keep, without rebuilding your whole life.",
-          "extra": "Section 05 gives you a fifteen-minute wind-down and a seven-day review."
+          "text": "Insider tip: Keep a simple indoor option for icy paths, extreme cold or smoky summer air. Checking local conditions before an outdoor session saves you getting ready for a route you can’t use."
         }
       ]
     },
     {
       "id": "plan",
-      "title": "Try a small recovery plan",
+      "title": "Run a seven-day recovery test",
       "paragraphs": [],
       "blocks": [
         {
@@ -159,37 +279,132 @@
           "text": "If fifteen minutes doesn’t fit, try five minutes for one helpful step. Keep essential caregiving or emergency contacts within reach. The routine is an invitation to settle down, not a test you fail if you stay awake."
         },
         {
-          "type": "spotlight",
-          "text": "A shorter wind-down is fine on a busy day. It isn’t a reason to cut into the sleep time you’re trying to protect."
-        },
-        {
           "type": "heading",
-          "text": "Observe for seven days"
+          "text": "Seven days, one change"
         },
         {
-          "type": "paragraph",
-          "text": "On days 1 to 3, privately note your planned sleep window, a rough guess at your sleep if it helps and how ready you feel for everyday tasks. On days 4 to 6, try one change, like a darker room. On day 7, review what helped and what still needs support. Repeat the week if it’s useful."
-        },
-        {
-          "type": "paragraph",
-          "text": "For movement, decide before you start whether today calls for your usual session, an easier option or rest. Low energy is different from pain or injury, which you shouldn’t push through. Stop with new pain, dizziness, chest discomfort or unusual breathlessness, and get appropriate care."
-        },
-        {
-          "type": "spotlight",
-          "text": "Change one thing at a time. Keeping the rest of your plan the same makes it easier to tell whether the change helps."
-        },
-        {
-          "type": "myths",
+          "type": "carousel",
           "items": [
             {
-              "title": "“A missed workout must be added to tomorrow.”",
-              "text": "Doubling the next session can crowd out recovery. Go back to a manageable plan instead."
+              "title": "OBSERVE",
+              "text": "Privately note your planned window, a rough guess at your sleep if it helps and how ready you feel for everyday tasks.",
+              "detail": "DAYS 1–3",
+              "icon": "search"
+            },
+            {
+              "title": "ONE CHANGE",
+              "text": "Try one change from the six levers, like a darker room or an earlier caffeine cut-off. Keep everything else the same.",
+              "detail": "DAYS 4–6",
+              "icon": "lock"
+            },
+            {
+              "title": "REVIEW",
+              "text": "Compare the two halves of the week. Note what helped, what didn’t and what still needs support from someone else.",
+              "detail": "DAY 7",
+              "icon": "filecheck"
+            },
+            {
+              "title": "REPEAT",
+              "text": "Keep the change that helped and test the next one, or repeat the same week if the first one was unusual.",
+              "detail": "DAYS 8–14",
+              "icon": "calendar"
             }
           ]
         },
         {
           "type": "spotlight",
-          "text": "Insider tip: Keep a simple indoor option for icy paths, extreme cold or smoky summer air. Checking local conditions before an outdoor session saves you getting ready for a route you can’t use."
+          "text": "Change one thing at a time. Keeping the rest of your plan the same makes it easier to tell whether the change helps."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Fictional learning story: The curtain note",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "story",
+          "text": "The curtain note",
+          "detail": "FICTIONAL LEARNING STORY",
+          "extra": "",
+          "paragraphs": [
+            "Mara worked rotating shifts at a food plant in Saskatoon. She wanted enough energy to join her sister’s Saturday walks without spending the afternoon on the couch. Her kitchen calendar had walking dates on it, but no space marked for rest.",
+            "After three late shifts in a row, Mara slept through their meeting time. Her sister’s message was kind, but Mara worried their weekly time together would fade away. Before agreeing to another early start, she decided to look at her week.",
+            "She counted back from a 3 p.m. alarm: 7 hours 30 minutes of sleep plus 20 minutes to settle meant lights out by 7:10 a.m. For seven days, she noted that window and how rested she felt. Laundry and grocery runs kept eating it. A longer walk wouldn’t fix that.",
+            "She called her sister and moved the walk to the afternoon. She asked her roommate to leave the laundry until she woke up. After late shifts, she chose a ten-minute easy walk instead of her usual longer route.",
+            "The first protected morning still went badly, because sunlight spilled past the bedroom curtain. Her roommate saw the note asking for quiet and pointed out that the curtain had slipped off one hook. Fixing it took two minutes, which beat the new blackout curtains Mara had started pricing.",
+            "The next week was mixed, with one surprise shift change. Mara kept two planned sleep windows and joined the shorter Saturday walk. She didn’t pretend every tired day was gone. Beside the next walking date, she wrote “rest window” and drew a tiny curtain hook."
+          ],
+          "image": "/images/health-fitness/06-elite/health-26/health26-image-3.webp",
+          "focus": 28,
+          "at": 2,
+          "items": [
+            {
+              "title": "3 P.M. ALARM",
+              "text": "Lights out by 7:10 a.m."
+            },
+            {
+              "title": "SEVEN DAYS",
+              "text": "Laundry ate the window"
+            },
+            {
+              "title": "TWO MINUTES",
+              "text": "Curtain back on its hook"
+            }
+          ]
+        },
+        {
+          "type": "spotlight",
+          "text": "Ask for a clear change. A request like “Could the laundry wait until I wake up on Tuesday?” gives someone an easy way to help."
+        },
+        {
+          "type": "transition",
+          "text": "One small fix can protect a lot of rest.",
+          "detail": "A practical change to your schedule or space makes rest easier to keep, without rebuilding your whole life.",
+          "extra": "Section 08 shows when rest needs more than a plan."
+        }
+      ]
+    },
+    {
+      "id": "help",
+      "title": "Know when rest needs backup",
+      "paragraphs": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This lesson is general learning, not insomnia treatment or a medical plan. A better window and a darker room help a lot of people, but some sleep problems need a professional. Knowing the difference is part of an Elite plan."
+        },
+        {
+          "type": "lists",
+          "items": [
+            {
+              "title": "STOP AND GET HELP",
+              "text": "",
+              "icon": "alert",
+              "list": [
+                "Never drive while drowsy. Pull over somewhere safe or arrange another ride.",
+                "Stop movement for new pain, dizziness, chest discomfort or unusual breathlessness, and get appropriate care."
+              ]
+            },
+            {
+              "title": "TALK TO A CLINICIAN",
+              "text": "",
+              "list": [
+                "Sleep trouble that lasts, even with a steady window.",
+                "Loud snoring with pauses in breathing.",
+                "Daytime sleepiness that gets in the way of daily tasks.",
+                "For long-lasting insomnia, the first treatment doctors usually recommend is a type of coaching called CBT-I, not sleeping pills."
+              ]
+            },
+            {
+              "title": "WHO ELSE CAN HELP",
+              "text": "",
+              "list": [
+                "A pharmacist, for questions about how a medicine or caffeine might affect your sleep.",
+                "Your provincial health line, 811 in most provinces, for advice on what kind of care fits."
+              ]
+            }
+          ]
         }
       ]
     },
@@ -206,19 +421,19 @@
           "type": "accordions",
           "items": [
             {
-              "title": "Does eight hours in bed prove eight hours asleep?",
-              "detail": "No.",
-              "text": "Time awake can use part of the sleep opportunity."
+              "title": "Your alarm is 7:00 a.m. You’re aiming for 8 hours of sleep and usually take 15 minutes to fall asleep. When is lights out?",
+              "detail": "10:45 p.m.",
+              "text": "7:00 a.m. − (8 hours + 15 minutes) = 10:45 p.m."
             },
             {
-              "title": "What can you choose after a demanding shift?",
-              "detail": "An easier familiar activity or rest can fit the day.",
-              "text": ""
+              "title": "Lights out is 11:00 p.m. Using the six-hour guide, when is your last caffeine?",
+              "detail": "About 5:00 p.m.",
+              "text": "11:00 p.m. − 6 hours = 5:00 p.m."
             },
             {
-              "title": "Should you drive when you feel drowsy?",
-              "detail": "No.",
-              "text": "Arrange a safe alternative instead."
+              "title": "You spend 8 hours in bed and are awake for about 40 minutes of it. Roughly how long did you sleep?",
+              "detail": "About 7 hours 20 minutes.",
+              "text": "8 hours − 40 minutes = 7 hours 20 minutes. Time in bed isn’t the same as time asleep."
             }
           ]
         },
@@ -235,6 +450,11 @@
               "text": "Time available includes time awake, so it cannot confirm the amount slept."
             },
             {
+              "title": "Priya’s alarm is 5:30 a.m. She aims for 7.5 hours and takes 20 minutes to settle, so lights out is 9:40 p.m. Her dishes usually run until 9:45 p.m. What fits this lesson? A. Cut her sleep to 7 hours. · B. Move the dishes earlier or ask for help. · C. Skip the wind-down every night.",
+              "detail": "B.",
+              "text": "The count-back shows a schedule clash. Moving the task protects the window instead of shrinking it."
+            },
+            {
               "title": "Sam finishes a tiring shift before a planned walk. What fits this lesson? A. Double the walking time. · B. Ignore new pain. · C. Choose an easier version or rest.",
               "detail": "C.",
               "text": "Daily demands matter when choosing activity; pain should not be pushed through."
@@ -243,17 +463,12 @@
               "title": "Jo hears that their partner snores loudly and has breathing pauses. What should Jo suggest? A. Get clinician advice. · B. Diagnose the cause from a tracker. · C. Try alcohol before sleep.",
               "detail": "A.",
               "text": "Breathing pauses need professional advice, and this course cannot identify the cause."
-            },
-            {
-              "title": "Write one sleep-support step and a review time that could fit a changing schedule.",
-              "detail": "Sample:",
-              "text": "After each late shift, I will close the blind before settling. I will review whether this was workable after seven days."
             }
           ]
         },
         {
           "type": "takeaway",
-          "text": "Protect an achievable sleep opportunity, use a simple routine, and let your movement plan include easier days and rest.",
+          "text": "Anchor your wake-up time, count back to a lights-out time you can protect, change one thing at a time, and let your movement plan include easier days and rest.",
           "detail": ""
         }
       ]
@@ -265,7 +480,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Write your own small recovery plan below. Keep detailed sleep notes and private health information in your own notebook."
+          "text": "Write your own small recovery plan below. Start with your wake-up time and count back. Keep detailed sleep notes and private health information in your own notebook."
         },
         {
           "type": "paragraph",
@@ -285,6 +500,14 @@
           "type": "glossary",
           "items": [
             {
+              "title": "Wake-time anchor",
+              "text": "A wake-up time you keep steady and plan the rest of your sleep around."
+            },
+            {
+              "title": "Lights-out time",
+              "text": "The time you aim to be in bed with the lights off, found by counting back from your wake-up time."
+            },
+            {
               "title": "Sleep opportunity",
               "text": "Time you have made available for sleep."
             },
@@ -301,8 +524,8 @@
               "text": "Time and support after activity or daily demands."
             },
             {
-              "title": "Easier day",
-              "text": "A day with less demanding movement."
+              "title": "CBT-I",
+              "text": "Cognitive behavioural therapy for insomnia, a coaching-based treatment for long-lasting sleep trouble."
             },
             {
               "title": "Drowsy",
@@ -324,6 +547,11 @@
           "type": "source",
           "text": "CSEP: Canadian 24-Hour Movement Guidelines, Adults 65+",
           "url": "https://csepguidelines.ca/guidelines/adults-65/"
+        },
+        {
+          "type": "source",
+          "text": "Health Canada: Caffeine in foods",
+          "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/food-additives/caffeine-foods.html"
         },
         {
           "type": "source",
@@ -359,7 +587,7 @@
   },
   "checkIn": {
     "questions": [
-      "Which sleep window will you protect?",
+      "What is your fixed wake-up time, and when does that put lights out?",
       "What will you try before sleep?",
       "What one change could improve your sleeping space?",
       "When will you have your last caffeine of the day?",
@@ -367,12 +595,12 @@
       "When will you review your week, and who could help?"
     ],
     "samples": [
-      "Name one kind of day and a realistic window, such as after a late shift, 8 a.m. to 3 p.m.",
+      "For example: up at 6:45 a.m., 7.5 hours plus 15 minutes, so lights out by 11:00 p.m.",
       "Quiet reading, getting the room ready, putting messages away, or not sure.",
-      "For example: fixing the curtain or asking for quiet until noon.",
-      "For example: no coffee after 2 p.m. on day-shift days.",
+      "For example: taping the gap in the blind or asking for quiet until noon.",
+      "For example: no coffee after 5 p.m. on workdays.",
       "For example: a five-minute gentle walk, or a rest day.",
-      "For example: Sunday evening. My roommate can help with the laundry schedule."
+      "For example: Sunday evening. My partner can take the late dishes on weeknights."
     ],
     "rewardLabel": "Complete this activity and get $5 plus 20 Credit Pulse points",
     "acknowledgment": "I understand this is educational information."

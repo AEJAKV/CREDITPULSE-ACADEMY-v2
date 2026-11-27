@@ -3655,6 +3655,118 @@ body[data-large-text='true'] .reader-glossary dd {
   }
 }
 
+/* Sleep-window calculator (sleepwindow block). Reuses the conversion calculator's frame, result and chips. */
+.sleep-frame .sleep-fields {
+  grid-column: 1/-1;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+.sleep-frame .sleep-fields .score-number-label {
+  min-height: 2.4em;
+  display: flex;
+  align-items: flex-end;
+}
+@media (max-width: 760px) {
+  .sleep-frame .sleep-fields {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+.sleep-frame .score-number-input[type='time'] {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Habit review calculator (habitreview block). Reuses the conversion calculator's frame, result and chips. */
+.habit-frame .habit-fields {
+  grid-column: 1/-1;
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 12px;
+}
+.habit-frame .habit-fields .score-number-label {
+  min-height: 2.4em;
+  display: flex;
+  align-items: flex-end;
+}
+.habit-frame .conv-split strong {
+  font-size: 0.98rem;
+}
+@media (max-width: 900px) {
+  .habit-frame .habit-fields {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (max-width: 560px) {
+  .habit-frame .habit-fields {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Load check calculator (loadcheck block). Reuses the conversion calculator's frame, result and chips. */
+.load-frame .load-fields {
+  grid-column: 1/-1;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+.load-frame .conv-split strong {
+  font-size: 0.98rem;
+}
+@media (max-width: 760px) {
+  .load-frame .load-fields {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Challenge review calculator (challengereview block). Reuses the conversion calculator's frame, result and chips. */
+.challenge-frame .challenge-fields {
+  grid-column: 1/-1;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+.challenge-frame .challenge-fields.is-setup {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.challenge-frame .challenge-fields .score-number-label {
+  min-height: 2.4em;
+  display: flex;
+  align-items: flex-end;
+}
+.challenge-frame .conv-split strong {
+  font-size: 0.98rem;
+}
+@media (max-width: 760px) {
+  .challenge-frame .challenge-fields,
+  .challenge-frame .challenge-fields.is-setup {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .challenge-frame .challenge-fields.is-setup > :last-child {
+    grid-column: 1/-1;
+  }
+}
+
+/* Baseline plan calculator (baselineplan block). Reuses the conversion calculator's frame, result and chips. */
+.baseline-frame .baseline-fields {
+  grid-column: 1/-1;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+.baseline-frame .baseline-fields .score-number-label {
+  min-height: 2.4em;
+  display: flex;
+  align-items: flex-end;
+}
+@media (max-width: 560px) {
+  .baseline-frame .baseline-fields {
+    grid-template-columns: 1fr;
+  }
+  .baseline-frame .baseline-fields .score-number-label {
+    min-height: 0;
+  }
+}
+
 /* Payday calculator (paydays block): three money fields, a pay-frequency picker and a progress strip. */
 .pay-frame .pay-fields {
   grid-column: 1/-1;
@@ -3742,16 +3854,16 @@ body[data-large-text='true'] .reader-glossary dd {
   background-size: cover;
   background-position: 50% 30%;
   background-repeat: no-repeat;
-  filter: grayscale(1) contrast(1.05);
-  mix-blend-mode: screen;
-  opacity: 0.3;
+  filter: grayscale(1) contrast(1.1) brightness(0.95);
+  mix-blend-mode: luminosity;
+  opacity: 0.42;
   -webkit-mask-image:
-    linear-gradient(90deg, transparent 0, #000 55%),
-    linear-gradient(180deg, transparent 0, #000 40%);
+    linear-gradient(90deg, transparent 0, #000 45%),
+    linear-gradient(180deg, transparent 0, #000 30%);
   -webkit-mask-composite: source-in;
   mask-image:
-    linear-gradient(90deg, transparent 0, #000 55%),
-    linear-gradient(180deg, transparent 0, #000 40%);
+    linear-gradient(90deg, transparent 0, #000 45%),
+    linear-gradient(180deg, transparent 0, #000 30%);
   mask-composite: intersect;
 }
 @media (max-width: 760px) {
@@ -4223,29 +4335,17 @@ body[data-focus='true'] .ambient-bg {
     -webkit-mask-image: linear-gradient(180deg, transparent 12%, #000 80%);
     mask-image: linear-gradient(180deg, transparent 12%, #000 80%);
   }
-  /* Money & Budgeting, Benefits & Support, Tax & Wealth and Health & Fitness on phones: the photo fills the panel with the face in the upper half;
+  /* Money & Budgeting, Benefits & Support, Tax & Wealth, Health & Fitness and Income & Business on phones: the photo fills the panel with the face in the upper half;
      the tagline sits at the bottom, over the part of the photo that fades out into the green.
      Many photos carry a baked-in caption along the bottom, so the fade hides it by ~72%. */
-  .lesson-article:is(
-      [data-course='money-budgeting'],
-      [data-course='benefits-support'],
-      [data-course='tax-wealth'],
-      [data-course='health-fitness']
-    )
-    .lesson-art-slide:has(.lesson-art-photo) {
+  .lesson-article:is([data-course='money-budgeting'], [data-course='benefits-support'], [data-course='tax-wealth'], [data-course='health-fitness'], [data-course='income-business']) .lesson-art-slide:has(.lesson-art-photo) {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     min-height: 440px;
     padding: 34px 27px 30px;
   }
-  .lesson-article:is(
-      [data-course='money-budgeting'],
-      [data-course='benefits-support'],
-      [data-course='tax-wealth'],
-      [data-course='health-fitness']
-    )
-    .lesson-art-photo {
+  .lesson-article:is([data-course='money-budgeting'], [data-course='benefits-support'], [data-course='tax-wealth'], [data-course='health-fitness'], [data-course='income-business']) .lesson-art-photo {
     inset: 0;
     width: 100%;
     height: 100%;
@@ -4254,14 +4354,7 @@ body[data-focus='true'] .ambient-bg {
     -webkit-mask-image: linear-gradient(180deg, #0005 0, #000 18%, #000 40%, transparent 72%);
     mask-image: linear-gradient(180deg, #0005 0, #000 18%, #000 40%, transparent 72%);
   }
-  .lesson-article:is(
-      [data-course='money-budgeting'],
-      [data-course='benefits-support'],
-      [data-course='tax-wealth'],
-      [data-course='health-fitness']
-    )
-    .lesson-art-slide:has(.lesson-art-photo)
-    h3 {
+  .lesson-article:is([data-course='money-budgeting'], [data-course='benefits-support'], [data-course='tax-wealth'], [data-course='health-fitness'], [data-course='income-business']) .lesson-art-slide:has(.lesson-art-photo) h3 {
     margin-top: auto;
     padding-top: 150px;
   }
@@ -5298,35 +5391,18 @@ body[data-large-text='true'] .photo-story .story-beat p {
   overflow: hidden;
   border-radius: 16px;
   color: #092a2b;
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 .file-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 14px 30px #153c3224;
 }
-.file-card.tone-1 {
-  background: linear-gradient(160deg, #f1fbb4, #dcf88c);
-}
-.file-card.tone-2 {
-  background: linear-gradient(160deg, #d4f77e, #c0f56d);
-}
-.file-card.tone-3 {
-  background: linear-gradient(160deg, #b4ee78, #8fd672);
-}
-.file-card.tone-4 {
-  background: linear-gradient(160deg, #16745d, #11594f);
-  color: #fff;
-}
-.file-card.tone-5 {
-  background: linear-gradient(160deg, #11594f, #0d4141);
-  color: #fff;
-}
-.file-card.tone-6 {
-  background: linear-gradient(160deg, #0d4141, #092a2b);
-  color: #fff;
-}
+.file-card.tone-1 { background: linear-gradient(160deg, #f1fbb4, #dcf88c); }
+.file-card.tone-2 { background: linear-gradient(160deg, #d4f77e, #c0f56d); }
+.file-card.tone-3 { background: linear-gradient(160deg, #b4ee78, #8fd672); }
+.file-card.tone-4 { background: linear-gradient(160deg, #16745d, #11594f); color: #fff; }
+.file-card.tone-5 { background: linear-gradient(160deg, #11594f, #0d4141); color: #fff; }
+.file-card.tone-6 { background: linear-gradient(160deg, #0d4141, #092a2b); color: #fff; }
 .file-card-mark {
   position: absolute;
   right: -10px;
@@ -5469,12 +5545,7 @@ body[data-large-text='true'] .reading-section .file-card p {
   inset: 0;
   border-radius: inherit;
   pointer-events: none;
-  background: linear-gradient(
-    115deg,
-    rgba(255, 255, 255, 0.58),
-    transparent 36%,
-    rgba(22, 116, 93, 0.07)
-  );
+  background: linear-gradient(115deg, rgba(255, 255, 255, 0.58), transparent 36%, rgba(22, 116, 93, 0.07));
 }
 .reading-section .score-frame .glass-panel h3 {
   margin: 0;
@@ -6228,7 +6299,9 @@ body[data-large-text='true'] .reading-section .file-card p {
   justify-content: center;
   align-items: center;
   padding: 56px clamp(24px, 6vw, 88px);
-  background: radial-gradient(ellipse 80% 50% at 50% 100%, #e3eed8, transparent 70%), #f6f7f1;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% 100%, #e3eed8, transparent 70%),
+    #f6f7f1;
 }
 .login-form-container {
   width: 100%;
